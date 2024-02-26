@@ -1,0 +1,2 @@
+path/to/largefile filter=lfs diff=lfs merge=lfs -text
+C:/Users/Aditi/OneDrive/Documents/GitHub/Springboard-Data-Science/HarvardXDS/Capstone1_movielens/Code/ml-10M100K filter=lfs diff=lfs merge=lfs -text
