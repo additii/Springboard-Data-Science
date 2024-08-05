@@ -1,0 +1,78 @@
+{
+  "id": 12462781,
+  "name": "State, Respondent, v. Stein, Petitioner",
+  "name_abbreviation": "State v. Stein",
+  "decision_date": "2016-08-31",
+  "docket_number": "No. 93064-3",
+  "first_page": "1004",
+  "last_page": "1004",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "186 Wash. 2d 1004"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Wash.",
+    "id": 9029,
+    "name": "Washington Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 38,
+    "name_long": "Washington",
+    "name": "Wash."
+  },
+  "cites_to": [
+    {
+      "cite": "193 Wn. App. 1003",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        12449939,
+        12449940,
+        12449941,
+        12449942
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/193/1003-01",
+        "/wash-app/193/1003-02",
+        "/wash-app/193/1003-03",
+        "/wash-app/193/1003-04"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 27,
+    "char_count": 187,
+    "ocr_confidence": 0.853,
+    "sha256": "09d204ad91b12841ad380104a3f979fc7fe565ad0dc095aa2c2f0e8bba826ffb",
+    "simhash": "1:05e15e327f655c21",
+    "word_count": 31
+  },
+  "last_updated": "2024-02-27T18:43:05.207238+00:00",
+  "provenance": {
+    "date_added": "2019-05-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "State, Respondent, v. Stein, Petitioner,"
+    ],
+    "opinions": [
+      {
+        "text": "Petition for review of a decision of the Court of Appeals, No. 71531-3-I, March 21, 2016, 193 Wn. App. 1003. Denied August 31, 2016.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "State, Respondent, v. Stein, Petitioner,\nNo. 93064-3."
+  },
+  "file_name": "1004-07",
+  "first_page_order": 990,
+  "last_page_order": 990
+}

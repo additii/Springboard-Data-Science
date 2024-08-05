@@ -1,0 +1,62 @@
+{
+  "id": 1885669,
+  "name": "LYMAN v. PIERCE",
+  "name_abbreviation": "Lyman v. Pierce",
+  "decision_date": "1872-12",
+  "docket_number": "",
+  "first_page": "584",
+  "last_page": "584",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "27 Ark. 584"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 63,
+    "char_count": 502,
+    "ocr_confidence": 0.403,
+    "sha256": "f6eb1618cfdbc9d2660b79750fc62f121a1a4cb51c5be76938a79d26ae178e0f",
+    "simhash": "1:d27b24491ae39db5",
+    "word_count": 90
+  },
+  "last_updated": "2023-07-14T21:05:16.282217+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "LYMAN v. PIERCE."
+    ],
+    "opinions": [
+      {
+        "text": "Gregg, J.\nThis cause was submitted upon the same briefs and for a decision of the same questions involved in the case of Fred. K. Lyman et al. vs. Charles L. Corwin, and Fred. K. Lyman et al. vs. H. A. Fierce, and, for the errors mentioned in the former, the judgment herein is reversed, and the cause remanded, to be proceeded in according to law.",
+        "type": "majority",
+        "author": "Gregg, J."
+      }
+    ],
+    "attorneys": [
+      "Bell \u00a7\u2022 Carlton, for Appellant.",
+      "A. II. Garland, for Appellee."
+    ],
+    "corrections": "",
+    "head_matter": "LYMAN v. PIERCE.\nAPPEAL FROM JEFFERSON CIRCUIT COURT.\nIIon. Henry B. Morse, Circuit Judge.\nBell \u00a7\u2022 Carlton, for Appellant.\nA. II. Garland, for Appellee."
+  },
+  "file_name": "0584-02",
+  "first_page_order": 600,
+  "last_page_order": 600
+}

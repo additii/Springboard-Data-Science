@@ -1,0 +1,97 @@
+{
+  "id": 1371649,
+  "name": "McCorkle v. State",
+  "name_abbreviation": "McCorkle v. State",
+  "decision_date": "1926-01-18",
+  "docket_number": "",
+  "first_page": "105",
+  "last_page": "107",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "170 Ark. 105"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [
+    {
+      "cite": "117 Pac. 134",
+      "category": "reporters:state_regional",
+      "reporter": "P.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "96 N. Y. 340",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        556193
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/96/0340-01"
+      ]
+    },
+    {
+      "cite": "85 Ark. 499",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1523276
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/85/0499-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 270,
+    "char_count": 4354,
+    "ocr_confidence": 0.502,
+    "pagerank": {
+      "raw": 4.7492960360752035e-08,
+      "percentile": 0.29776967691938794
+    },
+    "sha256": "3fac7d15f00320fb12923c1e0a8749bc2d18e007553ea7d6de651e8a7aa46c71",
+    "simhash": "1:d8be1d458a9ae4dc",
+    "word_count": 764
+  },
+  "last_updated": "2024-02-28T00:06:47.415983+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "McCorkle v. State."
+    ],
+    "opinions": [
+      {
+        "text": "Hart, J.\nHarvey McCorkle prosecutes this appeal to reverse a judgment of conviction against him for the crime of obtaining money by false pretenses.\nThe indictment charges in substance that the defendant, Harvey McCorkle, falsely represented to T. J. Garner that he was the owner of a certain bale of cotton, and that said bale of cotton had no lien against it, and thereby induced Garner to pay him $100 for said cotton.\nDr. T. J. Garner was the principal witness for the State. According to his testimony, in the fall of 1920 he bought six bales of cotton from Harvey McCorkle and paid him $700 for them. The defendant sold the six bales of cotton to the witness in Hempstead County, Ark., as Ms cotton, and the witness knew nothing about a mortgage being on the cotton. The six bales of cotton were not sold at one time, but pretty close together along in the fall. The witness paid the defendant $100 for one of the bales of cotton. The defendant made no representations whatever about the cotton. There wasn\u2019t anything said, oMy the defendant just sold the cotton as his cotton, and the witness paid Mm for it.\nRalph Routen testified that his firm had a mortgage on the cotton which was sold by the defendant to Dr. T. J. Gamer, and did not give the defendant authority to sell the cotton. The defendant did not pay the mortgage indebtedness. The cotton in question was raised by the defendant and his share-croppers on rented land.\nAccording to the testimony of the defendant, some of his share-croppers quit him, and he sold the cotton for the purpose of hiring cotton pickers to gather the balat\u00edce of his cotton crop.\nThe principles of law which we think are applicable to the facts of this case are laid down in Maxey v. State, 85 Ark. 499. In that case 'the indictment charged the defendant with the crime of obtaining money by false pretenses by falsely pretending that he had a designated sum of money on deposit in a certain bank. The proof was that the defendant presented a check to another bank and received credit for the amount thereof when he had no funds in the bank on which the check was drawn and no reasonable grounds to believe that the check would be paid by the drawee. The court said that the mere presentation of the check was not a pretense that there was money in the bank upon which it was drawn, and that the evidence was insufficient to support a verdict of guilty.\nIn the case at bar, it is not claimed that the defendant made any affirmative representation that there was no mortgage or lien on the cotton, but the prosecution is upon the theory that the defendant, by selling the cotton as his own, was guilty of obtaining money under false pretenses. It may \u00a1be inferred that the defendant suppressed the fact that he had given a mortgage on the cotton, but, even if he did so, this would not'constitute the offense of obtaining money by false pretenses.\nAs said in People v. Baker, 96 N. Y. 340, it must be borne in mind that mere silence and mere suppression of the truth, the mere withholding of knowledge upon which another may act, is not sufficient to constitute the crime o,f false pretenses. To the same effect see People v. Fitzgerald (Colo.) 117 Pac. 134, and Moulden v. State, 5 Lea (Tenn.) 577.\nThe defendant made no representation concerning the fact of whether there was a mortgage or other lien on the property, and, under the authorities cited above, the mere withholding of knowledge in that respect, is not sufficient to constitute a false pretense. There must be an affirmative false representation in the premises.\nIt follows that the judgment must be reversed, and, inasmuch as the case has been fully developed, the prosecution will be dismissed for the reason that the evidence is not legally sufficient to support a verdict of guilty.",
+        "type": "majority",
+        "author": "Hart, J."
+      }
+    ],
+    "attorneys": [
+      "J. O. A. Bush, for appellant.",
+      "H. W. Applegate, Attorney General, and Darden Moose, Assistant, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "McCorkle v. State.\nOpinion delivered January 18, 1926.\nFalse pretenses\u2014sufficiency of evidence.\u2014The mere fact that defendant sold cotton which was subject to a mortgage, without disclosing that fact, will not constitute the offense of obtaining money under false pretenses, where he made no representation concerning the fact whether there was a lien on the property or not.\nAppeal from Hempstead Circuit Court; James H. McCollum, Judge;\nreversed.\nJ. O. A. Bush, for appellant.\nH. W. Applegate, Attorney General, and Darden Moose, Assistant, for appellee."
+  },
+  "file_name": "0105-01",
+  "first_page_order": 121,
+  "last_page_order": 123
+}

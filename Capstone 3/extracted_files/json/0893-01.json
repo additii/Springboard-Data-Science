@@ -1,0 +1,231 @@
+{
+  "id": 1432101,
+  "name": "GEISREITER v. STANDARD LUMBER COMPANY",
+  "name_abbreviation": "Geisreiter v. Standard Lumber Co.",
+  "decision_date": "1933-09-25",
+  "docket_number": "4-3082",
+  "first_page": "893",
+  "last_page": "897",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "187 Ark. 893"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [
+    {
+      "cite": "288 S. W. 999",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "170 Ark. 712",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1371604
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/170/0712-01"
+      ]
+    },
+    {
+      "cite": "5 S. W. (2d) 724",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "177 Ark. 39",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        8718310
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/177/0039-01"
+      ]
+    },
+    {
+      "cite": "9 S. W. (2d) 785",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "178 Ark. 18",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1396954
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/178/0018-01"
+      ]
+    },
+    {
+      "cite": "258 S. W. 353",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "weight": 2,
+      "opinion_index": 0
+    },
+    {
+      "cite": "162 Ark. 349",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1385603
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/162/0349-01"
+      ]
+    },
+    {
+      "cite": "252 S. W. 901",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "159 Ark. 445",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        8722866
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/159/0445-01"
+      ]
+    },
+    {
+      "cite": "26 S. W. (2d) 1114",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "181 Ark. 606",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        8723934
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/181/0606-01"
+      ]
+    },
+    {
+      "cite": "31 S. W. (2d) 401",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "182 Ark. 304",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1389930
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/182/0304-01"
+      ]
+    },
+    {
+      "cite": "12 S. W. (2d) 911",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "178 Ark. 977",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1396973
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/178/0977-01"
+      ]
+    },
+    {
+      "cite": "38 S. W. (2d) 759",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "183 Ark. 800",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1441816
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/183/0800-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 508,
+    "char_count": 8093,
+    "ocr_confidence": 0.535,
+    "pagerank": {
+      "raw": 1.1471502589572913e-07,
+      "percentile": 0.5805099061759972
+    },
+    "sha256": "434a8fd6947f43e7b630e3afa8b86b19f50b2d7aeadabac4683269a659ce5497",
+    "simhash": "1:186d0d977804bb10",
+    "word_count": 1401
+  },
+  "last_updated": "2024-02-27T21:18:50.990705+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "GEISREITER v. STANDARD LUMBER COMPANY."
+    ],
+    "opinions": [
+      {
+        "text": "McHaney, J.\nUnder date of June 16, 1931, appellants, Mary Gr. Miller and Frank W. Berry, as trustees for appellant S. Greisreiter, leased to K. M. Hall a lot or parcel of land 50 feet north and south by 120 feet east and west, in the northeast corner of block 49, Dexter Harding\u2019s Addition to Pine Bluff, Arkansas, at.a monthly rental of $30, payable July 1, 1931, and on the first day of each month thereafter for a term of five years. The lease contained these clauses, among others:\n\u201cThe lessee agrees to erect a building upon the land, to be used by him for the sale of ice cream, frozen custards, drinks, cigars, cigarettes and kindred lines, and not to use the premises for any other purpose, without written agreement of lessors. The lessee shall have the right, within thirty days after the expiration of this lease, or its termination otherwise, to remove the building, provided all rent due at'the time, shall have been paid.\u201d\nHall entered into possession and immediately began the erection of the building mentioned in the lease, purchasing certain building material and supplies from appellees, which were actually used in the construction thereof. He failed to pay appellees in full for the material so purchased, and within 90 days from the date of the last item on each of their respective accounts they filed in the office of the circuit clerk affidavits for liens on the building and leasehold interest in the land, describing the property in the affidavit of Standard Lumber Company as \u201cleasehold and building situate on northeast corner of block 49, Dexter Harding\u2019s Addition,\u201d etc., and in the affidavit of Taylor Electric Company as \u201cnortheast comer 50 by 120 feet of block 49, Dexter Harding\u2019s Addition, and the building located thereon.\u201d No complaint is made of the description of the land in the affidavit of the other appellee, Barton-Mansfield Company.\nThereafter, on February 2,1932, appellees, Standard Lumber Company and Taylor Electric Company, filed suit in the chancery court to foreclose their liens on the building, the leasehold and the land. Barton-Mansfield Company intervened and sought a foreclosure of its lien. Appellants defended on the grounds hereafter discussed. Hall defaulted in the payment of rent, and on January 5, 1932, appellants brought an unlawful detainer action in the circuit court against him for possession of the property and for judgment for the rent due, which resulted in a judgment in their favor for possession and $120 for rent, and interest on April 20, 1932. Appellees were not made parties to this proceeding, although their affidavits for liens were on file in the proper office.\nThe decree in this case gave judgment against Hall in favor of appellees for their respective claims which was declared to be a lien upon the building only, prior to the rights of appellants. No lien was fixed upon the leasehold or upon the land itself. This appeal challenges the rights of appellees to a lien on the building.\n-The relationship between appellants and Hall was not that of owner and contractor, as appellants contend, but only that of lessors and lessee, and we fail to see how they can get any comfort out of the case of People\u2019s Building & Loan Ass\u2019n v. Leslie Lumber Co., 183 Ark. 800, 38 S. W. (2d) 759. While it is true that we there held that the relationship between the owner of property and the purchaser thereof under an executory contract of sale and purchase, requiring the purchaser to make certain improvements, was that of owner and contractor and not principal and agent (See also Wildwood Amusement Co. v. Stout Lumber Co., 178 Ark. 977, 12 S. W. (2d) 911), it is also true that we held in the same case that, \u201cwhere a contract for sale of land stipulated that certain improvements should be made, a materialman\u2019s lien was superior to the vendor\u2019s lien for the purchase money,\u201d and that he could not defeat such lien by a stipulation that the vendee should not create any lien on the property. Syllabi 4 and 5.\nHere, as we construe the lease, the lessors did not require the lessee to erect the building in question, but consented or stipulated that Hall might do so. The building was to be Hall\u2019s with the right to remove upon termination of the lease with all rents paid. This case is more nearly like that of Hawkins v. Faubel, 182 Ark. 304, 31 S. W. (2d) 401, where we held that the lessor, by merely consenting that the lessee may make certain improvements, does not subject the fee to a mechanic\u2019s lien, but only the leasehold estate. In other words, in order to reach the fee, the contract must be with the owner or his agent. Appellees had no contract with the owners of the fee, appellants, but only with their lessee, who was not their agent. Therefore no notice to appellants was necessary, as the fee was not involved.\nAppellants also contend that the descriptions in the affidavits of two appellees (the lumber company and the electric company) were defective. We cannot agree. In Brown v. Turnage Hardware Co., 181 Ark. 606, 26 S. W. (2d) 1114, the late Chief Justice Hart, speaking for the court, said: \u201cWe have frequently held that the statute should receive a liberal construction to effectuate its remedial purposes. All that is necessary is that a person of ordinary understanding should be able to find and recognize the premises intended by the description. The mere fact that more land was embraced in the claim filed by appellee under the statute and in the decree rendered by the court will not of itself invalidate the lien; but it will be good to the extent recognized by the statute. It is sufficient that the description points out and indicates the premises so that, by applying it to the land, the structure into which the materials are placed can be found and identified. Arkmo Lbr. Co. v. Cantrell, 159 Ark. 445, 252 S. W. 901; Ferguson Lbr. Co. v. Scriber, 162 Ark. 349, 258 S. W. 353; and Georgia State Savings Ass\u2019n v. Marrs, 178 Ark. 18, 9 S. W. (2d) 785.\u201d\nA comparison of the descriptions in the affidavits with that in the lease shows that no person could be mistaken about the identity of the property, or at least \u201ca person of ordinary understanding should be able to find and recognize the premises intended by the description. \u2019 \u2019 We therefore hold that the descriptions were sufficiently definite, and, as said in the case last cited, \u201cto hold otherwise would subject substance to form, and deny the lien to persons clearly entitled thereto under the,statute.\u201d\nIt is next urged that the affidavits for liens were not filed in time to cover all the items on the respective accounts. There is no evidence in this record that each separate purchase was made on a separate contract. The accounts themselves show them to be open running accounts, and all the material and supplies for which liens are claimed were purchased within a short space of time. For instance, the Standard Lumber Company furnished material from June 17 to July 2, a period of 15 days, and something was furnished nearly every day. The Electric Company furnished material and labor from June 22 to October 6, and its affidavit for lien was filed October 19, 1931. Barton-Mansfield Company sold material from June 19 to August 12, and its affidavit was filed September 29, 1931.\nUnder such conditions we have many times held that the 90 days begins to run from the date of the last debit item on the account. Ferguson Lumber Co. v. Scriber, 162 Ark. 349, 258 S. W. 353; Whitener v. Purifoy, 177 Ark. 39, 5 S. W. (2d) 724; Planters\u2019 Cotton Oil Co. v. Galloway, 170 Ark. 712, 288 S. W. 999.\nOther incidental questions are argued for a reversal, which we find without merit. Since there is no cross-appeal from the refusal of the court to declare a lien on the leasehold interest, we do not discuss this matter. We find no reversible error, so the decree must be affirmed.",
+        "type": "majority",
+        "author": "McHaney, J."
+      }
+    ],
+    "attorneys": [
+      "M. Danaher and Palmer Danaher, for appellant.",
+      "Rowell & Rowell, W. B. Alexander, M. L. Reinberger and Bridges, McGaughy & Bridges, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "GEISREITER v. STANDARD LUMBER COMPANY.\n4-3082\nOpinion delivered September 25, 1933.\nM. Danaher and Palmer Danaher, for appellant.\nRowell & Rowell, W. B. Alexander, M. L. Reinberger and Bridges, McGaughy & Bridges, for appellee."
+  },
+  "file_name": "0893-01",
+  "first_page_order": 913,
+  "last_page_order": 917
+}

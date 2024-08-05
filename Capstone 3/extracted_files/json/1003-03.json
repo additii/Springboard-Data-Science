@@ -1,0 +1,78 @@
+{
+  "id": 12462769,
+  "name": "State, Respondent, v. Tarrer, Petitioner",
+  "name_abbreviation": "State v. Tarrer",
+  "decision_date": "2016-08-31",
+  "docket_number": "No. 93011-2",
+  "first_page": "1003",
+  "last_page": "1003",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "186 Wash. 2d 1003"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Wash.",
+    "id": 9029,
+    "name": "Washington Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 38,
+    "name_long": "Washington",
+    "name": "Wash."
+  },
+  "cites_to": [
+    {
+      "cite": "192 Wn. App. 1035",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        12456226,
+        12456227,
+        12456228,
+        12456229
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/192/1035-01",
+        "/wash-app/192/1035-02",
+        "/wash-app/192/1035-03",
+        "/wash-app/192/1035-04"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 27,
+    "char_count": 191,
+    "ocr_confidence": 0.848,
+    "sha256": "5c0de85c2a844567ec82839f573be743f2c8c2eb8bdbc420738f0527b40b6a8a",
+    "simhash": "1:91d9623971674531",
+    "word_count": 31
+  },
+  "last_updated": "2024-02-27T18:43:05.207238+00:00",
+  "provenance": {
+    "date_added": "2019-05-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "State, Respondent, v. Tarrer, Petitioner,"
+    ],
+    "opinions": [
+      {
+        "text": "Petition for review of a decision of the Court of Appeals, No. 45998-1-II, February 9, 2016, 192 Wn. App. 1035. Denied August 31, 2016.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "State, Respondent, v. Tarrer, Petitioner,\nNo. 93011-2."
+  },
+  "file_name": "1003-03",
+  "first_page_order": 989,
+  "last_page_order": 989
+}

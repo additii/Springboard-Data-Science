@@ -1,0 +1,78 @@
+{
+  "id": 12462917,
+  "name": "Van Nhu Huynh, Petitioner, v. Leung Hing Li, Respondent",
+  "name_abbreviation": "Van Nhu Huynh v. Leung Hing Li",
+  "decision_date": "2016-11-02",
+  "docket_number": "No. 93364-2",
+  "first_page": "1022",
+  "last_page": "1022",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "186 Wash. 2d 1022"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Wash.",
+    "id": 9029,
+    "name": "Washington Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 38,
+    "name_long": "Washington",
+    "name": "Wash."
+  },
+  "cites_to": [
+    {
+      "cite": "193 Wn. App. 1035",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        12450064,
+        12450065,
+        12450062,
+        12450063
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/193/1035-03",
+        "/wash-app/193/1035-04",
+        "/wash-app/193/1035-01",
+        "/wash-app/193/1035-02"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 31,
+    "char_count": 204,
+    "ocr_confidence": 0.87,
+    "sha256": "b47906a9940e98d932e7b2d18372aa9383997b3997fca59693b3c31abcca6824",
+    "simhash": "1:c599623d7b4d4d47",
+    "word_count": 35
+  },
+  "last_updated": "2024-02-27T18:43:05.207238+00:00",
+  "provenance": {
+    "date_added": "2019-05-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Van Nhu Huynh, Petitioner, v. Leung Hing Li, Respondent,"
+    ],
+    "opinions": [
+      {
+        "text": "Petition for review of a decision of the Court of Appeals, No. 73457-1-I, April 25, 2016, 193 Wn. App. 1035. Denied November 2, 2016.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Van Nhu Huynh, Petitioner, v. Leung Hing Li, Respondent,\nNo. 93364-2."
+  },
+  "file_name": "1022-03",
+  "first_page_order": 1008,
+  "last_page_order": 1008
+}

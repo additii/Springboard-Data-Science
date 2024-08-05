@@ -1,0 +1,78 @@
+{
+  "id": 12462887,
+  "name": "State, Respondent, v. Mabry, Petitioner",
+  "name_abbreviation": "State v. Mabry",
+  "decision_date": "2016-11-02",
+  "docket_number": "No. 93218-2",
+  "first_page": "1018",
+  "last_page": "1018",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "186 Wash. 2d 1018"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Wash.",
+    "id": 9029,
+    "name": "Washington Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 38,
+    "name_long": "Washington",
+    "name": "Wash."
+  },
+  "cites_to": [
+    {
+      "cite": "193 Wn. App. 1050",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        12450120,
+        12450121,
+        12450118,
+        12450119
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/193/1050-03",
+        "/wash-app/193/1050-04",
+        "/wash-app/193/1050-01",
+        "/wash-app/193/1050-02"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 27,
+    "char_count": 187,
+    "ocr_confidence": 0.853,
+    "sha256": "05de6ac724c2f061ce6f3a99488edfecec204ec5b94db17b88a5b7f38f65fecd",
+    "simhash": "1:899d4abd13cd44f3",
+    "word_count": 31
+  },
+  "last_updated": "2024-02-27T18:43:05.207238+00:00",
+  "provenance": {
+    "date_added": "2019-05-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "State, Respondent, v. Mabry, Petitioner,"
+    ],
+    "opinions": [
+      {
+        "text": "Petition for review of a decision of the Court of Appeals, No. 47036-5-II, May 10, 2016, 193 Wn. App. 1050. Denied November 2, 2016.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "State, Respondent, v. Mabry, Petitioner,\nNo. 93218-2."
+  },
+  "file_name": "1018-05",
+  "first_page_order": 1004,
+  "last_page_order": 1004
+}

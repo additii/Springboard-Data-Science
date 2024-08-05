@@ -1,0 +1,103 @@
+{
+  "id": 8723793,
+  "name": "Johnson v. Beede",
+  "name_abbreviation": "Johnson v. Beede",
+  "decision_date": "1932-11-28",
+  "docket_number": "4-2747",
+  "first_page": "558",
+  "last_page": "559",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "186 Ark. 558"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [
+    {
+      "cite": "142 S. W. 165",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "101 Ark. 223",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1311026
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/101/0223-01"
+      ]
+    },
+    {
+      "cite": "58 S. W. 1050",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "68 Ark. 360",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1334110
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/68/0360-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 185,
+    "char_count": 2590,
+    "ocr_confidence": 0.526,
+    "pagerank": {
+      "raw": 6.087085966315723e-08,
+      "percentile": 0.3770219808181867
+    },
+    "sha256": "f9d46c14aabe3b3b8679d4c33a4f32b6757e1febca42d3d28de67a210ac62ede",
+    "simhash": "1:bf2eec455ad4b314",
+    "word_count": 443
+  },
+  "last_updated": "2024-02-27T17:52:01.123529+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Johnson v. Beede."
+    ],
+    "opinions": [
+      {
+        "text": "Humphreys, J.\nThe sole question presented by this appeal is whether the circuit court of Jackson County erred in dismissing appellants\u2019 petitions to exempt Bicli-woods and Cow Lake townships from the county-wide stock law adopted by the voters of Jackson County at the general election on November 4, 1930, because said petitions for the exemption thereof were not filed before the county- court within three months after the adoption of the county-wide stock law. Under the law, as it existed when the county-wide stock law was adopted, a majority of the voters in any township in said county were privileged by petition within six months from the date of the adoption to exempt the township from the provisions of the stock law. A majority of the voters in each of said townships filed petitions for this purpose on February 23, 1931, more than three months after the adoption of the stock law by the counties; but, in the meantime, and before the petitions were filed, act 44 of the Acts of 1931 \u25a0was passed amending \u00a7 324 of Crawford & Moses\u2019 Digest as amended by act 206, Acts of 1925, by allowing petitioners in the several townships in said counties only three instead of six months in which to petition to exempt the townships after the adoption of the general stock law. The circuit court, on appeal from the county court, dismissed the petitions of appellants for the reason that they were not filed within the three months after the adoption of the general stock law.\nAppellants contend that the court erred in dismissing the petitions for the alleged reason that the effect of the amendment changing the time from six to three months in which they might file petitions to exempt their townships from the provisions of the general stock law deprived them of vested rights. This argument would be sound if amendatory act 44 of 1931 swept away any contractual obligation or title, legal or equitable, to the enjoyment of property. The amendatory act operated upon a remedy only by changing the time from six to three months in which appellants might file petitions to exempt their townships from the provisions of the general stock law from the date of the adoption thereof. One does not have a vested right in remedies or matters of procedure. Steers v. Kinsey, 68 Ark. 360, 58 S. W. 1050; Little Rock Railway & Electric Company v. Dowell, 101 Ark. 223, 142 S. W. 165.\nNo error appearing, the judgment is affirmed.",
+        "type": "majority",
+        "author": "Humphreys, J."
+      }
+    ],
+    "attorneys": [
+      "J. Fred Parish and Coleman & Reeder, for appellants.",
+      "F. M. Pickens and Jones & Wharton, for appellees."
+    ],
+    "corrections": "",
+    "head_matter": "Johnson v. Beede.\n4-2747\nOpinion delivered November 28, 1932.\nJ. Fred Parish and Coleman & Reeder, for appellants.\nF. M. Pickens and Jones & Wharton, for appellees."
+  },
+  "file_name": "0558-01",
+  "first_page_order": 578,
+  "last_page_order": 579
+}

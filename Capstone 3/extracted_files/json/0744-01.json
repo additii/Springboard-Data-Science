@@ -1,0 +1,1007 @@
+{
+  "id": 12462748,
+  "name": "Bryent Finch et al., Petitioners, v. Thurston County et al., Respondents",
+  "name_abbreviation": "Finch v. Thurston County",
+  "decision_date": "2016-10-13",
+  "docket_number": "No. 91761-2",
+  "first_page": "744",
+  "last_page": "768",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "186 Wash. 2d 744"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Wash.",
+    "id": 9029,
+    "name": "Washington Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 38,
+    "name_long": "Washington",
+    "name": "Wash."
+  },
+  "cites_to": [
+    {
+      "cite": "886 P.2d 556",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1994,
+      "opinion_index": 0
+    },
+    {
+      "cite": "125 Wn.2d 456",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        437227
+      ],
+      "year": 1994,
+      "pin_cites": [
+        {
+          "page": "463"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/125/0456-01"
+      ]
+    },
+    {
+      "cite": "181 P.3d 806",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2008,
+      "pin_cites": [
+        {
+          "parenthetical": "citing Price v. Kitsap Transit, 125 Wn.2d 456, 463, 886 P.2d 556 (1994)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "163 Wn.2d 361",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        5682095
+      ],
+      "year": 2008,
+      "pin_cites": [
+        {
+          "page": "371",
+          "parenthetical": "citing Price v. Kitsap Transit, 125 Wn.2d 456, 463, 886 P.2d 556 (1994)"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/163/0361-01"
+      ]
+    },
+    {
+      "cite": "567 P.2d 218",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1977,
+      "opinion_index": 0
+    },
+    {
+      "cite": "88 Wn.2d 855",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1111204
+      ],
+      "year": 1977,
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/88/0855-01"
+      ]
+    },
+    {
+      "cite": "256 U.S. 335",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3678877
+      ],
+      "weight": 3,
+      "year": 1921,
+      "pin_cites": [
+        {
+          "page": "343"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/256/0335-01"
+      ]
+    },
+    {
+      "cite": "452 P.2d 729",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "weight": 2,
+      "year": 1969,
+      "pin_cites": [
+        {
+          "page": "871"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "75 Wn.2d 522",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1082935
+      ],
+      "year": 1969,
+      "pin_cites": [
+        {
+          "page": "531"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/75/0522-01"
+      ]
+    },
+    {
+      "cite": "621 P.2d 138",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1980,
+      "pin_cites": [
+        {
+          "parenthetical": "citing Ulmer v. Ford Motor Co., 75 Wn.2d 522, 531, 452 P.2d 729 (1969)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "94 Wn.2d 867",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1164056
+      ],
+      "year": 1980,
+      "pin_cites": [
+        {
+          "page": "870-71",
+          "parenthetical": "citing Ulmer v. Ford Motor Co., 75 Wn.2d 522, 531, 452 P.2d 729 (1969)"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/94/0867-01"
+      ]
+    },
+    {
+      "cite": "2016 U.S. Dist. LEXIS 69433",
+      "category": "reporters:specialty_lexis",
+      "reporter": "U.S. Dist. LEXIS",
+      "year": 2016,
+      "pin_cites": [
+        {
+          "page": "*12"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "2016 WL 3017704",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "year": 2016,
+      "pin_cites": [
+        {
+          "page": "*5"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "550 P.2d 7",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1976,
+      "opinion_index": 0
+    },
+    {
+      "cite": "87 Wn.2d 195",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1113805
+      ],
+      "year": 1976,
+      "pin_cites": [
+        {
+          "page": "196"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/87/0195-01"
+      ]
+    },
+    {
+      "cite": "210 P.3d 308",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2009,
+      "pin_cites": [
+        {
+          "parenthetical": "citing Garrison v. Wash. State Nursing Bd., 87 Wn.2d 195, 196, 550 P.2d 7 (1976)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "166 Wn.2d 489",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4002044
+      ],
+      "year": 2009,
+      "pin_cites": [
+        {
+          "page": "498",
+          "parenthetical": "citing Garrison v. Wash. State Nursing Bd., 87 Wn.2d 195, 196, 550 P.2d 7 (1976)"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/166/0489-01"
+      ]
+    },
+    {
+      "cite": "115 P.3d 281",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2005,
+      "opinion_index": 0
+    },
+    {
+      "cite": "154 Wn.2d 596",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        5629022
+      ],
+      "year": 2005,
+      "pin_cites": [
+        {
+          "page": "600"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/154/0596-01"
+      ]
+    },
+    {
+      "cite": "159 P.3d 846",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2007,
+      "pin_cites": [
+        {
+          "parenthetical": "citing State v. Jacobs, 154 Wn.2d 596, 600, 115 P.3d 281 (2005)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "159 Wn.2d 700",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        3592816
+      ],
+      "year": 2007,
+      "pin_cites": [
+        {
+          "page": "708",
+          "parenthetical": "citing State v. Jacobs, 154 Wn.2d 596, 600, 115 P.3d 281 (2005)"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/159/0700-01"
+      ]
+    },
+    {
+      "cite": "998 P.2d 282",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 2000,
+      "opinion_index": 0
+    },
+    {
+      "cite": "140 Wn.2d 436",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1119551
+      ],
+      "year": 2000,
+      "pin_cites": [
+        {
+          "page": "450"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/140/0436-01"
+      ]
+    },
+    {
+      "cite": "28 P.3d 720",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2001,
+      "pin_cites": [
+        {
+          "parenthetical": "citing State v. Chapman, 140 Wn.2d 436, 450, 998 P.2d 282 (2000)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "144 Wn.2d 472",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        970387
+      ],
+      "year": 2001,
+      "pin_cites": [
+        {
+          "page": "480",
+          "parenthetical": "citing State v. Chapman, 140 Wn.2d 436, 450, 998 P.2d 282 (2000)"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/144/0472-01"
+      ]
+    },
+    {
+      "cite": "357 P.3d 666",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2015,
+      "opinion_index": 0
+    },
+    {
+      "cite": "184 Wn.2d 1001",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        12440946,
+        12440947,
+        12440948,
+        12440949,
+        12440950
+      ],
+      "year": 2015,
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/184/1001-01",
+        "/wash-2d/184/1001-02",
+        "/wash-2d/184/1001-03",
+        "/wash-2d/184/1001-04",
+        "/wash-2d/184/1001-05"
+      ]
+    },
+    {
+      "cite": "160 P.3d 55",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2007,
+      "pin_cites": [
+        {
+          "parenthetical": "\"Because a dog is an instrument that can be used to cause death or substantial bodily harm, we hold that a dog can be a 'deadly weapon' under RCW 9A.04.110(6).\""
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "139 Wn. App. 225",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        3838810
+      ],
+      "year": 2007,
+      "pin_cites": [
+        {
+          "page": "230",
+          "parenthetical": "\"Because a dog is an instrument that can be used to cause death or substantial bodily harm, we hold that a dog can be a 'deadly weapon' under RCW 9A.04.110(6).\""
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-app/139/0225-01"
+      ]
+    },
+    {
+      "cite": "41 P.3d 510",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2002,
+      "pin_cites": [
+        {
+          "parenthetical": "where Washington's definition of covered employment is exceedingly broad, its \"exemptions must be read narrowly''"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "110 Wn. App. 440",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        1123631
+      ],
+      "year": 2002,
+      "pin_cites": [
+        {
+          "page": "460",
+          "parenthetical": "where Washington's definition of covered employment is exceedingly broad, its \"exemptions must be read narrowly''"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-app/110/0440-01"
+      ]
+    },
+    {
+      "cite": "996 P.2d 582",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 2000,
+      "opinion_index": 1
+    },
+    {
+      "cite": "140 Wn.2d 291",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1119532
+      ],
+      "year": 2000,
+      "pin_cites": [
+        {
+          "page": "301"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/140/0291-01"
+      ]
+    },
+    {
+      "cite": "142 P.3d 155",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2006,
+      "pin_cites": [
+        {
+          "parenthetical": "noting \" '[e]xemp-tions from remedial legislation' \" are \" 'narrowly construed' \" (alteration in original) (quoting Drinkwitz v. Alliant Techsystems, Inc., 140 Wn.2d 291, 301, 996 P.2d 582 (2000))"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "158 Wn.2d 194",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        3086237
+      ],
+      "year": 2006,
+      "pin_cites": [
+        {
+          "page": "202",
+          "parenthetical": "noting \" '[e]xemp-tions from remedial legislation' \" are \" 'narrowly construed' \" (alteration in original) (quoting Drinkwitz v. Alliant Techsystems, Inc., 140 Wn.2d 291, 301, 996 P.2d 582 (2000))"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/158/0194-01"
+      ]
+    },
+    {
+      "cite": "328 P.3d 895",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2014,
+      "pin_cites": [
+        {
+          "parenthetical": "emphasis added"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "180 Wn.2d 754",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4242206
+      ],
+      "year": 2014,
+      "pin_cites": [
+        {
+          "page": "766",
+          "parenthetical": "emphasis added"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/180/0754-01"
+      ]
+    },
+    {
+      "cite": "594 P.2d 917",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1979,
+      "opinion_index": 1
+    },
+    {
+      "cite": "92 Wn.2d 128",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1099607
+      ],
+      "year": 1979,
+      "pin_cites": [
+        {
+          "page": "133"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/92/0128-01"
+      ]
+    },
+    {
+      "cite": "881 P.2d 1040",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1994,
+      "pin_cites": [
+        {
+          "parenthetical": "quoting State v. Huntzinger, 92 Wn.2d 128, 133, 594 P.2d 917 (1979)"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "125 Wn.2d 146",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        437004
+      ],
+      "year": 1994,
+      "pin_cites": [
+        {
+          "page": "148",
+          "parenthetical": "quoting State v. Huntzinger, 92 Wn.2d 128, 133, 594 P.2d 917 (1979)"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/125/0146-01"
+      ]
+    },
+    {
+      "cite": "164 P.3d 475",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2007,
+      "pin_cites": [
+        {
+          "parenthetical": "quoting State v. Krall, 125 Wn.2d 146, 148, 881 P.2d 1040 (1994) (quoting State v. Huntzinger, 92 Wn.2d 128, 133, 594 P.2d 917 (1979))"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "161 Wn.2d 129",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        3802111
+      ],
+      "year": 2007,
+      "pin_cites": [
+        {
+          "page": "146",
+          "parenthetical": "quoting State v. Krall, 125 Wn.2d 146, 148, 881 P.2d 1040 (1994) (quoting State v. Huntzinger, 92 Wn.2d 128, 133, 594 P.2d 917 (1979))"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/161/0129-01"
+      ]
+    },
+    {
+      "cite": "43 P.3d 4",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2002,
+      "opinion_index": 1
+    },
+    {
+      "cite": "146 Wn.2d 1",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        960829
+      ],
+      "year": 2002,
+      "pin_cites": [
+        {
+          "page": "9-10"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/146/0001-01"
+      ]
+    },
+    {
+      "cite": "237 P.3d 256",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2010,
+      "pin_cites": [
+        {
+          "parenthetical": "citing Dep't of Ecology v. Campbell & Gwinn, LLC, 146 Wn.2d 1, 9-10, 43 P.3d 4 (2002)"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "169 Wn.2d 304",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4010346
+      ],
+      "year": 2010,
+      "pin_cites": [
+        {
+          "page": "309",
+          "parenthetical": "citing Dep't of Ecology v. Campbell & Gwinn, LLC, 146 Wn.2d 1, 9-10, 43 P.3d 4 (2002)"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/169/0304-01"
+      ]
+    },
+    {
+      "cite": "145 F.3d 1087",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        1344499
+      ],
+      "year": 1998,
+      "pin_cites": [
+        {
+          "page": "1090-91",
+          "parenthetical": "victim of police dog attack sustained severe lacerations, fractures, and tendon damage necessitating two skin graft surgeries"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/f3d/145/1087-01"
+      ]
+    },
+    {
+      "cite": "181 Ariz. 159",
+      "category": "reporters:state",
+      "reporter": "Ariz.",
+      "case_ids": [
+        1466273
+      ],
+      "weight": 2,
+      "year": 1994,
+      "pin_cites": [
+        {
+          "page": "165",
+          "parenthetical": "\"no difference between a police officer directing a dog to attack a person\" and the officer \"directing a blow at a person with a baton\""
+        },
+        {
+          "parenthetical": "\"no difference between a police officer directing a dog to attack a person\" and the officer \"directing a blow at a person with a baton\""
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/ariz/181/0159-01"
+      ]
+    },
+    {
+      "cite": "847 F. Supp. 760",
+      "category": "reporters:federal",
+      "reporter": "F. Supp.",
+      "case_ids": [
+        171910
+      ],
+      "weight": 2,
+      "year": 1994,
+      "pin_cites": [
+        {
+          "page": "764",
+          "parenthetical": "police dog is \"one 'weapon' in [the handler's] arsenal\""
+        },
+        {
+          "page": "762",
+          "parenthetical": "police dog attacked two children during traffic stop, biting the girls' heads and causing injuries and psychological trauma"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/f-supp/847/0760-01"
+      ]
+    },
+    {
+      "cite": "854 F.2d 909",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10534824
+      ],
+      "weight": 5,
+      "year": 1988,
+      "pin_cites": [
+        {
+          "page": "914"
+        },
+        {
+          "page": "913",
+          "parenthetical": "acknowledging that police dog can be a dangerous law enforcement tool: \"The dogs' ability to aid law enforcement would be minimal if they did not possess this trait\""
+        },
+        {
+          "page": "911",
+          "parenthetical": "victim of police dog attack killed when bitten on the neck"
+        },
+        {
+          "page": "912",
+          "parenthetical": "police dog acted \"consistent with its training\" and yet accidentally killed suspect"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/f2d/854/0909-01"
+      ]
+    },
+    {
+      "cite": "745 P.2d 1295",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1987,
+      "opinion_index": 1
+    },
+    {
+      "cite": "109 Wn.2d 467",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1186064
+      ],
+      "year": 1987,
+      "pin_cites": [
+        {
+          "page": "479-80"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/109/0467-01"
+      ]
+    },
+    {
+      "cite": "721 P.2d 1",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "weight": 2,
+      "year": 1986,
+      "opinion_index": 1
+    },
+    {
+      "cite": "106 Wn.2d 1",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1195495
+      ],
+      "year": 1986,
+      "pin_cites": [
+        {
+          "page": "6"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/106/0001-01"
+      ]
+    },
+    {
+      "cite": "192 P.3d 886",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2008,
+      "opinion_index": 1
+    },
+    {
+      "cite": "164 Wn.2d 545",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        3996414
+      ],
+      "year": 2008,
+      "pin_cites": [
+        {
+          "page": "552"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/164/0545-01"
+      ]
+    },
+    {
+      "cite": "186 Wn. App. 1035",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        4172857,
+        4173667,
+        4173780
+      ],
+      "year": 2015,
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-app/186/1035-01",
+        "/wash-app/186/1035-02",
+        "/wash-app/186/1035-03"
+      ]
+    },
+    {
+      "cite": "401 P.2d 971",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1965,
+      "pin_cites": [
+        {
+          "parenthetical": "the function and province of the jury is to weigh the evidence, determine credibility, and decide disputed questions of fact"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "66 Wn.2d 278",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1045379
+      ],
+      "year": 1965,
+      "pin_cites": [
+        {
+          "page": "279",
+          "parenthetical": "the function and province of the jury is to weigh the evidence, determine credibility, and decide disputed questions of fact"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/66/0278-01"
+      ]
+    },
+    {
+      "cite": "2016 U.S. Dist. LEXIS 69433",
+      "category": "reporters:specialty_lexis",
+      "reporter": "U.S. Dist. LEXIS",
+      "year": 2016,
+      "opinion_index": 1
+    },
+    {
+      "cite": "2016 WL 3017704",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "year": 2016,
+      "opinion_index": 1
+    },
+    {
+      "cite": "357 P.3d 666",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2015,
+      "opinion_index": 1
+    },
+    {
+      "cite": "184 Wn.2d 1001",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        12440946,
+        12440947,
+        12440948,
+        12440949,
+        12440950
+      ],
+      "year": 2015,
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/184/1001-01",
+        "/wash-2d/184/1001-02",
+        "/wash-2d/184/1001-03",
+        "/wash-2d/184/1001-04",
+        "/wash-2d/184/1001-05"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1746,
+    "char_count": 47550,
+    "ocr_confidence": 0.884,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2576574927727447
+    },
+    "sha256": "4e7c912b8b39bef817f8c6313aa2446c56b9eb9881be626d0788ea56afa2601c",
+    "simhash": "1:0a00b3eb772cdfef",
+    "word_count": 8001
+  },
+  "last_updated": "2024-02-27T18:43:05.207238+00:00",
+  "provenance": {
+    "date_added": "2019-05-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Fairhurst, Stephens, Gordon McCloud, and Yu, JJ., concur.",
+      "Johnson, Owens, and Wiggins, JJ., concur with Madsen, C. J."
+    ],
+    "parties": [
+      "Bryent Finch et al., Petitioners, v. Thurston County et al., Respondents."
+    ],
+    "opinions": [
+      {
+        "text": "Gonz\u00e1lez, J.\n\u00b61 A police dog bit a police officer during a nighttime search for a burglary suspect in an abandoned building. Dog owners are usually strictly liable for dog bite damages. RCW 16.08.040. In other words, if strict liability applies, the injured person does not have to prove that the owner was negligent or aware that the dog posed a threat. If strict liability applies in this case, it appears the only issue for the jury would be the amount of damages. However, there is a statutory exception to strict liability for dog bites caused by the \u201clawful application of a police dog.\u201d RCW 16.08.040(2).\n\u00b62 This case asks us to decide whether the police dog was lawfully applied under the statute, thereby exempting the county from strict liability. We hold that the specially trained police dog was lawfully applied because he was performing a job duty under the control of a dog handler when the injury occurred. Therefore, we find the county is not subject to strict liability. We affirm.\nBackground\n\u00b63 On November 14, 2010, Bryent Finch, a Tumwater police officer, responded to a call to investigate a possible burglary in progress at the old Olympia Brewery. After surveying the scene, Finch requested a \u201cK-9\u201d unit to help search the brewery. Deputy Rod Ditrich of the Thurston County Sheriff\u2019s Office responded with his police dog, Rex.\n\u00b64 The officers decided that Finch would assist Ditrich and Rex search the brewery. The building was dark inside except for the officers\u2019 flashlights. Finch, Ditrich, and Rex entered the building, and Ditrich loudly announced their presence. When no one responded, Ditrich commanded Rex to search the building. Rex, unleashed, ran ahead of the officers, tracking the scent of the suspect in and out of rooms.\n\u00b65 The officers followed Rex into a dark room where the suspect was hiding. Ditrich called Rex back to him, saying, \u201c[H]ere, here, here.\u201d Clerk\u2019s Papers (CP) at 287. At this point, both parties largely agree that Finch saw the suspect, that Finch shouted at him to show his hands, and that Rex bit Finch as Rex returned to Ditrich. Ditrich had to physically pull Rex off of Finch before taking the suspect into custody. Finch drove himself to the hospital, where he underwent surgery for his injuries.\n\u00b66 Finch sued Thurston County and others on June 6, 2012 for his injuries, alleging negligence, outrage, and strict liability under RCW 16.08.040. The next day, Substitute House Bill 2191, 62d Leg., Reg. Sess. (Wash. 2012) came into effect, exempting \u201cthe lawful application of a police dog\u201d from strict liability under RCW 16.08.040. Laws of 2012, ch. 94, \u00a7 1(2). On cross motions for partial summary judgment, the trial court dismissed Finch\u2019s statutory strict liability claim. The trial court concluded that the bite occurred during a \u201clawful application of a police dog,\u201d exempting the county from strict liability under RCW 16.08.040(2) because the police dog was used \u201cto aid an officer in searching an area.\u201d Verbatim Report of Proceedings at 14-15. Finch voluntarily dismissed his remaining claims for negligence and outrage.\n\u00b67 Finch appealed the dismissal of his strict liability claim, arguing that Rex\u2019s bite was not a lawful application of a police dog. The Court of Appeals affirmed and held that the legislature had abolished strict liability claims for injuries resulting from lawfully used police dogs. Finch v. Thurston County, No. 45792-0-II, slip op. at 1-2 (Wash. Ct. App. Mar. 24, 2015) (unpublished), http://www.courts.wa.gov/opinions/pdf/D2%2045792-0-II%20%20Unpublished%20Opinion.pdf. We granted review. 184 Wn.2d 1001, 357 P.3d 666 (2015).\nAnalysis\n\u00b68 Finch argues that Thurston County is strictly liable for his dog bite injury because Rex\u2019s bite was not a \u201clawful application of a police dog\u201d within the meaning of RCW 16.08.040(2). We disagree. Because Rex was being used by a law enforcement agency, was specially trained for law enforcement work, and was under the control of a dog handler when the bite occurred, Rex was lawfully applied for purposes of the strict liability exemption.\n\u00b69 In 1941, the legislature enacted a statute, now codified as RCW 16.08.040, making a dog owner strictly liable for injuries caused by her dog. Laws of 1941, ch. 77 \u00a7 1. The statute states:\nThe owner of any dog which shall bite any person while such person is in or on a public place or lawfully in or on a private place including the property of the owner of such dog, shall be liable for such damages as may be suffered by the person bitten, regardless of the former viciousness of such dog or the owner\u2019s knowledge of such viciousness.\nRCW 16.08.040(1). In 2012, the legislature amended the statute, carving out an exemption from strict liability for police dogs. Laws of 2012, ch. 94, \u00a7 1 (adding subsection (2)). Under the exemption, strict liability \u201cdoes not apply to the lawful application of a police dog, as defined in RCW 4.24.410.\u201d RCW 16.08.040(2). RCW 4.24.410 defines a \u201cpolice dog\u201d as \u201ca dog used by a law enforcement agency specially trained for law enforcement work and under the control of a dog handler.\u201d RCW 4.24.410(1)(a).\n\u00b610 Unfortunately, neither statute defines the \u201clawful application of a police dog.\u201d Both parties argue the statute\u2019s meaning is plain on its face. If a \u201cstatute\u2019s meaning is plain on its face, then courts must give effect to its plain meaning as an expression of what the Legislature intended.\u201d State v. J.M., 144 Wn.2d 472, 480, 28 P.3d 720 (2001) (citing State v. Chapman, 140 Wn.2d 436, 450, 998 P.2d 282 (2000)). The court determines plain meaning \u201cfrom the ordinary meaning of the language used in the context of the entire statute in which the particular provision is found, related statutory provisions, and the statutory scheme as a whole.\u201d Bostain v. Food Express, Inc., 159 Wn.2d 700, 708, 159 P.3d 846 (2007) (citing State v. Jacobs, 154 Wn.2d 596, 600, 115 P.3d 281 (2005)).\n\u00b611 To determine the plain meaning of an undefined term, we may also look to the dictionary. Estate of Haselwood v. Bremerton Ice Arena, Inc., 166 Wn.2d 489, 498, 210 P.3d 308 (2009) (citing Garrison v. Wash. State Nursing Bd., 87 Wn.2d 195, 196, 550 P.2d 7 (1976)). \u201cApplication\u201d has a number of definitions, including \u201cemployment as a means : specific use.\u201d Webster\u2019s Third New International Dictionary 105 (2002). \u201cLawful\u201d is defined as \u201callowed or permitted by law.\u201d Id. at 1279. We find these definitions illuminating. Together, they define \u201clawful application\u201d of a police dog as the (1) employment or specific use of a police dog (2) as allowed by law.\n\u00b612 State regulations have defined the specific uses that police dogs may be trained to carry out. Police dogs may be trained to assist in general patrol and investigations, tracking and trailing persons, building and vehicle searches, and drug and bomb detection. See WAC 139-05-915(4). Police dogs may also be trained \u201csolely for self-protection and assistance in hostile or potentially hostile situations.\u201d WAC 139-05-915(4)(d). Thus, when a police dog is on duty and used for a purpose consistent with its training and certification, the police dog has been lawfully applied within the meaning of RCW 16.08.040(2) and strict liability will not apply.\n\u00b613 Finch argues that there is an \u201capplication\u201d of a police dog under RCW 16.08.040(2) only when the handler orders the dog to bite someone. Pet. for Review at 15. This reading, however, does not take into account the myriad of situations police dogs are trained for, including training to bite in certain circumstances without a direct order. For example, police dogs are trained in \u201c[m] aster protection\u201d\u2014to protect their handlers in the event that the handler is attacked or injured\u2014and will bite the assailant without a command to do so. WAC 139-05-915(4)(a)(xii), (d); see also CP at 148. But under Finch\u2019s interpretation, municipalities would be strictly liable for any dog bite made without a command. Neither the plain language nor the legislative history of the exemption supports this narrow interpretation. We decline to adopt it.\n\u00b614 In this case, the trained police dog, Rex, was on duty and was dispatched to the scene to be used for a specific purpose: to perform a building search for a suspect. At this point, Rex had been lawfully applied for this particular situation. Although Rex bit someone who was not a \u201csuspect\u201d while he was lawfully applied, the county is not strictly liable for those injuries. As the Court of Appeals correctly stated below, \u201cThe fact that Finch was mistakenly bitten by Rex does not convert a lawful use of Rex to an unlawful use.\u201d Finch, slip op. at 6. State action does not become unlawful merely because it was predicated on a mistake. See generally Roger J. Traynor, The Riddle of Harmless Error 3, 9 (1970). Accordingly, we hold that the use of Rex was a lawful application of a police dog and that under RCW 16.08.040(2), Thurston County is exempt from strict liability for the injuries to Finch. Our decision is bolstered by a recent decision of a federal court concluding the exception applied when a police dog and police handler \u201cme[ ]t the requirements to be classified as a \u2018police dog\u2019 and \u2018dog handler,\u2019 respectively.\u201d Germain v. City of Seattle, 2016 WL 3017704, at *5, 2016 U.S. Dist. LEXIS 69433, at *12 (W.D. Wash. May 25, 2016).\n\u00b615 Finch suggests that exempting municipalities from strict liability in instances such as this one would eliminate a remedy for \u201cinnocent\u201d dog bite victims. Pet. for Review at 13-14, 20. We find this argument unpersuasive. While RCW 16.08.040(2) carves out an exemption from a strict liability statute, the exemption does not mean the police department or municipality is immune from suit in every instance a police dog bites someone. The unavailability of a strict liability claim does not preclude plaintiffs from pursuing other causes of action against municipalities, such as negligence, civil rights violations, or assault, along with or in lieu of a strict liability claim. Arnold v. Laird, 94 Wn.2d 867, 870-71, 621 P.2d 138 (1980) (citing Ulmer v. Ford Motor Co., 75 Wn.2d 522, 531, 452 P.2d 729 (1969)). \u201c[A] negligence cause of action arises where there is ineffective control of an animal in a situation where it would reasonably be expected that injury could occur, and injury does proximately result from the negligence.\u201d Id. at 871. Additionally, there could be situations where municipalities were negligent in adequately training or certifying a police dog for use in the field. Thus, a remedy may be available for plaintiffs for their injuries even if strict liability is not available.\nConclusion\n\u00b616 We hold that Thurston County is not subject to strict liability, as the deployment of Rex was a \u201clawful application of a police dog\u201d under RCW 16.08.040(2). The police dog, Rex, was on duty performing his job duties under the control of a dog handler and was therefore lawfully applied when the injury to Finch occurred. Accordingly, we affirm.\nFairhurst, Stephens, Gordon McCloud, and Yu, JJ., concur.\nThe Thurston County Sheriff\u2019s Office and the Tumwater Police Department are parties to an interlocal cooperation agreement to assist each other in law enforcement operations when requested.\nOur State waived its sovereign immunity in 1961 and extended that waiver to local governments in 1967. Laws of 1961, ch. 136, \u00a7 1; Laws of 1967, ch. 164, \u00a7 1.\nThis amendment became effective on June 7, 2012, one day after Finch filed his complaint against Thurston County. Finch initially argued to both the trial court and the Court of Appeals that the police dog exception applied prospectively and therefore did not apply to his case. See CP at 321-27; Finch, slip op. at 4. The Court of Appeals rejected this argument, and Finch did not seek review of that determination in his petition of review to this court. For the purposes of this opinion, we assume without deciding that the amendment applies to this case.\nThe dissent seems to believe a properly trained canine officer faced with an armed attacker threatening its handler will not intervene until the attacker uses the weapon. But \u201c[d]etached reflection cannot be demanded in the presence of an uplifted knife,\u201d regardless of species. Brown v. United States, 256 U.S. 335, 343, 41 S. Ct. 501, 65 L. Ed. 961 (1921). Thankfully, the canine officer, like any other, might well act to protect the officer before she is stabbed or shot.\nThe approach advocated by the dissent would require us to ask a jury whether a defendant is subject to strict liability by deciding some predicate factual question. But whether strict liability applies to a category of activity is a question of law for the legislature or the court to decide, not a jury. 16 David DeWolf & Keller Allen, Washington Practice: Tort Law and Practice \u00a7 3.3, at 130 (4th ed. 2013) (citing Langan v. Valicopters, Inc., 88 Wn.2d 855, 567 P.2d 218 (1977)). We can find no case that left it to a jury to decide whether strict liability should apply categorically. The legislature is presumed to know the preexisting law, and if it had intended to depart from this general rule, it would have said so. See Wynn v. Earin, 163 Wn.2d 361, 371, 181 P.3d 806 (2008) (citing Price v. Kitsap Transit, 125 Wn.2d 456, 463, 886 P.2d 556 (1994)).\nThe legislature has granted immunity to police dog handlers, but did not extend that immunity to local police departments or municipalities who own the police dogs. \u201cAny dog handler who uses a police dog in the line of duty in good faith is immune from civil action for damages arising out of such use of the police dog or accelerant detection dog.\u2019\u2019 RCW 4.24.410(2). This immunity for dog handlers, however, would not apply to situations where a police officer used a police dog in bad faith.\nBecause Finch voluntarily dismissed his claim of negligence against the county, his recovery may be limited to his workers\u2019 compensation coverage.\nWe are not faced today with a case where the \u201capplication\u2019\u2019 of a police dog violated the Fourth Amendment to the United States Constitution. We leave for another day whether such an encounter could possibly be a \u201clawful application\u2019\u2019 of a police dog under RCW 16.08.040(2).",
+        "type": "majority",
+        "author": "Gonz\u00e1lez, J."
+      },
+      {
+        "text": "Madsen, C.J.\n\u00b617 (dissenting) \u2014 The majority holds that because the police dog here was on duty, the strict liability imposed for dog bites under RCW 16.08.040(1) does not apply. This holding ignores the plain language of the exemption found in RCW 16.08.040(2) (discussed infra). The majority also sees no need to involve a fact finder in making determinations under the strict liability dog bite statute and its statutory exception, observing that the \u201ccategory of activity\u201d to which strict liability is to be applied \u201cis a question of law for the legislature or the court to decide.\u201d Majority at 751 n.5. Here, the legislature has so determined in RCW 16.08.040 by imposing strict liability on dog owners when their dogs bite others, and by further providing a narrow exception to such liability. The question here is whether the exception applies, and that determination necessarily turns on the facts of the case. As explained herein, some facts essential to that determination are in dispute. Resolving such disputes is the proper role of a fact finder, see State v. Holbrook, 66 Wn.2d 278, 279, 401 P.2d 971 (1965) (the function and province of the jury is to weigh the evidence, determine credibility, and decide disputed questions of fact), and as discussed herein, the presence of such disputed facts renders the trial court\u2019s grant of summary judgment improper. Accordingly, I dissent.\nDiscussion\n\u00b618 This case was dismissed on summary judgment. But, when the facts as alleged by Tumwater Police Officer Bryent Finch are taken as true, as they must be, it is clear that the police dog that attacked and bit Officer Finch was out of his handler\u2019s control, that the dog failed to obey his handler\u2019s recall command, and that the dog was not being lawfully applied by law enforcement when it attacked Officer Finch. As discussed below, the dog bite statute, RCW 16.08.040, imposes strict liability on the owner of any dog, including a police department, when a dog bites any person. The sole exception, which must be construed narrowly, as all exceptions are unless otherwise provided, applies to a police dog only when the animal is \u201clawfully applied.\u201d The dispute here is whether the dog that attacked and bit Officer Finch was being \u201clawfully applied\u201d when it bit Officer Finch.\nFacts\n\u00b619 On November 14, 2010, at 7 p.m., Officer Finch responded to a call regarding a possible burglary in progress at the shuttered Olympia Brewery in Tumwater, Washington. When Officer Finch arrived on the scene, he contacted a security guard at the brewery. The security guard told Officer Finch that a window had been broken in the large brewery building and it was unclear if anyone was still inside. Officer Finch then requested that a police dog (a police \u201cK-9\u201d unit) be brought to the scene. Clerk\u2019s Papers (CP) at 281.\n\u00b620 Deputy Rod Ditrich of the Thurston County Sheriff\u2019s Office responded to the call with his police dog, Rex. The officers decided that Officer Finch, Deputy Ditrich, and Rex would search the building\u2019s interior while the security guard and Officer Hollinger remained outside. When Officer Finch and Deputy Ditrich entered the building, Deputy Ditrich loudly announced three times, \u201c \u2018This is the Sherriff\u2019s Office, this building is going to be searched by a Police K9, announce your presence, give up or you will be bit!\u2019 \u201d CP at 287. The officers received no response and began their search of the building.\n\u00b621 It was dark outside when the search began, and there was no electricity or lighting in the building. The building was dark inside except for the officers\u2019 flashlights. The officers had to maneuver around hazards including large holes in the floor where beer vats had been removed. Officer Finch used his flashlight intermittently to avoid \u201cbacklighting\u201d Deputy Ditrich and giving away his position to a potential suspect. CP at 120. During the search, the police dog was not on a leash and was running in and out of rooms and between the two officers.\n\u00b622 When Rex detected the suspect\u2019s scent, he ran to a room at the front entryway of the building. Rex entered the room first, followed by Deputy Ditrich, and then Officer Finch. Upon entering the room, Deputy Ditrich moved to the right and Officer Finch moved to his left, away from Deputy Ditrich. Due to the darkness, Officer Finch could not see the police dog.\n\u00b623 Shortly after entering the room, Officer Finch heard Deputy Ditrich say, \u201c \u2018[H]ere, here, here.\u2019 \u201d CP at 122. Officer Finch interpreted these words as indicating that Deputy Ditrich had located the suspect and was signaling the suspect\u2019s location to Officer Finch. But Deputy Ditrich was actually commanding Rex to return to him. Upon hearing Deputy Ditrich\u2019s command, Officer Finch noticed the suspect trying to hide in the far northeast corner of the room. Officer Finch loudly commanded the suspect, \u201c \u2018Hands, show me your hands!\u2019 \u201d CP at 282. This occurred as Rex was complying with Deputy Ditrich\u2019s return command, but the dog suddenly attacked Officer Finch, biting him in the groin and piercing his right testicle.\n\u00b624 Officer Finch fell to the ground screaming as the dog continued to bite him. He repeatedly yelled for Deputy Ditrich to remove the dog. Deputy Ditrich ordered the suspect not to move, and he then had to physically pull the dog off of Officer Finch. Officer Finch described the difficulty that Deputy Ditrich was having regaining control of the dog, stating, \u201cIt seemed like it took Deputy Ditrich at least one minute to get \u2018Rex\u2019 to release his bite on me.\u201d CP at 282. After Deputy Ditrich regained control of Rex and led the dog away from Officer Finch, he then took the suspect into custody.\n\u00b625 Officer Finch was bleeding from his scrotum and knew his injuries were \u201cbad,\u201d but did not know the full extent of the damage to his testicles. CP at 283. He determined that he could get to the hospital emergency room faster by driving himself in his patrol car rather than by waiting for an ambulance. When he arrived at the Providence St. Peter Hospital emergency room in Olympia, a urologist examined his injuries and determined that he should be treated at Harborview Medical Center in Seattle. An ambulance transported Officer Finch to Harborview, and the urologist there determined that immediate scrotal surgery was necessary. CP at 283. The surgery revealed that the dog bite had ruptured Officer Finch\u2019s right testicle, requiring removal of one quarter of that damaged organ. Following the surgery, the urologist informed Officer Finch that while the remaining partial testicle could still produce testosterone, it would no longer produce sperm, and that during convalescence if the blood supply to the partial testicle proved insufficient or the organ was otherwise not viable, it would have to be removed. Officer Finch filed a complaint on June 6, 2012 for personal injuries, asserting claims against Thurston County (County) and others for negligence, outrage, and strict liability under RCW 16.08.040. On cross motions for partial summary judgment, the trial court dismissed Officer Finch\u2019s statutory strict liability claim. The trial court ruled that RCW 16.08.040(2), which provides that strict liability under the statute does not arise where an injury results from the \u201clawful application of a police dog,\u201d precluded the claim. Verbatim Report of Proceedings (VRP) at 14-15. Officer Finch then voluntarily dismissed his remaining claims for negligence and outrage and appealed the dismissal of his strict liability claim. Division Two of the Court of Appeals affirmed in an unpublished opinion. Finch v. Thurston County, noted at 186 Wn. App. 1035, review granted, 184 Wn.2d 1001, 357 P.3d 666 (2015). Officer Finch sought and was granted review in this court on the single issue of \u201cwhether the dog bite injury to Officer Finch resulted from the \u2018lawful application of a police dog\u201d within the meaning of RCW 16.08.040(2).\u201d Pet. for Review at 11.\nStandard of Review\n\u00b626 When reviewing a motion for summary judgment, this court engages in the same inquiry as the trial court: the motion can be granted only if the pleadings, affidavits, depositions, and admissions on file demonstrate there is no genuine issue as to any material fact and the moving party is entitled to judgment as a matter of law. Ranger Ins. Co. v. Pierce County, 164 Wn.2d 545, 552, 192 P.3d 886 (2008); CR 56(c). This court must consider all the facts and reasonable inferences in the light most favorable to the nonmov-ing party; the motion should be granted only if reasonable persons could reach but one conclusion. Ranger Ins., 164 Wn.2d at 552.\n\u00b627 Further, when construing a statute, as the court must do here, the court\u2019s goal is to carry out the intent of the legislature. Seven Gables Corp. v. MGM/UA Entm\u2019t Co., 106 Wn.2d 1, 6, 721 P.2d 1 (1986). The court\u2019s interpretation must make the statute purposeful and effective. Id. Undefined words in a statute must be given their plain and ordinary meaning unless a contrary intent appears. Dennis v. Dep\u2019t of Labor & Indus., 109 Wn.2d 467, 479-80, 745 P.2d 1295 (1987). Definitions that are provided by the legislature \u201cbecome integral to the statutory scheme.\u201d Seven Gables Corp., 106 Wn.2d at 7.\nRCW 16.08.040\n\u00b628 The primary issue before this court is whether the dog bite to Officer Finch falls within the \u201clawful application of a police dog\u201d exemption that the legislature added to the strict liability dog bite statute in 2012. The issue is resolved by applying the plain language of the strict liability dog bite statute, RCW 16.08.040. That statute provides in full:\n(1) The owner of any dog which shall bite any person while such person is in or on a public place or lawfully in or on a private place including the property of the owner of such dog, shall be liable for such damages as may be suffered by the person bitten, regardless of the former viciousness of such dog or the owner\u2019s knowledge of such viciousness.\n(2) This section does not apply to the lawful application of a police dog, as defined in RCW 4.24.410.\nSee Laws of 2012, ch. 94, \u00a7 1 (effective June 7, 2012) (adding subsection (2)). RCW 4.24.410, which also provides immunity to a dog handler who uses a police dog in the line of duty in good faith, provides in relevant part here, \u201c \u2018Police dog\u2019 means a dog used by a law enforcement agency specially trained for law enforcement work and under' the control of a dog handler.\u201d RCW 4.24.410(1)(a) (emphasis added). Further, Washington law requires a dog handler to keep his or her police dog under control at all times. See WAC 139-05-915(5) (\u201cIt is the handler\u2019s responsibility to keep their canines under control at all times.\u201d).\n\u00b629 Relevant here, by its plain terms, subsection one imposes liability on the \u201cowner\u201d of \u201cany dog\u201d that bites \u201cany person\u201d who is lawfully in a private place. RCW 16.08.040(1). Reading the subsection (2) exemption together with the definition section, the exemption from liability is triggered when (1) a police dog is applied by its handler, (2) such application is lawful, and (3) the handler is in control of the dog. See RCW 16.08.040(2); RCW 4.24.410(1)(a). Taken in the light most favorable to Officer Finch, when the bite occurred, the dog was not being \u201capplied\u201d by its handler and the handler was not in control of the dog, thus, the exemption does not apply.\n\u00b630 First, there was no command to the dog at all regarding Officer Finch, thus, there was no application of the dog by the handler. The County asserts, and the majority agrees, that the \u201clawful application\u201d was \u201cthe application of [police dog] Rex for the building search.\u201d Answer to Pet. for Review (Answer) at 10; see also majority at 748, 751. But that is not the application at issue concerning the bite to Officer Finch. The County admits that \u201c[i]t is undisputed that Officer Finch was bitten after K-9 Rex was recalled by Deputy Ditrich.\u201d Answer at 17 (emphasis added). The application of the dog\u2014to search the building for a burglary suspect\u2014was over. The dog bit Officer Finch after being recalled and while acting on its own, without a command from the handler. Thus, as to the dog bite at issue, there was no \u201capplication\u201d of the dog within the meaning of RCW 16.08.040(2).\n\u00b631 Second, the dog was not in the \u201ccontrol of [the] handler.\u201d RCW 4.24.410(1)(a); see Suppl. Br. of Resp\u2019t at 12 (\u201cThere is no dispute that Deputy Ditrich, having recalled Rex, did not intend for Rex to seize or bite anyone at the time of [Officer] Finch\u2019s injury.\u201d). After being recalled from searching the building and locating the burglary suspect, the dog attacked Officer Finch without a directive from its handler. As noted, it is undisputed that no one intended for the dog to attack Officer Finch. Thus, the dog acted on its own in attacking Officer Finch. Moreover, it took Deputy Ditrich \u201cat least one minute\u201d to get Rex to release his bite on Officer Finch and the handler ultimately had to physically pull the dog off of Officer Finch and remove him from Officer Finch\u2019s location. CP at 282. Accordingly, it simply cannot be said that the dog was under the control of its handler when it bit Officer Finch. Although the dog and handler were in the same location, and although it was the handler\u2019s responsibility to remain in control of the dog at all times, see WAC 139-05-915(5), such control was clearly not maintained here; otherwise, Officer Finch would not have been attacked. Accordingly, a jury could so find and thereby determine that the exemption contained in RCW 16.08.040(2) does not apply.\n\u00b632 The majority holds that Rex \u201cwas lawfully applied\u201d for purposes of RCW 16.08.040(2)\u2019s strict liability exemption because Rex (1) \u201cwas specially trained for law enforcement work,\u201d (2) \u201cwas being used by a law enforcement agency,\u201d and (3) \u201cwas under the control of a dog handler when the bite occurred.\u201d Majority at 748. But these are questions for the jury. In my view, neither the majority\u2019s premise\u2014that the handler was in control of Rex when it bit Officer Finch\u2014nor its conclusion based on that premise is valid.\n\u00b633 Further, the majority\u2019s view leads to absurd results. Under the majority\u2019s view, a police dog deployed by its handler with a command to track and apprehend (find, and bite and hold) a fleeing felon, which then tracked through a public park mauling small children along the way, would fall within the exception. I disagree. By its terms, the exemption applies only to a \u201clawful application.\u201d In the given example, the lawful application is the command to track, bite, and hold the fleeing felony suspect. There is no \u201capplication\u201d where the dog strays and engages in aggressive conduct not ordered by the handler. Further, while the dog is attacking the children, the handler is not in control of the dog and, thus, there is no lawful application as to the action in question\u2014the attack on the children. Similarly here, the attack on Officer Finch was beyond the scope of the handler\u2019s directive and the handler was not in control of Rex when Rex attacked Officer Finch. Under such circumstances, a jury could conclude that the exemption does not apply.\n\u00b634 The majority reasons that as long as a police dog is employed in a specific use for which the dog was trained, it is necessarily\" \u2018lawful [ly] applifed],\u2019 \u201d thereby triggering the exemption. Id. at 750. As explained supra, I disagree that such initial deployment of a police dog necessarily immunizes any and all of the dog\u2019s conduct thereafter. The majority notes the specific uses that police dogs may be trained to carry out include patrol and investigation, tracking, searches, and specific substance detection. See id. (citing to WAC 139-05-915(4)). Notably lacking from that list is the undirected attack of a police officer. Further, the regulation on which the majority relies expressly requires that a dog handler keep his dog under control at all times. See WAC 139-05-915(5).\n\u00b635 The majority also notes that police dogs are trained to protect their handlers; thus, \u201cin the event that the handler is attacked or injured!, the dog] will bite the assailant without a command to do so.\u201d Majority at 750 (citing WAC 139-05-915(4)(a)(xii), (d)). But there is no evidence that the handler was \u201cattacked or injured.\u201d Thus, it cannot be said that the dog here acted consistent with its training. And in any event, this is for the jury to decide.\n\u00b636 The majority asserts that the \u201cparties largely agree\u201d about the circumstances surrounding Officer Finch\u2019s injury. Id. at 747. In fact, the parties disagree about particulars surrounding the dog bite, particularly where Officer Finch was and what he was doing when the dog bit him. The County asserted at oral argument that a police dog is trained to bite without a command when the dog perceives a threat to the handler. That assertion overstates the record. Notably, the County argued in its briefing that police dogs are trained to respond when the handler is assaulted. See Answer at 12 (\u201c[W]here an officer is assaulted, police dogs are trained to attack and bite the assailant.\u201d); Suppl. Br. of Resp\u2019ts at 9 (\u201c[W]hen a canine handler is assaulted, police dogs are trained to protect the handler by attacking and biting the assailant.\u201d). The evidence the County points to regarding a police dog\u2019s training to protect its handler concerns certification tests for the handler and dog. In such tests, a decoy \u201cassaultfs]\u201d the handler (after approaching and conversing with the handler for a while) in order to test the dog\u2019s protective response. CP at 148. There is no test noted for any perceived threat to the handler other than a physical assault. See id.\n\u00b637 In the present case, there is no such physical assault on the police dog\u2019s handler, Deputy Ditrich. In my view, in the absence of such assault, the threshold requirement for a \u201cperceived threat\u201d to the handler (based on the County\u2019s evidence concerning police dog training) is not met. On that basis, the police dog here was not acting in accordance with its training. Accordingly, a jury could find that there was no application of the dog (per its training) sufficient to trigger the RCW 16.08.040(2)\u2019s statutory exemption.\n\u00b638 Even if this court accepts the County\u2019s assertion at oral argument that the dog is trained to respond to a perceived threat to the handler (i.e., something short of an actual physical assault of the handler), summary judgment for the County would still be improper because the parties\u2019 different versions of Officer Finch\u2019s conduct at the time of the bite raise a material fact dispute about whether there was a threat to the handler. Deputy Ditrich\u2019s \u201cK-9 Usage Report\u201d states that when Deputy Ditrich recalled the police dog with the command \u201c \u2018here, here, here,\u2019 \u201d \u201cOfficer Finch quickly came up to me and as he reached my location (just as K9 Rex was returning to me), he saw the suspect... and began shouting \u2018Show me your hands, Show me your hands!\u2019 \u201d CP at 287. \u201cK9 Rex took someone approaching me from behind rapidly and shouting[ ] as a threat to me and immediately made contact with [i.e., bit] Officer Finch.\u201d Id. (emphasis added).\n\u00b639 Officer Finch describes events differently, contending that at the relevant time he spoke in a \u201ccommanding voice but [he] wasn\u2019t yelling or . . . screaming.\u201d CP at 124. More importantly, Officer Finch contends that as he ordered the suspect, he was \u201cstationary\u201d and not moving, standing some \u201ceight to ten feet\u201d to the left of Deputy Ditrich and parallel to Deputy Ditrich as Officer Finch commanded the suspect. CP at 123. \u201cAt no time prior to being bit did I approach Deputy Ditrich giving \u2018Rex\u2019 a reason to think he needed to protect his handler.\u201d CP at 282. \u201cAt no time, did I get between \u2018Rex\u2019 and Deputy Ditrich, nor did I position myself between \u2018Rex\u2019 and the suspect. When I got attacked, I was standing still with my duty weapon [at the] low ready.\u201d Id. \u201c[P]rior to getting attacked by \u2018Rex,\u2019 Deputy Ditrich, the suspect and I were [standing] in a triangle shape.\u201d Id.\n\u00b640 The only evidence cited by the County concerning a police dog\u2019s training addressing protection of its handler indicates that the dog is trained to respond to a physical assault of the handler. Here, there was no physical assault on the handler. Even if this court accepts the County\u2019s position at oral argument that the police dog in this instance was responding to a perceived threat to its handler (short of a physical assault), summary judgment was not appropriate because the parties offer vastly different versions of Officer Finch\u2019s conduct leading up to the bite incident. Either way, the trial court\u2019s grant of summary judgment to the County was error.\n\u00b641 Further, in granting the County\u2019s summary judgment motion and denying Officer Finch\u2019s summary judgment motion, the trial court explained the basis of its ruling concerning the exemption question as follows:\nWith regard to the argument on the lawful application of a police dog, the Court does find that where a police dog is being used in a situation such as this where the police dog is being used to aid an officer in searching an area, that\u2019s one thing, as opposed to having a police dog who normally goes home at night with their handler, getting out of the back yard and biting the neighbor. That in no way was the dog working at that point.\nVRP at 14-15. It is apparent that the trial court believed that so long as the dog is \u201cworking,\u201d that is, any time the dog is on duty and \u201caidfing]\u201d an officer, the exemption applies. Id. But such a broad application of the exemption ignores the prerequisites for triggering the exemption and the parameters of that exemption, as discussed above.\n\u00b642 The majority also notes that the RCW 16.08.040(2) exemption negates strict liability imposed by RCW 16.08.040(1) but otherwise does not confer immunity on the county as owner of the police dog, thereby leaving other remedies available to plaintiffs. But the fact that other remedies may be available to a person attacked by a police dog is irrelevant to the present inquiry, which concerns the particular triggers and parameters of the statutory exemption from strict liability for dog bites under RCW 16.08.040.\nLegislative Intent\n\u00b643 Although this case turns on the plain language of RCW 16.08.040(2), as discussed above, the record includes comments at a senate hearing by the bill\u2019s legislative sponsor regarding the amendment\u2019s purpose. The sponsor indicated that the purpose of the amendment is to avoid frivolous lawsuits by arrestees. At the February 21, 2012 hearing before the Senate Judiciary Committee, the bill\u2019s sponsor, Representative Ann Rivers, identified the concern that this portion of the proposed legislation addressed as \u201cthe cottage industry that\u2019s popping up where criminals can sit in jail... and write frivolous lawsuits against municipalities . . . because dogs, police dogs, are . . . doing the job that we ask [them] to do.\u201d CP at 197. It is clear that the dog here was not \u201cdoing the job that we ask them to do\u201d when it bit Officer Finch. It is also clear that the legislature intended the exemption to apply only when the dog is being applied, by a handler and is under the control of the handler.\n\u00b644 Moreover, the amendment was part of a larger bill that imposed civil penalties on persons who kill or injure police dogs. See Laws of 2012, ch. 94, \u00a7\u00a7 1-2 (Substitute H.B. 2191, 62d Leg., Reg. Sess. (Wash. 2012)). The bill was prompted by two incidents in the sponsor\u2019s legislative district in which police dogs were stabbed to death by persons attempting to \u201cevade arrest.\u201d CP at 175, 180 (comments by Representative Ann Rivers at the January 18, 2012 hearing before the House Public Safety and Preparedness Committee). The \u201cheart of the bill\u201d was shifting a portion of the substantial expense of acquiring and training a police dog (some $40,000) to the perpetrator responsible for the law enforcement agency\u2019s loss of the dog. CP at 176, 202-03. Clearly, the legislation addresses issues arising from the contact of police dogs with arrestees. Considering this history, it is obvious that Officer Finch\u2019s case does not concern the type of claim that the amendment was intended to preclude.\n\u00b645 Finally, requiring a more exacting construction of \u201clawful application\u201d than the majority or the courts below employed comports with the policy considerations underlying this case. I acknowledge that police dogs provide \u201cproven benefits for effective law enforcement.\u201d Robinette v. Barnes, 854 F.2d 909, 914 (6th Cir. 1988); see also id. at 914 n.6 (noting police dogs are \u201cwell-known\u201d for their ability to track and apprehend criminals, detect drugs, and locate missing persons and lost articles). Courts have acknowledged that police dogs function as the handling officer\u2019s tool and \u201c \u2018weapon.\u2019 \u201d Andrade v. City of Burlingame, 847 F. Supp. 760, 764 (N.D. Cal. 1994) (police dog is \u201cone \u2018weapon\u2019 in [the handler\u2019s] arsenal\u201d); Weekly v. City of Mesa, 181 Ariz. 159, 165, 888 P.2d 1346 (Ct. App. 1994) (\u201cno difference between a police officer directing a dog to attack a person\u201d and the officer \u201cdirecting a blow at a person with a baton\u201d); see also CP at 183-85 (testimony before house committee describing police dogs as important tools used by officers and \u201can extension of the officer\u201d).\n\u00b646 But police dogs can also be \u201cthreatening\u201d and \u201cdangerous.\u201d Robinette, 854 F.2d at 913 (acknowledging that police dog can be a dangerous law enforcement tool: \u201cThe dogs\u2019 ability to aid law enforcement would be minimal if they did not possess this trait\u201d). And the use of police dogs has on occasion caused serious injury and even death. See, e.g., Watkins v. City of Oakland, 145 F.3d 1087, 1090-91 (9th Cir. 1998) (victim of police dog attack sustained severe lacerations, fractures, and tendon damage necessitating two skin graft surgeries); Robinette, 854 F.2d at 911 (victim of police dog attack killed when bitten on the neck). The fact that police dogs (i.e., thinking weapons) can, on occasion, make mistakes is an unfortunate reality. See Robinette, 854 F.2d at 912 (police dog acted \u201cconsistent with its training\u201d and yet accidentally killed suspect); see also Andrade, 847 F. Supp. at 762 (police dog attacked two children during traffic stop, biting the girls\u2019 heads and causing injuries and psychological trauma). Law enforcement agencies\u2019 decision to utilize such tools must be balanced against the risk to the public of unintended attacks. The legislature has balanced such risks by requiring exacting and limiting conditions to trigger the exemption at issue here. In my view, the courts below and the majority\u2019s approach too broadly apply RCW 16.08.040(2)\u2019s exemption any time a trained police dog is on duty. That is not what the plain language of the statute requires.\nConclusion\n\u00b647 RCW 16.08.040(2) provides an exemption from RCW 16.08.040(1)\u2019s strict liability for dog bite injuries where the bite results from a \u201clawful application of a police dog.\u201d Here, taking the facts in the light most favorable to Officer Finch, the police dog bite to Officer Finch occurred when the dog was not under the handler\u2019s control and when the dog strayed from the handler\u2019s directives. In my view, under such facts, the bite does not fall within the \u201clawful application of a police dog\u201d necessary to trigger the exemption. The disputed facts concerning the circumstances surrounding the dog bite raise a fact question on this issue foreclosing summary judgment. The trial court and Court of Appeals erred in determining otherwise. The court should reverse the trial court\u2019s summary judgment dismissal of Officer Finch\u2019s strict liability claim and remand for further proceedings.\n\u00b648 For these reasons, I dissent.\nJohnson, Owens, and Wiggins, JJ., concur with Madsen, C. J.\nAnother Tumwater police officer, identified only as \u201cOfficer Hollinger,\u2019\u2019 also responded to the scene. Clerk\u2019s Papers at 118, 281.\nThe Thurston County Sheriff\u2019s Office provides assistance in law enforcement operations reciprocally to the Tumwater Police Department and other city police departments in the Olympia area pursuant to an interlocal cooperation agreement. See CP at 162-69.\nOriginal defendants included Thurston County, Thurston County Sheriff\u2019s Office, Rod Ditrich, and Jane Doe Ditrich. CP at 336-37.\nWe recently explained the appropriate analysis in BAC Home Loans Servicing, LP v. Fulbright as follows:\n\u201c[W]e strive to ascertain the intention of the legislature by first examining a statute\u2019s plain meaning.\u201d G-P Gypsum Corp. v. Dep\u2019t of Revenue, 169 Wn.2d 304, 309, 237 P.3d 256 (2010) (citing Dep\u2019t of Ecology v. Campbell & Gwinn, LLC, 146 Wn.2d 1, 9-10, 43 P.3d 4 (2002)). To glean the meaning of words in a statute, we do not look at those words alone, but \u201c \u2018 \u201call [of] the terms and provisions of the act in relation to the subject of the legislation, the nature of the act, [and] the general object to be accomplished and consequences that would result from construing the particular statute in one way or another.\u201d \u2019 \u201d Burns v. City of Seattle, 161 Wn.2d 129, 146, 164 P.3d 475 (2007) (quoting State v. Krall, 125 Wn.2d 146, 148, 881 P.2d 1040 (1994) (quoting State v. Huntzinger, 92 Wn.2d 128, 133, 594 P.2d 917 (1979))).\n180 Wn.2d 754, 766, 328 P.3d 895 (2014) (emphasis added) (alterations in original).\nBecause this strict liability statute by its terms applies broadly to all owners of any dog that bites any person, we should construe the exemption narrowly. Cf. Cerrillo v. Esparza, 158 Wn.2d 194, 202, 142 P.3d 155 (2006) (noting \u201c \u2018[e]xemp-tions from remedial legislation\u2019 \u201d are \u201c \u2018narrowly construed\u2019 \u201d (alteration in original) (quoting Drinkwitz v. Alliant Techsystems, Inc., 140 Wn.2d 291, 301, 996 P.2d 582 (2000))); W. Ports Transp., Inc. v. Emp\u2019t Sec. Dep\u2019t, 110 Wn. App. 440, 460, 41 P.3d 510 (2002) (where Washington\u2019s definition of covered employment is exceedingly broad, its \u201cexemptions must be read narrowly\u2019\u2019).\nWhere there is no application, the inquiry regarding the lawfulness of such application does not arise.\nThe majority cites Germain v. City of Seattle, 2016 WL 3017704, 2016 U.S. Dist. LEXIS 69433 (W.D. Wash. May 25, 2016), as bolstering its view, but that case is distinguishable. See majority at 751. There, the police dog handler employed his police dog to apprehend a suspect who was attempting to flee. The federal district court held that the RCW 16.08.040(2) exemption applied and dismissed the defendant arrestee\u2019s RCW 16.08.040 strict liability claim against the city of Seattle. That is not the circumstance here.\nThe County asserted at oral argument that police dogs are trained to bite in three circumstances: (1) pursuant to a bite and hold command when searching for or pursuing a fleeing suspect, (2) when a suspect attacks the police dog, and (3) when the police dog \u201cperceives\u201d a threat to the handler. See Wash. Supreme Court oral argument, Finch v. Thurston County, No. 91761-2 (Jan. 19, 2016), at 25 min., 15 sec. to 25 min., 50 sec., audio recording by TVW, Washington State\u2019s Public Affairs Network, http://www.tvw.org.\nThe majority chides the dissent for \u201cbeliev[ing] a properly trained canine officer faced with an armed attacker threatening its handler will not intervene until the attacker uses the weapon,\u201d and applauds any police dog that in such circumstance would \u201cact to protect [its handler] before [the handler] is stabbed or shot.\u201d Majority at 751 n.4. The majority misconstrues the dissent\u2019s discussion, which focuses on the evidence available in the record concerning police dog training addressing handler protection. More to the point, whether the police dog here was \u201cfaced with an armed attacker threatening its handler\u201d is a disputed material fact question, as discussed above.\nThe majority agrees with the trial court that the exemption applies whenever an on duty police dog has been deployed. The majority concludes that the police dog here was \u201clawfully applied\u201d because it \u201cwas on duty performing [its] job duties under the control of a dog handler.\u201d Id. at 753. But, as discussed, while the dog was indeed on duty, the undirected biting of another officer is not one of the dog\u2019s job duties, and whether the dog was under the handler\u2019s control at the time of the bite is disputed. Notably, the majority acknowledges that a police dog being \u201c \u2018under the control of a dog handler\u2019 \u201d is one of the prerequisites for application of the exemption. Id. at 749 (quoting RCW 4.24.410(1)(a)). But the majority merely assumes that this requirement is met, repeating throughout the opinion that the dog was \u201cunder the control of a dog handler,\u201d while ignoring that this is a disputed factual issue. See id. at 747, 748, 753. As discussed herein, a jury could find otherwise.\nCf. State v. Hoeldt, 139 Wn. App. 225, 230, 160 P.3d 55 (2007) (\u201cBecause a dog is an instrument that can be used to cause death or substantial bodily harm, we hold that a dog can be a \u2018deadly weapon\u2019 under RCW 9A.04.110(6).\").",
+        "type": "dissent",
+        "author": "Madsen, C.J."
+      }
+    ],
+    "attorneys": [
+      "Zachary D. Edwards {o\u00edHagen Bates & Edwards PS), for petitioners.",
+      "Gregory E. Jackson and John R. Nicholson (of Freimund Jackson & Tardif PLLC); and Jon Tunheim, Prosecuting Attorney, and Elizabeth Petrich, Deputy, for respondents."
+    ],
+    "corrections": "",
+    "head_matter": "[No. 91761-2.\nArgued January 19, 2016.\nDecided October 13, 2016.\nBryent Finch et al., Petitioners, v. Thurston County et al., Respondents.\nZachary D. Edwards {o\u00edHagen Bates & Edwards PS), for petitioners.\nGregory E. Jackson and John R. Nicholson (of Freimund Jackson & Tardif PLLC); and Jon Tunheim, Prosecuting Attorney, and Elizabeth Petrich, Deputy, for respondents."
+  },
+  "file_name": "0744-01",
+  "first_page_order": 782,
+  "last_page_order": 806
+}

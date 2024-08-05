@@ -1,0 +1,78 @@
+{
+  "id": 12462921,
+  "name": "State, Respondent, v. Lito, Petitioner",
+  "name_abbreviation": "State v. Lito",
+  "decision_date": "2016-11-02",
+  "docket_number": "No. 93370-7",
+  "first_page": "1022",
+  "last_page": "1022",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "186 Wash. 2d 1022"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Wash.",
+    "id": 9029,
+    "name": "Washington Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 38,
+    "name_long": "Washington",
+    "name": "Wash."
+  },
+  "cites_to": [
+    {
+      "cite": "194 Wn. App. 1018",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        12451744,
+        12451745,
+        12451742,
+        12451743
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/194/1018-03",
+        "/wash-app/194/1018-04",
+        "/wash-app/194/1018-01",
+        "/wash-app/194/1018-02"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 26,
+    "char_count": 187,
+    "ocr_confidence": 0.855,
+    "sha256": "55d5d75d60b9d1b63de5200f37fb31924841e43245e4a16a64f66051e6fdb780",
+    "simhash": "1:05914e4b714d2dc8",
+    "word_count": 31
+  },
+  "last_updated": "2024-02-27T18:43:05.207238+00:00",
+  "provenance": {
+    "date_added": "2019-05-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "State, Respondent, v. Lito, Petitioner,"
+    ],
+    "opinions": [
+      {
+        "text": "Petition for review of a decision of the Court of Appeals, No. 33021-4-III, June 2, 2016, 194 Wn. App. 1018. Denied November 2, 2016.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "State, Respondent, v. Lito, Petitioner,\nNo. 93370-7."
+  },
+  "file_name": "1022-07",
+  "first_page_order": 1008,
+  "last_page_order": 1008
+}

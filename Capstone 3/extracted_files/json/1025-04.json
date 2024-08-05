@@ -1,0 +1,76 @@
+{
+  "id": 12462941,
+  "name": "No on 1-502 et al., Petitioners, v. Wash. NORML et al., Respondents",
+  "name_abbreviation": "No on 1-502 v. Wash. NORML",
+  "decision_date": "2016-12-07",
+  "docket_number": "No. 93227-1",
+  "first_page": "1025",
+  "last_page": "1025",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "186 Wash. 2d 1025"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Wash.",
+    "id": 9029,
+    "name": "Washington Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 38,
+    "name_long": "Washington",
+    "name": "Wash."
+  },
+  "cites_to": [
+    {
+      "cite": "193 Wn. App. 368",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        12449902
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/193/0368-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 31,
+    "char_count": 216,
+    "ocr_confidence": 0.87,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.257666759722285
+    },
+    "sha256": "d6f1741155058e9cf9f2bbabbd4f339a0688d3ba748244ccd6d6903523640470",
+    "simhash": "1:1d57e29011c14d0d",
+    "word_count": 38
+  },
+  "last_updated": "2024-02-27T18:43:05.207238+00:00",
+  "provenance": {
+    "date_added": "2019-05-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "No on 1-502 et al., Petitioners, v. Wash. NORML et al., Respondents,"
+    ],
+    "opinions": [
+      {
+        "text": "Petition for review of a decision of the Court of Appeals, No. 46640-6-II, April 12, 2016, 193 Wn. App. 368. Denied December 7, 2016.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "No on 1-502 et al., Petitioners, v. Wash. NORML et al., Respondents,\nNo. 93227-1."
+  },
+  "file_name": "1025-04",
+  "first_page_order": 1011,
+  "last_page_order": 1011
+}

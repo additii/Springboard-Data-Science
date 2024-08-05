@@ -1,0 +1,139 @@
+{
+  "id": 1403414,
+  "name": "Krummen Motor Bus & Taxi Company v. Mechanics' Lumber Company",
+  "name_abbreviation": "Krummen Motor Bus & Taxi Co. v. Mechanics' Lumber Co.",
+  "decision_date": "1927-12-12",
+  "docket_number": "",
+  "first_page": "750",
+  "last_page": "752",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "175 Ark. 750"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [
+    {
+      "cite": "288 S. W. 903",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "172 Ark. 397",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1407827
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/172/0397-01"
+      ]
+    },
+    {
+      "cite": "146 S. W. 1184",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "103 Ark. 370",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1352033
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/103/0370-01"
+      ]
+    },
+    {
+      "cite": "143 S. W. 586",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "102 Ark. 137",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1354016
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/102/0137-01"
+      ]
+    },
+    {
+      "cite": "59 S. W. 951",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "68 Ark. 444",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1334122
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/68/0444-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 241,
+    "char_count": 3695,
+    "ocr_confidence": 0.448,
+    "pagerank": {
+      "raw": 2.2029298985099784e-07,
+      "percentile": 0.7753730043720696
+    },
+    "sha256": "c1cbe435907483cfcd149f13c1beb7444e6f479212ec199e9d1c088d920ae744",
+    "simhash": "1:abc385b57922955d",
+    "word_count": 633
+  },
+  "last_updated": "2024-02-27T16:24:20.967461+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Krummen Motor Bus & Taxi Company v. Mechanics' Lumber Company."
+    ],
+    "opinions": [
+      {
+        "text": "Hart, C. J.,\n(after stating the facts). Counsel for the plaintiff insists that the undisputed evidence shows that the motor-bus of the plaintiff sustained substantial injury in the collision, and that a judgment based upon the verdict for nominal damages should be reversed because they were inadequate. Counsel for the defendant concede that the judgment should be reversed, and the parties only differ as to the method of procedure after the reversal of the judgment. Counsel for the plaintiff insists that the verdict as to damages should be set aside and a new trial ordered on the question of damages only. On the other hand, counsel for the defendant insists that, under our practice, when the verdict is. set aside a new trial of the whole case should be granted. There is some conflict in the authorities as to whether, -where a verdict has been set aside as being inadequate, the new trial may be restricted to the question of damages or whether there should be a new trial of the whole case. The practice in this State has been, when a verdict is set aside as ibei-ng inadequate, to set aside the verdict on that account and grant a new trial in the whole case. The reason is that a verdict as the foundation of a judgment at law is an entity and cannot be divided by the trial court. Dunbar v. Cowger, 68 Ark. 444, 59 S. W. 951; Carroll v. Texarkana Gas & Electric Co., 102 Ark. 137, 143 S. W. 586; Bothe v. Morris, 103 Ark. 370, 146 S. W. 1184; and Martin v. Kramer, 172 Ark. 397, 288 S. W. 903.\nIn the case last cited it was held that, where the undisputed evidence showed that plaintiff\u2019s automoibile was damaged in the sum of $47 in a collision, hut the evidence was conflicting as to responsibility, a judgment for one dollar was inadequate, justifying a new trial. It follows that the judgment will he reversed, and the case remanded for a new trial.",
+        "type": "majority",
+        "author": "Hart, C. J.,"
+      }
+    ],
+    "attorneys": [
+      "Busbee, Pugh & Harrison and Floyd Wingo, for appellant.",
+      "Price Shofner, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Krummen Motor Bus & Taxi Company v. Mechanics' Lumber Company.\nOpinion delivered December 12, 1927.\nNew. trial \u2014 inadequacy of verdict. \u2014 In an action to recover damages resulting from an automobile collision, tbe verdict for plaintiff in the sum of $1, under undisputed evidence showing a sufo- . stantial injury, cannot be set aside and new trial ordered on the question of damages only, but the new trial should be on the entire case.\nAppeal from Pulaski Circuit Court, Second Division; Richard M. Mann, Judge;\nreversed.\nSTATEMENT OP PACTS.\nKrummen Motor Bus & Taxi Company sued the Mechanics\u2019 Lumber Company to recover damages on account of the alleged negligence of the defendant in an automobile collision, whereby the plaintiff\u2019s automobile .was damaged in the sum of $1,000. The defendant answered, denying negligence on its part, and, by way of cross-complaint, asked judgment against the plaintiff in the sum of $1,875 on the ground that.its automobile was injured in the collision on account of the negligence of the plaintiff.\nEvidence was adduced by each party, to sustain its allegations of negligence.\nThe record shows that an automobile motor-bus of-the plaintiff collided with a truck of the defendant in the city of Little Rock, Arkansas. Both motor vehicles were badly damaged. The undisputed proof on the part of the plaintiff shows that it cost $534.20 to have its motor-bus repaired. The evidence as to whether or not it was in better or worse condition after it was repaired than it was before the collision occurred is conflicting.\nThe jury found for the plaintiff and assessed its damages in the sum of one dollar. Judgment was entered upon the verdict, and the plaintiff has duly prosecuted an appeal to this court.\nBusbee, Pugh & Harrison and Floyd Wingo, for appellant.\nPrice Shofner, for appellee."
+  },
+  "file_name": "0750-01",
+  "first_page_order": 766,
+  "last_page_order": 768
+}

@@ -1,0 +1,145 @@
+{
+  "id": 1399882,
+  "name": "Bodnar v. State",
+  "name_abbreviation": "Bodnar v. State",
+  "decision_date": "1928-04-16",
+  "docket_number": "",
+  "first_page": "1049",
+  "last_page": "1051",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "176 Ark. 1049"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [
+    {
+      "cite": "168 S. W. 128",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "113 Ark. 237",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1537564
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/113/0237-01"
+      ]
+    },
+    {
+      "cite": "46 L. R. A. (N. S.) 741",
+      "category": "reporters:federal",
+      "reporter": "L.R.A.N.S.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "159 S. W. 193",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "109 Ark. 193",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1341201
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/109/0193-01"
+      ]
+    },
+    {
+      "cite": "4 L. R. A. 360",
+      "category": "reporters:federal",
+      "reporter": "L.R.A.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "11 S. W. 630",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "27 Tex. App. 513",
+      "category": "reporters:state",
+      "reporter": "White & W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "111 S. W. 470",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "86 Ark. 481",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1521463
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/86/0481-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 322,
+    "char_count": 5557,
+    "ocr_confidence": 0.462,
+    "pagerank": {
+      "raw": 4.719567370958748e-08,
+      "percentile": 0.295818597918257
+    },
+    "sha256": "47378284fcaa4d7906cbc7279898b878d3e52cbeefc824ed38210ac6c41edc2e",
+    "simhash": "1:aace313a4cdd3d6d",
+    "word_count": 966
+  },
+  "last_updated": "2024-02-27T16:25:41.435006+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Bodnar v. State."
+    ],
+    "opinions": [
+      {
+        "text": "Humphreys, J.\nAppellant was indicted for selling whiskey in the circuit court of Greenwood District of Sebastian County, and subsequently on? the 10th day of January, 1928, was convicted and adjudged to serve a term of one year in the State Penitentiary as a punishment for the crime, from which judgment this appeal has been duly prosecuted.\nOn the day of her conviction she filed a motion for a new trial, which was overruled on the following day. She then prayed an appeal to the Supreme Court, which was granted. On the first day of February following, during the same term of court, she filed a motion to set the verdict aside and to grant her a new trial on account of the misconduct of Carter and Hannah, two of the jurors who tried her case, upon the additional ground that they obtained information about her case and talked to each other concerning the same while separated during the noon hour, contrary to the admonition of the court. \u2019The allegation of misconduct in the amended motion for a new trial was. supported by three affiants, one of them being appellant\u2019s husband, to the effect that, on the day of the trial, while said jurors were eating dinner, during their separation .by permission of the court, they talked about appellant\u2019s case, saying that, from all outside reports about people being drunk and fighting at appellant\u2019s house, she was bound to be guilty, whether what the officers found in her house was liquor or not. It was alleged in the motion that appellant received no information of the conversation or that the two jurors had talked to parties during the noon recess, until after her conviction. The jury were unable to agree upon a verdict before dinner, but did agree and return a verdict of guilty a short time after the noon recess.\nAppellant assigns as reversible error the refusal of the court to grant a new trial on account of the alleged misconduct of said jurors.\nThe uncontroverted affidavits filed by appellant in support of her motion for a new trial made a prima facie case of misconduct on the part of the two jurors. Shropshire v. State, 86 Ark. 481, 111 S. W. 470; Brackenridge v. State, 27 Tex. App. 513, 11 S. W. 630, 4 L. R. A. 360.\nReceiving information .by jurors relative to the merits of a case they are trying, except in open court and in the manner provided by law, is improper. Capps v. State, 109 Ark. 193, 159 S. W. 193, 46 L. R. A. (N. S.) 741, Ann. Cas. 1915C, 957.\nThe State did not contradict the statement contained in the affidavits, hence they must be accepted as true. The integrity of the trial was impeached by allowing the jurors to receive information of appellant\u2019s guilt or circumstances tending to show her guilt from other sources than through the sworn testimony of witnesses in the case, introduced and examined in the regular way. According to the trend of conversation between the two jurors, the outside reports which they received influenced them in arriving at the guilt of appellant.\nIt cannot be successfully contended that appellant was negligent in filing her amended motion for a new trial. The knowledge of her husband was not attributable to her on account of the marital relationship. Under our statutory system of criminal procedure a defendant is allowed to move at any time during the term of court at which convicted to set the verdict aside on account of the misconduct of any of the jurors trying the case. Section 3218 of Crawford & Moses\u2019 Digest provides that the application for a new trial must be made at the same term at which the verdict is rendered, unless the judgment is postponed to another term, in which case it may be made at any time before judgment. It was said in the case of Corning v. Thompson, 113 Ark. 237, 168 S. W. 128, that a motion for a new trial should be made at the same term at which the judgment is rendered.\nThe judgment is reversed, and the cause is remanded for a new trial.",
+        "type": "majority",
+        "author": "Humphreys, J."
+      }
+    ],
+    "attorneys": [
+      "A. V. Anderson, for appellant.",
+      "H. W. Applegate, Attorney General, and Darden Moose, Assistant, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Bodnar v. State.\nOpinion delivered April 16, 1928.\n1. Criminal law \u2014 misconduct of jurors. \u2014 Uncontradicted affidavits filed by accused, after her conviction for selling whiskey, in support of a motion for new trial, stating that two of the jurors, while eating dinner during their separation on the day of the trial, talked about 'the case, saying that from outside reports about people being drunk and fighting at her house she was bound to he guilty whether officers found liquor in her house or not, held to make out a prima, facie case of misconduct by such jurors.\n2. Criminal law \u2014 jurors receiving information outside of court. \u2014It is improper for jurors to receive information concerning the merits of a case they are trying, except in open court and in the manner provided by law.\n3. Criminal law \u2014 affidavit supporting the motion for new trial. \u2014Uncontradicted affidavits supporting defendant\u2019s motion for new trial, on the ground of misconduct of jurors, must be accepted as true.\n4. Criminal law \u2014 knowledge of juror\u2019s misconduct. \u2014 Knowledge of accused\u2019s husband, during the trial, of misconduct of jurors while separated, is not \u25a0attributable to accused so as to charge her with negligence in failing promptly to file a motion for new trial on that ground, and filing a motion for a new trial at the same term at which the verdict was rendered, nearly three weeks after conviction, was timely, under Crawford & Moses\u2019 Dig., \u00a7 3218.\nAppeal from Sebastian Circuit Court, Greenwood District; J. Sam Wood, Judge;\nreversed.\nA. V. Anderson, for appellant.\nH. W. Applegate, Attorney General, and Darden Moose, Assistant, for appellee."
+  },
+  "file_name": "1049-01",
+  "first_page_order": 1067,
+  "last_page_order": 1069
+}

@@ -1,0 +1,78 @@
+{
+  "id": 12462875,
+  "name": "Wash. Counties Risk Pool, Respondent, v. Corter et al., Petitioners",
+  "name_abbreviation": "Wash. Counties Risk Pool v. Corter",
+  "decision_date": "2016-09-29",
+  "docket_number": "No. 93034-1",
+  "first_page": "1016",
+  "last_page": "1016",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "186 Wash. 2d 1016"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Wash.",
+    "id": 9029,
+    "name": "Washington Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 38,
+    "name_long": "Washington",
+    "name": "Wash."
+  },
+  "cites_to": [
+    {
+      "cite": "192 Wn. App. 1077",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        12456385,
+        12456386,
+        12456387,
+        12456388
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/192/1077-01",
+        "/wash-app/192/1077-02",
+        "/wash-app/192/1077-03",
+        "/wash-app/192/1077-04"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 32,
+    "char_count": 220,
+    "ocr_confidence": 0.865,
+    "sha256": "834ebce85f08f76c4395d2c04cd5c41b2121c05826e5b6a31b37b2b649528800",
+    "simhash": "1:8c93662b3143c8bd",
+    "word_count": 36
+  },
+  "last_updated": "2024-02-27T18:43:05.207238+00:00",
+  "provenance": {
+    "date_added": "2019-05-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Wash. Counties Risk Pool, Respondent, v. Corter et al., Petitioners,"
+    ],
+    "opinions": [
+      {
+        "text": "Petition for review of a decision of the Court of Appeals, No. 32769-8-III, March 15, 2016, 192 Wn. App. 1077. Denied September 29, 2016.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Wash. Counties Risk Pool, Respondent, v. Corter et al., Petitioners,\nNo. 93034-1."
+  },
+  "file_name": "1016-08",
+  "first_page_order": 1002,
+  "last_page_order": 1002
+}

@@ -1,0 +1,239 @@
+{
+  "id": 1378541,
+  "name": "Ponder v. Gibson-Homans Company",
+  "name_abbreviation": "Ponder v. Gibson-Homans Co.",
+  "decision_date": "1924-12-15",
+  "docket_number": "",
+  "first_page": "591",
+  "last_page": "597",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "166 Ark. 591"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [
+    {
+      "cite": "29 Me. 292",
+      "category": "reporters:state",
+      "reporter": "Me.",
+      "case_ids": [
+        8846990
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/me/29/0292-01"
+      ]
+    },
+    {
+      "cite": "88 Am. St. Rep. 265",
+      "category": "reporters:state",
+      "reporter": "Am. St. Rep.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "66 Pac. 1029",
+      "category": "reporters:state_regional",
+      "reporter": "P.",
+      "case_ids": [
+        1120726
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/kan/63/0728-01"
+      ]
+    },
+    {
+      "cite": "52 Me. 333",
+      "category": "reporters:state",
+      "reporter": "Me.",
+      "case_ids": [
+        648117
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/me/52/0333-01"
+      ]
+    },
+    {
+      "cite": "34 Me. 496",
+      "category": "reporters:state",
+      "reporter": "Me.",
+      "case_ids": [
+        8847115
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/me/34/0496-01"
+      ]
+    },
+    {
+      "cite": "2 Cush. 413",
+      "category": "reporters:state",
+      "reporter": "Cush.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "88 S. E. 779",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "171 N. C. 513",
+      "category": "reporters:state",
+      "reporter": "N.C.",
+      "case_ids": [
+        11271109
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nc/171/0513-01"
+      ]
+    },
+    {
+      "cite": "81 Atl. 121",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "79 N. J. Eq. 113",
+      "category": "reporters:state",
+      "reporter": "N.J. Eq.",
+      "case_ids": [
+        178853
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nj-eq/79/0113-01"
+      ]
+    },
+    {
+      "cite": "2 Cush. (Mass.) 412",
+      "category": "reporters:state",
+      "reporter": "Cush.",
+      "case_ids": [
+        1981928
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/56/0412-01"
+      ]
+    },
+    {
+      "cite": "20 Am. Rep. 106",
+      "category": "reporters:state_regional",
+      "reporter": "Am. Rep.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "43 Md. 97",
+      "category": "reporters:state",
+      "reporter": "Md.",
+      "case_ids": [
+        1848526
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/md/43/0097-01"
+      ]
+    },
+    {
+      "cite": "45 Me. 447",
+      "category": "reporters:state",
+      "reporter": "Me.",
+      "case_ids": [
+        478832
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/me/45/0447-01"
+      ]
+    },
+    {
+      "cite": "54 Am. Dec. 683",
+      "category": "reporters:federal",
+      "reporter": "Am. Dec.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "7 Cush. (Mass.) 1",
+      "category": "reporters:state",
+      "reporter": "Cush.",
+      "case_ids": [
+        1967603
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/61/0001-01"
+      ]
+    },
+    {
+      "cite": "79 Ark. 475",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1495711
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/79/0475-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 524,
+    "char_count": 11868,
+    "ocr_confidence": 0.509,
+    "pagerank": {
+      "raw": 2.1748444729291773e-07,
+      "percentile": 0.7716335971711092
+    },
+    "sha256": "292a0f3bb803627d5f22aab80b0e8d588613e6e6c0404e662c51b332d55d3d57",
+    "simhash": "1:95e47e773f89c7e2",
+    "word_count": 2098
+  },
+  "last_updated": "2024-02-27T17:45:12.000463+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Ponder v. Gibson-Homans Company."
+    ],
+    "opinions": [
+      {
+        "text": "Hart, J.,\n(after stating the facts). In Hartford Fire Ins. Co. v. Enoch, 79 Ark. 475, the court held that one who has purchased personal property subject to a lien for the purchase money has an insurable interest therein.\nThe general rule also is that a mortgagee of real property who gets insurance for himself, when the insurance is general upon the property, without limiting it in terms to his interest as mortgagee, but when, in point of fact, his only insurable interest is that of a mortgagee, in case of a loss by fire, before the payment of the debt and discharge of the Mortgage, has a right to recover the amount of the loss for his own use. In such case there is no privity between the mortgagor and the underwriter. The money due upon the insurance policy, in case of loss, is upon a distinct and independent contract upon a consideration paid bv the mortgagee. King v. State Mutual Fire Ins. Co., 7 Cush. (Mass.) 1, 54 Am. Dec. 683.\nIn a case note to. 11 A. L. R., at p. 1299, it is said that, where the mortgagee effects insurance upon the mortgaged propertv at his own expense and for his own bonefit, money received by him on the policy is not a payment on the mortgage, and the following cases are cited which sustain the text: Carpenter v. Providence Washington Ins. Co., 16 Pet. (U. S.) 495; Concord Union Mut. F. Ins. Co. v. Woodbury, 45 Me. 447; Callahan v. Linthicum, 43 Md. 97, 20 Am. Rep. 106; White v. Brown, 2 Cush. (Mass.) 412; Leyden v. Lawrence, 79 N. J. Eq. 113, 81 Atl. 121; Stuyvesant Ins. Co. v. Reid, 171 N. C. 513, 88 S. E. 779; and Dunbrack v. Neall, 47 S. E. (W. Va.) 303.\nIn Concord Union Mut. F. Ins. Co. v. Woodbury, 45 Me. 447, the court said: \u201cWhen a mortgagee insures his own interest, without any agreement between him and the mortgagor therefor, and a loss accrues, the mortgagor is not entitled to an allowance of the sum paid upon such loss, to be applied to the reduction or discharge of his mortgage debt, but the mortgagee may, notwithstanding, recover the whole amount due! White v. Brown, 2 Cush. 413; King v. State M. F. Ins. Co., 7 Cush. 1; Cushing v. Thompson, 34 Me. 496.\u201d\nAgain, in the case of Fox v. Phenix Fire Ins. Co., 52 Me. 333, the court said that different mortgagees of the same property have independent interests, which each-may insure for his own benefit for the full amount.\nIn Deming Investment Co. v. Dickerman (Kan.), 66 Pac. 1029, 88 Am. St. Rep. 265, it was held that a contract of insurance upon property sold1 at a foreclosure sale between the purchaser and an insurance company is a personal contract of indemnity between such\u2019 purchaser and the company alone, which does not inure to the benefit of the party entitled to redeem, and the purchaser, having collected the insurance money after the property has been destroyed by fire, is under no obligation to account for it to such redemptioner.\nIn the case of Cushing v. Thompson, 34 Me. 496, in discussing the question the court said: \u201cThe interest insured was that of the defendant alone. It does not appear that the complainant paid any part of the premium, had any connection with the insurance, or knew of its existence, till the loss of the property. The defendant could not have compelled payment from the complainant of the premium or any part of it. It is well settled that a contract of insurance does not run with the estate, as incident thereto, but is ah agreement with the underwriters against a loss which the assured may sustain, and not the loss which another may be subjected to, having an interest as mortgagor, redemptioner, or otherwise. Adams v. Rockingham Ins. Co., 29 Me. 292; White v. Brown, 2 Cush. 412.\u201d\nIt follows from these authorities that the mortgagor would have no right to any part of the insurance policy in question. The policy of insurance was taken out by the purchaser at the foreclosure sale for his' own benefit, and the premium was paid by him. In this connection it may be conceded, as contended by counsel for the plaintiff, that the foreclosure decree did not affect its lien under the attachment suit, because it was not made a party to the foreclosure suit, and because, under the facts of this case, its attachment lien existed before the mortgage in question was executed to the bank.\nThe record shows, however, that the bank assigned the mortgage notes to Ponder, who purchased the lot at the foreclosure sale, and'Ponder should be treated, so far as the plaintiff is concerned, as a mortgagee in possession. As such mortgagee in possession he had an insurable interest in the property, and, the insurance policy having been taken for his own benefit, the mortgagor has no interest in it.\nThe plaintiff in this case only acquired the interest of the mortgagor at the attachment sale, and would have no greater rights in the premises than the mortgagor. Hence it was not entitled to claim that the proceeds from the fire insurance policy should be applied to the satisfaction of any debt owed by the mortgagor to the mortgagee. The rights of the piaintiff under its attachment are superior to those of Ponder as assignee of the mortgagee. The two notes for the purchase money for $500 each were described in the deed by which the property was conveyed to Palmer, and, under the repeated decisions of this court, constituted notice that the vendor had a lien on the lot for tiae unpaid purchase money. These purchase money notes were dated October 21, 1920, and were described in the deed from Halton to Palmer. The plaintiff did not obtain a lien on the property by virtue of its attachment until June 1, 1921.\nThese purchase money notes were assigned by the bank to Ponder. It follows that they are a prior lien on the lot in question to that secured by the plaintiff under its attachment suit, and Ponder will be entitled to have his equitable lien for the amount of the two purchase money notes for $500 each and the accrued interest foreclosed, .and to have the lot sold to satisfy the same. He should be required to account for the rental value of the property during the time he has had it in his possession; but, under the views we have expressed above, he will not be required to account to the plaintiff for any part of the insurance money.\nIt follows that the decree will be reversed, 'and the chancellor directed to enter a decree in accordance with this opinion.",
+        "type": "majority",
+        "author": "Hart, J.,"
+      }
+    ],
+    "attorneys": [
+      "Norwood \u00e9 Alley, for appellant.",
+      "Mmor Pipkin, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Ponder v. Gibson-Homans Company.\nOpinion delivered December 15, 1924.\n1. Insurance \u2014 mortgagee\u2019s rights to recover. \u2014 As a general rule, a mortgagee of land who insures it for himself by general insurance, without limiting the policy to his interest, in case of ' loss before discharge of the mortgage, can recover the amount of the loss for his own use; there being no privity between the mortgagor and the insurer, and the money being due upon an independent contract.\n2. Insurance \u2014 mortgagee\u2019s right to recover. \u2014 Where a mortgagee of land foreclosed without making a prior attachment lienor a party, and purchased and conveyed the property, and the ' grantee insured the property, he was, as to the attachment lienor. a mortgagee in possession, and such creditor, who had no greater right than the mortgagor, was not entitled to have the proceeds of the policy applied to the satisfaction of the debt owed by the mortgagor to the attachment lienor.\n3. Mortgages \u2014 priority op attachment lien. \u2014 Where a mortgagee foreclosed his lien without making a prior lienor a party, bought in the property and conveyed it and transferred the mortgage notes to his grantee, the latter\u2019s title was subject to the prior lien.\n4. Vendor and purchaser \u2014 notice of lien for purchase money. \u2014\u2018Where purchase money notes were described in a deed conveying land, they constituted notice that the vendor had a lien for unpaid purchase money.\n5. Vendor and purchaser \u2014 priority of lien for purchase money. \u2014Where purchase money notes were described in a deed, they constituted a lien prior to that of a subsequent attachment.\n6. Mortgages \u2014 liability for rental value of premises. \u2014 Where a mortgagee forclosed without making a prior lienor a party, bought in and transferred the property, his grantee will be liable to the lienor for rental value of the property during his possession thereof.\nAppeal from Polk 'Chancery Court; C. F. Johnson, Chancellor;\nreversed.\nSTATEMENT OE EAOTS.\nThis was an action of ejectment by the GibsonHomans Company against G. H. Ponder to recover a lot in the city of Mena, Arkansas, and damages for the wrongful detention of the same.\nThe defendant filed an answer setting up an equit able defense, and moved to transfer the case to the chancery court. No objection was made to the motion, and the case was transferred to the chancery court and tried there.\nIt appears from the record that on June 1, 1921, the Gibson-Homans Company sued out an attachment in the circuit court of Polk County, Arkansas, against A. B. Palmer, on a claim of $145, \u2019and the attachment was levied on the property in question as belonging to a nonresident defendant.\nOn October 18, 1921, the attachment was sustained and the property ordered sold. The Gibson-Homans Company became the purchaser at the sale for $166.05, on November 26, 1921. On December 16, 1922, the sheriff executed a deed_ to said property to the GibsonHomans Company. The Gibson-Homans Company never at any time had possession of said property. The lot had a residence on it worth from $1,000 to $1,500.\nOn October 21, 1920, C. N. Halton conveyed this property by deed to A. B. Palmer for $1,800. Palmer paid $800 in cash and gave his two notes to Halton for $500 each, bearing eight per centum interest from date until paid, and due respectively on October 21, 1921, and 1922. Both of said notes are described in the deed, and both of them were duly assigned by Halton to the Farmers\u2019 & Merchants\u2019 Bank for value. The notes were not paid by Palmer to the bank. Palmer' owed the Farmers\u2019 & Merchants\u2019 Bank an additional sum of $700, and on the 4th day of June, 1921, he executed a mortgage on said lot to said bank to secure this' sum. The mortgage was duly filed for record.\nOn the 17th day of August, 1921, said bank brought suit in the chancery court of Polk County to foreclose its mortgage. A decree of foreclosure was entered in its favor on the 14th day of February, 1922.\nThe foreclosure decree also provided for a sale of the property for the payment of a note of $500, with the accrued interest, due by Halton to said bank. The property was advertised and sold by the commissioner, and purchased at the sale by said bank. The sale was duly confirmed by the court on April 11, 1922, and a deed made by order of the court by the commissioner to said bank. The bank took possession of the property.\nOn May 26, 1922, the Farmers\u2019 & Merchants\u2019 Bank by deed conveyed said lot to G. H. Ponder for a consideration of $1,000, and all of said notes mentioned above Avere_ transferred by said bank to said Ponder. Ponder took possession of said lot and resided on-it until the residence Aims burned, some time in 1923. After he had moved on the lot he had the house insured for his benefit in the sum of $1,500. After the fire the insurance company paid to Ponder said sum -of $1,500, being tbe amount named in his policy of insurance.\nThe chancellor was of the opinion that GibsonHomans Company should, be subrogated to the rights of G. H. Ponder in the insurance policy, and found that he should pay to it the balance of the insurance, after deducting the premium and the principal and interest of the two notes for $500 each given for the purchase price of said' lots.\nThe chancellor was further of-the opinion that the Gibson-Homans Company was entitled'to the possession of the property.\nA decree was entered in accordance with the findings of the court, and the case is here on appeal.\nNorwood \u00e9 Alley, for appellant.\nMmor Pipkin, for appellee."
+  },
+  "file_name": "0591-01",
+  "first_page_order": 617,
+  "last_page_order": 623
+}

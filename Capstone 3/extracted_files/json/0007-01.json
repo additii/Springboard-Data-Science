@@ -1,0 +1,85 @@
+{
+  "id": 1435125,
+  "name": "Taylor v. Dermott Grocery & Commission Company",
+  "name_abbreviation": "Taylor v. Dermott Grocery & Commission Co.",
+  "decision_date": "1932-01-18",
+  "docket_number": "",
+  "first_page": "7",
+  "last_page": "8",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "185 Ark. 7"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [
+    {
+      "cite": "38 S. W. (2d) 557",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "183 Ark. 757",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1441698
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/183/0757-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 248,
+    "char_count": 3580,
+    "ocr_confidence": 0.503,
+    "pagerank": {
+      "raw": 4.506136593398952e-07,
+      "percentile": 0.9231491874622806
+    },
+    "sha256": "62bcc76f917280867e920ba2de403381003540095ceb9e4773b9114e84102232",
+    "simhash": "1:6c7004f719d9b5a6",
+    "word_count": 612
+  },
+  "last_updated": "2024-02-27T17:51:09.396208+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Taylor v. Dermott Grocery & Commission Company."
+    ],
+    "opinions": [
+      {
+        "text": "McHaney, J.\nOn November 15, 1930, O. F. Townsend, being indebted to appellee in the sum of $86.29 and being a depositor with a checking account in the Chicot Trust Company, drew his check on the trust company in favor of appellee and delivered same to its agent. On the same date said agent took the check to the trust company, indorsed it, asked for and received a cashier\u2019s check payable to appellee for the same amount. This cashier\u2019s check was never paid because the trust company was never open for business again after November 15, and was placed in appellant\u2019s charge for liquidation on November 24. Appellee presented its claim to the chancery court for allowance as a preferred claim, which the Bank Commissioner disputed, and the matter was presented on an agreed statement of facts as above set out, and, in addition that appellee\u2019s agent was well known to the trust company, and the Townsend check would have been cashed if desired by him, but that he elected to take the cashier\u2019s check instead. Appellee carried no account with the trust company, its office being at Eudora, about sixteen miles from Lake Village, the home of the trust company. The claim was allowed as a preferred one, and the Bank Commissioner has appealed.\nIt is admitted by appellee that, unless authority for the classification of this claim as preferred is found in act 107, Acts 1927, p. 297, it is a general and not a prior\nor preferred claim. Said act provides that \u201call creditors of a bank of which the Commissioner has taken charge are classifiable either as secured .creditors, prior creditors or general creditors.\u201d The act then proceeds to define each class of creditors and there are seven subdivisions defining \u201cpiior creditors.\u201d Appellee relies upon the 6th subdivision as covering its case, which is as follows: \u201c(6) the owner of the proceeds of a collection made by said bank and not remitted by it, or of which its remittance has not been paid, when such collection was made otherwise than by honoring a check or other order upon said bank or by a charge against the account of a depositor of said bank, and the said collection has had a distinctive identity in the hands of said bank, has actually increased its cash assets, and has not resulted in merely shifting its liability upon its books from one of its creditors to another or new creditor.\u201d Appellee\u2019s situation fails to fit this definition in any respect. The bank made no collection for appellee. Its own agent made the collection from Townsend, presented the check to the bank and asked to and did become its creditor by taking a cashier\u2019s check. Compare Taylor v. Corning Bank & Trust Co., 183 Ark. 757, 38 S. W. (2d) 557. Also the bank honored the check of its depositor. No new funds were deposited in the bank, but the bank simply shifted its liability from one creditor, Townsend, to another creditor, appellee. Not being a collection made by the bank, the 6th subdivision of the act has no application. Nor does any other provision of the act defining- prior creditors apply. The act further provides that \u201call creditors not in this section hereinabove classed as secured or prior creditors of said bank, including the State of Arkansas and any of its subdivisions, shall be general creditors thereof.\u201d Therefore, appellee is a general creditor, and the court erred in holding otherwise.\nEeversed and remanded with directions to allow the claim as a general one.",
+        "type": "majority",
+        "author": "McHaney, J."
+      }
+    ],
+    "attorneys": [
+      "Gillison t\u00e9 Gillison, for appellant.",
+      "John Baxter, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Taylor v. Dermott Grocery & Commission Company.\nOpinion delivered January 18, 1932.\nGillison t\u00e9 Gillison, for appellant.\nJohn Baxter, for appellee."
+  },
+  "file_name": "0007-01",
+  "first_page_order": 27,
+  "last_page_order": 28
+}

@@ -1,0 +1,85 @@
+{
+  "id": 1400043,
+  "name": "Louisiana & Northwest Railroad Company v. William R. Moore Dry Goods Company",
+  "name_abbreviation": "Louisiana & Northwest Railroad v. William R. Moore Dry Goods Co.",
+  "decision_date": "1928-02-20",
+  "docket_number": "",
+  "first_page": "341",
+  "last_page": "345",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "176 Ark. 341"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [
+    {
+      "cite": "196 S. W. 122",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "129 Ark. 358",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1580459
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/129/0358-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 354,
+    "char_count": 7232,
+    "ocr_confidence": 0.479,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.05260789335594469
+    },
+    "sha256": "1e8ce2cb4ab9a75e3e3abe5cd7a5e37226d77569e7d7e928d709502c86635194",
+    "simhash": "1:a1ca1dca942588f5",
+    "word_count": 1225
+  },
+  "last_updated": "2024-02-27T16:25:41.435006+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Louisiana & Northwest Railroad Company v. William R. Moore Dry Goods Company."
+    ],
+    "opinions": [
+      {
+        "text": "Smith, J.\nOn or about November 5, 1922, Tullis & McClurkin, merchants at Magnolia, Arkansas, ordered a bill of dry goods from the William B. Moore Dry Goods Company, a corporation having its place of business in Memphis, Tennessee. The order was filled by ordering the goods shipped from Winston-Salem, North Carolina. After placing the order, Tullis & McClurkin canceled it, and the cancellation was accepted by the Moore Company, which company made an unsuccessful effort to stop the goods in transit as they passed through Memphis, and the shipment, consisting of a box weighing 259 pounds, went through to Magnolia.\n\u25a0 John Curry is a drayman in Magnolia, and he had an arrangement with Tullis & McClurkin whereby he received from the railroad company all freight intended for Tullis & McClurkin, and delivered the same to them.\nThe box of goods in question had been shipped by prepaid freight, but the payment was twenty-nine cents short of the correct freight, and Curry paid this difference, and hauled the box to the store of Tullis & McClurkin, who refused to receive it. Curry then' returned the box to the railroad freigirt-room and delivered it to the person there in charge, and he testified that he later saw the box'in the freight-room, but that he did not haul it a second time to the store of Tullis & McClurkin. The box was never reshipped to the Moore Company by the railroad company, but was lost. Testimony was offered by the railroad company tending to show that Curry hauled the box from the freight-room a second time, and did not return it a second time. This was denied by Curry.\nThe complaint filed by the Moore Company against the railroad company, to recover the value of the box of goods, alleged an erroneous date as the. date of the receipt of the box by the railroad company at its station in Magnolia, but it is not questioned that' it was received by the railroad company at that station, and it is not claimed that the 'box was ever reshipped to the plaintiff.\nAn answer was filed by the railroad company, in which liability was denied upon the ground that it had fully discharged its contract of carriage by delivering the freight to the consignee named in the bill of lading.\nThere was a verdict and judgment for the plaintiff for the value of the goods, and the railroad company has appealed.\nIt is insisted by the appellant railroad company that this judgment should be reversed and the cause dismissed because it was not shown that the plaintiff was the owner of the freight, nor was it shown that the box was lost through its negligence.\nThe court instructed the jury that the plaintiff could not recover unless it was shown by the evidence, and the jury so found, that there was an understanding with Tullis & McClurldn whereby the goods were to be reshipped to the plaintiff, and it is insisted that instruction numbered 1, given at the request of the plaintiff, is in conflict with this instruction, in that it permitted a recovery by the plaintiff without imposing that requirement. It appears however that, even though the instructions are in conflict in this respect, the error was not prejudicial, for the reason that McClurldn, of the firm of Tullis & McClurldn, testified that his firm had canceled the order and had refused to accept the goods; that he saw the station agent, and obtained the copy of the freig\u2019ht-bill, which he marked \u201cEefused,\u201d and he sent a copy so marked, to the plaintiff, Moore Company, and that the railroad agent wrote the word \u201cEefused\u201d on the original freight-bill. The goods belonged either to the consignor or the consignee, and, as the consignee expressly disclaimed any interest in or title thereto, there was no error in assuming \u2014 as plaintiff\u2019s instruction numbered 1 did \u2014 that the goods belonged to the consignor, the plaintiff in the action. The title of the plaintiff was sufficiently proved, and was undisputed, and there was no error therefore in assuming this to be an undisputed fact, as plaintiff\u2019s instruction numbered 1 did.\nPlaintiff\u2019s instruction numbered 1 further told the jury that, if the goods were delivered to and received by the railroad company, \u201cthen, while said goods were in possession of defendant in the depot at Magnolia, Arkansas, it was liable as a warehouseman for the care and custody of said goods, and, as such, was required to use common and reasonable diligence in caring for said goods, and if you further find that, from want of common and reasonable diligence, said goods were lost, then you should find for the plaintiff.\u201d\nThere was no error in this instruction. Appellant insists that it was erroneous b\u00e9cause it permits a recovery without requiring a finding that the goods were lost through the negligence of the defendant. But the instruction does require a finding that, \u201cfrom want of common and reasonable diligence, said goods were lost.\u201d The failure to exercise ordinary care and reasonable diligence would be negligence.\nIn the case of Yazoo & M. V. R. R. Co. v. Altman, 129 Ark. 358, 196 S. W. 122, it was held (to quote a syllabus): \u201cThe nondelivery by a warehouseman of'goods held by him, upon demand, in the absence of any explanation of their loss by fire or theft, or in any other manner consistent with the exercise of ordinary care over the goods, makes a prima facie-case against the warehouseman.\u201d\nAppellant insists that it fully discharged its liability as a warehouseman by delivering the goods to the consignee\u2019s agent, but this question of fact was passed upon by the jury adversely to appellant\u2019s contention, and that finding is conclusive.\n' Upon this question the case is similar to and is controlled by the decision in the Altman ease, supra.\nThe testimony is sufficient to support the finding that the consignee refused to receive the box, and that it was redelivered to the railroad company, and, although no bill of lading was ever issued for the reshipment of the box, it was lost after it was shown to be in the possession of the railroad company, and, as the only explanation of the loss was denied by Curry, a prima facie case of negligence was made when the jury found that the loss of. the box was unexplained, which is sufficient to support the verdict of the jury, and the judgment is therefore affirmed.",
+        "type": "majority",
+        "author": "Smith, J."
+      }
+    ],
+    "attorneys": [
+      "Henry Stevens, for appellant.",
+      "J. E. Hawkins, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Louisiana & Northwest Railroad Company v. William R. Moore Dry Goods Company.\nOpinion delivered February 20, 1928.\n1. Trial \u2014 instruction assuming admitted fact. \u2014 An instruction which assumed an admitted fact is not erroneous.\n2, Carriers \u2014 liability as wareho\u00fasemaN. \u2014 An instruction in an action against a railroad as a warehouseman, which bases the right to recover on defendant\u2019s want of common and reasonable diligence whereby the goods were lost, held proper.\n3. Carriers \u2014 finding as to loss of goods. \u2014 Testimony that the consignee refused to receive a shipment, that it was redelivered to the railroad company and lost after it was shown to be in possession of the railroad company, makes a prima facie case of negligence which was sufficient, in the absence of explanation, to support the verdict of a jury against the carrier.\nAppeal from Columbia Circuit Court; L. S. Britt, Judge;\naffirmed.\nHenry Stevens, for appellant.\nJ. E. Hawkins, for appellee."
+  },
+  "file_name": "0341-01",
+  "first_page_order": 359,
+  "last_page_order": 363
+}

@@ -1,0 +1,440 @@
+{
+  "id": 12440905,
+  "name": "The State of Washington, Petitioner, v. Jose Figeroa Martines, Respondent",
+  "name_abbreviation": "State v. Martines",
+  "decision_date": "2015-08-27",
+  "docket_number": "No. 90926-1",
+  "first_page": "83",
+  "last_page": "94",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "184 Wash. 2d 83"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Wash.",
+    "id": 9029,
+    "name": "Washington Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 38,
+    "name_long": "Washington",
+    "name": "Wash."
+  },
+  "cites_to": [
+    {
+      "cite": "630 P.2d 427",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1981,
+      "opinion_index": 0
+    },
+    {
+      "cite": "95 Wn.2d 706",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1160979
+      ],
+      "year": 1981,
+      "pin_cites": [
+        {
+          "page": "717"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/95/0706-01"
+      ]
+    },
+    {
+      "cite": "403 U.S. 388",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12027206
+      ],
+      "weight": 3,
+      "year": 1971,
+      "pin_cites": [
+        {
+          "page": "394"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/403/0397-01"
+      ]
+    },
+    {
+      "cite": "762 P.2d 20",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1988,
+      "pin_cites": [
+        {
+          "parenthetical": "citing Bivens v. Six Unknown Named Agents of Fed. Bureau of Narcotics, 403 U.S. 388, 394, 91 S. Ct. 1999, 29 L. Ed. 2d 619 (1971)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "52 Wn. App. 581",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        1708699
+      ],
+      "year": 1988,
+      "pin_cites": [
+        {
+          "page": "585",
+          "parenthetical": "citing Bivens v. Six Unknown Named Agents of Fed. Bureau of Narcotics, 403 U.S. 388, 394, 91 S. Ct. 1999, 29 L. Ed. 2d 619 (1971)"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/52/0581-01"
+      ]
+    },
+    {
+      "cite": "234 P.3d 169",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2010,
+      "opinion_index": 0
+    },
+    {
+      "cite": "169 Wn.2d 47",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4010473
+      ],
+      "year": 2010,
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/169/0047-01"
+      ]
+    },
+    {
+      "cite": "174 P.3d 706",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2008,
+      "pin_cites": [
+        {
+          "parenthetical": "\"[I]t is generally understood that a lawful seizure of apparent evidence of a crime using a valid search warrant includes a right to test or examine the seized materials to ascertain their evidentiary value.\""
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "142 Wn. App. 518",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        3974124
+      ],
+      "year": 2008,
+      "pin_cites": [
+        {
+          "page": "532",
+          "parenthetical": "\"[I]t is generally understood that a lawful seizure of apparent evidence of a crime using a valid search warrant includes a right to test or examine the seized materials to ascertain their evidentiary value.\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/142/0518-01"
+      ]
+    },
+    {
+      "cite": "834 P.2d 611",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1992,
+      "opinion_index": 0
+    },
+    {
+      "cite": "119 Wn.2d 538",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1370266
+      ],
+      "year": 1992,
+      "pin_cites": [
+        {
+          "page": "545"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/119/0538-01"
+      ]
+    },
+    {
+      "cite": "846 P.2d 1365",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1993,
+      "opinion_index": 0
+    },
+    {
+      "cite": "121 Wn.2d 22",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1365839
+      ],
+      "year": 1993,
+      "pin_cites": [
+        {
+          "page": "28"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/121/0022-01"
+      ]
+    },
+    {
+      "cite": "37 P.3d 1220",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2001,
+      "opinion_index": 0
+    },
+    {
+      "cite": "109 Wn. App. 516",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        1014088
+      ],
+      "year": 2001,
+      "pin_cites": [
+        {
+          "page": "525"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/109/0516-01"
+      ]
+    },
+    {
+      "cite": "588 P.2d 1328",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1979,
+      "opinion_index": 0
+    },
+    {
+      "cite": "91 Wn.2d 391",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1101844
+      ],
+      "year": 1979,
+      "pin_cites": [
+        {
+          "page": "398"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/91/0391-01"
+      ]
+    },
+    {
+      "cite": "852 P.2d 1064",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1993,
+      "pin_cites": [
+        {
+          "parenthetical": "noting probable cause is the proper determination for the taking of a suspect's blood"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "121 Wn.2d 525",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1365853
+      ],
+      "year": 1993,
+      "pin_cites": [
+        {
+          "page": "536",
+          "parenthetical": "noting probable cause is the proper determination for the taking of a suspect's blood"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/121/0525-01"
+      ]
+    },
+    {
+      "cite": "977 P.2d 582",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1999,
+      "opinion_index": 0
+    },
+    {
+      "cite": "138 Wn.2d 133",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        887371
+      ],
+      "year": 1999,
+      "pin_cites": [
+        {
+          "page": "140"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/138/0133-01"
+      ]
+    },
+    {
+      "cite": "319 P.3d 9",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2014,
+      "opinion_index": 0
+    },
+    {
+      "cite": "179 Wn.2d 862",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4033593
+      ],
+      "year": 2014,
+      "pin_cites": [
+        {
+          "page": "867"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/179/0862-01"
+      ]
+    },
+    {
+      "cite": "489 U.S. 602",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12032926
+      ],
+      "weight": 3,
+      "year": 1989,
+      "pin_cites": [
+        {
+          "page": "616"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/489/0602-01"
+      ]
+    },
+    {
+      "cite": "339 P.3d 634",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "weight": 3,
+      "year": 2014,
+      "opinion_index": 0
+    },
+    {
+      "cite": "181 Wn.2d 1023",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "weight": 2,
+      "year": 2014,
+      "opinion_index": 0
+    },
+    {
+      "cite": "331 P.3d 105",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2014,
+      "opinion_index": 0
+    },
+    {
+      "cite": "182 Wn. App. 519",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        4319995
+      ],
+      "weight": 4,
+      "year": 2014,
+      "pin_cites": [
+        {
+          "page": "531"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/182/0519-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 888,
+    "char_count": 17804,
+    "ocr_confidence": 0.899,
+    "pagerank": {
+      "raw": 6.095679411536434e-08,
+      "percentile": 0.38056504452576195
+    },
+    "sha256": "e6b01ae29c869127d243a9d499c0f3c18e27aacf0416b5f97b60058ffa483755",
+    "simhash": "1:2d5a63ff47cf03f3",
+    "word_count": 2884
+  },
+  "last_updated": "2024-02-27T21:13:25.899037+00:00",
+  "provenance": {
+    "date_added": "2019-05-21",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Madsen, C.J., and Johnson, Owens, Fairhurst, Wiggins, Gonz\u00e1lez, Gordon McCloud, and Yu, JJ., concur."
+    ],
+    "parties": [
+      "The State of Washington, Petitioner, v. Jose Figeroa Martines, Respondent."
+    ],
+    "opinions": [
+      {
+        "text": "Stephens, J.\n\u00b61 Jose Figeroa Martines was involved in a car accident. Pursuant to a warrant, a blood sample was extracted from Martines after an officer suspected he was driving while under the influence (DUI). The blood tests revealed a blood alcohol concentration (BAC) of about 0.061 and markers of two different central nervous system depressants. Martines was charged with felony DUI under RCW 46.61.502. He sought to suppress the blood test results showing the presence of drugs on the ground that there was no probable cause to show he was under the influence of drugs, as opposed to alcohol. The trial court denied Martines\u2019s motion, and a jury convicted him as charged.\n\u00b62 The Court of Appeals reversed Martines\u2019s conviction. State v. Figeroa Martines, 182 Wn. App. 519, 331 P.3d 105 (2014). The court did not decide the probable cause question but held instead that the blood test was an unlawful warrantless search. The court reasoned that drawing blood and testing blood constitute separate searches, each of which requires particular authorization, and that the warrant here authorized only a blood draw. The State appealed, and we accepted review. 181 Wn.2d 1023, 339 P.3d 634 (2014). We also granted review of Martines\u2019s contingent issue: whether probable cause existed to test Martines\u2019s blood sample for drugs. Id.\n\u00b63 We reverse the Court of Appeals and reinstate Martines\u2019s conviction. We hold that the warrant authorized the drawing and testing of Martines\u2019s blood for both alcohol and drugs based on probable cause to believe Martines had committed a DUI.\nFACTS AND PROCEDURAL HISTORY\n\u00b64 The relevant facts are undisputed. On June 16, 2012, officers observed Martines driving his vehicle erratically on State Route 167. Martines\u2019s car veered into another car, swerved into the median, and rolled over. An off-duty Tukwila detective saw the collision and drove to the accident site. The detective observed that Martines was stumbling, had slurred speech, and smelled like beer. The detective, along with other witnesses, observed Martines crawl back into his vehicle, retrieve a bag, and throw it into a ditch. Martines later engaged in an altercation with a passenger from the other car. A King County Sheriff\u2019s deputy arrived, and the deputy and the detective placed Martines in handcuffs.\n\u00b65 A Washington State trooper arrived to the scene moments later, interviewed witnesses, and was debriefed by the detective. The trooper took custody of Martines and informed him he was under arrest for suspicion of DUI. The trooper observed Martines had red, bloodshot eyes and smelled of alcohol. Martines told the trooper he drank \u201c\u2018[o]ne Blue Moon\u2019\u201d beer that night. Verbatim Report of Proceedings (VRP) (Nov. 5, 2012) at 20. The trooper located a bag in a nearby ditch containing a Blue Moon cardboard six-pack container with only one unopened beer bottle. VRP (Nov. 8, 2012) at 107-08.\n\u00b66 The trooper sought a search warrant to extract a blood sample from Martines at a local hospital. His affidavit for probable cause stated:\nA sample of Martines, Jose Figeroa\u2019s blood, if extracted within a reasonable period of time after he/she last operated, or was in physical control of, a motor vehicle, may be tested to determine his/her current blood alcohol level and to detect the presence of any drugs that may have impaired his/her ability to drive. . . .\nThe Legislature has specifically authorized the use of search warrants for blood in cases in which the implied consent statute applies. See RCW 46.20.308(1) (\u201cNeither consent nor this section precludes a police officer from obtaining a search warrant for a person\u2019s breath or blood.\u201d). . . .\nTherefore, I request authority to cause a sample of blood, consisting of one or more tubes to be extracted from the person of Martines, Jose Figeroa by a physician ....\nClerk\u2019s Papers (CP) at 97-99. The trooper obtained a warrant authorizing the \u201cextract[ion]\u201d of a blood sample from Martines. CP at 100-01. The warrant indicated probable cause existed to believe Martines\u2019s blood contained evidence of the crime of DUI under RCW 46.61.502. The warrant did not include any express reference to testing of the blood sample.\n\u00b67 Pursuant to the search warrant, a blood sample was drawn from Martines at a local hospital. The Washington State Toxicology Laboratory tested the sample for the presence of alcohol and drugs. The test results indicated Martines had a BAC of 0.061 and 0.062 at the time of the testing, which the toxicologist estimated would have been 0.121 two hours after the accident. Martines\u2019s blood also contained 0.05 milligrams per liter of diazepam, a central nervous depressant and active ingredient in Valium, and 0.03 milligrams per liter of nordiazepam, also a nervous system depressant and metabolite of diazepam. Martines had been previously convicted of vehicular assault while driving under the influence of an intoxicant, a predicate offense for felony DUI under RCW 46.61.502(6)(b)(ii). The State charged Martines with felony DUI.\n\u00b68 Martines moved to suppress all evidence of drugs or drug testing. He argued there was no probable cause to test his blood sample for drugs because witnesses observed only signs of alcohol intoxication. The State objected, arguing that in a DUI context, testing seeks to determine the existence of an impairing substance, which may be alcohol, drugs, or a combination of both. Further, the State argued that once it obtains a blood sample through a lawful search, it may test the sample for anything it deems appropriate. The trial court denied Martines\u2019s motion. The court held that if probable cause exists to test for either alcohol or drugs, then probable cause exists to test for both. The evidence of alcohol and drugs in Martines\u2019s blood was admitted at trial, and the jury found Martines guilty of felony DUI.\n\u00b69 On appeal, Martines raised a new issue of constitutional magnitude, arguing that the blood test constituted a separate intrusion requiring specific authorization. He retreated from his earlier concession that the warrant authorized the blood test for alcohol. See CP at 5-6; see also VRP (Nov. 5, 2012) at 31 (Martines\u2019s counsel stated during the suppression hearing, \u201cI\u2019m seeking to exclude just evidence of drug testing.\u201d); Wash. Court of Appeals oral argument, State v. Figeroa Martines, No. 64663-7-1 (Apr. 15, 2014), at 0 min., 48 sec., https://www.courts.wa.gov/appellate_trial _courts/appellateDockets/index.cfm?fa=appellateDockets .showOralArgAudioList&courtId=a01&docketDate=20140415 (Martines\u2019s counsel conceded at oral argument that the warrant authorized drawing and testing of the blood for alcohol: \u201cThe trooper quite properly sought and obtained a warrant for the taking of blood from Mr. Martines and the testing of that blood for alcohol.\u201d).\n\u00b610 The Court of Appeals reversed Martines\u2019s conviction. Figeroa Martines, 182 Wn. App. 519. Relying on Skinner v. Railway Labor Executive\u2019s Ass\u2019n, 489 U.S. 602, 616, 109 S. Ct. 1402, 103 L. Ed. 2d 639 (1989), the court held that testing of a blood sample constitutes a separate search that requires express authorization. Id. at 528. The court reasoned that testing of a blood sample \u201cintrudes upon a privacy interest that is distinct from the privacy interests in bodily integrity and personal security that are invaded by a physical penetration of the skin.\u201d Id. at 530. The court held that the warrant did not authorize testing at all and therefore the toxicology tests were an unlawful warrantless search. Id. at 532.\n\u00b611 The State petitioned to this court for review, which we granted. Figeroa Martines, 181 Wn.2d 1023, 339 P.3d 634. We also granted review of Martines\u2019s original issue, which the Court of Appeals did not address: whether probable cause existed to test Martines\u2019s blood sample for drugs, as opposed to alcohol.\nANALYSIS\n\u00b612 We review de novo a trial court\u2019s legal conclusions on a motion to suppress. State v. Hinton, 179 Wn.2d 862, 867, 319 P.3d 9 (2014).\n\u00b613 The Fourth Amendment to the United States Constitution provides that warrants may be issued only upon a showing of \u201cprobable cause, supported by oath or affirmation, and particularly describing the place to be searched, and the persons or things to be seized.\u201d Probable cause exists if the affidavit supporting the warrant describes facts and circumstances sufficient to establish a reasonable inference that a person is involved in criminal activity and that evidence of the criminal activity can be found at the place to be searched. State v. Thein, 138 Wn.2d 133, 140, 977 P.2d 582 (1999); see also State v. Kalakosky, 121 Wn.2d 525, 536, 852 P.2d 1064 (1993) (noting probable cause is the proper determination for the taking of a suspect\u2019s blood). \u201cThe standard of reasonableness to be applied takes into consideration the special experience and expertise of the arresting officer.\u201d State v. Fricks, 91 Wn.2d 391, 398, 588 P.2d 1328 (1979).\n\u00b614 We initially address Martines\u2019s contingent issue. He argues probable cause did not exist to believe he was under the influence of drugs, as opposed to alcohol. Martines notes the affidavit did not include any statement, fact, or suspicion that he was specifically suspected of drug intoxication. He argues that probable cause to suspect drug intoxication must be identified separately from probable cause to suspect alcohol intoxication. As noted, the Court of Appeals did not address this argument.\n\u00b615 We find the argument unconvincing. It ignores that an officer may suspect a driver to be under the influence of alcohol or drugs, or a combination of both. The implied consent statute expressly contemplates this:\nA person is guilty of driving while under the influence of intoxicating liquor, marijuana, or any drug if the person drives a vehicle within this state:\n(a) And the person has, within two hours after driving, an alcohol concentration of 0.08 or higher as shown by analysis of the person\u2019s breath or blood made under RCW 46.61.506; or\n(b) The person has, within two hours after driving, a THC [(tetrahydrocannabinol)] concentration of 5.00 or higher as shown by analysis of the person\u2019s blood made under RCW 46.61.506; or\n(c) While the person is under the influence of or affected by intoxicating liquor, marijuana, or any drug; or\n(d) While the person is under the combined influence of or affected by intoxicating liquor, marijuana, and any drug.\nRCW 46.61.502(1) (emphasis added).\n\u00b616 The warrant in this case was supported by probable cause to believe that Martines committed DUI and that evidence of alcohol or drug consumption would be found on his person. The trooper included the following observations in his affidavit of probable cause: (1) Martines had a \u201cstrong odor of alcohol coming from his breath,\u201d (2) \u201c[Martines] said he had one Blue Moon [beer],\u201d (3) Martines was observed throwing a bag into the bushes containing a six-pack container of beer with one unopened beer bottle, which the trooper later recovered, (4) Martines had \u201cblood shot watery eyes,\u201d (5) Martines had \u201ca flush face,\u201d (6) \u201c[Martines] walked in a slow and deliberate manner,\u201d and (7) \u201c[Martines] seemed off balance and struck the door frame as he entered the [patrol] car.\u201d CP at 98.\n\u00b617 While the first three observations relate directly to alcohol intoxication, the remaining observations support a finding of probable cause to believe that Martines was under the influence of intoxicants\u2014alcohol or drugs, or a combination of both. Further, the trooper may have believed Martines\u2019s impairment was caused, in part, by drugs, since Martines stated he had only \u201cone\u201d beer. Lastly, the trooper\u2019s affidavit stated his special experience and expertise in detecting the effects of alcohol and drug impairment.\n\u00b618 Martines cites State v. Baldwin, 109 Wn. App. 516, 525, 37 P.3d 1220 (2001), for the proposition that probable cause needs to be separately identified for drugs and alcohol in DUI cases. Martines is partially correct. Baldwin stands for the proposition that if alcohol is ruled out as the cause of impairment, a blood draw still requires probable cause to suspect drugs caused the impairment, at least in part. Id. at 524-25. Thus, if alcohol is not suspected as a cause of impairment, drug intoxication must be identified separately to draw blood. However, unlike in Baldwin, alcohol was not ruled out as the cause of Martines\u2019s impairment. We reject Martines\u2019s argument that probable cause to suspect drug intoxication must always be identified separately from probable cause to suspect alcohol intoxication. The affidavit here was sufficient.\n\u00b619 Martines next argues that even if the warrant was supported by probable cause to suspect alcohol and drugs, it lacked particularity to authorize blood testing. The Court of Appeals accepted this argument, concluding the warrant\u2019s language authorized only the drawing of a blood sample from Martines, not the testing of that sample for drugs or alcohol. Martines, 182 Wn. App. at 531. The court reasoned that absent express authorization to test the blood, a vague warrant could potentially allow the State to \u201crummagfe]\u201d the blood sample for evidence unrelated to DUI. Id. We disagree.\n\u00b620 The Fourth Amendment and article I, section 7 of our state constitution require that \u201cwarrants describe with particularity the things to be seized.\u201d State v. Riley, 121 Wn.2d 22, 28, 846 P.2d 1365 (1993); State v. Perrone, 119 Wn.2d 538, 545, 834 P.2d 611 (1992). This requirement \u201celiminates the danger of unlimited discretion in the executing officer\u2019s determination of what to seize.\u201d Perrone, 119 Wn.2d at 546. Courts examine the purpose of the \u201cparticular description\u201d requirement to determine whether the description is valid. These purposes include (1) preventing exploratory searches, (2) protecting against \u201cseizure of objects on the mistaken assumption that they fall within\u201d the warrant, and (3) ensuring that probable cause is present. Id. at 545.\n\u00b621 The warrant in this case authorized the \u201cextract [ion]\u201d of a blood sample from Martines, indicating probable cause existed to believe his blood contained evidence of DUI. CP at 100-01. The purpose of the warrant was to draw a sample of blood from Martines to obtain evidence of DUI. It is not sensible to read the warrant in a way that stops short of obtaining that evidence. A warrant authorizing a blood draw necessarily authorizes blood testing, consistent with and confined to the finding of probable cause. The only way for the State to obtain evidence of DUI from a blood sample is to test the blood sample for intoxicants. See State v. Grenning, 142 Wn. App. 518, 532, 174 P.3d 706 (2008) (\u201c[I]t is generally understood that a lawful seizure of apparent evidence of a crime using a valid search warrant includes a right to test or examine the seized materials to ascertain their evidentiary value.\u201d), aff'd, 169 Wn.2d 47, 234 P.3d 169 (2010).\n\u00b622 The court erred in concluding the warrant was fatally deficient. The warrant in this case was supported by probable cause to believe Martines\u2019s blood contained evidence of DUI. We apply a commonsense reading to the warrant and conclude it authorized not merely the drawing and storing of a blood sample but also the toxicology tests performed to detect the presence of drugs or alcohol. See Perrone, 119 Wn.2d at 549 (\u201cSearch warrants are to be tested and interpreted in a commonsense, practical manner, rather than in a hypertechnical sense.\u201d).\n\u00b623 Lastly, the State argues the search was executed within the scope of the warrant because it acted reasonably in testing the blood sample. Martines does not address the permissible scope of the search, resting his arguments on the warrant\u2019s lack of probable cause and particularity. We emphasize that police \u201cmust execute a search warrant strictly within the bounds set by the warrant.\u201d State v. Kelley, 52 Wn. App. 581, 585, 762 P.2d 20 (1988) (citing Bivens v. Six Unknown Named Agents of Fed. Bureau of Narcotics, 403 U.S. 388, 394, 91 S. Ct. 1999, 29 L. Ed. 2d 619 (1971)). The nature of the items to be seized governs the permissible degree of intensity for the search. State v. Lair, 95 Wn.2d 706, 717, 630 P.2d 427 (1981).\n\u00b624 Here, the warrant referred to the extraction of a blood sample from Martines to obtain evidence of DUI. As discussed above, a warrant authorizing extraction of a blood sample necessarily authorizes testing of that sample for evidence of the suspected crime. The search in this case did not exceed the bounds of the search warrant when a sample of Martines\u2019s blood was extracted and tested for intoxicants.\nCONCLUSION\n\u00b625 We reverse the Court of Appeals. We hold that a warrant authorizing the testing of a blood sample for intoxicants does not require separate findings of probable cause to suspect drug and alcohol use so long as there is probable cause to suspect intoxication that may be caused by alcohol, drugs, or a combination of both. We further hold that the search warrant authorized testing Martines\u2019s blood sample for intoxicants because it authorized a blood draw to obtain evidence of DUI.\nMadsen, C.J., and Johnson, Owens, Fairhurst, Wiggins, Gonz\u00e1lez, Gordon McCloud, and Yu, JJ., concur.",
+        "type": "majority",
+        "author": "Stephens, J."
+      }
+    ],
+    "attorneys": [
+      "Daniel T. Satterberg, Prosecuting Attorney, and James M. Whisman, Deputy, for petitioner.",
+      "Oliver R. Davis (of Washington Appellate Project), for respondent.",
+      "Pamela B. Loginsky on behalf of Washington Association of Prosecuting Attorneys, amicus curiae.",
+      "Shelley A. Williams, Managing Assistant Attorney General, on behalf of Washington State Patrol, amicus curiae.",
+      "Nancy L. Talner and Douglas B. Klunder on behalf of American Civil Liberties Union of Washington, amicus curiae."
+    ],
+    "corrections": "",
+    "head_matter": "[No. 90926-1.\nArgued May 7, 2015.\nDecided August 27, 2015.\nThe State of Washington, Petitioner, v. Jose Figeroa Martines, Respondent.\nDaniel T. Satterberg, Prosecuting Attorney, and James M. Whisman, Deputy, for petitioner.\nOliver R. Davis (of Washington Appellate Project), for respondent.\nPamela B. Loginsky on behalf of Washington Association of Prosecuting Attorneys, amicus curiae.\nShelley A. Williams, Managing Assistant Attorney General, on behalf of Washington State Patrol, amicus curiae.\nNancy L. Talner and Douglas B. Klunder on behalf of American Civil Liberties Union of Washington, amicus curiae."
+  },
+  "file_name": "0083-01",
+  "first_page_order": 125,
+  "last_page_order": 136
+}

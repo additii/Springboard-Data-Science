@@ -1,0 +1,109 @@
+{
+  "id": 8722017,
+  "name": "McMahen v. Missouri Pacific Railroad Company",
+  "name_abbreviation": "McMahen v. Missouri Pacific Railroad",
+  "decision_date": "1932-10-31",
+  "docket_number": "4-2698",
+  "first_page": "399",
+  "last_page": "400",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "186 Ark. 399"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [
+    {
+      "cite": "14 A. L. R. 720",
+      "category": "reporters:specialty",
+      "reporter": "A.L.R.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "192 Pac. 859",
+      "category": "reporters:state_regional",
+      "reporter": "P.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "184 Cal. 1",
+      "category": "reporters:state",
+      "reporter": "Cal.",
+      "case_ids": [
+        2130753
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal/184/0001-01"
+      ]
+    },
+    {
+      "cite": "37 S. Ct. 170",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        3934724
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/242/0353-01"
+      ]
+    },
+    {
+      "cite": "242 U. S. 253",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 241,
+    "char_count": 3121,
+    "ocr_confidence": 0.507,
+    "pagerank": {
+      "raw": 6.56973958820642e-08,
+      "percentile": 0.4023499053419717
+    },
+    "sha256": "e9254471d4d03af8b8c2da28627814003134dcc8c156b742186b01bbe6efda56",
+    "simhash": "1:bcfcba13f0e508d6",
+    "word_count": 511
+  },
+  "last_updated": "2024-02-27T17:52:01.123529+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "McMahen v. Missouri Pacific Railroad Company."
+    ],
+    "opinions": [
+      {
+        "text": "Humphreys, J.\nThe sole question presented on this appeal is whether the trial court erred in instructing a verdict for appellee upon the ground that appellant had not established by any substantial testimony that he was engaged in interstate commerce at the time he claimed he was injured. By so instructing the jury, the trial court eliminated all issues joined on liability, assumed risk, contributory negligence, etc., holding that the Miller County Circuit Court had no jurisdiction to try and determine the cause under the Federal Employers\u2019 Liability Act, upon which act appellant sought to recover.\nThe testimony, viewed in its most favorable light to appellant, showed that he received the injury complained of while engaged in inspecting and repairing a switch engine, numbered 516, constantly theretofore used, and was thereafter to be used, indiscriminately in making and breaking up trains and in placing cars employed in interstate and intrastate commerce in the yard owned by ap-pellee; that said engine was removed into the roundhouse situated in the yard for the federal monthly routine inspection, and for such repairs as the inspection might disclose to he necessary under order of the United States Government: that the engine needed only the removal of the main throttle and draw-bar for inspection and the tightening of nuts, binders, etc., and the packing of valves, which would require about a day to do after beginning the inspection; that the engine was in the roundhouse three days altogether, and was returned to the switch yard for its accustomed use after being inspected and repaired; that a report of the inspection and repairs made was mailed to the Interstate Commerce Commission; that the injury complained of was received while the engine was being inspected and repaired.\nWe do not think driving the engine out of the yard into the roundhouse for its federal monthly routine inspection and for necessary repairs disclosed by said inspection, which were of a minor nature, under order of the United States Government, changed its character as an interstate instrumentality, especially in the light of the fact that it was to be and was returned to its accustomed use as soon as inspected and repaired.\nIt was not a road engine removed from an interstate haul indefinitely or for any considerable length of time for repairs, nor was it a disabled, broken-down engine which was to all intents and purposes out of commission.\nThe facts stated above differentiate the instant case from the cases of Minneapolis & St. Louis Railroad Company v. Winters, 242 U. S. 253, 37 S. Ct. 170, and Hines, Director General, v. Industrial Accident Commission, 184 Cal. 1, 192 Pac. 859, 14 A. L. R. 720, relied upon by ap-pellee for an affirmance of the judgment.\nThe judgment of dismissal is reversed, and the cause is remanded for a new trial of the case upon its merits under the Federal Employers\u2019 Liability Act.",
+        "type": "majority",
+        "author": "Humphreys, J."
+      }
+    ],
+    "attorneys": [
+      "Crumpton <& Crumpton and Jones & Jones, for appellant.",
+      "R. E. Wiley and Henry Bonham, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "McMahen v. Missouri Pacific Railroad Company.\n4-2698\nOpinion delivered October 31, 1932.\nCrumpton <& Crumpton and Jones & Jones, for appellant.\nR. E. Wiley and Henry Bonham, for appellee."
+  },
+  "file_name": "0399-01",
+  "first_page_order": 419,
+  "last_page_order": 420
+}

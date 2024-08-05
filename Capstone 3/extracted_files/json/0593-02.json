@@ -1,0 +1,93 @@
+{
+  "id": 8728361,
+  "name": "Jordan, ad. vs. Fenno",
+  "name_abbreviation": "Jordan v. Fenno",
+  "decision_date": "1853-01",
+  "docket_number": "",
+  "first_page": "593",
+  "last_page": "599",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "13 Ark. 593"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [
+    {
+      "cite": "12 Wend. 61",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "case_ids": [
+        11268083
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/wend/12/0061-01"
+      ]
+    },
+    {
+      "cite": "5 Cow. 173",
+      "category": "reporters:state",
+      "reporter": "Cow.",
+      "case_ids": [
+        2032713
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/cow/5/0173-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 642,
+    "char_count": 13709,
+    "ocr_confidence": 0.506,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2086337852129603
+    },
+    "sha256": "ca43756de2d1219c18ad0b7ec9541474375f009c8aec50cbd25c6c44717ac5ed",
+    "simhash": "1:b4e0c76a36c788f7",
+    "word_count": 2411
+  },
+  "last_updated": "2024-02-27T18:22:40.367180+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Watkins, C. J., did not sit in this case."
+    ],
+    "parties": [
+      "Jordan, ad. vs. Fenno."
+    ],
+    "opinions": [
+      {
+        "text": "Mr. Justice Walicee\ndelivered the opinion of the Court.\nThe contest in this case is narrowed down .to an issue between the complainant, Jordan, and the defendant, Fenno, for a sum of money collected by Messrs. Ashley & Watkins for the complainant\u2019s intestate, and claimed by Fenno under a deed of mortgage or assignment, made by the intestate to Fenno, to secure the payment of a bond for $2,500.\nThe substance of the complaint, so far as this question is concerned, is, that Danley, who was in embarrassed circumstances^ in order to secure the payment of some $400 or $500, which he owed to Fenno, and, to enable him to obtain further sums of money for the support of his family from time to time as his necessities might require, on the 4th day of November, 1843, executed to Fenno his writing obligatory for $2,500, and, at the same time, a deed of assignment or mortgage on certain debts or the money arising thereon when collected; which judgments and debts were placed in the hands of Ashley & Watkins, attorneys, to be collected, and after the payment of a certain judgment which Danley owed to Robins\u2019 heirs, the collection of which Ashley & Watkins controlled, and their fees, costs and charges, they, as by their receipt shown, were to pay over the balance to Dan-ley. That these judgments and debts amounted to near $4,000. That the judgment in favor of Robins\u2019 heirs, which amounted to some $2,300, was fully paid and satisfied by the sale of property, and that no part of the money arising from these debts was paid' out on that demand; so that the whole sum collected by Ashley & Watkins in fact belonged of right to the estate of Danley. That, notwithstanding the execution of the bond by Danley to Fenno for $2,500, in truth no such sum was ever due and owing from Danley to Fenno; but that the understanding and agreement between them was. that, after satisfying the debt to Robins\u2019 heirs, fees, &c., the debts or the money collected upon them was to be held by Fenno, or under his control, to secure the payment of the sum due to Mm, or which might thereafter become due for such sums as Fenno might advance to Danley. Complainant states that no further advancements were ever made, and denies Fen-no\u2019s right to money collected by Messrs. Ashley & Watkins, on the .claims so placed in their hands for collection.\nThe answer of Mr. Watkins, the surviving partner of th.e firm of Ashley & Watkins, shows that, after all due credits, there is a balance in his hands, which he holds subject to the order of the court. Messrs. Trapnall & Cocke claim an appropriation of part of this fund, which they contend is equitably bound for a balance qf a debt due by Danley to them. With regard to the rights of these defendant,@, there spems to be no contest, and, as remarked in the outset, the issue now to be determined is made between the complainant and Fenno.\nAs between them, th.e fifst and main point to be settled is as to the true amount due from Danley to Fenno, and for which the mortgage lien was given.\nFenno is positive pud direct in his answer. He swears that, at the time of th.e acknowledgment and delivery of the bond and mortgage, h.e paid to Danley th.e exact and precise sum of \u00a72,500; that the bond was .executed apd mortgage tak.en to evidence and secure the payment of that sum. He positively denies that there was any secret pr oral agreement or understanding between them other than that expressed in the bond apd mortgage, which contains the true and only agreement or contract in relation to that transaction. This answer is very full and positive, and as it is in regard to a matter within the personal knowledge of the defendant, it must prevail, unless the complainant\u2019s allegation is sustained by two witnesses, or by on,e witness whose testimony is sustained by corroborative circumstances.\nThe evidence is very unsatisfactory on this point, and there are to be found facts and circumstances, some of which tend to sustain the ]bijl, others the answer. Thus, for the complainant, it is proven by a witness (the attorney who prepared the mortgage) that, at the time it was drawn up, and submitted to the parties, they admitted that the bond and mortgage were intended to secure a debt of some $400 or $500 then due to Fenno, and also such sums as Fenno might thereafter advance to Danley for the support of. his family, and that the bond for $2,500 was neither understood or intended to evidence the true amount of the indebtedness between them. Danley is shown to have been in embarrassed circumstances, and this may have induced him to admit a larger indebtedness than actually existed, and thereby to enable Fenno more effectually to cover the debts mentioned in the mortgage from the grasp of Danley\u2019s creditors. And a like motive may have induced them to converse together in the presence of the witness Dooley, in which Danley spoke of the attachment issued by the Bank against his estate, that his negroes were then in the custody of the sheriff, and after requesting Fen-no to get an officer, before whom he could acknowledge the deed, whilst Fenno was gone told witness that the mortgage was executed to get money to pay the bank debt. Still, this witness did not see the money paid, nor is it in proof that any witness saw it paid, or that it was in fact paid except by the oath of Fenno. And these declarations may have been made by concert for appearances, and to give color of fairness to the transaction ; for it is in proof that the bank debt was not paid, that Danley continued in embarrassed circumstances, made few purchases, paid no large debts, and, so far as could be ascertained, never had, until the time of his death, any considerable sum of money at his disposal. These circumstances strongly tend to show that Danley did not receive that sum from Fenno. Most of this testimony, however, is negative, and may be met, and to some extent repelled, by a different construction of the acts and probable motives of the parties, as well as other evidence independent of the positive statement of Fenno, in his answer, that the money was in fact paid to Danley. And first, in support of the answer, there is the bond executed by Danley, whereby he acknowledged himself to be du.e Fenno $2,500, and his subsequent acknowledgment, before the witness Dooley, that the mortgage was executed to enable him to get money to pay the bank debt, Danley\u2019s pressing necessities, the amount said to have been loaned so nearly corresponding with the amount of the bank debt, Fenno\u2019s ability about that time to advance that, or even a larger sum\u2014 all tend to sustain the answer, and, when taken in connection with it, is sufficient to establish that as the amount due from Danley to Fenno.\nThere is, however, another ground, which would, we apprehend, be still more fatal to the recovery of the complainant than this. The complainant admits that the contract between Danley and Fenno was reduced to writing, and executed with a full knowledge of its contents and of all the facts. The writing, then, is itself the best and only reliable evidence of such contract. It is tacitly agreed upon by the parties as the only repository and the appropriate evidence of their agreement. (1 Greenl. Ev., ch. 4, p. 162.) And parol evidence of the understanding and intent of the parties, different from that so expressed, is not admissible. Patchen vs. Pearce, 12 Wend. R. 63. Jackson vs. Jackson, 5 Cow. R. 174.\nIt is true that an absolute deed may, by parol evidence, be turned into a mortgage; but this is on the assumption of fraud in the grantee. There is no fraud alleged in this case, nor does the complainant seek to set aside the written contract upon the ground of fraud, but attempts to set up a verbal understanding and agreement differing in terms from the written contract. A contract cannot remain partly in writing and partly in oral testimony. (1 Powell on Contracts 259. 3 Starkie Ev. 1008. Black vs. Bowman & Trammell, 4 Eng. 506.) \u201c Where a contract is once reduced to writing by the parties all oral testimony of a previous colloquium between the parties, or of conversations or declarations at the time when it was completed or afterwards, as it would tend, in many instances, to substitute a new and different contract for the one which was really agreed upon, to the prejudice possibly of one of the parties, is rejected.\u201d (1 Greenl. Ev. 398.) So far, therefore, as regards Danley, or the complainant, as his representative, they must be held to abide the contract, as evidenced by the bond and mortgage, so long as it remains in force.\nIf the facts, as stated in the bill, are true, they might, with propriety, have been presented and relied upon by the creditors of Danley in a suit against Danley and Fenno, setting up this secret understanding between them as intended to cover and conceal Danley\u2019s property from his creditors, and a fraud upon their rights. Then, no doubt, parol evidence would be admissible to show the true nature of the contract and the consideration upon which it was made. The suit in that case, would be by third persons not parties to the contract, and to set it aside for fraud; not, as in this case, to modify and uphold it. As between the parties themselves, no matter how fraudulent it may be, or how it may be held as to creditors and others whose rights are affected by it, it is binding. Meaux vs. Anthony, 6 Eng. 411.\nThe ground taken by the complainant that, asno objection was taken to the admission of parol evidence, it should be held as competent, is not tenable. The rule with regard to the admission of secondary evidence, does not apply, because the object for which the evidence is here introduced is not to supply the place of primary evidence, but to contradict it. This distinction is taken and well sustained by Mr. Greenleaf, in his work on evidence. 1 vol., p. 163.\nIt follows, therefore, that the whole of the parol evidence offered to contradict, vary or qualify the written contract, was inadmissible, and leaves the case stripped of every vestige of equity as between Danley, or his representative, and Fenno; unless, after the payment of the sum secured by the terms of bond and mortgage, there should be an excess of funds in the hands of Messrs. Ashley & Watkins, which, from the evidence, appears not to be the case.\nThe bill falls so far short of a suit by the creditors, or for the use of creditors, who seek to set aside the contract on account of fraud, that it is unnecessary to investigate at length that point.\nIn view of the whole case, we do not hesitate to affirm the decree of the circuit court with costs.\nLet the decree be affirmed.\nWatkins, C. J., did not sit in this case.",
+        "type": "majority",
+        "author": "Mr. Justice Walicee"
+      }
+    ],
+    "attorneys": [
+      "P. JORDAN, appellant,",
+      ".Pike, contra."
+    ],
+    "corrections": "",
+    "head_matter": "Jordan, ad. vs. Fenno.\nWhere an allegation- of the'bill is positively denied by the sworn answer of d\u2019efen-dant, and regards a matter within his personal knowledge, the denial must prevail, unless complainant sustain the allegation by two witnesses, or one, with\u2019 corroborating circumstances. .\nWhere parties reduce a contract to writing, with a full knowledge' of its contents, paiol evidence is inadmissible to show an understanding or intent of the parties different from that expressed in the instrument.\nIt is true that an absolute deed may, by parol evidence, be turned into a mortgage\u00bbbut this is on the assumption of fraud in the grantee.\nWhere complainant alleges no fraud, and does not seek to set aside the \u25a0written contract upon the ground of fraud, he is not permitted to set up and prove aver-bal understanding and agreement differing in terms from the written contract.\nWhere a party executes a bond and mortgage to another to cover up his property and defraud creditors, though the contract is binding upon the parties, and their representatives, yet creditors may file a bill to cancel it, and establish its true character by parol.\nWhere secondary evidence is introduced, not to supply the place of, but to contradict primary evidence, it will not avail, though introduced without objection.\nAppeal from the Chancery side of Pulaski Circuit Court.\nP. JORDAN, appellant,\ncontended that parol testimony is admissible to prove that a bond, although absolute on its face, was intended by the parties to answer only a specific limited purpose, and may in equity have its operation confined to that special purpose, if a fraudulent attempt be made to use it for a different purpose. (Hultz vs. Wright et al., 16 Seng. &. R. 345. Boyd vs. McLean & wife, 1 J. C. R. 582. Botsford v. Burr, 2 ib. 406. 4 J. C. R. 167. 2 Ves. Jr. R. 584.- Douglass vs. Peele & others, 1 Clark's Rep. 536.): And that the facts proven in this case were sufficient to overturn the answer of the defendant, and show conclusively that the consideration expressed in the bond and assignment was not the true one, but that they were executed for a different purpose-\n.Pike, contra.\nThis is not a bill by the creditors of Danley, against him and Fenno, to set aside a contract for fraud; but by his administrator, who represents and claims under him, and has no other rights or interest than Danley himself, if living, would have had ; and in such case, parol evidence is inadmissible to show that he was not indebted to the defendant in the sum specified in the bond; that all cotemporary or prior parol stipulations are to be regarded as merged in a contract when reduced to writing ; and that\u2019 parol evidence is not admissible to contradict, add to, or vary the terms of the deed. (3 Cow's Phill. 1428, note 961. Id. 1467, note 984. Jackson vs. Jackson, 5 Cow. 173. 12 Wend. 61.) But if parol evidence was admissible for such purpose, there is none in this case sufficient to overturn the positive answer of the defendant."
+  },
+  "file_name": "0593-02",
+  "first_page_order": 593,
+  "last_page_order": 599
+}

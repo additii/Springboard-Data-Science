@@ -1,0 +1,1009 @@
+{
+  "id": 12456853,
+  "name": "The Department of Labor and Industries, Respondent, v. Lyons Enterprises, Inc., Petitioner",
+  "name_abbreviation": "Department of Labor & Industries v. Lyons Enterprises, Inc.",
+  "decision_date": "2016-05-19",
+  "docket_number": "No. 91610-1",
+  "first_page": "721",
+  "last_page": "744",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "185 Wash. 2d 721"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Wash.",
+    "id": 9029,
+    "name": "Washington Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 38,
+    "name_long": "Washington",
+    "name": "Wash."
+  },
+  "cites_to": [
+    {
+      "cite": "22 P.3d 810",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2001,
+      "opinion_index": 0
+    },
+    {
+      "cite": "106 Wn. App. 26",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        240666
+      ],
+      "year": 2001,
+      "pin_cites": [
+        {
+          "page": "35"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/106/0026-01"
+      ]
+    },
+    {
+      "cite": "425 P.2d 16",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1967,
+      "opinion_index": 0
+    },
+    {
+      "cite": "70 Wn.2d 657",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1060247
+      ],
+      "year": 1967,
+      "pin_cites": [
+        {
+          "page": "666"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/70/0657-01"
+      ]
+    },
+    {
+      "cite": "162 P.3d 450",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "weight": 2,
+      "year": 2007,
+      "opinion_index": 0
+    },
+    {
+      "cite": "139 Wn.App. 677",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        3839340
+      ],
+      "weight": 2,
+      "year": 2007,
+      "pin_cites": [
+        {
+          "page": "689"
+        },
+        {
+          "page": "689"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/139/0677-01"
+      ]
+    },
+    {
+      "cite": "275 P.2d 903",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1954,
+      "opinion_index": 0
+    },
+    {
+      "cite": "45 Wn.2d 497",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        2425373
+      ],
+      "year": 1954,
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/45/0497-01"
+      ]
+    },
+    {
+      "cite": "856 P.2d 421",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1993,
+      "opinion_index": 0
+    },
+    {
+      "cite": "71 Wn. App. 23",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        1787255
+      ],
+      "year": 1993,
+      "pin_cites": [
+        {
+          "page": "33"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/71/0023-01"
+      ]
+    },
+    {
+      "cite": "639 P.2d 843",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "weight": 2,
+      "year": 1982,
+      "opinion_index": 0
+    },
+    {
+      "cite": "31 Wn. App. 117",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        1821925
+      ],
+      "year": 1982,
+      "pin_cites": [
+        {
+          "page": "118"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/31/0117-01"
+      ]
+    },
+    {
+      "cite": "886 P.2d 1147",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1995,
+      "opinion_index": 0
+    },
+    {
+      "cite": "76 Wn. App. 600",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        489928
+      ],
+      "weight": 12,
+      "year": 1995,
+      "pin_cites": [
+        {
+          "page": "608"
+        },
+        {
+          "page": "602"
+        },
+        {
+          "page": "603"
+        },
+        {
+          "page": "602"
+        },
+        {
+          "page": "607"
+        },
+        {
+          "page": "607-08"
+        },
+        {
+          "page": "608"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/76/0600-01"
+      ]
+    },
+    {
+      "cite": "344 P.3d 741",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2015,
+      "pin_cites": [
+        {
+          "parenthetical": "citing Dana's Housekeeping, Inc. v. Dep't of Labor & Indus., 76 Wn. App. 600, 608, 886 P.2d 1147 (1995)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "186 Wn. App. 367",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        4172418
+      ],
+      "year": 2015,
+      "pin_cites": [
+        {
+          "page": "377",
+          "parenthetical": "citing Dana's Housekeeping, Inc. v. Dep't of Labor & Indus., 76 Wn. App. 600, 608, 886 P.2d 1147 (1995)"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/186/0367-01"
+      ]
+    },
+    {
+      "cite": "124 P.2d 559",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1942,
+      "opinion_index": 0
+    },
+    {
+      "cite": "13 Wn.2d 164",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        2561215
+      ],
+      "year": 1942,
+      "pin_cites": [
+        {
+          "page": "168"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/13/0164-01"
+      ]
+    },
+    {
+      "cite": "282 P.2d 265",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1955,
+      "opinion_index": 0
+    },
+    {
+      "cite": "46 Wn.2d 475",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        5031474
+      ],
+      "weight": 2,
+      "year": 1955,
+      "pin_cites": [
+        {
+          "page": "476"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/46/0475-01"
+      ]
+    },
+    {
+      "cite": "662 P.2d 391",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1982,
+      "pin_cites": [
+        {
+          "parenthetical": "citing Cook v. Dep't of Labor & Indus., 46 Wn.2d 475, 476, 282 P.2d 265 (1955), overruled by White, 48 Wn.2d 470"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "33 Wn. App. 745",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        1819504
+      ],
+      "weight": 2,
+      "year": 1982,
+      "pin_cites": [
+        {
+          "page": "749",
+          "parenthetical": "citing Cook v. Dep't of Labor & Indus., 46 Wn.2d 475, 476, 282 P.2d 265 (1955), overruled by White, 48 Wn.2d 470"
+        },
+        {
+          "page": "752"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/33/0745-01"
+      ]
+    },
+    {
+      "cite": "463 P.2d 269",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1969,
+      "opinion_index": 0
+    },
+    {
+      "cite": "1 Wn. App. 547",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        1861775
+      ],
+      "year": 1969,
+      "pin_cites": [
+        {
+          "page": "552"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/1/0547-01"
+      ]
+    },
+    {
+      "cite": "82 P.2d 865",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1938,
+      "opinion_index": 0
+    },
+    {
+      "cite": "196 Wash. 308",
+      "category": "reporters:state",
+      "reporter": "Wash.",
+      "case_ids": [
+        1348522
+      ],
+      "year": 1938,
+      "pin_cites": [
+        {
+          "page": "311"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash/196/0308-01"
+      ]
+    },
+    {
+      "cite": "378 P.2d 684",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1963,
+      "opinion_index": 0
+    },
+    {
+      "cite": "61 Wn.2d 439",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1034626
+      ],
+      "year": 1963,
+      "pin_cites": [
+        {
+          "page": "446"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/61/0439-01"
+      ]
+    },
+    {
+      "cite": "413 P.2d 814",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1966,
+      "opinion_index": 0
+    },
+    {
+      "cite": "68 Wn.2d 507",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1052996
+      ],
+      "year": 1966,
+      "pin_cites": [
+        {
+          "page": "510"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/68/0507-01"
+      ]
+    },
+    {
+      "cite": "600 P.2d 1015",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1979,
+      "opinion_index": 0
+    },
+    {
+      "cite": "92 Wn.2d 631",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1099561
+      ],
+      "year": 1979,
+      "pin_cites": [
+        {
+          "page": "635"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/92/0631-01"
+      ]
+    },
+    {
+      "cite": "745 P.2d 1295",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1987,
+      "pin_cites": [
+        {
+          "parenthetical": "citing RCW 51.12.010; Sacred Heart Med. Ctr. v. Carrado, 92 Wn.2d 631, 635, 600 P.2d 1015 (1979); Lightle v. Dep't of Labor & Indus., 68 Wn.2d 507, 510, 413 P.2d 814 (1966); Wilber v. Dep't of Labor & Indus., 61 Wn.2d 439, 446, 378 P.2d 684 (1963"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "109 Wn.2d 467",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1186064
+      ],
+      "year": 1987,
+      "pin_cites": [
+        {
+          "page": "470",
+          "parenthetical": "citing RCW 51.12.010; Sacred Heart Med. Ctr. v. Carrado, 92 Wn.2d 631, 635, 600 P.2d 1015 (1979); Lightle v. Dep't of Labor & Indus., 68 Wn.2d 507, 510, 413 P.2d 814 (1966); Wilber v. Dep't of Labor & Indus., 61 Wn.2d 439, 446, 378 P.2d 684 (1963"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/109/0467-01"
+      ]
+    },
+    {
+      "cite": "120 P.3d 941",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "weight": 2,
+      "year": 2005,
+      "pin_cites": [
+        {
+          "parenthetical": "emphasis added"
+        },
+        {
+          "parenthetical": "quoting RCW 51.12.010"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "155 Wn.2d 527",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        3766052
+      ],
+      "year": 2005,
+      "pin_cites": [
+        {
+          "page": "531",
+          "parenthetical": "emphasis added"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/155/0527-01"
+      ]
+    },
+    {
+      "cite": "904 P.2d 278",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1995,
+      "opinion_index": 0
+    },
+    {
+      "cite": "127 Wn.2d 853",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        433021
+      ],
+      "year": 1995,
+      "pin_cites": [
+        {
+          "page": "859"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/127/0853-01"
+      ]
+    },
+    {
+      "cite": "334 P.3d 519",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2014,
+      "pin_cites": [
+        {
+          "parenthetical": "citing Birklid v. Boeing Co., 127 Wn.2d 853, 859, 904 P.2d 278 (1995)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "181 Wn.2d 391",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4356679
+      ],
+      "year": 2014,
+      "pin_cites": [
+        {
+          "page": "396",
+          "parenthetical": "citing Birklid v. Boeing Co., 127 Wn.2d 853, 859, 904 P.2d 278 (1995)"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/181/0391-01"
+      ]
+    },
+    {
+      "cite": "860 P.2d 1015",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1993,
+      "pin_cites": [
+        {
+          "parenthetical": "citing RCW 19.100.180; Coast to Coast, 100 Wn.2d at 150"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "122 Wn.2d 574",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1363509
+      ],
+      "year": 1993,
+      "pin_cites": [
+        {
+          "page": "580",
+          "parenthetical": "citing RCW 19.100.180; Coast to Coast, 100 Wn.2d at 150"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/122/0574-01"
+      ]
+    },
+    {
+      "cite": "48 Wash. L. Rev. 291",
+      "category": "journals:journal",
+      "reporter": "Wash. L. Rev.",
+      "year": 1973,
+      "pin_cites": [
+        {
+          "page": "297-98"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "667 P.2d 619",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1983,
+      "pin_cites": [
+        {
+          "parenthetical": "quoting Donald S. Chisum, State Regulation of Franchising: The Washington Experience, 48 Wash. L. Rev. 291, 297-98 (1973)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "100 Wn.2d 147",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1142101
+      ],
+      "year": 1983,
+      "pin_cites": [
+        {
+          "page": "150",
+          "parenthetical": "quoting Donald S. Chisum, State Regulation of Franchising: The Washington Experience, 48 Wash. L. Rev. 291, 297-98 (1973)"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/100/0147-01"
+      ]
+    },
+    {
+      "cite": "806 P.2d 1266",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1991,
+      "opinion_index": 0
+    },
+    {
+      "cite": "60 Wn. App. 743",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        1719155
+      ],
+      "year": 1991,
+      "pin_cites": [
+        {
+          "page": "748"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/60/0743-01"
+      ]
+    },
+    {
+      "cite": "729 P.2d 33",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1986,
+      "opinion_index": 0
+    },
+    {
+      "cite": "107 Wn.2d 314",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1192375
+      ],
+      "year": 1986,
+      "pin_cites": [
+        {
+          "page": "317-18"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/107/0314-01"
+      ]
+    },
+    {
+      "cite": "974 P.2d 369",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1999,
+      "pin_cites": [
+        {
+          "parenthetical": "\"Our Legislature enacted . . . FIPA ... to curb franchisor sales abuses and unfair competitive practices.\" (citing Morris v. Int'l Yogurt Co., 107 Wn.2d 314, 317-18, 729 P.2d 33 (1986))"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "95 Wn. App. 98",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        255078
+      ],
+      "year": 1999,
+      "pin_cites": [
+        {
+          "page": "102",
+          "parenthetical": "\"Our Legislature enacted . . . FIPA ... to curb franchisor sales abuses and unfair competitive practices.\" (citing Morris v. Int'l Yogurt Co., 107 Wn.2d 314, 317-18, 729 P.2d 33 (1986))"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/95/0098-01"
+      ]
+    },
+    {
+      "cite": "32 Seattle U. L. Rev. 811",
+      "category": "journals:journal",
+      "reporter": "Seattle U. L. Rev.",
+      "year": 2009,
+      "pin_cites": [
+        {
+          "page": "812",
+          "parenthetical": "describing the \"thundering silence that has persisted on a wide variety of FIPA issues\""
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "966 P.2d 1282",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1998,
+      "opinion_index": 0
+    },
+    {
+      "cite": "93 Wn. App. 140",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        49054
+      ],
+      "year": 1998,
+      "pin_cites": [
+        {
+          "page": "144"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/93/0140-01"
+      ]
+    },
+    {
+      "cite": "49 P.3d 135",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2002,
+      "opinion_index": 0
+    },
+    {
+      "cite": "112 Wn. App. 291",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        719192
+      ],
+      "weight": 2,
+      "year": 2002,
+      "pin_cites": [
+        {
+          "page": "296"
+        },
+        {
+          "page": "296"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/112/0291-01"
+      ]
+    },
+    {
+      "cite": "88 P.3d 413",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2004,
+      "opinion_index": 0
+    },
+    {
+      "cite": "121 Wn. App. 288",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        864048
+      ],
+      "weight": 3,
+      "year": 2004,
+      "pin_cites": [
+        {
+          "page": "293"
+        },
+        {
+          "page": "293"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/121/0288-01"
+      ]
+    },
+    {
+      "cite": "230 P.3d 271",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2010,
+      "pin_cites": [
+        {
+          "parenthetical": "citing RCW 51.48.131; R&G Probst v. Dep't of Labor & Indus., 121 Wn. App. 288, 293, 88 P.3d 413 (2004)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "155 Wn. App. 908",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        3995371
+      ],
+      "weight": 3,
+      "year": 2010,
+      "pin_cites": [
+        {
+          "page": "915",
+          "parenthetical": "citing RCW 51.48.131; R&G Probst v. Dep't of Labor & Indus., 121 Wn. App. 288, 293, 88 P.3d 413 (2004)"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/155/0908-01"
+      ]
+    },
+    {
+      "cite": "355 P.3d 1153",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "weight": 2,
+      "year": 2015,
+      "opinion_index": 0
+    },
+    {
+      "cite": "183 Wn.2d 1017",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        6797571,
+        6797550,
+        6797620,
+        6797685,
+        6797652,
+        6797719,
+        6797593
+      ],
+      "weight": 2,
+      "year": 2015,
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/183/1017-02",
+        "/wash-2d/183/1017-01",
+        "/wash-2d/183/1017-04",
+        "/wash-2d/183/1017-06",
+        "/wash-2d/183/1017-05",
+        "/wash-2d/183/1017-07",
+        "/wash-2d/183/1017-03"
+      ]
+    },
+    {
+      "cite": "347 P.3d 464",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2015,
+      "opinion_index": 0
+    },
+    {
+      "cite": "186 Wn. App. 518",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        4173913
+      ],
+      "weight": 7,
+      "year": 2015,
+      "pin_cites": [
+        {
+          "page": "543"
+        },
+        {
+          "page": "531-35"
+        },
+        {
+          "page": "535"
+        },
+        {
+          "page": "537"
+        },
+        {
+          "page": "538"
+        },
+        {
+          "page": "533"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/186/0518-01"
+      ]
+    },
+    {
+      "cite": "294 P.2d 650",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1956,
+      "opinion_index": 0
+    },
+    {
+      "cite": "48 Wn.2d 470",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        996504
+      ],
+      "weight": 3,
+      "year": 1956,
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/48/0470-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1415,
+    "char_count": 37716,
+    "ocr_confidence": 0.891,
+    "pagerank": {
+      "raw": 2.467476371613808e-07,
+      "percentile": 0.8061771168898264
+    },
+    "sha256": "6f4ee37b37a15b95afc2f96ad34804994e0b67ec0adb2d0b38c9ef42ad09f2f7",
+    "simhash": "1:239472cb80ae09e8",
+    "word_count": 5988
+  },
+  "last_updated": "2024-02-28T00:06:59.447104+00:00",
+  "provenance": {
+    "date_added": "2019-05-22",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Madsen, C.J., and Johnson, Owens, Stephens, Wiggins, Gonz\u00e1lez, Gordon McCloud, and Yu, JJ., concur."
+    ],
+    "parties": [
+      "The Department of Labor and Industries, Respondent, v. Lyons Enterprises, Inc., Petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "[As amended by orders of the Supreme Court July 13 and August 15, 2016.]\nFairhurst, J.\n\u00b61 \u2014 The Industrial Insurance Act (IIA), Title 51 RCW, requires employers to report and pay workers\u2019 compensation premiums for all covered workers, including independent contractors, provided the principal-independent contractor relationship meets certain criteria. Lyons Enterprises Inc. is a regional franchisor of an international janitorial franchise operating in Western Washington. The Department of Labor and Industries (L&I) determined that some of Lyons\u2019 franchisees, those that did not actually employ subordinates, met the IIA\u2019s definition of \u201cworker\u201d and assessed workers\u2019 compensation premiums against Lyons for those franchisees. The parties have now appealed the initial agency audit through four different administrative and judicial bodies that have reached varying results as to whether Lyons\u2019 franchisees are covered workers. As part of these determinations, each adjudicative body that ruled that Lyons\u2019 franchisees were workers has also considered whether the franchisees are exempt from coverage under this court\u2019s decision in White v. Department of Labor & Industries, 48 Wn.2d 470, 294 P.2d 650 (1956) or under RCW 51.08.195. Again, the answer to the exemption question has changed at nearly every level of review.\n\u00b62 Most recently, Division Two of the Court of Appeals agreed with the agency audit that those franchisees who did not actually employ subordinates were workers covered by the IIA and that the franchisees were not exempt from IIA coverage under White or RCW 51.08.195. Dep\u2019t of Labor & Indus. v. Lyons Enters., Inc., 186 Wn. App. 518, 543, 347 P.3d 464, review granted, 183 Wn.2d 1017, 355 P.3d 1153 (2015). The Court of Appeals, however, remanded the case to the Board of Industrial Insurance Appeals (Board) to make a factual determination as to each of Lyons\u2019 franchisees. Id. We granted review of Lyons\u2019 appeal.\n\u00b63 Whether the franchisor-franchisee relationship is subject to the IIA is a question of first impression for this court. We affirm the Court of Appeals and remand to the Board to determine which of Lyons\u2019 franchisees actually employ subordinates.\nI. FACTUAL BACKGROUND AND PROCEDURAL HISTORY\nA. Factual background\n\u00b64 Jan-Pro Franchising International Inc. is a franchise that uses the \u201cJan-Pro System\u201d to provide janitorial services to thousands of customers throughout 48 states and 9 countries. Clerk\u2019s Papers (CP) at 1902-03. Lyons is a regional franchisor for Jan-Pro International that operates in western Washington.\n\u00b65 A franchisor generally provides a licensed privilege to the franchisee to operate the franchise business. A franchisee becomes part of the Jan-Pro System by entering a franchise agreement with Lyons. Under Lyons\u2019 franchise agreement, the franchisee pays a franchise fee, a royalty for the use of the Jan-Pro name and methods, and management fees for Lyons\u2019 business support. On each cleaning contract, franchisees must pay Lyons a 10 percent royalty fee and a 5 percent management fee. Lyons remits 3 percent of the gross billing amount to Jan-Pro International and remits the remaining amount to the franchisee. In return for the payments, franchisees are permitted to use the Jan-Pro brand and trademarks in their business and are instructed on Jan-Pro\u2019s proprietary cleaning methods.\n\u00b66 All Lyons\u2019 franchisees are independent businesses who carry their own business licenses. The franchise agreement does not explicitly require franchisees to perform any cleaning themselves, and franchisees are required to pay IIA premiums for any employees they decide to hire. The franchise agreement permits franchisees to hire and fire their own subordinates without Lyons\u2019 review. Any subordinates must be \u201cqualified and competent,\u201d and franchisees are responsible for training the subordinates. CP at 328.\n\u00b67 Lyons enters into cleaning contracts with customers and offers the customers\u2019 accounts to one of its franchisees. If a franchisee accepts a cleaning contract from Lyons, the franchisee performs the commercial cleaning services directly for the customers. Franchisees must supply their own equipment and supplies, but Lyons controls where and from whom the supplies and equipment may be obtained. Even after franchisees accept a cleaning contract, the contract remains Lyons\u2019 property. Franchisees may also solicit their own contracts without violating the franchise agreement. In the event that a franchisee successfully obtains new business, the contract becomes Lyons\u2019 property.\n\u00b68 The franchise agreement precludes franchisees from providing commercial cleaning services outside of Lyons\u2019 franchise contracts for the entire 10-year duration of the agreement. The franchise agreement also contains a non-compete agreement that prevents franchisees from engaging in commercial cleaning services of any kind for 1 year following the conclusion of the franchise agreement.\n\u00b69 Lyons retains the right to remove a franchisee from a cleaning contract with or without cause, and may terminate franchise agreements for a number of reasons, including tarnishing the Jan-Pro reputation. If a franchise is terminated, Lyons retains the right to purchase all of the franchisee\u2019s assets related to the commercial cleaning industry, including items not bearing the Jan-Pro trademark. Lyons must also approve any transfer or sale of the franchise as well as any transfer of interest in the franchise.\nB. Procedural history\n\u00b610 This case involves a series of administrative and court proceedings dating back to 2010 that all address whether Lyons\u2019 franchisees are subject to the IIA.\n\u00b611 In 2010, L&I completed an audit of Lyons and determined that all of Lyons\u2019 franchisees, except the 18 who employed subordinates, were covered \u201cworkers\u201d under RCW 51.08.180. The audit also found that Lyons substantially controlled its franchisees under RCW 51.08.195(1) and therefore did not meet that provision\u2019s exception to coverage. L&I determined that Lyons controlled the methods used by its franchisees, which was partially indicated by its extensive training, and also that Lyons controlled the franchisees\u2019 opportunity for profit, given its right to negotiate and its actual ownership of all of the cleaning contracts. The audit concluded that the indefinite nature of the relationship between Lyons and its franchisees suggested an employer-employee relationship. L&I did not collect the $149,583.94 in past-due premiums that Lyons would otherwise have owed because the audit had an educational focus only. The audit required that Lyons, in the future, comply with all IIA reporting and premium requirements for its covered workers.\n\u00b612 Lyons sought agency reconsideration of the audit. In the agency reconsideration, L&I concluded that all of Lyons\u2019 franchisees, including those 18 who employed subordinates, were covered workers. L&I also found that Lyons\u2019 franchisees failed all six requirements of the RCW 51.08-.195 coverage exception. Lyons appealed to the Board, where an administrative law judge determined that none of Lyons\u2019 franchisees were workers because they met all six requirements of the RCW 51.08.195 exception. The administrative law judge did not examine that conclusion in light of White. L&I appealed that decision to a three-member panel of the Board, which affirmed the initial agency audit. The board panel concluded that consistent with White, all of the franchisees, except the 18 who employed subordinates, were covered workers under the IIA. The board panel also found Lyons\u2019 franchisees met four of the six requirements of RCW 51.08.195, but determined the franchisees did not meet subsections (1) and (3).\n\u00b613 Both L&I and Lyons appealed the board panel\u2019s decision to the Pierce County Superior Court. The superior court found that all Lyons\u2019 franchisees were covered workers and that the fact that some franchisees employed subordinates when they could have performed the work themselves was insufficient to exempt them from coverage under White. The superior court also found that Lyons exercised significant control and direction over its franchisees and, therefore, did not meet the RCW 51.08.195 exception under subsection (1).\n\u00b614 Only Lyons appealed the superior court\u2019s decision. Division Two of the Court of Appeals rejected Lyons\u2019 argument that the franchise relationship categorically excluded it from IIA coverage. Lyons, 186 Wn. App. at 531-35. The Court of Appeals reasoned that the essence of the work performed by Lyons\u2019 franchisees under the franchise agreement was the franchisees\u2019 personal labor. Id. The Court of Appeals also ruled that under White, only Lyons\u2019 franchisees who employed subordinates were exempt from coverage, and that the covered franchisees did not meet the exception found in RCW 51.08.195. Id. at 535. The Court of Appeals found the franchisees did not meet RCW 51.08-.195(3), but did not address whether they met subsection (1). Id. at 537. The Court of Appeals remanded the case to the Board in order to resolve factual discrepancies as to which franchisees actually employed subordinates. Id. at 538.\n\u00b615 Lyons filed a petition for review, which we granted. Lyons Enters., 183 Wn.2d 1017.\nII. ISSUES\n\u00b616 A. Can franchises be subject to the IIA?\n\u00b617 B. Are Lyons\u2019 franchisees who do not hire subordinates \u201cworkers\u201d pursuant to the IIA?\n\u00b618 C. If Lyons\u2019 franchisees are \u201cworkers,\u201d are they nevertheless exempt from coverage under White or RCW 51.08.195?\nIII. ANALYSIS\n\u00b619 The primary issue in this appeal is whether Lyons\u2019 franchisees who did not employ subordinates are \u201cworkers\u201d as that term is defined under RCW 51.08.180 of the IIA. To properly address this issue, we first evaluate whether the IIA is applicable to franchises. This is necessary both because the IIA\u2019s passage predated the expansion of the franchise business model and because franchises are already subject to a strict regulatory scheme under the Franchise Investment Protection Act (FIPA), chapter 19.100 RCW. Because we find the IIA is applicable to franchises, we next address whether Lyons\u2019 franchisees meet the definition of \u201cworker\u201d and whether they may be subject to exception under our holding in White or under RCW 51.08.195.\n\u00b620 We review appeals stemming from the Board\u2019s review of an assessment of industrial insurance premiums under the Administrative Procedure Act, chapter 34.05 RCW. RCW 51.48.131 (\u201cFurther appeals taken from a final decision of the board under this section are governed by the provisions relating to judicial review of administrative decisions contained in RCW 34.05.510 through 34.05.598.\u201d); see also Probst v. Dep\u2019t of Labor & Indus., 155 Wn. App. 908, 915, 230 P.3d 271 (2010) (citing RCW 51.48.131; R&G Probst v. Dep\u2019t of Labor & Indus., 121 Wn. App. 288, 293, 88 P.3d 413 (2004)). \u201cWe sit in the same position as the superior court,\u201d and our review of the assessment is limited to the record available to the Board. Probst, 155 Wn. App. at 915 (citing R&G Probst, 121 Wn. App. at 293; Superior Asphalt & Concrete Co. v. Dep\u2019t of Labor & Indus., 112 Wn. App. 291, 296, 49 P.3d 135 (2002)). We review the Board\u2019s findings of fact using the substantial evidence standard, under which there must be \u201cevidence sufficient to persuade a fair-minded, rational person of the truth of the matter.\u201d R&G Probst, 121 Wn. App. at 293 (citing Hamel v. Emp\u2019t Sec. Dep\u2019t, 93 Wn. App. 140, 144, 966 P.2d 1282 (1998)). We review questions of law de novo and, in doing so, grant the agency interpretation substantial weight. Probst, 155 Wn. App. at 915 (citing Superior Asphalt, 112 Wn. App. at 296).\nA. Franchises can be subject to the IIA because the purposes underlying the IIA and FIPA support applying the IIA to franchises\n\u00b621 Like many other issues surrounding FIPA, nothing in chapter 19.100 RCW addresses the applicability of the IIA to franchise relationships. See Douglas C. Berry et al., State Regulation of Franchising: The Washington Experience Revisited, 32 Seattle U. L. Rev. 811, 812 (2009) (describing the \u201cthundering silence that has persisted on a wide variety of FIPA issues\u201d)- Still, Lyons maintains FIPA should provide exclusive coverage over FIPA regulated franchises. We disagree. The purposes of both FIPA and the IIA confirm that the IIA should apply to franchises.\n1. FIPA\n\u00b622 When the legislature enacted FIPA, it created a comprehensive scheme for regulating franchising in Washington, and did so with the aim of protecting franchisees. See E. Wind Express, Inc. v. Airborne Freight Corp., 95 Wn. App. 98, 102, 974 P.2d 369 (1999) (\u201cOur Legislature enacted . . . FIPA ... to curb franchisor sales abuses and unfair competitive practices.\u201d (citing Morris v. Int'l Yogurt Co., 107 Wn.2d 314, 317-18, 729 P.2d 33 (1986))); see also Berry et al., supra, at 817. \u201cThe provisions of FIPA reflect a fundamental policy of this state to protect its citizens from oppressive practices historically associated with the sale of franchises.\u201d Rutter v. BX of Tri-Cities, Inc., 60 Wn. App. 743, 748, 806 P.2d 1266 (1991). As we explained shortly after the implementation of FIPA:\n\u201cThe franchisor normally occupies an overwhelmingly stronger bargaining position and drafts the franchise agreement so as to maximize his power to control the franchisee. Franchisors have used this power to terminate franchises arbitrarily, to coerce franchisees under threat of termination, and to force franchisees to purchase supplies from the franchisor or approved suppliers at unreasonable prices, to carry excessive inventories, to operate long, unprofitable hours, and to employ other unprofitable practices.\u201d\nCoast to Coast Stores, Inc. v. Gruschus, 100 Wn.2d 147, 150, 667 P.2d 619 (1983) (quoting Donald S. Chisum, State Regulation of Franchising: The Washington Experience, 48 Wash. L. Rev. 291, 297-98 (1973)). We have previously recognized that it was in response to these concerns that the legislature included in FIPA a franchisee \u201cbill of rights.\u201d See Corp v. Atl.-Richfield Co., 122 Wn.2d 574, 580, 860 P.2d 1015 (1993) (citing RCW 19.100.180; Coast to Coast, 100 Wn.2d at 150). Although subsequent commentary has questioned the validity of these fears, especially in light of the sophisticated franchisees operating today, see Berry et al., supra, at 873, the legislature enacted FIPA with the purpose of protecting franchisees, and it is through that lens that we continue to view its provisions.\n2. IIA\n\u00b623 We turn now to the IIA and its purpose, as intended by the legislature, to determine whether the IIA should be interpreted to apply to franchise relationships.\n\u00b624 The legislature created the workers\u2019 compensation system in 1911 through the passage of the IIA. Laws of 1911, ch. 74; Walston v. Boeing Co., 181 Wn.2d 391, 396, 334 P.3d 519 (2014) (citing Birklid v. Boeing Co., 127 Wn.2d 853, 859, 904 P.2d 278 (1995)). The IIA was a \u201c \u2018grand compromise\u2019 \u201d that granted immunity to employers from civil suits initiated by their workers and provided workers with \u201c \u2018a swift, no-fault compensation system for injuries on the job.\u2019\u201d Walston, 181 Wn.2d at 396 (quoting Birklid, 127 Wn.2d at 859).\n\u00b625 Although the initial passage applied only to extrahazardous work, \u201cin 1971 the legislature amended the IIA to encompass \u2018all employments ... within the legislative jurisdiction of the state.\u2019\u201d Doty v. Town of South Prairie, 155 Wn.2d 527, 531, 120 P.3d 941 (2005) (emphasis added) (alteration in original) (quoting Laws of 1971,1st Ex. Sess., ch. 289, \u00a7\u00a7 1-2)). \u201cThe IIA is broad in scope and contains a mandate of liberal construction Tor the purpose of reducing to a minimum the suffering and economic loss arising from injuries and/or death occurring in the course of employment.\u2019 \u201d Id. (quoting RCW 51.12.010). The liberal construction of the IIA necessitates that all doubts be resolved in favor of coverage. Id. at 532. Further, the \u201cguiding principle\u201d when interpreting provisions of the IIA is that it is a remedial statute that is \u201cto be liberally construed in order to achieve its purpose of providing compensation to all covered employees injured in their employment, with doubts resolved in favor of the worker.\u201d Dennis v. Dep\u2019t of Labor & Indus., 109 Wn.2d 467, 470, 745 P.2d 1295 (1987) (citing RCW 51.12.010; Sacred Heart Med. Ctr. v. Carrado, 92 Wn.2d 631, 635, 600 P.2d 1015 (1979); Lightle v. Dep\u2019t of Labor & Indus., 68 Wn.2d 507, 510, 413 P.2d 814 (1966); Wilber v. Dep\u2019t of Labor & Indus., 61 Wn.2d 439, 446, 378 P.2d 684 (1963); State ex rel. Crabb v. Olinger, 196 Wash. 308, 311, 82 P.2d 865 (1938); Gaines v. Dep\u2019t of Labor & Indus., 1 Wn. App. 547, 552, 463 P.2d 269 (1969)).\n\u00b626 In keeping with the remedial nature of the IIA and the requirements that it be construed liberally to cover all employment within the jurisdiction of the state, as well as FIPA\u2019s aim of protecting franchisees, we hold that the IIA is applicable to franchises provided the franchisees meet the IIA\u2019s definition of a covered \u201cworker.\u201d\nB. Lyons\u2019 franchisees who do not hire subordinates meet the IIA\u2019s definition of \u201cworker\u201d\n\u00b627 A finding that Lyons\u2019 franchisees are \u201cworkers\u201d is a prerequisite to the imposition of IIA premiums. See RCW 51.16.060. Because we construe the IIA to cover franchises, we next resolve whether Lyons\u2019 franchisees meet the IIA\u2019s definition of \u201cworker.\u201d We hold that the essence of Lyons\u2019 franchise agreement is the franchisees\u2019 personal labor and the franchisees are therefore \u201cworkers\u201d as that term is defined in RCW 51.08.180.\n\u00b628 The IIA defines \u201cworker\u201d as\nevery person in this state who is engaged in the employment of an employer under this title, whether by way of manual labor or otherwise in the course of his or her employment; also every person in this state who is engaged in the employment of or who is working under an independent contract, the essence of which is his or her personal labor for an employer under this title, whether by way of manual labor or otherwise, in the course of his or her employment.\nRCW 51.08.180 (emphasis added). Lyons does not dispute that its franchisees are independent contractors. To be sure, the franchise agreement between Lyons and its franchisees describes the franchisees as independent contractors. Because the IIA includes independent contractors within its definition of \u201cworker,\u201d the only remaining inquiry is whether the essence of the independent contract between Lyons and its franchisees is the franchisees\u2019 personal labor.\n\u00b629 For our purposes, the question then becomes how to discern the \u201cessence\u201d of a contract that will bring certain independent contractors within the ambit of the IIA. To establish whether the essence of a contract is personal labor, \u201cwe look to the contract, the work to be done, the situation of the parties, and other attendant circumstances.\u201d Lloyd\u2019s of Yakima Floor Ctr. v. Dep\u2019t of Labor & Indus., 33 Wn. App. 745, 749, 662 P.2d 391 (1982) (citing Cook v. Dep\u2019t of Labor & Indus., 46 Wn.2d 475, 476, 282 P.2d 265 (1955), overruled by White, 48 Wn.2d 470). \u201cEssence,\u201d as we have previously defined it, refers to \u201cthe \u2018gist or substance, the vital sine qua non, the very heart and soul\u2019 \u201d of the contract between the independent contractor and the employer. Id. at 751 (quoting Haller v. Dep\u2019t of Labor & Indus., 13 Wn.2d 164, 168, 124 P.2d 559 (1942)). When considering whether a contract\u2019s essence is personal labor, \u201c[w]e focus on the realities of the situation rather than the technical requirements of the test.\u201d B&R Sales, Inc. v. Dep\u2019t of Labor & Indus., 186 Wn. App. 367, 377, 344 P.3d 741 (2015) (citing Dana\u2019s Housekeeping, Inc. v. Dep\u2019t of Labor & Indus., 76 Wn. App. 600, 608, 886 P.2d 1147 (1995)). However, in White we held personal labor is not the essence of a contract when an independent contractor\n(a) . . . must of necessity own or supply machinery or equipment (as distinguished from the usual hand tools) to perform the contract, or (b) . . . obviously could not perform the contract without assistance, or (c)... of necessity or choice employs others to do all or part of the work he has contracted to perform.\n48 Wn.2d at 474.\n\u00b630 Lyons contends the essence of the relationship between itself and its franchisees is the bilateral contract between two independent businesses, not the franchisees\u2019 personal labor. Although this is our first time to address such an argument in the franchise context, the Court of Appeals considered similar arguments in prior cases when the parties were in a lessee-lessor relationship and in a business referral relationship.\n\u00b631 In Department of Labor & Industries v. Tacoma Yellow Cab Co., 31 Wn. App. 117, 118, 639 P.2d 843 (1982), individuals leased taxicabs from employers on a day-to-day basis. Despite the fact that the individuals and the taxicab companies used the lease agreement terminology to describe their business arrangement, L&I assessed IIA premiums against the taxicab companies for the individuals leasing taxicabs. Id. Division Two of the Court of Appeals acknowledged that the taxicab drivers worked under and pursuant to an independent contract with the taxicab companies; thus, like the present case, the dispositive determination for coverage was the essence of the independent contracts. Id. at 123. Under the independent contracts, the drivers were free to operate the taxicabs in any legally permissible fashion, provided the taxicab \u201c \u2018not be operated by any person except by the Lessee or his regular employees. And such employees shall be duly qualified and licensed to drive and over the age of 25 years.\u2019 \u201d Id. (quoting lease). Use of the taxicabs was based on a flat fee and mileage agreement that the companies asserted provided no basis for an employer-employee relationship that would necessitate paying IIA premiums. Id. at 123-24. The Court of Appeals reasoned that the taxicab companies\u2019 arguments ignored the realities of the relationship between the parties. Id. at 124. The realities of the taxicab drivers\u2019 situation was \u201csimply that the essence of the independent lease contract [was] to provide a method to place taxis and drivers on the city streets of Tacoma to carry passengers at rates which are established by local ordinances.\u201d Id. The Court of Appeals therefore found that the function of the lease drivers was no different from the actual employees of the taxicab companies and that the drivers \u201ccontribute [d] nothing to the contract except their personal labor.\u201d Id. As such, even though neither the individuals nor the taxicab companies intended to create an independent contractor relationship necessitating the payment of workers\u2019 compensation premiums, L&I\u2019s assessment of premiums against the taxicab companies was proper based on the realities of the relationship.\n\u00b632 In Dana\u2019s, 76 Wn. App. 600, Division One of the Court of Appeals came to a similar conclusion. Dana\u2019s was a business that contracted with housecleaners to clean private homes. Id. at 602. Dana\u2019s issued all job assignments and made all arrangements for the housecleaning except transportation. Id. Dana\u2019s considered the homeowners its own clients, and the housecleaners agreed not to solicit any of the homeowners for 90 days following termination of their relationship with Dana\u2019s. Id. at 603. All of the house-cleaners signed contracts with Dana\u2019s designating themselves as independent contractors. Id. at 602.\n\u00b633 Despite the independent contractor designation, L&I assessed IIA premiums against Dana\u2019s for all of its housecleaners. Id. On appeal, the Court of Appeals stated that in assessing whether the housecleaners were workers, it had to decide (1) whether the housecleaners were working under an independent contract, (2) whether the essence of the contract was the housecleaners\u2019 personal labor, and (3) whether the personal labor was for Dana\u2019s. Id. at 607.\n\u00b634 Dana\u2019s did not dispute that the housecleaners were working under an independent contract. However, Dana\u2019s attempted to argue that the essence of its relationship with the housecleaners was not personal labor but rather \u201c \u2018an agreement to accept referrals and share a fee,\u2019 \u201d and that any personal labor was for the benefit of the homeowners, not Dana\u2019s. Id. Division One disagreed in both regards. The court explained that the \u201cessence\u201d is determined by the work performed under the independent contract, not the parties\u2019 characterization of their relationship, and that the essence inquiry focuses on the realities of the situation, not technical requirements. Id. at 607-08. Considering that the housecleaners had no specialized equipment, worked without assistance, and were precluded from hiring others, the \u201cessence\u201d of the independent contract was the housecleaners\u2019 personal labor, not solicitation of housecleaning duties from Dana\u2019s. Id. at 608. Next, although Dana\u2019s attempted to argue that the housecleaners\u2019 labor was for the homeowners, not Dana\u2019s, the court concluded that personal labor for an employer includes both direct labor and labor for an employer\u2019s benefit. Id. (citing Cascade Nursing Servs., Ltd. v. Emp\u2019t Sec. Dep\u2019t, 71 Wn. App. 23, 33, 856 P.2d 421 (1993)). The realities of the situation, as Division One viewed them, demonstrated that the housecleaners\u2019 labor was beneficial to Dana\u2019s, as Dana\u2019s received up to 48 percent of the cleaning fees. Id. at 608-09. The fact that homeowners received the cleaning benefit was not enough to exclude the housecleaners from IIA coverage. Id. at 608 (citing Lloyd\u2019s, 33 Wn. App. at 752).\n\u00b635 Here, Lyons\u2019 argument similarly ignores the reality of the relationship it shares with its franchisees and instead relies on its characterization of the relationship. The courts in both Dana\u2019s and Tacoma Yellow Cab rejected this characterization argument. We now do the same.\n\u00b636 While Lyons\u2019 franchisees receive corollary benefits from the franchise relationship, the essence of the contracts between Lyons and its franchisees is the labor required to clean its customers\u2019 buildings. Lyons nevertheless maintains that the customers receive the personal labor of the franchisees. However, as the Dana\u2019s court concluded, labor for an employer can include both direct labor and labor for an employer\u2019s benefit. Lyons receives 15 percent of every cleaning contract. Lyons also exercises significant control over both the methods utilized by franchisees and the cleaning contracts themselves since Lyons retains ownership over every contract. Like Dana\u2019s, the evidence in the present case indicates that the relationship remains beneficial to Lyons, and the cleaning benefits received by Lyons\u2019 customers are not enough to exclude the franchisees from IIA coverage. We therefore find that Lyons\u2019 franchisees are \u201cworkers\u201d under the IIA.\nC. Lyons\u2019 franchisees are not exempt under White or RCW 51.08.195\n\u00b637 Although we conclude Lyons\u2019 franchisees are \u201cworkers,\u201d they may nevertheless be excluded from IIA coverage if they meet one of the exceptions announced in White or the six-part exception articulated in RCW 51.08.195.\n1. Only Lyons\u2019 franchisees who actually employ subordinates are exempted from IIA coverage under White\n\u00b638 As noted above, in White we set forth three situations in which the essence of a contract is not personal labor: when (1) the independent contractor must of necessity own or supply machinery to perform the contract, or (2) the independent contractor obviously could not perform the contract without assistance, or (3) the independent contractor of necessity or choice employs others to do all or part of the work he has been contracted to perform. 48 Wn.2d at 474.\n\u00b639 Lyons does not assert that its franchisees meet either the first or second White exclusions. Indeed, the factual findings of the Board evidence that Lyons\u2019 contract completion requires neither specialized tools nor assistance from franchisee subordinates. Still, Lyons maintains that because the franchise agreement contemplates that franchisees may hire subordinates, it meets White\u2019s third prong and is therefore outside of the IIA\u2019s definition of \u201cworker.\u201d In Lyons\u2019 view, the mere contemplation that another may perform the labor is sufficient to make the labor nonper-sonal. We disagree.\n\u00b640 The fact that a franchisee could hire a subordinate is insufficient to exempt an employer from IIA coverage. As the Court of Appeals explained, this court has already rejected such an argument. Lyons, 186 Wn. App. at 533. In White, we considered two of our prior holdings in which we held that labor that may be done by another is not \u201cpersonal\u201d as the IIA intended. 48 Wn.2d at 472-73 (discussing Crall v. Dep\u2019t of Labor & Indus., 45 Wn.2d 497, 275 P.2d 903 (1954), overruled by White, 48 Wn.2d 470, and Cook, 46 Wn.2d 475). There, we overruled Crall and Cook, finding that their language was too broad and that when passing the IIA, the legislature had something more in mind than \u201cprotection of independent contractors in those extremely rare cases in which the party for whom the work is done requires the personal services of the independent contractor and is unwilling that any part of the work be done by someone else.\u201d Id. at 474. Our reasoning in White was based on the notion that actual employment of another must occur to negate a finding that the independent contractor is a worker. The hypothetical ability to hire subordinates has never been sufficient to preclude coverage under the IIA and is likewise inadequate here.\n\u00b641 We therefore reject Lyons\u2019 argument and hold that only those franchisees of Lyons who actually employ subordinates are exempt from IIA coverage.\n2. Lyons\u2019 franchisees do not meet the RCW 51.08.195 exception\n\u00b642 The IIA is construed broadly in favor of coverage in order to achieve its objective of protecting all workers. But, even an individual who meets RCW 51.08.180\u2019s definition of \u201cworker\u201d will be excluded from IIA coverage if she meets all six of the requirements articulated in RCW 51.08.195. Malang v. Dep\u2019t of Labor & Indus., 139 Wn.App. 677, 689, 162 P.3d 450 (2007).\n\u00b643 The parties do not appear to dispute that the Lyons\u2019 franchisees meet subsections (2), (4), (5), and (6) of RCW 51.08.195. Instead, Lyons and L&I disagree as to the applicability of subsections (1) and (3). Although Lyons maintains RCW 51.08.195 exempts its franchisees from IIA coverage, we hold its franchisees do not meet RCW 51.08.195(3). Failure to meet any subsection precludes exception. Id.\n\u00b644 Because the Court of Appeals decided this issue on RCW 51.08.195(3), we first address that subsection. In doing so, we conclude Lyons has not shown that its franchisees\u2019 businesses are customarily engaged in an independently established business as RCW 51.08.195(3) requires.\n\u00b645 In order to satisfy RCW 51.08.195(3), an individual must be\ncustomarily engaged in an independently established trade, occupation, profession, or business, of the same nature as that involved in the contract of service, or the individual has a principal place of business for the business the individual is conducting that is eligible for a business deduction for federal income tax purposes.\nLyons does not argue that its franchisees have independent places of business, so we need decide only whether the franchisees are customarily engaged in an independently established business. The Court of Appeals found that Lyons\u2019 franchisees were not exempt because their businesses were \u201cintimately tied to their relationship with Lyons.\u201d Lyons, 186 Wn. App. at 537. The Court of Appeals did not err in making that determination.\n\u00b646 A business is \u201cindependently established\u201d if the individual customarily engages in it and if it is an enterprise created and existing separate and apart from the relationship with a particular employer, such that the enterprise will survive the termination of that relationship. In re All-State Constr. Co., 70 Wn.2d 657, 666, 425 P.2d 16 (1967).\n\u00b647 Most of Lyons\u2019 franchisees were not in the commercial cleaning business prior to the purchase of their franchise, nor had they previously owned businesses. The franchisees rely on Lyons to solicit business and to complete billing, and Lyons owns all of the cleaning contracts. Though we have previously noted that the franchise is conceptually distinct from the franchisee\u2019s business, see Coast to Coast, 100 Wn.2d at 152, the franchisees\u2019 businesses in this case rely on Lyons for creation and operation of the franchise and cease to have any legitimate value at the close of the franchise agreement. Should a franchise be terminated early, franchisees are precluded from operating their businesses for the entire duration of the 10-year franchise agreement and for a 1-year period after the end of the franchise agreement pursuant to the mandatory non-compete clause. This noncompete clause is the antithesis of independence. As such, we conclude Lyons\u2019 franchisees\u2019 businesses do not exist separate and apart from the relationship with Lyons and therefore are not exempt under RCW 51.08.195(3). Because Lyons\u2019 franchisees do not meet subsection (3) of RCW 51.08.195, we need not address the remaining provisions. See Malang, 139 Wn. App. at 689.\nIV. CONCLUSION\n\u00b648 We hold that Lyons\u2019 franchisees who do not employ subordinates are \u201cworkers\u201d under the IIA. We remand to the Board to factually determine which franchisees employ, and which do not employ, subordinates to accurately assess workers\u2019 compensation premiums against Lyons.\nMadsen, C.J., and Johnson, Owens, Stephens, Wiggins, Gonz\u00e1lez, Gordon McCloud, and Yu, JJ., concur.\nAfter modification, further reconsideration denied July 14, 2016.\nWhether the franchisees in the current case were actually employees is not at issue in this case and not relevant because certain independent contractors can be \u201cworkers.\u201d Based on the record, none of the franchisees consented to an employment relationship. An employment relationship requires both a right of control and the employee\u2019s consent to the employment relationship. See Judy v. Hanford Envtl. Health Found., 106 Wn. App. 26, 35, 22 P.3d 810 (2001).\nMoreover, there is no support in either the IIA or FIPA for Lyons\u2019 argument that the IIA is inapplicable because franchises are governed solely by FIPA. As explained above, FIPA was enacted with the purpose of protecting the franchisee and the IIA\u2019s extension to FIPA regulated franchises would achieve this objective when the franchisee can also be classified as a \u201cworker.\u201d\nAs the Court of Appeals explained, the factual record remains unclear as to which of Lyons\u2019 franchisees actually employ subordinates. This is an issue properly addressed on remand.\nRCW 51.08.195 provides:\nAs an exception to the definition of \u201cemployer\u201d under RCW 51.08.070 and the definition of \u201cworker\u201d under RCW 51.08.180, services performed by an individual for remuneration shall not constitute employment subject to this title if it is shown that:\n(1) The individual has been and will continue to be free from control or direction over the performance of the service, both under the contract of service and in fact; and\n(2) The service is either outside the usual course of business for which the service is performed, or the service is performed outside all of the places of business of the enterprise for which the service is performed, or the individual is responsible, both under the contract and in fact, for the costs of the principal place of business from which the service is performed; and\n(3) The individual is customarily engaged in an independently established trade, occupation, profession, or business, of the same nature as that involved in the contract of service, or the individual has a principal place of business for the business the individual is conducting that is eligible for a business deduction for federal income tax purposes; and\n(4) On the effective date of the contract of service, the individual is responsible for filing at the next applicable filing period, both under the contract of service and in fact, a schedule of expenses with the internal revenue service for the type of business the individual is conducting; and\n(5) On the effective date of the contract of service, or within a reasonable period after the effective date of the contract, the individual has established an account with the department of revenue, and other state agencies as required by the particular case, for the business the individual is conducting for the payment of all state taxes normally paid by employers and businesses and has registered for and received a unified business identifier number from the state of Washington; and\n(6) On the effective date of the contract of service, the individual is maintaining a separate set of books or records that reflect all items of income and expenses of the business which the individual is conducting.\nLyons also claims that its franchisees are not workers because the IIA excludes sole proprietors, partners, and corporate officers. Lyons first raised this argument at the Court of Appeals to assert that treating franchisees as independent business owners was consistent with the legislature\u2019s policy of excluding certain business owners from the IIA. This argument is not properly before us. B&R, 186 Wn. App. at 381 (arguments not raised before the Board are waived on appeal).",
+        "type": "majority",
+        "author": "Fairhurst, J."
+      }
+    ],
+    "attorneys": [
+      "Ryan R McBride (of Lane Powell PC), for petitioner.",
+      "Robert W. Ferguson, Attorney General, and Steve Vinyard, Assistant, for respondent.",
+      "Douglas C. Berry and Daniel J. Oates on behalf of International Franchise Association, amicus curiae.",
+      "Robert A. Battles on behalf of Association of Washington Business, amicus curiae."
+    ],
+    "corrections": "",
+    "head_matter": "[No. 91610-1.\nArgued January 21, 2016.\nDecided May 19, 2016.\nThe Department of Labor and Industries, Respondent, v. Lyons Enterprises, Inc., Petitioner.\nRyan R McBride (of Lane Powell PC), for petitioner.\nRobert W. Ferguson, Attorney General, and Steve Vinyard, Assistant, for respondent.\nDouglas C. Berry and Daniel J. Oates on behalf of International Franchise Association, amicus curiae.\nRobert A. Battles on behalf of Association of Washington Business, amicus curiae."
+  },
+  "file_name": "0721-01",
+  "first_page_order": 775,
+  "last_page_order": 798
+}

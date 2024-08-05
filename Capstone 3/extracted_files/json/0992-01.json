@@ -1,0 +1,187 @@
+{
+  "id": 1428230,
+  "name": "Johnson v. Johnson",
+  "name_abbreviation": "Johnson v. Johnson",
+  "decision_date": "1934-02-26",
+  "docket_number": "4-3384",
+  "first_page": "992",
+  "last_page": "996",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "188 Ark. 992"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [
+    {
+      "cite": "23 S. W. (2d) 632",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "180 Ark. 926",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1393571
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/180/0926-01"
+      ]
+    },
+    {
+      "cite": "34 Ark. 312",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1875622
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/34/0312-01"
+      ]
+    },
+    {
+      "cite": "50 Am. Dec. 242",
+      "category": "reporters:federal",
+      "reporter": "Am. Dec.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "10 Ark. 211",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        8727555
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/10/0211-01"
+      ]
+    },
+    {
+      "cite": "46 Am. Dec. 311",
+      "category": "reporters:federal",
+      "reporter": "Am. Dec.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "8 Ark. 213",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        8727208
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/8/0213-01"
+      ]
+    },
+    {
+      "cite": "145 Atl. 58",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "109 Conn. 593",
+      "category": "reporters:state",
+      "reporter": "Conn.",
+      "case_ids": [
+        1536961
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/conn/109/0593-01"
+      ]
+    },
+    {
+      "cite": "91 N. W. 687",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "115 Wis. 239",
+      "category": "reporters:state",
+      "reporter": "Wis.",
+      "case_ids": [
+        8701399
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wis/115/0239-01"
+      ]
+    },
+    {
+      "cite": "187 S. W. 327",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "124 Ark. 354",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1554923
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/124/0354-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 401,
+    "char_count": 6771,
+    "ocr_confidence": 0.495,
+    "pagerank": {
+      "raw": 1.6190559577700414e-07,
+      "percentile": 0.6869062636470311
+    },
+    "sha256": "ae8f487c7fd7a3a07557982fe27670592581909bb01d49c21ef58dbc453a90d5",
+    "simhash": "1:bbc1bd6f5333a4a6",
+    "word_count": 1208
+  },
+  "last_updated": "2024-02-27T23:51:14.545434+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Johnson v. Johnson."
+    ],
+    "opinions": [
+      {
+        "text": "Butler, J.\nOn February 26, 1927, J. R. Johnson, being then the owner of $4,000 worth of the capital stock of the Johnson Orchard Company, a corporation, sold the same on credit to W. S. Johnson, who on that day executed and delivered to J. R. Johnson his three promissory notes for the sum of $1,333.33, due respectively, one, two and three years after date with 8 per cent, interest until paid. Each note recited that it was in part payment of the purchase money of the capital stock \u2018 \u2018 according to the terms of the contract made and entered into on this date, in which contract these notes are referred to.\u201d That part of the contract involved, after reciting the execution of the notes, provided in effect that the purchaser of the stock agreed to resell the same at its par value to the seller, J. R. Johnson, upon a return of the notes, or, if any or all of them should have been paid, to make repayment in cash for any or all of such notes as had -been paid. It was' also provided that the resale \u201cshall be consummated when the debt due the Pike City Orchard Company from the Johnson Orchard Company shall have been fully paid,\u201d and that no additional stock of the Johnson Orchard Company should be issued as would in any way impair the value of the stock involved without the consent of J. R. Johnson.\nJ. R. Johnson died in 1930, and appellee, his widow and administratrix, brought this suit to enforce the payment of the notes. On issue joined testimony was adduced, and the trial court found the notes to be valid and unpaid; that defendant was entitled to an offset, and rendered judgment for the balance. The defendant has appealed and rests his case on the sole ground that the notes and contract are void for want of mutuality. In support of this contention, he argues that, although he was obligated to pay the notes and to resell the stock to J. R. Johnson for the same sums- at which he purchased the stock, it was left optional with J. R. Johnson whether he would repurchase the same. Appellant points out the fact that the stock was not delivered to him but retained by the seller, and from this contends there was really no sale of the stock but a colorable, transaction only made for the purpose of enabling J. R. Johnson to borrow money, the result of which would be solely beneficial to J. E. Johnson and without any corresponding benefit to him.\nAt this point it may be said that the testimony of several witnesses was taken for the purpose of showing the reasons for which the sale was made and the contract entered into, but which we do not consider because the contract is unambiguous, and we' therefore look only to it to discover its terms and the intent of the parties.\nIn support of the contention of want of mutuality, we are cited to a number of decisions of our court which have held that the contracts considered in those cases were void for the. reason contended in the case at bar, and especially to the rule as formulated in the case of Grayling Lumber Co. v. Hemingway, 124 Ark. 354, 187 S. W. 327, as follows: \u201cIt is a general principle in the law of contracts that an agreement entered into between the parties to a contract in order to be binding must be mutual; and this is especially so when the consideration consists of mutual promises. In such cases, if it appears that the one party never was bound on his part to do the act which forms the consideration for the promise of the other, the agreement is void for want of mutuality.\u201d\nAn examination of those cases discloses that the doctrine stated was applied because the want of mutuality would leave one party without a valid or available consideration for his promise. Such is not the case in the contract before us. The consideration for appellant\u2019s promise to pay was his purchase of the. stock with whatever advantage which might result to him thereby, whether great or small, and is sufficient to support the obligation on his part to resell to his vendor upon the happening of the contingency named in the contract, namely, the payment to the Pike City Orchard Company of the debt due it by the Johnson- Orchard Company. Peterson v. Chase, 115 Wis. 239, 91 N. W. 687; Pyskoty v. Sobusiak, 109 Conn. 593, 145 Atl. 58. The last named case was one where the seller of the stock agreed that if the purchaser should become dissatisfied he would rebuy it. It was held that the official and financial interest of the seller in the corporation was sneh as to afford a sufficient consideration for his agreement to repurchase the stock.\nThe fact that the stock was retained by J. E. Johnson and never delivered to the appellant is immaterial. The contract is that the- stock was to be held by J. E. Johnson only as collateral security for the payment of the notes evidencing its purchase price. As between the parties, delivery was not necessary to vest title in the buyer, and title to the stock passed, although it was not delivered to the appellant but remained in the possession of the seller. Costar v. Davies, 8 Ark. 213, 46 Am. Dec. 311; Danley v. Rector, 10 Ark. 211, 50 Am. Dec. 242.\nIn the instant case the appellant received the benefit resulting from the ownership of the stock and was entitled to the possession of the certificates of shares upon the payment of the notes. The defense of want of mutuality has no application except where the party alleging it has never received the benefit of the contract on his part and never had the right to enforce it. Coldcleugh v. Johnson, 34 Ark. 312.\nIn 6 R. C. L., p 689, the rule is thus stated: \u201cA contract does not lack mutuality merely because every obligation of the one party is not met by an equivalent counter obligation of the other party.\u201d And on page 686 the author says: \u201cConsideration is essential; mutuality of obligation is not, unless the want of mutuality would leave one party without a valid or available consideration for his promise. The doctrine of mutuality of obligation appears therefore to be merely one aspect of the rule that mutual promises constitute considerations for each other. Where there is no other consideration for a contract, the mutual promises must be binding on both parties. But where there is any other consideration for the contract, mutuality of obligation is not essential.\u201d\nThese principles were referred to with approval by this court in the case of Philpot Const. Co. v. Danaher, 180 Ark. 926-37, 23 S. W. (2d) 632, and their application to the contract involved in the instant case renders the plea of want of mutuality unavailable, and the trial court was correct in so holding. Let the decree be affirmed.",
+        "type": "majority",
+        "author": "Butler, J."
+      }
+    ],
+    "attorneys": [
+      "McElhannon & Callaway, for appellant.",
+      "O. A. Featherston and McMillan & McMillan, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Johnson v. Johnson.\n4-3384\nOpinion delivered February 26, 1934.\nMcElhannon & Callaway, for appellant.\nO. A. Featherston and McMillan & McMillan, for appellee."
+  },
+  "file_name": "0992-01",
+  "first_page_order": 1010,
+  "last_page_order": 1014
+}

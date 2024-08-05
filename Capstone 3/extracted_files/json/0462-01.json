@@ -1,0 +1,396 @@
+{
+  "id": 1355648,
+  "name": "Bunch v. Empire Cotton Oil Company",
+  "name_abbreviation": "Bunch v. Empire Cotton Oil Co.",
+  "decision_date": "1923-04-30",
+  "docket_number": "",
+  "first_page": "462",
+  "last_page": "468",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "158 Ark. 462"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [
+    {
+      "cite": "42 Ark. 170",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        8722325
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/42/0170-01"
+      ]
+    },
+    {
+      "cite": "76 Ark. 252",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1501107
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/76/0252-01"
+      ]
+    },
+    {
+      "cite": "129 Ark. 398",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "74 Ark. 161",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        8718927
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/74/0161-01"
+      ]
+    },
+    {
+      "cite": "66 Ark. 98",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1909816
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/66/0098-01"
+      ]
+    },
+    {
+      "cite": "86 Ark. 225",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1521470
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/86/0225-01"
+      ]
+    },
+    {
+      "cite": "54 Fed. 299",
+      "category": "reporters:federal",
+      "reporter": "F.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "173 Fed. 798",
+      "category": "reporters:federal",
+      "reporter": "F.",
+      "case_ids": [
+        29076
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f/173/0798-01"
+      ]
+    },
+    {
+      "cite": "145 Ark. 167",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "113 Ark. 100",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1537553
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/113/0100-01"
+      ]
+    },
+    {
+      "cite": "73 Ark. 174",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1504062
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/73/0174-01"
+      ]
+    },
+    {
+      "cite": "133 Ark. 250",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1575069
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/133/0250-01"
+      ]
+    },
+    {
+      "cite": "134 Ark. 231",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1573290
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/134/0231-01"
+      ]
+    },
+    {
+      "cite": "142 Ark. 104",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1590522
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/142/0104-01"
+      ]
+    },
+    {
+      "cite": "132 Ark. 463",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "weight": 3,
+      "opinion_index": -1
+    },
+    {
+      "cite": "110 Ark. 335",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1337092
+      ],
+      "weight": 3,
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/110/0335-01"
+      ]
+    },
+    {
+      "cite": "96 Ark. 531",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1541962
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/96/0531-01"
+      ]
+    },
+    {
+      "cite": "59 Ark. 614",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1327664
+      ],
+      "weight": 3,
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/59/0614-01"
+      ]
+    },
+    {
+      "cite": "56 Ark. 258",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "50 Ark. 42",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        8719861
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/50/0042-01"
+      ]
+    },
+    {
+      "cite": "38 Ark. 427",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "132 Ark. 462",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1576810
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/132/0462-01"
+      ]
+    },
+    {
+      "cite": "105 Ark. 90",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1347078
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/105/0090-01"
+      ]
+    },
+    {
+      "cite": "92 Ark. 315",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1548551
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/92/0315-01"
+      ]
+    },
+    {
+      "cite": "84 Ark. 227",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1524524
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/84/0227-01"
+      ]
+    },
+    {
+      "cite": "75 Ark. 562",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1502471
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/75/0562-01"
+      ]
+    },
+    {
+      "cite": "62 Ark. 26",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1905705
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/62/0026-01"
+      ]
+    },
+    {
+      "cite": "74 Ark. 161",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        8718927
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/74/0161-01"
+      ]
+    },
+    {
+      "cite": "59 Ark. 614",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1327664
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/59/0614-01"
+      ]
+    },
+    {
+      "cite": "50 Ark. 42",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        8719861
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/50/0042-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 608,
+    "char_count": 13059,
+    "ocr_confidence": 0.481,
+    "pagerank": {
+      "raw": 1.8687793023533566e-07,
+      "percentile": 0.7259376898035368
+    },
+    "sha256": "06d1677826b18dee3c227dffe80ff1bbaab54ed493ab4c413ddccac40982c6e9",
+    "simhash": "1:b4a66608b7c3e003",
+    "word_count": 2294
+  },
+  "last_updated": "2024-02-27T17:41:16.235499+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Bunch v. Empire Cotton Oil Company."
+    ],
+    "opinions": [
+      {
+        "text": "McCulloch, C. J.\nThis is an action instituted by appellee to set aside' alleged fraudulent conveyances of real estate and to subject the same to the payment of the indebtedness of T. H. Bunch to appellee, evidenced by two promissory notes aggregating about $7,000, dated September 30, 1916, the notes having been executed to cover an antecedent indebtedness originating during the previous year. There was a decree in favor of appellee subjecting to .the payment of appellee\u2019s debt a portion of the real estate involved in the controversy, and an appeal has been prosecuted to this court.\n' T. H. Bunch formerly resided in Little Rock, and was engaged in business here as the sole owner of corporations bearing his own name. His first corporation became insolvent and failed in business in the year 1910. Another corporation was organized, which subsequently went into bankruptcy, and Bunch ceased to do business here in 1916. It appears from the evidence that he had been insolvent as far back as the year 1913.\nBunch acquired, by purchase and inheritance, the property in controversy on this appeal, which is four lots \u2022'at the southeast corner of Broadway and Third streets in the city of Little Rock, valued at about $60,000 or more, and described as lots 1, 2, 3 and 4, block 103, city of Little Rock. He owned other property, acquired in the same manner, on the southwest corner of Third and Broadway, and that was included in this litigation, but passed out by the decree which has not been appealed from.\nBunch acquired the property, and it has been conveyed from time to time in four sections, each part or section covering a portion of .said lots, and was accurately described by metes and bounds. The portion of the lots described in the briefs as parcel I was purchased by-Bunch from Hedges and wife, and Bunch caused the conveyance to be made to the W. B. Worthen Company, a banking corporation, as trustee, under deed dated January 23, 1907. The character and purpose of the trust was not disclosed in the face of the deed, the .only reference to the trust being the coupling of the words \u201cas trustee.\u201d with the name of the grantee. On the next day, January 24, 1907, the Worthen Company executed and delivered to Laura L. Bunch, wife of T. H. Bunch, a declaration of trust reciting the conveyance of the property and declaring that the property would be thereafter held in trust for Laura L. Bunch, subject to the payment of two notes for $5,000 each, guaranteed by T. H. Bunch.\nThe portion described as parcel II was acquired by deed from the trustee in bankruptcy of the T. H. Bunch Commission Company, the deed being made by the trustee to the Union Trust Company, a banking institution of Little Kock. The deed was dated April 1, 1910, and on March 30, 1910, T. H. Bunch and wife, together with the Union Trust Company, conveyed to the W. B. Worthen Company, as trustee, the conveyance being similar to the one conveying to the W. B. Worthen Company parcel I.\nThe W. B. Worthen Company conveyed the property mentioned as parcel II to F. T. Vaughan, by deed dated March 25, 1911, and Vaughan subsequently conveyed the property to Laura L. Bunch by deed dated November 2, 1911.\nT. H. Bunch and his sister, Mrs. Mathews, inherited a portion of the lots mentioned as parcel III, and Bunch purchased the interest of his sister, who, by deed dated January 31, 1916, conveyed the same to the W. B. Worthen Company, as trustee. It appears from the oral testimony that T. H. Bunch conveyed his half of the property to his wife in the year 1913, bu't the deed was never recorded. The portion of the lots mentioned as parcel IV was inherited by T. IT. Bunch from his mother, and by deed dated January 13, 1904, he conveyed the property to the Union Trust Company, and the latter conveyed to W. B. Worthen Company by deed dated March 30, 1910.\nThe W. B. Worthen Company, as trustee, executed a deed to the Southern Trust Company, of Little Rook, dated February 16, 1916, purporting to convey all of lots 1, 2, 3 and 4 of block 103, and on August 1, 1913, T. H. Bunch and wife executed a deed of trust to W. M. Kavanaugh, as trustee, conveying the whole of lots 1, 2, 3 and 4, block 103, to secure an indebtedness to the Southern Trust Company, the indebtedness being shown by the proof to have keen that of T. H. Bunch.\nThe written declaration of trust executed by the W. B. Worthen Company to Laura L. Bunch on January 24, 1907, covering a portion of the property described as parcel I, was never recorded. There was oral ^\u201cCmony adduced by appellants tending to show that the W. B. Worthen Company held parcels II, III and IV in trust for Laura L. Bunch, but there was no written declaration of trust. Parcel II of the property was, as hereinbefore shown, subsequently conveyed by W. B. Worthen Company to Vaughan and from Vaughan to Mrs. Bunch, where the legal title appears still to rest. T. H. Bunch has never conveyed his undivided half interest in parcel III, which he inherited from his mother, except by an unrecorded deed to his wife and except the mortgage to Kavanaugh as trustee for the Southern Trust Company. The contention of appellants is that the title to all of the property is in the Southern Trust Company as trustee for Mrs. Bunch, but the contention of appellee is that T. H. Bunch is the beneficial owner of the property, to all appearances, and that the attempt to hold the title for the benefit of Mrs. Bunch is a fraud on his creditors.\nThe property in controversy is rental property, having dwelling houses on it, but it was not actually occupied by Bunch, their home being* on the property at the southwest corner of Third and Broadway.\nThe evidence shows that since the property was mortgaged to the Southern Trust Company in August, 1913, the real estate department of that institution has managed the property and has accounted to T. H. Bunch. The contention is that Bunch was acting merely as agent for his wife, but there is correspondence in the record which .shows that it is generally referred to as Bunch\u2019s property. At any rate, according to the proof, there was never any visible change in the possession of the property from the time it was originally acquired by T. H. Bunch, and there is nothing of record showing any title or interest in Laura L. Bunch except the deed from Vaughan to Mrs. Bunch covering the property mentioned as parcel II. All the property was held and managed together, and the proof tends to show that, to all appearances, it was held as the property of T. H. Bunch.\nThe alleged trust in favor of Mrs. Bunch was a secret one, known to no one else except Bunch and his wife and the institution which held it as trustee. The only written declaration of trust was never put of record, and the other declarations were oral. There was nothing to put creditors upon notice that the beneficial interest was in Mrs. Bunch. The conveyances to the Worthen Company showed on their face that they held as trustee, and there was nothing to disclose to the public who the beneficiary was. In the meantime, to all appearances. Bunch himself was controlling the property. While in this condition, Bunch contracted the debt to appellee now involved in the present action, and we are of the opinion that the attempt to hold the beneficial interest in the name of Mrs. Bunch is a fraud upon appellee as one of the creditors.\nThe proof shows that Bunch had been insolvent since the time he contracted his debt with appellee and for some time before this. The W. B. Worthen Company, as well as the Southern Trust Company, held heavy indebtedness against the property, and Bunch contributed of his own means about fifteen or twenty thousand dollars towards reducing that indebtedness.\nWe are of the opinion that Mrs. Bunch is estopped to claim a beneficial interest in the property, by reason of the fact that she has permitted the same to be held ostensibly by her husband to form' a basis of his own credit. The case falls within the rule often announced by this court that \u201cwhere a married woman permits her husband to use her separate estate as his own and to obtain credit on the faith that the estate so used is his own, she will not be allowed afterwards to assert her claim to the property as against her husband\u2019s creditors.\u201d Driggs & Co.\u2019s Bank v. Norwood, 50 Ark. 42; Geo. Taylor Com. Co. v. Bell, 62 Ark. 26; Davis v. Yonge, 74 Ark. 161; Sharp v. Fitzhugh, 75 Ark. 562; Roberts v. Bodman-Pettit Lbr. Co., 84 Ark. 227; Latham v. First National Bank of Fort Smith, 92 Ark. 315; Goodrich v. Bagnell Timber Co., 105 Ark. 90.\nMoreover, we are of the opinion that the proof of circumstances is sufficient to warrant the conclusion that the beneficial interest' of Laura L. Bunch was concealed for the purpose of defrauding future creditors.\nCounsel for appellant invoke the rule that no presumption arises from the execution of a voluntary conveyance that it was the intention to defraud future creditors, and that the fraudulent intent must be proved. This proof, however, may be made by showing circumstances which indicate such fraudulent intent. May v. State Nat. Bank, 59 Ark. 614; Lee Hardware Co. v. Johnson, 132 Ark. 462.\nOn either theory we are of the opinion that the evidence is sufficient to sustain the finding of the chancellor, and that the decree should be affirmed.\nIt is so ordered.",
+        "type": "majority",
+        "author": "McCulloch, C. J."
+      }
+    ],
+    "attorneys": [
+      "Rose, Hemingway, Cantrell & Loughborough, for -appellant, Laura L. Bunch.",
+      "H. M. Armistead, for appellee, Empire Cotton Oil Company.",
+      "Rose, Hemingtoay, Cantrell Loughborough, in reply."
+    ],
+    "corrections": "",
+    "head_matter": "Bunch v. Empire Cotton Oil Company.\nOpinion delivered April 30, 1923.\n1. Fraudulent conveyances \u2014 wife permitting husband to use her property.- \u2014 -Where a married woman permits her husband to use her -separate estate as his own and to obtain credit on. the faith that .the estate so used is his -own, she will not be allowed afterwards .-to as-sert her claim to the property as against her husband\u2019s creditors.\n2. Fraudulent conveyances \u2014 concealment of wife\u2019s interest.\u2014 Evidence held to warrant conclusion that the beneficial interest of a married woman in land conveyed to -a trustee was purposely concealed to defraud future creditors of her husband.\n3. Fraudulent conveyances \u2014 voluntary conveyance \u2014 presumption. \u2014 While no presumption arises from the execution of a voluntary conveyance that it was the intention to defraud future creditors, and such fraudulent intent must be proved, such proof may be made by -showing circumstances which indicate such fraudulent intent.\nAppeal fr-o-m Pulaski Chancery Court; John E. Martineau, Chancellor;\naffirmed.\nRose, Hemingway, Cantrell & Loughborough, for -appellant, Laura L. Bunch.\nThe Southern Trust Company -holds -the beneficial interest in the property for Laura L. Bunch, appellant, and not' for her husband, T. H. Bunch, as -the chancellor erroneously found. The -conveyances to Mrs. Bunch were not fraudulent, an-d this property was given to -her in 1907, 1910 and 1913. There is no evidence of insolvency 'of Bunch until perhaps 1912. At the time the gifts were made he was not indebted to appellee, and bad no intention of becoming indebted to appellee or any one else. Testimony shows conclusively that Bunch and appellee were not known to each other and had no dealings until September 15, 1915. Appellee was a subsequent creditor, and to avoid the gift must show that it was made with the actual intent to defraud. 38 Ark. 427; 50 Ark. 42; 56 Ark. 258; 59 Ark. 614; 96 Ark. 531; 110 Ark. 335. Not shown by proof that donor subsequently become insolvent. 96 Ark. 531.\nH. M. Armistead, for appellee, Empire Cotton Oil Company.\nQuestion of intent to defraud subsequent creditors may be proved by all the facts and circumstances. .132 Ark. 463. The evidence supports the chancellor\u2019s findings. Appellee would have a right to an accounting in any event for the $15,000 and other sums Bunch paid upon the mortgages. 110 Ark. 335 ; 66 Ark. .419. The fact that all this property was acquired originally by her husband, connected with the other undisputed facts, puts the burden of proof upon Mrs. Bunch. 142 Ark. 104; 134 Ark. 231; 133 Ark. 250; 73 Ark. 174. A voluntary conveyance made with intent to defraud, cheat or lxinder other existing or subsequent creditors is void as to both. 110 Ark. 335; 20 Cyc. 425, 426; 59 Ark. 614; 20 Cyc. 454, 456, 460, also 520. Bunch filed no answer. 113 Ark. 100; 145 Ark. 167. Parol trust in lands must be established by evidence clear, strong and unquestionable. 50 Z. 7, 818; 173 Fed. 798; 59 S. E. (W. Ya.) 964; 54 Fed. 299; 86 Ark. 225; 66 Ark. 98. As to claim of wife of husband\u2019s indebtedness to her, 74 Ark. 161; 129 Ark. 398; 76 Ark. 252; 20 Cyc. 498-500.\nRose, Hemingtoay, Cantrell Loughborough, in reply.\nNo proof that Bunch owed any debts he was unable to pay at the time of conveyance or gifts to Ms wife. 42 Ark. 170; 59 Ark. 614. Time between the conveyances and creation of the debt may be considered to show good faith. 132 Ark. 463. The testimony does not show actual intent to defraud appellee or any other subsequent creditor, and even though there were actual fraud, whicn is denied, appellee was not injured or defrauded by the conveyances, and is not entitled to recover. 132 Ark. 463."
+  },
+  "file_name": "0462-01",
+  "first_page_order": 486,
+  "last_page_order": 492
+}

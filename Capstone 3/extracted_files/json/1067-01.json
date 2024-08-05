@@ -1,0 +1,259 @@
+{
+  "id": 1428360,
+  "name": "Turley v. Owen",
+  "name_abbreviation": "Turley v. Owen",
+  "decision_date": "1934-03-19",
+  "docket_number": "4-3413",
+  "first_page": "1067",
+  "last_page": "1074",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "188 Ark. 1067"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [
+    {
+      "cite": "258 S. W. 132",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "162 Ark. 221",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1385573
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/162/0221-01"
+      ]
+    },
+    {
+      "cite": "284 S. W. 770",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "171 Ark. 285",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1369446
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/171/0285-01"
+      ]
+    },
+    {
+      "cite": "85 S. W. 408",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "74 Ark. 253",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        8719982
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/74/0253-01"
+      ]
+    },
+    {
+      "cite": "56 S. W. 1071",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "68 Ark. 211",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1334046
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/68/0211-01"
+      ]
+    },
+    {
+      "cite": "49 S. W. 1083",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "66 Ark. 1",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1909740
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/66/0001-01"
+      ]
+    },
+    {
+      "cite": "33 S. W. 731",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "61 Ark. 464",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1902315
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/61/0464-01"
+      ]
+    },
+    {
+      "cite": "20 S. W. 597",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "57 Ark. 49",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1324612
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/57/0049-01"
+      ]
+    },
+    {
+      "cite": "127 S. W. 983",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "94 Ark. 588",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1545436
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/94/0588-01"
+      ]
+    },
+    {
+      "cite": "211 S. W. 143",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "138 Ark. 289",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1566909
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/138/0289-01"
+      ]
+    },
+    {
+      "cite": "98 U. S. 61",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11323
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/98/0061-01"
+      ]
+    },
+    {
+      "cite": "177 S. W. 10",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "118 Ark. 449",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1562576
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/118/0449-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 694,
+    "char_count": 15134,
+    "ocr_confidence": 0.498,
+    "pagerank": {
+      "raw": 1.64660174887445e-07,
+      "percentile": 0.6919484495041989
+    },
+    "sha256": "0f2167a5563d7fd42372a36a10d21b1d806147fdf569d3903949d38d112e333c",
+    "simhash": "1:b6558a42838a4dce",
+    "word_count": 2626
+  },
+  "last_updated": "2024-02-27T23:51:14.545434+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Turley v. Owen."
+    ],
+    "opinions": [
+      {
+        "text": "Johnson, C. J.\nThis proceeding was instituted, by A. B. Owen, the Central Life Insurance Company of Cincinnati, Ohio, and A. B. Oliver against appellant, Linn Turley, seeking cancellation of a certain commissioner\u2019s deed executed by J. F. McDougal, commissioner in chancery, to appellant, Linn Turley, conveying the northeast quarter of southeast quarter, section 13, township 5 north, rang\u2019e 6 east. Concisely stated, the facts are as follows:\nSt. Francis Road Improvement District No. 12 was created by special act No. 620 of 1923. The district was duly organized, assessment of benefits effected, bonds sold, and the improvement contemplated under the act regularly completed. Section 28 of said act, among other things, provides, in effect, that, upon completion of the improvement provided for in the act, the district shall not be dissolved, but shall continue in effect for the purpose of maintaining the highways of the district; that the commissioners shall annually estimate and report to the county court the amount of money required for maintenance of said highways for the ensuing twelve months. Said section further provides that the estimate of the cost of the contemplated maintenance shall be filed in the office of the county clerk not later than September 1 of each year, and upon the filing of such estimate that the commissioner shall cause a notice to be published for one week in a newspaper in St. Francis County setting forth that such estimate has been filed, and will be presented to the county court on a day of its next regular term. Said section further provides that the county court shall hear all complaints filed against the estimate, and shall determine and adjudge the amount reasonably required for the upkeep of said roads, and shall levy the sum as a maintenance tax upon lands within the district in the same proportion as the lands and other items of real estate were originally assessed, and that such additional assessment shall be added to the other tax, and extended upon, the tax books for the ensuing year, and collected in the same manner, and at the same time as other assessments are collected.\nAct 112 of 1927 amends act 620 of 1923 by limiting the amount which may be assessed against the lands in the improvement district not to exceed 1 per cent, on the assessed benefits in the district.\nIn the pursuance of the authority conferred under \u00a7 28 of said act 620 of 1923, and the amendatory act of 1927, the commissioners of said road district in September, 1929, filed with the county clerk of St. Francis County an estimate of and for the maintenance of roads in said district for the year 1930. Said estimate determined a maintenance charge of 1 per cent, upon the original assessment of benefits.\nOn October 28,1929, the county court of St. Francis County made and entered an order, based upon the petition of the commissioners, levying a tax of 1 per cent, in value upon all the lands in the district based upon the original assessment of benefits.\nThis judgment of the county court does not reflect upon its face that notice was given or published prior to the determination thereof.\nThe maintenance tax, thus levied by the county court, was not paid by the owner or any one for him during the time allowed by law for payment. Thereafter, Road Improvement District No. 12 instituted foreclosure proceedings in the St. Francis Chancery Court against the lands here in controversy; notice of the pendency of the suit was published in compliance with the statute, and thereafter, on October 27, 1930, said tract of land was condemned and ordered sold for nonpayment of the delinquent taxes aforesaid. On December 26, 1930, in pursuance of the decree therefore entered, this tract of land was sold to one J. T. Campbell, and thereafter the report of sale was in all things approved by the chancery court. At the expiration of the period of redemption, a deed was executed to the holder of the certificate of purchase, which seems to have been the present appellant, Firm Turley, which deed was, in all things, approved by the chancery court.\nThereafter, on April 17,1933, this suit was instituted for the purpose aforesaid, and thereafter a decree was entered canceling appellant\u2019s deed, and this appeal is prosecuted to reverse this decree. The decree appealed from, which was rendered on November 9, 1933, contains the following finding of law and fact:\n\u201cThat this cause is a direct attack on a decree of this court heretofore rendered in cause No. 5434, wherein St. Francis County Road Improvement District No. 12 was plaintiff, and George C. Brown & Company et al. were defendants. The court finds further that the process and proceedings, had in said cause No. 5434, were regular, and that the decree rendered therein was good as to form, but that the same should be vacated for the reason the proceeding\u2019s had in St. Francis County Court, October 28, 1929, attempting to levy a maintenance tax for the year 1930, upon Avhich the decree in cause No. 5434 in this court was based, were void, and hence rendered the process of this court inoperative.\u201d\nIt appears from the chancellor\u2019s findings of law that it was his opinion that this suit was a direct attack upon the prior decree of the St. Francis Chancery Court condemning the lands in this controversy for sale. The chancellor was in error in this conclusion of law.\nIt is true that appellees filed an amendment to their complaint in which it was alleged that \u201ca fraud was practiced on the court in obtaining the judgment establishing a lien on said lands, and ordering a sale thereof,\u201d but there is no testimony establishing or tending to establish this allegation.\nConceding, without deciding, that the county court judgment, assessing the maintenance benefits and levying the tax, was a void order, nevertheless, and for the reasons hereinafter stated, this would not be decisive of this case.\nThe mere fact, if it be a fact, that the decree of the St. Francis Chancery Court in foreclosure Avas based upon a void or voidable order, and judgment of the county court is entirely insufficient to show that the foreclosure decree Avas procured by fraud.\nIn Cassady v. Norris, 118 Ark. 449, 177 S. W. 10, quoting from the seventh headnote, we held:\n\u201cFraud as the basis of an action to impeach a judgment, must be a fraud extrinsic of the matter tried in the cause; it must not consist of any false or fraudulent act or testimony, the truth of which was or might have been in issue in the proceeding before the court which resulted in the judgment that is assailed; it must be a fraud practiced upon the court in the procurement of the judgment.\u201d\nIn 15 R. C. L., page 762, the rule is stated thus:\n\u201cThe acts for which a court of equity, may, on account of fraud, set aside or annul a judgment at law between the same parties have relationship only to fraud which is extrinsic or collateral to the matter tried by the first court, and not to fraud in the matter on which the judgment was rendered.\u201d\nIn the ease of United States v. Throckmorton, 98 U. S. 61, the Supreme Court of the United States had under consideration a petition which sought to set aside and vacate a previous order and judgment, because based upon an instrument in writing which was falsely and fraudulently executed. The court stated the rule as follows:\n\u201cThat the mischief of retrying every case in which the judgment or decree rendered on false testimony given by perjured witnesses, or on contracts or documents whose genuineness or validity was in issue, and which are afterwards ascertained to be forged or fraudulent, would be greater, by reason of the endless nature of the strife, than any compensation arising from doing justice in individual cases.\u201d\nThus it appears that practically all the authorities agree that judgments will not be set aside and vacated merely because they were superinduced by false testimony or based upon false, fraudulent or forged instruments.\nSince we have determined that the foreclosure decree was not procured through fraud, it remains only to determine whether or not this proceeding is a direct or a collateral attack on the judgment in foreclosure in the chancery court.\nFor the reasons .just stated this proceeding does not come within the purview of \u00a7 6290, Crawford & Moses\u2019 Digest, and for this reason is not a direct attack on the judgment sought to be vacated because of said section. Independently of the statute just quoted, is this a direct or collateral attack on the chancery court decree in foreclosure?\nIn Hooper v. Wist, 138 Ark. 289, 211 S. W. 143, we held:\n\u201cThis brings us to a consideration of whether the present case is a direct or collateral attack on the former chancery decree. A direct attack on a judgment is usually defined as an attempt to reform or vacate it in a suit brought in the same action and in the same court for that purpose. On the other hand, a collateral attack upon a judgment has been defined to mean any proceeding in which the integrity of a judgment is challenged, except those made in the action wherein the judgment is rendered, or by appeal, and except suits brought to obtain decrees declaring judgments to be void ab initio. 15 R. C. L. 838, par. 311. This is the effect of our decisions in the cases above cited as well as numerous other decisions of the court.\u201d\nIn Cassady v. Norris, supra, we held an action attacking a decree of the chancery court condemning for sale certain lands for the nonpayment of taxes to be collateral.\nIn the case of Pattison v. Smith, 94 Ark. 588, 127 S. W. 983, we held: \u201cThat the findings and recital of a decree in foreclosure of a tax lien were binding and conclusive upon a collateral proceeding,\u201d and cited as supporting the rule: McLain v. Duncan, 57 Ark. 49, 20 S. W. 597; McConnell v. Day, 61 Ark. 464, 33 S. W. 731; Porter v. Dooley, 66 Ark. 1, 49 S. W. 1083; Porter v. Tallman, 68 Ark. 211, 56 S. W. 1071; Palmer v. Ozark Land Co., 74 Ark. 253, 85 S. W. 408.\nIn the instant case, it may be said that the validity or invalidity of the county court judgment levying the maintenance tax and assessment for 1930 was an issue of fact in the foreclosure proceedings of October, 1930, and the adjudication of the question in favor of the district and levy was and is conclusive and binding upon all parties thereto, which includes not only the landowner, but his privies in estate. Moreover, the rigor of the rule thus stated is not modified or impaired, because the proceeding\u2019 Avas one in rem and not in personam.\nIn Pattison v. Smith, supra, we held that, by the filing of a suit in foreclosure and the publication of the notice required by statute, the court acquired jurisdiction over the land involved in the action, and that the question as to whether or not the taxes on the land were delinquent was but an issue of fact to be passed upon by the court. It was further determined in that opinion that the jurisdiction thus acquired was as complete and effective as if personal service of process had been had upon the owner of the land.\nNeither is the rule .just announced in conflict with the previous holding of this court in Taylor v. Bay St. Francis Drainage District, 171 Ark. 285, 284 S. W. 770. In the case just referred to, a petition was filed in the circuit court seeking certiorari to bring up and quash certain proceedings of the county court. The judgment and order of the county court sought to be quashed was made and entered at a time when the original proceeding\u2019s in suit were pending in the Supreme Court. Thus it appears that the Taylor case was a direct attack authorized by \u00a7 2237, Crawford & Moses\u2019 Digest, upon a judgment of a court of inferior jurisdiction, and is therefore no authority against the position here taken.\nNeither can we agree that our present holding is in conflict with Grayling Lumber Co. v. Tillar, 162 Ark. 221, 258 S. W. 132. In this case the facts were, that on November 7, 1901, a decree confirming title was entered in favor of Red Fork Levee District. Frank Tillar was not made a party to the confirmation proceedings. Many years thereafter Tillar instituted conformation proceedings against the Grayling Lumber Company, which had succeeded to the rights and title of the Reel Fork Levee District. The lumber company pleaded the former adjudication in bar. The trial court found, as a fact, that Tillar paid the taxes on the land in controversy for the years 1895 to 1901, inclusive. The decisive issue in that case was thus determined.\n\u201cThe confirmation proceedings were had pursuant to our statute regulating the procedure in confirming and quieting title to lands. Sections 8362-8373, inclusive. Section 8369, among other things, provides that the decree in the cause shall not bar or affect the rights of any person, who, within seven years preceding, had paid the taxes on the lands, unless such person shall have been made a defendant in the petition, and duly summoned to answer the same.\u201d\nThus it appears that Tillar fell within the statutory exception; he had paid the taxes, was not served with summons, and was not bound by tbe decree under tbe plain mandate of the statute.\nThe result of our previous opinions is that any proceeding provided for by law which has the purpose of avoiding or correcting a judgment or decree is a direct attack which will be successful upon showing error; while an attempt to do the same thing in any other proceeding is a collateral attack which will be successful only upon showing a want of power.\nThe chancery court of St. Francis County had jurisdiction of the subject-matter and parties in the foreclosure suit of October, 1930, and therefore had full power and authority to determine all the issues here presented, and appellees\u2019 f\u00e1ilure or refusal to appear in said foreclosure proceedings and contest the same has foreclosed and barred their rights to now be heard.\nWe agree with appellees that act 112 of 1927 does not repeal act 620 of 1923, and that notice to the landowner of the assessment of benefits for the purpose of maintenance was a prerequisite to the validity of the county court judgment. But, even so, this does not militate. against the rule that a judgment rendered by a court of competent jurisdiction which acquires jurisdiction of the subject-matter and the parties is conclusive and binding between parties and their privies.\nThe interest of the Union Central Life Ins. Co. rises no higher than that of A. B. Owen. The life insurance company\u2019s title was derived from Owen subsequent to the foreclosure decree and sale.\nIt follows from what we have said that the foreclosure decree of the St. Francis Chancery Court, of date October, 1930, is conclusive and binding upon all parties to this record, and the title of appellant acquired by purchase from the foreclosure sale is superior and paramount to appellees\u2019 title.\nFor the reasons aforesaid, the case will be reversed and remanded with directions to the St. Francis Chancery Couri to enter a decree in conformity to this opinion.",
+        "type": "majority",
+        "author": "Johnson, C. J."
+      }
+    ],
+    "attorneys": [
+      "C. W. Norton, for appellant.",
+      "Mann & Mann, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Turley v. Owen.\n4-3413\nOpinion delivered March 19, 1934.\nC. W. Norton, for appellant.\nMann & Mann, for appellee."
+  },
+  "file_name": "1067-01",
+  "first_page_order": 1085,
+  "last_page_order": 1092
+}

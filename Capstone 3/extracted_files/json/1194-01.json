@@ -1,0 +1,85 @@
+{
+  "id": 1397128,
+  "name": "Old American Insurance Company v. Deloney",
+  "name_abbreviation": "Old American Insurance v. Deloney",
+  "decision_date": "1929-02-18",
+  "docket_number": "",
+  "first_page": "1194",
+  "last_page": "1196",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "178 Ark. 1194"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [
+    {
+      "cite": "2 S. W. (2d) 63",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "176 Ark. 126",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1399902
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/176/0126-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 227,
+    "char_count": 3202,
+    "ocr_confidence": 0.461,
+    "pagerank": {
+      "raw": 8.529083458024608e-08,
+      "percentile": 0.4873546681679125
+    },
+    "sha256": "a8b60d08c4b8c47ec2e45da943e020e165c2048278c15895663b522750d689e6",
+    "simhash": "1:aa4d3b729a84d766",
+    "word_count": 543
+  },
+  "last_updated": "2024-02-27T17:49:07.238160+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Old American Insurance Company v. Deloney."
+    ],
+    "opinions": [
+      {
+        "text": "Smith, J.\nAppellee brought this suit against the appellant insurance company to recover the amount of a policy of insurance issued by the appellant company on the life of appellee\u2019s wife, in which he was the beneficiary'. The company denied liability, upon the ground that the insured falsely represented in her application for insurance that she did not have, at the time of the application, nor had she had, during the two years pre ceding the application, certain diseases mentioned in the application for the policy.\nThere was a failure to prove that the insured had, or had had, the mentioned diseases, but there was some testimony to the effect that, between the date of the application for the policy and its delivery, the insured had a spell of influenza. At the conclusion of the testimony, defendant requested an instruction numbered 2, reading as follows: \u201cYou are instructed that, if you find from the evidence that plaintiff became ill after applying for insurance with defendant company and before the delivery of the policy, and if you further find that the contract of insurance provided that, if applicant became sick during the pendency of the application, the application should then be considered as withdrawn, then your verdict will he for the plaintiff in the sum of such amounts as you find were paid as premiums on said policy, together with 6 per cent, interest thereon.\u201d\nThe court refused to give the instruction, whereupon defendant asked leave to amend its answer to conform to the testimony, showing a breach of the warranty contained in the application reading as follows: \u2018.\u2018In the event I should become ill or die between the date of the application and before such delivery of the policy to me, then it is agreed that any premium paid with the application shall be returned to me or my legal representative, the application being treated as withdrawn.\u201d\nThe court overruled the motion, for the reason stated, that the evidence was closed and the witnesses discharged, and this amendment to the answer injected a new issue in the case.\nThere was a verdict and judgment for appellee, for the reversal of which it is insisted that the court should have given the instruction set out aboye, and should have permitted the answer to be amended to raise the issue covered by this instruction.\nThe defense that the insured became ill between the date of the application for the policy and that of its delivery was one not raised by the answer nor by the motion to amend it, until after the witnesses had been discharged, and it was therefore a matter of discretion on the part of the trial court whether then to permit this new defense to be interposed, and we are unable to say that the court abused its discretion. Butler v. Butler, 176 Ark. 126, 2 S. W. (2d) 63.\nIt becomes \u25a0unnecessary therefore to determine whether the instruction correctly interpreted the language of the application quoted above, as this issue was not raised in apt time. The judgment must therefore be affirmed, and it is so ordered.",
+        "type": "majority",
+        "author": "Smith, J."
+      }
+    ],
+    "attorneys": [
+      "John L. Crank and Brickhouse & Brickhouse, for appellant.",
+      "Feazel & Steel, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Old American Insurance Company v. Deloney.\nOpinion delivered February 18, 1929.\nJohn L. Crank and Brickhouse & Brickhouse, for appellant.\nFeazel & Steel, for appellee."
+  },
+  "file_name": "1194-01",
+  "first_page_order": 1212,
+  "last_page_order": 1214
+}

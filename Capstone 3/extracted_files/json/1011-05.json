@@ -1,0 +1,78 @@
+{
+  "id": 12462832,
+  "name": "State, Respondent, v. Ljunghammar et al., Petitioners",
+  "name_abbreviation": "State v. Ljunghammar",
+  "decision_date": "2016-09-28",
+  "docket_number": "No. 93187-9",
+  "first_page": "1011",
+  "last_page": "1011",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "186 Wash. 2d 1011"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Wash.",
+    "id": 9029,
+    "name": "Washington Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 38,
+    "name_long": "Washington",
+    "name": "Wash."
+  },
+  "cites_to": [
+    {
+      "cite": "193 Wn. App. 1032",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        12450050,
+        12450051,
+        12450052,
+        12450053
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/193/1032-01",
+        "/wash-app/193/1032-02",
+        "/wash-app/193/1032-03",
+        "/wash-app/193/1032-04"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 32,
+    "char_count": 219,
+    "ocr_confidence": 0.871,
+    "sha256": "6149be0d074f69edf678409562a2f9bc2ed080977aba1540e12920cb72377d8c",
+    "simhash": "1:e891606851799e74",
+    "word_count": 35
+  },
+  "last_updated": "2024-02-27T18:43:05.207238+00:00",
+  "provenance": {
+    "date_added": "2019-05-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "State, Respondent, v. Ljunghammar et al., Petitioners,"
+    ],
+    "opinions": [
+      {
+        "text": "Petition for review of a decision of the Court of Appeals, Nos. 72067-8-I and 72069-4-I, April 25, 2016, 193 Wn. App. 1032. Denied September 28, 2016.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "State, Respondent, v. Ljunghammar et al., Petitioners,\nNo. 93187-9."
+  },
+  "file_name": "1011-05",
+  "first_page_order": 997,
+  "last_page_order": 997
+}

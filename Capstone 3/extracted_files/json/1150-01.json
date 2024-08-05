@@ -1,0 +1,170 @@
+{
+  "id": 1435289,
+  "name": "Cade v. State",
+  "name_abbreviation": "Cade v. State",
+  "decision_date": "1932-06-27",
+  "docket_number": "Crim. 3813",
+  "first_page": "1150",
+  "last_page": "1155",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "185 Ark. 1150"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [
+    {
+      "cite": "296 S. W. 722",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "174 Ark. 863",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        8725035
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/174/0863-01"
+      ]
+    },
+    {
+      "cite": "264 S. W. 940",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "165 Ark. 436",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1379863
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/165/0436-01"
+      ]
+    },
+    {
+      "cite": "204 S. W. 421",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "134 Ark. 514",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1573301
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/134/0514-01"
+      ]
+    },
+    {
+      "cite": "106 S. W. 667",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "84 Ark. 540",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1524377
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/84/0540-01"
+      ]
+    },
+    {
+      "cite": "95 S. W. 136",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "79 Ark. 213",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1495631
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/79/0213-01"
+      ]
+    },
+    {
+      "cite": "43 Ark. 413",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1894517
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/43/0413-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 471,
+    "char_count": 9339,
+    "ocr_confidence": 0.511,
+    "pagerank": {
+      "raw": 8.138363859351185e-08,
+      "percentile": 0.47020637110503355
+    },
+    "sha256": "f581feca8db580043be701071a2d1580cdfb353f95c4dd7851467c1a3af3a776",
+    "simhash": "1:e27fa068826653c6",
+    "word_count": 1617
+  },
+  "last_updated": "2024-02-27T17:51:09.396208+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Cade v. State."
+    ],
+    "opinions": [
+      {
+        "text": "MoHaney, J.\nAppellant, O. W. \u00a1Bass, is the county superintendent, and the other appellants are members of the county board of education of Washington County, Arkansas. At the April, 1932, term of the Washington Circuit Court, they were indicted by the grand jury of said county for falsely and fraudulently certifying the returns of the election held in that county on the first day of March, 1932, for the election of members of the county board of education. The indictment charged that appellants falsely and fraudulently certified one Paul Brogdon as having been elected to the county board of education, when in truth and in fact one A. W. Mintun was elected. After the indictment was returned, the prosecuting attorney filed a petition with the court praying for an order suspending them from office under \u00a7 10,335, Crawford & Moses\u2019 Digest, to which appellants filed response. The court- granted the prayer of the petition and suspended appellants from office pending their trial upon said indictment. From this order of suspension appellants have appealed.\nFor a reversal of the case appellants make two contentions: First, that \u00a7 3888 of Crawford & Moses\u2019 Digest, under which they say they were indicted, has no application to school elections; and, second, that the members of the county board of education and the county superintendent are not county officers, within the meaning of said \u00a7 10,335.\nSection 3888, Crawford & Moses\u2019 Digest, reads as follows: \u201cAny election officer or other person whosoever who shall wilfully make a false count of any election ballots, or falsely or fraudulently certify the returns of any election, or steal, destroy, secrete or otherwise make way with any election ballot, tally sheet, certificate or ballot box, either before or after the closing of the polls, shall be deemed guilty of a felony, and, on conviction thereof, punished by imprisonment at hard labor in the penitentiary not less than two years nor more than seven years.\u201d\nThe court suspended appellants from office under \u00a7 10,335, which provides, in substance, that, when an indictment is filed in any circuit court against \u201cany county or township officer\u201d for the offenses therein named, the court shall immediately order such officer suspended from office until tried. \u201cProvided, such suspension shall not extend beyond the next term after the same shall be filed in such circuit court, unless the cause is continued on the application of the defendant.\u201d\nSection 3888, above quoted, is a part of the election laws of this State, and is \u00a7 43 of the act of March 4,1891, Acts 1891, p. 32, entitled, \u201cAn act to regulate elections in the State of Arkansas.\u201d\n.Section 30 of act 169, Acts 1931, p. 476, same being designated in \u00a7 1 as the \u201cSchool Law,\u201d provides that the election returns of all school elections shall be made to the county superintendent of schools immediately after the election; that he shall call a meeting of the county board within fifteen days after the election; that said board shall canvass the returns and certify the result to the county clerk for record in his office. Provision is made for notification and issuing commission to those elected to the board, and for contests. It is further provided that: \u201cThe election laws regulating the nomination and certification of the names of candidates for county offices shall govern in the matter of candidates for members of the county board of education.\u201d This has reference to the manner of getting the names of candidates for membership on the county board on the ticket to be voted on in the annual school election. The annual school election, held on the first Tuesday in March each year, is not a primary but a general election \u2014 a general school election. Any elector of the county may become a candidate for membership on the board by paying- a fee of $1 to the county treasurer, not later than 20 days before the election. We see no reason why \u00a7 3888 should not apply to the general annual school election as well as to other general elections. Its terms are sufficiently broad to include the county board. It applies to \u201cany election officer or other person whomsoever who shall * * * falsely or fraudulently certify the returns of any election.\u201d If it does not apply, there is no applicable statute defining and punishing this particular offense or breach of duty. It is suggested that \u00a7 197 of said act 169 applies. It provides that \u201cany * * * county board of education * * * who shall wilfully fail or refuse to comply with any provision of the \u2018school law\u2019 for which no punishment is otherwise provided by law shall be deemed guilty of a misdemeanor and shall be fined in any sum not less than ten ($10) dollars, nor more than five hundred ($500) dollars.\u201d We think this section has no application, as we are of the opinion that punishment is otherwise provided by law in said \u00a7 3888, and that appellants did not fail or refuse to comply with the law. It is further argued that this court, in Stout v. State, 43 Ark. 413, and in Brown v. Haselman, 79 Ark. 213, 95 S. W. 136, held that the provisions of the general election law had no application to school elections. In the former case we held that the provision of the general election law of January 23, 1875, (\u00a7 3881, Crawford & Moses\u2019 Digest) prohibiting the giving away or selling intoxicating liquor on election day, did not apply to an election for a school director at an annual school meeting provided for by the Common Schools Act of 1875. In the latter case we held that \u00a7 1667, Kirby\u2019s Digest (now\u00a7 3883, Crawford & Moses\u2019 Digest) had no application to a school election. Section 3883, as well as \u00a7 3881, are parts of the act of January 23, 1875, p. 92, Acts 1875, which was entitled \u201cAn act providing a general election law.\u201d In the latter case we said: \u201cThe act, in term applies only to general elections of State, county and township officers, and to special elections held to fill vacancies in said offices.\u201d The reason for the holding in the two cases above mentioned therefore becomes apparent. The act in question in this case is entitled \u2018 \u2018 An Act to Regulate Elections in the State of Arkansas.\u201d It is therefore not limited in its title to general elections, such as the act of 1875 above mentioned, and, being broad enough in its terms to apply to school elections, we hold that \u00a7 3888 of the Digest is applicable to the case at bar.\nThe next question for determination is whether the county board of education and the county superintendent are county officers. As to the county board of education, we think there can be no question that they are county officers. Its members are elected for a definite term. Their jurisdiction extends to the whole county. As a board, it is given broad and comprehensive powers over the conduct and management of the schools of the county, including the organization, reorganization and change in boundary lines of school districts. They are given all the powers formerly conferred upon the county court. As to the county superintendent, while he is not elected at the annual school election by direct vote of the people, he is elected by the county board, for a definite term, not to exceed two years, and his jurisdiction is co-extensive with the county. See 32, 33, 42, 92 of Act 169 of 1931. While he is not a member of the county board, he is in express terms by said act made an executive officer of the board. The act requires returns of the school election to be made to him, and, within 15 days, he is required to call a meeting of the county board to canvass and certify to the county clerk the returns of said election. The law permits him to act as secretary of the board, or they may elect some member of the board as secretary. Whether appellant Bass is secretary of the county board, the record does not disclose, but he is an executive officer thereof, and as such it is alleged that he participated in the acts charged in the indictment. We therefore hold that both he and the members of the county board are county officers within the meaning of \u00a7 10,335, Crawford & Moses\u2019 Digest. See also Lucas v. Futrall, 84 Ark. 540, 106 S. W. 667; Middleton v. Miller County and Miller County v. Kosminsky, 134 Ark. 514, 204 S. W. 421; Warren v. McRae, 165 Ark. 436, 264 S. W. 940; Ft. Smith v. Quinn, 174 Ark. 863, 296 S. W. 722. In the second case above mentioned, we held that the position of county health officer is not an office and does not come within the constitutional provision concerning officers holding over after the expiration of their respective terms, until the election and qualification of their successors. In the case last cited we held that a member of the city fire department was an officer of the city of Fort Smith under the act then under consideration and entitled to his salary during the time he was wrongfully excluded from office.\nWe are therefore of the opinion that both contentions of counsel for appellants can not be sustained, and that the judgment of the circuit court suspending them from office is correct and must be affirmed.",
+        "type": "majority",
+        "author": "MoHaney, J."
+      }
+    ],
+    "attorneys": [
+      "Price Dickson, Karl Greenhaw and Duty $ Duty, for appellants.",
+      "Hal L. Norwood, Attorney General, and John H. Caldwell, Assistant, for appellee.",
+      "John Mayes, Earl Blansett and John W. Nance, amici curiae."
+    ],
+    "corrections": "",
+    "head_matter": "Cade v. State.\nCrim. 3813\nOpinion delivered June 27, 1932.\nPrice Dickson, Karl Greenhaw and Duty $ Duty, for appellants.\nHal L. Norwood, Attorney General, and John H. Caldwell, Assistant, for appellee.\nJohn Mayes, Earl Blansett and John W. Nance, amici curiae."
+  },
+  "file_name": "1150-01",
+  "first_page_order": 1170,
+  "last_page_order": 1175
+}

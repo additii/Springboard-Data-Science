@@ -1,0 +1,710 @@
+{
+  "id": 12456833,
+  "name": "Wade's Eastside Gun Shop, Inc., et al., Plaintiffs, v. The Department of Labor and Industries, Appellant, The Seattle Times Company, Respondent",
+  "name_abbreviation": "Wade's Eastside Gun Shop, Inc. v. Department of Labor & Industries",
+  "decision_date": "2016-03-24",
+  "docket_number": "No. 89629-1",
+  "first_page": "270",
+  "last_page": "301",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "185 Wash. 2d 270"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Wash.",
+    "id": 9029,
+    "name": "Washington Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 38,
+    "name_long": "Washington",
+    "name": "Wash."
+  },
+  "cites_to": [
+    {
+      "cite": "769 P.2d 283",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1989,
+      "pin_cites": [
+        {
+          "parenthetical": "holding the Liquor Control Board was a law enforcement agency for purposes of the PRA's investigative records exemption because it \"exercises the State's police power in administering and enforcing the law and regulations pertaining to alcoholic beverage control''"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "112 Wn.2d 30",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1175495
+      ],
+      "year": 1989,
+      "pin_cites": [
+        {
+          "parenthetical": "holding the Liquor Control Board was a law enforcement agency for purposes of the PRA's investigative records exemption because it \"exercises the State's police power in administering and enforcing the law and regulations pertaining to alcoholic beverage control''"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/112/0030-01"
+      ]
+    },
+    {
+      "cite": "791 P.2d 526",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1990,
+      "opinion_index": 0
+    },
+    {
+      "cite": "114 Wn.2d 788",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1169954
+      ],
+      "year": 1990,
+      "pin_cites": [
+        {
+          "page": "795-96"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/114/0788-01"
+      ]
+    },
+    {
+      "cite": "958 P.2d 260",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1998,
+      "opinion_index": 0
+    },
+    {
+      "cite": "135 Wn.2d 734",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        812838
+      ],
+      "year": 1998,
+      "pin_cites": [
+        {
+          "page": "758"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/135/0734-01"
+      ]
+    },
+    {
+      "cite": "6 P.3d 1214",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2000,
+      "opinion_index": 0
+    },
+    {
+      "cite": "102 Wn. App. 212",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        1301195
+      ],
+      "year": 2000,
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/102/0212-01"
+      ]
+    },
+    {
+      "cite": "300 P.3d 799",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "weight": 7,
+      "year": 2013,
+      "pin_cites": [
+        {
+          "page": "834",
+          "parenthetical": "L&I's second installment of records to the Seattle Times was not released for another two months"
+        },
+        {
+          "page": "812"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "177 Wn.2d 467",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4131636
+      ],
+      "year": 2013,
+      "pin_cites": [
+        {
+          "page": "492"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/177/0467-01"
+      ]
+    },
+    {
+      "cite": "174 P.3d 60",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2007,
+      "pin_cites": [
+        {
+          "parenthetical": "plurality opinion"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "162 Wn.2d 716",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        3696063
+      ],
+      "year": 2007,
+      "pin_cites": [
+        {
+          "page": "751",
+          "parenthetical": "plurality opinion"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/162/0716-01"
+      ]
+    },
+    {
+      "cite": "963 P.2d 869",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1998,
+      "pin_cites": [
+        {
+          "parenthetical": "declining to extend Newman's categorical exemption to the work product exemption"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "136 Wn.2d 595",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        867944
+      ],
+      "year": 1998,
+      "pin_cites": [
+        {
+          "page": "613",
+          "parenthetical": "declining to extend Newman's categorical exemption to the work product exemption"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/136/0595-01"
+      ]
+    },
+    {
+      "cite": "243 P.3d 919",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2010,
+      "pin_cites": [
+        {
+          "parenthetical": "holding once the prosecutor made his charging decisions and a murder investigation was no longer ongoing, the case was outside of Newman and on point with Cowles Publishing"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "170 Wn.2d 581",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4012761
+      ],
+      "year": 2010,
+      "pin_cites": [
+        {
+          "page": "594",
+          "parenthetical": "holding once the prosecutor made his charging decisions and a murder investigation was no longer ongoing, the case was outside of Newman and on point with Cowles Publishing"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/170/0581-01"
+      ]
+    },
+    {
+      "cite": "314 P.3d 1093",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "weight": 2,
+      "year": 2013,
+      "opinion_index": 0
+    },
+    {
+      "cite": "179 Wn.2d 376",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4033611
+      ],
+      "weight": 2,
+      "year": 2013,
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/179/0376-01"
+      ]
+    },
+    {
+      "cite": "287 P.3d 523",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "weight": 5,
+      "year": 2012,
+      "pin_cites": [
+        {
+          "page": "574"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "175 Wn.2d 837",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4024014
+      ],
+      "year": 2012,
+      "pin_cites": [
+        {
+          "page": "843"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/175/0837-01"
+      ]
+    },
+    {
+      "cite": "987 P.2d 620",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1999,
+      "opinion_index": 0
+    },
+    {
+      "cite": "139 Wn.2d 472",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        98982
+      ],
+      "year": 1999,
+      "pin_cites": [
+        {
+          "page": "476"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/139/0472-01"
+      ]
+    },
+    {
+      "cite": "357 P.3d 45",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2015,
+      "opinion_index": 0
+    },
+    {
+      "cite": "183 Wn.2d 863",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        6793756
+      ],
+      "year": 2015,
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/183/0863-01"
+      ]
+    },
+    {
+      "cite": "240 P.3d 1149",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2010,
+      "pin_cites": [
+        {
+          "parenthetical": "quoting Jembaa Cole, When Invisible Ink Leaves Red Faces: Tactical, Legal, and Ethical Consequences of the Failure to Remove Metadata, 1 Shidler J.L. Com. & Tech. 8, \u00b6 7 (2005)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "170 Wn.2d 138",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4013220
+      ],
+      "year": 2010,
+      "pin_cites": [
+        {
+          "page": "145",
+          "parenthetical": "quoting Jembaa Cole, When Invisible Ink Leaves Red Faces: Tactical, Legal, and Ethical Consequences of the Failure to Remove Metadata, 1 Shidler J.L. Com. & Tech. 8, \u00b6 7 (2005)"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/170/0138-01"
+      ]
+    },
+    {
+      "cite": "98 P.3d 463",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2004,
+      "pin_cites": [
+        {
+          "parenthetical": "'Yousoufian I"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "152 Wn.2d 421",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1217432
+      ],
+      "year": 2004,
+      "pin_cites": [
+        {
+          "page": "436",
+          "parenthetical": "'Yousoufian I"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/152/0421-01"
+      ]
+    },
+    {
+      "cite": "240 P.3d 120",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2010,
+      "pin_cites": [
+        {
+          "parenthetical": "upholding trial court's discretion to group requested documents broadly by subject matter into two \"records\""
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "169 Wn.2d 827",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4010742
+      ],
+      "year": 2010,
+      "pin_cites": [
+        {
+          "page": "864",
+          "parenthetical": "upholding trial court's discretion to group requested documents broadly by subject matter into two \"records\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/169/0827-01"
+      ]
+    },
+    {
+      "cite": "199 P.3d 393",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2009,
+      "pin_cites": [
+        {
+          "parenthetical": "explaining that where the meaning of statutory language is plain, the court must give effect to that plain meaning"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "165 Wn.2d 525",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        5751061
+      ],
+      "year": 2009,
+      "pin_cites": [
+        {
+          "page": "536",
+          "parenthetical": "explaining that where the meaning of statutory language is plain, the court must give effect to that plain meaning"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/165/0525-01"
+      ]
+    },
+    {
+      "cite": "71 P.3d 638",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2003,
+      "opinion_index": 0
+    },
+    {
+      "cite": "149 Wn.2d 647",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1292589
+      ],
+      "year": 2003,
+      "pin_cites": [
+        {
+          "page": "654"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/149/0647-01"
+      ]
+    },
+    {
+      "cite": "229 P.3d 735",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2010,
+      "pin_cites": [
+        {
+          "parenthetical": "'Yousoufian II"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "168 Wn.2d 444",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4007219
+      ],
+      "year": 2010,
+      "pin_cites": [
+        {
+          "page": "458",
+          "parenthetical": "'Yousoufian II"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/168/0444-01"
+      ]
+    },
+    {
+      "cite": "246 P.3d 768",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2011,
+      "opinion_index": 0
+    },
+    {
+      "cite": "170 Wn.2d 775",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4013186
+      ],
+      "year": 2011,
+      "pin_cites": [
+        {
+          "page": "797"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/170/0775-01"
+      ]
+    },
+    {
+      "cite": "884 P.2d 592",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1994,
+      "pin_cites": [
+        {
+          "parenthetical": "plurality opinion"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "125 Wn.2d 243",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        437224
+      ],
+      "year": 1994,
+      "pin_cites": [
+        {
+          "page": "251",
+          "parenthetical": "plurality opinion"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/125/0243-01"
+      ]
+    },
+    {
+      "cite": "947 P.2d 712",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1997,
+      "opinion_index": 0
+    },
+    {
+      "cite": "133 Wn.2d 565",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        331112
+      ],
+      "year": 1997,
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/133/0565-01"
+      ]
+    },
+    {
+      "cite": "98 P.3d 463",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "weight": 2,
+      "year": 2004,
+      "opinion_index": 1
+    },
+    {
+      "cite": "152 Wn.2d 421",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1217432
+      ],
+      "year": 2004,
+      "pin_cites": [
+        {
+          "page": "434"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/152/0421-01"
+      ]
+    },
+    {
+      "cite": "240 P.3d 120",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "weight": 3,
+      "year": 2010,
+      "opinion_index": 1
+    },
+    {
+      "cite": "169 Wn.2d 827",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4010742
+      ],
+      "year": 2010,
+      "pin_cites": [
+        {
+          "page": "864"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/169/0827-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1695,
+    "char_count": 53675,
+    "ocr_confidence": 0.893,
+    "pagerank": {
+      "raw": 6.7958913921143e-08,
+      "percentile": 0.41571863842254897
+    },
+    "sha256": "3cfcd9082c763a7fdef265c9a33ad9154f6aa1a319f191d17f1fffb43d6f8fee",
+    "simhash": "1:16e673797ace0eca",
+    "word_count": 9092
+  },
+  "last_updated": "2024-02-28T00:06:59.447104+00:00",
+  "provenance": {
+    "date_added": "2019-05-22",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Madsen, C.J., and Fairhurst, Gordon McCloud, and Yu, JJ., concur.",
+      "Johnson, Wiggins, and Gonz\u00e1lez, JJ., concur with Owens, J."
+    ],
+    "parties": [
+      "Wade\u2019s Eastside Gun Shop, Inc., et al., Plaintiffs, v. The Department of Labor and Industries, Appellant, The Seattle Times Company, Respondent."
+    ],
+    "opinions": [
+      {
+        "text": "Stephens, J.\n\u00b61 This appeal arises from an action brought by the Seattle Times against the Department of Labor and Industries (L&I) for withholding nonexempt public records in violation of the Public Records Act (PRA), chapter 42.56 RCW. It presents two novel questions about the PRA, and additional fact-specific questions. First, we must determine whether a trial court has discretion to calculate penalties for nondisclosure of public records on a per page basis by defining the term \u201crecord\u201d to include a single page. Second, we must determine whether L&I investigations qualify for the categorical investigative records exemption we have recognized as necessary for \u201ceffective law enforcement.\u201d Finally, this case requires us to decide whether the trial court correctly found that L&I violated the PRA during five separate time periods, and appropriately imposed penalties for each time period.\n\u00b62 We hold that the PRA allows trial courts to impose penalties calculated on a per page basis, and that L&I cannot take advantage of the categorical investigative records exemption in this case. Because L&I did not otherwise demonstrate that any of the public records at issue were exempt from disclosure, and because the trial court acted within its considerable discretion, we affirm the decision below.\nFACTS AND PROCEDURAL HISTORY\n\u00b63 In October 2012, L&I received a complaint of elevated levels of lead in the blood of two employees working on a remodel of Wade\u2019s Eastside Gun Shop Inc. Clerk\u2019s Papers (CP) at 766. L&I opened investigations into companies that employed workers at Wade\u2019s during the remodel. Id. at 800.\n\u00b64 On January 31, 2013, the Seattle Times requested access to all L&I records on lead exposure at Wade\u2019s. Id. at 52. After six months of communications back and forth (described in detail below), the request ended up in superior court. Id. at 1. The superior court found that L&I failed to properly comply with PRA procedures for the Seattle Times\u2019 request. Id. at 471. The superior court calculated separate penalties for five different time periods between January 31, 2013 (the date of the PRA request) and September 20, 2013 (the date the Seattle Times finally received all responsive records). Id. at 861-63.\n\u00b65 L&I contends it did not violate the PRA during any of these five time periods. Because L&I\u2019s challenges are fact-specific, we discuss the facts related to each time period where relevant to our analysis.\n\u00b66 The superior court imposed a $502,827.40 penalty for the PRA violations based on the number of pages of public records L&I wrongfully withheld and L&I\u2019s culpability during each time period. Id. at 861-64. In addition, the superior court awarded the Seattle Times attorney fees and costs, for a total judgment against L&I of $546,509.26. Id. at 866-67. L&I appealed, and we granted direct review. Order, Wade\u2019s Eastside Gun Shop, Inc. v. Dep\u2019t of Labor & Indus., No. 89629-1 (Wash. Jan. 7, 2015).\nISSUES\n\u00b67 1. Does the PRA prohibit the calculation of a penalty for improperly withheld public records on a per page basis?\n\u00b68 2. Can L&I rely on the categorical \u201cinvestigative records exemption\u201d articulated in Newman v. King County, 133 Wn.2d 565, 947 P.2d 712 (1997)?\n\u00b69 3. Did L&I violate the PRA during each of the five time periods described by the superior court?\nANALYSIS\n\u00b610 The PRA is a strongly worded mandate for disclosure of public records. The purpose of the act is \u201cnothing less than the preservation of the most central tenets of representative government, namely, the sovereignty of the people and the accountability to the people of public officials and institutions.\u201d Progressive Animal Welfare Soc\u2019y v. Univ. of Wash., 125 Wn.2d 243, 251, 884 P.2d 592 (1994) (plurality opinion); see also RCW 42.56.030. To effectuate the PRA\u2019s purpose, the legislature declared that the PRA \u201cshall be liberally construed and its exemptions narrowly construed.\u201d RCW 42.56.030. The language of the PRA must be interpreted in a manner that furthers the PRA\u2019s goal of ensuring that the public remains informed so that it may maintain control over its government. Id.; see, e.g., Yakima County v. Yakima Herald-Republic, 170 Wn.2d 775, 797, 246 P.3d 768 (2011).\n\u00b6 11 A trial court\u2019s award of penalties for a PRA violation is reviewed for abuse of discretion. Yousoufian v. Office of Ron Sims, 168 Wn.2d 444, 458, 229 P.3d 735 (2010) (\u2019Yousoufian II). A court abuses its discretion only when it adopts a view \u201c \u2018that no reasonable person would take\u2019 \u201d or when it bases its decision on \u201cuntenable grounds or reasons.\u201d Id. at 458-59 (internal quotation marks omitted) (quoting State v. Rohrich, 149 Wn.2d 647, 654, 71 P.3d 638 (2003)).\nI. The Trial Court Did Not Abuse Its Discretion When It Imposed a Per Page Penalty\n\u00b612 The superior court imposed a PRA penalty for each improperly withheld page of the requested public records. See CP at 861-63. L&I argues that this was error, and that the PRA allows courts to impose a penalty only on a per record request. The plain language of the statute and our case law necessitate finding that trial courts have broad discretion to determine the appropriate method of calculating a PRA penalty, and nothing prohibits doing so on a per page basis.\n\u00b613 A plain reading of the PRA supports the trial court\u2019s calculation of an appropriate penalty on a per page basis. The PRA\u2019s penalty provision reads:\nAny person who prevails against an agency in any action in the courts seeking the right to inspect or copy any public record ... shall be awarded all costs .... In addition, it shall be within the discretion of the court to award such person [a penalty] for each day that he or she was denied the right to inspect or copy said-public record.\nRCW 42.56.550(4) (emphasis added).\n\u00b614 The PRA defines \u201cpublic record\u201d to include \u201cany writing containing information relating to the conduct of government.\u201d RCW 42.56.010(3) (emphasis added). A \u201cwriting\u201d is defined to include \u201call papers.\u201d RCW 42.56.010(4). A single page fits within the plain language of this broad definition. See Rental Hous. Ass\u2019n of Puget Sound v. City of Des Moines, 165 Wn.2d 525, 536, 199 P.3d 393 (2009) (explaining that where the meaning of statutory language is plain, the court must give effect to that plain meaning).\n\u00b615 Furthermore, the plain language of the PRA confers great discretion on trial courts to determine the appropriate penalty for a PRA violation. The act provides, \u201c[I]t shall be within the discretion of the court to award [a person who prevails against an agency] an amount not to exceed one hundred dollars for each day that he or she was denied the right to inspect or copy said public record.\u201d RCW 42.56-.550(4) (emphasis added). Since enacting the PRA, the legislature has afforded courts more\u2014not less\u2014discretion in setting penalties for PRA violations. In 1992, the legislature changed the permissible penalty range from not more than 25 dollars, to not less than 5 and not more than 100 dollars. Laws of 1992, ch. 139, \u00a7 8. In 2011, the legislature provided trial courts with even more discretion by removing the mandatory minimum penalty. Laws of 2011, ch. 273, \u00a7 1. The plain language and legislative history of the PRA support trial courts having broad discretion to set appropriate penalties.\n\u00b616 Our case law also makes it clear that trial courts have ample discretion to determine appropriate penalties for PRA violations. We have allowed trial courts to divide requests into groups of records. See Sanders v. State, 169 Wn.2d 827, 864, 240 P.3d 120 (2010) (upholding trial court\u2019s discretion to group requested documents broadly by subject matter into two \u201crecords\u201d); Yousoufian v. Office of King County Exec., 152 Wn.2d 421, 436, 98 P.3d 463 (2004) (\u2019Yousoufian I) (holding a trial court is not required to assess penalties per requested record on an individual document basis, but may assess them per group of records). Even when we have given specific guidance on what a trial court should consider in assessing penalties, we have emphasized that \u201c[t]hese factors should not infringe upon the considerable discretion of trial courts to determine PRA penalties.\u201d Yousoufian II, 168 Wn.2d at 468. The trial court in this case did not abuse this considerable discretion.\n\u00b617 Recent decisions demonstrate the changing and unpredictable nature of \u201cpublic records,\u201d underscoring the importance of a trial court\u2019s broad discretion. When the PRA was enacted in 1972, we typically imagined public records as handwritten or typed, hard copy documents. Today, there is no doubt a record can be something other than a sheet of paper or a bound volume. Five years ago, we held that metadata\u2014\u201c \u2018data about data, or hidden statistical information about a document that is generated by a software program\u2019 \u201d\u2014can be a public record. O\u2019Neill v. City of Shoreline, 170 Wn.2d 138, 145, 240 P.3d 1149 (2010) (quoting Jembaa Cole, When Invisible Ink Leaves Red Faces: Tactical, Legal, and Ethical Consequences of the Failure to Remove Metadata, 1 Shidler J.L. Com. & Tech. 8, \u00b6 7 (2005)). More recently, we held that transcripts of text message content could be public records. Nissen v. Pierce County, 183 Wn.2d 863, 357 P.3d 45 (2015).\n\u00b618 Limiting trial courts to imposing penalties based on a set definition of \u201crecord\u201d would deny them the flexibility needed to respond appropriately to PRA violations in this age of rapidly advancing technology. The trial court is in the best position to make an individual, fact-driven inquiry into what PRA penalties are necessary to achieve the penalty provision\u2019s goal of deterring unlawful nondisclosure. See Yousoufian II, 168 Wn.2d at 462-63. Allowing courts to define \u201csaid public record\u201d in a way that makes sense for the particular case promotes the most effective implementation of the PRA. In this case, the trial court\u2019s determination that each withheld page constituted a record was a reasonable interpretation of the PRA within its discretion. We affirm the trial court\u2019s imposition of a per page penalty.\nII. L&I Cannot Assert the Categorical Investigative Records Exemption\n\u00b619 L&I argues it was categorically exempt from producing public records from the time of its PRA response letter (February 7, 2013) through the time the last citation was issued (June 7, 2013) because these records fall under the categorical exemption for investigative records recognized in Newman. See L&I Reply Br. at 10. We reject this argument because L&I investigations do not implicate the same concerns underlying our holding in Newman. L&I violated the PRA when it failed to produce the requested records or show that any exemption applied.\n\u00b620 The categorical exemption at issue in Newman protects from disclosure \u201c[s]pecific intelligence information and specific investigative records compiled by investigative, law enforcement, and penology agencies, and state agencies vested with the responsibility to discipline members of any profession, the nondisclosure of which is essential to effective law enforcement or for the protection of any person\u2019s right to privacy.\u201d RCW 42.56.240(1). As an exemption from disclosure, this provision must be narrowly construed. RCW 42.56.030. \u201c[T]he agency claiming the exemption bears the burden of proving that the documents requested fall within the scope of the exemption.\u201d Cowles Publ\u2019g Co. v. Spokane Police Dep\u2019t, 139 Wn.2d 472, 476, 987 P.2d 620 (1999). To qualify for this exemption, the record must (1) be investigative in nature, (2) be compiled by a law enforcement, penology, or investigative agency, and (3) be essential to law enforcement or the protection of privacy. Koenig v. Thurston County, 175 Wn.2d 837, 843, 287 P.3d 523 (2012).\n\u00b621 Newman involved an open, unsolved criminal investigation of a murder. In this context, the court recognized that RCW 42.56.240(1) categorically exempts from disclosure all \u201cinformation contained in an open active police investigation file.\u201d 133 Wn.2d at 575 (citing former RCW 42.17.310(1)(d)). The court concluded that any release of records during the ongoing investigation \u201cwould impair the ability of law enforcement to share information and would inhibit the ability of police officers to determine, in their professional judgment, how and when information will be released.\u201d Id. at 574. In particular, the court was concerned about the release of \u201csensitive information.\u201d Id. It recognized that a blanket exemption was needed to \u201callow [ ] the law enforcement agency, not the courts, to determine what information, if any, is essential to solve a case.\u201d Id.\n\u00b622 Subsequent cases have emphasized the narrowness of Newman\u2019s holding. In Cowles Publishing, we explained that the concern prompting Newman\u2019s categorical exemption was not just that the case was open, but that the crime was unsolved. Cowles Publ\u2019g, 139 Wn.2d at 477. \u201c[I]n Newman, we were concerned both with the difficulty police would have segregating information in unsolved cases, and with the propriety of charging courts with responsibility of determining whether nondisclosure was critical to solving the case . . . .\u201d Id.\n\u00b623 Solved cases, however, differ significantly from unsolved ones. In solved cases\u2014those \u201cwhere the suspect has already been arrested and the matter referred to the prosecutor for a charging decision\u201d\u2014\u201cany potential danger to effective law enforcement is not such as to warrant categorical nondisclosure of all records in the police investigative file.\u201d Id. at 477, 479. In such cases, \u201cthe risk of inadvertently disclosing sensitive information that might impede apprehension of the perpetrator no longer exists\u201d and hence a categorical exemption is no longer warranted. Id. at 477-78. Instead, the trial court must \u201cmake a case-by-case determination of whether nondisclosure is essential to effective law enforcement.\u201d Id. at 480.\n\u00b624 Recently, in Sargent v. Seattle Police Department, 179 Wn.2d 376, 314 P.3d 1093 (2013), we held that the investigative records exemption does not apply categorically once a case has been filed with the prosecutor, even if the prosecutor declines to file charges and refers the case back for further investigation, nor does it apply categorically to internal investigation information. See also Seattle Times Co. v. Serko, 170 Wn.2d 581, 594, 243 P.3d 919 (2010) (holding once the prosecutor made his charging decisions and a murder investigation was no longer ongoing, the case was outside of Newman and on point with Cowles Publishing); Limstrom v. Ladenburg, 136 Wn.2d 595, 613, 963 P.2d 869 (1998) (declining to extend Newman\u2019s categorical exemption to the work product exemption). The categorical exemption created in Newman is narrow, and must remain that way. See RCW 42.56.030; Sargent, 179 Wn.2d at 389 (\u201c[expanding the court-made rule [from Newman] to cases that have been referred for charges but rejected by the prosecutor is a sweeping change that is not justified by the express language of the exemption, nor by the public policy favoring disclosure and accountability of government agencies to the public they serve\u201d).\n\u00b625 L&I investigations are unlike open, unsolved criminal investigations. They are more analogous to the situation presented in Cowles Publishing, where the concerns that justified Newman\u2019s categorical exemption do not exist. L&I issues a citation after investigation of an employer. RCW 49.17.120(1). Employers know they are being investigated. There is not the same risk of disclosing sensitive information that exists in a criminal investigation and could impede the apprehension of an as-yet-unknown suspect. Cf. Sargent, 179 Wn.2d at 393-94; Cowles Publ\u2019g, 139 Wn.2d at 477-78.\n\u00b626 This is not to suggest that L&I could never claim the investigative records exemption; it simply cannot rely on Newman\u2019s categorical exemption. To successfully rely on this exemption, L&I would need to prove, on the facts of the particular case, that the records to be withheld are essential to effective law enforcement. See Sargent, 179 Wn.2d at 394; Cowles Publ\u2019g, 139 Wn.2d at 479-80. It did not do so here.\n\u00b627 L&I cannot assert Newman\u2019s categorical exemption, and it has failed to show with regard to any specific documents that nondisclosure is in fact essential to effective law enforcement. Accordingly, L&I violated the PRA when it refused to disclose the requested documents. See Soter v. Cowles Publ\u2019g Co., 162 Wn.2d 716, 751, 174 P.3d 60 (2007) (plurality opinion) (\u201cgood faith reliance on an exemption does not preclude imposition of [PRA] penalties\u201d).\nIII. L&I Violated the PRA during Each of the Time Periods the Superior Court Identified\n\u00b628 After concluding L&I was not entitled to claim a categorical exemption, the trial court ruled that L&I violated the PRA during multiple time periods. L&I argues that it complied with the PRA at all times, and it assigns error to every finding of fact and conclusion of law entered by the superior court. Br. of Appellant at 1-2. Because the trial judge imposed penalties for five different time periods, and because L&I raises different challenges for each of the time periods, we have organized our analysis by the trial court\u2019s time periods.\nA. Time Period 1: L&I Withholds Records While Investigations Are Open\n\u00b629 The first time period at issue is between the date of the Seattle Times\u2019 PRA request (January 31, 2013) and the date the superior court concluded that L&I\u2019s investigations closed (March 22, 2013). CP at 861.\n1. Time Period 1 Facts\n\u00b630 On January 31, 2013, the Seattle Times made a PRA request for \u201caccess to all L&I records on possible exposure of workers and/or customers to lead at Wade\u2019s Eastside Gun Shop.\u201d CP at 52. L&I responded within the statutorily required five business days and explained that the requested records were part of open investigations and would not be available until the investigations closed, pursuant to RCW 49.17.260 and 42.56.280. Id. at 54. L&I now argues that although it did not cite the investigative records exemption, RCW 42.56.240(1), it explained that it was withholding records because the investigations were open and thus L&I was actually relying on that exemption. See Br. of Appellant at 17. In its response to the Seattle Times, L&I indicated that investigations typically take up to six months to complete, and it stated that by August 9, 2013, L&I would either mail copies of the records or provide an update on the status of the investigations. CP at 54. L&I also provided copies of records associated with a 2010 investigation of Wade\u2019s. See id. at 54, 800.\n\u00b631 The superior court ruled that L&I\u2019s investigation concluded on March 22, 2013. Id. at 861. It apparently based its conclusion on a letter L&I sent on March 22, 2013 to one of the individuals who first reported lead exposure at Wade\u2019s. See id. The letter explained the results of L&I\u2019s investigation of the individual\u2019s complaint. Id. at 564-65. The letter attached a copy of the citation issued to the company, as well as the results of other inspections at the site. Id. Presumably, the superior court concluded that if L&I could release this information to the individual who complained, it should also have released some or all of the investigation files to the Seattle Times.\n\u00b632 Fifty days elapsed between the Seattle Times\u2019 PRA request and the date the superior court ruled that any law enforcement exemption ceased to apply. The superior court imposed a $0.02 per page per day penalty for that delay, resulting in a total penalty of $5,431.00. Id. at 861.\n2. We Affirm the Superior Court\u2019s Ruling That L&I Violated the PRA When It Failed To Disclose Public Records during Time Period 1\n\u00b633 For the reasons discussed above, L&I cannot assert the categorical investigative records exemption for this\u2014or any other\u2014time period. Furthermore, L&I\u2019s bare explanation that the records were part of an \u201copen investigation\u201d and their estimated disclosure date was not sufficient to justify withholding these records. L&I bears the burden to prove that the specific records were essential to effective law enforcement. It did not meet this burden.\n\u00b634 L&I failed to provide any evidence that nondisclosure was essential to effective law enforcement. In its PRA response letter, it simply stated that the records were part of \u201copen investigations,\u201d and briefly cited two exemptions. CP at 54. L&I did not discuss particular records, explain how the cited exemptions applied to specific records, or explain how any of the requested records were essential to effective law enforcement. Even in this court, L&I makes only general arguments as to why disclosure may harm future investigations. See L&I Answer to Amicus Curiae Br. of Allied Daily Newspapers at 13. It does not explain why disclosure of these particular records would harm its investigations. Cf. Ameriquest Mortg. Co. v. Office of Att\u2019y Gen., 177 Wn.2d 467, 492, 300 P.3d 799 (2013). We hold that L&I violated the PRA during time period 1, and affirm the trial court\u2019s imposition of penalties for this time period.\n3. The Superior Court Properly Found That L&Fs Investigation Concluded on March 22, 2013 and Correctly Based Its Penalty Calculations on 5,431 Records\n\u00b635 The superior court held that L&I\u2019s investigation concluded on March 22, 2013. CP at 861. L&I argues that its investigation did not close until June 7,2013 when it issued the final citation. Br. of Appellant at 23. L&I also argues that the evidence does not support a finding that L&I had all 5,431 pages of the responsive records it ultimately produced in its possession on January 31, 2013. Id.\n\u00b636 As explained above, L&I cannot rely on the categorical exemption and did not otherwise provide sufficient justification to withhold any record for any period of time. Thus, exactly when L&I\u2019s investigation ended is immaterial. Because the trial court increased the penalty per withheld record based on when it found the investigation ended, however, we address this matter.\n\u00b637 The superior court presumably based its ruling that L&I\u2019s investigation ended on March 22 on the letter L&I sent to George Dunn, who complained of hazards at Wade\u2019s. See CP at 564-65. L&I\u2019s own procedures required it to send the complainant a copy of inspection results, including a copy of the issued citation. See Wash. State Dep\u2019t of Labor & Indus., Division of Occupational Safety and Health Compliance Manual 2-8 (June 15, 2011). The letter to Dunn included the results of L&I\u2019s review of Dunn\u2019s submission, and the letter stated that it included a copy of the notice and citation. The letter also stated, \u201c[O]ther inspections were conducted at the site and the results of those inspections are included in separate reports,\u201d indicating that at least some of the investigations related to Wade\u2019s had concluded by March 22. CP at 565 (emphasis added). L&I failed to explain why it could release the records referenced in the letter to Dunn, but not to the Seattle Times. See id. at 834 (L&I\u2019s second installment of records to the Seattle Times was not released for another two months). Furthermore, L&I failed to show that it had a continued need to withhold records, even after releasing some records from one of its interrelated investigations. It was reasonable for the trial court to find the investigations ended on March 22.\n\u00b638 L&I\u2019s argument that the evidence does not support that it had all of the records in its possession on January 31 also fails. L&I failed to provide specific evidence to support this claim, instead relying on its theory (which we have rejected) that the PRA does not authorize a per record penalty. See Wash. Supreme Court oral argument, Wade\u2019s Eastside Gun Shop, Inc. v. Dep\u2019t of Labor & Indus., No. 89629-1 (May 7, 2015), at 33 min., 14 sec. through 33 min., 44 sec., audio recording by TVW, Washington State\u2019s Public Affairs Network, http://www.tvw.org; L&I Reply Br. at 12 n.4 (\u201cthis issue is not relevant because the measure of the penalty is not based on the number of documents\u201d). We affirm the trial court\u2019s imposition of penalties for 5,431 records.\nB. Time Period 2: L&I Withholds Records after Investigations Close\n\u00b639 The second time period for which the superior court ruled that L&I violated the PRA is between the date the superior court determined to be the end of L&I\u2019s investigation (March 22, 2013) and when L&I notified the investigated companies of the PRA request (July 25, 2013, as described below). CP at 861.\n1. Time Period 2 Facts\n\u00b640 L&I concedes it did not produce all of the records after the investigations closed. L&I claims it needed additional time to review the records to determine whether any other PRA exemptions applied. The superior court rejected this argument, ruling that \u201c[b]y L&I\u2019s own admissions any exemptions that applied to the records ceased to apply as soon as the investigation was concluded,\u201d and that \u201cL&I has offered inadequate justification for its delay in notifying the subjects or in releasing the records.\u201d Id.\n\u00b641 One hundred twenty-five days elapsed between the date the investigation ended and the date L&I notified the companies of the PRA request. For those 125 days, the superior court imposed a $0.25 per page per day penalty. Id. Applied to all pages ultimately produced, this penalty totaled $169,718.75. Id.\n2. We Affirm the Superior Court\u2019s Ruling That L&I Violated the PRA When It Failed To Produce the Records after the Investigations Closed\n\u00b642 We affirm the superior court\u2019s ruling that L&I violated the PRA during this time period because L&I continued to improperly withhold records. As explained above, the records L&I withheld were not exempt and thus should not have been withheld in the first place. Further, L&I failed to provide evidence to support its claim that it needed additional time after the investigations closed to review the records for additional exemptions.\n\u00b643 Under the PRA, agencies may need additional time to respond to a request because of \u201cthe need to ... locate and assemble the information requested, to notify third persons or agencies affected by the request, or to determine whether any of the information requested is exempt and that a denial should be made as to all or part of the request.\u201d RCW 42.56.520.\n\u00b644 In this case, L&I explained in its original response to the Seattle Times that it did not believe it would be able to produce the requested records until the investigations closed, likely by August 9, 2013. CP at 54. However, it was unreasonable for L&I to adhere to August 9, as its deadline after the investigations actually concluded at various times between March and June 2013. See id. at 812. Such delay is contrary to the letter and the spirit of the PRA. While agencies may provide a reasonable estimate of when they can produce the requested records, see Ockerman v. King County Dep\u2019t of Developmental & Envtl. Servs., 102 Wn. App. 212, 6 P.3d 1214 (2000), they cannot use that estimated date as an excuse to withhold records that are no longer exempt from disclosure. In this case, because L&I\u2019s investigations took less than six months to complete, it should have begun releasing the records sooner than August 9. It offered various explanations for the delay (including that the investigations were all interrelated and that all records needed to be reviewed for other exemptions that might apply), but it failed to provide evidence to support those explanations. The superior court correctly found that L&I violated the PRA by improperly withholding records without meeting its burden of showing how the records were\u2014even temporarily\u2014exempt. We affirm that ruling.\nC. Time Period 3: L&I Withholds Records To Notify Investigated Companies and Allow Them Time To Seek a Protective Court Order\n\u00b645 The third time period for which the superior court ruled that L&I violated the PRA is between when L&I notified the investigated companies of the PRA request (July 25,2013) and the deadline L&I gave the companies to obtain a protective court order (August 9, 2013). CP at 861.\n1. Time Period 3 Facts\n\u00b646 On July 25, 2013, L&I notified the various employers that had been investigated for lead exposure at Wade\u2019s that L&I had received a PRA request for the investigation files. Id. at 154-58. In its notification letter, L&I informed the employers that despite the records being stamped confidential, L&I determined the files to be public records and would therefore release them on August 9,2013, unless it \u201creceive [d] a motion for court protection to withhold them.\u201d Id.\n\u00b647 Fifteen days elapsed between when L&I notified the companies of the PRA request and the deadline L&I gave the companies to file for a protective court order. For that delay, the superior court imposed a $0.01 penalty per page per day, resulting in a total penalty of $814.65. Id. at 861-62.\n\u00b648 The superior court explained that L&I gave the employers too much time to obtain a protective court order, \u201cespecially after L&I delayed so long sending the notice in the first place.\u201d Id.\n2. We Affirm the Superior Court\u2019s Ruling That L&I Violated the PRA during Time Period 3\n\u00b649 We affirm the superior court\u2019s ruling that L&I improperly withheld public records during this time period. L&I argues that the delay in release was reasonable to give the investigated employers an opportunity to seek a protective order, in accordance with RCW 42.56.520 and 42.56.540. L&I is correct that the PRA allows public agencies to notify affected persons of a public records request and permits a reasonable delay to permit affected parties a \u201crealistic opportunity\u201d to obtain a protective order. Confederated, Tribes of Chehalis Reservation v. Johnson, 135 Wn.2d 734, 758, 958 P.2d 260 (1998); see RCW 42.56.520, .540. However, as the superior court noted, L&I waited almost six months before notifying the affected employers that it had received a PRA request. L&I failed to justify this delay, providing no explanation why it did not notify the employers when it received the request or at the close of its investigations. By waiting until July 25, 2013, to notify the companies, L&I created an unnecessary delay in releasing the records. The superior court appropriately found that L&I violated the PRA. We affirm that ruling.\nI). Time Period 4: L&I Withholds Records after a Complaint Is Filed, but No Protective Court Order Is Entered\n\u00b650 The fourth time period for which the superior court ruled L&I violated the PRA is between the deadline L&I gave the companies to obtain a protective court order (August 9, 2013) and the date the court ordered L&I to produce all requested records (September 12, 2013). CP at 862.\n1. Time Period 4 Facts\n\u00b651 As noted above, L&I\u2019s letter to the investigated companies informed them that L&I would be disclosing the contents of the investigation files on August 9, 2013, unless it received \u201ca motion for court protection to withhold them.\u201d CP at 154-58.\n\u00b652 On August 8, 2013, Wade\u2019s sent a letter to L&I asking it to continue to withhold the requested records. Id. at 819. The letter stated that Wade\u2019s anticipated filing a complaint on August 9, 2013 and a motion for a preliminary injunction on August 19, 2013. Id. The letter explained Wade\u2019s anticipated needing at least a week to serve all PRA requesters. Id.\n\u00b653 Also on August 8, 2013, another investigated company, S.D. Deacon Corp., sent a letter to L&I notifying it of Deacon\u2019s intent to bring a motion to protect seven documents held by L&I. Id. at 822. Deacon\u2019s letter noted, \u201cYou have stated that this letter is enough to stop the issuance of the documents identified, please let me know if this changes.\u201d Id. at 823.\n\u00b654 On August 9, 2013, L&I sent a letter to the Seattle Times explaining that L&I had been notified that parties to the investigation were filing for a protective court order pursuant to RCW 45.56.520. Id. at 825. L&I explained that it would monitor the legal proceedings and update the Seattle Times on the status of the proceedings, or mail the records, on September 13, 2013. Id.\n\u00b655 On August 9, 2013, Wade\u2019s filed a complaint for relief, id. at 1, but no motion for a protective order was granted. On August 19,2013, the Seattle Times notified L&I that L&I could not continue to withhold records without a court order. Id. at 160. L&I responded that it was scheduling a show cause hearing \u201cat a time and date convenient to the parties.\u201d Id.\n\u00b656 Thirty-four days elapsed between the deadline L&I gave the employers to move for a protective court order and the date the superior court ordered L&I to produce the records. During that time, no protective order was entered by any court. For that delay, the superior court imposed a penalty of $1 per page per day, resulting in a total penalty of $184,654. Id. at 862.\n\u00b657 The superior court imposed that penalty because L&I voluntarily withheld the records \u201cafter the subjects missed L&I\u2019s deadline and failed to obtain or even seek a judicial order.\u201d Id. The superior court reiterated, \u201c[T]hese were records L&I has admitted were not exempt, and . . . the subjects had not noted any motions for a judicial order.\u201d Id. The court faulted L&I for \u201cvoluntarily withholding the records as a courtesy to the subjects allowing them to note motions when it was convenient to them.\u201d Id.\n2. We Affirm the Superior Court\u2019s Ruling That L&I Violated the PRA during Time Period 4\n\u00b658 We affirm the superior court\u2019s ruling that L&I violated the PRA by voluntarily withholding nonexempt records after the investigated companies failed to obtain a protective court order. L&I concedes that it probably should have produced the records after its August 9,2013, deadline passed without a protective court order, see Official Record of Proceedings (ORP) (Oct. 31,2013) at 13, but it insists that it acted reasonably when it relied on the investigated companies\u2019 representations that they would seek a protective court order, see Br. of Appellant at 31-32. L&I is incorrect. L&I did not act reasonably when, after waiting many months to notify the investigated companies of the PRA request, L&I told the companies it would continue to withhold all nonexempt public records if it received a motion for a protective court order rather than an actual court order. Further, L&I did not act reasonably when it withheld all of the records although only one company filed a complaint and another company requested protection for only seven individual documents. L&I has never explained why it did not release all other records no later than August 9. Finally, L&I does not explain why it failed to release all records when no company noted a motion for temporary or injunctive relief and the Seattle Times provided L&I\u2019s attorney with a case citation explaining that an agency could not withhold nonexempt records without a court order. See CP at 160. L&I also implies that this portion of the penalty was too large, but it makes no argument that the trial court abused its discretion (beyond its overarching argument regarding the imposition of a per page penalty, discussed above). We affirm the superior court\u2019s ruling for this time period.\nE. Time Period 5: L&I Withholds Records after the Superior Court Orders the Release of Records\n\u00b659 The fifth time period for which the superior court ruled L&I violated the PRA is between the date the court ordered L&I to produce all requested records (September 12, 2013) and the dates L&I finally produced all of the records (September 13, 2013, and September 20, 2013). Id. at 862-63.\n1. Time Period 5 Facts\n\u00b660 On September 4, 2013, the Seattle Times filed counterclaims against Wade\u2019s and cross claims against L&I. Id. at 17. It also moved for an order requiring L&I to produce the records responsive to its January 31, 2013, PRA request. Id. at 161. The Seattle Times asked the court to find that L&I violated the PRA and to award attorney fees, costs, and penalties for the violation. Id. at 162.\n\u00b661 On September 12, 2013, the superior court granted the Seattle Times\u2019 motion for production and ordered L&I to promptly produce the withheld records. Id. at 469-72. As described in the sections above, the superior court ruled that L&I had violated the PRA by (1) failing to produce the responsive records, (2) failing to identify the records responsive to the request, (3) failing to identify allegedly applicable exemptions, (4) delaying production, and (5) voluntarily withholding records with no court order in place requiring such action. Id. at 471. The superior court ruled that the Seattle Times was the prevailing party, and awarded attorney fees, costs, and statutory penalties (the amount to be determined later). Id. at 471-72.\n\u00b662 L&I released records during this time period in two installments. On September 13,2013 (installment one), L&I released 1,968 pages of unredacted records. Id. at 559; see id. at 570. Because of the size of the files and technological difficulties transferring the records electronically, L&I sent the files on discs via overnight mail. Id. at 559, 570. As part of that release, L&I explained that it needed additional time before releasing the rest of the records because it needed to determine whether any of the requested information was statutorily exempt from disclosure. Id. at 828.\n\u00b663 On September 20, 2013, the Seattle Times received the final installment of records, which consisted of 3,445 pages. Id. at 559; see id. at 570. L&I explained that it delayed production in order to redact some medical information from the records, although it did not ultimately redact any information. Id. at 745.\n\u00b664 For the one-day delay between the court order and L&I\u2019s production of records the following day, the superior court imposed a $5 per page per day penalty. Id. at 862-63. Applied to the 1,968 produced pages, this penalty was $9,840. Id. The superior court explained that \u201c[a]s of September 12, 2013, L&I was under orders from this Court to produce all records and it had failed to prove any exemptions, something it was required to do had it wanted to do so at the September 12,2013, hearing before this Court.\u201d Id. at 862. In the superior court judge\u2019s oral ruling, she explained that \u201c[t]he records, from what I understand from what [the L&I attorney] has said, were compiled at least by the time that notice was given to the subjects in this case. And I have to say if they weren\u2019t, they should have been.\u201d ORP (Oct. 31, 2013) at 20.\n\u00b665 For the nine-day delay between the court order and L&I\u2019s production of the remaining records, the superior court imposed a $5 per page per day penalty. CP at 863. This penalty totaled $137,800. Id. In her oral ruling, the judge stated, \u201cI certainly don\u2019t understand the nine day delay after my order issued here in this Court in getting the records to the Times.\u201d ORP (Oct. 31, 2013) at 19-20. In the written ruling, the superior court faulted L&I for \u201cattempt-ling] to delay production of the remaining records into October and to identify additional new exemptions.\u201d CP at 862-63. The court noted that L&I \u201ceventually relented and produce[d] the remaining 3,445 responsive records\u201d after it was \u201cthreatened with a motion for contempt.\u201d Id. at 863.\n2. We Affirm the Superior Court\u2019s Ruling That L&I Violated the PRA during Time Period 5\n\u00b666 We affirm the superior court\u2019s ruling that L&I violated the PRA by continuing to withhold nonexempt records after being ordered by the court to produce them. The superior court correctly reasoned that L&I should have been ready to produce the documents on September 12, 2013. L&I fails to show that the superior court erred when it determined L&I violated the PRA by not producing the requested documents on September 12. By L&I\u2019s own timeline, it was (or should have been) ready to produce those records on August 9, 2013. The superior court reasonably found L&I\u2019s excuses for not being ready to produce the documents on September 12 unavailing. While L&I implies that this portion of the penalty was too large, it offers no explanation as to how the superior court abused its discretion. We affirm the superior court\u2019s rulings with regard to this time period.\nIV. Attorney Fees on Appeal\n\u00b667 The Seattle Times asks this court to award costs and attorney fees on appeal pursuant to RAP 18.1. Seattle Times\u2019 Br. of Resp\u2019t at 49. The PRA provides for costs and reasonable attorney fees for \u201c[a]ny person who prevails against an agency in any action in the courts seeking the right to inspect or copy any public record.\u201d RCW 42.56-.550(4). The Seattle Times prevailed at the trial court and prevails on appeal. We therefore award the Seattle Times costs and attorney fees on appeal.\nCONCLUSION\n\u00b668 The PRA affords trial courts considerable discretion to fashion appropriate penalties for violations of the act. Taking into account the facts and circumstances of the case, the trial court here did not abuse that discretion in determining what constitutes a relevant \u201crecord\u201d and imposing penalties on a per page basis.\n\u00b669 L&I may not take advantage of the categorical exemption for investigative records. To successfully rely on the categorical investigative records exemption, L&I must prove that the specific records to be withheld are essential to effective law enforcement. L&I did not make such a showing. L&I violated the PRA for each of the time periods described by the trial court. We affirm the trial court\u2019s order in all respects, and award the Seattle Times costs and attorney fees on appeal.\nMadsen, C.J., and Fairhurst, Gordon McCloud, and Yu, JJ., concur.\nThis exemption has also been referred to as the \u201ceffective law enforcement exemption.\u2019\u2019 See, e.g., Sargent v. Seattle Police Dep\u2019t, 179 Wn.2d 376, 314 P.3d 1093 (2013).\nCivil law enforcement agencies, which enforce the law and impose sanctions for illegal conduct, may benefit from the investigative records exemption. See Brouillet v. Cowles Publ\u2019g Co., 114 Wn.2d 788, 795-96, 791 P.2d 526 (1990) (explaining, \u201cLaw enforcement involves \u2018[t]he act of putting . . . law into effect; . . . the carrying out of a mandate or command.\u2019 . . . Law enforcement involves imposition of sanctions for illegal conduct\u2019\u2019 and \u201cimposition of a fine or prison term\u2019\u2019 (quoting Black\u2019s Law Dictionary 474 (5th ed. 1979))). L&I qualifies as a civil law enforcement agency because it is charged with enforcing worker safety laws, RCW 49.17.120, and issuing fines, RCW 49.17.180. See Spokane Police Guild v. Wash. State Liquor Control Bd., 112 Wn.2d 30, 37 & n.15, 769 P.2d 283 (1989) (holding the Liquor Control Board was a law enforcement agency for purposes of the PRA\u2019s investigative records exemption because it \u201cexercises the State\u2019s police power in administering and enforcing the law and regulations pertaining to alcoholic beverage control\u2019\u2019).\nTo the extent L&I argues that by providing a reasonable estimate of when records would be available in its PRA response letter it fulfilled its PRA duties, we reject its argument. See Br. of Appellant at 21, 25. Although the PRA allows agencies to respond to a PRA request by giving an estimated time of response, RCW 42.56.520, under these circumstances the estimated time was inappropriate because it was based solely on when L&I anticipated its investigations would close.\nL&I argues that the reference to the citation in the letter was a clerical error. L&I Reply Br. at 8. Although the citation was issued a week after L&I sent its letter to Dunn, see CP at 812, the closing conference related to that citation number\u2014where the employer was informed of discovered hazards and \u201cpotential fines related to any violations,\u2019\u2019 Wash. State Dep\u2019t of Labor & Indus., A Guide to Workplace Safety and Health in Washington State: What Every Employer and Worker Needs to Know 5 (2013)\u2014was conducted on March 22, the day the letter was sent. See CP at 88; see also L&I Reply Br. at 3-4. Given that the letter was sent the same day as the closing conference, it was reasonable for the judge to conclude the investigation ended that day.\nL&I cites the declaration of the Seattle Times' investigations editor, which states that between 76 and 80 percent of the records released in installment four were created on or before the date of the PRA request. L&I Reply Br. at 11-12 n.4; see CP at 755. However, neither party submitted the actual records to this court for review, nor did L&I take advantage of the opportunity to submit the records in camera to the trial court. There is thus no evidentiary basis to determine which, if any, of the records L&I was penalized for were created after the PRA request.\nL&I argues that it \u201ccontinued to provide installments\u2019\u2019 before August 9. Br. of Appellant at 25. L&I was not penalized for records it released before the court\u2019s order. CP at 861 (\u201cThe Court is imposing a penalty . . . for the 125 days of this phase times the 5,431 records withheld until after the Court\u2019s September 12, 2013, Order.\u2019\u2019 (emphasis added)); see also id. at 747 (\u201cThe Seattle Times is not seeking penalties for the records released by L&I prior to this Court\u2019s Order of September 12, 2013\u2019\u2019 (emphasis omitted)), 834 (showing records released in May and July). Furthermore, L&I\u2019s own activity log shows that redactions of 336 pages were completed on July 1, 2013. Id. at 838. However, only 17 pages of records were released to the Seattle Times in July. Id. at 834. L&I failed to explain why it did not release all of these\u2014and other\u2014records before August 9.\nL&I admits that it would have been possible to release all noncontested records on August 9. Br. of Appellant at 32 n.19. It asserts, however, that at the time, \u201cit was not clear which records would be placed at issue.\u2019\u2019 Id. This argument is not persuasive. As L&I admits, it \u201ccould have inquired of Wade\u2019s as to which records it would seek to enjoin, and then produce the rest.\u2019\u2019 Id.",
+        "type": "majority",
+        "author": "Stephens, J."
+      },
+      {
+        "text": "Owens, J.\n\u00b670 (dissenting) The Public Records Act (PRA), chapter 42.56 RCW, gives trial judges great discretion to determine appropriate penalties for violations, but it does not give them unfettered discretion. Unfortunately, the majority\u2019s holding in this case essentially eliminates any restrictions on PRA penalties. Since that is contrary to the letter and spirit of the PRA, as well as our own case law, I must respectfully dissent.\nANALYSIS\n\u00b671 The PRA allows a superior court to award a person denied access to a public record \u201can amount not to exceed one hundred dollars for each day that he or she was denied the right to inspect or copy said public record.\u201d RCW 42.56.550(4) (emphasis added). At issue in this case is whether that statutory reference to \u201csaid public record\u201d can be interpreted to mean each page of a public record, thus allowing a superior court to impose a separate daily penalty of up to $100 for each page of a public record to which a person was denied access. I would hold that it cannot. As discussed below, such an interpretation is inconsistent with the language of the PRA and our subsequent case law.\n\u00b672 The PRA defines a \u201cpublic record\u201d as including \u201cany writing containing information relating to the conduct of government or the performance of any governmental or proprietary function prepared, owned, used, or retained by any state or local agency regardless of physical form or characteristics.\u201d RCW 42.56.010(3). The PRA then defines a \u201cwriting\u201d as\nhandwriting, typewriting, printing, photostating, photographing, and every other means of recording any form of communication or representation including, but not limited to, letters, words, pictures, sounds, or symbols, or combination thereof, and all papers, maps, magnetic or paper tapes, photographic films and prints, motion picture, film and video recordings, magnetic or punched cards, discs, drums, diskettes, sound recordings, and other documents including existing data compilations from which information may be obtained or translated.\nRCW 42.56.010(4).\n\u00b673 We have previously noted that the PRA\u2019s penalty provision is ambiguous as to whether the penalty should be imposed per record or per request. Yousoufian v. Office of King County Exec., 152 Wn.2d 421, 434, 98 P.3d 463 (2004). We explained, \u201cIf the term \u2018record\u2019 is interpreted as \u2018record,\u2019 then the plain meaning would suggest that courts should assess penalties for every \u2018record\u2019 that is requested. However, if the term is interpreted as \u2018records,\u2019 then the plain meaning would suggest that courts should assess penalties only for each request regardless of the number of records sought.\u201d Id. We examined the underlying purpose of the PRA\u2014promoting access to public records\u2014and determined that it was better served by basing the penalty on an agency\u2019s culpability rather than the size of the plaintiff\u2019s request. Id. at 435. We concluded that the PRA \u201cdoes not require the assessment of per day penalties for each requested record.\u201d Id. at 436 (emphasis added) (footnote omitted). We noted that the issue of whether a trial court has discretion to assess penalties per record was not before us. Id. at 436 n.9.\n\u00b674 We reiterated our holding from Yousoufian that \u201ca trial court has discretion not to impose penalties for each wrongfully withheld document individually\u201d in Sanders v. State, 169 Wn.2d 827, 864, 240 P.3d 120 (2010). That case involved a public records requester who appealed a trial court\u2019s decision to treat the multiple requested documents as two records. We affirmed the trial court\u2019s decision to group the documents and treat them as two public records, finding that it was \u201cconsistent with the discretion we elucidated in Yousoufian.\u201d Id. (citing Yousoufian, 152 Wn.2d at 435-36).\n\u00b675 In this case, the superior court imposed a PRA penalty for each improperly withheld page of public records. The superior court did not explain its decision to impose a penalty per page or provide any analysis, instead simply adopting the penalty calculation proposed by the Seattle Times. The only authority provided to the superior court for calculating the penalty per page was that another superior court judge had reportedly done so in a recent case.\n\u00b676 Based on the statutory language and our case law, I would reverse. The PRA allows a trial court to impose a penalty for each day that an individual is denied access to a requested \u201cpublic record.\u201d While we previously noted that this provision was ambiguous as to whether it meant \u201cpublic record\u201d or \u201cpublic records,\u201d I do not see how the provision can be reasonably interpreted to mean all sub-parts of a public record, even when the entire record is withheld. Such an interpretation means that a superior court can subdivide a record into any number of smaller pieces and impose a separate penalty per piece. By this logic, a trial court could impose a separate penalty (of up to $100 per day) for each paragraph, sentence, or even word in a public record. In fact, the definition of a public record can include individual letters, RCW 42.56.010(4), so by the logic of the majority, a trial judge could choose to impose a separate penalty for each individual letter in a public record. This reading of the statute cannot be correct. It strains both logic and common sense, as it would result in no limit on the penalties a trial judge could impose. A 10-page report might contain thousands of words. If an agency wrongfully withholds that report, does the PRA allow a trial judge to calculate a separate penalty for each of those thousands of words? Under the majority\u2019s logic, the answer is yes. I cannot agree.\n\u00b677 Amici curiae amply demonstrate the problem with this reasoning when they argue that PRA\u2019s definition of a \u201cwriting\u201d is extremely broad, and that if it \u201cincludes batches of documents, it must also include pages of documents.\u201d Amicus Br. Mem. of Allied Daily Newspapers et al. at 6. They acknowledge that by that reasoning, a writing can include a single word. See id. at 6 n.l. But that is a logical fallacy. While a single word written on a piece of paper can certainly constitute a public record, that does not mean that each word contained within a public record is a separate public record. Every square may be a rectangle, but every rectangle is not a square. Similarly, while a single piece of paper can constitute a public record, it does not mean that every page contained within a public record is a separate public record. I would reject that reasoning and hold that when an entire public record is improperly withheld, it cannot be subdivided into pages for the purpose of imposing a separate penalty per page. I would reverse and remand for imposition of a penalty per record or per group of records, at the discretion of the superior court, pursuant to the statute and our precedent.\nCONCLUSION\n\u00b678 The majority holds that trial judges have the discretion to subdivide a public record into any number of pieces and then impose a separate penalty for each of those pieces. Such a holding destroys any limit on the penalty a trial judge may impose, which conflicts with both the letter and the spirit of the PRA. Therefore, I respectfully dissent.\nJohnson, Wiggins, and Gonz\u00e1lez, JJ., concur with Owens, J.",
+        "type": "dissent",
+        "author": "Owens, J."
+      }
+    ],
+    "attorneys": [
+      "Robert W. Ferguson, Attorney General, and John S. Barnes, Anastasia R. Sandstrom, and Alan D. Copsey, Assistants, for appellant.",
+      "Michele L. Earl-Hubbard {o\u00ed Allied Law Group LLC), for respondent.",
+      "Katherine George on behalf of Allied Daily Newspapers of Washington, Washington Newspaper Publishers Association, the News Tribune, the Olympian, the Tri-City Herald, the Bellingham Herald, and Washington Coalition for Open Government, amici curiae."
+    ],
+    "corrections": "",
+    "head_matter": "[No. 89629-1.\nArgued May 7, 2015.\nDecided March 24, 2016.\nWade\u2019s Eastside Gun Shop, Inc., et al., Plaintiffs, v. The Department of Labor and Industries, Appellant, The Seattle Times Company, Respondent.\nRobert W. Ferguson, Attorney General, and John S. Barnes, Anastasia R. Sandstrom, and Alan D. Copsey, Assistants, for appellant.\nMichele L. Earl-Hubbard {o\u00ed Allied Law Group LLC), for respondent.\nKatherine George on behalf of Allied Daily Newspapers of Washington, Washington Newspaper Publishers Association, the News Tribune, the Olympian, the Tri-City Herald, the Bellingham Herald, and Washington Coalition for Open Government, amici curiae."
+  },
+  "file_name": "0270-01",
+  "first_page_order": 324,
+  "last_page_order": 355
+}

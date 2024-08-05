@@ -1,0 +1,172 @@
+{
+  "id": 12440910,
+  "name": "The State of Washington, Respondent, v. Adam Chief Lewis, Petitioner",
+  "name_abbreviation": "State v. Lewis",
+  "decision_date": "2015-09-10",
+  "docket_number": "No. 91180-1",
+  "first_page": "201",
+  "last_page": "206",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "184 Wash. 2d 201"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Wash.",
+    "id": 9029,
+    "name": "Washington Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 38,
+    "name_long": "Washington",
+    "name": "Wash."
+  },
+  "cites_to": [
+    {
+      "cite": "324 P.3d 682",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2014,
+      "opinion_index": 0
+    },
+    {
+      "cite": "180 Wn.2d 282",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4241707
+      ],
+      "year": 2014,
+      "pin_cites": [
+        {
+          "page": "292-93"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/180/0282-01"
+      ]
+    },
+    {
+      "cite": "517 P.2d 949",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1974,
+      "opinion_index": 0
+    },
+    {
+      "cite": "83 Wn.2d 342",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1127931
+      ],
+      "year": 1974,
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/83/0342-01"
+      ]
+    },
+    {
+      "cite": "349 P.3d 857",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2015,
+      "opinion_index": 0
+    },
+    {
+      "cite": "183 Wn.2d 1007",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        6795008,
+        6794956,
+        6794990,
+        6795089,
+        6795061,
+        6795033,
+        6794940,
+        6794974
+      ],
+      "year": 2015,
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/183/1007-05",
+        "/wash-2d/183/1007-02",
+        "/wash-2d/183/1007-04",
+        "/wash-2d/183/1007-08",
+        "/wash-2d/183/1007-07",
+        "/wash-2d/183/1007-06",
+        "/wash-2d/183/1007-01",
+        "/wash-2d/183/1007-03"
+      ]
+    },
+    {
+      "cite": "344 P.3d 1220",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2014,
+      "opinion_index": 0
+    },
+    {
+      "cite": "185 Wn. App. 338",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        4362061
+      ],
+      "weight": 2,
+      "year": 2014,
+      "pin_cites": [
+        {
+          "page": "346-47"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/185/0338-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 339,
+    "char_count": 7936,
+    "ocr_confidence": 0.89,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.256668632032215
+    },
+    "sha256": "7a7104a7cce07d2c02e391883bc97d46b549f3395b6e7858721e093e7fe6f934",
+    "simhash": "1:101412c4f79768e3",
+    "word_count": 1349
+  },
+  "last_updated": "2024-02-27T21:13:25.899037+00:00",
+  "provenance": {
+    "date_added": "2019-05-21",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "The State of Washington, Respondent, v. Adam Chief Lewis, Petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "Per Curiam\n\u00b61 Adam Lewis challenges two portions of a Court of Appeals opinion denying him credit for time served awaiting trial on his burglary and assault charges. After we granted review, the State conceded that Lewis is entitled to 387 days of additional time served. We accept the State\u2019s concession, strike oral argument, and remand to the trial court for sentencing in accordance with this opinion.\nFACTS\n\u00b62 Lewis was arrested for multiple crimes on May 13, 2011. Two weeks later, he was charged with nine crimes (mostly burglary and assault) under two cause numbers. Unable to make bail, he remained incarcerated awaiting trial on those charges for more than a year. While Lewis was awaiting trial on the assault and burglary charges, the prosecutor charged him with the additional crime of failure to register as a sex offender. For the next 387 days, he was in confinement awaiting trial on all three sets of charges.\n\u00b63 Lewis eventually pleaded guilty to the additional charge\u2014failure to register as a sex offender\u2014on August 31, 2012. The trial court sentenced him to 50 months and gave him credit for the 387 days that he had been in confinement awaiting trial on all three sets of charges. Lewis began serving his sentence for failure to register as a sex offender that same day. He then pleaded guilty to burglary (and related charges) on October 26, 2012, and to assault (and related charges) on November 5,2012. He was sentenced for those crimes on December 14, 2012. When the trial judge sentenced Lewis on those charges, he gave Lewis credit for all of the time he had served from the date of his original arrest for burglary and assault (May 13,2011) to the date of his sentencing on the burglary and assault charges (December 14, 2012). That credit for time served included the 387 days that Lewis served awaiting trial on all three sets of charges, as well as the 105 days that Lewis served after he was sentenced for failure to register as a sex offender. The judge indicated that all of the sentences should be served concurrently.\n\u00b64 The State appealed, arguing that the trial judge erred by giving Lewis credit for all of that time served on his burglary and assault charges; the Court of Appeals agreed. State v. Lewis, 185 Wn. App. 338, 346-47, 344 P.3d 1220 (2014). First, the Court of Appeals reversed the decision to credit the 387 days of time served toward the assault and burglary sentences. Id. at 346. It looked to the statute\u2019s language that allows credit for time served prior to sentencing only if the confinement was \u201c \u2018solely in regard to the offense for which the offender is being sentenced.\u2019 \u201d Id. at 343 (quoting RCW 9.94A.505(6)). The Court of Appeals noted that a strict construction of that language (i.e., denying credit for time served to any person charged with more than one offense) would violate due process and equal protection. Id. at 345. However, the Court of Appeals nonetheless reasoned that since Lewis had already received credit for those 387 days toward his sentence for failure to register as a sex offender, giving him credit toward his assault and burglary sentences would result in Lewis receiving \u201cdouble credit.\u201d Id. at 346. Second, the Court of Appeals reversed the decision to credit the 105 days that Lewis served on his failure to register as a sex offender sentence toward the assault and burglary charges. Id. at 347. The court ruled that during those 105 days, Lewis was serving his sentence for failure to register as a sex offender, not simply awaiting trial on the assault and burglary charges. Id.\n\u00b65 Lewis petitioned for our review, contending that both portions of the Court of Appeals\u2019 holding should be reversed on equal protection grounds. We granted review. State v. Lewis, 183 Wn.2d 1007, 349 P.3d 857 (2015). In its supplemental brief, the State now concedes that for purposes of Lewis\u2019s assault and burglary sentences, equal protection entitles him to credit for the 387 days he served prior to being sentenced on any charge.\nISSUES\n\u00b66 1. Should we accept the State\u2019s concession that Lewis is entitled to credit for time served while awaiting trial on multiple charges?\n\u00b67 2. Is Lewis constitutionally entitled to credit for time served on his assault and burglary sentences after he began serving a sentence on a different charge?\nANALYSIS\n1. We Accept the State\u2019s Concession That Lewis Is Entitled to Credit for Time Served While Awaiting Trial on Multiple Charges\n\u00b68 The State now concedes that Lewis is constitutionally entitled to credit for time served on his assault and burglary sentences for the 387 days that he was incarcerated awaiting trials on the assault, burglary, and failure to register as a sex offender charges. As the State explains, denying Lewis credit for those 387 days would result in him serving a longer sentence than if he had been able to make bail on the various charges. If he had been able to make bail, he would have begun serving time only after he was sentenced. Since he received concurrent sentences, any time served after sentencing would apply toward all of his sentences. But since Lewis was unable to make bail, he began serving time prior to trial. If such pretrial detention applied to only one of his sentences rather than all three, he would be treated differently based solely on his ability to make bail. The State concludes that such a result is precluded by our long-standing rule from In re Habeas Corpus of Reanier, 83 Wn.2d 342, 517 P.2d 949 (1974). Under Reanier, a person unable to obtain pretrial release may not be confined for a longer period of time than a person able to obtain pretrial release without violating due process and equal protection. Id. at 346. We accept the State\u2019s concession and remand for Lewis to receive credit for those 387 days of time served on his assault and burglary sentences.\n2. The Court of Appeals Properly Held That Lewis Is Not Constitutionally Entitled to Credit for Time Served after He Began Serving a Sentence\n\u00b69 Lewis contends that he is constitutionally entitled to receive credit for time served for his assault and burglary sentences for the time when he was actually serving his sentence for failure to register as a sex offender. The Court of Appeals correctly found that principles of equal protection do not entitle him to such credit. Lewis\u2019s incarceration beginning on August 31, 2012, was due to his sentence for failure to register as a sex offender. As the Court of Appeals noted,\n[T]he distinction here is between a person being confined as the result of a sentence and a person being confined as the result of the inability to secure bail. This distinction is unrelated to the prohibited distinction between rich and poor that would violate the constitutional principles underlying credit for time served.\nLewis, 185 Wn. App. at 347 (citing State v. Alejandro Medina, 180 Wn.2d 282, 292-93, 324 P.3d 682 (2014)). The Court of Appeals properly applied our case law when it held that Lewis is not constitutionally entitled to credit for time served after he began serving a sentence. We affirm.\nCONCLUSION\n\u00b610 We accept the State\u2019s concession that for purposes of the burglary and assault sentences, Lewis is entitled to credit for the 387 days he served awaiting trial on multiple charges. With regard to the second issue, the Court of Appeals properly applied our case law and concluded that Lewis was not constitutionally entitled to credit for time served on his burglary and assault sentences after he began serving his sentence for failure to register as a sex offender. We strike oral argument and remand to the superior court for sentencing in accordance with this opinion.",
+        "type": "majority",
+        "author": "Per Curiam"
+      }
+    ],
+    "attorneys": [
+      "John A. Hays, for petitioner.",
+      "Anthony F. Golik, Prosecuting Attorney, and Anne M. Cruser, Deputy, for respondent."
+    ],
+    "corrections": "",
+    "head_matter": "[No. 91180-1.\nConsidered September 3, 2015.\nDecided September 10, 2015.\nThe State of Washington, Respondent, v. Adam Chief Lewis, Petitioner.\nJohn A. Hays, for petitioner.\nAnthony F. Golik, Prosecuting Attorney, and Anne M. Cruser, Deputy, for respondent."
+  },
+  "file_name": "0201-01",
+  "first_page_order": 243,
+  "last_page_order": 248
+}

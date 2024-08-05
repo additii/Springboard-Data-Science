@@ -1,0 +1,121 @@
+{
+  "id": 8719223,
+  "name": "Knight v. Equitable Life Assurance Society",
+  "name_abbreviation": "Knight v. Equitable Life Assurance Society",
+  "decision_date": "1932-09-26",
+  "docket_number": "4-2640",
+  "first_page": "150",
+  "last_page": "154",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "186 Ark. 150"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [
+    {
+      "cite": "43 Atl. 168",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "2 Atl. 13",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "40 N. J. Eq. 451",
+      "category": "reporters:state",
+      "reporter": "N.J. Eq.",
+      "case_ids": [
+        782250
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nj-eq/40/0451-01"
+      ]
+    },
+    {
+      "cite": "34 N. E. 95",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "159 Mass. 198",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        799558
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/159/0198-01"
+      ]
+    },
+    {
+      "cite": "107 S. W. 387",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "85 Ark. 166",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 480,
+    "char_count": 7766,
+    "ocr_confidence": 0.528,
+    "pagerank": {
+      "raw": 1.0782233143708003e-07,
+      "percentile": 0.5617856485069207
+    },
+    "sha256": "11cad22d5e69a972d178bcf6930f54b581f1a6ce22463ad1c21b04274254e448",
+    "simhash": "1:63529fee2d643130",
+    "word_count": 1361
+  },
+  "last_updated": "2024-02-27T17:52:01.123529+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Knight v. Equitable Life Assurance Society."
+    ],
+    "opinions": [
+      {
+        "text": "Smith, J.\nProperty belonging to appellants was sold under a consent decree of foreclosure pursuant to the following notice of sale:\n\u201cCOMMISSIONER'S SALE.\n\u201cno. 4145.\n\u201cPursuant to a decretal order, dated March 23,1931, and entered at page 385 of the chancery record No. 10, for the Western District of Craighead County, Arkansas, wherein the Equitable Life Assurance Society of the United States was plaintiff and John C. Knight, Wren-nie Knight, his wife, et al., were defendants, the said decree being for the sum of $3,300.01, with interest from January 7,1929, at six per centum per annum, and which decree had been credited with various sums paid thereon, as shown at page No. 385 of said chancery record No. 10, the undersigned will offer for sale at the east door of the courthouse in the city of Jonesboro, Arkansas, on the 29th day of August, 1931, the following described real estate, to-wit:\n\u201cAll of lots 3 and 16 and the west half of lot 2 and the west half of lot 17 in Markle\u2019s Addition to the city of Jonesboro, Arkansas.\n\u201cTerms of Sale: Upon a credit of three months, purchaser to give bond, with approved security, and a lien to be- retained on the property sold.\n\u201cWitness my hand, and the seal of said court, this 3d day of August, 1931.\n\u201cSpurgeon Clark,\n(Seal) \u201c Commissioner.\u201d\nExceptions were filed to the commissioner\u2019s report of sale, and from the order of the court overruling these exceptions and approving the report is this appeal.\nThe exceptions to this report raised the following questions:\nFirst: The notice failed to state the amount due under the decree at the time of the sale. It is stated in 2 Freeman on .Executions (3d ed.), p. 1641, in discussing \u201cG-eneral Requisites of Notice of Sale,\u201d that: \u201cwhile it is usual to state the amount of a judgment or decree to satisfy which the sale is to be made, this statement in the notice of sale is entirely unnecessary.\u201d Certainly, no prejudice resulted here to the appellants from the failure to state the balance due under the decree, as the notice did state the debt as adjudged, and that various sums had been paid thereon as_ shown by marginal indorsements on the record of the decree. Any interested person could have ascertained the amount of these credits by examining the record to which reference was made.\nSecond: It was objected that the description of the property was fatally defective for the reason that it did not give the county nor subdivision thereof in which the property was located. The property was described, however, as being in the city of Jonesboro, and this description definitely located the property as being in Craig-head County, and it cannot be material that a prospective purchaser should have known in which district of Craighead County, Jonesboro was located. It was said in the case of Woods v. Hayes, 85 Ark. 166, 107 S. W. 387, that: \u201cthe object of giving notice of sales under execution is to inform the debtor that his property is about to be sold and also to inform the public so that attendance of purchasers may be attracted and competitive bidding be induced. It necessarily follows from this that the desired object is accomplished if the description of the property be sufficient in the notice to identify it with reasonable certainty, so that no one may be misled thereby. Tiede-man on Sales, \u00a7 260; 2 Freeman on Execution, \u00a7 285b.5 ^\nThird: Objection is made that the property is described as lots and parts of lots in Maride\u2019s Addition to the city of Jonesboro, Arkansas, but that the block number of such lots is not given. This objection is answered when it is observed that no showing was made that this addition was laid off into blocks, and appellee asserts that it was not. We are unable, therefore, to say that the description employed does not correctly describe the property sold according to the survey of the addition of which it was a part.\nFourth: It is also objected that the notice \u201cfails to state the hour when or within which the property would be sold.\u2019] In 2 Freeman on Executions (3d ed.), \u00a7 285C, page 1646, it is said: \u201cIt would seem that the notice ought to name the very hour at which the sale will commence, so that persons having any inclination to attend will not be deterred from doing so by the fact that they might be kept waiting during all the business hours of the day. The authorities, however, sustain notices which declare that the sale will be made between certain designated hours, provided that both hours are in the business part of the day. It has also been held that if the statute designates the hours between which a sale may be made, they need not be mentioned in the notice of sale.\u201d\nIn his excellent work on Arkansas Mortgages \u2014 at \u00a7 412 thereof \u2014 Judge Hughes says: \u201cThe statutes of Arkansas do not prescribe the time or place of foreclosure sale, nor the notice thereof that shall be given. The statute relating to notice of sale under order of court (Crawford & Moses\u2019 Digest, \u00a7 4323) refers only to sale by the sheriff under execution and not to foreclosure sales. In foreclosure in equity, the time and method of giving notice and the date and place of sale are in the discretion of the court.\u201d\nSection 4317, Crawford & Moses\u2019 Digest, prescribes the time and mode of sale under executions, and directs such sales to be had between the hours of 9 a. m. and 3 p. m. \"While this section does not refer to sales by commissioners under orders of the chancery court, it is a matter of common knowledge that all judicial sales, unless otherwise ordered, occur between these hours; nor is it asserted here that the sale under review did not occur between those hours. On the contrary, it appears that, by an agreement made on the day of sale between the commissioner and the appellant, J. C. Knight, the sale was had at 10 a. m. on that day. We think, therefore, that the failure to designate the hour of sale in the notice thereof was not prejudicial. Henderson\u2019s Chancery Practice, \u00a7\u00a7 571-575.\nFifth: It is insisted that the notice was defective because it failed to describe the improvements on the lots. The character of these improvements does not appear, but it was stipulated that the rental value of the property was $27.50 per month. There is nothing in the record to indicate that any prospective bidder at all familiar with the property would not have known what those improvements were. There are States having statutes requiring notices of sale of real estate to describe the improvements thereon; but we have no such statute, and the general rule appears to be, in the absence of such a statute, that a description following the language of the instrument foreclosed is sufficient if the description identifies the real estate itself. 42 C. J., title \u201cMortgages,\u201d page 195; Jones on Mortgages, vol. 3, \u00a7 2459; Austin v. Hatch, 159 Mass. 198, 34 N. E. 95; Guarantee Safe & Trust Co. v. Jenkins, 40 N. J. Eq. 451, 2 Atl. 13; Thompson v. King, 2 Mann. (Del.) 358, 43 Atl. 168; Wiltsie on Mortgage Foreclosure (4th ed.), vol. 1, \u00a7 643, page 826.\nSixth: The final objection to the confirmation of the report of sale is that, because of the alleged defects in the notice of sale, the property sold for a grossly inadequate price. The property sold for $3,368.86, which was the balance then due under the decree of foreclosure, and the plaintiff in the case was under no obligation to bid anything in excess of its debt, nor to bid that. Moreover, there is no showing that the price for which the property sold was in fact grossly inadequate.\nThe report of sale was therefore properly confirmed, and the Recree so ordering it is affirmed.",
+        "type": "majority",
+        "author": "Smith, J."
+      }
+    ],
+    "attorneys": [
+      "G. T. Carpenter, for appellant.",
+      "E. P. Mathes, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Knight v. Equitable Life Assurance Society.\n4-2640\nOpinion delivered September 26, 1932.\nG. T. Carpenter, for appellant.\nE. P. Mathes, for appellee."
+  },
+  "file_name": "0150-01",
+  "first_page_order": 170,
+  "last_page_order": 174
+}

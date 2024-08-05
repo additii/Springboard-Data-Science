@@ -1,0 +1,76 @@
+{
+  "id": 12457107,
+  "name": "Fortgang, Petitioner, v. Woodland Park Zoological Soc'y, Respondent",
+  "name_abbreviation": "Fortgang v. Woodland Park Zoological Soc'y",
+  "decision_date": "2016-06-29",
+  "docket_number": "No. 92846-1",
+  "first_page": "1033",
+  "last_page": "1033",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "185 Wash. 2d 1033"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Wash.",
+    "id": 9029,
+    "name": "Washington Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 38,
+    "name_long": "Washington",
+    "name": "Wash."
+  },
+  "cites_to": [
+    {
+      "cite": "192 Wn. App. 418",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        12456067
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/192/0418-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 31,
+    "char_count": 215,
+    "ocr_confidence": 0.886,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2574231161739545
+    },
+    "sha256": "7cc244cbdb8e9e09a055b8cac98ba58af5210b8024e40473201f6e9afb57300c",
+    "simhash": "1:91b93229302be7cd",
+    "word_count": 35
+  },
+  "last_updated": "2024-02-28T00:06:59.447104+00:00",
+  "provenance": {
+    "date_added": "2019-05-22",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Fortgang, Petitioner, v. Woodland Park Zoological Soc\u2019y, Respondent,"
+    ],
+    "opinions": [
+      {
+        "text": "Petition for review of a decision of the Court of Appeals, No. 72413-4-1, February 1, 2016, 192 Wn. App. 418. Granted June 29, 2016.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Fortgang, Petitioner, v. Woodland Park Zoological Soc\u2019y, Respondent,\nNo. 92846-1."
+  },
+  "file_name": "1033-02",
+  "first_page_order": 985,
+  "last_page_order": 985
+}

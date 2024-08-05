@@ -1,0 +1,66 @@
+{
+  "id": 8726607,
+  "name": "New Netherlands American Mortgage Bank, Ltd., v. Little Red River Levee District No. 1",
+  "name_abbreviation": "New Netherlands American Mortgage Bank, Ltd. v. Little Red River Levee District No. 1",
+  "decision_date": "1933-02-13",
+  "docket_number": "4-2860",
+  "first_page": "965",
+  "last_page": "966",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "186 Ark. 965"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 128,
+    "char_count": 1376,
+    "ocr_confidence": 0.547,
+    "pagerank": {
+      "raw": 2.454858700363489e-07,
+      "percentile": 0.8047714364814319
+    },
+    "sha256": "44a8d73d17c3776b8c404e9e957cb12d98900379e74e429ff51b64eda364dbf0",
+    "simhash": "1:54279b2b15932e60",
+    "word_count": 221
+  },
+  "last_updated": "2023-07-14T16:45:47.259153+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "New Netherlands American Mortgage Bank, Ltd., v. Little Red River Levee District No. 1."
+    ],
+    "opinions": [
+      {
+        "text": "Humphreys, J.\nAppellee herein, a levee district in White County, brought a suit on the 21st day of April, 1931, in the chancery court of White County to enforce the collection of delinquent annual benefit tax assessments in the total sum of $1,866.45 for the years of 1923 to 1930, inclusive, against the following described lands owned by T. J. Pryor in said-district, to-wit:\nWest one-half, southeast one-fourth, sec. 5, Twp. 6, range 5. Southwest one-fourth, sec. 5, Twp. 6, range 5. South one-half, northwest one-fourth, sec. 5, Twp. 6, range 5. Southwest one-fourth, northeast one-fourth, sec. 5, Twp. 6, range 5.\nAppellant, to whom T. J. Pryor mortgaged the land, intervened in the suit and specifically pleaded the statute of limitations in defense of the collection of the delinquent taxes.\nThe trial court ruled that the delinquent assessments were not barred by the statute of limitations and dismissed appellant\u2019s intervention for the want of equity, from which is this appeal.\nSection 6831 of Crawford & Moses\u2019 Digest controls, and by it a lien is created upon the lands within the district for the assessment of benefits until paid.\nThe decree is therefore affirmed.",
+        "type": "majority",
+        "author": "Humphreys, J."
+      }
+    ],
+    "attorneys": [
+      "Golden Blount, for appellant.",
+      "Brundidge & Neelly, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "New Netherlands American Mortgage Bank, Ltd., v. Little Red River Levee District No. 1.\n4-2860\nOpinion delivered February 13, 1933.\nGolden Blount, for appellant.\nBrundidge & Neelly, for appellee."
+  },
+  "file_name": "0965-01",
+  "first_page_order": 985,
+  "last_page_order": 986
+}

@@ -1,0 +1,182 @@
+{
+  "id": 8724314,
+  "name": "Bradley v. Minton",
+  "name_abbreviation": "Bradley v. Minton",
+  "decision_date": "1923-07-02",
+  "docket_number": "",
+  "first_page": "659",
+  "last_page": "663",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "159 Ark. 659"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [
+    {
+      "cite": "46 Ark. 167",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1890447
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/46/0167-01"
+      ]
+    },
+    {
+      "cite": "41 Ark. 495",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1896175
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/41/0495-01"
+      ]
+    },
+    {
+      "cite": "89 Ark. 309",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1515229
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/89/0309-01"
+      ]
+    },
+    {
+      "cite": "127 Ark. 54",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1550279
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/127/0054-01"
+      ]
+    },
+    {
+      "cite": "86 Ark. 446",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1521514
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/86/0446-01"
+      ]
+    },
+    {
+      "cite": "80 Ark. 458",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1491220
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/80/0458-01"
+      ]
+    },
+    {
+      "cite": "48 Ark. 419",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1887753
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/48/0419-01"
+      ]
+    },
+    {
+      "cite": "15 Ark. 519",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        8728508
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/15/0519-01"
+      ]
+    },
+    {
+      "cite": "104 Ark. 476",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "weight": 2,
+      "opinion_index": -1
+    },
+    {
+      "cite": "104 Ark. 475",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1350593
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/104/0475-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 433,
+    "char_count": 8459,
+    "ocr_confidence": 0.476,
+    "pagerank": {
+      "raw": 2.0446031217563963e-07,
+      "percentile": 0.7497134002793213
+    },
+    "sha256": "8b6f17c898edddfd0273b42092959b3973dd2bb85015e393aaf04553f2deabec",
+    "simhash": "1:a52481f55142385e",
+    "word_count": 1428
+  },
+  "last_updated": "2024-02-27T18:54:00.643605+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Bradley v. Minton."
+    ],
+    "opinions": [
+      {
+        "text": "Humphreys, J.\nAppellee acquired title to a forty-acre tract of land from her former husband, B\u00bb. S. Bradley, in his lifetime. He died on November 9,1916. Thereafter, on October 31, 1917, appellee conveyed same to her brother-in-law and sister, Homer ft. Bradley and Minnie Bradley, in consideration that they support, board, lodge and clothe her during the rest of her life. The deed contained a provision to the effect that, should the grantees fail to support appellee, the land should revert to her, and that the improvements and repairs should be offset by rents. Also a provision that, should appellee remarry, the obligation to support her should cease as long as she resided with and was supported by her husband,with the privilege, however, of returning and residing with them again in case she and her husband should separate. Also a further provision to the effect that appellee and appellants, by mutual agreement, might cancel the deed and reinvest the title in appellee, or vest \u00a9ame absolutely in appellants -or -some third party. Pursuant to the terms of the deed -appellee resided upon the land with appellants from December 6, 1916, until January 12, 1919, as a member of their family, at which time she married D. P. Minton. During the time ap-pellee resided with appellants she permitted her brother-in-law to manage -and control her personal property. \"When appellee married and moved away she left her personal property with appellants. Subsequently she entered into -an agreement with her brother-in-law whereby he and his wife should reconvey the land to her absolutely for title to the personal property, the payment of taxes of 1918, the crops of tliat year, and a release from tlieir obligation to support her. Homer R. Bradley and appellee repaired to the.law office of Hon. Basil Baker, who prepared .a deed of conveyance in keeping with the agreement, which instrument was read by the attorney to them. Appellee\u2019s sister, Minnie Bradley, did not accompany them to Mr. Baker\u2019s office on account of influenza in the family. Homer R. .Bradley took the deed home for execution. His wife declined to sign the deed, because it purported to convey a fee simple title to said real estate. About three weeks later, without the knowledge of appellee, appellants went to Mr. Baker\u2019s office and had him prepare a deed from them to appellee conveying a life estate in said land to her. They took the deed home, and Homer R. Bradley told his wife to call the attention of appellee, when she came for the deed, to the fact that it conveyed a life estate only in the lands to her. When appellee called for the deed, Homer R. Bradley was absent, and her sister, Minnie Bradley, handed it to her without explanation. Appel-lee accepted the substituted deed, believing it was the deed which had been read to her, and, under that belief, placed same of record. The deed given her recited a consideration of $1 and the title to the personal property which belonged to her, and which she had left in appellant\u2019s possession. In a few weeks after the delivery of the substituted deed. appellee discovered, through a friend, that it conveyed a life estate in said lands to her, whereupon she instituted this suit in the chancery court of Craighead County for a reformation of the deed so as to conform to the original deed prepared and read to her by Mr. Baker. TJpon a hearing of the cause the chancery court decreed a reformation of the deed of conveyance so as to convey a fee simple instead of a life estate in said land, from which is this appeal.\nAppellant\u2019s first contention for reversal is that Minnie Bradley, who owned the land in entirety with her husband, never agreed or consented to convey it in fee simple to her sister, the appellee. There is practically no dispute in the evidence concerning- the entire transaction. Appellants had certain personal property in their possession belonging to appellee, and were under obligations to support her, should she separate from her husband and return to live with them. After appellee\u2019s marriage to Mr. Minton she demanded a reconveyance of the land, and talked the matter over on several occasions with appellants. The negotiations continued quite a while, and resulted in an agreement by Homer R. Bradley, acting for himself and his wife, with appellee to convey a fee simple title in said real estate to her in consideration of certain personal property, a release of the crops growing upon the land, and of future support. After a careful reading of the testimony we are convinced, beyond the peradventu-re of a doubt, that Homer Bradley acted throughout the negotiations not only for himself but as agent for his wife. Pursuant to the agreement detailed above, a deed was drawn from the Bradleys to Mrs. Minton, and given to- Homer Bradley for execution. The transaction was completed -and the deed..shown to Minnie Bradley by her husband. Appellants then fell upon the plan of preparing and executing a deed conveying a -life estate- only in -said land to appel-lee, without consulting her. They did this, and, when -ap-. pellee called for the deed which had been read to her, Minnie Bradley gave her the deed conveying a life estate only in the land, without explanation, -although she- had been admonished by her husband to explain the matter to her sister, the appellee. In -substituting the deed without explanation a fraud was practiced by appellants upon appellee. Appellee accepted and recorded the deed under the belief that it was the deed which had been read to her. The facts bring this case within the rule that equity will reform an instrument to conform to the intention of the parties, where a mistake has been made by one, and fraud practiced by the other, inducing the execution and delivery of the instrument. Doniphan, Kensett & Searcy Rd. Co. v. Mo. & N. Ark. Rd. Co., 104 Ark. 475. Mrs. Minton accepted the deed under a mistaken, belief that it conveyed a fee simple title, which acceptance was induced through the deceit of Minnie Bradley by substituting a deed conveying a life estate only in said land to her.\nAppellants\u2019 nest 'and last contention for reversal is that the deed was without consideration and not subject to reformation. They invoke the equitable doctrine that equity will not reform voluntary conveyances. The doctrine contended for is not applicable to the facts of the instant case. There was a consideration for the deed. Appellee surrendered certain personal property to appellants and released them from further obligation to support her.\nNo error appearing, the decree is affirmed.",
+        "type": "majority",
+        "author": "Humphreys, J."
+      }
+    ],
+    "attorneys": [
+      "Denver Dudley and Basil Baker, for appellant.",
+      "Horace Sloan, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Bradley v. Minton.\nOpinion delivered July 2, 1923.\n1. REFORMATION of instruments \u2014 mistake and fraud. \u2014 Where defendants agreed to convey the fee to plaintiff and had a deed drawn conveying the fee and read same to plaintiff, hut subsequently executed a deed conveying only a life estate, which plaintiff accepted without knowledge of the change, the deed will be reformed to convey the fee, under the rule that equity will reform an instrument to conform to the intention of the parties where a mistake has been made by one and fraud practiced by the other, inducing the execution and delivery of the deed.\n2. Reformation of instruments \u2014 consideration for deed. \u2014 The defense to a suit to reform a deed that the instrument was a voluntary conveyance will not be sustained where, as consideration, plaintiff surrendered the right to be supported during her lifetime and also transferred certain personal property.\nAppeal from Craighead Chancery Court, Western District; Archer Wheatley, Chancellor;\naffirmed.\nDenver Dudley and Basil Baker, for appellant.\nThe court erred in decreeing a reformation of the deed. No mistake was shown to have been made or fraud practiced. Elements of estoppel were absent: 10 B. C. L. 690, \u00a7\u00a7 19, 697, 698; 104 Ark. 476; 98 Ark. '23. Voluntary conveyance not reformed without consent of all parties. 15 Ark. 519; 48 Ark. 419; 80 Ark. 458; 86 Ark. 446; 127 Ark. 54. Equity does not relieve against carelessness. 89 Ark. 309; 41 Ark. 495; 46 Ark. 167.\nHorace Sloan, for appellee.\nEquity will reform an instrument to conform to the intention of the parties, where a mistake has 'been made by one, and fraud practiced by the other, inducing execution and delivery of the instrument. 104 Ark. 476. The doctrine that equity will not reform a voluntary conveyance is not -applicable here, where grantors were bound to support a guaranty."
+  },
+  "file_name": "0659-01",
+  "first_page_order": 685,
+  "last_page_order": 689
+}

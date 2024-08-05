@@ -1,0 +1,78 @@
+{
+  "id": 12462919,
+  "name": "Zuriel, Inc., et al., Respondents, v. Galbreath et al., Petitioners",
+  "name_abbreviation": "Zuriel, Inc. v. Galbreath",
+  "decision_date": "2016-11-02",
+  "docket_number": "No. 93366-9",
+  "first_page": "1022",
+  "last_page": "1022",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "186 Wash. 2d 1022"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Wash.",
+    "id": 9029,
+    "name": "Washington Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 38,
+    "name_long": "Washington",
+    "name": "Wash."
+  },
+  "cites_to": [
+    {
+      "cite": "193 Wn. App. 1047",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        12450106,
+        12450107,
+        12450108,
+        12450109
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/193/1047-01",
+        "/wash-app/193/1047-02",
+        "/wash-app/193/1047-03",
+        "/wash-app/193/1047-04"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 30,
+    "char_count": 215,
+    "ocr_confidence": 0.848,
+    "sha256": "8cc8d8e382b73971cb5c9c4c812e6ba8b073524726e075ddb28128b3d5ce2bb6",
+    "simhash": "1:0bdb1a1b395f6f6d",
+    "word_count": 36
+  },
+  "last_updated": "2024-02-27T18:43:05.207238+00:00",
+  "provenance": {
+    "date_added": "2019-05-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Zuriel, Inc., et al., Respondents, v. Galbreath et al., Petitioners,"
+    ],
+    "opinions": [
+      {
+        "text": "Petition for review of a decision of the Court of Appeals, No. 32935-6-III, May 5, 2016, 193 Wn. App. 1047. Denied November 2, 2016.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Zuriel, Inc., et al., Respondents, v. Galbreath et al., Petitioners,\nNo. 93366-9."
+  },
+  "file_name": "1022-05",
+  "first_page_order": 1008,
+  "last_page_order": 1008
+}

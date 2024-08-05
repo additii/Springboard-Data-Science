@@ -1,0 +1,133 @@
+{
+  "id": 8724157,
+  "name": "Smith v. Drake",
+  "name_abbreviation": "Smith v. Drake",
+  "decision_date": "1927-07-04",
+  "docket_number": "",
+  "first_page": "715",
+  "last_page": "720",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "174 Ark. 715"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [
+    {
+      "cite": "292 S. W. 686",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "173 Ark. 496",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        8722271
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/173/0496-01"
+      ]
+    },
+    {
+      "cite": "1 S. W. 693",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "47 Ark. 373",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1888775
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/47/0373-01"
+      ]
+    },
+    {
+      "cite": "89 Neb. 195",
+      "category": "reporters:state",
+      "reporter": "Neb.",
+      "case_ids": [
+        2857484
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/neb/89/0195-01"
+      ]
+    },
+    {
+      "cite": "130 N. W. 1053",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "44 Ark. 174",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1893441
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/44/0174-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 498,
+    "char_count": 10607,
+    "ocr_confidence": 0.497,
+    "pagerank": {
+      "raw": 2.9380486040562867e-07,
+      "percentile": 0.8478922902454931
+    },
+    "sha256": "4c7d93de8ffe8b740f215f83824e3d8a8bc4775acc0782e7bdadb550fe3a1765",
+    "simhash": "1:5b53416372d46549",
+    "word_count": 1848
+  },
+  "last_updated": "2024-02-27T16:23:40.975481+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Smith v. Drake."
+    ],
+    "opinions": [
+      {
+        "text": "Mehaffy, J.\nAppellee brought suit in a justice of the peace court in Jackson County, Arkansas, and obtained judgment against H. F. Burton and others. Execution was issued and returned unsatisfied, and thereafter, on September 17, 1925, a duly certified copy of said judgment was filed in the circuit court of Jackson County. On October 3, 1925, the clerk of the Jackson Circuit Court issued his execution based on said judgment against H. F. Burton and other defendants, said execution being directed to the sheriff of Lee County, Arkansas. Thereafter plaintiff filed his motion for summary judgment against Z. C. Smith, sheriff, S. L. Kirkpatrick and W. S. McClintock, sureties on his official bond, and notice of said motion was given to appellants on August 27,1926, and on September 30 the court below rendered judgment against the sheriff and his sureties, appellants here, for $247.25, together with 10 per cent, penalty, and interest from August 11, 1925.\nAppellants prayed an appeal to this court, which was granted. Appellants asked for reversal of the judgment on two grounds: First, that the execution was returned within 60 days allowed under the statute; and second, that the Jackson County Circuit Court was wholly without jurisdiction to hear and determine the question.\nThere was indorsed on the execution the following:\n\u201cIndorsed: This writ came to hand on the 8th day of October, 1925, and I have duly served the same by finding no property in my county on which to levy, and now return this execution wholly unsatisfied. November 18, 1925. Z. C. Smith, Sheriff. By C. F. G-ovan, D. S. \u201d\nThis indorsement was within the 60 days, and the contention of appellants is that this is a return, and, if this were true, there would be no liability. There would have been no cause of action. But we do not agree with appellants in this contention.\nSection 4353 of Crawford & Moses \u2019 Digest provides: \u201cAll executions shall be returnable in 60 days from their date.\u201d The only controversy here, however, is not with reference to this statute. There is no contention that the sheriff should not make a return within 60 days, but the contention is that the indorsement on the execution was a return.\n\u201cA return on a writ of execution is the short official statement of the officer, indorsed thereon or attached thereto, of what he has done in obedience to the mandate of the writ, or of the reason why he had done nothing: It consists of the two acts of writing out the statement on the writ or on an attached paper, and the filing. The mere writing out of the statement is not sufficient without filing it, and, vice versa, the mere filing of the writ with no statement is not a return. \u201d 23 C. J. 791.\nIt will be observed from the above authority that it requires the two acts, the indorsement on the writ of what the officer has done and the filing it with the clerk of the court out of which it issued. Neither act without the other would constitute a return. An officer might write the statement on a writ and keep it in his office, or do anything else with it except file it with the clerk who issued it, and this would not be a return. On the other hand, he might file the writ with the clerk within the 60 days without any indorsement on it, and this would not be a return. It takes both the indorsement and the filing to make the return, and it appears that, in this case, the writ was not filed until long after the 60 days had, expired.\nIt has been stated by this court, with reference to the return of a writ:\n\u201cIn the original answer he alleged that he had indorsed his return on the writ but had failed to lodge it in the clerk\u2019s office as required. This was held insufficient in the former determination of this case, and he has added to this an allegation that the return was not made because the clerk was absent from his office on one occasion when he went there for that purpose-, and that his official duties thereafter prevented him from returning to the clerk\u2019s office. If it were shown that the clerk\u2019s office had been closed for such a time toward the close of the life of the execution, as absolutely to prevent the officer from making- a return, that would be a sufficient excuse for not returning- it within the 60 days, but the ohlig-ation would remain upon the sheriff of perfecting* his return at as early- a day as' practicable thereafter.\u201d Atkinson v. Heer & Co., 44 Ark. 174.\n\u201c Where a process or writ is placed in the hands of a sheriff or constable for service or execution, he is liable if he fails to return the same within the time which is allowed by law for making his return thereon. And the fact that a return is made after the expiration of the time does not release him from' the liability for his default.\u201d 35 Cyc. 17'20.\n\u201cThe word \u2018return\u2019 has a legal meaning more or less definite and certain. Webster\u2019s International Dictionary, defines it: \u2018 (aj The rendering back or delivery of a writ, precept, or execution to .the proper officer or court. This is now usually done by filing the document,.properly indorsed, in the clerk\u2019s office, (b) The certificate of an officer stating what he has done in or about the execution of a writ, precept, etc., indorsed on the document, (c) The sending back of a commission with the certificate of the commissioners\u2019.\u201d Tate v. Biggs, 130 N. W. 1053, 89 Neb. 195.\nThe authorities seem to be practically unanimous that a return means indorsing what the officer has done on the writ and then filing it with the clerk who issued it. We therefore conclude that the sheriff in .this case did not make his return as required by law within the 60 days.\nAppellant\u2019s next contention \u2022 is that the Jackson County Circuit Court was wholly without jurisdiction to hear and determine the cause. Section 4360 provides that, if an officer fails to return an execution before the return date, he shall be liable, etc., and \u00a7 4362 provides for an action against the officer, among other things, for failure to make return. Not only does the' statute provide that the motion for summary judgment must be in the court out of which-the execution issued, but this court has held, in effect, that the court out of which the execution issues has jurisdiction.\nAn execution was directed to the sheriff of Johnson County and returnable within 60 days. The execution was issued by the clerk of the circuit court of Pope County. Judgment was rendered against the sheriff and sureties on his bond in Pope County, and the judgment was affirmed. Jett v. Shinn, 47 Ark. 373, 1 S. W. 693.\nThe circuit court of Jackson County had jurisdiction in this case. There was no suit pending in any other county, and, to hold that the Jackson Circuit Court, the court out of which the execution issued, did not have jurisdiction, would be to deprive the judgment plaintiff of the remedy given to him by st\u00e1tute. The Jackson Circuit Court had jurisdiction over the subject-matter and, even if it did not have jurisdiction over the person, it obtained such jurisdiction by the service of the notice upon the sheriff and its sureties and their failure to object to the service in the court below.\nThis court has said:\n\u201cHaving elected to submit themselves to the jurisdiction of the tribunal provided by the statute, and having taken an appeal in accordance with the provisions of the statutes, they must abide the results of their own voluntary action. * * * Broadly stated, any action on the part of the defendant, except to object to jurisdiction over his person, which recognizes the case in court, will constitute a general appearance.\u201d Purnell v. Nickell, 173 Ark. 496, 292 S. W. 686.\n\u201cIn the United States many statutes have been enacted for the purpose of giving ample, and in most cases summary and punitive, .redress against officers neglecting or refusing to return final process. Independent of these statutory provisions, the right of a plaintiff to maintain an action against an officer and his sureties for a failure to make a return'has been generally conceded.\u201d Freeman on Executions, vol. 3, 368.\n\u201cIn many of the States the liability of an officer for not returning an execution is fixed by statutes. These statutes are very harsh in their terms, and are manifestly intended to be so stringent that no officer will be tempted to neglect this official duty. Some of them impose upon the officer a mere penalty, while others add to this penalty the amount of the .judgment and costs. Where this is the case, the fact that the plaintiff has not been injured by the official neglect can neither be received in evidence in justification, nor in mitigation of damages. In most of these states the proceedings for the enforcement of the officer\u2019s liability are of a summary character. No new or independent action need be commenced. A motion may be made in the suit in which the execution issued, and a judgment obtained therein against the officer and his sureties for the penalty prescribed by statute.\u201d Freeman on Executions, vol. 3, 368.\nIt is our conclusion that the plaintiff was not required to commence a new or independent action. He had a right to make the motion for a summary judgment in the suit in Jackson County in which the execution was issued, and he could maintain that action or pursue that remedy in the Jackson Circuit Court against the sheriff and his sureties. The judgment of the Jackson Circuit Court is therefore affirmed.",
+        "type": "majority",
+        "author": "Mehaffy, J."
+      }
+    ],
+    "attorneys": [
+      "Frank P. Fitzsimmons, for appellant.",
+      "E. F. Dimean, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Smith v. Drake.\nOpinion delivered July 4, 1927.\n1. Sheriffs and constables \u2014 failure to- make return of execution. \u2014 Upon a motion for summary judgment against a sheriff for failure to return an execution within 60 days as required \u25a0by law, his indorsement in writing of service of the writ of execution not filed until after expiration of 60-days held not a return within the 60-day period prescribed .by Crawford & Moses\u2019 Dig. \u00a7 4353.\n2. Sheriffs and constables' \u2014 return of execution. \u2014 Crawford & Moses\u2019 Dig. \u00a7 4353, providing that executions shall be returnable in 60 days from their date, requires within that time the indorsement on the writ of what the officer has done and filing it with the clerk who issued it.\n3. Venue \u2014 jurisdiction of motion for summary judgment. \u2014 The court out of which execution issued had jurisdiction on motion of judgment creditor for summary judgment against the sheriff of another county to whom the execution was directed, under Crawford & Moses\u2019 Dig. \u00a7 4360, 4362, where the sheriff failed to make return within the time prescribed.\nAppeal from Jackson Circuit Court; Dene H. Coleman, Judge;\naffirmed.\nFrank P. Fitzsimmons, for appellant.\nE. F. Dimean, for appellee."
+  },
+  "file_name": "0715-01",
+  "first_page_order": 733,
+  "last_page_order": 738
+}

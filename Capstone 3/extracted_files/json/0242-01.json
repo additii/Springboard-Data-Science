@@ -1,0 +1,2605 @@
+{
+  "id": 4075935,
+  "name": "William Ralph, Petitioner, v. The Department of Natural Resources, Respondent; William Forth et al., Petitioners, v. The Department of Natural Resources et al., Respondents",
+  "name_abbreviation": "Ralph v. Department of Natural Resources",
+  "decision_date": "2014-12-31",
+  "docket_number": "No. 88115-4",
+  "first_page": "242",
+  "last_page": "272",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "182 Wash. 2d 242"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Wash.",
+    "id": 9029,
+    "name": "Washington Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 38,
+    "name_long": "Washington",
+    "name": "Wash."
+  },
+  "cites_to": [
+    {
+      "cite": "153 P. 1",
+      "category": "reporters:state_regional",
+      "reporter": "P.",
+      "year": 1915,
+      "pin_cites": [
+        {
+          "parenthetical": "venue"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "88 Wash. 348",
+      "category": "reporters:state",
+      "reporter": "Wash.",
+      "case_ids": [
+        648898
+      ],
+      "year": 1915,
+      "pin_cites": [
+        {
+          "parenthetical": "venue"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash/88/0348-01"
+      ]
+    },
+    {
+      "cite": "3 P. 612",
+      "category": "reporters:state_regional",
+      "reporter": "P.",
+      "year": 1881,
+      "pin_cites": [
+        {
+          "parenthetical": "dictum"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "2 Wash. Terr. 64",
+      "category": "reporters:state",
+      "reporter": "Wash. Terr.",
+      "case_ids": [
+        1825964
+      ],
+      "year": 1881,
+      "pin_cites": [
+        {
+          "parenthetical": "dictum"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-terr/2/0064-01"
+      ]
+    },
+    {
+      "cite": "30 P. 1053",
+      "category": "reporters:state_regional",
+      "reporter": "P.",
+      "year": 1892,
+      "pin_cites": [
+        {
+          "parenthetical": "jurisdiction"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "4 Wash. 655",
+      "category": "reporters:state",
+      "reporter": "Wash.",
+      "case_ids": [
+        5259141
+      ],
+      "year": 1892,
+      "pin_cites": [
+        {
+          "parenthetical": "jurisdiction"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash/4/0655-01"
+      ]
+    },
+    {
+      "cite": "92 P. 267",
+      "category": "reporters:state_regional",
+      "reporter": "P.",
+      "year": 1907,
+      "pin_cites": [
+        {
+          "parenthetical": "jurisdiction"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "47 Wash. 450",
+      "category": "reporters:state",
+      "reporter": "Wash.",
+      "case_ids": [
+        1295701
+      ],
+      "year": 1907,
+      "pin_cites": [
+        {
+          "parenthetical": "jurisdiction"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash/47/0450-01"
+      ]
+    },
+    {
+      "cite": "248 P. 419",
+      "category": "reporters:state_regional",
+      "reporter": "P.",
+      "year": 1926,
+      "pin_cites": [
+        {
+          "parenthetical": "jurisdiction"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "140 Wash. 206",
+      "category": "reporters:state",
+      "reporter": "Wash.",
+      "case_ids": [
+        807324
+      ],
+      "year": 1926,
+      "pin_cites": [
+        {
+          "parenthetical": "jurisdiction"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash/140/0206-01"
+      ]
+    },
+    {
+      "cite": "67 P.2d 927",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1937,
+      "pin_cites": [
+        {
+          "parenthetical": "jurisdiction"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "190 Wash. 294",
+      "category": "reporters:state",
+      "reporter": "Wash.",
+      "case_ids": [
+        1281074
+      ],
+      "year": 1937,
+      "pin_cites": [
+        {
+          "parenthetical": "jurisdiction"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash/190/0294-01"
+      ]
+    },
+    {
+      "cite": "156 P.2d 235",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1945,
+      "opinion_index": 0
+    },
+    {
+      "cite": "153 P.2d 856",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1944,
+      "pin_cites": [
+        {
+          "parenthetical": "jurisdiction"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "21 Wn.2d 902",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        2602961
+      ],
+      "weight": 2,
+      "year": 1944,
+      "pin_cites": [
+        {
+          "parenthetical": "jurisdiction"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/21/0902-01"
+      ]
+    },
+    {
+      "cite": "886 P.2d 189",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1994,
+      "opinion_index": 0
+    },
+    {
+      "cite": "125 Wn.2d 533",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        437183
+      ],
+      "year": 1994,
+      "pin_cites": [
+        {
+          "page": "539"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/125/0533-01"
+      ]
+    },
+    {
+      "cite": "991 P.2d 1161",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 2000,
+      "opinion_index": 0
+    },
+    {
+      "cite": "139 Wn.2d 840",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        98989
+      ],
+      "year": 2000,
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/139/0840-01"
+      ]
+    },
+    {
+      "cite": "521 P.2d 1181",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "case_ids": [
+        617967
+      ],
+      "year": 1974,
+      "pin_cites": [
+        {
+          "parenthetical": "explaining the only permissible action a court may take if it lacks subject matter jurisdiction is dismissal"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ariz/110/0585-01"
+      ]
+    },
+    {
+      "cite": "83 Wn.2d 714",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1127868
+      ],
+      "year": 1974,
+      "pin_cites": [
+        {
+          "page": "716",
+          "parenthetical": "explaining the only permissible action a court may take if it lacks subject matter jurisdiction is dismissal"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/83/0714-01"
+      ]
+    },
+    {
+      "cite": "185 P. 623",
+      "category": "reporters:state_regional",
+      "reporter": "P.",
+      "year": 1919,
+      "opinion_index": 0
+    },
+    {
+      "cite": "108 Wash. 666",
+      "category": "reporters:state",
+      "reporter": "Wash.",
+      "case_ids": [
+        680072
+      ],
+      "weight": 3,
+      "year": 1919,
+      "pin_cites": [
+        {
+          "page": "670"
+        },
+        {
+          "page": "670"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash/108/0666-01"
+      ]
+    },
+    {
+      "cite": "307 P.3d 717",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2013,
+      "opinion_index": 0
+    },
+    {
+      "cite": "175 Wn. App. 467",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        4190331
+      ],
+      "year": 2013,
+      "pin_cites": [
+        {
+          "page": "480-82"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/175/0467-01"
+      ]
+    },
+    {
+      "cite": "200 P.3d 689",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2009,
+      "opinion_index": 0
+    },
+    {
+      "cite": "165 Wn.2d 568",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        5751523
+      ],
+      "year": 2009,
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/165/0568-01"
+      ]
+    },
+    {
+      "cite": "515 U.S. 506",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1564227
+      ],
+      "weight": 3,
+      "year": 1995,
+      "pin_cites": [
+        {
+          "page": "521"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/515/0506-01"
+      ]
+    },
+    {
+      "cite": "322 P.3d 1207",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2014,
+      "pin_cites": [
+        {
+          "parenthetical": "citing United States v. Gaudin, 515 U.S. 506, 521, 115 S. Ct. 2310, 132 L. Ed. 2d 444 (1995)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "180 Wn.2d 54",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4241959
+      ],
+      "year": 2014,
+      "pin_cites": [
+        {
+          "page": "66",
+          "parenthetical": "citing United States v. Gaudin, 515 U.S. 506, 521, 115 S. Ct. 2310, 132 L. Ed. 2d 444 (1995)"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/180/0054-01"
+      ]
+    },
+    {
+      "cite": "947 P.2d 732",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1997,
+      "pin_cites": [
+        {
+          "parenthetical": "Durham, C.J., concurring"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "133 Wn.2d 769",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        331069
+      ],
+      "year": 1997,
+      "pin_cites": [
+        {
+          "page": "790-91",
+          "parenthetical": "Durham, C.J., concurring"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/133/0769-01"
+      ]
+    },
+    {
+      "cite": "277 P.3d 67",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2012,
+      "opinion_index": 0
+    },
+    {
+      "cite": "168 Wn. App. 462",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        4028906
+      ],
+      "year": 2012,
+      "pin_cites": [
+        {
+          "page": "469"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/168/0462-01"
+      ]
+    },
+    {
+      "cite": "661 P.2d 976",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1983,
+      "opinion_index": 0
+    },
+    {
+      "cite": "99 Wn.2d 302",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1145943
+      ],
+      "year": 1983,
+      "pin_cites": [
+        {
+          "page": "307"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/99/0302-01"
+      ]
+    },
+    {
+      "cite": "259 P.3d 190",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2011,
+      "pin_cites": [
+        {
+          "parenthetical": "plurality opinion"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "172 Wn.2d 398",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4017964
+      ],
+      "year": 2011,
+      "pin_cites": [
+        {
+          "page": "423",
+          "parenthetical": "plurality opinion"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/172/0398-01"
+      ]
+    },
+    {
+      "cite": "822 P.2d 795",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1992,
+      "opinion_index": 0
+    },
+    {
+      "cite": "63 Wn. App. 798",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        1732980
+      ],
+      "year": 1992,
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/63/0798-01"
+      ]
+    },
+    {
+      "cite": "869 P.2d 392",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1994,
+      "pin_cites": [
+        {
+          "parenthetical": "discussing State v. McCorkell, 63 Wn. App. 798, 801 n.1, 822 P.2d 795 (1992)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "123 Wn.2d 467",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        812809
+      ],
+      "year": 1994,
+      "pin_cites": [
+        {
+          "page": "479-80, 480",
+          "parenthetical": "discussing State v. McCorkell, 63 Wn. App. 798, 801 n.1, 822 P.2d 795 (1992)"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/123/0467-01"
+      ]
+    },
+    {
+      "cite": "186 P.2d 634",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1947,
+      "pin_cites": [
+        {
+          "parenthetical": "discussing an accused's constitutional right to have a jury trial in the county in which the charged offense was committed, Const, art. I, \u00a7 22, which was codified as former RCW 10.25.010"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "29 Wn.2d 182",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        2509700
+      ],
+      "year": 1947,
+      "pin_cites": [
+        {
+          "page": "188",
+          "parenthetical": "discussing an accused's constitutional right to have a jury trial in the county in which the charged offense was committed, Const, art. I, \u00a7 22, which was codified as former RCW 10.25.010"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/29/0182-01"
+      ]
+    },
+    {
+      "cite": "834 P.2d 609",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1992,
+      "opinion_index": 0
+    },
+    {
+      "cite": "119 Wn.2d 434",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1370290
+      ],
+      "year": 1992,
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/119/0434-01"
+      ]
+    },
+    {
+      "cite": "750 P.2d 1276",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1988,
+      "opinion_index": 0
+    },
+    {
+      "cite": "110 Wn.2d 249",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1182864
+      ],
+      "year": 1988,
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/110/0249-01"
+      ]
+    },
+    {
+      "cite": "254 P.3d 818",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2011,
+      "opinion_index": 0
+    },
+    {
+      "cite": "171 Wn.2d 726",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4015795
+      ],
+      "year": 2011,
+      "pin_cites": [
+        {
+          "page": "730"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/171/0726-01"
+      ]
+    },
+    {
+      "cite": "76 P.3d 1183",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "weight": 2,
+      "year": 2003,
+      "opinion_index": 0
+    },
+    {
+      "cite": "150 Wn.2d 310",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        9194503
+      ],
+      "year": 2003,
+      "pin_cites": [
+        {
+          "page": "317"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/150/0310-01"
+      ]
+    },
+    {
+      "cite": "25 P. 906",
+      "category": "reporters:state_regional",
+      "reporter": "P.",
+      "year": 1891,
+      "opinion_index": 0
+    },
+    {
+      "cite": "2 Wash. 1",
+      "category": "reporters:state",
+      "reporter": "Wash.",
+      "case_ids": [
+        6714162,
+        5256710
+      ],
+      "year": 1891,
+      "pin_cites": [
+        {
+          "page": "4"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/va/2/0605-01",
+        "/wash/2/0001-01"
+      ]
+    },
+    {
+      "cite": "263 P.2d 276",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1953,
+      "opinion_index": 0
+    },
+    {
+      "cite": "43 Wn.2d 657",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        5009236
+      ],
+      "year": 1953,
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/43/0657-01"
+      ]
+    },
+    {
+      "cite": "721 P.2d 950",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1986,
+      "opinion_index": 0
+    },
+    {
+      "cite": "106 Wn.2d 269",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1195541
+      ],
+      "year": 1986,
+      "pin_cites": [
+        {
+          "page": "276-77"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/106/0269-01"
+      ]
+    },
+    {
+      "cite": "984 P.2d 1041",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1999,
+      "pin_cites": [
+        {
+          "parenthetical": "conversion of collateral"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "96 Wn. App. 547",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        128507
+      ],
+      "year": 1999,
+      "pin_cites": [
+        {
+          "page": "549",
+          "parenthetical": "conversion of collateral"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/96/0547-01"
+      ]
+    },
+    {
+      "cite": "26 P. 76",
+      "category": "reporters:state_regional",
+      "reporter": "P.",
+      "year": 1891,
+      "pin_cites": [
+        {
+          "parenthetical": "conversion of trees"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "2 Wash. 117",
+      "category": "reporters:state",
+      "reporter": "Wash.",
+      "case_ids": [
+        5256723
+      ],
+      "weight": 3,
+      "year": 1891,
+      "pin_cites": [
+        {
+          "page": "122",
+          "parenthetical": "conversion of trees"
+        },
+        {
+          "page": "122"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash/2/0117-01"
+      ]
+    },
+    {
+      "cite": "635 P.2d 1109",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1981,
+      "pin_cites": [
+        {
+          "parenthetical": "contract for sale of a violin"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "30 Wn. App. 549",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        1826732
+      ],
+      "year": 1981,
+      "pin_cites": [
+        {
+          "page": "551",
+          "parenthetical": "contract for sale of a violin"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/30/0549-01"
+      ]
+    },
+    {
+      "cite": "121 P.2d 360",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1942,
+      "pin_cites": [
+        {
+          "parenthetical": "contract for sale of timber"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "12 Wn.2d 308",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        2557227
+      ],
+      "year": 1942,
+      "pin_cites": [
+        {
+          "page": "309-10",
+          "parenthetical": "contract for sale of timber"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/12/0308-01"
+      ]
+    },
+    {
+      "cite": "445 P.2d 334",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1968,
+      "pin_cites": [
+        {
+          "parenthetical": "contract for exchange of conveyances"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "74 Wn.2d 519",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1086624
+      ],
+      "year": 1968,
+      "pin_cites": [
+        {
+          "page": "520-21",
+          "parenthetical": "contract for exchange of conveyances"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/74/0519-01"
+      ]
+    },
+    {
+      "cite": "266 P. 156",
+      "category": "reporters:state_regional",
+      "reporter": "P.",
+      "year": 1928,
+      "opinion_index": 0
+    },
+    {
+      "cite": "147 Wash. 330",
+      "category": "reporters:state",
+      "reporter": "Wash.",
+      "case_ids": [
+        796428
+      ],
+      "weight": 3,
+      "year": 1928,
+      "pin_cites": [
+        {
+          "page": "331, 335-36"
+        },
+        {
+          "page": "336"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash/147/0330-01"
+      ]
+    },
+    {
+      "cite": "176 P. 352",
+      "category": "reporters:state_regional",
+      "reporter": "P.",
+      "year": 1918,
+      "opinion_index": 0
+    },
+    {
+      "cite": "104 Wash. 268",
+      "category": "reporters:state",
+      "reporter": "Wash.",
+      "case_ids": [
+        674949
+      ],
+      "weight": 3,
+      "year": 1918,
+      "pin_cites": [
+        {
+          "page": "269"
+        },
+        {
+          "page": "274"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash/104/0268-01"
+      ]
+    },
+    {
+      "cite": "186 P.3d 1032",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2008,
+      "pin_cites": [
+        {
+          "parenthetical": "\"We will avoid deciding constitutional questions where a case may be fairly resolved on other grounds.\""
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "164 Wn.2d 35",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        3996364
+      ],
+      "year": 2008,
+      "pin_cites": [
+        {
+          "page": "41",
+          "parenthetical": "\"We will avoid deciding constitutional questions where a case may be fairly resolved on other grounds.\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/164/0035-01"
+      ]
+    },
+    {
+      "cite": "272 P.3d 840",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2012,
+      "opinion_index": 0
+    },
+    {
+      "cite": "174 Wn.2d 131",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4022288
+      ],
+      "year": 2012,
+      "pin_cites": [
+        {
+          "page": "140"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/174/0131-01"
+      ]
+    },
+    {
+      "cite": "664 P.2d 1227",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1983,
+      "opinion_index": 0
+    },
+    {
+      "cite": "99 Wn.2d 815",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1145921
+      ],
+      "year": 1983,
+      "pin_cites": [
+        {
+          "page": "819"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/99/0815-01"
+      ]
+    },
+    {
+      "cite": "541 P.2d 989",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1975,
+      "opinion_index": 0
+    },
+    {
+      "cite": "86 Wn.2d 44",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1117407
+      ],
+      "year": 1975,
+      "pin_cites": [
+        {
+          "page": "47"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/86/0044-01"
+      ]
+    },
+    {
+      "cite": "101 U.S. 112",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        5630063
+      ],
+      "weight": 2,
+      "year": 1879,
+      "pin_cites": [
+        {
+          "page": "115-16"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/101/0112-01"
+      ]
+    },
+    {
+      "cite": "275 P. 81",
+      "category": "reporters:state_regional",
+      "reporter": "P.",
+      "year": 1929,
+      "pin_cites": [
+        {
+          "parenthetical": "quoting Market Co. v. Hoffman, 101 U.S. 112, 115-16, 25 L. Ed. 782 (1879)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "151 Wash. 175",
+      "category": "reporters:state",
+      "reporter": "Wash.",
+      "case_ids": [
+        816070
+      ],
+      "year": 1929,
+      "pin_cites": [
+        {
+          "page": "177",
+          "parenthetical": "quoting Market Co. v. Hoffman, 101 U.S. 112, 115-16, 25 L. Ed. 782 (1879)"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash/151/0175-01"
+      ]
+    },
+    {
+      "cite": "119 P.3d 840",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2005,
+      "opinion_index": 0
+    },
+    {
+      "cite": "155 Wn.2d 374",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        3766064
+      ],
+      "year": 2005,
+      "pin_cites": [
+        {
+          "page": "393"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/155/0374-01"
+      ]
+    },
+    {
+      "cite": "89 P.3d 217",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2004,
+      "opinion_index": 0
+    },
+    {
+      "cite": "151 Wn.2d 359",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        428154
+      ],
+      "year": 2004,
+      "pin_cites": [
+        {
+          "page": "367"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/151/0359-01"
+      ]
+    },
+    {
+      "cite": "215 P.3d 185",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2009,
+      "opinion_index": 0
+    },
+    {
+      "cite": "166 Wn.2d 912",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4001721
+      ],
+      "year": 2009,
+      "pin_cites": [
+        {
+          "page": "919"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/166/0912-01"
+      ]
+    },
+    {
+      "cite": "301 P.3d 1047",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2013,
+      "opinion_index": 0
+    },
+    {
+      "cite": "176 Wn.2d 1024",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "year": 2013,
+      "opinion_index": 0
+    },
+    {
+      "cite": "286 P.3d 992",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "weight": 2,
+      "year": 2012,
+      "opinion_index": 0
+    },
+    {
+      "cite": "171 Wn. App. 262",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        4069709
+      ],
+      "weight": 2,
+      "year": 2012,
+      "pin_cites": [
+        {
+          "page": "264"
+        },
+        {
+          "page": "265, 267"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/171/0262-01"
+      ]
+    },
+    {
+      "cite": "268 P.3d 892",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2011,
+      "opinion_index": 0
+    },
+    {
+      "cite": "173 Wn.2d 296",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4019900
+      ],
+      "year": 2011,
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/173/0296-01"
+      ]
+    },
+    {
+      "cite": "65 P.3d 1194",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2003,
+      "opinion_index": 0
+    },
+    {
+      "cite": "149 Wn.2d 29",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1292598
+      ],
+      "year": 2003,
+      "pin_cites": [
+        {
+          "page": "37"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/149/0029-01"
+      ]
+    },
+    {
+      "cite": "65 P.3d 1192",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2003,
+      "opinion_index": 0
+    },
+    {
+      "cite": "149 Wn.2d 130",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1292577
+      ],
+      "year": 2003,
+      "pin_cites": [
+        {
+          "page": "134"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/149/0130-01"
+      ]
+    },
+    {
+      "cite": "165 P.2d 82",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1946,
+      "opinion_index": 0
+    },
+    {
+      "cite": "24 Wn.2d 401",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        2538300
+      ],
+      "weight": 2,
+      "year": 1946,
+      "pin_cites": [
+        {
+          "page": "409"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/24/0401-01"
+      ]
+    },
+    {
+      "cite": "296 P.2d 305",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1956,
+      "opinion_index": 0
+    },
+    {
+      "cite": "48 Wn.2d 637",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        996470
+      ],
+      "weight": 2,
+      "year": 1956,
+      "pin_cites": [
+        {
+          "page": "639"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/48/0637-01"
+      ]
+    },
+    {
+      "cite": "Cal. Crv. Proc. Code \u00a7 760.050",
+      "category": "laws:leg_statute",
+      "reporter": "Cal. Code",
+      "pin_cites": [
+        {
+          "page": "(a)",
+          "parenthetical": "proper county for the trial of an action to quiet title is the county in which the real property is located"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "Tex. Crv. Prac. & Rem. Code Ann. \u00a7 15.011",
+      "category": "laws:leg_statute",
+      "reporter": "Tex. Code Ann.",
+      "pin_cites": [
+        {
+          "parenthetical": "actions for recovery of real property or an estate or interest in real property or to quiet title to real property shall be brought in the county in which all or a part of the property is located."
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "Wyo. Stat. Ann. \u00a7 34-5-101",
+      "category": "laws:leg_statute",
+      "reporter": "Wyo. Stat. Ann.",
+      "pin_cites": [
+        {
+          "parenthetical": "Actions for the recovery of, the partition of, or for the sale of real property shall be brought in the county in which the subject of the action is situated."
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "Or. Rev. Stat. \u00a7 14.040",
+      "category": "laws:leg_statute",
+      "reporter": "Or. Rev. Stat.",
+      "pin_cites": [
+        {
+          "parenthetical": "Actions for the recovery of real property and suits for the determination of an adverse claim estate or interest in real property shall be commenced and tried in the county in which the subject of the action or suit, or some part thereof, is situated."
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "N.D. Cent. Code \u00a7 28-04-01",
+      "category": "laws:leg_statute",
+      "reporter": "N.D. Cent. Code",
+      "pin_cites": [
+        {
+          "parenthetical": "Any action for the recovery of real property, or an estate therein, or for the determination in any form or such interest must be brought in the county in which the subject matter of the action or some part thereof is situated."
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "Neb. Rev. Stat. \u00a7 25-401",
+      "category": "laws:leg_statute",
+      "reporter": "Neb. Rev. Stat.",
+      "pin_cites": [
+        {
+          "parenthetical": "Actions for the recovery of, partition of, or sale of real property must be brought in the county in which the subject of the action is situated."
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "Mo. Rev. Stat. \u00a7 508.030",
+      "category": "laws:leg_statute",
+      "reporter": "Mo. Rev. Stat.",
+      "pin_cites": [
+        {
+          "parenthetical": "Suits for the possession of real estate, or whereby the title thereto may be affected ... shall be brought in the county where such real estate, or some part thereof, is situated."
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "Fla. Stat. \u00a7 65.061",
+      "category": "laws:leg_statute",
+      "reporter": "Fla. Stat.",
+      "pin_cites": [
+        {
+          "parenthetical": "quiet title complaint may be filed in any county in which any part of the land is situated"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "Ark. Code Ann. \u00a7 18-60-502",
+      "category": "laws:leg_statute",
+      "reporter": "Ark. Code Ann.",
+      "pin_cites": [
+        {
+          "parenthetical": "A claimant shall file in the office of the clerk in the circuit court of the county in which the land is situated a petition describing the land and stating facts that show a prima facie right and title to the land."
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "Ala. Code \u00a7 6-6-560",
+      "category": "laws:leg_statute",
+      "reporter": "Ala. Code",
+      "pin_cites": [
+        {
+          "parenthetical": "Any person claiming to own lands or an interest therein may file a verified complaint in the circuit court of the county in which such lands lie to establish the right or title to such lands and to clear up all doubts or disputes concerning the same."
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "59 Miss. 320",
+      "category": "reporters:state",
+      "reporter": "Miss.",
+      "case_ids": [
+        1641904
+      ],
+      "year": 1881,
+      "pin_cites": [
+        {
+          "page": "323",
+          "parenthetical": "equity was never \"hampered by distinctions of local and transitory causes of action\""
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/miss/59/0320-01"
+      ]
+    },
+    {
+      "cite": "7 P. 550",
+      "category": "reporters:state_regional",
+      "reporter": "P.",
+      "year": 1885,
+      "opinion_index": 1
+    },
+    {
+      "cite": "33 Kan. 726",
+      "category": "reporters:state",
+      "reporter": "Kan.",
+      "case_ids": [
+        8865178
+      ],
+      "year": 1885,
+      "pin_cites": [
+        {
+          "page": "726"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/kan/33/0726-01"
+      ]
+    },
+    {
+      "cite": "167 U.S. 178",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3595182
+      ],
+      "weight": 3,
+      "year": 1897,
+      "pin_cites": [
+        {
+          "parenthetical": "action for damages for the conversion of personal property is a personal and transitory action"
+        },
+        {
+          "parenthetical": "action for damages for the conversion of personal property is a personal and transitory action"
+        },
+        {
+          "parenthetical": "action for damages for the conversion of personal property is a personal and transitory action"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/167/0178-01"
+      ]
+    },
+    {
+      "cite": "21 P. 29",
+      "category": "reporters:state_regional",
+      "reporter": "P.",
+      "year": 1889,
+      "pin_cites": [
+        {
+          "parenthetical": "referring to action to establish title to personal property as transitory"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "1 Wash. 559",
+      "category": "reporters:state",
+      "reporter": "Wash.",
+      "case_ids": [
+        8531206
+      ],
+      "year": 1889,
+      "pin_cites": [
+        {
+          "page": "560",
+          "parenthetical": "referring to action to establish title to personal property as transitory"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash/1/0559-01"
+      ]
+    },
+    {
+      "cite": "112 P. 932",
+      "category": "reporters:state_regional",
+      "reporter": "P.",
+      "year": 1911,
+      "pin_cites": [
+        {
+          "parenthetical": "explaining that actions for injuries to real estate are generally local, while action for injuries to persons or to personal property are transitory"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "62 Wash. 12",
+      "category": "reporters:state",
+      "reporter": "Wash.",
+      "case_ids": [
+        613138
+      ],
+      "weight": 2,
+      "year": 1911,
+      "pin_cites": [
+        {
+          "page": "21-22",
+          "parenthetical": "explaining that actions for injuries to real estate are generally local, while action for injuries to persons or to personal property are transitory"
+        },
+        {
+          "page": "21"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash/62/0012-01"
+      ]
+    },
+    {
+      "cite": "743 F.2d 503",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        607716
+      ],
+      "weight": 2,
+      "year": 1984,
+      "pin_cites": [
+        {
+          "page": "506",
+          "parenthetical": "\"in order to provide in rem relief, the court must have jurisdiction over the real property at issue, and a local action must therefore be brought in the jurisdiction in which that real property is located\""
+        },
+        {
+          "page": "508",
+          "parenthetical": "determinative element in distinguishing a local action from a transitory action is whether the type of relief requested is of a \" 'personal' \" nature"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/f2d/743/0503-01"
+      ]
+    },
+    {
+      "cite": "269 F.2d 345",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1969999
+      ],
+      "year": 1959,
+      "pin_cites": [
+        {
+          "parenthetical": "stating without explanation that a Louisiana federal court would not have subject matter jurisdiction over a suit involving property in Mississippi"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/f2d/269/0345-01"
+      ]
+    },
+    {
+      "cite": "150 P.2d 604",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1944,
+      "opinion_index": 1
+    },
+    {
+      "cite": "20 Wn.2d 740",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        2596716
+      ],
+      "year": 1944,
+      "pin_cites": [
+        {
+          "page": "807"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/20/0740-01"
+      ]
+    },
+    {
+      "cite": "407 F. Supp. 13",
+      "category": "reporters:federal",
+      "reporter": "F. Supp.",
+      "case_ids": [
+        3848057
+      ],
+      "weight": 2,
+      "year": 1976,
+      "pin_cites": [
+        {
+          "page": "15",
+          "parenthetical": "local action rule exists for salutary reasons"
+        },
+        {
+          "page": "15-16"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/f-supp/407/0013-01"
+      ]
+    },
+    {
+      "cite": "821 F.2d 285",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1699788
+      ],
+      "weight": 2,
+      "year": 1987,
+      "pin_cites": [
+        {
+          "page": "290"
+        },
+        {
+          "page": "290",
+          "parenthetical": "local action rule concerns subject matter jurisdiction"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/f2d/821/0285-01"
+      ]
+    },
+    {
+      "cite": "217 P.3d 1172",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2009,
+      "pin_cites": [
+        {
+          "parenthetical": "doctrine of stare decisis requires us to adhere to an established rule unless there is a clear showing that rule is incorrect and harmful"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "167 Wn.2d 341",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4004550
+      ],
+      "year": 2009,
+      "pin_cites": [
+        {
+          "page": "343",
+          "parenthetical": "doctrine of stare decisis requires us to adhere to an established rule unless there is a clear showing that rule is incorrect and harmful"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/167/0341-01"
+      ]
+    },
+    {
+      "cite": "101 Cal. Rptr. 745",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr.",
+      "year": 1972,
+      "pin_cites": [
+        {
+          "parenthetical": "\"the term 'jurisdiction' carries a variety of meanings\""
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "496 P.2d 817",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1972,
+      "pin_cites": [
+        {
+          "parenthetical": "\"the term 'jurisdiction' carries a variety of meanings\""
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "7 Cal. 3d 94",
+      "category": "reporters:state",
+      "reporter": "Cal. 3d",
+      "case_ids": [
+        2277346
+      ],
+      "year": 1972,
+      "pin_cites": [
+        {
+          "page": "120",
+          "parenthetical": "\"the term 'jurisdiction' carries a variety of meanings\""
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/cal-3d/7/0094-01"
+      ]
+    },
+    {
+      "cite": "918 P.2d 916",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1996,
+      "opinion_index": 1
+    },
+    {
+      "cite": "129 Wn.2d 485",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        904195
+      ],
+      "year": 1996,
+      "pin_cites": [
+        {
+          "page": "496"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/129/0485-01"
+      ]
+    },
+    {
+      "cite": "592 P.2d 667",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1979,
+      "pin_cites": [
+        {
+          "parenthetical": "decree creating the lien was never \" 'recorded in the office of the recording officer of the county where the property is situated' \" as required by statute in order to give rise to a claim of constructive notice to the purchaser (quoting RCW 65.08.070)"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "22 Wn. App. 817",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        467107
+      ],
+      "year": 1979,
+      "pin_cites": [
+        {
+          "page": "821",
+          "parenthetical": "decree creating the lien was never \" 'recorded in the office of the recording officer of the county where the property is situated' \" as required by statute in order to give rise to a claim of constructive notice to the purchaser (quoting RCW 65.08.070)"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-app/22/0817-01"
+      ]
+    },
+    {
+      "cite": "211 P.2d 1005",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1949,
+      "opinion_index": 1
+    },
+    {
+      "cite": "35 Wn.2d 215",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4922510
+      ],
+      "year": 1949,
+      "pin_cites": [
+        {
+          "page": "217"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/35/0215-01"
+      ]
+    },
+    {
+      "cite": "21 Wn.2d 907",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        2603286
+      ],
+      "year": 1945,
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/21/0907-01"
+      ]
+    },
+    {
+      "cite": "94 P.2d 505",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1939,
+      "opinion_index": 1
+    },
+    {
+      "cite": "200 Wash. 632",
+      "category": "reporters:state",
+      "reporter": "Wash.",
+      "case_ids": [
+        484853
+      ],
+      "year": 1939,
+      "pin_cites": [
+        {
+          "page": "635"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash/200/0632-01"
+      ]
+    },
+    {
+      "cite": "246 P.2d 474",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1952,
+      "opinion_index": 1
+    },
+    {
+      "cite": "40 Wn.2d 734",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4979430
+      ],
+      "year": 1952,
+      "pin_cites": [
+        {
+          "page": "736"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/40/0734-01"
+      ]
+    },
+    {
+      "cite": "153 P. 7",
+      "category": "reporters:state_regional",
+      "reporter": "P.",
+      "year": 1915,
+      "opinion_index": 1
+    },
+    {
+      "cite": "88 Wash. 344",
+      "category": "reporters:state",
+      "reporter": "Wash.",
+      "case_ids": [
+        649069
+      ],
+      "year": 1915,
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash/88/0344-01"
+      ]
+    },
+    {
+      "cite": "15 F. Cas. 660",
+      "category": "reporters:federal",
+      "reporter": "F. Cas.",
+      "case_ids": [
+        6623509
+      ],
+      "weight": 4,
+      "year": 1811,
+      "pin_cites": [
+        {
+          "page": "665",
+          "parenthetical": "No. 8,411"
+        },
+        {
+          "page": "664"
+        },
+        {
+          "page": "664",
+          "parenthetical": "No. 8,411"
+        },
+        {
+          "page": "664",
+          "parenthetical": "\"actions are deemed transitory, where transactions on which they are founded, might have taken place anywhere; but are local where their cause is in its nature necessarily local\""
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/f-cas/15/0660-01"
+      ]
+    },
+    {
+      "cite": "199 P.2d 581",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1948,
+      "opinion_index": 1
+    },
+    {
+      "cite": "31 Wn.2d 834",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        2497025
+      ],
+      "year": 1948,
+      "pin_cites": [
+        {
+          "page": "839"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/31/0834-01"
+      ]
+    },
+    {
+      "cite": "3 P. 612",
+      "category": "reporters:state_regional",
+      "reporter": "P.",
+      "year": 1881,
+      "opinion_index": 1
+    },
+    {
+      "cite": "2 Wash. Terr. 64",
+      "category": "reporters:state",
+      "reporter": "Wash. Terr.",
+      "case_ids": [
+        1825964
+      ],
+      "weight": 2,
+      "year": 1881,
+      "pin_cites": [
+        {
+          "page": "69"
+        },
+        {
+          "page": "69"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-terr/2/0064-01"
+      ]
+    },
+    {
+      "cite": "92 P. 267",
+      "category": "reporters:state_regional",
+      "reporter": "P.",
+      "weight": 2,
+      "year": 1907,
+      "opinion_index": 1
+    },
+    {
+      "cite": "47 Wash. 450",
+      "category": "reporters:state",
+      "reporter": "Wash.",
+      "case_ids": [
+        1295701
+      ],
+      "weight": 2,
+      "year": 1907,
+      "pin_cites": [
+        {
+          "page": "451-52"
+        },
+        {
+          "page": "451-52"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash/47/0450-01"
+      ]
+    },
+    {
+      "cite": "67 P.2d 927",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1937,
+      "opinion_index": 1
+    },
+    {
+      "cite": "190 Wash. 294",
+      "category": "reporters:state",
+      "reporter": "Wash.",
+      "case_ids": [
+        1281074
+      ],
+      "year": 1937,
+      "pin_cites": [
+        {
+          "page": "299"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash/190/0294-01"
+      ]
+    },
+    {
+      "cite": "156 P.2d 235",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1945,
+      "opinion_index": 1
+    },
+    {
+      "cite": "153 P.2d 856",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1944,
+      "opinion_index": 1
+    },
+    {
+      "cite": "21 Wn.2d 902",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        2602961
+      ],
+      "year": 1944,
+      "pin_cites": [
+        {
+          "page": "904"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/21/0902-01"
+      ]
+    },
+    {
+      "cite": "661 P.2d 976",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "weight": 2,
+      "year": 1983,
+      "opinion_index": 1
+    },
+    {
+      "cite": "99 Wn.2d 302",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1145943
+      ],
+      "year": 1983,
+      "pin_cites": [
+        {
+          "page": "307"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/99/0302-01"
+      ]
+    },
+    {
+      "cite": "259 P.3d 190",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2011,
+      "pin_cites": [
+        {
+          "parenthetical": "plurality opinion"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "172 Wn.2d 398",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4017964
+      ],
+      "year": 2011,
+      "pin_cites": [
+        {
+          "page": "423",
+          "parenthetical": "plurality opinion"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/172/0398-01"
+      ]
+    },
+    {
+      "cite": "63 Wn. App. 798",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        1732980
+      ],
+      "year": 1992,
+      "pin_cites": [
+        {
+          "page": "801"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-app/63/0798-01"
+      ]
+    },
+    {
+      "cite": "869 P.2d 392",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1994,
+      "opinion_index": 1
+    },
+    {
+      "cite": "123 Wn.2d 467",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        812809
+      ],
+      "year": 1994,
+      "pin_cites": [
+        {
+          "page": "479-80"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/123/0467-01"
+      ]
+    },
+    {
+      "cite": "186 P.2d 634",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1947,
+      "opinion_index": 1
+    },
+    {
+      "cite": "29 Wn.2d 182",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        2509700
+      ],
+      "year": 1947,
+      "pin_cites": [
+        {
+          "page": "188"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/29/0182-01"
+      ]
+    },
+    {
+      "cite": "76 P.3d 1183",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2003,
+      "pin_cites": [
+        {
+          "parenthetical": "subject matter jurisdiction is the authority to hear and determine the class of action to which the case belongs"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "150 Wn.2d 310",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        9194503
+      ],
+      "year": 2003,
+      "pin_cites": [
+        {
+          "page": "317",
+          "parenthetical": "subject matter jurisdiction is the authority to hear and determine the class of action to which the case belongs"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/150/0310-01"
+      ]
+    },
+    {
+      "cite": "263 P.2d 276",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1953,
+      "opinion_index": 1
+    },
+    {
+      "cite": "43 Wn.2d 657",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        5009236
+      ],
+      "year": 1953,
+      "pin_cites": [
+        {
+          "page": "665"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/43/0657-01"
+      ]
+    },
+    {
+      "cite": "984 P.2d 1041",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1999,
+      "opinion_index": 1
+    },
+    {
+      "cite": "96 Wn. App. 547",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        128507
+      ],
+      "weight": 2,
+      "year": 1999,
+      "pin_cites": [
+        {
+          "page": "555"
+        },
+        {
+          "page": "558",
+          "parenthetical": "conversion action seeking exclusively monetary recovery \"is in personam and transitory in nature\""
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-app/96/0547-01"
+      ]
+    },
+    {
+      "cite": "26 P. 76",
+      "category": "reporters:state_regional",
+      "reporter": "P.",
+      "year": 1891,
+      "pin_cites": [
+        {
+          "parenthetical": "RCW 4.12.010 not \"merely directory\""
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "2 Wash. 117",
+      "category": "reporters:state",
+      "reporter": "Wash.",
+      "case_ids": [
+        5256723
+      ],
+      "weight": 4,
+      "year": 1891,
+      "pin_cites": [
+        {
+          "page": "120-21",
+          "parenthetical": "RCW 4.12.010 not \"merely directory\""
+        },
+        {
+          "page": "122"
+        },
+        {
+          "page": "123-24",
+          "parenthetical": "Hoyt, J., dissenting"
+        },
+        {
+          "page": "120-21"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash/2/0117-01"
+      ]
+    },
+    {
+      "cite": "65 P.3d 1194",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2003,
+      "pin_cites": [
+        {
+          "parenthetical": "action \" 'may' \" be commenced in superior court of such county or court of two nearest counties (quoting former RCW 36.01.050 (1963))"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "149 Wn.2d 29",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1292598
+      ],
+      "year": 2003,
+      "pin_cites": [
+        {
+          "page": "33",
+          "parenthetical": "action \" 'may' \" be commenced in superior court of such county or court of two nearest counties (quoting former RCW 36.01.050 (1963))"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/149/0029-01"
+      ]
+    },
+    {
+      "cite": "65 P.3d 1192",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2003,
+      "pin_cites": [
+        {
+          "parenthetical": "party \" 'shall have the option' \" of suing in county where action arose or county where defendant resides (quoting former RCW 2.14.020(3) (1941))"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "149 Wn.2d 130",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1292577
+      ],
+      "year": 2003,
+      "pin_cites": [
+        {
+          "page": "133",
+          "parenthetical": "party \" 'shall have the option' \" of suing in county where action arose or county where defendant resides (quoting former RCW 2.14.020(3) (1941))"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/149/0130-01"
+      ]
+    },
+    {
+      "cite": "165 P.2d 82",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1946,
+      "opinion_index": 1
+    },
+    {
+      "cite": "24 Wn.2d 401",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        2538300
+      ],
+      "year": 1946,
+      "pin_cites": [
+        {
+          "page": "409"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/24/0401-01"
+      ]
+    },
+    {
+      "cite": "296 P.2d 305",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1956,
+      "opinion_index": 1
+    },
+    {
+      "cite": "48 Wn.2d 637",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        996470
+      ],
+      "year": 1956,
+      "pin_cites": [
+        {
+          "page": "639-40"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/48/0637-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 2149,
+    "char_count": 60768,
+    "ocr_confidence": 0.742,
+    "pagerank": {
+      "raw": 8.075045412068006e-08,
+      "percentile": 0.4668822390803479
+    },
+    "sha256": "eb7881b32e0197d488da60acdb91c5a49bb124aef3f70d009c9c4d9efa9ac040",
+    "simhash": "1:9d92cc016a251b0c",
+    "word_count": 9980
+  },
+  "last_updated": "2024-02-27T17:34:40.830885+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "C. Johnson, Owens, Fairhurst, and Gonz\u00e1lez, JJ., concur.",
+      "Madsen, C. J.; Gordon McCloud, J.; and J.M. Johnson, J. Pro Tem., concur with Wiggins, J."
+    ],
+    "parties": [
+      "William Ralph, Petitioner, v. The Department of Natural Resources, Respondent. William Forth et al., Petitioners, v. The Department of Natural Resources et al., Respondents."
+    ],
+    "opinions": [
+      {
+        "text": "Stephens, J.\n\u00b6 1 Petitioners William Ralph and William Forth et al. (Forth) appeal the dismissal of their separate actions against the State of Washington Department of Natural Resources, Weyerhaeuser Company, and Green Diamond Resource Company (collectively DNR). Their suits, filed in Rang County Superior Court, seek monetary damages for the flooding of real property located in Lewis County. At issue is the distinction between venue and jurisdiction, in the context of a statute providing that actions \u201cfor any injuries to real property\u201d \u201cshall be commenced\u201d in the county in which the property is located. RCW 4.12.010(1). Case law from the 1940s and 1950s held that RCW 4.12.010 is jurisdictional, so that an improperly commenced action must be dismissed if filed in a superior court outside the local county. See, e.g., Snyder v. Ingram, 48 Wn.2d 637, 639, 296 P.2d 305 (1956); Cugini v. Apex Mercury Mining Co., 24 Wn.2d 401, 409, 165 P.2d 82 (1946). More recently, we have interpreted similar (though not identical) statutes to prescribe only venue in light of article IV, section 6 of the Washington State Constitution, which grants universal original subject matter jurisdiction to the superior courts. See Young v. Clark, 149 Wn.2d 130, 134, 65 P.3d 1192 (2003); Shoop v. Kittitas County, 149 Wn.2d 29, 37, 65 P.3d 1194 (2003). In dicta in Five Corners Family Farmers v. State, 173 Wn.2d 296, 315 n.5, 268 P.3d 892 (2011), we suggested that we might need to reconsider our earlier precedent. Today, we do just that and hold RCW 4.12.010 relates to venue, not jurisdiction. We reverse and remand for further proceedings.\nFACTS AND PROCEDURAL HISTORY\n\u00b62 In December 2007, heavy rains caused the Chehalis River to overflow its banks, resulting in widespread flooding in Lewis County. Ralph v. Dep\u2019t of Nat. Res., 171 Wn. App. 262, 264, 286 P.3d 992 (2012). The properties of Ralph and Forth were among those affected. Id. Ralph and Forth filed separate suits in King County Superior Court against DNR, alleging negligence; trespass; tortious interference with contractual relations and business expectancies; conversion; inverse condemnation; unlawful agency action; and violations of the Shoreline Management Act of 1971, chapter 90.58 RCW, and the State Environmental Policy Act, chapter 43.21C RCW. Id. at 264-65. Ralph and Forth assert that DNR\u2019s poor forestry practices made its land unstable, thereby allowing landslides to form and debris to flow into the Chehalis River, which in turn displaced river water, flooded the river basin, and caused damage to their property. Id. at 265.\n\u00b63 The King County Superior Court dismissed these complaints on the ground that it lacked subject matter jurisdiction under RCW 4.12.010(1), which requires actions \u201cfor any injuries to real property\u201d \u201cbe commenced in the county in which the subject of the action, or some part thereof, is situated.\u201d Ralph and Forth appealed to Division One of the Court of Appeals, arguing the trial court should have transferred rather than dismissed their actions because RCW 4.12.010 concerns venue, not jurisdiction, and because the statute did not apply to their claims. Id. The Court of Appeals consolidated the cases and affirmed the trial court\u2019s dismissal. Id. at 265, 270. We granted discretionary review. Ralph v. Dep\u2019t of Nat. Res., 176 Wn.2d 1024, 301 P.3d 1047 (2013).\nANALYSIS\n\u00b64 This case asks us to determine whether RCW 4.12-.010(1) applies to tort actions for monetary damages and whether its filing requirements relate to venue or jurisdiction in light of article IV, section 6. RCW 4.12.010 provides in pertinent part:\nActions for the following causes shall he commenced in the county in which the subject of the action, or some part thereof, is situated:\n(1) For the recovery of, for the possession of, for the partition of, for the foreclosure of a mortgage on, or for the determination of all questions affecting the title, or for any injuries to real property.[]\n(Emphasis added.) The trial court held RCW 4.12.010 applies to Ralph\u2019s and Forth\u2019s actions, requiring suit be filed in Lewis County (not King County), and dismissed their actions for lack of subject matter jurisdiction. The Court of Appeals affirmed.\n\u00b65 We review questions of statutory interpretation de novo. Dot Foods, Inc. v. Dep\u2019t of Revenue, 166 Wn.2d 912, 919, 215 P.3d 185 (2009). Our \u201cfundamental objective in construing a statute is to ascertain and carry out the legislature\u2019s intent.\u201d Arborwood Idaho, LLC v. City of Kennewick, 151 Wn.2d 359, 367, 89 P.3d 217 (2004). In doing so, we cannot \u201csimply ignore\u201d express terms. In re Parentage of J.M.K, 155 Wn.2d 374, 393, 119 P.3d 840 (2005). We must interpret a statute as a whole so that, if possible, \u201c \u2018no clause, sentence, or word shall be superfluous, void, or insignificant.\u2019 \u201d State ex rel. Baisden v. Preston, 151 Wash. 175, 177, 275 P. 81 (1929) (quoting Market Co. v. Hoffman, 101 U.S. 112, 115-16, 25 L. Ed. 782 (1879)). Additionally, \u201c[i]f the legislature uses a term well known to the common law, it is presumed that the legislature intended to mean what it was understood to mean at common law.\u201d N. Y. Life Ins. Co. v. Jones, 86 Wn.2d 44, 47, 541 P.2d 989 (1975). And, when the constitutionality of a statute is in question, \u201cevery presumption favors the validity of an act of the Legislature, all doubts must be resolved in support of the act, and it will not be declared unconstitutional unless it clearly appears to be so.\u201d Grant v. Spellman, 99 Wn.2d 815, 819, 664 P.2d 1227 (1983). Similarly, \u201c[w]here our precedents contain language at odds with the constitutional powers of the superior courts, the constitution prevails.\u201d State v. Posey, 174 Wn.2d 131, 140, 272 P.3d 840 (2012).\n\u00b66 Because consideration of Ralph and Forth\u2019s contention that RCW 4.12.010 does not apply to their cases may avoid deciding a constitutional question, we examine it first. See Cmty. Telecable of Seattle, Inc. v. City of Seattle, Dep\u2019t of Exec. Admin., 164 Wn.2d 35, 41, 186 P.3d 1032 (2008) (\u201cWe will avoid deciding constitutional questions where a case may be fairly resolved on other grounds.\u201d).\nI. Actions for Monetary Relief for Damages to Real Property Are Actions \u201cfor Injuries to Real Property\u201d\n\u00b67 Ralph and Forth contend that RCW 4.12.010 applies only to local actions, requiring that we construe its application to \u201cany injuries to real property\u201d narrowly so as to encompass only injuries that affect title to real property and not actions for monetary damages, which they consider to be transitory. Both the trial court and Court of Appeals rejected this argument. Ralph, 171 Wn. App. at 265, 267. So do we.\n\u00b68 RCW 4.12.010(1) expressly distinguishes between actions for \u201cthe determination of all questions affecting the title\u201d and actions for \u201cany injuries to real property\u201d and states that it applies to both. Limiting \u201cany injuries\u201d to injuries to title, as Ralph and Forth suggest, ignores the statute\u2019s broad language and renders a category of actions superfluous because the statute already applies to \u201cquestions affecting . . . title.\u201d RCW 4.12.010. By its plain terms, the statute encompasses more than injuries to title. It applies to \u201cany injuries to real property,\u201d including actions for monetary damages to real property.\n\u00b69 Our broader reading is consistent with the fact that RCW 4.12.010 is rooted in the common law, which has historically considered actions for damages to real property resulting from trespass to be injuries to real property that are local in nature unless grounded in contract. 2 Blackstone\u2019s Commentaries *294 n.3 (George Sharswood ed., 1876) (noting that \u201c[a]ctions for every kind of injury to real property are local, as for nuisances, waste, [etc.], unless there be some contract between the parties, on which to ground the action\u201d); 1 Joseph Chitty et al., A Treatise on Pleading and to Actions 268 (11th Amer. ed. 1851) (\u201cSo actions, though merely for damages, occasioned by injuries to real property, are local, as trespass or case for nuisances ... or waste, [etc.] to houses [or] lands . . . unless there were some contract between the parties on which to ground the action\u201d). Even in Blackstone\u2019s day, it was required that in \u201clocal actions, where possession of land is to be recovered, or damages for an actual trespass, or for waste, [etc.] affecting land, the plaintiff must lay his declaration or declare his injury to have happened in the very county and place that it really did happen.\u201d 3 William Blackstone, Commentaries *294 (second emphasis added).\n\u00b610 In accord with the common law, we have held that actions seeking damages for injuries to real property from flooding fall within the purview of RCW 4.12.010\u2019s predecessor, Remington\u2019s 1915 Code section 204. See State ex rel. King County v. Superior Court, 104 Wash. 268, 176 P. 352 (1918); see also N. Bend Lumber Co. v. City of Seattle, 147 Wash. 330, 266 P. 156 (1928). In State ex rel. King County, a meat company brought an action against King County for \u201cdamages alleged to have been suffered by the wrongful, careless and negligent deflection of the stream against the banks and shores bounding the property of the meat company.\u201d 104 Wash. at 269. We held that section 204 applies, requiring the action be commenced in King County. Id. at 274. We similarly held in North Bend Lumber Co. that a negligence action arising from damages to a mill plant from impounding waters of the Cedar River is local, not transitory. 147 Wash. at 331, 335-36. Ralph\u2019s and Forth\u2019s present actions for damages to their property from flooding are indistinguishable.\n\u00b611 Ralph and Forth nevertheless insist that claims seeking monetary damages for injuries to real and personal property are personal, transitory actions outside the ambit of RCW 4.12.010. Appellants\u2019 Br. at 16-20. None of the cases on which they rely support their contention. Most involve contract claims, which have always been treated differently under common law. See Silver Surprize, Inc. v. Sunshine Mining Co., 74 Wn.2d 519, 520-21, 445 P.2d 334 (1968) (contract for exchange of conveyances); State ex rel. U.S. Tr. Co. v. Phillips, 12 Wn.2d 308, 309-10, 121 P.2d 360 (1942) (contract for sale of timber); Shelton v. Farkas, 30 Wn. App. 549, 551, 635 P.2d 1109 (1981) (contract for sale of a violin). And their reliance on McLeod v. Ellis, 2 Wash. 117, 122, 26 P. 76 (1891) (conversion of trees), and Washington State Bank v. Medalia Healthcare, LLC, 96 Wn. App. 547, 549, 984 P.2d 1041 (1999) (conversion of collateral), is unavailing because a conversion action is not the same as a claim for injuries to land. McLeod, 2 Wash. at 122.\n\u00b612 Ralph and Forth further argue that even if the legislature intended RCW 4.12.010 to apply to claims for monetary damages when it was first enacted, it is an anachronism and should therefore be interpreted narrowly to apply only to claims related to title. Appellants\u2019 Br. at 21. We decline Ralph and Forth\u2019s invitation to impose a narrower construction as a matter of public policy. This argument is properly for the legislature and not us. \u201c \u2018Anachronistic doctrine\u2019 or not, the Legislature knew what it wanted and enacted it,\u201d and this statute must \u201cas with any other statute ... be construed to give effect to ... legislative intent.\u201d In re Estate of Little, 106 Wn.2d 269, 276-77, 721 P.2d 950 (1986).\n\u00b613 We conclude that RCW 4.12.010(1) applies to Ralph\u2019s and Forth\u2019s claims. Actions for damages to real property from flooding are properly considered \u201cinjuries to real property\u201d for purposes of RCW 4.12.010(1). This holding is consistent with the statute\u2019s plain language, the common law from which the statute derives, and our case law. We must therefore reach the question of whether RCW 4.12-.010 is a venue or jurisdictional statute and consider the implications of article IV, section 6 on this question.\nII. RCW 4.12.010 Relates to Venue and Not Jurisdiction\n\u00b614 Long ago, in Snyder, we held that RCW 4.12.010 is jurisdictional because it is \u201c \u2018jurisdictional in character.\u2019 \u201d 48 Wn.2d at 639 (quoting Cugini, 24 Wn.2d at 409 (dicta)). In so holding, we acknowledged vacillation in our interpretation of this statute, \u201csometimes interpreting it as a venue statute and other times as a jurisdictional statute,\u201d and declared that \u201cthis court is now committed to the doctrine that this is a jurisdictional statute, rather than one of venue.\u201d Id. at 638. We determined the statute was jurisdictional because under our case law, parties could not stipulate to the commencement of an action in another county and it \u201c \u2018must be dismissed for want of jurisdiction\u2019 \u201d if commenced in the wrong county. Id. at 639 (quoting Cugini, 24 Wn.2d at 409 and discussing Alaska Airlines v. Molitor, 43 Wn.2d 657, 263 P.2d 276 (1953)). Based on Snyder, it appears a superior court could exercise jurisdiction over certain local matters to the exclusion of other superior courts.\n\u00b615 Article IV, section 6 of our state constitution, however, states that a superior court \u201cshall... have original jurisdiction in all cases and of all proceedings in which jurisdiction shall not have been by law vested exclusively in some other court.\u201d Const, art. IV, \u00a7 6. We have interpreted this language as giving to the superior courts \u201cuniversal original jurisdiction, leaving the legislature to carve out from that jurisdiction the jurisdiction of . . . any other inferior courts that may be created.\u201d Moore v. Perrott, 2 Wash. 1, 4, 25 P. 906 (1891); see Posey, 174 Wn.2d at 136. In Young, we explained that article IV, section 6 prevents the legislature from limiting subject matter jurisdiction \u201cas among superior courts.\u201d 149 Wn.2d at 134. This is so because under article IV, section 6, \u201call superior courts . . . have the same authority to adjudicate the same \u2018types of controversies.\u2019 \u201d Dougherty v. Dep\u2019t of Labor & Indus., 150 Wn.2d 310, 317, 76 P.3d 1183 (2003). In Dougherty, \u201c[w]e rejected] the theory that subject matter jurisdiction of the superior court varies from county to county\u201d since \u201c[t]he \u2018type of case\u2019 is the same whether it is heard in Thurston County or some other county.\u201d Id. And, we have since affirmed that \u201c[w]here one state resident sues another in tort, the superior courts of Washington State have subject matter jurisdiction.\u201d Williams v. Leone & Keeble, Inc., 171 Wn.2d 726, 730, 254 P.3d 818 (2011).\n\u00b616 Although we said in Snyder that we were committed to our jurisdictional construction of RCW 4.12-.010, we never tested the validity of this construction against the backdrop of article IV, section 6. Since Snyder, we have reconsidered and overruled, in light of article IV, section 6, other decisions interpreting similar trial and filing restrictions as jurisdictional. See Young, 149 Wn.2d at 134 (overruling Aydelotte v. Audette, 110 Wn.2d 249, 750 P.2d 1276 (1988)); Shoop, 149 Wn.2d at 37 (overruling Cossel v. Skagit County, 119 Wn.2d 434, 834 P.2d 609 (1992)). In Young, we considered RCW 4.12.020\u2019s restriction on the filing of motor vehicle actions, which states that plaintiffs \u201c \u2018shall have the option of suing either in the county in which the cause of action or some part thereof arose, or in the county in which the defendant resides.\u2019 \u201d 149 Wn.2d at 132-33 (quoting former RCW 4.12.020(3) (1941)). We recognized that it could relate to either venue or jurisdiction and held it must relate to venue in light of article IV, section 6. Id. at 134. In Shoop, we similarly recognized former RCW 36.01.050\u2019s filing restrictions, providing that \u201c \u2018[a] 11 actions against any county may be commenced in the superior court of such county, or in the superior court of either of the two nearest counties,\u2019 \u201d could describe either jurisdiction or venue but that article IV, section 6 requires it be the latter. 149 Wn.2d at 35, 37.\n\u00b617 Together, Young and Shoop strongly suggest that our interpretation of any statute that restricts superior court jurisdiction must be read consistent with article IV, section 6 wherever possible. But, Young and Shoop involved different statutory language. They therefore do not resolve the question of whether a statute detailing where certain actions \u201cshall be commenced\u201d is susceptible to a constitutional construction. In construing RCW 4.12.010, however, we are not left entirely without guidance. We interpreted similar language in former RCW 10.25.010 (1891) (now CrR 5.1) restricting where an action \u201cshall be commenced\u201d in the criminal context, and we held that it described venue. See State v. Hardamon, 29 Wn.2d 182, 188, 186 P.2d 634 (1947) (discussing an accused\u2019s constitutional right to have a jury trial in the county in which the charged offense was committed, Const, art. I, \u00a7 22, which was codified as former RCW 10.25.010). More recently, we affirmed that this language relates to venue and held, absent situations triggering the strict limits of CrR 5.1(c), a defendant does not have to challenge venue immediately. State v. Dent, 123 Wn.2d 467, 479-80, 480, 869 P.2d 392 (1994) (discussing State v. McCorkell, 63 Wn. App. 798, 801 n.1, 822 P.2d 795 (1992)). Instead, \u201cthe defendant is required to raise the venue question at the omnibus hearing.\u201d Id. at 480. It stands to reason that the same \u201cshall be commenced\u201d language should be treated the same whether in the criminal or civil context, particularly when such treatment harmonizes RCW 4.12.010 with article IV, section 6.\n\u00b618 Treating RCW 4.12.010\u2019s restrictions as relating to venue also comports with the statutory framework from which the statute originated. The legislature originally enacted RCW 4.12.010 with RCW 4.12.030(1) and RCW 4.12.060 as part of a single scheme under the heading \u201cvenue.\u201d See Laws of 1854, \u00a7\u00a7 13, 16, at 133-34. Together, RCW 4.12.030(1) contemplates that actions will inevitably be filed in the wrong county and RCW 4.12.060 authorizes moving an improperly filed action \u201cto the county where the action ought to have been commenced.\u201d (Emphasis added.) This framework strongly suggests the legislature intended RCW 4.12.010\u2019s filing requirements to relate to venue, so that where an action has not been commenced in the proper county under RCW 4.12.010, the court in that county shall transfer it to the proper county pursuant to RCW 4.12.060. From inception, this scheme was complete, and it must be read as a whole. Bainbridge Island Police Guild v. City of Puyallup, 172 Wn.2d 398, 423, 259 P.3d 190 (2011) (plurality opinion) (\u201c \u2018Statutes in pari marteria should be harmonized so as to give force and effect to each and this rule applies with peculiar force to statutes passed at the same session of the Legislature.\u2019 \u201d (quoting Int'l Commercial Collectors, Inc. v. Carver, 99 Wn.2d 302, 307, 661 P.2d 976 (1983))).\n\u00b619 Recognizing RCW 4.12.010 as a modified venue statute is also consistent with how we have applied the statute in practice; we have never considered its filing restriction to be purely jurisdictional. Despite Snyder\u2019s \u201cjurisdictional\u201d tagline, courts have always been allowed, contrary to jurisdictional principles, to \u201cconfer\u201d their jurisdiction over a properly commenced action on another court. See Snyder, 48 Wn.2d at 639; Cugini, 24 Wn.2d at 409; N. Bend Lumber Co., 147 Wash. at 336. This answers the amici\u2019s and the dissent\u2019s concerns about the effect our decision will have on the ease of title searches. They caution that transforming RCW 4.12.010 into a venue statute will undermine real property transactions and title insurance, requiring interested parties to search the records of Washington\u2019s 38 counties. Amicus Curiae Br. of Wash. Land Title Ass\u2019n, Wash. Realtors, & Wash. Forest Prot. Ass\u2019n at 7. But, recognizing RCW 4.12.010\u2019s filing requirements as venue does not alter the title search landscape, and RCW 4.12.060 authorizes a timely transfer of venue.\n\u00b620 Moreover, while it may be more convenient for prospective buyers of real property to have all actions affecting title to such property resolved in the county where the property is located, the legislature does not always require this. Just the opposite is true. In many instances, the legislature has authorized courts to adjudicate matters affecting title to real property outside their geographical boundaries. RCW 6.32.240 and RCW 6.32.270 specifically authorize courts to resolve title disputes over \u201cany real property\u201d necessary to satisfy judgments entered by them. A&W Farms v. Cook, 168 Wn. App. 462, 469, 277 P.3d 67 (2012). And, in probate matters, the legislature has given to \u201c[t]he superior court of every county\u201d jurisdiction, RCW 11.96A.040(1), to resolve \u201c[a] 11 matters concerning the estates and assets of incapacitated, missing, and deceased persons,\u201d RCW 11.96A.020(1)(a), and states venue is proper in \u201cany county . . . the petitioner selects,\u201d RCW 11.96A-.050(4). These statutes recognize that the resolution of an action can involve multiple properties situated in different counties and that it would be impractical to require parties to litigate matters in different courts or inconvenient venues simply to protect the interests of prospective buyers and lenders. Instead, the legislature provides mechanisms outside of RCW 4.12.010 to protect interested persons and to facilitate the efficient transfer and resolution of real property matters. One example is RCW 4.28.150. This statute requires plaintiffs to record at the onset of litigation a lis pendens in each county where disputed property is located, on pain of potentially not being able to enforce their judgment. RCW 4.28.150. Neither amici nor the dissent provide any reason to suggest Washington\u2019s recording statutes provide insufficient notice to prospective buyers and lenders. And, in Cugini, we found none. 24 Wn.2d at 409 (rejecting the notion that a case affecting real property must be resolved in the county where such property is located in order to preserve the accuracy of title searches).\n\u00b621 Given our treatment of RCW 4.12.010 as relating to venue, the holding in Snyder \u2014 that it describes jurisdiction \u2014 cannot stand. Indeed, it is the \u201cjurisdictional\u201d label the court in Snyder gave to RCW 4.12.010 that has been the source of confusion. Today we discard the erroneous label and hold that RCW 4.12.010 relates to mandatory venue, not jurisdiction. This reading of the statute is consistent with our treatment of similar language in other statutes and court rules, avoids unnecessary constitutional conflict, and maintains the fundamental distinction between jurisdiction and venue.\n\u00b622 Our holding also aligns with common sense. \u201c \u2018Elevating procedural requirements to the level of jurisdictional imperative has little practical value and encourages trivial procedural errors to interfere with the court\u2019s ability to do substantive justice\u2019 \u201d by \u201callowing] a party to raise it at any time, even after judgment,\u201d resulting in potential \u201c \u2018abuse and ... a huge waste of judicial resources.\u2019 \u201d Dougherty, 150 Wn.2d at 319 (quoting Okanogan Wilderness League, Inc. v. Town of Twisp, 133 Wn.2d 769, 790-91, 947 P.2d 732 (1997) (Durham, C.J., concurring)). Because RCW 4.12.010 applies to personal property as well as real property, treatment of its filing requirements as jurisdictional has had the absurd effect of requiring plaintiffs to track moving objects and to synchronize the commencement of their actions with the present location of those objects. See RCW 4.12.010(2); Snyder, 48 Wn.2d at 638-42. Snyder aptly illustrates the difficulty. The property at issue in Snyder was a stolen car, a 1955 Buick. 48 Wn.2d at 637. Upon holding that the statute was jurisdictional, we concluded that the action was improperly filed (and consequently dismissed it for lack of jurisdiction) because the Buick was in Chelan County, not King County, at the time the case commenced. Id. at 638, 642. Interpreting RCW 4.12.010 to relate to venue removes any incentive for parties to play a shell game with moveable property; an improperly commenced action would simply be transferred to the proper county, not dismissed.\n\u00b623 Our holding in Snyder \u2014 that RCW 4.12.010 was jurisdictional \u2014 was made without the benefit of an article IV, section 6 analysis. We may \u201creconsider our precedent not only when it has been shown to be incorrect and harmful but also when the legal underpinnings of our precedent have changed or disappeared altogether.\u201d W.G. Clark Constr. Co. v. Pac. Nw. Reg\u2019l Council of Carpenters, 180 Wn.2d 54, 66, 322 P.3d 1207 (2014) (citing United States v. Gaudin, 515 U.S. 506, 521, 115 S. Ct. 2310, 132 L. Ed. 2d 444 (1995)). This is such a case. Because RCW 4.12.010 relates to venue, rather than jurisdiction, we overrule Snyder to the extent it holds otherwise.\nCONCLUSION\n\u00b624 We hold RCW 4.12.010 applies to tort actions seeking monetary relief for damages to real property and relates to venue, not jurisdiction. If an action for injuries to real property is commenced in an improper county, the result is not dismissal but rather a change of venue to the county in which the real property is located. We therefore reverse the Court of Appeals and remand to the trial court for further proceedings consistent with this opinion.\nC. Johnson, Owens, Fairhurst, and Gonz\u00e1lez, JJ., concur.\nWhile this case does not involve questions regarding title to property, we note for completeness that RCW 2.08.210 reaffirms the requirement that \u201call actions for the recovery of the possession of, quieting the title to, or for the enforcement of liens upon, real estate, shall be commenced in the county in which the real estate, or any part thereof, affected by such action or actions is situated.\u201d RCW 12.20.070, in contrast, recognizes that district courts are courts of limited jurisdiction without jurisdiction over actions involving title to or possession of real property. See RCW 3.66.020(2). RCW 12.20.070, therefore, instructs justices of the peace to submit the case to the superior court of the county if a dispute arises regarding title to real property.\nIn In re Custody of A.C., 165 Wn.2d 568, 573 n.3, 200 P.3d 689 (2009), we noted that the term \"subject matter jurisdiction\u201d as used in Washington\u2019s child custody statutes more accurately described \u201c \u2018exclusive venue,\u2019 \u201d intimating that any other interpretation would run counter to article IV, section 6. In re Marriage of McDermott, 175 Wn. App. 467, 480-82, 307 P.3d 717 (2013), supports this reading. It recognizes that the term \u201cjurisdiction\u201d has been used liberally when the more precise term \u201cvenue\u201d was intended. Id. at 480. Venue then acts as a limitation on a court\u2019s authority to adjudicate a particular matter. Id. To the extent the court may suggest the state can put jurisdictional (rather than venue) limitations on an individual superior court\u2019s jurisdiction, we do not endorse such a novel interpretation. Rather, we read these cases as supporting the view that even the term \u201cjurisdiction\u201d can mean \u201cvenue\u201d when read in its proper context.\nCrR 5.1(a) provides that \u201c[a]ll actions shall be commenced: (1) In the county where the offense was committed; (2) In any county wherein an element of the offense was committed or occurred.\u201d\nIn State ex rel. Christensen v. Superior Court, 108 Wash. 666, 670, 185 P. 623 (1919), we criticized this notion of conferred jurisdiction as absurd. Accord Deschenes v. King County, 83 Wn.2d 714, 716, 521 P.2d 1181 (1974) (explaining the only permissible action a court may take if it lacks subject matter jurisdiction is dismissal), overruled on other grounds by Clark County Pub. Util. Dist. No. 1 v. Wilkinson, 139 Wn.2d 840, 848 n.8, 991 P.2d 1161 (2000). We explained that subject matter jurisdiction cannot be transferred from one court to another because it refers to a court\u2019s broad power to hear and determine an action. State ex rel. Christensen, 108 Wash. at 670. It describes a court\u2019s power to hear a particular type of controversy, not a particular case. Dougherty, 150 Wn.2d at 316 (citing Marley v. Dep\u2019t of Labor & Indus., 125 Wn.2d 533, 539, 886 P.2d 189 (1994)).\nWe reject DNR\u2019s argument that Snyder does not conflict with article IV, section 6\u2019s universal jurisdiction requirement because RCW 4.12.010 has specific constitutional sanction as a territorial law under article XXVII, section 2 of the state constitution. Joint Supp\u2019l Br. of Resp\u2019ts at 16; see also dissent at 269. Article XXVII, section 2 states, \u201cAll laws now in force in the Territory of Washington, which are not repugnant to this Constitution, shall remain in force until they expire by their own limitation, or are altered or repealed by the legislature.\u201d The article also explains it was expressly adopted as a housekeeping measure so that \u201cno inconvenience may arise by reason of a change from a Territorial to a State government.\u201d Const, art. XXVII. It does not provide special constitutional sanction to territorial laws. By its own terms, article XX1VII, section 2 disavows territorial laws that are \u201crepugnant to this Constitution.\u201d\nNor do we except RCW 4.12.010 from article IV, section 6\u2019s universal jurisdiction requirement simply because some constitutional convention delegates interpreted the statute to be jurisdictional when they served on this court. Contrary to the dissent\u2019s belief, this court was not steadfast in its jurisdictional pronouncement. In our early years, we vacillated on the issue of whether RCW 4.12.010\u2019s filing requirements describe jurisdiction or venue and the record does not establish that this court or the convention delegates that served on this court ever directly considered the constitutionality of a jurisdictional construction in light of article IV, section 6. Compare Snyder, 48 Wn.2d 637 (jurisdiction), and Cugini, 24 Wn.2d 401 (jurisdiction; dictum), and Miles v. Chinto Mining Co., 21 Wn.2d 902, 153 P.2d 856 (1944) (jurisdiction), adhered to on reh\u2019g, 21 Wn.2d 902, 156 P.2d 235 (1945), and Ryckman v. Johnson, 190 Wash. 294, 67 P.2d 927 (1937) (jurisdiction), and Cartwright v. Kulzer, 140 Wash. 206, 248 P. 419 (1926) (jurisdiction), and Seymour v. LaFurgey, 47 Wash. 450, 92 P. 267 (1907) (jurisdiction), and City of North Yakima ex rel. Whitson v. Superior Court, 4 Wash. 655, 30 P. 1053 (1892) (jurisdiction), and McLeod, 2 Wash. 117 (jurisdiction), and Wood v. Mastick, 2 Wash. Terr. 64, 3 P. 612 (1881) (dictum) (jurisdiction), with State ex rel. Christensen, 108 Wash. 666 (venue), and Shedden v. Sylvester, 88 Wash. 348, 153 P. 1 (1915) (venue). When we consider RCW 4.12.010 in light of article IV, section 6, the proper interpretation, which avoids any constitutional conflict, is that the statute pertains to venue.",
+        "type": "majority",
+        "author": "Stephens, J."
+      },
+      {
+        "text": "Wiggins, J.\n\u00b625 (dissenting) \u2014 I would affirm the Court of Appeals on the ground that the trial court did not have in rem jurisdiction over this purely local action. RCW 4.12.010 requires all actions \u201cfor any injuries to real property\u201d to be \u201ccommenced in the county in which the subject of the action, or some part thereof, is situated\u201d; the property was located in Lewis County, and the action was improperly commenced in King County.\n\u00b626 I disagree with the majority\u2019s conclusion that article IV, section 6 of our state constitution requires us to interpret RCW 4.12.010 as a venue statute. Majority at 258-59. The majority fails to distinguish between the requirements of territorial jurisdiction and subject matter jurisdiction and unnecessarily overrules 150 years of jurisprudence. I therefore dissent.\nANALYSIS\nI. In rem jurisdiction\n\u00b627 \u201cA frequent recurrence to fundamental principles is essential to the security of individual right and the perpetuity of free government.\u201d Const, art. I, \u00a7 32. We begin with first principles. \u201cJurisdiction is the power conferred on a court, by constitution or statute, to take cognizance of the subject-matter of a litigation and the parties brought before it . . . .\u201d Timothy Brown, Commentaries on the Jurisdiction of Courts \u00a7 1 (1891). The court pronouncing judgment \u201cmust have jurisdiction over the subject-matter of the suit or controversy; it must have jurisdiction over the person of the defendant; and if the action concerns a thing, it must have jurisdiction over the thing.\u201dId. \u00a7 5; see also State ex rel. N.Y. Cas. Co. v. Superior Court, 31 Wn.2d 834, 839, 199 P.2d 581 (1948).\n\u00b628 This case is not about whether the legislature can restrict the superior court\u2019s subject matter jurisdiction; our jurisprudence is clear that it cannot. Instead, this case is about whether the superior court\u2019s territorial jurisdiction is confined to the situs of the property in local actions. Our jurisprudence is equally clear that it is.\n\u00b629 Subject matter jurisdiction is the authority of a court to adjudicate a particular type of suit. Our state superior courts, like the equivalent courts in all other states, are courts of general jurisdiction; that is, they have the authority to hear any suit brought before them. See Const, art. IV, \u00a7 6. While also referred to as \u201cjurisdiction,\u201d territorial jurisdiction concerns the power of a court to engage in binding adjudication over a person (in personam) or thing (in rem). The geographic location of a transaction or a thing has long been essential in determining a court\u2019s territorial jurisdiction. Joseph Story, Commentaries on the Conflict of Laws, Foreign and Domestic, in regard to Contracts, Rights, and Remedies \u00a7 539, at 450 (1834) (\u201cjurisdiction, to be rightly exercised, must be founded either upon the person being within the territory, or the thing being within the territory . . .\u201d). The principles governing territorial jurisdiction in counties are, to a considerable extent, the same as those applying to a state\u2019s jurisdiction. Brown, supra, \u00a7 35 n.1, at 93.\n\u00b630 The common law rule restricting the place of trial for actions at law involving real property became a part of American jurisprudence as early as 1811. See Livingston v. Jefferson, 15 F. Cas. 660, 665 (C.C.D. Va. 1811) (No. 8,411). In Livingston, Chief Justice John Marshall, riding circuit, held Livingston\u2019s action to recover damages for an alleged trespass was a local action requiring in rem jurisdiction and therefore could be brought only in Louisiana. Id. at 664.\n\u00b631 In Washington, an action involving real property must be commenced in the county where the property is located unless a statute provides for the commencement elsewhere. Snyder v. Ingram, 48 Wn.2d 637, 639-40, 296 P.2d 305 (1956). This extends to all actions that were local at the common law: all actions for the recovery of real property or any interest therein, all actions brought for injury to real property, and all injuries growing out of or to the land. Brown, supra, \u00a7 32, at 84. This requirement has been, from the earliest times of our state, the recognized practice of our courts and an in rem \u201cjurisdictional\u201d requirement. The plain language of RCW 4.12.010 specifically encompasses this requirement. I see no reason to depart from this well-established rule, and indeed, there are many reasons to adhere to this rule.\nII. The plain language of RCW 4.12.010 is mandatory\n\u00b632 RCW 4.12.010 was enacted in 1854 by the first territorial legislature of Washington (Laws of 1854, \u00a7 13, at 133). This statute, which governs where several different types of actions must be filed, has remained unchanged since enactment. It provides:\nSec. 13. Actions for the following causes shall be commenced in the county in which the subject of the action, or some part thereof, is situated.\n1st. For the recovery of, for the possession of, for the partition of, for the foreclosure of a mortgage, on or for the determination of all questions affecting the title, or for any injuries to real property.\n2d. All questions involving the rights to the possession or title to any specific article of personal property; in which last mentioned class of cases, damages may also be awarded for the detention and for injury to such personal property\nId. RCW 4.12.010 is mandatory; it requires certain actions to be commenced in the county where the subject of the action is located. McLeod v. Ellis, 2 Wash. 117, 120-21, 26 P. 76 (1891) (RCW 4.12.010 not \u201cmerely directory\u201d). The imperative \u201cshall\u201d does not permit actions to be commenced elsewhere. As discussed below, a statute enacted contemporaneously with RCW 4.12.010 in 1854 similarly provides that actions to quiet title to real property must be brought in the county in which the property is located. RCW 7.28.010. As if this were not sufficiently clear, the 1890 legislature enacted RCW 2.08.210, even more broadly requiring that actions involving title to real property must be brought in the county where located, as also discussed below.\n\u00b633 Instead of interpreting RCW 4.12.010 consistently with these overlapping statutes, the majority relies on cases that are easily distinguished. Unlike RCW 4.12.010, the statutes at issue in Young v. Clark and Shoop v. Kittitas County are permissive. Young v. Clark, 149 Wn.2d 130, 133, 65 P.3d 1192 (2003) (party \u201c \u2018shall have the option\u2019 \u201d of suing in county where action arose or county where defendant resides (quoting former RCW 2.14.020(3) (1941))); Shoop v. Kittitas County, 149 Wn.2d 29, 33, 65 P.3d 1194 (2003) (action \u201c \u2018may\u2019 \u201d be commenced in superior court of such county or court of two nearest counties (quoting former RCW 36.01.050 (1963))). Thus, I find the majority\u2019s reliance on these cases unconvincing, if not to say quite surprising. Majority at 253-54.\n\u00b634 The majority strays even further from the mark when it attempts to find support for its interpretation of RCW 4.12.010 in criminal cases, citing to State v. Hard-amon, 29 Wn.2d 182, 188, 186 P.2d 634 (1947) and State v. Dent, 123 Wn.2d 467, 479-80, 869 P.2d 392 (1994). Majority at 254. The issue in these cases is not jurisdiction but whether the State must prove venue as an element of the charged crime, a theory rejected by the court in both cases. In any event, both the statute at issue in Hardamon and the court rule that replaced it and that was at issue in Dent were based on the defendant\u2019s right under Washington Constitution article I, section 22 to be tried in the county in which the offense was committed. This constitutional guaranty is not a jurisdictional provision but a right guaranteed to the defendant. The court held, accordingly, that the defendant could waive the right. Moreover, the court held in both cases that the evidence presented at trial sufficiently established that the prosecutions were brought in the proper county.\n\u00b635 These cases continued a century-old rule that defendants in a criminal prosecution may waive constitutional privileges including the right to be tried in the county where the alleged offense was committed. See State ex rel. Howard v. Superior Court, 88 Wash. 344, 153 P. 7 (1915); Hardamon, 29 Wn.2d at 188; State v. Lane, 40 Wn.2d 734, 736, 246 P.2d 474 (1952); McCorkell, 63 Wn. App. at 801; Dent, 123 Wn.2d at 479-80. The majority\u2019s criminal cases are singularly unhelpful when interpreting a civil procedure statute that has been, since its inception, interpreted as a jurisdictional requirement. See Wood v. Mastick, 2 Wash. Terr. 64, 69, 3 P. 612 (1881); McLeod, 2 Wash. at 122; Seymour v. LaFurgey, 47 Wash. 450, 451-52, 92 P. 267 (1907); Ryckman v. Johnson, 190 Wash. 294, 299, 67 P.2d 927 (1937); State ex rel. Hamilton v. Superior Court, 200 Wash. 632, 635, 94 P.2d 505 (1939); Miles v. Chinto Mining Co., 21 Wn.2d 902, 904, 153 P.2d 856 (1944), adhered to on reh\u2019g, 21 Wn.2d 907, 156 P.2d 235 (1945); Cugini v. Apex Mercury Mining Co., 24 Wn.2d 401, 409, 165 P.2d 82 (1946); State ex rel. Grove v. Card, 35 Wn.2d 215, 217, 211 P.2d 1005 (1949) Alaska Airlines, Inc. v. Molitor, 43 Wn.2d 657, 665, 263 P.2d 276 (1953); Snyder, 48 Wn.2d at 638.\nIII. RCW 4.12.010 is jurisdictional in character\n\u00b636 We interpret laws dealing with the same or similar issues by considering them together. Bainbridge Island Police Guild v. City of Puyallup, 172 Wn.2d 398, 423, 259 P.3d 190 (2011) (plurality opinion) (\u201c \u2018Statutes in pari materia should be harmonized so as to give force and effect to each and this rule applies with peculiar force to statutes passed at the same session of the Legislature.\u2019 \u201d (quoting Int\u2019l Commercial Collectors, Inc. v. Carver, 99 Wn.2d 302, 307, 661 P.2d 976 (1983))). RCW 4.12.010 governs where to file \u201cthe determination of all questions affecting the title,\u201d which includes quiet title actions. Other statutes governing quiet title actions, like RCW 4.12.010, also suggest that these actions are and have always been purely local. The same territorial legislature that enacted RCW 4.12.010 enacted several provisions governing where quiet title actions may be brought, evidencing concerns specific to actions that may affect title to real property. RCW 7.28.010 (Laws of 1854, \u00a7 398, at 205) requires ejectment and quiet title actions to be brought \u201cin the superior court of the proper county.\u201d And in 1890, our legislature enacted RCW 2.08.210 (Laws of 1890, \u00a7 9, at 343), which provided that the process of superior courts shall extend across the state, provided that actions involving real property \u201cshall be commenced in the county in which the real estate\u201d is situated.\n\u00b637 Likewise, Washington\u2019s rules for registering and recording title to real property are county specific. Under the Torrens act, chapter 65.12 RCW, enacted in 1907, landowners who choose to register title to land must apply to \u201cthe superior court of the state of Washington in and for the county wherein the land is situated.\u201d RCW 65.12.040. This court has the power to inquire into the condition of the title and to make all orders necessary to determine priority and remove clouds from the title. Id. County auditors are deemed \u201cregistrars of titles\u201d in their respective counties. RCW 65.12.050. Similarly, under the recording act, chapter 65.08 RCW, a conveyance of real property may be recorded in \u201cthe county where the property is situated,\u201d and \u201c[e]very such conveyance not so recorded is void as against any subsequent purchaser or mortgagee in good faith and for a valuable consideration from the same vendor, his or her heirs or devisees, of the same real property or any portion thereof whose conveyance is first duly recorded.\u201d RCW 65.08.070; see Kshensky v. Pioneer Nat\u2019l Title Ins. Co., 22 Wn. App. 817, 821, 592 P.2d 667 (1979) (decree creating the lien was never \u201c \u2018recorded in the office of the recording officer of the county where the property is situated\u2019 \u201d as required by statute in order to give rise to a claim of constructive notice to the purchaser (quoting RCW 65.08.070)).\n\u00b638 In addition to quiet title actions, I agree with the majority that actions for damages to real property under RCW 4.12.010 have always been considered to be local in nature. Majority at 249. Local actions must be confined to the place rei sitae (where the property is situated) unless modified by statute; this is also a long-standing jurisdictional requirement under the common law. Story, supra, \u00a7 538, at 450; Brown, supra, \u00a7 32. In Washington, as far back as 1907, we recognized that actions affecting title to real property must be commenced and recorded in the county where the real estate is situated \u201cso that any one concerned therewith may be informed as to the condition of its title by an examination of the public records in such county.\u201d Seymour v. LaFurgey, 47 Wash. 450, 451-52, 92 P. 267 (1907).\n\u00b639 This court has continually affirmed that RCW 4.12-.010 governs jurisdiction affecting local actions and that local actions commenced in the wrong county must be dismissed. See Ryckman, 190 Wash, at 299 (denying motion for change of venue because the action was local); State ex rel. Hamilton, 200 Wash, at 634 (\u201can action, whether against the state or other party defendant, to determine the title to real property is a local action\u201d and must be commenced where the property is located); Miles, 21 Wn.2d at 904 (action to quiet title dismissed due to lack of jurisdiction over land located in another county). In particular, we applied a territorial jurisdiction analysis to RCW 4.12.010 in Alaska Airlines, 43 Wn.2d at 665 (distinguishing between in personam jurisdiction and the statute\u2019s in rem jurisdictional requirement). Accordingly, I disagree with the majority\u2019s holding that RCW 4.12.010 relates to subject matter jurisdiction, majority at 253, 258, where the character and language of the statute, as well as our precedent, support the conclusion that the statute concerns in rem jurisdiction.\nIV. Article IV, section 6 of our constitution does not preclude interpretation of RCW 4.12.010 as a jurisdictional statute\n\u00b640 The legislature cannot statutorily alter the constitutional jurisdiction of the superior courts. State v. Berner, 129 Wn.2d 485, 496, 918 P.2d 916 (1996). Article IV, section 6 vests jurisdiction in all classes of cases \u2014 law and equity, civil and criminal, insolvency and probate \u2014 in the superior courts of our state. W. Lair Hill, Washington: A Constitution Adapted to the Coming State 56 (1889). In other words, it delineates the scope of the trial court\u2019s subject matter jurisdiction in the fundamental sense, that is, its power to try certain types of actions. Dougherty v. Dep\u2019t of Labor & Indus., 150 Wn.2d 310, 317, 76 P.3d 1183 (2003) (subject matter jurisdiction is the authority to hear and determine the class of action to which the case belongs). But article IV, section 6 does not authorize a superior court to adjudicate a dispute unless the court also acquires in personam or in rem jurisdiction.\n\u00b641 Here, the type of controversy is a damage to real property action. Under article IV, section 6 of the Washington Constitution, each superior court has subject matter jurisdiction to hear these types of claims; the legislature cannot restrict the superior court\u2019s subject matter jurisdiction. However, the legislature may impose further restrictions on the power of its courts to assert territorial jurisdiction. RCW 4.12.010 is such a restriction; the statute restricts a court\u2019s exercise of its territorial jurisdiction when an action involving real property is commenced in the wrong county. The court has jurisdiction to hear this type of claim, but it has no jurisdiction to adjudicate the object of the claim. See Barquis v. Merchants Collection Ass\u2019n of Oakland, Inc., 7 Cal. 3d 94, 120, 496 P.2d 817, 101 Cal. Rptr. 745 (1972) (\u201cthe term \u2018jurisdiction\u2019 carries a variety of meanings\u201d). Continuing to regard RCW 4.12.010 as jurisdictional does not conflict with article IV, section 6.\nV. This approach continues Washington\u2019s long-standing policy requiring local actions to be commenced at the situs of the property\nA. We have always placed jurisdictional limits on the ability of our courts to adjudicate a party\u2019s rights with respect to real property\n\u00b642 The judiciary committee that drafted article IV of our constitution, introducing a new court system into the state, was undoubtedly aware of our court\u2019s interpretation of the predecessor to RCW 4.12.010 as \u201cjurisdictional\u201d prior to the constitutional convention in 1889. In the earliest case on this issue, the Supreme Court of the Territory of Washington held that \u201call actions for the causes mentioned in [RCW 4.12.010] must be commenced in the county or district in which the subject of the action lies, and the Court of no other county or district has jurisdiction.\u201d Wood, 2 Wash. Terr. at 69. The court that decided Wood in 1881 included Justice John P. Hoyt, who served as president of the Constitutional Convention in 1889. In 1891, Justice Hoyt again confirmed that the statute restricts a court\u2019s ability to exercise its jurisdiction over an action involving real property commenced in the wrong county. McLeod, 2 Wash. at 123-24 (Hoyt, J., dissenting).\n\u00b643 In addition to Justice Hoyt, the composition of the convention was top-heavy with lawyers; 12 of the 13 members of the judiciary committee were lawyers. The Journal of the Washington State Constitutional Convention: 1889, at 593 (Beverly P. Rosenow ed., 1999). Thus, there is little doubt that those charged with creating our current system of courts were knowledgeable of the territorial law and our interpretations of it.\nB. The majority fails to establish that our decisions interpreting RCW.4.12.010 as jurisdictional are either incorrect or harmful\n\u00b644 No useful purpose is served by the majority\u2019s holding that RCW 4.12.010 governs only venue and not jurisdiction in actions affecting real property. Specifically, there has been no showing that our decisions interpreting RCW 4.12.010 as jurisdictional are incorrect and harmful. City of Federal Way v. Koenig, 167 Wn.2d 341, 343, 217 P.3d 1172 (2009) (doctrine of stare decisis requires us to adhere to an established rule unless there is a clear showing that rule is incorrect and harmful).\n\u00b645 Indeed, there may be serious policy ramifications if we allow actions concerning title to real property to be commenced anywhere in the state. I share amicus\u2019s concern that this would make the process for transferring title to real property more difficult, expensive, and time consuming because parties conducting a title examination would presumably have to search the records in all 39 Washington state counties to verify that a property is not the subject of current or past litigation. Worse yet, a buyer might purchase property after diligently searching county records for title information, never knowing of a cloud on title recorded elsewhere. See Hayes v. Gulf Oil Corp., 821 F.2d 285, 290 (5th Cir. 1987) (without local action rule, \u201ctitle to real estate would never be certain again since it could be involved in unknown claims in unknown fora with no practical method for control of liens, lis pendens or priority of title claims. State land title records would become unmanageable\u201d); French v. Clinchfield Coal Co., 407 F. Supp. 13, 15 (D.D.C.Del. 1976) (local action rule exists for salutary reasons). For these reasons, we have always required local actions to be commenced and filed in the county where the property is located.\n\u00b646 The majority\u2019s discussion of supplemental proceedings in aid of collection of judgments and the probate statutes are inapposite because they do not concern local actions. Importantly, supplemental proceedings are not in rem proceedings and so do not affect title against all possible parties. Additionally, the probate court has no power to adjudicate title between the estate and outside parties, but only to determine if the estate has an interest in the property. Tucker v. Brown, 20 Wn.2d 740, 807, 150 P.2d 604 (1944).\n\u00b647 We can avoid these problems only by adhering to our established jurisprudence. It is not only, as the majority asserts at 256, that \u201cit may be more convenient\u201d to have all title records filed on the county in which the property is located if no one files a lis pendens in the proper county, any nonparty might be lulled into the mistaken notion that they are purchasing a property while unaware that a fierce title action is raging elsewhere. The majority dismisses these concerns by inaccurately asserting that RCW 4.28.160 \u201crequires plaintiffs to record at the onset of litigation a lis pendens in each county where disputed property is located.\u201d Majority at 256. Although the statute permits the filing of a lis pendens, nothing requires a party to do so. Even when one party files a lis pendens, there is often a delay between filing the lawsuit and filing a lis pendens.\n\u00b648 Instead, we should affirm the simplicity and efficacy of our holding in Cugini that RCW 4.12.010 requires a lawsuit to be filed in the county where the property is located while permitting the transfer of a properly filed lawsuit to a different county for trial if appropriate. A lawsuit filed in the county where the property is located automatically gives notice to anyone who consults the county records that the lawsuit is pending, and even if the lawsuit is subsequently transferred, anyone consulting the county records will still be on notice of the lawsuit. This straightforward rule, which has been the rule in Washington for over 160 years, effectively provides notice without reliance on a party\u2019s filing a lis pendens in the proper county. I would hold that continuing to interpret RCW 4.12.010 as jurisdictional does not conflict with article IV, section 6.\n\u00b649 Accordingly, I respectfully dissent.\nMadsen, C. J.; Gordon McCloud, J.; and J.M. Johnson, J. Pro Tem., concur with Wiggins, J.\nReconsideration denied April 1, 2015.\nBecause RCW 4.12.010(1) codifies the common local action rule and involves both real and mixed actions, this opinion uses the term \u201cin rem\u201d to refer to both in rem and quasi in rem actions. In rem jurisdiction, like in personam jurisdiction, is a subset of territorial jurisdiction. However, in personam jurisdiction over the parties is insufficient to give a court jurisdiction over local actions. Livingston v. Jefferson, 15 F. Cas. 660, 664 (C.C.D. Va. 1811) (No. 8,411).\nJustice Story traces this jurisdictional requirement to Roman law. Story, supra, \u00a7 532, at 445-46.\nIn the interest of completeness, it is worth noting that the majority is not alone in finding that the local action rule concerns subject matter jurisdiction. However, like the majority, other states or federal courts coming to this conclusion do so without analysis or explanation. See Hayes v. Gulf Oil Corp., 821 F.2d 285, 290 (5th Cir. 1987) (local action rule concerns subject matter jurisdiction); Iselin v. Meng, 269 F.2d 345 (5th Cir. 1959) (stating without explanation that a Louisiana federal court would not have subject matter jurisdiction over a suit involving property in Mississippi). But see Raphael J. Musicus, Inc. v. Safeway Stores, Inc., 743 F.2d 503, 506 (7th Cir. 1984) (\u201cin order to provide in rem relief, the court must have jurisdiction over the real property at issue, and a local action must therefore be brought in the jurisdiction in which that real property is located\u201d).\nAlthough our statutes do not use the terms \u201clocal\u201d and \u201ctransitory,\u201d we have held that RCW 4.12.010 refers to local actions that must be brought in the county where the property is located, while RCW 4.12.025 includes transitory actions that may be brought where the defendant resides. McLeod, 2 Wash. at 120-21; see also Wash. State Bank v. Medalla Healthcare LLC, 96 Wn. App. 547, 555, 984 P.2d 1041 (1999). However, on further examination, it appears there is no single local action rule and under some iterations of the rule, RCW 4.12.010 would include both local and transitory actions. RCW 4.12.010 (subsection (1) refers to real property actions, while subsection (2) refers to personal property actions); Sheppard v. Coeur d\u2019Alene Lumber Co., 62 Wash. 12, 21-22, 112 P. 932 (1911) (explaining that actions for injuries to real estate are generally local, while action for injuries to persons or to personal property are transitory); see also Laurendeau v. Fugelli, 1 Wash. 559, 560, 21 P. 29 (1889) (referring to action to establish title to personal property as transitory); Stone v. United States, 167 U.S. 178, 17 S. Ct. 778, 42 L. Ed. 127 (1897) (action for damages for the conversion of personal property is a personal and transitory action). For example, some courts distinguish between local and transitory actions by focusing on the genesis of the action. Sheppard, 62 Wash. at 21 (\u201c \u2018If the cause of action is one that might have arisen anywhere, then it is transitory; but, if it is one that could only have arisen in one place, then it is local.\u2019 \u201d (quoting McGonigle v. Atchison, 33 Kan. 726, 726, 7 P. 550 (1885))); Livingston, 15 F. Cas. at 664 (\u201cactions are deemed transitory, where transactions on which they are founded, might have taken place anywhere; but are local where their cause is in its nature necessarily local\u201d). Others focus on the character of the remedy sought. Wash. State Bank, 96 Wn. App. at 558 (conversion action seeking exclusively monetary recovery \u201cis in personam and transitory in nature\u201d); Raphael J. Musicus, Inc., 743 F.2d at 508 (determinative element in distinguishing a local action from a transitory action is whether the type of relief requested is of a \u201c \u2018personal\u2019 \u201d nature). Some courts have held that the local action concept has no application in traditional courts of equity. Oliver v. Loye, 59 Miss. 320, 323 (1881) (equity was never \u201champered by distinctions of local and transitory causes of action\u201d). Without engaging in an exhaustive survey of all cases discussing the distinction between local and transitory actions, I point out only that actions involving title to property have always been found to be local. French v. Clinchfield Coal Co., 407 F. Supp. 13, 15-16 (D. Del. 1976). The instant case implicates RCW 4.12.010(1), which undoubtedly codifies the common law local action rule restricting litigation of these actions to the situs of the land.\nWhile no court has interpreted the words \u201cin the superior court of the proper county,\u201d \u201cthe reference pretty clearly is to the superior court for the county in which the land in question is located.\u201d 18 William B. Stoebuck & John W. Weaver, Washington Practice: Real Estate: Transactions \u00a7 11.4 (2d ed. 2004).\nPolicy concerns regarding local adjudication of matters affecting title are significant, as evidenced by the many state quiet title statutes requiring these actions to be brought in the county where the property is located. See, e.g., Ala. Code \u00a7 6-6-560 (Any person claiming to own lands or an interest therein may file a verified complaint in the circuit court of the county in which such lands lie to establish the right or title to such lands and to clear up all doubts or disputes concerning the same.); Ark. Code Ann. \u00a7 18-60-502 (A claimant shall file in the office of the clerk in the circuit court of the county in which the land is situated a petition describing the land and stating facts that show a prima facie right and title to the land.); Fla. Stat. \u00a7 65.061 (quiet title complaint may be filed in any county in which any part of the land is situated); Mo. Rev. Stat. \u00a7 508.030 (Suits for the possession of real estate, or whereby the title thereto may be affected ... shall be brought in the county where such real estate, or some part thereof, is situated.); Neb. Rev. Stat. \u00a7 25-401 (Actions for the recovery of, partition of, or sale of real property must be brought in the county in which the subject of the action is situated.); N.D. Cent. Code \u00a7 28-04-01 (Any action for the recovery of real property, or an estate therein, or for the determination in any form or such interest must be brought in the county in which the subject matter of the action or some part thereof is situated.); 735 III. Comp. Stat. 5/2-103 (Any action to quiet title to real estate, or to partition or to recover possession thereof must be brought in the county in which the real estate or some part thereof is situated.); Or. Rev. Stat. \u00a7 14.040 (Actions for the recovery of real property and suits for the determination of an adverse claim estate or interest in real property shall be commenced and tried in the county in which the subject of the action or suit, or some part thereof, is situated.); Wyo. Stat. Ann. \u00a7 34-5-101 (Actions for the recovery of, the partition of, or for the sale of real property shall be brought in the county in which the subject of the action is situated.); Tex. Crv. Prac. & Rem. Code Ann. \u00a7 15.011 (actions for recovery of real property or an estate or interest in real property or to quiet title to real property shall be brought in the county in which all or a part of the property is located.); Cal. Crv. Proc. Code \u00a7 760.050(a) (proper county for the trial of an action to quiet title is the county in which the real property is located); Pa. R. Crv. P. No. 1062 (quiet title action \u201cmay be brought in and only in a county in which the land or a part of the land is located\u201d).",
+        "type": "dissent",
+        "author": "Wiggins, J."
+      }
+    ],
+    "attorneys": [
+      "Darrell L. Cochran, Loren A. Cochran, and Kevin M. Hastings (of Pfau Cochran Vertetis Amala PLLC), for petitioners.",
+      "Robert W. Ferguson, Attorney General, and Mark C. Jobson, Assistant; Louis D. Peterson, Michael R. Scott, and Alexander M. Wu (of Hillis Clark Martin & Peterson PS); Kelly P. Corr, Seann C. Colgan, and Joshua J. Preece (of Corr Cronin Michelson Baumgardner Fogg & Moore LLP), for respondents.",
+      "Mark D. Schedler and Daniel W. Ferm on behalf of Washington Land Title Association, Washington Realtors, and Washington Forest Products Association, amici curiae."
+    ],
+    "corrections": "",
+    "head_matter": "[No. 88115-4.\nEn Banc.]\nArgued October 29, 2013.\nDecided December 31, 2014.\nWilliam Ralph, Petitioner, v. The Department of Natural Resources, Respondent. William Forth et al., Petitioners, v. The Department of Natural Resources et al., Respondents.\nDarrell L. Cochran, Loren A. Cochran, and Kevin M. Hastings (of Pfau Cochran Vertetis Amala PLLC), for petitioners.\nRobert W. Ferguson, Attorney General, and Mark C. Jobson, Assistant; Louis D. Peterson, Michael R. Scott, and Alexander M. Wu (of Hillis Clark Martin & Peterson PS); Kelly P. Corr, Seann C. Colgan, and Joshua J. Preece (of Corr Cronin Michelson Baumgardner Fogg & Moore LLP), for respondents.\nMark D. Schedler and Daniel W. Ferm on behalf of Washington Land Title Association, Washington Realtors, and Washington Forest Products Association, amici curiae."
+  },
+  "file_name": "0242-01",
+  "first_page_order": 278,
+  "last_page_order": 308
+}

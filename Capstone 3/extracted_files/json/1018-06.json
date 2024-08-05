@@ -1,0 +1,78 @@
+{
+  "id": 12462888,
+  "name": "Love et al., Petitioners, v. Dep't of Corr., Respondent",
+  "name_abbreviation": "Love v. Dep't of Corr.",
+  "decision_date": "2016-11-02",
+  "docket_number": "No. 93229-8",
+  "first_page": "1018",
+  "last_page": "1018",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "186 Wash. 2d 1018"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Wash.",
+    "id": 9029,
+    "name": "Washington Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 38,
+    "name_long": "Washington",
+    "name": "Wash."
+  },
+  "cites_to": [
+    {
+      "cite": "193 Wn. App. 1049",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        12450114,
+        12450115,
+        12450116,
+        12450117
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/193/1049-01",
+        "/wash-app/193/1049-02",
+        "/wash-app/193/1049-03",
+        "/wash-app/193/1049-04"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 30,
+    "char_count": 203,
+    "ocr_confidence": 0.843,
+    "sha256": "1de866d39d9847fa2557f54d2ce4154a4f1c59c6ca9655a63a7485d9b1a18019",
+    "simhash": "1:05957ababf0f6e7b",
+    "word_count": 35
+  },
+  "last_updated": "2024-02-27T18:43:05.207238+00:00",
+  "provenance": {
+    "date_added": "2019-05-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Love et al., Petitioners, v. Dep\u2019t of Corr., Respondent,"
+    ],
+    "opinions": [
+      {
+        "text": "Petition for review of a decision of the Court of Appeals, No. 46798-4-II, May 10, 2016, 193 Wn. App. 1049. Denied November 2, 2016.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Love et al., Petitioners, v. Dep\u2019t of Corr., Respondent,\nNo. 93229-8."
+  },
+  "file_name": "1018-06",
+  "first_page_order": 1004,
+  "last_page_order": 1004
+}

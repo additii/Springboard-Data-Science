@@ -1,0 +1,78 @@
+{
+  "id": 12462828,
+  "name": "City of Yakima et al., Respondents, v. 1606 W. King St., Petitioner",
+  "name_abbreviation": "City of Yakima v. 1606 W. King St.",
+  "decision_date": "2016-09-28",
+  "docket_number": "No. 93172-1",
+  "first_page": "1011",
+  "last_page": "1011",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "186 Wash. 2d 1011"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Wash.",
+    "id": 9029,
+    "name": "Washington Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 38,
+    "name_long": "Washington",
+    "name": "Wash."
+  },
+  "cites_to": [
+    {
+      "cite": "193 Wn. App. 1039",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        12450080,
+        12450081,
+        12450078,
+        12450079
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/193/1039-03",
+        "/wash-app/193/1039-04",
+        "/wash-app/193/1039-01",
+        "/wash-app/193/1039-02"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 32,
+    "char_count": 220,
+    "ocr_confidence": 0.857,
+    "sha256": "cfffaa9430ee2cf1e80738e8bf5e976a9a1a360d5263d7527404d6a7d053b360",
+    "simhash": "1:885f4a3e44c7472a",
+    "word_count": 38
+  },
+  "last_updated": "2024-02-27T18:43:05.207238+00:00",
+  "provenance": {
+    "date_added": "2019-05-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "City of Yakima et al., Respondents, v. 1606 W. King St., Petitioner,"
+    ],
+    "opinions": [
+      {
+        "text": "Petition for review of a decision of the Court of Appeals, No. 33267-5-III, April 28, 2016, 193 Wn. App. 1039. Denied September 28, 2016.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "City of Yakima et al., Respondents, v. 1606 W. King St., Petitioner,\nNo. 93172-1."
+  },
+  "file_name": "1011-01",
+  "first_page_order": 997,
+  "last_page_order": 997
+}

@@ -1,0 +1,246 @@
+{
+  "id": 1428213,
+  "name": "Arkansas Power & Light Company v. Dillinger",
+  "name_abbreviation": "Arkansas Power & Light Co. v. Dillinger",
+  "decision_date": "1933-12-11",
+  "docket_number": "4-3209",
+  "first_page": "401",
+  "last_page": "406",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "188 Ark. 401"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [
+    {
+      "cite": "298 S. W. 849",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "174 Ark. 1096",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "286 U. S. 346",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3917859
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/286/0346-01"
+      ]
+    },
+    {
+      "cite": "43 S. W. (2d) 251",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "184 Ark. 638",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "36 Ark. 46",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "102 S. W. 369",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "82 Ark. 522",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1529080
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/82/0522-01"
+      ]
+    },
+    {
+      "cite": "42 Ark. 321",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        8724071
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/42/0321-01"
+      ]
+    },
+    {
+      "cite": "82 S. W. 245",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "72 Ark. 572",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1505607
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/72/0572-01"
+      ]
+    },
+    {
+      "cite": "174 S. W. 1170",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "117 Ark. 337",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1564894
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/117/0337-01"
+      ]
+    },
+    {
+      "cite": "144 S. W. 219",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "102 Ark. 351",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1354051
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/102/0351-01"
+      ]
+    },
+    {
+      "cite": "206 S. W. 71",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "136 Ark. 23",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1570035
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/136/0023-01"
+      ]
+    },
+    {
+      "cite": "208 S. W. 306",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "137 Ark. 224",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "150 S. W. 157",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "105 Ark. 180",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1347105
+      ],
+      "pin_cites": [
+        {
+          "page": "190"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/105/0180-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 396,
+    "char_count": 5935,
+    "ocr_confidence": 0.488,
+    "pagerank": {
+      "raw": 5.66923306217887e-08,
+      "percentile": 0.35312502775258325
+    },
+    "sha256": "16a640c20e9c639dbcc85b2a63fde972b6be2a32b3fbf078e0cff2e488d4a6d4",
+    "simhash": "1:1727ddc22b652499",
+    "word_count": 1046
+  },
+  "last_updated": "2024-02-27T23:51:14.545434+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Arkansas Power & Light Company v. Dillinger."
+    ],
+    "opinions": [
+      {
+        "text": "Kirby, J.,\n(after stating the facts). It is insisted that said instruction No. 1, given for appellee, is erroneous in that it required a higher degree of care to be exercised by the motorman in proportion to the greater danger to be avoided than the law warrants. Said instruction reads as follows: \u2018 \u2018 The court instructs the jury that the defendant in the operation of its street cars in the city of Little Bock over and across streets that people are constantly traveling over, it is the duty of the operatives of the said street car to exercise due care. The operators must be governed to some extent by the circumstances that surround them at the various street crossing\u2019s along their line. And, if you find from the evidence that- there was a building on the east side of said street ear track and south of 23d Street, and was built and situated so that the view to said 23d Street was cut off and obstructed, so that the operatives of said street car could not see an automobile approaching said ear line from the east until said automobile was near or upon said tracks, then the operatives of said street cars traveling north and approaching said 23d Street crossing would be required to exercise a higher degree of care in proportion to the greater danger; and the operatives of said street car should reduce the speed of said street car or take other precaution, so as to have their street car under such control as would enable them to avoid dangers and injuries to others using or traveling over said tracks at said crossing. \u2019 \u2019\nThe instruction is not open to the objection made against it, and only tells the jury that the care necessary to be exercised would increase with the apparent dangers to be avoided, which, under the circumstances, would only be ordinary care, or that care which a reasonably prudent and cautious person would exercise under similar circumstances, and it was not meant to, and did not, require the exercise of a greater degree of care than ordinary care. In St. Louis, I. M. & S. R. Co. v. Chamberlain, 105 Ark. 180, 190, 150 S. W. 157, it is said: \u201cThe degree of care varies with the circumstances of each ease, and necessarily depends upon the hazard or danger. It would not he improper to say that a greater degree of care should be exercised when the situation or circumstances is more dangerous or hazardous. Under such circumstances, a reasonably prudent and cautious person would exercise greater care than when the situation involved less or no danger. The exercise of the greater care, under more dangerous and hazardous circumstances, would therefore only be the exercise of that care which a reasonably prudent and cautious person would exercise under similar circumstances, and would therefore be at last only ordinary care. And this, we think, is but the meaning and effect of the instruction given.\u201d See also Bona v. Thomas Auto Co., 137 Ark. 224, 208 S. W. 306; Carter v. Brown, 136 Ark. 23, 206 S. W. 71; and Minor v. Mapes, 102 Ark. 351-54, 144 S. W. 219.\nAppellant next complains that appellee\u2019s requested instruction No. 3, stating that appellee relied upon the doctrine of discovered peril or last clear chance for recovery, etc., is erroneous, and that said doctrine has no application whatever in this case. Appellant, however, asked instructions on the same point, and the instruction complained of is not out of harmony with this court\u2019s former declarations upon such doctrine: Pankey v. L. R. Ry. & Elec. Co., 117 Ark. 337, 174 S. W. 1170; Hot Springs St. Ry. Co. v. Hildreth, 72 Ark. 572, 82 S. W. 245; Citizens\u2019 St. Ry. Co. v. Steen, 42 Ark. 321; Chicago, R. I. & P. Ry. Co. v. Bunch, 82 Ark. 522, 102 S. W. 369; St. Louis, I. M. & S. Ry. Co. v. Freeman, 36 Ark. 46.\nIn St. Louis S. W. R. Co. v. Simpson, 184 Ark. 638, 43 S. W. (2d) 251, the court said: \u201cThe discovered peril doctrine, or the doctrine of the last clear chance, as it is sometimes called, constitutes an exception to the rule that the contributory negligence of the plaintiff is a bar to this action. Under this doctrine, where one discovers the perilous situation of another in time, by the exercise of ordinary care, to prevent injury to him, it is his duty to do so, and lie is guilty of negligence if lie fails to do so, which is regarded in law as the proximate cause of the injury, and this, too, regardless of the contributory negligence of the injured person. Such a person is regarded in law as having the last clear chance to prevent injury or death to another, and it is his duty to do so. \u2019 \u2019\nAlthough this case was reversed by the United States Supreme Court, 286 U. S. 346, on the facts, the rule of law appears not to have been affected thereby. See also Mo. Pac. Ry. Co. v. Skipper, 174 Ark. 1096, 298 S. W. 849.\nAppellant, by its instructions asked for and granted by the court, had the issues submitted to the jury on the doctrine of last clear chance, and the jury found against appellant on conflicting testimony.\nAppellant malees a strong determined assault upon the rule of the last clear chance doctrine as announced by our decisions and cites cases from most of the other jurisdictions in favor of its contention; but the matter has long been settled here, and we do not regard that there exists any necessity for additions or amendments to this doctrine as already announced.\nWe do not set out any further instructions complained of, but, after a careful examination of them all, we believe appellant had the benefit of several instructions that were more favorable to its contention than the law warrants.\nA careful examination of the whole record discloses that no prejudicial error was committed in the trial of this case. The judgment is affirmed.",
+        "type": "majority",
+        "author": "Kirby, J.,"
+      }
+    ],
+    "attorneys": [
+      "Rose, Hemingway, Cantrell & Loughborough and J. W. Barron, for appellant.",
+      "M. B. Norfleet, L. A. Hardin and C. W. Garner, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Arkansas Power & Light Company v. Dillinger.\n4-3209\nOpinion delivered December 11, 1933.\nRose, Hemingway, Cantrell & Loughborough and J. W. Barron, for appellant.\nM. B. Norfleet, L. A. Hardin and C. W. Garner, for appellee."
+  },
+  "file_name": "0401-01",
+  "first_page_order": 419,
+  "last_page_order": 424
+}

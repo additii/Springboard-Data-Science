@@ -1,0 +1,598 @@
+{
+  "id": 12440918,
+  "name": "Darla Keck et al., Respondents, v. Chad P. Collins et al., Petitioners",
+  "name_abbreviation": "Keck v. Collins",
+  "decision_date": "2015-09-24",
+  "docket_number": "No. 90357-3",
+  "first_page": "358",
+  "last_page": "375",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "184 Wash. 2d 358"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Wash.",
+    "id": 9029,
+    "name": "Washington Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 38,
+    "name_long": "Washington",
+    "name": "Wash."
+  },
+  "cites_to": [
+    {
+      "cite": "789 F.2d 1315",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1573948
+      ],
+      "year": 1985,
+      "pin_cites": [
+        {
+          "page": "1317"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/789/1315-01"
+      ]
+    },
+    {
+      "cite": "108 P.3d 1220",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2005,
+      "opinion_index": 0
+    },
+    {
+      "cite": "153 Wn.2d 780",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        875614
+      ],
+      "year": 2005,
+      "pin_cites": [
+        {
+          "page": "789"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/153/0780-01"
+      ]
+    },
+    {
+      "cite": "776 P.2d 98",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "weight": 3,
+      "year": 1989,
+      "opinion_index": 0
+    },
+    {
+      "cite": "112 Wn.2d 762",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1175527
+      ],
+      "year": 1989,
+      "pin_cites": [
+        {
+          "page": "768"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/112/0762-01"
+      ]
+    },
+    {
+      "cite": "477 U.S. 242",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6206897
+      ],
+      "weight": 3,
+      "year": 1986,
+      "pin_cites": [
+        {
+          "page": "248"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/477/0242-01"
+      ]
+    },
+    {
+      "cite": "334 P.3d 541",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2014,
+      "opinion_index": 0
+    },
+    {
+      "cite": "181 Wn.2d 439",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4356210
+      ],
+      "year": 2014,
+      "pin_cites": [
+        {
+          "page": "444"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/181/0439-01"
+      ]
+    },
+    {
+      "cite": "115 F.2d 305",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1102418
+      ],
+      "year": 1940,
+      "pin_cites": [
+        {
+          "page": "307"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/115/0305-01"
+      ]
+    },
+    {
+      "cite": "349 P.2d 605",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1960,
+      "pin_cites": [
+        {
+          "parenthetical": "quoting Whitaker v. Coleman, 115 F.2d 305, 307 (5th Cir. 1940)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "55 Wn.2d 678",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1017707
+      ],
+      "year": 1960,
+      "pin_cites": [
+        {
+          "page": "683",
+          "parenthetical": "quoting Whitaker v. Coleman, 115 F.2d 305, 307 (5th Cir. 1940)"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/55/0678-01"
+      ]
+    },
+    {
+      "cite": "314 P.3d 380",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2013,
+      "opinion_index": 0
+    },
+    {
+      "cite": "179 Wn.2d 322",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4033270
+      ],
+      "year": 2013,
+      "pin_cites": [
+        {
+          "page": "338"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/179/0322-01"
+      ]
+    },
+    {
+      "cite": "254 P.3d 797",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "weight": 2,
+      "year": 2011,
+      "pin_cites": [
+        {
+          "parenthetical": "holding trial court abused its discretion by not applying Burnet factors before excluding witnesses disclosed after court's deadline"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "171 Wn.2d 342",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4015614
+      ],
+      "year": 2011,
+      "pin_cites": [
+        {
+          "page": "348",
+          "parenthetical": "holding trial court abused its discretion by not applying Burnet factors before excluding witnesses disclosed after court's deadline"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/171/0342-01"
+      ]
+    },
+    {
+      "cite": "770 P.2d 182",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1989,
+      "opinion_index": 0
+    },
+    {
+      "cite": "112 Wn.2d 216",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1175499
+      ],
+      "year": 1989,
+      "pin_cites": [
+        {
+          "page": "226"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/112/0216-01"
+      ]
+    },
+    {
+      "cite": "958 P.2d 301",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1998,
+      "opinion_index": 0
+    },
+    {
+      "cite": "135 Wn.2d 658",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        812867
+      ],
+      "year": 1998,
+      "pin_cites": [
+        {
+          "page": "663"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/135/0658-01"
+      ]
+    },
+    {
+      "cite": "325 P.3d 306",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "weight": 2,
+      "year": 2014,
+      "opinion_index": 0
+    },
+    {
+      "cite": "181 Wn. App. 67",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        4280294
+      ],
+      "weight": 4,
+      "year": 2014,
+      "pin_cites": [
+        {
+          "page": "73"
+        },
+        {
+          "page": "79",
+          "parenthetical": "quoting Folsom, 135 Wn.2d at 663"
+        },
+        {
+          "page": "73-76"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/181/0067-01"
+      ]
+    },
+    {
+      "cite": "122 Wn.2d 1010",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "year": 1993,
+      "opinion_index": 0
+    },
+    {
+      "cite": "851 P.2d 689",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1993,
+      "opinion_index": 0
+    },
+    {
+      "cite": "70 Wn. App. 18",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        1745399
+      ],
+      "weight": 7,
+      "year": 1993,
+      "pin_cites": [
+        {
+          "page": "21, 23-24"
+        },
+        {
+          "page": "26"
+        },
+        {
+          "page": "21"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/70/0018-01"
+      ]
+    },
+    {
+      "cite": "933 P.2d 1036",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1997,
+      "opinion_index": 0
+    },
+    {
+      "cite": "131 Wn.2d 484",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1547068
+      ],
+      "weight": 2,
+      "year": 1997,
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/131/0484-01"
+      ]
+    },
+    {
+      "cite": "341 P.3d 261",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2014,
+      "opinion_index": 0
+    },
+    {
+      "cite": "182 Wn.2d 136",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4075760
+      ],
+      "year": 2014,
+      "pin_cites": [
+        {
+          "page": "144"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/182/0136-01"
+      ]
+    },
+    {
+      "cite": "9 P.3d 805",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2000,
+      "opinion_index": 1
+    },
+    {
+      "cite": "141 Wn.2d 539",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1183476
+      ],
+      "year": 2000,
+      "pin_cites": [
+        {
+          "page": "556"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/141/0539-01"
+      ]
+    },
+    {
+      "cite": "374 P.2d 536",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1962,
+      "opinion_index": 1
+    },
+    {
+      "cite": "60 Wn.2d 421",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1031651
+      ],
+      "year": 1962,
+      "pin_cites": [
+        {
+          "page": "424"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/60/0421-01"
+      ]
+    },
+    {
+      "cite": "314 P.3d 380",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2013,
+      "pin_cites": [
+        {
+          "parenthetical": "holding Burnet error can be harmless"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "179 Wn.2d 322",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4033270
+      ],
+      "year": 2013,
+      "pin_cites": [
+        {
+          "page": "338, 360",
+          "parenthetical": "holding Burnet error can be harmless"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/179/0322-01"
+      ]
+    },
+    {
+      "cite": "254 P.3d 797",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2011,
+      "pin_cites": [
+        {
+          "parenthetical": "declining to do the Burnet analysis on appeal for the first time"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "171 Wn.2d 342",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4015614
+      ],
+      "year": 2011,
+      "pin_cites": [
+        {
+          "page": "351",
+          "parenthetical": "declining to do the Burnet analysis on appeal for the first time"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/171/0342-01"
+      ]
+    },
+    {
+      "cite": "933 P.2d 1036",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1997,
+      "opinion_index": 1
+    },
+    {
+      "cite": "131 Wn.2d 484",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1547068
+      ],
+      "year": 1997,
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/131/0484-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1221,
+    "char_count": 30365,
+    "ocr_confidence": 0.893,
+    "pagerank": {
+      "raw": 3.111948686865683e-07,
+      "percentile": 0.8600557407014849
+    },
+    "sha256": "7e657285dad3033e22e6249b564d33ad6ceb8ef58914113f393075782de537d2",
+    "simhash": "1:bd946f049c6e0162",
+    "word_count": 4949
+  },
+  "last_updated": "2024-02-27T21:13:25.899037+00:00",
+  "provenance": {
+    "date_added": "2019-05-21",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Johnson, Owens, Fairhurst, Stephens, and Wiggins, JJ., concur.",
+      "Gordon McCloud and Yu, JJ., concur with Gonz\u00e1lez, J."
+    ],
+    "parties": [
+      "Darla Keck et al., Respondents, v. Chad P. Collins et al., Petitioners."
+    ],
+    "opinions": [
+      {
+        "text": "Madsen, C.J.\n\u00b61 Darla Keck filed a medical malpractice case against doctors Chad Collins, DMD, and Patrick Collins, DDS (collectively the Doctors) after she experienced complications following sleep apnea surgery. Her claim focuses on the quality of treatment that she received postsurgery, which she alleges fell below the applicable standard of care. Generally in a medical malpractice claim, a plaintiff needs testimony from a medical expert to establish two required elements\u2014standard of care and causation. RCW 7.70.040; Grove v. PeaceHealth St. Joseph Hosp., 182 Wn.2d 136, 144, 341 P.3d 261 (2014).\n\u00b62 The Doctors moved for summary judgment, arguing she lacked a qualified medical expert who could provide testimony to establish her claim. In response to the motion, her counsel filed two timely affidavits and one untimely affidavit from her medical expert. The trial court granted a motion to strike the untimely affidavit. Considering the remaining affidavits, the court ruled that the expert did not connect his opinions to specific facts to support the contention that the Doctors\u2019 treatment fell below the standard of care. Therefore, the court granted summary judgment for the Doctors.\n\u00b63 The Court of Appeals reversed. Although it agreed that the two timely affidavits lacked sufficient factual support to defeat summary judgment, it held, under de novo review, that the trial court should have denied the motion to strike and should have considered the third affidavit. This affidavit, the court held, contained sufficient factual support to defeat summary judgment.\n\u00b64 This case raises two issues.\n\u00b65 First, we must decide the standard of review for a challenged ruling to strike untimely filed evidence submitted in response to a summary judgment motion. We hold that the trial court must consider the factors from Burnet v. Spokane Ambulance, 131 Wn.2d 484, 933 P.2d 1036 (1997), on the record before striking the evidence. The court\u2019s decision is then reviewed for an abuse of discretion. In this case, the trial court abused its discretion because it failed to consider the Burnet factors.\n\u00b66 Second, we consider whether the expert\u2019s timely second affidavit showed a genuine issue for trial\u2014that a reasonable jury could return a verdict for the plaintiff\u2014to defeat summary judgment. We conclude it did. On this basis, we affirm the Court of Appeals.\nFACTS\n\u00b67 On November 26, 2007, Dr. Chad and Dr. Patrick performed sleep apnea surgery on Darla Keck. The surgery involved cutting bone on the upper and lower jaws to advance them, thereby opening airway space to improve her breathing.\n\u00b68 Following the surgery, Keck suffered complications. On December 6, she went to a follow-up appointment with the Doctors, experiencing pain and exuding green pus from one of her surgical wounds. Over the next several months, she continued to experience pain and swelling and developed an infection in her jawbone.\n\u00b69 One or both doctors treated her after the initial surgery. At follow-up appointments on December 6 and 17, Dr. Chad prescribed an antibiotic. On January 24,2008, Dr. Chad surgically removed loose plates and screws left in place from the surgery, cleaned out infected parts of the jawbone, and wired Keck\u2019s jaw shut. Keck went to the emergency room three days later, experiencing facial swelling. On March 18, Dr. Chad performed another surgery to clean the infected jawbone and install \u201cmore stout hardware\u201d because her jaw had not yet formed healthy bone, a condition called \u201cnonunion.\u201d Clerk\u2019s Papers (CP) at 136. At a follow-up visit on June 11, Keck had loose bone and hardware that moved with finger manipulation. On July 18, Dr. Chad surgically grafted bone and installed new hardware. Still experiencing problems, Keck went to another oral surgeon, who surgically removed old hardware and installed new hardware.\n\u00b610 Keck alleges that she now suffers from chronic pain, swelling, fatigue, nerve sensations in her eye, an acrid taste in her mouth, and numbness in her cheek and chin.\n\u00b611 On November 23, 2010, Keck, along with her husband and son, filed a medical malpractice action against the Doctors. Dr. Patrick moved for summary judgment on December 20, 2011, arguing that plaintiffs lacked competent medical testimony that could establish a prima facie medical negligence claim.\n\u00b612 Counsel for Dr. Patrick originally scheduled the hearing on the motion for January 20, 2012. After a conversation with plaintiffs\u2019 counsel, counsel for Dr. Patrick agreed to withdraw the summary judgment motion and renote it on a later date after the court issued an amended trial schedule order. After the amended schedule order issued, Dr. Patrick renoted his motion, with a hearing date scheduled for March 30. Counsel for Dr. Chad filed a joinder in the motion.\n\u00b613 Civil Rule 56(c) requires that the nonmoving party submit supporting affidavits, memoranda, or law no later than 11 days before the hearing. Plaintiffs\u2019 counsel timely submitted an affidavit of plaintiffs\u2019 medical expert, Dr. Kasey Li, on March 16. This affidavit, however, referred only to Dr. Chad. On March 22, plaintiffs filed a second affidavit of Dr. Li that referred to both doctors. In all other respects, the second affidavit remained unchanged from the first. Although plaintiffs filed the second affidavit after the 11-day limit imposed by CR 56(c), the Doctors did not object on the basis of timeliness. CP at 101.\n\u00b614 In the second affidavit, Dr. Li stated:\n1. I am Physician Board Certified in Otolaryngology and Oral Surgery. I practice both Otolaryngology and Plastic Reconstructive Surgery at Stanford Hospital in Stanford, California and am on the faculty of the hospital. Additionally, I am the founder of the Sleep Apnea Surgery Center, also located at Stanford. Among other things, I am a specialist in the diagnosis, surgery and treatment of sleep apnea. Furthermore, I am licensed to practice in the State of Washington and have consulting privileges at Virginia Mason.\n2. I am familiar with the standard of care in Washington State as it relates to the treatment of sleep apnea and the procedures involved in Ms. Keck\u2019s case. In addition to being involved in another case in Spokane and having discussed that case with an Otolaryngologist at the University of Washington, I lecture in Washington State on many issues which include those involved in this case and, as part of that, interact with the participants and have discussions that confirm that the standard of care in Washington State is the same as a national standard of care. Additionally in my position, I interact with oral surgeons from the State of Washington which include former students from Stanford University. Given my knowledge, it is my opinion that the standard of care involved in Ms. Keck\u2019s case in Washington State is a national standard of care.\n3. I have reviewed medical records from Drs. Chad and Patrick Collins, Western Mountain Clinic, Dr. Higuchi, Deaconess Medical Center, Dr. Read, Dr. Ramien, St. Patrick\u2019s Hospital, Sacred Heart Hospital, imaging photos and disks, and medical records from Cosmetic Surgical Arts Center and Dr. George M. Olsen, D.D.S. As part of my review, I looked at the procedures performed by Drs. Chad and Patrick Collins (the surgeons) as well as the problems experienced by the Plaintiff Darla Keck. In doing so, I have identified standard of care violations that resulted in infection and in non-union of Ms. Keck\u2019s jaw. This, in turn, has resulted in a prolonged course of recovery with numerous additional procedures to repair the ongoing problems which I understand have still not resolved.\n4. According to the medical records, on November 26, 2007, Darla Keck was seen by the surgeons to address sleep apnea which was moderate to severe with a sleep score of 20. From the records, it appears that Ms. Keck was intolerant of CPAP [(continuous positive airway pressure)].\n5. The surgeons performed multiple operations without really addressing the problem of non-union and infection within the standard of care.\n6. With regards to referring Ms. Keck for follow up care, the records establish that the surgeons were sending Ms. Keck to a general dentist as opposed to an oral surgeon or even a plastic surgeon or an Ear, Nose and Throat doctor. Again, this did not meet the standard of care as the general dentist would not have had sufficient training or knowledge to deal with Ms. Keck\u2019s non-union and the developing infection/osteomyelitis.\n7. The standard of care violations as outlined herein were the proximate cause of Ms. Keck\u2019s injuries and/or ongoing problems. The opinions I express in this declaration are intended to be rendered to a reasonable degree of medical probability or certainty or on a more probable than not basis both as it relates to standard of care as well as causation and damages. To the extent it is raised by the defendants, I am familiar with the standard of care required in the State of Washington for Oral Maxillofacial Surgery such as the surgeons [\u2019] actions in the same or similar circumstances related to the provision of care provided to Ms. Keck.\nCP at 46-48.\n\u00b615 In reply to Dr. Li\u2019s second affidavit, the Doctors argued that the plaintiffs failed to raise a genuine issue of material fact because Dr. Li\u2019s affidavit contained only conclusory statements without adequate factual support. They did not, however, argue that Dr. Li was unqualified to give an opinion in the case.\n\u00b616 Prompted by the argument that Dr. Li\u2019s second affidavit lacked sufficient detail, the plaintiffs submitted an untimely third affidavit of Dr. Li on March 29, the day before the summary judgment hearing and 10 days after the filing deadline imposed by CR 56(c).\n\u00b617 Plaintiffs\u2019 counsel explained the untimeliness of Dr. Li\u2019s third affidavit. He contended that Dr. Patrick\u2019s counsel filed the motion without verifying his availability, which was limited during the period for submitting affidavits. From March 7 until March 20, 2012, he participated in a medical malpractice trial. During the ongoing trial, he worked with Dr. Li to obtain an affidavit that responded to the motion. Although he believed the second affidavit would defeat summary judgment, he submitted the third affidavit in the event that the court found the second one insufficient. He requested that the court excuse the late filing and consider the supplemental affidavit at the March 30 hearing or, alternatively, that the court continue the motion hearing pursuant to CR 56(f) so that the court could evaluate it.\n\u00b618 The Doctors moved to strike the third affidavit as untimely. While the court noted plaintiffs\u2019 counsel\u2019s explanation and that trial was several months away, which reduced the prejudice to the Doctors, it ultimately granted the motion to strike and denied the motion for a continuance. Considering only the first and second affidavits, the trial court granted summary judgment in favor of the Doctors on the negligent postoperative care claim. The trial court concluded, under Guile v. Ballard Community Hospital, 70 Wn. App. 18, 851 P.2d 689, review denied, 122 Wn.2d 1010 (1993), that the affidavits lacked \u201cspecific identified facts which would support the contention that the defendants\u2019 actions fell below the requisite standard of care.\u201d CP at 102.\n\u00b619 The Court of Appeals reversed. Keck v. Collins, 181 Wn. App. 67, 73, 325 P.3d 306 (2014). Reviewing the ruling on the motion to strike, the court concluded that it should apply a de novo rather than an abuse of discretion standard of review because the ruling was made in conjunction with a summary judgment motion. Id. at 79. The majority determined de novo review appropriate based on a passage in Folsom that states de novo review applies to \u201c \u2018all trial court rulings made in conjunction with a summary judgment motion.\u2019 \u201d Id. (quoting Folsom v. Burger King, 135 Wn.2d 658, 663, 958 P.2d 301 (1998)).\n\u00b620 Under de novo review, the Court of Appeals determined that the trial court should have excused the late filing or granted a continuance to consider the third affidavit. Id. at 89. The Court of Appeals then reversed the summary judgment order, holding the third affidavit showed a genuine issue for trial. Id. at 92-93. However, the court affirmed the trial court\u2019s conclusion that the second affidavit lacked specific facts under Guile to defeat summary judgment. Id. at 91-92.\n\u00b621 Before this court, the Doctors argue that the Court of Appeals erred by reviewing de novo the trial court\u2019s decision to exclude the third affidavit and by reversing that decision. The Keck family raises a second issue, arguing that the Court of Appeals erred by holding the second affidavit insufficient to defeat summary judgment.\nANALYSIS\n1. An order striking untimely evidence at summary judgment requires a Burnet analysis and is reviewed for abuse of discretion\n\u00b622 When we review a summary judgment order, we must consider all evidence in favor of the nonmoving party. Young v. Key Pharm., Inc., 112 Wn.2d 216, 226, 770 P.2d 182 (1989). Before we can consider the evidence in this case, however, we need to determine what evidence is before us. The trial court struck one possible piece of evidence\u2014Dr. Li\u2019s third affidavit\u2014as untimely. To determine the propriety of this decision, we must first settle which standard of review applies.\n\u00b623 Relying on a statement in Folsom that says the de novo standard applies to \u201c \u2018all trial court rulings made in conjunction with a summary judgment motion,\u2019 \u201d the Court of Appeals reviewed de novo the trial court\u2019s ruling striking the third affidavit as untimely. Keck, 181 Wn. App. at 79 (quoting Folsom, 135 Wn.2d at 663). The quoted phrase from Folsom, however, referred to the trial court\u2019s eviden-tiary rulings on admissibility. See 135 Wn.2d at 662-63. It did not address rulings on timeliness under our civil rules. See id.\n\u00b624 Our precedent establishes that trial courts must consider the factors from Burnet, 131 Wn.2d 484, before excluding untimely disclosed evidence; rather than de novo review under Folsom, we then review a decision to exclude for an abuse of discretion. See, e.g., Blair v. TA-Seattle E. No. 176, 171 Wn.2d 342, 348, 254 P.3d 797 (2011) (holding trial court abused its discretion by not applying Burnet factors before excluding witnesses disclosed after court\u2019s deadline). We have said that the decision to exclude evidence that would affect a party\u2019s ability to present its case amounts to a severe sanction. Id. And before imposing a severe sanction, the court must consider the three Burnet factors on the record: whether a lesser sanction would probably suffice, whether the violation was willful or deliberate, and whether the violation substantially prejudiced the opposing party. Jones v. City of Seattle, 179 Wn.2d 322, 338, 314 P.3d 380 (2013).\n\u00b625 While our cases have required the Burnet analysis only when severe sanctions are imposed for discovery violations, we conclude that the analysis is equally appropriate when the trial court excludes untimely evidence submitted in response to a summary judgment motion. Here, after striking the untimely filed expert affidavit, the trial court determined that the remaining affidavits were insufficient to support the contention that the Doctors\u2019 actions fell below the applicable standard of care. Essentially, the court dismissed the plaintiffs\u2019 claim because they filed their expert\u2019s affidavit late. But \u201cour overriding responsibility is to interpret the rules in a way that advances the underlying purpose of the rules, which is to reach a just determination in every action.\u201d Burnet, 131 Wn.2d at 498 (citing CR 1). The \u201c \u2018purpose [of summary judgment] is not to cut litigants off from their right of trial by jury if they really have evidence which they will offer on a trial, it is to carefully test this out, in advance of trial by inquiring and determining whether such evidence exists.\u2019 \u201d Preston v. Duncan, 55 Wn.2d 678, 683, 349 P.2d 605 (1960) (quoting Whitaker v. Coleman, 115 F.2d 305, 307 (5th Cir. 1940)).\n\u00b626 In this case, the trial court abused its discretion by not considering the Burnet factors before striking the third affidavit. Aside from noting that the trial date was several months away, which tended to reduce the prejudice to the defendants, the court made no finding regarding willfulness or the propriety of a lesser sanction. We reverse the order striking the third affidavit.\n2. The second affidavit created a genuine issue of material fact\n\u00b627 We review summary judgment orders de novo, considering the evidence and all reasonable inferences from the evidence in the light most favorable to the nonmoving party. Folsom, 135 Wn.2d at 663. Summary judgment is appropriate only when no genuine issue exists as to any material fact and the moving party is entitled to judgment as a matter of law. Scrivener v. Clark Coll., 181 Wn.2d 439, 444, 334 P.3d 541 (2014).\n\u00b628 To establish medical malpractice, Keck must prove that the Doctors\u2019 treatment fell below the applicable standard of care and proximately caused her injuries. See RCW 7.70.040. Generally, the plaintiff must establish these elements through medical expert testimony. Grove, 182 Wn.2d at 144. The Doctors moved for summary judgment on the ground that Keck had not presented any qualified expert who could reasonably establish a breach of the standard of care and proximate cause. In other words, they argued that no genuine issue of material fact remained for trial because she could not establish two essential elements of her malpractice claim. See Young, 112 Wn.2d at 225-26 (holding moving party carries initial burden of showing no genuine issue by arguing nonmoving party has a failure of proof concerning a necessary element of nonmoving party\u2019s claim).\n\u00b629 An issue of material fact is genuine if the evidence is sufficient for a reasonable jury to return a verdict for the nonmoving party. Anderson v. Liberty Lobby, Inc., 477 U.S. 242, 248, 106 S. Ct. 2505, 91 L. Ed. 2d 202 (1986); Herron v. KING Broad. Co., 112 Wn.2d 762, 768, 776 P.2d 98 (1989). Our analysis, then, asks whether Dr. Li\u2019s testimony could sustain a verdict in Keck\u2019s favor on her malpractice claim.\n\u00b630 A plaintiff seeking damages for medical malpractice must prove his or her \u201cinjury resulted from the failure of a health care provider to follow the accepted standard of care.\u201d RCW 7.70.030(1). The \u201cstandard of care\u201d means \u201cthat degree of care, skill, and learning expected of a reasonably prudent health care provider at that time in the profession or class to which he or she belongs, in the state of Washington, acting in the same or similar circumstances\u201d (reasonable doctor). RCW 7.70.040(1). To sustain a verdict, Keck needs an expert to say what a reasonable doctor would or would not have done, that the Doctors failed to act in that manner, and that this failure caused her injuries.\n\u00b631 The Doctors argued and the Court of Appeals agreed that the second affidavit is insufficient regarding the standard of care because Dr. Li did not provide any details about what standard applied. We disagree. We conclude that paragraphs 5 and 6 speak to the standard of care and the Doctors\u2019 breach of that standard.\n\u00b632 Paragraph 5 states, \u201cThe surgeons performed multiple operations without really addressing the problem of non-union and infection within the standard of care.\u201d CP at 48. Viewed in the light most favorable to the plaintiffs, this sentence avers that a reasonable doctor would have addressed Keck\u2019s problems of nonunion and infection\u2014standard of care. The Doctors did not actually treat these underlying problems, even though they performed multiple surgeries on her\u2014breach.\n\u00b633 Paragraph 6 states:\nWith regards to referring Ms. Keck for follow up care, the records establish that the surgeons were sending Ms. Keck to a general dentist as opposed to an oral surgeon or even a plastic surgeon or an Ear, Nose and Throat doctor. Again, this did not meet the standard of care as the general dentist would not have had sufficient training or knowledge to deal with Ms. Keck\u2019s non-union and the developing infection/osteomyelitis.\nId.\n\u00b634 Reading this paragraph in conjunction with paragraph 5, a jury could conclude that a reasonable doctor would have referred Keck to another qualified doctor for treatment\u2014standard of care\u2014and that the Doctors did not treat her issues or make an appropriate referral\u2014breach.\n\u00b635 When taken in the light most favorable to the nonmoving party, Dr. Li\u2019s affidavit establishes the applicable standard of care and that the defendants breached it. Additionally, Dr. Li stated that these violations proximately caused Keck\u2019s injuries within a reasonable degree of medical certainty. Id. Dr. Li provided the necessary testimony to establish a prima facie case of medical malpractice. See RCW 7.70.040. We therefore conclude that a jury could return a verdict for the plaintiffs, which means that genuine issues of material fact regarding the standard of care and causation remain for trial. Accordingly, the trial court erred in granting summary judgment.\n\u00b636 The Doctors also argue that we should rely on Guile, as the Court of Appeals did, and hold Dr. Li\u2019s second affidavit insufficient. But Guile is distinguishable.\n\u00b637 In Guile, the defendants moved for summary judgment of plaintiff\u2019s malpractice claim on the ground that the plaintiff lacked competent medical evidence to establish her claim. 70 Wn. App. at 21, 23-24. The plaintiff submitted an affidavit from her medical expert. Id. at 26. The Court of Appeals held the affidavit insufficient to defeat summary judgment because it failed to identify specific facts supporting the expert\u2019s conclusion that the defendant surgeon negligently performed surgery. Id. The affidavit summarized plaintiff\u2019s postsurgical injuries and opined that the injuries were caused by the surgeon\u2019s \u201c \u2018faulty technique,\u2019 \u201d which fell below the applicable standard of care. Id.\n\u00b638 To say that a reasonable doctor would not use a faulty technique essentially states that a reasonable doctor would not act negligently. This testimony fails to establish the applicable standard of care\u2014how the defendant acted negligently\u2014and therefore could not sustain a verdict for the plaintiff. Conversely, Dr. Li stated the applicable standard of care and how the Doctors breached that standard: a reasonable doctor would have actually treated Keck\u2019s developing infection and nonunion or made an appropriate referral to another doctor for treatment, but here, the Doctors did neither.\n\u00b639 Additionally, we note that the expert in Guile failed to link his conclusions to any factual basis, including his review of the medical records. See id. In contrast to the expert in Guile, Dr. Li connected his opinions about the standard of care and causation to a factual basis: the medical records. Dr. Li stated that he reviewed medical records in the case and the procedures performed by the defendants, and within that factual review, he identified standard of care violations. CP at 47 (para. 3).\nCONCLUSION\n\u00b640 Before excluding untimely evidence submitted in response to a summary judgment motion, the trial court must consider the Burnet factors on the record. On appeal, a ruling to exclude is reviewed for an abuse of discretion. Applying this standard, we conclude the trial court abused its discretion because it failed to consider the Burnet factors before striking the third affidavit.\n\u00b641 We also conclude the Court of Appeals erred when it held the second affidavit lacked adequate factual support for the opinion that the Doctors\u2019 treatment fell below the standard of care. Because the testimony could sustain a verdict for the nonmoving party, it was sufficient. For this reason, we affirm the Court of Appeals\u2019 decision reversing the summary judgment order.\nJohnson, Owens, Fairhurst, Stephens, and Wiggins, JJ., concur.\nThe substance of the two timely affidavits remained the same, but the first omitted reference to Dr. Patrick Collins. To avoid being duplicative, our analysis will discuss only the second affidavit because it refers to both doctors.\nFor the sake of clarity, Dr. Chad Collins will be referred to as \u201cDr. Chad\u2019\u2019 and Dr. Patrick Collins will be referred to as \u201cDr. Patrick.\u2019\u2019\n\u201cSleep apnea\u2019\u2019 refers to \u201cbrief periods of recurrent cessation of breathing during sleep that is caused especially] by obstruction of the airway or a disturbance in the brain\u2019s respiratory center and is associated esp[ecially] with excessive daytime sleepiness.\u2019\u2019 Webster\u2019s Third New International Dictionary 130a (2002).\nFor a more detailed recitation of the postsurgical facts and the problems experienced by Keck, see the Facts section in Keck v. Collins, 181 Wn. App. 67, 73-76, 325 P.3d 306 (2014).\nThe parties dispute the specific involvement each doctor had in the postsurgery care.\nCounsel for Dr. Patrick did object to the timeliness of the second affidavit in a reply memorandum. But counsel did not renew this objection at the summary judgment hearing or on appeal.\nAlthough the trial court did not evaluate the merits of the third affidavit, the parties appear to agree that this affidavit would have created a genuine issue of material fact to defeat summary judgment. The Doctors, for example, did not challenge the Court of Appeals\u2019 holding that the third affidavit was sufficient.\n\u201cA material fact is one that affects the outcome of the litigation.\u201d Owen v. Burlington N. Santa Fe R.R. Co., 153 Wn.2d 780, 789, 108 P.3d 1220 (2005).\nThe Doctors suggest that Dr. Li\u2019s conclusion regarding proximate cause is deficient because he failed to identify the specific \u201c \u2018problems\u2019 \u201d Keck has experienced. Pet\u2019rs\u2019 Joint Suppl. Br. at 19. However, paragraph 6 refers to Keck\u2019s developing infection. CP at 48. Moreover, while Dr. Li must establish proximate cause for Keck\u2019s injuries through his testimony, he need not detail all of her alleged injuries.\nKeck argues for a less stringent summary judgment standard for experts, citing ER 705, which allows an expert to give an opinion without first disclosing the underlying facts unless the court requires otherwise. The proposed standard would allow a qualified expert to only state that \u201cthe defendant breached the standard of care and caused the plaintiff\u2019s injuries,\u2019\u2019 without providing more, to defeat summary judgment. However, to survive summary judgment in any case, there must be a question of material fact. We reject Keck\u2019s invitation to adopt a less stringent summary judgment standard for experts. We also reject the Doctors\u2019 suggestion for a more stringent standard. They challenge the factual foundation of Dr. Li\u2019s opinions, even though he stated that he relied on various medical records to reach his conclusions. CP at 47 (para. 3). ER 705 would allow an expert\u2019s testimony without prior disclosure of the underlying facts, unless the trial court required disclosure. As long as the expert\u2019s affidavit testimony, if believed, could sustain a verdict, the trial court should give the plaintiff an opportunity to supply more detail if the court determines more detail would be desirable. See Bulthuis v. Rexall Corp., 789 F.2d 1315, 1317 (9th Cir. 1985).\nIt also appears that the expert\u2014an osteopath licensed in Arizona opining about the care owed by an obstetrician/gynecologist in Washington\u2014may have been unqualified to testify about the applicable standard of care. See Guile, 70 Wn. App. at 21, 27 n.7.",
+        "type": "majority",
+        "author": "Madsen, C.J."
+      },
+      {
+        "text": "Gonz\u00e1lez, J.\n\u00b642 (concurring) \u2014 I concur with the majority. I write separately, though, for several reasons. First, while I am sympathetic to the argument that a trial court should apply the Burnet v. Spokane Ambulance, 131 Wn.2d 484, 933 P.2d 1036 (1997), analysis before striking an expert declaration submitted in relation to summary judgment motions as a discovery sanction, that does not appear to be what happened here. Instead, the plaintiff untimely submitted an expert declaration, the defendant moved to strike it on the grounds of untimeliness, and the trial court granted the motion. It is highly questionable whether that is in fact a discovery sanction.\n\u00b643 Second, I write separately to stress that while it is an abuse of discretion for the trial court to impose harsh discovery sanctions without finding the three Burnet factors, it is not per se reversible error. See Jones v. City of Seattle, 179 Wn.2d 322, 338, 360, 314 P.3d 380 (2013) (holding Burnet error can be harmless); see also Blair v. TA-Seattle E. No. 176, 171 Wn.2d 342, 351, 254 P.3d 797 (2011) (declining to do the Burnet analysis on appeal for the first time). Reversal is strong medicine and will not be administered when it is plain from the record that the error was harmless. See Jones, 179 Wn.2d at 360 (citing Holmes v. Raffo, 60 Wn.2d 421, 424, 374 P.2d 536 (1962)). Given, of course, that there is an independent ground to vacate the summary judgment order in this case, such an analysis would be extraneous. It will not be in many cases.\n\u00b644 I concur with the majority that trial court decisions to strike untimely declarations submitted in relation to summary judgment are properly reviewed for abuse of discretion. I recognize our case law is split on this, but I conclude that whether to accept an untimely filed affidavit is the sort of case management decision best left in the trial court\u2019s hands. See Pitzer v. Union Bank of Cal., 141 Wn.2d 539, 556, 9 P.3d 805 (2000). I also agree that the second declaration was sufficient to defeat summary judgment. With these observations, I concur with the majority.\nGordon McCloud and Yu, JJ., concur with Gonz\u00e1lez, J.",
+        "type": "concurrence",
+        "author": "Gonz\u00e1lez, J."
+      }
+    ],
+    "attorneys": [
+      "Geana M. Van Dessel (of Lee & Hayes PLLCf Stephen M. Lamberson (of Etter, McMahon, Lamberson, Van Wert & Oreskovich PC); and Courtney A. Garcea {o\u00edLukins & Annis PS), for petitioners.",
+      "George M. Ahrend, {o\u00edAhrend Law Firm PLLC); and Mark D. Kamitomo (of The Markam. Group Inc.), for respondents.",
+      "Stewart A. Estes and Daniel J. Gunter on behalf of Washington Defense Trial Lawyers, amicus curiae.",
+      "Bryan P Harnetiaux and Gary N. Bloom on behalf of Washington State Association for Justice Foundation, am-icus curiae.",
+      "Gregory M. Miller and Justin P Wade on behalf of Washington State Medical Association, amicus curiae."
+    ],
+    "corrections": "",
+    "head_matter": "[No. 90357-3.\nArgued February 12, 2015.\nDecided September 24, 2015.\nDarla Keck et al., Respondents, v. Chad P. Collins et al., Petitioners.\nGeana M. Van Dessel (of Lee & Hayes PLLCf Stephen M. Lamberson (of Etter, McMahon, Lamberson, Van Wert & Oreskovich PC); and Courtney A. Garcea {o\u00edLukins & Annis PS), for petitioners.\nGeorge M. Ahrend, {o\u00edAhrend Law Firm PLLC); and Mark D. Kamitomo (of The Markam. Group Inc.), for respondents.\nStewart A. Estes and Daniel J. Gunter on behalf of Washington Defense Trial Lawyers, amicus curiae.\nBryan P Harnetiaux and Gary N. Bloom on behalf of Washington State Association for Justice Foundation, am-icus curiae.\nGregory M. Miller and Justin P Wade on behalf of Washington State Medical Association, amicus curiae."
+  },
+  "file_name": "0358-01",
+  "first_page_order": 400,
+  "last_page_order": 417
+}

@@ -1,0 +1,193 @@
+{
+  "id": 1428258,
+  "name": "Yaffe Iron & Metal Company v. Pulaski County",
+  "name_abbreviation": "Yaffe Iron & Metal Co. v. Pulaski County",
+  "decision_date": "1934-02-12",
+  "docket_number": "4-3354",
+  "first_page": "808",
+  "last_page": "811",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "188 Ark. 808"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [
+    {
+      "cite": "44 S. W. 454",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "64 Ark. 627",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1907396
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/64/0627-01"
+      ]
+    },
+    {
+      "cite": "101 S. W. 758",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "82 Ark. 367",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1529046
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/82/0367-01"
+      ]
+    },
+    {
+      "cite": "27 S. W. (2d) 95",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "181 Ark. 659",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        8724316
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/181/0659-01"
+      ]
+    },
+    {
+      "cite": "42 S. W. (2d) 1004",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "184 Ark. 588",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1438587
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/184/0588-01"
+      ]
+    },
+    {
+      "cite": "112 S. W. 891",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "87 Ark. 389",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1519170
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/87/0389-01"
+      ]
+    },
+    {
+      "cite": "80 S. W. 148",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "72 Ark. 330",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1505586
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/72/0330-01"
+      ]
+    },
+    {
+      "cite": "206 S. W. 312",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "136 Ark. 209",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1569961
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/136/0209-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 317,
+    "char_count": 4055,
+    "ocr_confidence": 0.495,
+    "pagerank": {
+      "raw": 4.13441437400841e-07,
+      "percentile": 0.9109197099908142
+    },
+    "sha256": "b2259dc5cb77b3f35ee21e7b99e950cad9c8d9d7d8412f7ef9e7e1cfdf20a203",
+    "simhash": "1:c640ec6829c0595e",
+    "word_count": 695
+  },
+  "last_updated": "2024-02-27T23:51:14.545434+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Yaffe Iron & Metal Company v. Pulaski County."
+    ],
+    "opinions": [
+      {
+        "text": "Johnson, C. J.,\n(after stating the facts). Four reasons are urged by counsel for appellee for an affirmance of the judgment. First, it is argued that there was no valid contract between appellant and Pulaski County for the purchase of the materials; the theory being that the contract of purchase was made with the purchasing agent of the county, and without any order of the county court directing it. It is immaterial that the contract was void. Appellee cannot accept and hold appellant\u2019s money, also retain the bridges, and at the same time plead the invalidity of the contract in bar of recovery. This contention has been definitely and certainly determined by this court in a number of cases. International Harvester Co. v. Searcy County, 136 Ark. 209, 206 S. W. 312; Howard County v. Lambright, 72 Ark. 330, 80 S. W. 148; Forrest City v. Orgill, 87 Ark. 389, 112 S. W. 891; Ft. Smith v. United States Rubber Co., 184 Ark. 588, 42 S. W. (2d) 1004.\nAppellee\u2019s second contention is that no appropriation was made by the quorum court of Pulaski County for the purpose of this claim. On this contention it suffices to say that it is fully answered 'by .the cases heretofore referred to and cited. As a matter of common honesty, a county should not be permitted to accept and hold money as the purchase price for material purchased, and at the same time retain ownership and control of the materials so purchased, and assert, in bar of any recovery, that no previous appropriation had been made therefor. The doctrine here announced does not in any way impair the holding of this court in American Disinfecting Co. v. Franklin County, 181 Ark. 659, 27 S. W. (2d) 95. There appellant\u2019s right to recover rested solely upon the validity or invalidity of the contract.\nThe third contention is, that appellant\u2019s claim was barred by the five-year statute of limitations. Appellant\u2019s alleged cause of action against Pulaski County did not arise until the county appropriated the two bridges, and this, we understand, did not occur until sometime about 1931. At any rate, there is no testimony showing that the appropriation of the two bridges by the county occurred within any statutory period of limitations prior to the filing of the claim in the county court. The law is well settled in this State that the burden is upon the one pleading the statute of limitations in bar to establish its application by testimony. This appellee has wholly failed to do.\nThe fourth and last contention is that appellant\u2019s claim is precluded by estoppel. An estoppel does not arise in favor of the party claiming it, unless misled by the acts or conduct of the other party. Rhodes v. Cissel, 82 Ark. 367, 101 S. W. 758; Rogers v. Galloway Female College, 64 Ark. 627, 44 S. W. 454.\nJust how and when Pulaski County was misled, to its detriment, by the acts of appellant is not pointed out in briefs. The uncontradieted testimony shows that Pulaski County accepted and now holds $1,475 of appellant\u2019s money. This money was paid to and accepted by it on the theory that the materials purchased would be delivered. The county now holds the money and the bridges. Certainly, under these circumstances, an estoppel could not possibly arise.\nFrom what we have said, it necessarily follows that the trial court erred in disallowing the claim of appellant as a whole. Upon remand, the trial court will hear testimony to determine the value of the White truck, the scrap iron and the three bridges, which were accepted fey appellant (one of which was destroyed by high waters), and deduct the aggregate thereof from the claim of $1,475 and allow the claim for the balance thus obtained or direct its allowance by the county court.\nThe judgment is reversed, and the cause remanded for further proceedings, in conformity with this opinion.",
+        "type": "majority",
+        "author": "Johnson, C. J.,"
+      }
+    ],
+    "attorneys": [
+      "Owens & Ehrman, John M. Lofton, Jr., and J. M. McFarlane, for appellant.",
+      "Carl E. Bailey, Prosecuting Attorney, and Murray O. Reed, Assistant, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Yaffe Iron & Metal Company v. Pulaski County.\n4-3354\nOpinion delivered February 12, 1934.\nOwens & Ehrman, John M. Lofton, Jr., and J. M. McFarlane, for appellant.\nCarl E. Bailey, Prosecuting Attorney, and Murray O. Reed, Assistant, for appellee."
+  },
+  "file_name": "0808-01",
+  "first_page_order": 826,
+  "last_page_order": 829
+}

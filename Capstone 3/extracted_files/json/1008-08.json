@@ -1,0 +1,78 @@
+{
+  "id": 12441005,
+  "name": "State, Respondent, v. Hansen, Petitioner",
+  "name_abbreviation": "State v. Hansen",
+  "decision_date": "2015-10-02",
+  "docket_number": "No. 91523-7",
+  "first_page": "1008",
+  "last_page": "1008",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "184 Wash. 2d 1008"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Wash.",
+    "id": 9029,
+    "name": "Washington Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 38,
+    "name_long": "Washington",
+    "name": "Wash."
+  },
+  "cites_to": [
+    {
+      "cite": "186 Wn. App. 1009",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        4171312,
+        4174265,
+        4173682,
+        4171556
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/186/1009-04",
+        "/wash-app/186/1009-02",
+        "/wash-app/186/1009-01",
+        "/wash-app/186/1009-03"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 26,
+    "char_count": 187,
+    "ocr_confidence": 0.851,
+    "sha256": "604a2d7cc4ac747d8e02cedc68dae39a82d96c837e78f31f22f277b5ea532d47",
+    "simhash": "1:0925aeba1d4d5e71",
+    "word_count": 31
+  },
+  "last_updated": "2024-02-27T21:13:25.899037+00:00",
+  "provenance": {
+    "date_added": "2019-05-21",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "State, Respondent, v. Hansen, Petitioner,"
+    ],
+    "opinions": [
+      {
+        "text": "Petition for review of a decision of the Court of Appeals, No. 70860-1-1, March 2, 2015, 186 Wn. App. 1009. Denied October 2, 2015.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "State, Respondent, v. Hansen, Petitioner,\nNo. 91523-7."
+  },
+  "file_name": "1008-08",
+  "first_page_order": 986,
+  "last_page_order": 986
+}

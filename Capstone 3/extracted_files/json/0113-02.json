@@ -1,0 +1,223 @@
+{
+  "id": 1913358,
+  "name": "Douglass v. Sharp",
+  "name_abbreviation": "Douglass v. Sharp",
+  "decision_date": "1889-05",
+  "docket_number": "",
+  "first_page": "113",
+  "last_page": "115",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "52 Ark. 113"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [
+    {
+      "cite": "22 Mo., 336",
+      "category": "reporters:state",
+      "reporter": "Mo.",
+      "case_ids": [
+        314319
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mo/22/0336-01"
+      ]
+    },
+    {
+      "cite": "2 Vt., 181",
+      "category": "reporters:state",
+      "reporter": "Vt.",
+      "case_ids": [
+        8545198
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/vt/2/0181-01"
+      ]
+    },
+    {
+      "cite": "32 Miss., 107",
+      "category": "reporters:state",
+      "reporter": "Miss.",
+      "case_ids": [
+        11259740
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/miss/32/0107-01"
+      ]
+    },
+    {
+      "cite": "9 Rich. Eq., 420",
+      "category": "reporters:state",
+      "reporter": "Rich. Eq.",
+      "case_ids": [
+        8713570
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/sc-eq/30/0420-01"
+      ]
+    },
+    {
+      "cite": "123 Mass., 433",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "2 Johns., 391",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "3 Mass., 300",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "18 Ala., 132",
+      "category": "reporters:state",
+      "reporter": "Ala.",
+      "case_ids": [
+        3170309
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ala/18/0132-01"
+      ]
+    },
+    {
+      "cite": "19 Am. Rep., 323",
+      "category": "reporters:state_regional",
+      "reporter": "Am. Rep.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "41 Conn., 607",
+      "category": "reporters:state",
+      "reporter": "Conn.",
+      "case_ids": [
+        745461
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/conn/41/0607-01"
+      ]
+    },
+    {
+      "cite": "28 Am. Rep., 1",
+      "category": "reporters:state_regional",
+      "reporter": "Am. Rep.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "68 Me., 34",
+      "category": "reporters:state",
+      "reporter": "Me.",
+      "case_ids": [
+        8843849
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/me/68/0034-01"
+      ]
+    },
+    {
+      "cite": "2 Barb., 334",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "1 Phillips, 332",
+      "category": "reporters:state",
+      "reporter": "Phillips,",
+      "opinion_index": -1
+    },
+    {
+      "cite": "42 Barb., 613",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "13 Johns., 169",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "11 Atl. Rep., 116",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "51 Ark., 61",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        8720154
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/51/0061-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 288,
+    "char_count": 3686,
+    "ocr_confidence": 0.688,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.06973727039684553
+    },
+    "sha256": "0f1b22ba799cbdd5951a8bec564373d58735eae1402b0a9feac8018f5cac6dd9",
+    "simhash": "1:6861a45ff1b40dcb",
+    "word_count": 678
+  },
+  "last_updated": "2024-02-27T21:49:13.359511+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Douglass v. Sharp."
+    ],
+    "opinions": [
+      {
+        "text": "Per Curiam.\nThe will gave to the widow, a life estate only, and the power of disposal vested in her was limited to her life estate in the land, as decided by this court in Patty v. Goolsby, 51 Ark., 61. See, also, Giles v. Little, 104 U. S.\nReverse and remand.",
+        "type": "majority",
+        "author": "Per Curiam."
+      }
+    ],
+    "attorneys": [
+      "Wells & Williamson, for appellants.",
+      "Harrison & Harrison, for appellees."
+    ],
+    "corrections": "",
+    "head_matter": "Douglass v. Sharp.\nWills: Estate conveyed: Power of sale.\nA will disposed of the testator\u2019s property as follows: \u201c I give * * to my beloved wife all my real and personal estate, notes and accounts, during her natural life, and to dispose of according to her own will and judgment, providing that she never marries a second time; and in the event that she marries then all my property, real and personal estate, notes and accounts, shall go to my children now living, or who may be living at the time of my wife\u2019s death or marriage *\u25a0*#*.\u201d Held: That the wife took only a life estate and her power to dispose of the lands was limited to her life estate therein. (Patty v. Goolsby \u00bf1 Ark., 61.)\nAPPEAL from Drew Circuit Court.\nC. D. Wood, Judge.\nThe children of William A. Douglass, deceased, brought this action to recover certain lands of which he held possession at the time of his death. They claimed title under his will, the body of which is as follows:\n\u201cFirst \u2014 After all my lawful debts are paid and discharged, the residue of my estate, real and personal, I give, bequeath and dispose of as follows, to wit: To my beloved wife all my real and personal estate, notes and accounts during her natural life and to dispose of according to her own will and judgment, providing that she never marries a second time; and in the event that she marries, then all my property, real and personal estate, notes and accounts shall go to my children now living or who may be living at the time of my wife\u2019s death or marriage, to be divided equally between them, share and share alike.\u201d\nThe testator\u2019s widow, Mary E., while sole, conveyed the lands in controversy, in fee simple, to the defendant, T. M. Sharp, and the other defendants claim under conveyances from him. The widow died before the commencement of this suit. The cause having been submitted for trial to the court sitting as a jury, the plaintiff requested the following declaration of law, which was refused :\n\u201cUnder the will of W. A. Douglass, deceased, Mary E. Douglass took a life estate in the lands in controversy, and at her death the children and heirs-at-law of said W. A. Douglass became the owners * * * and entitled to the possession thereof.\u201d\nThe court thereupon found as conclusions of law that the will of Douglass gave to his wife, Mary E., the title to the lands in controversy, in fee simple; that she had the absolute right to dispose of the same, and that her deed to Sharp conveyed to the latter the lands in fee simple.\nThe judgment was for the defendants, and plaintiffs appealed.\nWells & Williamson, for appellants.\nUnder the will Mary E. Douglas, the widow, took only a life estate. 11 Atl. Rep., 116; 8 id., 920; 13 Johns., 169; 16 id., 337; Redf. on Wills, 448 to 430, sec. 13; 42 Barb., 613; 1 Phillips, 332; 2 Barb., 334; Patty v. Goolsby, 31 Ark.\nHarrison & Harrison, for appellees.\nThe widow took a qualified fee, and the estate over to the children depended solely upon her marriage again, without having sold or disposed of the property. 2 Redf. on Wills, 278, 279; 68 Me., 34; 28 Am. Rep., 1; 41 Conn., 607; 19 Am. Rep., 323; 29 id., 493; 18 Ala., 132; Fits., 313; 3 Mass., 300; 2 Johns., 391; 123 Mass., 433; 2 Wils., 6; 11 Ves., 133; 3 Ad. & El., 123; 9 Rich. Eq., 420; 32 Miss., 107; 26 Aid., 360; 2 Vt., 181; Tied, on R. P., sec. 364; 2 Wash. R P., 639; 1 Sugd. 011 Pozvers, 179, 180; 11 S. & R., 23, 24; 22 Mo., 336; 14 III., 244."
+  },
+  "file_name": "0113-02",
+  "first_page_order": 141,
+  "last_page_order": 143
+}

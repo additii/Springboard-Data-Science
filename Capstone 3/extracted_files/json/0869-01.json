@@ -1,0 +1,1054 @@
+{
+  "id": 12462752,
+  "name": "The State of Washington, Petitioner, v. Kenneth Slert, Respondent",
+  "name_abbreviation": "State v. Slert",
+  "decision_date": "2016-10-27",
+  "docket_number": "No. 92310-8",
+  "first_page": "869",
+  "last_page": "883",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "186 Wash. 2d 869"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Wash.",
+    "id": 9029,
+    "name": "Washington Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 38,
+    "name_long": "Washington",
+    "name": "Wash."
+  },
+  "cites_to": [
+    {
+      "cite": "691 P.2d 957",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1984,
+      "opinion_index": 0
+    },
+    {
+      "cite": "103 Wn.2d 203",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1134126
+      ],
+      "year": 1984,
+      "pin_cites": [
+        {
+          "page": "208-09"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/103/0203-01"
+      ]
+    },
+    {
+      "cite": "881 P.2d 979",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1994,
+      "pin_cites": [
+        {
+          "parenthetical": "citing City of Bellevue v. Acrey, 103 Wn.2d 203, 208-09, 691 P.2d 957 (1984)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "124 Wn.2d 719",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        507076
+      ],
+      "year": 1994,
+      "pin_cites": [
+        {
+          "page": "724-25",
+          "parenthetical": "citing City of Bellevue v. Acrey, 103 Wn.2d 203, 208-09, 691 P.2d 957 (1984)"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/124/0719-01"
+      ]
+    },
+    {
+      "cite": "502 P.2d 1181",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "weight": 2,
+      "year": 1972,
+      "opinion_index": 0
+    },
+    {
+      "cite": "81 Wn.2d 448",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1064023
+      ],
+      "weight": 2,
+      "year": 1972,
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/81/0448-01"
+      ]
+    },
+    {
+      "cite": "759 P.2d 427",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "weight": 2,
+      "year": 1988,
+      "pin_cites": [
+        {
+          "parenthetical": "citing Siegler v. Kuhlman, 81 Wn.2d 448, 502 P.2d 1181 (1972)"
+        },
+        {
+          "parenthetical": "citing Siegler v. Kuhlman, 81 Wn.2d 448, 502 P.2d 1181 (1972)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "111 Wn.2d 424",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1179757
+      ],
+      "weight": 2,
+      "year": 1988,
+      "pin_cites": [
+        {
+          "page": "429",
+          "parenthetical": "citing Siegler v. Kuhlman, 81 Wn.2d 448, 502 P.2d 1181 (1972)"
+        },
+        {
+          "page": "429",
+          "parenthetical": "citing Siegler v. Kuhlman, 81 Wn.2d 448, 502 P.2d 1181 (1972)"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/111/0424-01"
+      ]
+    },
+    {
+      "cite": "83 P.3d 1026",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2004,
+      "opinion_index": 0
+    },
+    {
+      "cite": "119 Wn. App. 928",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        1350044
+      ],
+      "year": 2004,
+      "pin_cites": [
+        {
+          "page": "931"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/119/0928-01"
+      ]
+    },
+    {
+      "cite": "634 P.2d 868",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1981,
+      "opinion_index": 0
+    },
+    {
+      "cite": "96 Wn.2d 215",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1157494
+      ],
+      "year": 1981,
+      "pin_cites": [
+        {
+          "page": "226"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/96/0215-01"
+      ]
+    },
+    {
+      "cite": "290 P.3d 43",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2012,
+      "opinion_index": 0
+    },
+    {
+      "cite": "175 Wn.2d 287",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4024414
+      ],
+      "year": 2012,
+      "pin_cites": [
+        {
+          "page": "316"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/175/0287-01"
+      ]
+    },
+    {
+      "cite": "184 Wn.2d 1036",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        12441217,
+        12441218,
+        12441219,
+        12441220,
+        12441221,
+        12441222,
+        12441223,
+        12441224
+      ],
+      "weight": 2,
+      "year": 2016,
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/184/1036-01",
+        "/wash-2d/184/1036-02",
+        "/wash-2d/184/1036-03",
+        "/wash-2d/184/1036-04",
+        "/wash-2d/184/1036-05",
+        "/wash-2d/184/1036-06",
+        "/wash-2d/184/1036-07",
+        "/wash-2d/184/1036-08"
+      ]
+    },
+    {
+      "cite": "419 U.S. 522",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6176665
+      ],
+      "weight": 3,
+      "year": 1975,
+      "pin_cites": [
+        {
+          "page": "526"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/419/0522-01"
+      ]
+    },
+    {
+      "cite": "347 P.3d 1103",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2015,
+      "pin_cites": [
+        {
+          "parenthetical": "citing Taylor v. Louisiana, 419 U.S. 522, 526, 95 S. Ct. 692, 42 L. Ed. 2d 690 (1975)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "187 Wn. App. 183",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        4237373
+      ],
+      "weight": 5,
+      "year": 2015,
+      "pin_cites": [
+        {
+          "page": "192-93",
+          "parenthetical": "citing Taylor v. Louisiana, 419 U.S. 522, 526, 95 S. Ct. 692, 42 L. Ed. 2d 690 (1975)"
+        },
+        {
+          "page": "197"
+        },
+        {
+          "page": "193"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/187/0183-01"
+      ]
+    },
+    {
+      "cite": "14 P.3d 713",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2000,
+      "pin_cites": [
+        {
+          "parenthetical": "noting trial judge did not err by dismissing juror for cause without waiting for defendant's voir dire"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "142 Wn.2d 471",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1361359
+      ],
+      "year": 2000,
+      "pin_cites": [
+        {
+          "page": "519",
+          "parenthetical": "noting trial judge did not err by dismissing juror for cause without waiting for defendant's voir dire"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/142/0471-01"
+      ]
+    },
+    {
+      "cite": "985 P.2d 289",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "weight": 3,
+      "year": 1999,
+      "opinion_index": 0
+    },
+    {
+      "cite": "139 Wn.2d 250",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        99086
+      ],
+      "year": 1999,
+      "pin_cites": [
+        {
+          "page": "277-78"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/139/0250-01"
+      ]
+    },
+    {
+      "cite": "547 P.2d 1221",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "weight": 2,
+      "year": 1976,
+      "opinion_index": 0
+    },
+    {
+      "cite": "86 Wn.2d 607",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1117385
+      ],
+      "year": 1976,
+      "pin_cites": [
+        {
+          "page": "614"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/86/0607-01"
+      ]
+    },
+    {
+      "cite": "553 P.2d 1322",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1976,
+      "pin_cites": [
+        {
+          "parenthetical": "quoting Haslund v. City of Seattle, 86 Wn.2d 607, 614, 547 P.2d 1221 (1976)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "87 Wn.2d 447",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1113839
+      ],
+      "year": 1976,
+      "pin_cites": [
+        {
+          "page": "451",
+          "parenthetical": "quoting Haslund v. City of Seattle, 86 Wn.2d 607, 614, 547 P.2d 1221 (1976)"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/87/0447-01"
+      ]
+    },
+    {
+      "cite": "162 P.3d 396",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2007,
+      "opinion_index": 0
+    },
+    {
+      "cite": "160 Wn.2d 910",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        3630797
+      ],
+      "year": 2007,
+      "pin_cites": [
+        {
+          "page": "933"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/160/0910-01"
+      ]
+    },
+    {
+      "cite": "868 P.2d 835",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1994,
+      "pin_cites": [
+        {
+          "parenthetical": "citing Gagnon, 470 U.S. at 526"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "123 Wn.2d 296",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        812805
+      ],
+      "year": 1994,
+      "pin_cites": [
+        {
+          "page": "306",
+          "parenthetical": "citing Gagnon, 470 U.S. at 526"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/123/0296-01"
+      ]
+    },
+    {
+      "cite": "664 P.2d 466",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1983,
+      "opinion_index": 0
+    },
+    {
+      "cite": "99 Wn.2d 501",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1145887
+      ],
+      "year": 1983,
+      "pin_cites": [
+        {
+          "page": "508, 609"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/99/0501-01"
+      ]
+    },
+    {
+      "cite": "217 P.3d 310",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "weight": 2,
+      "year": 2009,
+      "pin_cites": [
+        {
+          "parenthetical": "plurality opinion"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "167 Wn.2d 222",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4004913
+      ],
+      "year": 2009,
+      "pin_cites": [
+        {
+          "page": "225",
+          "parenthetical": "plurality opinion"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/167/0222-01"
+      ]
+    },
+    {
+      "cite": "378 U.S. 1",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6164855
+      ],
+      "weight": 3,
+      "year": 1964,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/378/0001-01"
+      ]
+    },
+    {
+      "cite": "291 U.S. 97",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1498121
+      ],
+      "weight": 3,
+      "year": 1934,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/291/0097-01"
+      ]
+    },
+    {
+      "cite": "397 U.S. 337",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12054264
+      ],
+      "weight": 3,
+      "year": 1970,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/397/0337-01"
+      ]
+    },
+    {
+      "cite": "470 U.S. 522",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11299581
+      ],
+      "weight": 6,
+      "year": 1985,
+      "pin_cites": [
+        {
+          "page": "526",
+          "parenthetical": "citing Illinois v. Allen, 397 U.S. 337, 90 S. Ct. 1057, 25 L. Ed. 2d 353 (1970); Snyder v. Massachusetts, 291 U.S. 97, 54 S. Ct. 330, 78 L. Ed. 674 (1934"
+        },
+        {
+          "parenthetical": "citing Illinois v. Allen, 397 U.S. 337, 90 S. Ct. 1057, 25 L. Ed. 2d 353 (1970); Snyder v. Massachusetts, 291 U.S. 97, 54 S. Ct. 330, 78 L. Ed. 674 (1934), overruled on other grounds by Malloy v. Hogan, 378 U.S. 1, 84 S. Ct. 1489, 12 L. Ed. 2d 653 (1964)"
+        },
+        {
+          "parenthetical": "citing Illinois v. Allen, 397 U.S. 337, 90 S. Ct. 1057, 25 L. Ed. 2d 353 (1970); Snyder v. Massachusetts, 291 U.S. 97, 54 S. Ct. 330, 78 L. Ed. 674 (1934), overruled on other grounds by Malloy v. Hogan, 378 U.S. 1, 84 S. Ct. 1489, 12 L. Ed. 2d 653 (1964)"
+        },
+        {
+          "page": "526"
+        },
+        {
+          "parenthetical": "internal quotation marks omitted"
+        },
+        {
+          "page": "526"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/470/0522-01"
+      ]
+    },
+    {
+      "cite": "372 P.3d 755",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2016,
+      "opinion_index": 0
+    },
+    {
+      "cite": "185 Wn.2d 412",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        12456838
+      ],
+      "year": 2016,
+      "pin_cites": [
+        {
+          "page": "427"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/185/0412-01"
+      ]
+    },
+    {
+      "cite": "246 P.3d 796",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2011,
+      "opinion_index": 0
+    },
+    {
+      "cite": "170 Wn.2d 874",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4013239
+      ],
+      "year": 2011,
+      "pin_cites": [
+        {
+          "page": "886"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/170/0874-01"
+      ]
+    },
+    {
+      "cite": "358 P.3d 1234",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2015,
+      "pin_cites": [
+        {
+          "parenthetical": "citing State v. Irby, 170 Wn.2d 874, 886, 246 P.3d 796 (2011)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "189 Wn. App. 821",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        6779953
+      ],
+      "year": 2015,
+      "pin_cites": [
+        {
+          "page": "827, 831",
+          "parenthetical": "citing State v. Irby, 170 Wn.2d 874, 886, 246 P.3d 796 (2011)"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/189/0821-01"
+      ]
+    },
+    {
+      "cite": "282 P.3d 101",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2012,
+      "opinion_index": 0
+    },
+    {
+      "cite": "169 Wn. App. 766",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        4030551
+      ],
+      "year": 2012,
+      "pin_cites": [
+        {
+          "page": "769"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/169/0766-01"
+      ]
+    },
+    {
+      "cite": "334 P.3d 1088",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2014,
+      "pin_cites": [
+        {
+          "parenthetical": "Slert IV"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "181 Wn.2d 598",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4356617
+      ],
+      "weight": 2,
+      "year": 2014,
+      "pin_cites": [
+        {
+          "page": "600-02",
+          "parenthetical": "Slert IV"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/181/0598-01"
+      ]
+    },
+    {
+      "cite": "288 P.3d 1126",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2012,
+      "pin_cites": [
+        {
+          "parenthetical": "article I, section 22 public trial analysis"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "176 Wn.2d 29",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4306856
+      ],
+      "year": 2012,
+      "pin_cites": [
+        {
+          "parenthetical": "article I, section 22 public trial analysis"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/176/0029-01"
+      ]
+    },
+    {
+      "cite": "407 U.S. 25",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        9136521
+      ],
+      "weight": 3,
+      "year": 1972,
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/407/0025-01"
+      ]
+    },
+    {
+      "cite": "737 P.2d 1005",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1987,
+      "pin_cites": [
+        {
+          "parenthetical": "analyzing a defendant's waiver of his right to remain silent"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "108 Wn.2d 230",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1187835
+      ],
+      "year": 1987,
+      "pin_cites": [
+        {
+          "page": "237-38",
+          "parenthetical": "analyzing a defendant's waiver of his right to remain silent"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/108/0230-01"
+      ]
+    },
+    {
+      "cite": "910 P.2d 475",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1996,
+      "pin_cites": [
+        {
+          "parenthetical": "analyzing a defendant's waiver of his right to testify"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "128 Wn.2d 553",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        517983
+      ],
+      "year": 1996,
+      "pin_cites": [
+        {
+          "page": "558",
+          "parenthetical": "analyzing a defendant's waiver of his right to testify"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/128/0553-01"
+      ]
+    },
+    {
+      "cite": "464 U.S. 114",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6195898
+      ],
+      "weight": 3,
+      "year": 1983,
+      "pin_cites": [
+        {
+          "page": "117",
+          "parenthetical": "\"Our cases recognize that the right to personal presence at all critical stages of the trial ... [is a] fundamental right [ ] of each criminal defendant.\""
+        },
+        {
+          "parenthetical": "\"Our cases recognize that the right to personal presence at all critical stages of the trial ... [is a] fundamental right [ ] of each criminal defendant.\""
+        },
+        {
+          "parenthetical": "\"Our cases recognize that the right to personal presence at all critical stages of the trial ... [is a] fundamental right [ ] of each criminal defendant.\""
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/464/0114-01"
+      ]
+    },
+    {
+      "cite": "691 P.2d 957",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1984,
+      "pin_cites": [
+        {
+          "parenthetical": "\"A waiver of counsel must be knowing, voluntary, and intelligent, as with any waiver of constitutional rights.\" (citing Argersinger v. Hamlin, 407 U.S. 25, 92 S. Ct. 2006, 32 L. Ed. 2d 530 (1972))"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "103 Wn.2d 203",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1134126
+      ],
+      "year": 1984,
+      "pin_cites": [
+        {
+          "page": "208-09",
+          "parenthetical": "\"A waiver of counsel must be knowing, voluntary, and intelligent, as with any waiver of constitutional rights.\" (citing Argersinger v. Hamlin, 407 U.S. 25, 92 S. Ct. 2006, 32 L. Ed. 2d 530 (1972))"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/103/0203-01"
+      ]
+    },
+    {
+      "cite": "881 P.2d 979",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1994,
+      "pin_cites": [
+        {
+          "parenthetical": "analyzing a defendant's waiver of his right to a jury"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "124 Wn.2d 719",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        507076
+      ],
+      "year": 1994,
+      "pin_cites": [
+        {
+          "page": "724-25",
+          "parenthetical": "analyzing a defendant's waiver of his right to a jury"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/124/0719-01"
+      ]
+    },
+    {
+      "cite": "985 P.2d 289",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1999,
+      "opinion_index": 1
+    },
+    {
+      "cite": "139 Wn.2d 250",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        99086
+      ],
+      "year": 1999,
+      "pin_cites": [
+        {
+          "page": "277-78"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/139/0250-01"
+      ]
+    },
+    {
+      "cite": "372 P.3d 755",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2016,
+      "opinion_index": 1
+    },
+    {
+      "cite": "185 Wn.2d 412",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        12456838
+      ],
+      "year": 2016,
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/185/0412-01"
+      ]
+    },
+    {
+      "cite": "246 P.3d 796",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2011,
+      "opinion_index": 1
+    },
+    {
+      "cite": "170 Wn.2d 874",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4013239
+      ],
+      "year": 2011,
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/170/0874-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1117,
+    "char_count": 25063,
+    "ocr_confidence": 0.887,
+    "pagerank": {
+      "raw": 5.3759781941997854e-08,
+      "percentile": 0.3369791057316469
+    },
+    "sha256": "849ef8db2634a545fc4ad2a3f7bedbbb4f088849787959bfe9d7e9123d82e565",
+    "simhash": "1:ac62ef7037300be6",
+    "word_count": 4231
+  },
+  "last_updated": "2024-02-27T18:43:05.207238+00:00",
+  "provenance": {
+    "date_added": "2019-05-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Madsen, C.J., and Fairhurst, Wiggins, and Yu, JJ., concur.",
+      "Owens, Stephens, and Gordon McCloud, JJ., concur with Johnson, J."
+    ],
+    "parties": [
+      "The State of Washington, Petitioner, v. Kenneth Slert, Respondent."
+    ],
+    "opinions": [
+      {
+        "text": "Gonz\u00e1lez, J.\n\u00b61 Kenneth Slert has been convicted three times of killing John Benson. His first two convictions were reversed on appeal. Potential jurors in his third trial were given an initial written questionnaire in an attempt to determine whether any knew of Slert\u2019s prior convictions. Based on the written answers and after a discussion in chambers and out of Slert\u2019s presence, four jurors were dismissed. For the first time on appeal, Slert challenged his conviction on the grounds that the discussion in chambers violated his right to be present at a critical stage of his own trial. We conclude Slert waived his right to raise his exclusion from the in-chambers discussion by not raising it at trial. We also conclude that any error was harmless beyond a reasonable doubt as it is plain the dismissed jurors had disqualifying knowledge of Slert\u2019s prior convictions or disqualifying opinions about his guilt. Accordingly, we reverse the Court of Appeals and affirm his conviction.\nFacts\n\u00b62 A more complete recitation of the facts that led to this case can be found in State v. Slert, 181 Wn.2d 598, 600-02, 334 P.3d 1088 (2014) (Slert IV) (Gonz\u00e1lez, J., lead opinion). Briefly, Slert and Benson met one night at a hunting camp near Mount Rainier. After they drank together for a time, Slert shot and killed Benson. Slert has admitted from the beginning that he killed Benson but has maintained it was in self-defense.\n\u00b63 By the time of the third trial, there was a real risk that a potential juror would have heard about Slert\u2019s prior convictions and be biased against him. The prosecutor and defense counsel agreed they did not want to risk such a potential juror tainting the panel during voir dire (which could have necessitated dismissing the panel and calling a new one) by \u201cblurt [ing] out, \u2018Oh, yeah, I read about that case and that guy should be hanging.\u2019 \u201d Verbatim Report of Proceedings (VRP) (Jan. 6, 2010) at 3-4. To limit the risk, the court and counsel agreed to give the jurors a written questionnaire concerning their knowledge of \u201cprior proceedings\u201d and any opinions they might have formed about the case. Clerk\u2019s Papers (CP) at 360-61. Based on the potential jurors\u2019 written answers, and after consultation with counsel in-chambers, the judge dismissed four jurors in open court. The completed questionnaires, the details of the in-chambers discussion, and the decision to have it in chambers are not part of the record before us. The clerk\u2019s minutes simply reflect that a \u201c[p] retrial conference was held in chambers,\u201d CP at 194, and the record reports that \u201cbased on the answers\u201d to the questionnaire, jurors 15,19,36, and 49 were dismissed, 1 VRP (Jan. 25, 2010) at 5. Slert was present when the four jurors were dismissed but did not object, depriving the trial court of the ability to promptly remedy any error.\n\u00b64 The jury found Slert guilty of second degree murder. In 2012, the Court of Appeals found that the in-chambers discussion about the jurors\u2019 answers to the questionnaires violated both Slert\u2019s right to be present and the open public trial right guaranties of our state constitution. State v. Slert, 169 Wn. App. 766, 769, 282 P.3d 101 (2012), rev\u2019d, 181 Wn.2d 598. The Court of Appeals spent the bulk of its 2012 opinion analyzing the open public trial issue. Id. at 771-79. The Court of Appeals did not reach whether, standing on its own, any violation of Slert\u2019s right to be present was reversible error. In 2013, we accepted review of the open public trial issue, reversed, and remanded back to the Court of Appeals to determine what it had not reached before: whether the violation of Slert\u2019s right to be present was harmless. Slert IV, 181 Wn.2d at 603-04, 609. In 2015, the Court of Appeals, via a split decision, found that the right to be present error was not harmless because two of the dismissed jurors were within the range of those who sat on the jury. State v. Slert, 189 Wn. App. 821, 827, 831, 358 P.3d 1234 (2015) (citing State v. Irby, 170 Wn.2d 874, 886, 246 P.3d 796 (2011)).\n\u00b65 We accepted review again. After we accepted review, but before oral argument, we released our opinion in State v. Jones, which found a defendant had failed to preserve a right to be present claim by not timely objecting to his exclusion from the selection of alternate jurors. 185 Wn.2d 412, 427, 372 P.3d 755 (2016). After oral argument, we asked the parties to brief the effect of Jones and the law of the case doctrine. We thank the parties for their supplemental briefing.\nAnalysis\n\u00b66 The criminal defendant\u2019s right to be present is rooted in the Sixth Amendment to the United States Constitution; the due process clauses of the state and federal constitutions (U.S. Const. amend. V; Wash. Const. art. I, \u00a7 3); and article I, section 22 of our own constitution. United States v. Gagnon, 470 U.S. 522, 526, 105 S. Ct. 1482, 84 L. Ed. 2d 486 (1985) (citing Illinois v. Allen, 397 U.S. 337, 90 S. Ct. 1057, 25 L. Ed. 2d 353 (1970); Snyder v. Massachusetts, 291 U.S. 97, 54 S. Ct. 330, 78 L. Ed. 674 (1934), overruled on other grounds by Malloy v. Hogan, 378 U.S. 1, 84 S. Ct. 1489, 12 L. Ed. 2d 653 (1964)); Irby, 170 Wn.2d at 884-85. Whether the defendant\u2019s right to be present has been violated is a question of law we review de novo. Irby, 170 Wn.2d at 880 (citing State v. Strode, 167 Wn.2d 222, 225, 217 P.3d 310 (2009) (plurality opinion)). If the right is violated, we will reverse unless we are persuaded beyond a reasonable doubt that the error was harmless. Id. at 886 (citing State v. Caliguri, 99 Wn.2d 501, 508, 609, 664 P.2d 466 (1983)). \u201cThe core of the constitutional right to be present is the right to be present when evidence is being presented.\u201d In re Pers. Restraint of Lord, 123 Wn.2d 296, 306, 868 P.2d 835 (1994) (citing Gagnon, 470 U.S. at 526). \u201cBeyond that, the defendant has a \u2018right to be present at a proceeding whenever his presence has a relation, reasonably substantial, to the fulness of his opportunity to defend against the charge.\u2019 \u201d Id. (internal quotation marks omitted) (quoting Gagnon, 470 U.S. at 526). In Irby, we held that the right to be present extended to an e-mail conversation about individual jurors\u2019 fitness to serve on the particular case. 170 Wn.2d at 882. Under Irby (which was announced after Slert was tried for the third time), Slert had a right to be present during the discussion of the potential bias of these jurors.\n\u00b67 But while Slert had a right to be present during the in-chambers discussion, he is not entitled to relief if he waived appellate review by not properly preserving the error he claims on appeal. See, e.g., Jones, 185 Wn.2d at 415; State v. Mason, 160 Wn.2d 910, 933, 162 P.3d 396 (2007). It has long been the rule in Washington that \u201c \u2018insofar as possible, there shall be one trial on the merits with all issues fully and fairly presented to the trial court at that time so the court may accurately rule on all issues involved and correct errors in time to avoid unnecessary retrials.\u2019 \u201d State v. Boast, 87 Wn.2d 447, 451, 553 P.2d 1322 (1976) (quoting Haslund v. City of Seattle, 86 Wn.2d 607, 614, 547 P.2d 1221 (1976)). We recognize there are cases, such as Irby, where prompt objection can be excused based on the particular facts of the case. But this case is significantly different from Irby. In Irby, the dismissal of the jurors happened in an e-mail between the judge and counsel. 170 Wn.2d at 884. There is no reason to think that Irby knew about the e-mail or had a reasonable opportunity to object. Id. Here, by contrast, the dismissal happened in open court, in Slert\u2019s presence, directly after the in-chambers conference he now complains of. Further, Irby was decided on the merits, without consideration of whether any error was preserved.\n\u00b68 We recognize that Slert\u2019s attorney was complicit in any error made here, but we are not presented with an ineffective assistance of counsel claim (and indeed, it is difficult to imagine how agreeing to dismiss jurors who knew one\u2019s client had previously been convicted of the same killing could be ineffective assistance). Instead, we are considering whether Slert is entitled to relief for an alleged violation of his right to be present that he has raised for the first time on appeal.\n\u00b69 We find he is not. This case is similar to State v. Elmore, where the defendant challenged the state\u2019s voir dire for the first time on appeal. 139 Wn.2d 250, 277-78, 985 P.2d 289 (1999). We found the challenged error was un-preserved and declined to consider it. Id. Similarly, in Jones, we recently found untimely a defendant\u2019s claim that his right to be present was violated when he was not present for the selection of alternate jurors. Jones, 185 Wn.2d at 426. There, the defendant raised the claim for the first time in a motion for a new trial. We found that by waiting, the defendant waived the claim. Id. The failure to timely object prevented the trial court from mending any error and creating a clear record for the appellate court to review. As in Elmore and Jones, we find Slert waived consideration of any error.\n\u00b610 We turn now to whether any violation of Slert\u2019s right to be present was harmless beyond a reasonable doubt given the record before us. We find that it was. It is properly the role of the trial judges to excuse potential jurors who have biased opinions or feelings about the case they are asked to decide before being called to the jury. 13 Royce A. Ferguson, Jr., Washington Practice: Criminal Practice and Procedure \u00a7 4109, at 205 (3d ed. 2004). The judge need not wait for the parties to challenge such jurors. \u201cIf the judge after examination of any juror is of the opinion that grounds for challenge are present, he or she shall excuse that juror from the trial of the case.\u201d CrR 6.4(c)(1); see State v. Roberts, 142 Wn.2d 471, 519, 14 P.3d 713 (2000) (noting trial judge did not err by dismissing juror for cause without waiting for defendant\u2019s voir dire). \u201cCriminal defendants have a federal and state constitutional right to a fair and impartial jury.\u201d State v. Irby, 187 Wn. App. 183, 192-93, 347 P.3d 1103 (2015) (citing Taylor v. Louisiana, 419 U.S. 522, 526, 95 S. Ct. 692, 42 L. Ed. 2d 690 (1975)), review denied, 184 Wn.2d 1036 (2016). \u201cA trial judge has an independent obligation to protect that right.\u201d Id. at 193 (citing State v. Davis, 175 Wn.2d 287, 316, 290 P.3d 43 (2012)). Thus, jurors who have actual or implied bias should be excused by the trial court. CrR 6.4(c)(2); RCW 4.44.170; Irby, 187 Wn. App. at 197. Parties are not required to challenge such jurors for cause, though they certainly should. See CrR 6.4(c). Once the trial judge concludes a juror has formed an opinion that could prevent impartial judgment of the facts, the trial judge should excuse that juror. Id. Our Court of Appeals recently found it was reversible manifest constitutional error for the trial judge to fail to excuse a juror who demonstrated actual bias during voir dire despite the lack of a contemporaneous objection. Irby, 187 Wn. App. at 193.\n\u00b611 The questionnaire at issue here began by informing the jurors of a few salient facts:\nKenneth L. Slert is charged with one count of Murder in the Second Degree stemming from an incident that occurred up near Mt. Rainier National Park on 10/24/00 in Gifford Pinchot National Forest. There have been a number of prior proceedings in this case which were reported by both the newspapers and the radio, since October 2000 and most recently in late 2009. It is alleged that Mr. Slert shot and killed John Benson while both were hunting.\nCP at 360. In relevant part, the jurors were then asked:\n2. Have you heard or read about this case from any source whatsoever?\n7. What do you believe you know about this case? . . .\n8. Have you formed an opinion or feeling about this case whatsoever?\n9.If you have formed any such opinions or feelings, please indicate those opinions and/or beliefs ....\nCP at 360-61. Space was provided to answer the questions. Id. After the in-chambers conference, the judge went back into open court and stated on the record that \u201cbased on the answers\u201d to the questionnaire and \u201cafter consultation with counsel,\u201d jurors 15,19,36, and 49 were excused. 1VRP (Jan. 25, 2010) at 5.\n\u00b612 While questionnaires completed by those four jurors are not part of the record before us, we know the conclusion the judge, the prosecutor, and the defense counsel reached upon reviewing their answers. Counsel and the trial judge concluded that those four jurors should be excused. We may thus reasonably infer that the four jurors had disqualifying opinions or feelings about the case. While the evidence we have is circumstantial, as we tell every jury in every jury trial, \u201cThe law does not distinguish between direct and circumstantial evidence in terms of their weight or value in finding the facts in this case. One is not necessarily more or less valuable than the other.\u201d 11 Washington Practice: Washington Pattern Jury Instructions: Criminal 5.01, at 181 (4th ed. 2016); 6 Washington Practice: Washington Pattern Jury Instructions: Civil 1.03, at 29 (6th ed. 2012). It is logic, not conjecture, that allows us to draw reasonable inferences from the record. Further, the lack of a timely objection itself is strong evidence that Slert and his counsel \u201cdid not perceive any prejudicial error until after receiving an unfavorable verdict.\u201d Jones, 185 Wn.2d at 426-27 (citing State v. Williams, 96 Wn.2d 215, 226, 634 P.2d 868 (1981)). Since the jurors must have had disqualifying opinions or feelings about Slert\u2019s case, we conclude that excluding them was harmless beyond a reasonable doubt.\n\u00b613 Finally, we turn to whether the law of the case doctrine prevents our consideration of whether any error was preserved. We find that it does not. Relevantly, \u201c[t]he doctrine provides where there has been a determination of applicable law in a prior appeal, the law of the case doctrine ordinarily precludes an appeal of the same legal issue.\u201d Roberson v. Perez, 119 Wn. App. 928, 931, 83 P.3d 1026 (2004). Whether Slert preserved review of the error has not been finally determined by any court until now. Further, this court has authority to reach any issue necessary to a just disposition. Alverado v. Wash. Pub. Power Supply Sys., 111 Wn.2d 424, 429, 759 P.2d 427 (1988) (citing Siegler v. Kuhlman, 81 Wn.2d 448, 502 P.2d 1181 (1972)). The law of the case doctrine does not prevent our review.\nConclusion\n\u00b614 We hold that Slert has not preserved his right to be present challenge and that the law of the case doctrine does not bar our review. We also hold that any error was harmless beyond a reasonable doubt. Accordingly, we reverse the Court of Appeals and reinstate Slert\u2019s conviction.\nMadsen, C.J., and Fairhurst, Wiggins, and Yu, JJ., concur.\nWhile the record does not make clear whether Slert was present during the in-chambers discussion, Slert asserts, and the State does not dispute, that he was not.\nSlert suggests this issue is not properly before us because it was not raised by either party and was out of the scope of our earlier remand to Division Two. We respectfully disagree. \u201c[T]his court has inherent authority to consider issues not raised by the parties if necessary to reach a proper decision.\u201d Alverado v. Wash. Pub. Power Supply Sys., 111 Wn.2d 424, 429, 759 P.2d 427 (1988) (citing Siegler v. Kuhlman, 81 Wn.2d 448, 502 P.2d 1181 (1972)). We see no reason Alverado would not extend to issues distinct from those within the scope of an initial remand.\nThe dissent asserts that \u201c[o]ur cases establish that constitutional rights require a knowing, voluntary, and intelligent waiver.\u201d Dissent at 881. None of the cases cited by the dissent support this broad assertion, and we find none. Certainly, some constitutional rights can be relinquished only by a knowing, voluntary, and intelligent waiver, but our courts have considered the individual constitutional right at issue, not constitutional rights as some sort of undifferentiated mass. The most that has been said is that \u201c[i]n general, constitutional rights may only be waived by knowing, intelligent, and voluntary acts,\u201d but no actuarial accounting of rights were made in the opinion. State v. Stegall, 124 Wn.2d 719, 724-25, 881 P.2d 979 (1994) (citing City of Bellevue v. Acrey, 103 Wn.2d 203, 208-09, 691 P.2d 957 (1984)). We are skeptical that the proposition offered by the dissent is entirely accurate. We do not demand a full colloquy with the bench to assure the waiver is knowing, voluntary, and intelligent before a defendant waives the right to testify, or waives the right to remain silent, or declines to confront one of the state\u2019s witnesses, or extends the speedy trial deadline. But regardless, the question we decide is not whether Slert waived any right to be present while the jurors\u2019 answers to the questionnaires were discussed. The question is whether he waived review of that claim of error.\nThe dissent seems to suggest that Irby created an exclusive, numerical impossibility test to determine if a violation of the defendant\u2019s right to be present was harmless beyond a reasonable doubt. Dissent at 882-83. We find no such exclusive test in Irby. Certainly, in Irby, the court considered whether it was possible the jurors excluded out of Irby\u2019s presence could have been seated on the jury based on their juror numbers. 170 Wn.2d at 886. But that consideration was based on the facts of that case; it did not establish the exclusive method to test whether the error was harmless.",
+        "type": "majority",
+        "author": "Gonz\u00e1lez, J."
+      },
+      {
+        "text": "Johnson, J.\n\u00b615 (dissenting) \u2014 The majority confuses and conflates two independent and separate principles: constitutional waiver and failure to preserve error. Compounding this, the majority applies the wrong standard of review and concludes this \u201cwaived\u201d and \u201cunpreserved\u201d error is harmless. Majority at 872, 876. The Court of Appeals correctly concluded Kenneth Slert\u2019s constitutional right to presence was violated and not harmless, and should be affirmed.\n\u00b616 As the majority correctly recognizes, the Sixth and Fourteenth Amendments to the United States Constitution guarantee a criminal defendant the right to be present at all \u201ccritical stages\u201d of a criminal proceeding. Rushen v. Spain, 464 U.S. 114, 117, 104 S. Ct. 453, 78 L. Ed. 2d 267 (1983) (\u201cOur cases recognize that the right to personal presence at all critical stages of the trial ... [is a] fundamental right [ ] of each criminal defendant.\u201d). Likewise, article I, section 22 of the Washington Constitution confers the accused with the right to \u201cappear and defend in person\u201d during criminal prosecutions. Collectively, these provisions protect a defendant\u2019s right to be present during critical stages of trial. The majority correctly recognizes the constitutional nature of the error here, yet fails to follow our cases analyzing this exact error. More troubling is the majority\u2019s apparent recognition of our prior case holdings, without explanation or analysis of what new rule, if any, is being crafted.\n\u00b617 In State v. Irby, 170 Wn.2d 874, 246 P.3d 796 (2011), we analyzed both the Fourteenth Amendment due process right under the United States Constitution and the article I, section 22 right to presence under the Washington Constitution. Irby highlighted at least one difference between the federal and state constitutions: \u201cUnlike the United States Constitution, article I, section 22 of the Washington Constitution provides an explicit guaranty of the right to be present.\u201d Irby, 170 Wn.2d at 884. The Irby court recognized that \u201c[a]s early as 1914,\u201d the state constitution granted the accused the right to appear and defend themselves at every stage of the trial where the defendant\u2019s substantial rights may be implicated. Irby, 170 Wn.2d at 885. We held:\nJury selection is unquestionably a \u201cstage of the trial\u201d at which a defendant\u2019s \u201csubstantial rights may be affected,\u201d and for that reason we do not hesitate in holding that Irby\u2019s absence from a portion of jury selection violated his right to \u201cappear and defend in person\u201d under article I, section 22 as well as the due process clause of the Fourteenth Amendment.\nIrby, 170 Wn.2d at 885.\n\u00b618 In this case, a portion of jury selection was conducted in chambers, without the defendant\u2019s presence, violating his constitutional rights, and as the Court of Appeals concluded, a new trial is required. The majority confuses the applicable standard of review.\n\u00b619 Our cases establish that constitutional rights require a knowing, voluntary, and intelligent waiver. See State v. Thomas, 128 Wn.2d 553, 558, 910 P.2d 475 (1996) (analyzing a defendant\u2019s waiver of his right to testify); State v. Stegall, 124 Wn.2d 719, 724-25, 881 P.2d 979 (1994) (analyzing a defendant\u2019s waiver of his right to a jury); State v. Wheeler, 108 Wn.2d 230, 237-38, 737 P.2d 1005 (1987) (analyzing a defendant\u2019s waiver of his right to remain silent); City of Bellevue v. Acrey, 103 Wn.2d 203, 208-09, 691 P.2d 957 (1984) (\u201cA waiver of counsel must be knowing, voluntary, and intelligent, as with any waiver of constitutional rights.\u201d (citing Argersinger v. Hamlin, 407 U.S. 25, 92 S. Ct. 2006, 32 L. Ed. 2d 530 (1972))). Nowhere in this record is evidence supporting a constitutional waiver. The majority then focuses on cases requiring any error to be \u201cpreserved\u201d by objections at trial.\n\u00b620 The majority cites Elmore in support of its analysis. Majority at 876 (citing State v. Elmore, 139 Wn.2d 250, 277-78, 985 P.2d 289 (1999)). Elmore involved a challenge to the propriety of the prosecutor\u2019s in-court questioning during voir dire, where no objections were raised. Elmore correctly characterized the issue as procedural in nature, not constitutional, correctly concluding the lack of objection precluded review. Elmore provides no support here.\n\u00b621 Next, State v. Jones, cited and relied on by the majority, does not hold otherwise. In that case, we held the defendant\u2019s right to a public trial, factually, was not violated where during a recess, a random drawing of jurors was conducted. Although the right to presence was discussed, that discussion was in the context of the court having already concluded no constitutional closure occurred. Since Jones did not involve a constitutional claim, the analysis of preservation of error correctly applied the nonconstitu-tional analysis. Jones cannot be read as establishing a new rule applicable outside its context. Such a new rule would require overruling cases and establishing and applying the applicable constitutional analysis\u2014something that cannot be found anywhere in the Jones opinion.\n\u00b622 Then, the majority apparently embraces a new constitutional harmless error rule, without acknowledgment. In Irby, we held it was the State\u2019s burden to prove the violation to the defendant\u2019s constitutional rights was harmless beyond a reasonable doubt. The Irby court found that the State could not meet this burden \u201cbecause the State has not and cannot show that three of the jurors who were excused in Irby\u2019s absence, namely, jurors 7, 17, and 23, had no chance to sit on Irby\u2019s jury.\u201d Irby, 170 Wn.2d at 886.\n\u00b623 Based on Irby, the Court of Appeals here held that the State could not prove beyond a reasonable doubt that the violation to Slert\u2019s right to be present was harmless. The court keyed in on the fact that not only was there no record to review, but also some of the excused jurors could have been impaneled on Slert\u2019s jury. Stated inversely, the State could not prove there was no chance that some of the excused jurors would have sat on the jury. Based on this, the Court of Appeals correctly held that the error could not be harmless beyond a reasonable doubt.\n\u00b624 The majority here claims that \u201ccircumstantial\u201d evidence tells us the completed juror questionnaires plainly meant the jurors must have \u201chad disqualifying opinions or feelings about the case.\u201d Majority at 879. This is impossible to know, obviously, because no record exists to support the majority\u2019s conjecture.\n\u00b625 The majority\u2019s conclusion is based on speculation, not the record\u2019s evidence. The Court of Appeals should be affirmed.\nOwens, Stephens, and Gordon McCloud, JJ., concur with Johnson, J.\nIn note 3, the majority asserts that we do not demand a full colloquy with the bench to assure that waivers are knowing, voluntary, and intelligent. The majority misses the point: the requirement is that constitutional rights require a knowing, voluntary, and intelligent waiver, not that it be conducted on the record with a full colloquy.\nState v. Jones, 185 Wn.2d 412, 372 P.3d 755 (2016).\nThe majority seems to embrace a preservation of error standard our cases have rejected. See State v. Paumier, 176 Wn.2d 29, 288 P.3d 1126 (2012) (article I, section 22 public trial analysis).",
+        "type": "dissent",
+        "author": "Johnson, J."
+      }
+    ],
+    "attorneys": [
+      "Jonathan L. Meyer, Prosecuting Attorney, and Eric W. Eisenberg, Deputy, for petitioner.",
+      "Jodi R. Backlund and Manek R. Mistry (of Backlund & Mistry), for respondent."
+    ],
+    "corrections": "",
+    "head_matter": "[No. 92310-8.\nArgued June 23, 2016.\nDecided October 27, 2016.\nThe State of Washington, Petitioner, v. Kenneth Slert, Respondent.\nJonathan L. Meyer, Prosecuting Attorney, and Eric W. Eisenberg, Deputy, for petitioner.\nJodi R. Backlund and Manek R. Mistry (of Backlund & Mistry), for respondent."
+  },
+  "file_name": "0869-01",
+  "first_page_order": 907,
+  "last_page_order": 921
+}

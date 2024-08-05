@@ -1,0 +1,105 @@
+{
+  "id": 8726579,
+  "name": "United Order of Good Samaritans v. Bryant",
+  "name_abbreviation": "United Order of Good Samaritans v. Bryant",
+  "decision_date": "1933-02-06",
+  "docket_number": "4-2851",
+  "first_page": "960",
+  "last_page": "962",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "186 Ark. 960"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [
+    {
+      "cite": "255 Pac. 700",
+      "category": "reporters:state_regional",
+      "reporter": "P.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "124 Okla. 240",
+      "category": "reporters:state",
+      "reporter": "Okla.",
+      "case_ids": [
+        6272361,
+        6271945
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/okla/124/0240-02",
+        "/okla/124/0240-01"
+      ]
+    },
+    {
+      "cite": "298 S. W. 494",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "174 Ark. 1161",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        8726454
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/174/1161-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 273,
+    "char_count": 4131,
+    "ocr_confidence": 0.512,
+    "pagerank": {
+      "raw": 1.388194195985048e-07,
+      "percentile": 0.6419022885118013
+    },
+    "sha256": "5fd17a0a6745179daa8994d983c9beda565532a24b86d1bf1301dbe5662b448f",
+    "simhash": "1:9ca8feadfc1a5ca3",
+    "word_count": 717
+  },
+  "last_updated": "2024-02-27T17:52:01.123529+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "United Order of Good Samaritans v. Bryant."
+    ],
+    "opinions": [
+      {
+        "text": "Butler, J.\nThis is an action brought by appellant order under subdivision 7 of \u00a7 6290 of Crawford & Moses\u2019 Digest, in accordance with the procedure prescribed in \u00a7 6292 of the Digest to vacate a judgment of the Lee Circuit Court rendered at a former term. To the petition filed to vacate, response was made, and the court, after hearing the testimony on the issues joined, entered its judgment, denying the prayer of the petition and refusing to vacate the judgment theretofore rendered. To that action of the court, the appellant petitioner filed the following exceptions:\nI. Defendant, United Order of Good Samaritans, excepts to the ruling of the court on the ground that the record shows an unavoidable casualty or misfortune preventing the defendant from presenting his defense, together with a prima facie showing of meritorious defense.\n2. Defendant excepts on the ground that the judgment was partially void on the uncontradicted face of the record as shown by the by-laws of defendant society.\nWhereupon, the defendant prayed an appeal to the Supreme Court, and was by the court allowed ninety days 'within which to file hill of exceptions. Bill of exceptions were filed July 9,1932.\nThe appellant here argues that the judgment of the lower court refusing to vacate its former judgment should be reversed for the reasons, (1) that the undisputed record showed that the appellant was prevented from appearing and presenting his defense because of unavoidable casualty within the meaning of \u00a7 6290, supra; and (2) that the records of the company and the statements in the proof of death established the liability of the company, if any, in a sum not to exceed $150'.\nThe appellee takes the position that it is necessary in proceedings of this nature to file a motion for a new trial as in other suits at law, and obtain the ruling of the court upon that, in order that the testimony taken on the petition to vacate may be brought into the record here and considered by us. Under \u00a7 6292, supra, the proceeding\u2019 to vacate or modify a judgment on the grounds mentioned in the seventh subdivision of \u00a7 6290, supra, are the same as in ordinary adversary proceedings, i. e., by verified complaint upon which a summons shall issue and be served and other proceedings had as in an action at law. It therefore appears that the procedure prescribed by \u00a7 6292, supra, makes this an independent proceeding, and the judgment rendered upon it is final and appealable, and, in order that we may be able to review the judgment of the trial court vacating a former judgment, a motion for a new trial is necessary, and the same must be incorporated with the action of the court thereon in the record; and, when such motion is not made and a rehearing on it obtained, it must be presumed that the judgment of the trial court was based upon sufficient evidence. Martin v. Pierce Petroleum Corporation, 174 Ark. 1161, 298 S. W. 494; Loyal Protective Ins. Co. v. Edwards, 124 Okla. 240, 255 Pac. 700.\nThe policy sued on provided that, in the event of death of the insured after he had passed a certain age, the beneficiary would be entitled to recover only one-balf of the policy, which would be $150, and it is insisted that the record on its face shows that the insured had reached that\u201d age before he died. However, it appears in the .judgment sought to be vacated that the court heard testimony on this issue, and we must presume that the testimony was sufficient to warrant the finding that the beneficiary was entitled to the sum awarded.\nEven should the exceptions filed to the judgment appealed from be treated as a motion for a new trial, we still think that the same should not be disturbed. The trial court is clothed with sound judicial discretion in such matters, and, if we may consider the evidence, we are of the opinion that it was sufficient to warrant the court in its finding that no unavoidable casualty within the meaning of \u00a7 6290, supra, has been shown.\nJudgment affirmed.",
+        "type": "majority",
+        "author": "Butler, J."
+      }
+    ],
+    "attorneys": [
+      "H. B. Mixon, for appellant.",
+      "Smith & Fitzsimmons, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "United Order of Good Samaritans v. Bryant.\n4-2851\nOpinion delivered February 6, 1933.\nH. B. Mixon, for appellant.\nSmith & Fitzsimmons, for appellee."
+  },
+  "file_name": "0960-01",
+  "first_page_order": 980,
+  "last_page_order": 982
+}

@@ -1,0 +1,78 @@
+{
+  "id": 12462926,
+  "name": "State, Respondent, v. McEvoy, Petitioner",
+  "name_abbreviation": "State v. McEvoy",
+  "decision_date": "2016-11-02",
+  "docket_number": "No. 93388-0",
+  "first_page": "1023",
+  "last_page": "1023",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "186 Wash. 2d 1023"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Wash.",
+    "id": 9029,
+    "name": "Washington Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 38,
+    "name_long": "Washington",
+    "name": "Wash."
+  },
+  "cites_to": [
+    {
+      "cite": "194 Wn. App. 1031",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        12451793,
+        12451794,
+        12451795,
+        12451796
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/194/1031-01",
+        "/wash-app/194/1031-02",
+        "/wash-app/194/1031-03",
+        "/wash-app/194/1031-04"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 27,
+    "char_count": 189,
+    "ocr_confidence": 0.854,
+    "sha256": "2221f642f60362280d2b879bf24ecd2d60675ce01bc227ab7d84920815d5882b",
+    "simhash": "1:06f0e8982daf4c40",
+    "word_count": 31
+  },
+  "last_updated": "2024-02-27T18:43:05.207238+00:00",
+  "provenance": {
+    "date_added": "2019-05-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "State, Respondent, v. McEvoy, Petitioner,"
+    ],
+    "opinions": [
+      {
+        "text": "Petition for review of a decision of the Court of Appeals, No. 46795-0-II, June 14, 2016, 194 Wn. App. 1031. Denied November 2, 2016.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "State, Respondent, v. McEvoy, Petitioner,\nNo. 93388-0."
+  },
+  "file_name": "1023-04",
+  "first_page_order": 1009,
+  "last_page_order": 1009
+}

@@ -1,0 +1,175 @@
+{
+  "id": 8726589,
+  "name": "Laird v. Byrd",
+  "name_abbreviation": "Laird v. Byrd",
+  "decision_date": "1928-10-08",
+  "docket_number": "",
+  "first_page": "1114",
+  "last_page": "1121",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "177 Ark. 1114"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [
+    {
+      "cite": "46 N. Y. 223",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2052637
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/46/0223-01"
+      ]
+    },
+    {
+      "cite": "45 Ark. 40",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "209 N. W. 15",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "167 Minn. 322",
+      "category": "reporters:state",
+      "reporter": "Minn.",
+      "case_ids": [
+        142981
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/minn/167/0322-01"
+      ]
+    },
+    {
+      "cite": "180 N. W. 236",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "47 Minn. 161",
+      "category": "reporters:state",
+      "reporter": "Minn.",
+      "case_ids": [
+        8875431
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/minn/47/0161-01"
+      ]
+    },
+    {
+      "cite": "239 Pac. 324",
+      "category": "reporters:state_regional",
+      "reporter": "P.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "196 Cal. 686",
+      "category": "reporters:state",
+      "reporter": "Cal.",
+      "case_ids": [
+        2158135
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal/196/0686-01"
+      ]
+    },
+    {
+      "cite": "124 S. W. 1023",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "93 Ark. 342",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1546892
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/93/0342-01"
+      ]
+    },
+    {
+      "cite": "281 S. W. 373",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "170 Ark. 813",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1371749
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/170/0813-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 426,
+    "char_count": 7557,
+    "ocr_confidence": 0.483,
+    "pagerank": {
+      "raw": 3.469071259350069e-07,
+      "percentile": 0.8811245366042576
+    },
+    "sha256": "3bdc87e07621a73bc534e884c016481f22c36bab8a03a30e17660d6e6565f307",
+    "simhash": "1:27dab1e570cd6ae7",
+    "word_count": 1345
+  },
+  "last_updated": "2024-02-27T22:14:07.667199+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Laird v. Byrd."
+    ],
+    "opinions": [
+      {
+        "text": "Hart, C. J.,\n(after stating the facts). It is well settled in this State that one who sells personal property with reservation of title, upon the purchaser\u2019s default may either treat the sale as canceled and bring an action of replevin, or treat the sale las absolute and sue for the purchase money. It is equally well settled that the purchaser has the right to pay the balance of the purchase price, so as to prevent the seller from retaking the property. Culberson v. Lakella Iron Works, 170 Ark. 813, 281 S. W. 373.\nThe Commercial Investment Trust, by transfer and assignment from Hugh McKenzie, became the owner of the $450 note of Clyde E. Byrd, payable in installments, and also of the conditional sales contract. Byrd made default in the payment of the first two installments of the note, and the Commercial Investment Trust turned the note and contract over to Edward I. Rothbart, an attorney of Chicago, for collection, or for the recovery of the automobile in default of the payment of the balance due on it. Rothbart, on the ninth day of July, 1926, wrote to Clyde E. Byrd a letter in which he told him that \u00a1his clients had requested him to take immediate action in the matter, and that the matter would be held in abeyance in his office for the next seven days. This letter was duly received by Byrd, and, before the end of the seven days, he went to the garage of Hugh McKenzie, where he had left the car to be greased and oiled, and demanded his car. He was told by McKenzie that the Commercial Investment Trust hiad taken possession of the car because of his default in the payment of the two installments of the notes. Byrd tendered to Hugh McKenzie his father\u2019s check for $450 for the balance of the purchase price. The check was refused, but was refused by McKenzie .because he had already sold the car to P. D. Laird. Byrd then wired the $450 to the Commercial Investment Trust.\nThe court submitted to the jury the question of whether or not the Commercial Investment Trust had waived its right to retake the car during the seven days \u2019 time for extension given by its attorney, Rothbart, and the action of the court in this respect is assigned as error by counsel for appellants. They cite and rely on the principle of law decided in Cullen-McCurdy Construction Co. v. Vulcan Iron Works, 93 Ark. 342, 124 S. W. 1023, where it was held that it was not within the implied authority of an attorney to compromise his client\u2019s cause of action, or to release the defendant from liability, or to shift that liability by accepting the liability of another for that of the defendant. In this connection it may be said that there is no implied power, under a general retainer to an attorney, to grant additional time to a client\u2019s debtor. 6 C. J. 659, and cases cited. These cases are based upon the principle that the law of principal and lagent applies to the relation of attorney and client where the attorney is acting merely in the capacity of a collector, and that there is no implied power to grant additional time to his client\u2019s debtor. Our own case cited above and those cited in Corpus Juris proceed upon the principle that an attorney cannot give a release or compromise a case without sufficient authority, because that affects his client\u2019s right and not merely his remedy. So too, when an extension of time has been granted by an attorney who has merely authority to collect, this might have the effect of discharging a surety of the debtor or of otherwise impairing the rights of his client.\nHere greater authority than a mere collection attorney may be implied. As we have already seen, there was a conditional sales contract, and the seller or his assignee had the right to treat the sale as absolute and recover the balance of the purchase price, or to retake the property and claim it as his own, upon default by the purchaser - in making the installment payments as provided in the conditional sales contract. It is infer-able from the letter written by Bothbart and from his testimony in the case that he had authority to collect the balance of the purchase price or to institute suit for the property itself, in case of default of the payment of the purchase price. Hence we are of the opinion that the court was justified in submitting to the jury whether or not Bothbart did have authority to extend the time of payment for a short period in order to collect the balance of the purchase price. 'Such action on his part in no sense deprived his client of any material right, and related merely to his control of the remedy given his client under the conditional sales contract. Hence we do not think that the court committed reversible error in submitting this question to the jury, under the circumstances adduced in evidence.\nIt is next contended that, even though Bothbart had the authority to give the seven days\u2019 extension of time for payment, this did not have the effect of waiving the foreclosure, and that the seller still had a right to retake the property because the two installment notes had not been paid when due. This is contrary to the plainest principles of justice. The seller was given the election to treat the sale as absolute and sue for the balance of the purchase price, or to retake the property upon the default being made by the purchaser in the payment of the past due installment notes and demand for the property. The jury was justified in finding that Byrd had relied upon the seven days\u2019 extension of time given him by Rothbart for the 'Commercial Investment Trust, the holder of the note and the conditional sales contract, and, under the circumstances, it could not treat the nonperformance of the contract within the original time as a breach of it. Johnson v. Keaser, 196 Cal. 686, 239 Pac. 324; Reinkey v. Findley Electric Co., 47 Minn. 161, 180 N. W. 236; and McCaron v. Commercial Credit Trust, 167 Minn. 322, 209 N. W. 15.\nIt is also insisted that the judgment should he reversed because the tender made by Byrd for the payment of the purchase price was not in cash. This did not make any difference. The tender was not refused because of the check, but because McKenzie claimed that he had already sold the car to Laird. McKenzie waived his right to demand money by objecting to receiving the tender on other grounds. It would have been a vain and idle thing for Byrd to have procured the $450 in money and tendered it to McKenzie when McKenzie was refusing to accept the tender on other grounds. Harriman v. Meyer, 45 Ark. 40; and Duffy v. O\u2019Donovan, 46 N. Y. 223.\nFinally, it is insisted that Byrd could not maintain the suit against McKenzie because he had already sold and delivered the car to Laird at the time the suit in replevin was brought. The suit of 'Byrd was predicated upon the wrongdoing of the defendants, and they were all liable in damages for the condition of the car, under the facts found by the jury in the application of the principles of law given by the court. If the Commercial Investment Trust wrongfully converted the car to its own use when Byrd had the right to pay the balance of the purchase price, neither the Commercial Investment Trust nor its agents in the premises can escape liability for its wrongdoing. In the very nature of things neither McKenzie nor Laird could obtain any better rights than the Commercial Investment Trust. They were in no sense innocent purchasers.\nTherefore the judgment will be affirmed.",
+        "type": "majority",
+        "author": "Hart, C. J.,"
+      }
+    ],
+    "attorneys": [
+      "Gauglmn & Sifford, for appellant.",
+      "Align Smith and W. L. Broivn, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Laird v. Byrd.\nOpinion delivered October 8, 1928.\nGauglmn & Sifford, for appellant.\nAlign Smith and W. L. Broivn, for appellee."
+  },
+  "file_name": "1114-01",
+  "first_page_order": 1132,
+  "last_page_order": 1139
+}

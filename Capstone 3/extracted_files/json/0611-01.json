@@ -1,0 +1,145 @@
+{
+  "id": 8724419,
+  "name": "Butler v. Arkansas Power & Light Company",
+  "name_abbreviation": "Butler v. Arkansas Power & Light Co.",
+  "decision_date": "1932-12-12",
+  "docket_number": "4-2779",
+  "first_page": "611",
+  "last_page": "615",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "186 Ark. 611"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [
+    {
+      "cite": "18 L. R. A. (N. S.) 905",
+      "category": "reporters:federal",
+      "reporter": "L.R.A.N.S.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "113 S. W. 647",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "87 Ark. 576",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1519087
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/87/0576-01"
+      ]
+    },
+    {
+      "cite": "147 S. W. 473",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "104 Ark. 59",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1350646
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/104/0059-01"
+      ]
+    },
+    {
+      "cite": "116 S. W. 204",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "89 Ark. 222",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1515290
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/89/0222-01"
+      ]
+    },
+    {
+      "cite": "87 S. W. 644",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "75 Ark. 211",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1502541
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/75/0211-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 409,
+    "char_count": 6634,
+    "ocr_confidence": 0.516,
+    "pagerank": {
+      "raw": 1.0900769977177096e-07,
+      "percentile": 0.56541501068209
+    },
+    "sha256": "9325ad9317b2918029bbf67c5023c9c2ef029d433fe8b11973611993d603863d",
+    "simhash": "1:2af1d2b4917b5b2f",
+    "word_count": 1155
+  },
+  "last_updated": "2024-02-27T17:52:01.123529+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Butler v. Arkansas Power & Light Company."
+    ],
+    "opinions": [
+      {
+        "text": "Smith, J.\nThis suit was brought by Mamie Butler to recover damages to compensate an injury alleged to have been sustained by her while she was a passenger on one of appellee\u2019s street cars in the city of Little Bock. Two grounds of negligence were alleged. The first was that, as the plaintiff was about to alight from the street car on which she had been a passenger, the motorman started the car prematurely, after having- stopped it. But, as the plaintiff herself testified that she fell before the car was put in motion, this allegation of negligence passed out of the case.\nThe second ground of negligence alleged was that the motorman caused the step from which plaintiff alighted to fold up prematurely, and thus to trip her as she was alighting from the step, throwing her violently to the ground.\nThe defendant denied all the allegations of the complaint. The husband of the passenger was made a party plaintiff also.\nThe testimony on the part of plaintiffs as to the negligence was to the following effect: The street car stopped to permit two passengers, both colored women, to leave the car by the rear door. The car was stopped by the motorman applying air to the brake after he- had cut off the electric current to the motor. The rear door was then opened and the rear step let down, by the motorman turning a small lever which automatically controlled the door. After the rear door was opened and the rear step unfolded downward, one of the colored women alighted without mishap. As the other passenger, the plaintiff Mamie Butler, stepped-down on the car step with her left foot, she held to an upright rod at the side of the door; then, turning the rod loose, she placed her right foot upon the pavement, and, before she had time to remove her left foot from the rear step, it started folding up.\nIt appears, from the facts stated, that the instant case is very similar to the cases of Little Rock Traction & Electric Co. v. Kimbro, 75 Ark. 211, 87 S. W. 644, and Oliver v. Fort Smith Light & Traction Co., 89 Ark. 222, 116 S. W. 204. The legal principles applicable to the instant case and controlling here were announced in those cases, and the instructions given in the instant case correspond to those principles as to the duty of the carrier to its passengers.\nThere was a verdict for the defendant, and the only error assigned for the reversal of this judgment is in the instructions given to the jury.\nWe have said that the instructions given upon the care due the passenger by the carrier were correct, but there was given, at the request of the defendant and over the objection of the plaintiff, an instruction numbered 12, which we think was erroneous and prejudicial. It reads as follows: \u201cYou are instructed that in no event would the defendant be liable to the plaintiff because of any condition with which the plaintiff, Mamie Butler, may be suffering\u2019, if any, unless you further find from preponderance of the evidence that such condition was caused as a direct and proximate result of the accident alleged and on account of the negligence of the operator without the aid of any intervening cause.\u201d\nIn 45 C. J., page 926, chapter Negligence, \u00a7 489, discussing intervening efficient causes, it is said: \u201cIt is well-settled that the mere fact that other causes, conditions, or agencies have intervened between defendant\u2019s negligence and the injury for which recovery is sought is not sufficient in law to relieve defendant from liability. In other words, an intervening cause will not relieve from liability where the prior negligence was the efficient canse of tlie injury. The test is not to be found in the number of intervening events or agencies, but in their character and in the natural connection between the wrong done and the injurious consequences, and, if the injury is the natural and probable consequence of the original negligent act or omission, and is such as mig\u2019ht reasonably have been foreseen as probable, the original wrongdoer is liable, notwithstanding the intervening act or event.\u201d The case of Helena Gas Co. v. Rogers, 104 Ark. 59, 147 S. W. 473, is cited in the note to the text quoted.\nThe law of the subject is well-settled. It was said, in the case of Pittsburg Reduction Co. v. Horton, 87 Ark. 576, 113 S. W. 647, 18 L. R. A. (N. S.) 905, that \u201cit is a well-settled general rule that if, subsequent to the original negligent act, a new cause has intervened, of itself sufficient to stand as the cause of the injury, the original negligence is too remote. The difficulty arises in each case in applying the principle to a given state of facts.\u201d\nInstruction numbered 12, set out above, does not thus declare the law. Its purport appears to be that the defendant would not be liable, even though it were negligent, unless this negligence was the sole cause of the injury, to which no other cause contributed or intervened. As said in the Horton case, supra, the author of the original negligent act is responsible for its consequences, unless thereafter a new cause has intervened, of itself sufficient to stand as the cause of the injury, in which event the original negligence would be too remote to be charged as the proximate cause. The instruction does not conform to this view of the law, and it was therefore erroneous.\nIt may be doubted whether there was sufficient testimony to warrant the submission of this question to the jury. The question of liability appears to turn upon the question whether the fall of the passenger was- due to her own carelessness or to some unavoidable accident, on the one hand, or whether, on the other hand, the motorman caused the step to he prematurely folded np. In the latter case there would he liability; in the other there would not.\nThere was testimony tending to show that the passenger\u2019s condition had been made worse by her conduct and confinement since her fall. Such testimony might have some relevancy on the question of the measure of damages, but it could not affect the question of the negligence of the carrier. The negligence of the carrier either caused the passenger to fall, or it did not cause her to fall, and the question of its negligence in this respect cannot be determined by a consideration of the subsequent conduct of the injured party.\nNo other error appears, but for the error in giving the instruction numbered 12 the .judgment must be reversed, and it is so ordered.",
+        "type": "majority",
+        "author": "Smith, J."
+      }
+    ],
+    "attorneys": [
+      "Gaviness S George, Sam, T. & Torn Poe and Donald Poe, for -appellant.",
+      "Bose, Hemingway, Cantrell \u25a0& Loughborough and Elmer Schoggen, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Butler v. Arkansas Power & Light Company.\n4-2779\nOpinion delivered December 12, 1932.\nGaviness S George, Sam, T. & Torn Poe and Donald Poe, for -appellant.\nBose, Hemingway, Cantrell \u25a0& Loughborough and Elmer Schoggen, for appellee."
+  },
+  "file_name": "0611-01",
+  "first_page_order": 631,
+  "last_page_order": 635
+}

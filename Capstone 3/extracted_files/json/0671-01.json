@@ -1,0 +1,402 @@
+{
+  "id": 8724413,
+  "name": "Wood v. State",
+  "name_abbreviation": "Wood v. State",
+  "decision_date": "1923-07-09",
+  "docket_number": "",
+  "first_page": "671",
+  "last_page": "677",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "159 Ark. 671"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [
+    {
+      "cite": "106 Ark. 131",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1345668
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/106/0131-01"
+      ]
+    },
+    {
+      "cite": "111 Ark. 214",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1540409
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/111/0214-01"
+      ]
+    },
+    {
+      "cite": "95 Ark. 321",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1543494
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/95/0321-01"
+      ]
+    },
+    {
+      "cite": "113 Ark. 598",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "126 Ark. 354",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1551722
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/126/0354-01"
+      ]
+    },
+    {
+      "cite": "34 Ark. 649",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1875686
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/34/0649-01"
+      ]
+    },
+    {
+      "cite": "91 Ark. 560",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "159 Ark. 131",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        8719871
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/159/0131-01"
+      ]
+    },
+    {
+      "cite": "66 Ark. 292",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1909707
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/66/0292-01"
+      ]
+    },
+    {
+      "cite": "86 Ark. 486",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1521483
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/86/0486-01"
+      ]
+    },
+    {
+      "cite": "154 Ark. 367",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "149 Ark. 597",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        8721922
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/149/0597-01"
+      ]
+    },
+    {
+      "cite": "74 Ark. 450",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "154 Ark. 366",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "105 Ark. 698",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "133 Ark. 239",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1575109
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/133/0239-01"
+      ]
+    },
+    {
+      "cite": "130 Ark. 592",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "44 Ark. 61",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1893366
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/44/0061-01"
+      ]
+    },
+    {
+      "cite": "94 Ark. 538",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1545401
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/94/0538-01"
+      ]
+    },
+    {
+      "cite": "110 Ark. 409",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "91 Ark. 555",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1511779
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/91/0555-01"
+      ]
+    },
+    {
+      "cite": "71 Ark. 180",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1507773
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/71/0180-01"
+      ]
+    },
+    {
+      "cite": "60 Ark. 564",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1903742
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/60/0564-01"
+      ]
+    },
+    {
+      "cite": "21 Ark. 460",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1868215
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/21/0460-01"
+      ]
+    },
+    {
+      "cite": "99 Ark. 394",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1314492
+      ],
+      "pin_cites": [
+        {
+          "page": "399"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/99/0394-01"
+      ]
+    },
+    {
+      "cite": "156 Ark. 459",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1358487
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/156/0459-01"
+      ]
+    },
+    {
+      "cite": "154 Ark. 188",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1361254
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/154/0188-01"
+      ]
+    },
+    {
+      "cite": "154 Ark. 145",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1361180
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/154/0145-01"
+      ]
+    },
+    {
+      "cite": "154 Ark. 365",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1361197
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/154/0365-01"
+      ]
+    },
+    {
+      "cite": "54 Ark. 243",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1320410
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/54/0243-01"
+      ]
+    },
+    {
+      "cite": "74 Ark. 450",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "91 Ark. 555",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1511779
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/91/0555-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 619,
+    "char_count": 12810,
+    "ocr_confidence": 0.452,
+    "pagerank": {
+      "raw": 4.106039724357368e-07,
+      "percentile": 0.909887603485763
+    },
+    "sha256": "e9006a7a93f49e8f67cb9c894ea8d75d43680082305f0317fccce70512afd9a1",
+    "simhash": "1:be89113d36e302d3",
+    "word_count": 2292
+  },
+  "last_updated": "2024-02-27T18:54:00.643605+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Wood v. State."
+    ],
+    "opinions": [
+      {
+        "text": "Hart, J.\nGranville Wood was indicted for the crime of murder in the second degree, charged to have been committed by killing John Hughes. He was tried before a jury and convicted of voluntary manslaughter, his punishment being fixed at five years in the State Penitentiary.\nIt appears from the record that John Hughes was killed by Granville Wood in Baxter County, Ark., on the morning of March 5, 1922.\nOscar Gaines was the principal witness for the State. According to his testimony, he had known Gran-ville Wood for seventeen or eighteen years, and Gran-ville Wood had married his sister. Granville Wood and his wife were separated at the time of the killing. John Hughes had spent the night with Oscar Gaines, and on the next morning, while on their \u2022 way to get Hughes \u2019 wagon and harness, they saw Granville Wood' and his \u25a0wife standing in the road, talking. When they approached within a hundred yards of them, Wood\u2019s wife left him and came down the road towards Gaines and Hughes. Wood stood in the road where his wife had left him. Mrs. Wood was about half crying. Just as Gaines and Hughes came to where Wood was, Hughes said to Wood \u201cHello,\u201d and Wood replied, \u201cHow are you?\u201d Wood then stepped to one side of the road, and immediately raised his gun and shot Hughes in the forehead, near the left eye. Without lowering his gun, he began shooting at Gaines. One load struck Gaines in the elbow, and he was again shot in the back and in the back of his head as he ran away. Wood used an automatic twelve-gauge shotgun. Hughes was killed instantly. Gaines denied that Hughes attempted to shoot Wood. He admitted that Hughes had a double-barreled shotgun, but . said that it was a gun which he had borrowed from Hughes, and that he had given it to Hughes to carry home. He said that the loads in the gun had been placed there by him the week before he returned the gun to Hughes. Gaines denied having a pistol on the morning in question, or that he was armed in any way.\nGranville Wood was the principal witness for himself. According to his testimony, he shot Hughes because Hughes attempted to shoot him with a double-barreled shotgun. The first trouble Wood had with Hughes came up over a still near a spring on a place which Wood had bought. Wood asked Hughes to move the still away from the spring, and Hughes refused to do so. Hughes said that he would kill the first man that tried to make him move it. Wood told him that he was not going to force him to move it. Hughes told Wood that he was not going to move the still, and that if he fooled with him be would take his wife away from him. Several witnesses told Wood, on the morning of the killing, that John Hughes had told them the evening before that he was hunting for Wood \u00a1and was going to kill him. When they met on the morning of the killing, Hughes told Wood that this would he a good time bo settle their trouble. Hughes then attempted to shoot Wood, and Wood shot him first in his own necessary self-defense.\nRiley Casteel was also a witness for the defendant. According to his testimony, John Hughes told him, on the day before the 'killing, that he was going to kill Granville Wood the first time he saw him. Hughes said that he and Wood had had trouble, but the biggest trouble they had was over a still near a spring where Wood got water.\nFerd Gaines was also a witness for the defendant. According to his testimony, Hughes told him, on the evening before the killing, that he was going to take Wood\u2019s wife away from him, and that if he did'not like it he would kill him. He also stated that Granville Wood was trying to get him to move his still, and that he was not going to do it. If believed by the jury, the testimony for the State was sufficient to warrant the verdict.\nIt is earnestly insisted by counsel for the defendant that the court erred in not granting his motion for a continuance. The defendant\u2019s motion for a continuance contains the names of several witnesses, and it is frankly conceded by counsel for the defendant that the motion is not sufficient except as to one witness. The reason is that, as to the rest of the witnesses, their testimony was either cumulative or the witnesses themselves were beyond the jurisdiction of the court, and no showing was made by the defendant that they would return within the jurisdiction of the court.\nIt is earnestly insisted, however, that the court erred in not granting a continuance on account of the absence of Wesley Gaines. It is claimed that he would testify, if present, that John Hughes and Oscar Gaines were at his home on the morning of the killing; that they armed themselves, and said that they were going to hunt for Granville Wood and kill him. A subpoena had been 'Served on tbis witness. In presenting the defendant\u2019s motion for a continuance, the court asked the defendant\u2019s attorney where Wesley Gaines was, and the attorney replied that he heard that he was sick. No showing was made ;as to the character of his sickness, and no postponement of the case was asked until it could be ascertained how sick the absent witness was. No attachment was asked for the witness, and no showing was made of a definite character which would require the court to grant a continuance for the term.\nWe have uniformly held that it is a matter within the sound discretion of the trial court to grant \u00f3r refuse a continuance. The circumstances stated above do not show :any abuse of discretion upon the part of the trial court in refusing to grant the defendant a continuance for the term. Hence this assignment of error is not well taken. Jackson v. State, 54 Ark. 243; Allison v. State, 74 Ark. 450 ; and Tarkington v. State, 154 Ark. 365.\nThe next assignment of error is that the court erred in 'allowing the State to prove by Oscar Gaines that Granville Wood was engaged in the manufacture of whiskey, and had a still about three-quarters of a mile from his house. This testimony was asked the witness in rebuttal, and we do not think that there was any error in admitting the testimony. It is true that this court has uniformly held that one offense cannot be proved by evidence of the commission of another crime, unless the two are so connected as to form parts of one transaction. The reason is that the introduction of such testimony would raise another and different issue which would call for the introduction of other testimony upon such issue, and thus tend to divert the minds of the jury from the real issue in the case. Ware v. State, 91 Ark. 555.\nThere are certain well-defined exceptions to this general rule, and, in recognition of them, this court held, in a homicide case, that testimony concerning the sale :and manufacture of intoxicating liquor by -tbe- defendant may be introduced under 'certain circumstances, not for tbe purpose of proving other crimes committed by him, but to show tbe relations between tbe parties and tbe probable motive for tbe killing. Priest v. State, 154 Ark. 145.\nIn tbe case at bar it was tbe theory of the defendant that Hughes was looking for bim to kill bim, because tbe defendant bad asked Hughes to move a still which he had set up on the defendant\u2019s farm. The defendant not only testified to this as a fact himself, but introduced two other witnesses who also testified that Hughes had threatened to kill the defendant because the latter bad asked bim to move bis still.\nIt was the theory of the State that Wood himself was operating a still near bis residence, and the testimony referred to was competent as tending to show a motive on tbe part of tbe defendant to kill Hughes. It is admitted on all sides that there was bad blood between tbe parties. Hence this assignment of error is not well taken.\nTbe next assignment of error is that the court erred in permitting tbe prosecuting attorney, in his closing argument, to say tbe following: \u201cGentlemen of tbe jury, bow are we going to stop just such conditions as existed down there? You can stop it bv vour verdicts. I expect all of these parties were engaged in tbe illegal liquor traffic and made, transported and sold liquor in open violation and defiance of tbe law. In my opinion the reason defendant killed John Hughes was because tbe said John Hughes was in competition with the defendant, in the manufacture of moonshine whiskey.\u201d\nIt will be noted from our statement of facts that both Hughes and Wood were thought to be engaged in the illegal manufacture o:f whiskev. It also appears from tbe evidence in the record that other witnesses were engaged in tbe illegal manufacture of whiskey. Therefore the prosecuting attorney was warranted in making the deduction set out above and in tbis way pointing out to the jury matters which might affect the credibility of the witnesses.\nThe next assignment of error is the refusal of the court to instruct the jury as follows: \u201cYou are instructed that previous threats by the deceased, John Hughes, either communicated or not communicated to the defendant, would justify the defendant to act on less demonstration made by deceased, Hughes, to take the life of the defendant, at the time of the killing, than if such previous threats had not been made by said deceased, and the defendant would be justified in believing the danger was more imminent, at the time of the killing, had the previous threats not been made.\u201d\n\u2022 There was no error in refusing to give this instruction. It was argumentative in form, and amounted to an expression of an opinion by the court as to the weight to be given to the evidence. The court was not required to single out evidence and thus invade the province of the jury by telling it the weight to be given to any particular part of the testimony. Fields v. State, 154 Ark. 188; and Johnson v. State, 156 Ark. 459.\nThere is no reversible error in the record, and the judgment will be affirmed.",
+        "type": "majority",
+        "author": "Hart, J."
+      }
+    ],
+    "attorneys": [
+      "W. U. McCabe and Nat T. Dyer, for appellant.",
+      "J. 8. TJtley, Attorney General, John L. Garter and Wm. T. Hammock, Assistants, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Wood v. State.\nOpinion delivered July 9, 1923.\n1. Homicide \u2014 manslaughter \u2014 sufficiency op evidence. \u2014 Evidence held to sustain a conviction for voluntary manslaughter.\n2. Continuance \u2014 discretion op court. \u2014 It was not an abuse of discretion to deny a continuance on account of the absence of a witness alleged to be ill where no showing was made as to the character of such illness, and no request for a postponement was made in order that the extent of such illness could. be determined.\n3. Homicide \u2014 proof op other crime \u2014 In a prosecution for murder, it was not error to permit the State to prove that defendant was engaged in the manufacture of whiskey where such proof tended to show a motive on defendant\u2019s part to kill deceased, who was likewise engaged in making whiskey.\n4. Criminal law \u2014 argument op prosecuting attorney. \u2014 In , a prosecution for murder, argument of the prosecuting attorney that defendant killed deceased because the latter was in competition with him in making whiskey held warranted by the evidence.\n5. Criminal law \u2014 argumentative instruction. \u2014 It was not.error to refuse a requested instruction which was argumentative in form and amounted to an expression of opinion as to the weight of the evidence.\nAppeal from Baxter Circuit Court; J. M. Shinn, Judge;\naffirmed.\nW. U. McCabe and Nat T. Dyer, for appellant.\n1. As to tire absent witness, Wesley Caines, sufficient. diligence was shown, and, since bis testimony would have tended to establish appellant\u2019s defense, it was an abuse of discretion to refuse a. continuance. 42 Art. 273; 99 Ark. 394, 399; 21 Ark. 460; 60 Ark. 564; 71 Ark. 180.\n2. The appellant did not offer any evidence as to his good character, nor suggest it any way that would authorize the State to attack it in rebuttal; and, even if he had done so, it was improper to allow the State to show in rebuttal specific acts of misconduct. 91 Ark. 555, 558-9\u2019.\nJ. 8. TJtley, Attorney General, John L. Garter and Wm. T. Hammock, Assistants, for appellee.\n1. There is no sufficient showing of diligence on the part of the appellant to justify this court in overruling the discretion of the trial court in refusing the continuance on account of the absence of the witness, Wesley Gaines. 110 Ark. 409; 94 Ark. 538; Id. 169; 44 Ark. 61; 130 Ark. 592; 133 Ark. 239; 105 Ark. 698; 154 Ark. 366; 74 Ark. 450; 149 Ark. 597.\n2. The questions now objected to by appellant with reference to illegal sales of whiskey and ownership of stills were not improper; but, even if they were erroneous, they were invited, and appellant cannot complain. 154 Ark. 367; 86 Ark. 486; 66 Ark. 292; Selman v. State, 159 Ark. 131; 91 Ark. 560.\n3. There is no merit in the objections to the prosecuting attorney\u2019s argument. It amounts to no more than an expression of his opinion on the evidence. No abuse of discretion on the part of the court in allowing it is shown. 34 Ark. 649; 126 Ark. 354; 113 Ark. 598; 95 Ark. 321; 111 Ark. 214; 106 Ark. 131; Id. 283."
+  },
+  "file_name": "0671-01",
+  "first_page_order": 697,
+  "last_page_order": 703
+}

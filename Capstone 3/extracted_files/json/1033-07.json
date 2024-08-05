@@ -1,0 +1,78 @@
+{
+  "id": 12457112,
+  "name": "Kimzey, Petitioner, v. Dep't of Labor & Indus., Respondent",
+  "name_abbreviation": "Kimzey v. Dep't of Labor & Indus.",
+  "decision_date": "2016-06-29",
+  "docket_number": "No. 92742-1",
+  "first_page": "1033",
+  "last_page": "1033",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "185 Wash. 2d 1033"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Wash.",
+    "id": 9029,
+    "name": "Washington Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 38,
+    "name_long": "Washington",
+    "name": "Wash."
+  },
+  "cites_to": [
+    {
+      "cite": "191 Wn. App. 1030",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        12461096,
+        12461093,
+        12461094,
+        12461095
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/191/1030-04",
+        "/wash-app/191/1030-01",
+        "/wash-app/191/1030-02",
+        "/wash-app/191/1030-03"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 30,
+    "char_count": 207,
+    "ocr_confidence": 0.884,
+    "sha256": "886030da4565fea6b69b67a673694cfcb1c24287ce6bc573c4632a542e6b1bcb",
+    "simhash": "1:a5f942ba354d4c27",
+    "word_count": 34
+  },
+  "last_updated": "2024-02-28T00:06:59.447104+00:00",
+  "provenance": {
+    "date_added": "2019-05-22",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Kimzey, Petitioner, v. Dep\u2019t of Labor & Indus., Respondent,"
+    ],
+    "opinions": [
+      {
+        "text": "Petition for review of a decision of the Court of Appeals, No. 72323-5-1, November 30, 2015, 191 Wn. App. 1030. Denied June 29, 2016.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Kimzey, Petitioner, v. Dep\u2019t of Labor & Indus., Respondent,\nNo. 92742-1."
+  },
+  "file_name": "1033-07",
+  "first_page_order": 985,
+  "last_page_order": 985
+}

@@ -1,0 +1,235 @@
+{
+  "id": 1397059,
+  "name": "Bassett v. Mutual Benefit Health & Accident Association",
+  "name_abbreviation": "Bassett v. Mutual Benefit Health & Accident Ass'n",
+  "decision_date": "1929-01-21",
+  "docket_number": "",
+  "first_page": "906",
+  "last_page": "911",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "178 Ark. 906"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [
+    {
+      "cite": "2 S. W. (2d) 80",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "175 Ark. 1094",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1403518
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/175/1094-01"
+      ]
+    },
+    {
+      "cite": "4 S. W. (2d) 576",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "176 Ark. 879",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1399864
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/176/0879-01"
+      ]
+    },
+    {
+      "cite": "112 S. W. 598",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "87 Ark. 142",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1519129
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/87/0142-01"
+      ]
+    },
+    {
+      "cite": "84 S. W. 510",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "73 Ark. 462",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1503990
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/73/0462-01"
+      ]
+    },
+    {
+      "cite": "95 S. W. 459",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "78 Ark. 240",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1497272
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/78/0240-01"
+      ]
+    },
+    {
+      "cite": "243 S. W. 289",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "154 Ark. 509",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1361225
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/154/0509-01"
+      ]
+    },
+    {
+      "cite": "28 L. R. A. (N. S.) 530",
+      "category": "reporters:federal",
+      "reporter": "L.R.A.N.S.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "125 S. W. 443",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "93 Ark. 376",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1546810
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/93/0376-01"
+      ]
+    },
+    {
+      "cite": "283 S. W. 3",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "171 Ark. 7",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1369406
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/171/0007-01"
+      ]
+    },
+    {
+      "cite": "299 S. W. 13",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "175 Ark. 271",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1403424
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/175/0271-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 504,
+    "char_count": 9628,
+    "ocr_confidence": 0.478,
+    "pagerank": {
+      "raw": 3.1003338527500484e-07,
+      "percentile": 0.8592931479788977
+    },
+    "sha256": "2891912f7ac53fd2a9d527bc52597149fe59d55de050bfbcc17beacae308c964",
+    "simhash": "1:93c572dc5cfdaed4",
+    "word_count": 1694
+  },
+  "last_updated": "2024-02-27T17:49:07.238160+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Bassett v. Mutual Benefit Health & Accident Association."
+    ],
+    "opinions": [
+      {
+        "text": "Smith, J.\nAppellant, as administrator of the estate of R. S. Boyd, brought suit to recover the amount of an accident insurance policy issued by appellee insurance company on the life of his intestate. This suit was begun November 27, 1926, by filing a complaint in the circuit court, upon which summons was duly issued and served. The policy sued on was later made an exhibit to the complaint, and it appeared therefrom that the company had insured said Boyd from loss of life through accidental means, which, independently and exclusively of all other canses, should cause the death of the said Boyd, in the sum of $1,500, hut that death by suicide, whether the insured was sane or insane, was a hazard not covered by the policy.\nOn January 3, 1927, the company filed a demurrer to this complaint, which appears never to have been passed upon. On the same day the company filed a complaint in the chancery court, upon which a summons was duly issued and served two days later, in which the issuance of the policy and the death of the insured was admitted. The complaint alleged, however, that the policy had lapsed, but that the insured had later procured its reinstatement for the fraudulent purpose of augmenting his estate by committing suicide, and.that the insured did, on November 23, 1925, commit suicide. There was a prayer that the policy be canceled on account of this alleged fraud.\nThe suit at law was transferred to equity, over the objection of the plaintiff administrator, who, on April 23, 1927, filed in the chancery .court a motion to transfer the cause back to the law court, because the chancery court had no jurisdiction and because there was a full, complete and adequate remedy at law.' This motion was overruled. The plaintiff administrator then filed a demurrer, which does not appear to have been acted upon. He then filed an answer, and thereafter began an original proceeding in this court to prohibit-the chancellor from proceeding with the trial of said c\u00e1nse.\nIn the opinion rendered upon a consideration of this petition, found reported as Bassett v. Bourland, 175 Ark. 271, 299 S. W. 13, denying the prayer for a writ of prohibition, we said that the circuit judge had jurisdiction to pass upon the motion to transfer to equity, and that, if the cause had been erroneously transferred to equity, prohibition was not the remedy to correct the error, but the error could be corrected only by appeal. We said:\n\u201cPetitioner pursued the proper course in objecting and excepting to the order of the circuit court transferring the case to chancery, and by appearing in the chancery court and moving to transfer the case back to the circuit court.\u201d\nWe said that, upon the motion to re-transfer being overruled, petitioner had the right, if he did not elect to stand upon his motion and refuse to proceed with the trial, in which event his complaint would, no doubt, be dismissed, to go to trial in the chancery court, and from an adverse decree against him he could appeal to this court, \u201cwhere this court would review the case for all errors appearing in the record de novo,\u201d and that \u201cwe therefore refrain from a discussion of whether the transfer from the circuit to the chancery court was right, and whether the decision of the chancery court on the motion to re-transfer to the circuit court was right, for, if both of these decisions were wrong, they cannot be corrected by prohibition, and can only be corrected by appeal.\u201d\nAfter the rendition of this opinion the chancellor proceeded with the trial of the cause, and found the fact to be that the insured had committed suicide, and, upon this finding, decreed the cancellation of the policy, and this appeal is from that decree.\nWe think the chancellor was in error in assuming jurisdiction of the cause, and that he should have granted the prayer to re-transfer the cause to the circuit court. If it be said that chancery had jurisdiction upon any allegations of fraud or otherwise to cancel the policy after the death of the insured (which we- do not decide), it must also be said that the jurisdiction to grant relief by cancellation was not exclusive, as the circuit court, upon proof of fraud invalidating the policy, could, by refusing to permit a recovery on the policy, have' granted, in effect, the same relief. The circuit court certainly had jurisdiction to determine whether the policy was void for the reason that its reinstatement had been procured by fraud, and its jurisdiction was first invoked, and for this reason, if for no other, the cause should have been re-transferred to the circuit court.\nIn the case of Mott v. First Natl. Bank, 171 Ark. 7, 283 S. W. 3, the maker of a note filed, when sued upon it, an answer, in which she alleged that the execution of the note had been procured through mistake, and she moved that the cause be transferred to equity on the ground that the answer presented an equitable defense. The circuit court refused to transfer the cause to equity, and in affirming that order we said:\n\u201cCounsel for appellant insist that the cancellation of the note was involved, and that this made it an equitable defense exclusively, but we cannot agree with counsel in this contention. The note was the basis of the action at law, and was, of course, exhibited with the complaint and introduced in evidence. It became a part of the record in this case, and a judgment for the defendant op the issues presented constituted a bar to any future action on the note, and was tantamount to its cancellation. \u2019 \u2019\nIn the ease of First Nat. Bank v. Reinman, 93 Ark. 376, 125 S. W. 443, 28 L. R. A. (N. S.) 530, it was held that, where timely objection was \u00a1made to the transfer of a cause from the circuit to the chancery court in a case where the action and defense were purely legal, it was error for the chancery court to entertain jurisdiction, and for that error that decree was reversed. See also SledgeNorfleet & Co. v. Matkins, 154 Ark. 509, 243 S. W. 289; Equitable Mfg. Co. v. Thomasson, 78 Ark. 240, 95 S. W. 459; Weaver v. Ark. Natl. Bank, 73 Ark. 462, 84 S. W. 510; Crawford County Bank v. Bolton, 87 Ark. 142, 112 S. W. 598; \u00a7 6156, C. & M. Digest.\nThe allegation that the reinstatement of the policy had been procured in furtherance of the insured\u2019s fraudulent purpose to commit suicide constituted no ground conferring jurisdiction on the chancery court to cancel the policy, for the reason that the policy expressly provided that it should be void in the event that the insured committed suicide, whether sane or insane, so that the intention of the insured to commit suicide, whether to augment his estate or not, was and is immaterial.\nIt is an elementary principle of remedial procedure that a court of equity will not assume jurisdiction where there is a complete and adequate remedy at law, and such a remedy clearly existed in the instant case.\nIt is finally insisted that, even though the chancery court was in error in assuming jurisdiction, the error was harmless, for the reason that, had the trial been at law, a verdict in the company\u2019s favor would have been directed, as the undisputed testimony shows that the insured committed suicide.\nIf the fact of suicide is shown by the undisputed evidence, the error is not prejudicial, but the error must be held to be prejudicial if any other inference can be reasonably drawn from the testimony. If the testimony is sufficient to present the issue whether the insured committed suicide, so that fair-minded men might intelligently differ as to whether the death resulted from an accident or from suicide, the case is one for the jury.\nThe insured was found dead, suspended by a rope around his neck, in the barn of his son-in-law, and the circumstances strongly point to suicide as the cause of death. The majority of the judges are of the opinion, however, that this is not the only inference reasonably and fairly deducible from the testimony.\nThere is a presumption of law against a man\u2019s taking his own life intentionally, even when it is shown that he came to his death at his own hand. Mutual Life Ins. Co. v. Raymond, 176 Ark. 879, 4 S. W. (2d) 576; Fidelity Mutual Life Ins. Co. v. Wilson, 175 Ark. 1094, 2 S. W. (2d) 80.\nIn addition, it is insisted that there is an absence of testimony showing such a state of mind on the part of the insured as would be calculated to lead him to suicide. The insured had certain furniture in the barn loft of his son-in-law, and had borrowed a wagon and team from a neighbor to move the furniture to his farm. There were no stairs or steps to the loft, and the insured took a plow-line and went to the barn, after stating th\u00e1t he would get the furniture down and load it into the wagon. The furniture consisted of a rocldngi-chair, bicycle, a boy\u2019s wagon, and some other toys. The barn loft was floored with a few scattering planks, and it is the insistence of appellant that the. .jury would have been warranted in finding from the testimony that the insured, after fastening an end of the rope .to a rafter, fell and became entangled in the rope, which looped itself around his neck as he fell, and that in this manner the insured was accidentally killed.\nWithout further recitation of the testimony showing the circumstances of the insured\u2019s death, the majority are of the opinion that the testimony presented a case for the jury.\nThe decree of the court must therefore be reversed, and it is so ordered.",
+        "type": "majority",
+        "author": "Smith, J."
+      }
+    ],
+    "attorneys": [
+      "Robert A. Rowe and John E. Tatum, for appellant.",
+      "Harrell Harper and Evans & Evans, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Bassett v. Mutual Benefit Health & Accident Association.\nOpinion delivered January 21, 1929.\nRobert A. Rowe and John E. Tatum, for appellant.\nHarrell Harper and Evans & Evans, for appellee."
+  },
+  "file_name": "0906-01",
+  "first_page_order": 924,
+  "last_page_order": 929
+}

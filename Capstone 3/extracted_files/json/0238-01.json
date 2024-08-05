@@ -1,0 +1,319 @@
+{
+  "id": 12440912,
+  "name": "The State of Washington, Respondent, v. Adrian Bentura Ozuna, Petitioner",
+  "name_abbreviation": "State v. Ozuna",
+  "decision_date": "2015-09-17",
+  "docket_number": "No. 90666-1",
+  "first_page": "238",
+  "last_page": "251",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "184 Wash. 2d 238"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Wash.",
+    "id": 9029,
+    "name": "Washington Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 38,
+    "name_long": "Washington",
+    "name": "Wash."
+  },
+  "cites_to": [
+    {
+      "cite": "941 P.2d 1102",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1997,
+      "opinion_index": 0
+    },
+    {
+      "cite": "133 Wn.2d 26",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        331119
+      ],
+      "year": 1997,
+      "pin_cites": [
+        {
+          "page": "38"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/133/0026-01"
+      ]
+    },
+    {
+      "cite": "179 P.3d 835",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2008,
+      "opinion_index": 0
+    },
+    {
+      "cite": "163 Wn.2d 387",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        5682272
+      ],
+      "year": 2008,
+      "pin_cites": [
+        {
+          "page": "391"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/163/0387-01"
+      ]
+    },
+    {
+      "cite": "262 P.3d 1225",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2011,
+      "opinion_index": 0
+    },
+    {
+      "cite": "172 Wn.2d 802",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4018094
+      ],
+      "year": 2011,
+      "pin_cites": [
+        {
+          "page": "805"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/172/0802-01"
+      ]
+    },
+    {
+      "cite": "133 P.3d 936",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "weight": 2,
+      "year": 2006,
+      "pin_cites": [
+        {
+          "parenthetical": "regarding the crime of communication with a minor for immoral purposes under RCW 9.68A.090"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "157 Wn.2d 1",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        3005007
+      ],
+      "year": 2006,
+      "pin_cites": [
+        {
+          "page": "9",
+          "parenthetical": "regarding the crime of communication with a minor for immoral purposes under RCW 9.68A.090"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/157/0001-01"
+      ]
+    },
+    {
+      "cite": "86 P.3d 1221",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2004,
+      "pin_cites": [
+        {
+          "parenthetical": "regarding the crime of tampering with a witness, RCW 9A.72.120"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "131 Wn. App. 1",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        2511812
+      ],
+      "weight": 2,
+      "year": 2004,
+      "pin_cites": [
+        {
+          "page": "6",
+          "parenthetical": "regarding the crime of tampering with a witness, RCW 9A.72.120"
+        },
+        {
+          "page": "5-6"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/131/0001-01"
+      ]
+    },
+    {
+      "cite": "339 P.3d 635",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "weight": 3,
+      "year": 2014,
+      "opinion_index": 0
+    },
+    {
+      "cite": "181 Wn.2d 1023",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "year": 2014,
+      "opinion_index": 0
+    },
+    {
+      "cite": "862 P.2d 117",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "weight": 2,
+      "year": 1993,
+      "pin_cites": [
+        {
+          "parenthetical": "emphasis added"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "122 Wn.2d 712",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1363516
+      ],
+      "weight": 9,
+      "year": 1993,
+      "pin_cites": [
+        {
+          "page": "715"
+        },
+        {
+          "page": "716"
+        },
+        {
+          "page": "718"
+        },
+        {
+          "page": "718-19, 722"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/122/0712-01"
+      ]
+    },
+    {
+      "cite": "44 P.3d 857",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2002,
+      "opinion_index": 0
+    },
+    {
+      "cite": "111 Wn. App. 317",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        1072116
+      ],
+      "weight": 3,
+      "year": 2002,
+      "pin_cites": [
+        {
+          "page": "321-22",
+          "parenthetical": "regarding the crime of intimidating a former witness, RCW 9A.72.110(2)"
+        },
+        {
+          "page": "321-23"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/111/0317-01"
+      ]
+    },
+    {
+      "cite": "729 P.2d 48",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1986,
+      "opinion_index": 0
+    },
+    {
+      "cite": "107 Wn.2d 346",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1192451
+      ],
+      "year": 1986,
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/107/0346-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1113,
+    "char_count": 24241,
+    "ocr_confidence": 0.892,
+    "pagerank": {
+      "raw": 5.0011153170616546e-08,
+      "percentile": 0.3157062438775388
+    },
+    "sha256": "4d172ba88414928ffe5b82037aa65b1775febc8731bdc5508443bce456ad0f3c",
+    "simhash": "1:aed4d0bd55871472",
+    "word_count": 4114
+  },
+  "last_updated": "2024-02-27T21:13:25.899037+00:00",
+  "provenance": {
+    "date_added": "2019-05-21",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Madsen, C.J., and Johnson, Owens, Fairhurst, Wiggins, Gonz\u00e1lez, Gordon McCloud, and Yu, JJ., concur."
+    ],
+    "parties": [
+      "The State of Washington, Respondent, v. Adrian Bentura Ozuna, Petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "Stephens, J.\n\u00b61 Adrian Ozuna challenges the sufficiency of the evidence supporting his conviction for intimidating a former witness. A person commits that crime if he \u201cdirects a threat\u201d to a former witness because of the witness\u2019s role in an official proceeding. RCW 9A.72.110(2). The statute defines a \u201cthreat\u201d to mean \u201c[t]o communicate, directly or indirectly, the intent\u201d to harm another in various ways. Id. at (3)(a)(i); see also id. at (3)(a)(ii) (incorporating a similar definition of \u201cthreat\u201d).\n\u00b62 Ozuna contends the jury impermissibly convicted him based only on a letter he wrote that authorities confiscated before it was delivered to anyone. We disagree and conclude that a rational jury could have found Ozuna guilty of the crime based on circumstantial evidence presented at trial. We affirm.\nI. BACKGROUND\nA. Trial Evidence\n\u00b63 The testimony at trial established the following facts. In June 2010, Ozuna was incarcerated in the Yakima County Department of Corrections (Yakima County Jail). Ozuna was awaiting sentencing for a prior conviction. The conduct underlying that conviction involved Augustine Jaime Avalos, a member of the same gang as Ozuna. Avalos had testified against Ozuna in Ozuna\u2019s underlying trial and was also incarcerated in the Yakima County Jail.\n\u00b64 On June 8, when Ozuna was moved from one prison cell to another, a corrections officer found two unstamped, unsealed letters in his possession. The officer confiscated the letters because Ozuna was not allowed to have the letters in the new cell and because the envelope in which they were found listed a return address for another inmate, Marc Cole. A handwriting expert testified that Ozuna wrote the letters. Ozuna later conceded he wrote the letters. 1 Tr. of Proceedings (TP) at 547 (concession in closing argument); Appellant\u2019s Reply Br. at 1 (\u201cOzuna does not contest the fact that he wrote the letters.\u201d).\n\u00b65 One letter is not relevant to this case. The other letter is relevant and was admitted into evidence. The letter is addressed to \u201cPrimo\u201d and signed by \u201cPrimo,\u201d meaning cousin. It is undated. The letter reads in part:\nEy homie, I just got your [unreadable]. Well it was a blessing to hear from you. It put\u2019s a smile on my face to know that your ready to ride for me.... [A] s you already know, I [agreed to a plea deal for] 10 years 9 months cause of a pussy that don\u2019t know how to ride or Die. He would rather break weak than to honor our sacred code of silence. He is now marked a rat and a piece of shit in my book. He has sealed his fate and now it\u2019s just a matter of time. He rode with me and was given my trust and he decided to dishonor that privaledge .... [A] 111 can say for that fool is, you know what time it is. You guys let him live in luxery for way to long already .... [H]ow can you live with a rata like that and still be able to rest in peace in that puto\u2019s presence? I hope and pray for satisfaction before I leave this building and may that fool suffer and Die in his rat hole. Fucken snitch bitch rat! . . . That puto took 10 years of my life and a fucken leva from my barrio, \u201cmy big homie\u201d \u201cGorge\u201d [is] living in the same house as him .... Gorge could of did something but just decided to let that puta slide and live under the same roof with him. . . . Tell that fool he\u2019s a piece of shit just like him. Let\u2019em know that this is Campana Gang! He put\u2019s the crack in our bell. No loyalty, no honor, no heart! . . . Tell\u2019em he\u2019s as good as dead to me.\n. . . [L]et that fool feel the wrath and let\u2019em know the rata that he is and tell\u2019em that I siad that bad things come to those that snitch. May he rest in piss.\nSo now you know what I want primo, don\u2019t hesitate vato. Take action, reep the rewards later. Don\u2019t think, just act.... Hit me up later after the shit get\u2019s handled. Do it on the 25 cause that\u2019s when I have court, [and] I want to have a smile on my face that day knowing that... fool\u2019s getting a lil taste of what\u2019s coming to him. The 25 is the day I get sentenced. Good looking out Primo, don\u2019t let me down fucker! . .. Tell\u2019em that Vanessa\u2019s gonna be the one to set him up for us, mark my words! Show him how set ups are done. There just waiting for him to get out. . .. Lol.. . . Satisfaction will be mine! Let\u2019em know that he fucked up.\nState Ex. 1D at 1-4 (in evidence folder in the record). The State produced ample testimony confirming that \u201c[t]here was a threat to another person in [the letter].\u201d 1 TP at 269; see also, e.g., id. at 278-85, 318-21 (discussing threatening nature of the letter). However, no evidence established that the letter was delivered to anyone before the officer confiscated it.\n\u00b66 On June 22, a detective showed the undelivered letter to Avalos. The detective believed Ozuna\u2019s letter targeted Avalos, and the detective was concerned for Avalos\u2019s safety because Avalos was a former gang member with Ozuna and had testified against him. The detective had investigated Ozuna\u2019s underlying crime and was present during trial. On the day the detective showed Avalos the letter, she also conducted a recorded interview with him. The content of that interview was not admitted as substantive evidence at trial.\n\u00b67 On June 25, the day Ozuna was scheduled to be sentenced for the underlying conviction, Ozuna used a prison phone to call his father. The call was recorded, admitted into evidence, and played to the jury. During the call, Ozuna stated, \u201c[T]hey wrote me up for tampering with a witness\u2014or not tampering\u2014threatening a witness.\u201d Id. at 390. Ozuna then said he thought \u201cthey\u2019re going to show the letter to the [sentencing] judge or some shit,\u201d so he said he was going to \u201cbe prepared [for the sentencing hearing] and I\u2019m like hey man, you\u2019ve got to understand, you know, I\u2019m doing ten years because of this gato and I was mad and\u2014[inaudible on tape\u2014language]\u2014you know? Try to just set that whole shit down. Hey, I wrote it in\u2014in a time of passion and, you know?\u201d Id. (third alteration in original). Later that day, Ozuna attended his sentencing hearing and was sentenced to 10 years and 9 months in accordance with his plea agreement. The record does not reflect whether the confiscated letter was discussed at the hearing.\n\u00b68 On July 9, another inmate in the same prison, David Soto, assaulted Avalos while in a courthouse holding room. Avalos received stiches at the hospital for his injuries. The inmates who were present when Avalos was injured were not cooperative. No evidence suggests that Ozuna was present during the assault.\n\u00b69 At Ozuna\u2019s intimidation trial, the State produced testimony that Ozuna and Soto are members of, and Avalos is a former member of, the gang called the Sure\u00f1os. Their gang is also referred to by its subgroup, the Bell Garden Lokotes or BGL, within the larger organization of the Sure\u00f1os.\n\u00b610 Avalos testified at Ozuna\u2019s intimidation trial. A reasonable jury could view his testimony as evasive. The State attempted to impeach his credibility with questions based on his recorded interview given to the detective on June 22. For example, when Avalos was asked, \u201cAnd you received some verbal threats?,\u201d he testified, \u201cLike I said, people talk a lot through their doors.\u201d Id. at 422. He was asked, \u201cIsn\u2019t it true that you said [in the recorded interview] you did receive a letter that stated that the homeys were waiting for you in a shelter ... to take care of you?,\u201d but he responded, \u201cI don\u2019t remember that, no.\u201d Id.\n\u00b611 The State also produced expert testimony about gang culture from a Sunnyside Police Department officer who worked in the Yakima area and was knowledgeable about the local gangs, as well as the individuals at issue here. The expert was asked, \u201c[A]re you aware of... a no snitch code within the BGL gang?\u201dId. at 437. He responded, \u201c[I]t\u2019s not just the BGL gang, it\u2019s all of the gang members so I\u2019m not going to clump just one; it\u2019s the whole entire culture of the gang culture. That is one of their main staples, the no snitch credo.\u201d Id. And the State asked, \u201cIf a gang member felt like another gang member snitched on them would it be likely to see some retaliation?\u201d Id. at 443. He answered, \u201cLikely!?] [N]o, there will be.\u201d Id. The expert testified about the hierarchical decision-making structure of gangs, explaining that for a significant action\u2014such as the retaliation against a former witness\u2014to be taken, someone high in the gang must authorize the action or else it cannot proceed. Ultimately, the officer testified about how the content of Ozuna\u2019s undelivered letter was consistent with gang culture.\n\u00b612 Similarly, two other officers from the Yakima County Jail discussed the status of being a \u201cshot caller\u201d or \u201ctank boss,\u201d meaning someone who has elevated decision-making authority within a gang or prison. Id. at 448; see also id. at 292, 456-59. One officer testified that Ozuna was a \u201cshot caller\u201d in the Yakima County Jail. Id. at 492; cf. id. at 459 (regarding a distinction between \u201cposers\u201d and shot callers and testifying Ozuna is \u201cnot a poser; he\u2019s\u2014he\u2019s legit. He\u2019s the\u2014he\u2019s in it\u201d).\n\u00b613 After the State rested its case, Ozuna called an admitted Sure\u00f1os gang member, Brandon Perren, as a witness. Perren testified that he and Ozuna were in the Yakima County Jail together and that they communicated via letters. He testified that after Ozuna\u2019s letter had been confiscated, Ozuna sent him a different letter instructing him to \u201cleave [Avalos] alone.\u201d Id. at 476.\nB. Procedural History\n\u00b614 Before trial, Ozuna moved to dismiss the charge for lack of evidence pursuant to State v. Knapstad, 107 Wn.2d 346, 729 P.2d 48 (1986). Defense counsel argued that \u201cdirecting a threat at somebody means not keeping it to yourself; it means\u2014directing it to somebody, not necessarily .. . to the intended victim, but to somebody .\u201d 1 TP at 20 (emphasis added). The judge believed there were disputed facts and denied the motion.\n\u00b615 The trial ensued. After the State rested its case (evidence discussed above), Ozuna moved to dismiss the charge. Defense counsel argued that \u201cthere\u2019s no ... evidence that [a threat] was communicated to anybody\u201d and that \u201cthis element of the offense simply has not been addressed by the prosecution\u2019s case.\u201d Id. at 463. The judge denied the motion. The judge reasoned that State v. Anderson, 111 Wn. App. 317, 44 P.3d 857 (2002), and State v. Hansen, 122 Wn.2d 712, 862 P.2d 117 (1993), held that a communication does \u201cnot require that . . . the threat actually be communicated to the person who is the target of the threat.\u201d 1 TP at 465. Defense counsel retorted, \u201c[But] [i]t has to be communicated to somebody though.\u201d Id. (emphasis added). The judge replied, \u201cI\u2019m not even sure that that\u2019s it; it just has to be made as far as I can tell from reading ... those cases.\u201d Id. at 465-66 (emphasis added). Defense counsel offered a hypothetical situation about a person writing threatening language in his personal diary and the diary then being discovered by police to suggest this could not constitute communicating a threat. The judge said, \u201c[A]nd that\u2019s what happened here\u201d\u2014but then denied the motion. Id. at 466.\n\u00b616 The trial proceeded, and the jury returned a verdict convicting Ozuna of intimidating a former witness under RCW 9A.72.110(2). The trial court entered judgment and imposed an exceptional sentence of 10 years based on the jury\u2019s finding of gang-related aggravating factors.\n\u00b617 Ozuna appealed to the Court of Appeals. He raised several issues, including challenges to the sufficiency of the evidence and the denial of his motion to suppress. The Court of Appeals affirmed in an unpublished opinion. State v. Ozuna, No. 31208-9-III (Wash. Ct. App. July 15, 2014) (unpublished), http://www.courts.wa.gov/opinions/pdf/312089 .unp.pdf. Chief Judge Siddoway dissented on the sufficiency issue. Ozuna, slip op. at 1-11 (dissenting in part). Ozuna petitioned for review, abandoning all of his contentions except the sufficiency of the evidence to prove he directed a threat. We granted review. 181 Wn.2d 1023, 339 P.3d 635 (2014).\nII. DISCUSSION\nA. Legal Standard\n\u00b618 A person is guilty of intimidating a witness \u201cif the person directs a threat to a former witness because of the witness\u2019s role in an official proceeding.\u201d RCW 9A.72.110(2). The only disputed element in this case is whether Ozuna \u201cdirect [ed] a threat.\u201d Id. The statute in turn defines \u201cthreat\u201d to mean:\n(i) To communicate, directly or indirectly, the intent immediately to use force against any person who is present at the time; or\n(ii) Threat as defined in *RCW 9A.04.110(27).[]\nId. at (3). The cross-referenced statute defines \u201cthreat\u201d to mean\nto communicate, directly or indirectly the intent:\n(a) To cause bodily injury in the future to the person threatened or to any other person; or\n(j) To do any other act which is intended to harm substantially the person threatened or another with respect to his or her health, safety, business, financial condition, or personal relationships.\nRCW 9A.04.110(28). The statute does not define the word \u201ccommunicate.\u201d\n\u00b619 This court has not previously interpreted the intimidating a former witness statute, RCW 9A.72.110(2), but has interpreted the statute creating the crime of intimidating a judge, RCW 9A.72.160. See Hansen, 122 Wn.2d 712. The two statutes have an identical \u201cdirects a threat\u201d element and use an identical definition of \u201cthreat.\u201d Compare RCW 9A-.72.110(2), with RCW 9A.72.160. We therefore look to Hansen for guidance.\n\u00b620 In Hansen, the defendant sought to sue the superior court judge who presided over his prior criminal matter. 122 Wn.2d at 714. He called various attorneys and, in one call, stated he was \u201c \u2018going to get a gun and blow them all away, the prosecutor, the judge and the public defender.\u2019 \u201d Id. at 715. The attorney reported this comment to authorities. Id. Eventually, Hansen was convicted of intimidating a judge under RCW 9A.72.160. Id. On appeal, the Court of Appeals held the statute required proof that Hansen intended or had knowledge that the threat would reach the threat\u2019s target, i.e., the judge. Id. at 716. We disagreed and held that whether Hansen intended the threat to reach the judge was irrelevant. Id. at 718. Instead, the communication of a threat to a third party (the lawyer) concerning the target (the judge) satisfied the communication element because the statute expressly includes communications made \u201cin an indirect fashion as well as direct threats.\u201d Id. We found sufficient evidence and affirmed Hansen\u2019s conviction. Id. at 718-19, 722.\n\u00b621 The Court of Appeals has since adopted Hansen\u2019s rule in the context of two similar crimes. See Anderson, 111 Wn. App. at 321-22 (regarding the crime of intimidating a former witness, RCW 9A.72.110(2)); State v. Williamson, 131 Wn. App. 1, 6, 86 P.3d 1221 (2004) (regarding the crime of tampering with a witness, RCW 9A.72.120). These cases stand for the proposition that a threat need not be communicated to the threat\u2019s target but instead can be communicated indirectly to a third party.\n\u00b622 Yet the trial court reasoned and the State suggests that the cases stand for something much broader\u2014that a threat does not need to be communicated to anyone, i.e., that it is sufficient if the threat is uttered or written in private. We reject this notion. The very concept of a \u201ccommunication\u201d conveys the idea that something is communicated to someone. E.g., Black\u2019s Law Dictionary 337 (10th ed. 2014) (defining \u201ccommunication\u201d as \u201cthe process of bringing an idea to another\u2019s perception\u201d); Webster\u2019s Third New International Dictionary 460 (2002) (defining \u201ccommunication\u201d as \u201cthe act or action of imparting or transmitting\u201d and as \u201cinterchange of thoughts or opinions : a process by which meanings are exchanged between individuals through a common system of symbols (as language, signs, or gestures)\u201d). In the context of another crime that uses the word \u201ccommunicate\u201d without defining it, we held that to \u201ccommunicate\u201d requires a message be both \u201ctransmitted by the person and received by the [recipient].\" State v. Hosier, 157 Wn.2d 1, 9, 133 P.3d 936 (2006) (regarding the crime of communication with a minor for immoral purposes under RCW 9.68A.090).\n\u00b623 In short, a communication must be transmitted and received. Id. However, a person may \u201cdirect! ] a threat\u201d under the intimidation of a former witness statute, RCW 9A.72.110(2), without that threat being communicated to the threat\u2019s target. The threat may be transmitted to a third party. Hansen, 122 Wn.2d at 718; Williamson, 131 Wn. App. at 5-6; Anderson, 111 Wn. App. at 321-23. With this understanding of the relevant statutory elements in mind, we turn to the evidence presented at Ozuna\u2019s trial.\nB. Sufficiency of the Evidence\n\u00b624 We review the sufficiency of the evidence to determine \u201cwhether any rational trier of fact could have found the elements of the crime beyond a reasonable doubt.\u201d State v. McKague, 172 Wn.2d 802, 805, 262 P.3d 1225 (2011). We assume the truth of the state\u2019s evidence, State v. Mines, 163 Wn.2d 387, 391, 179 P.3d 835 (2008), view reasonable inferences from the evidence in the light most favorable to the state, id,., and deem circumstantial and direct evidence equally reliable, State v. Myers, 133 Wn.2d 26, 38, 941 P.2d 1102 (1997). Applying these principles, we conclude sufficient evidence was presented at trial for a rational jury to find that Ozuna directed a threat to a third party or to Avalos.\n\u00b625 We first note that a rational jury could find Ozuna had the state of mind, motivation, and opportunity to direct a threat regarding Avalos. Avalos had been a longtime gang member with Ozuna, and Avalos testified against Ozuna. They were incarcerated in the same prison. Ozuna had gang allies in the prison. Avalos had enemies. Testimony established the gang follows a strict \u201cno snitch\u201d code, enforced by violent retaliation. Ozuna\u2019s confiscated letter reveals his state of mind. It said, for example, \u201c[L]et that fool feel the wrath and let\u2019em know the rata that he is and tell \u2019em that I siad that bad things come to those that snitch. May he rest in piss.\u201d State Ex. ID at 2. Additionally, the jury could consider the timing of Avalos\u2019s assault by a member of Ozuna\u2019s gang, David Soto. The evidence is sufficient insofar as it establishes Ozuna\u2019s state of mind, motivation, and opportunity to direct a threat regarding Avalos.\n\u00b626 A rational jury could also rely on several pieces of circumstantial evidence to conclude that Ozuna directed a threat to Avalos or a third party.\n\u00b627 Though Ozuna\u2019s confiscated letter was not delivered to anyone, a reasonable inference from its content is that Ozuna had engaged in a prior conversation with the intended recipient of the letter. The letter opens, \u201cEy homie, I just got your [unreadable]. Well it was a blessing to hear from you. It put\u2019s a smile on my face to know that your ready to ride for me. ... [A]s you already know, I [agreed to a plea deal for] 10 years 9 months cause of a pussy that don\u2019t know how to ride or Die.\u201d Id. at 1 (emphasis added). Drawing a reasonable inference in the State\u2019s favor, we find that a rational jury could view this evidence as establishing that Ozuna participated in a prior conversation directing a threat to harm Avalos.\n\u00b628 A rational jury could also rely on the expert testimony that gangs follow a hierarchical decision-making structure where serious actions, including witness retaliation, can occur only when someone with elevated decision-making authority in the gang directs the action to occur. An officer in the Yakima County Jail specifically testified that Ozuna was a shot caller or tank boss with such elevated decision-making authority. A member of Ozuna\u2019s gang later assaulted Avalos. Viewing a reasonable inference from this testimony in favor of the State, a rational jury could conclude that the only way Soto had authority to engage in the assault on Avalos was because Ozuna directed him to do so.\n\u00b629 Further, a rational jury could conclude Ozuna directed a threat based on the testimony of Brandon Perren. Perren was also in the Yakima County Jail, and he admitted he was member of Ozuna\u2019s gang. Perren testified that he communicated with Ozuna in the prison through letters. Most importantly, Perren testified that after the officers confiscated Ozuna\u2019s letter, Ozuna sent him a different letter instructing him to \u201cleave [Avalos] alone.\u201d 1 TP at 475. Perren testified that he \u201cforward [ed the] message\u201d to an unspecified group of prisoners so that \u201cthey could leave him alone, anybody that came across him.\u201d Id. at 476. Viewing a reasonable inference in the State\u2019s favor, a rational jury could conclude that Ozuna\u2019s letter to Perren showed Ozuna exercising his authority as a shot caller in an attempt to revoke his previously communicated directive for Perren or others to harm Avalos.\n\u00b630 A rational jury could also find that Avalos\u2019s testimony corroborates the theory that Ozuna directed others to harass Avalos. For example, this exchange supports that Avalos received threats:\nQ. And you received some verbal threats?\nA. Like I said, people talk a lot through their doors. I mean, it happens all the time.\nQ. Okay. How\u2014how were you threatened?\nA. Well, it\u2014I mean he\u2014you\u2014people yell things through the doors and you can\u2019t see who it is, they just yell things out.\nId. at 422. Though Avalos never testified who was responsible for the threats, a rational jury could infer from the evidence that Avalos was harassed and assaulted and that it was the shot caller with the motivation to retaliate against Avalos who directed the harassment and violence.\n\u00b631 Considering the totality of the evidence and viewing the reasonable inferences in the State\u2019s favor, we conclude sufficient evidence allowed the jury to find Ozuna committed the crime of intimidating a former witness.\nIII. CONCLUSION\n\u00b632 We hold that a defendant \u201cdirects a threat\u201d under RCW 9A.72.110(2) when he communicates a threat to someone, though not necessarily the intended victim of the threat. Viewing the reasonable inferences in the State\u2019s favor, we hold that sufficient circumstantial evidence was presented at trial to permit a rational jury to find that Ozuna committed the crime of intimidating a former witness. We affirm.\nMadsen, C.J., and Johnson, Owens, Fairhurst, Wiggins, Gonz\u00e1lez, Gordon McCloud, and Yu, JJ., concur.\nHe acknowledged there have been instances where junior members act on their own initiative but stated that is not the norm and that the junior members could be punished by higher authorities in the gang for doing so.\nThe parties stipulated that \u201cAugustine Jaime Avalos was a former witness in an official proceeding against the Defendant,\u2019\u2019 Clerk\u2019s Papers (CP) at 144; see also 1 TP at 499, and the circumstances and evidence make clear that if Ozuna directed a threat, he did so because of Avalos\u2019s former testimony.\nThe reviser\u2019s note explains that the asterisk in the statute reflects that the definition of \u201cthreat\u201d in RCW 9A.04.110 has since been renumbered as subsection (28), not subsection (27).\nWe reject any suggestion that Ozuna delivered the letter to the corrections officer who confiscated it because Ozuna did not intend to communicate the letter to him. Though a communication to any third party is enough to satisfy the \u201cdirects a threat\u2019\u2019 element of intimidating a former witness under ROW 9A.72-.110(2), as discussed above, the communication must be an intentional act.\nThe letter was confiscated on June 8, and the information charged that the crime occurred \u201c[o]n, about, during or between\u2019\u2019 June 8 and July 9. CP at 1. Viewing a reasonable inference in the State\u2019s favor, a rational jury could have found that the prior communication happened earlier in the day of June 8 or otherwise \u201cabout\u201d June 8.",
+        "type": "majority",
+        "author": "Stephens, J."
+      }
+    ],
+    "attorneys": [
+      "Dennis W. Morgan, for petitioner.",
+      "Joseph A. Brusic, Prosecuting Attorney, and David B. Trefry, Kenneth L. Ramm, Jr., and Tamara A. Hanlon, Deputies, for respondent.",
+      "Travis Stearns and Nancy L. Talner on behalf of American Civil Liberties Union of Washington, amicus curiae.",
+      "Suzanne L. Elliott on behalf of Washington Association of Criminal Defense Lawyers, amicus curiae."
+    ],
+    "corrections": "",
+    "head_matter": "[No. 90666-1.\nArgued May 14, 2015.\nDecided September 17, 2015.\nThe State of Washington, Respondent, v. Adrian Bentura Ozuna, Petitioner.\nDennis W. Morgan, for petitioner.\nJoseph A. Brusic, Prosecuting Attorney, and David B. Trefry, Kenneth L. Ramm, Jr., and Tamara A. Hanlon, Deputies, for respondent.\nTravis Stearns and Nancy L. Talner on behalf of American Civil Liberties Union of Washington, amicus curiae.\nSuzanne L. Elliott on behalf of Washington Association of Criminal Defense Lawyers, amicus curiae."
+  },
+  "file_name": "0238-01",
+  "first_page_order": 280,
+  "last_page_order": 293
+}

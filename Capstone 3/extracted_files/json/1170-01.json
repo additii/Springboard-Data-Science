@@ -1,0 +1,161 @@
+{
+  "id": 1435167,
+  "name": "Little Red River Levee District No. 2 v. State",
+  "name_abbreviation": "Little Red River Levee District No. 2 v. State",
+  "decision_date": "1932-07-04",
+  "docket_number": "4-2691",
+  "first_page": "1170",
+  "last_page": "1175",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "185 Ark. 1170"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [
+    {
+      "cite": "40 S. W. 710",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "63 Ark. 576",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        8724691
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/63/0576-01"
+      ]
+    },
+    {
+      "cite": "119 S. W. 251",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "90 Ark. 413",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1513833
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/90/0413-01"
+      ]
+    },
+    {
+      "cite": "6 S. W. 1",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "49 Ark. 518",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1309176,
+        1309526
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/49/0518-02",
+        "/ark/49/0518-01"
+      ]
+    },
+    {
+      "cite": "126 S. W. 713",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "94 Ark. 217",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1545422
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/94/0217-01"
+      ]
+    },
+    {
+      "cite": "32 S. W. (2d) 1061",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.2d",
+      "weight": 2,
+      "opinion_index": 0
+    },
+    {
+      "cite": "182 Ark. 648",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1389728
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/182/0648-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 467,
+    "char_count": 9338,
+    "ocr_confidence": 0.522,
+    "pagerank": {
+      "raw": 1.9202832494512165e-07,
+      "percentile": 0.7328514133449479
+    },
+    "sha256": "f8755ba921cf23cce3937911002d91691f694109080ae5652cd3a6cbeb84a042",
+    "simhash": "1:8b93f1282102f2ef",
+    "word_count": 1600
+  },
+  "last_updated": "2024-02-27T17:51:09.396208+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Little Red River Levee District No. 2 v. State."
+    ],
+    "opinions": [
+      {
+        "text": "Humphreys, J.\nThis is a suit by the State of Arkansas to quiet or validate its tax titles to certain lands in White County by curing the informalities and irregularities contained in the forfeiture proceedings by which it acquired its tax titles thereto. The authority for the suit is found in act No. 296 of the Acts of 1929, which was. construed by this court in the case of State v. Delinquent Lands, 182 Ark. 648, 32 S. W. (2d) 1061, to mean that the State, upon notice by publication, might confirm its tax titles in courts of equity against informalities or irregularities connected with the forfeiture and sale thereof to the State.\nAppellant, in response to the notice by publication, intervened in the action alleging that it acquired title to certain of the lands (describing them) embraced in the suit under proceedings to enforce its lien for improvement taxes.\nThe intervention contains three paragraphs.\nParagraph one alleged that the sales of said lands to the State for State, county, and school taxes were totally void on account of irregularities in levying the taxes and sales of the lands for nonpayment of same for the following reasons:\n\u201c (1) The proceedings of the levying courts in levying the taxes and in making appropriations thereof were irregular, null and void. (2) The assessors did not properly prepare, certify and file the lists of assessable lands with the county clerks, at the time and in the manner prescribed by law. (3) The collectors did not post notices in the respective townships, showing the days and places taxes would be collected. (4) The clerks did not comply with the requirements of the statutes in furnishing the collectors a complete list of delinquent lands in the county, giving the names of the owners, etc. (5) The tax collectors did not prepare, certify and file in the county clerk\u2019s offices a list of delinquent lands, within the time prescribed by law. (6) Notices of sale were not published for the time and in the manner prescribed by law. (7) The county clerks did not record the lists of delinquent lands at the times and in the manner prescribed by law. \u2019 \u2019\nParagraph two alleged that the proceedings by which appellant acquired its tax titles to said lands for the nonpayment of improvement taxes were regular.\nParagraph three is as follows:\n\u201cThe assessed values placed on said lands for State, county and school purposes were made at a time when lands were much more valuable than at this time. Said assessed values averaged more than $6 per acre while the \u00e1ctual market value of said land at the time did not exceed $4 per acre. Under the laws and rules adopted by the State Tax Commission, said assessments should have been fixed at no more than one-half of the fair market value of said lands at the time of assessment. This would have reduced the assessed value from more than $6 per acre down to $2 per acre. All subsequent assessments were made, extended and carried forward in the same manner as the assessment upon which said void tax sales were made, and each and all of said assessments are therefore null and void for the same reasons.\u201d\nThe prayer of the intervention is that on account of the void assessments and void sales of the lands for State, county, and school purposes, appellee be denied the right to quiet its title thereto; but, if allowed to do so, the sales be canceled and assessments reduced to fair and equitable amounts, and that appellant then be allowed to pay same, including subsequent taxes based upon the re-valuation.\nAppellee demurred to paragraphs one and three of appellant\u2019s intervention for the following reasons:\n\u201cBecause said paragraphs do not state facts sufficient to constitute an ansAver to the complaint of plaintiff, neither do they set up facts sufficient to entitle it to the relief prayed for in said intervention.\n\u201cBecause, if said lands were erroneously assessed, the intervener had a plain, adequate remedy at law, of which the intervener failed to avail itself, and cannot now take advantage of it in this proceeding.\nThe demurrer was sustained to paragraphs one and three of the intervention and appellant declined to plead further, whereupon the court dismissed the intervention and rendered a decree in accordance with the prayer of appellee\u2019s complaint, from which is this appeal.\nAppellant contends that the trial court should have overruled appellee\u2019s demurrer to the first paragraph of the intervention because the State cannot confirm, under act 296 of the Acts of 1929, the title to tax lands acquired by it on void levies and void sales. The answer to this contention or argument is that the State is not attempting to do so. It is only attempting to validate or cure tax sales on account of \u201cinformalities and irregularities\u201d in the levy of taxes or sales thereof. This is the extent of the State\u2019s authority under the act. State v. Delinquent Lands, 182 Ark. 648, 32 S. W. (2d) 1061. It is true that appellant alleged in paragraph one of the intervention that the levy of taxes and sales were void. This allegation is a mere conclusion of law, and not sufficient on demurrer. Appellant assigns in said paragraph seven reasons for the invalidity of the levies and sales, but all of the reasons assigned are mere informalities and irregularities in making the levies or sales. These are the very defects the State can cure in confirming her tax titles; hence the demurrer to that part of the intervention attacking them was properly sustained. The only right of an improvement district claiming to be the owner of lands to defend against the confirmation of the State\u2019s tax titles on account of informalities and irregularities in the levy and sale thereof is found in \u00a7 8 of said act, which is as follows:\n\u201cAny special improvement district claiming that there is owing it overdue taxes on any lands described in the State\u2019s petition shall have a right to be made a party defendant to the State\u2019s suit for the purpose of contesting the sale under which the forfeiture to the State was made. Any such improvement district, upon payment of the amount of taxes, penalty and costs for which the land was forfeited and all past-due taxes which would have accrued had the land remained on the tax books at the valuation against it immediately prior to the forfeiture, shall be subrogated to the State\u2019s lien for the amount so paid, and such improvement district may include such amount due the district for taxes, and shall have the right to foreclose for such amount as though the same had been assessed against such land in favor of the improvement district.\u201d\nAs appellant\u2019s allegations in paragraph one of its intervention failed to comply with \u00a7 8 of said act by tendering into court the amount due the State thereunder, the demurrer thereto was properly sustained. The State\u2019s right to levy and collect taxes for the support of government and to make its taxes a first lien on the property in the State cannot be questioned. The State exercised this paramount right in the passage of the following statute in 1879:\n\u201cTaxes assessed upon real and personal property shall bind the same and be entitled to preference over all judgments, executions, incumbrances or liens whensoever created.\u201d\nAct 269 of the Acts of 1929 provides a method by which to inforce this paramount or prior lien of the State for its taxes against the former owners of forfeited lands, including improvement districts, which acquired lands through foreclosure proceedings for the nonpayment of improvement district taxes.\nAppellant also contends that the trial court should have overruled appellee\u2019s demurrer to the third paragraph of the intervention on account of an overvaluation of lands for taxation. Chancery courts have no .jurisdiction to correct erroneous assessments. Appellant\u2019s remedy was by appeal. Crawford & Moses\u2019 Digest, \u00a7 9911; Cooley on Taxation, vol. 2, p. 1382; Desty on Taxation, vol. 1, p. 605; State v. Little, 94 Ark. 217, 126 S. W. 713; Pulaski County Board of Examiners cases, 49 Ark. 518, 6 S. W. 1; Clay County v. Brown Lumber Company, 90 Ark. 413, 119 S. W. 251; Wells Fargo & Company v. Crawford Co., 63 Ark. 576, 40 S. W. 710.\nAppellant\u2019s last contention is that act 296 of the Acts of 1929 is void because it impairs the obligation of contracts contrary to the provisions of the Constitution of Arkansas and the Constitution of the United States. The contract it says the act impairs is the lien accorded it by the act creating it for improvement taxes which declared the levee district\u2019s assessments shall be a lien in the nature of a first mortgage. The act creating appellant district, in thus declaring its lien a first mortgage, had reference, of course, to contractual liens and not to the State\u2019s paramount lien for taxes for governmental purposes. This right on the part of the State was a part of the district\u2019s charter, and every contract it has made, as much so as if it had been written therein. Act 296 of the Acts of 1929 is valid, and it is not in conflict with art. 1, \u00a7 10, of the Federal Constitution and art. 2, \u00a7 17 of the State Constitution.\nNo error appearing, the decree is affirmed.",
+        "type": "majority",
+        "author": "Humphreys, J."
+      }
+    ],
+    "attorneys": [
+      "Culbert L. Pearce, for appellant.",
+      "Brundidge <$ Neelly, and Ilal L. Norwood, Attorney General, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Little Red River Levee District No. 2 v. State.\n4-2691\nOpinion delivered July 4, 1932.\nCulbert L. Pearce, for appellant.\nBrundidge <$ Neelly, and Ilal L. Norwood, Attorney General, for appellee."
+  },
+  "file_name": "1170-01",
+  "first_page_order": 1190,
+  "last_page_order": 1195
+}

@@ -1,0 +1,76 @@
+{
+  "id": 12457152,
+  "name": "Lodis et al., Petitioners, v. Corbis Holdings, Inc., Respondent",
+  "name_abbreviation": "Lodis v. Corbis Holdings, Inc.",
+  "decision_date": "2016-06-29",
+  "docket_number": "No. 92900-9",
+  "first_page": "1038",
+  "last_page": "1038",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "185 Wash. 2d 1038"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Wash.",
+    "id": 9029,
+    "name": "Washington Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 38,
+    "name_long": "Washington",
+    "name": "Wash."
+  },
+  "cites_to": [
+    {
+      "cite": "192 Wn. App. 30",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        12456049
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/192/0030-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 32,
+    "char_count": 210,
+    "ocr_confidence": 0.884,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2574254329113396
+    },
+    "sha256": "1cac09ca57a37f939a7730e3de76592857f8093811de09adb8c0d844b0b91fd1",
+    "simhash": "1:55b16eb8b5d07634",
+    "word_count": 35
+  },
+  "last_updated": "2024-02-28T00:06:59.447104+00:00",
+  "provenance": {
+    "date_added": "2019-05-22",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Lodis et al., Petitioners, v. Corbis Holdings, Inc., Respondent,"
+    ],
+    "opinions": [
+      {
+        "text": "Petition for review of a decision of the Court of Appeals, No. 72342-1-I, December 28, 2015, 192 Wn. App. 30. Denied June 29, 2016.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Lodis et al., Petitioners, v. Corbis Holdings, Inc., Respondent,\nNo. 92900-9."
+  },
+  "file_name": "1038-08",
+  "first_page_order": 990,
+  "last_page_order": 990
+}

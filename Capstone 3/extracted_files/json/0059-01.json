@@ -1,0 +1,85 @@
+{
+  "id": 1428277,
+  "name": "International Shoe Company v. Waggoner",
+  "name_abbreviation": "International Shoe Co. v. Waggoner",
+  "decision_date": "1933-10-30",
+  "docket_number": "4-3280",
+  "first_page": "59",
+  "last_page": "59",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "188 Ark. 59"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [
+    {
+      "cite": "49 S. W. (2d) 400",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "185 Ark. 782",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1435136
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/185/0782-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 114,
+    "char_count": 1075,
+    "ocr_confidence": 0.519,
+    "pagerank": {
+      "raw": 8.767067213580238e-08,
+      "percentile": 0.4953462537777299
+    },
+    "sha256": "29261b2d2a2fe3ab2f683ab7b2ffe678434f0bc67ebeadec2bbf35119feee0ee",
+    "simhash": "1:0a20fca2c6fc93c5",
+    "word_count": 189
+  },
+  "last_updated": "2024-02-27T23:51:14.545434+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "International Shoe Company v. Waggoner."
+    ],
+    "opinions": [
+      {
+        "text": "Smith, J.\nPetitioner prays mandamus to compel the judge of the Arkansas County Circuit Court and the clerk thereof to issue an execution upon a judgment of that court rendered January 16,1933. Stays of execution had been granted by the circuit judge from time to time, the last of which expired October 15,1933.\nThe clerk has responded that he acted under the orders of the judge, and the judge has made the oral response that there will be no further stay of execution, and that execution may issue at the request of petitioner, the judgment plaintiff.\nThe case is now a moot one, as the order of this court is not necessary to have an execution issued, and the application for mandamus will be denied for that reason.\nIt may be said, however, that the circuit court was without authority to order the execution stayed. It was so expressly held in the case of Taylor v. O\u2019Kane, 185 Ark. 782, 49 S. W. (2d) 400.",
+        "type": "majority",
+        "author": "Smith, J."
+      }
+    ],
+    "attorneys": [
+      "A. R. Cooper, for petitioner.",
+      "Wm. C. Gibson and Ingram & Moher, for respondent."
+    ],
+    "corrections": "",
+    "head_matter": "International Shoe Company v. Waggoner.\n4-3280\nOpinion delivered October 30, 1933.\nA. R. Cooper, for petitioner.\nWm. C. Gibson and Ingram & Moher, for respondent."
+  },
+  "file_name": "0059-01",
+  "first_page_order": 77,
+  "last_page_order": 77
+}

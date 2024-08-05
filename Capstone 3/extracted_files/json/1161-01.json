@@ -1,0 +1,103 @@
+{
+  "id": 8727126,
+  "name": "Sternberg v. Snow King Baking Powder Company, Inc.",
+  "name_abbreviation": "Sternberg v. Snow King Baking Powder Co.",
+  "decision_date": "1933-03-13",
+  "docket_number": "4-2919",
+  "first_page": "1161",
+  "last_page": "1166",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "186 Ark. 1161"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [
+    {
+      "cite": "35 S. W. (2d) 579",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "183 Ark. 288",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1441876
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/183/0288-01"
+      ]
+    },
+    {
+      "cite": "1 S. W. (2d) 801",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "175 Ark. 1161",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1403376
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/175/1161-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 461,
+    "char_count": 8504,
+    "ocr_confidence": 0.52,
+    "pagerank": {
+      "raw": 4.822388068849316e-07,
+      "percentile": 0.9318404277623907
+    },
+    "sha256": "26dd86de8674323ae5893fd760de4796602cea68be2766eabfb3034e1e8c622d",
+    "simhash": "1:29cb8a33c34815b1",
+    "word_count": 1454
+  },
+  "last_updated": "2024-02-27T17:52:01.123529+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Sternberg v. Snow King Baking Powder Company, Inc."
+    ],
+    "opinions": [
+      {
+        "text": "Mehaefy, J.\nThis is a suit in replevin brought by the appellee against Browne-Brun Wholesale Grocery Company. The appellee alleged that it was the owner and entitled to the immediate possession of 259 cases of baking powder, and four nose trucks. It was alleged that the goods were placed with the appellant on consignment.\nThe following is the instrument under which the Browne-Brun Wholesale Grocery Company acquired possession of the goods:\n\u201cShip. Date Snow King\nJobber Agency Plan\n\u201cBrowne-Brun Who. Gro. Co. Nov. 12, 1931.\n\u201cFt. Smith, Ark. Advertising Premiums\n\u201cCases Size Cans Price Chain-10\n50 10e 48 3.70 Pana-5\n250 20 25c 24 4.60 Truck-5\n25 Introductory Free\n12/15/31 1/3 Billed 30 days \u2014 less 2%\n1/15/32 1/3 Billed 60 days \u2014 less 2%\n2/15/32 1/3 Billed 30 days \u2014 less 2% Less 17% and 2%\n(Stamped on face: Nov. 16, 1931. 22647)\n\u201cCONDITIONS AND AGREEMENT\n\u201c1. All orders on Snow King Baking Powder are to be shipped from jobber\u2019s stock, including all orders for advertising premiums taken by the Snow King salesman, or the jobber\u2019s salesman.\n\u201c2. The Snow King Baking Powder Company agrees to supply the jobber with advertising premiums free of charge. As these advertising premiums offers change from time to time, only a limited supply of these premiums are sent along with this order, but the premiums are sent to the jobber, without any cost to him, whenever new deals are put into effect and whenever new premiums are offered to the trade as long as this arrangement is in effect.\n\u201c3. Only jobbers operating under this plan are privileged to fill Snow King orders from their stocks. Jobbers\u2019 salesmen are notified of new deals and new premium offers from time to time when they are brought out by the Snow King Baking Powder Company.\n\u201c4. The Snow King Baking Powder Company reserves the right to withdraw this agreement, if it is impossible to effect savings by not shipping into this territory in either pool car shipments, or solid cars, because this extra profit to the jobber is only possible due to the savings in freight which the Snow King Baking Powder Company can make.\n. (In pencil as follows): \u201cIf any of the above payments become due before same being sold, payments to be deferred 30 or 60 days or longer if necessary or until this stock is sold by the jobber.\n\u201cSigned:\n\u201cBowling\n\u201cThe Snow King Baking \u2018\u2018Signed:\nPowder Co. \u201cBrowne-Brun Gro. Co.\n\u201cCincinnati, Ohio. \u201cFred Browne.\u201d\nThe Browne-Brun Wholesale Grocery Comp\u00e1ny was adjudicated a bankrupt after suit was brought, and Henry Sternberg, trustee in bankruptcy, was substituted as defendant. The case was tried before the circuit judge sitting as a jury, and, after hearing the evidence, the court took the case under advisement, and afterwards rendered judgment' in favor of the appellee. The case is here on appeal.\nAt the time of the hearing, appellee. offered certain evidence which was excluded, some of which the court afterwards considered. The appellant requested the court to find as follows :\n. \u201c(a) That the baking powder involved in the suit was sold to the grocery company, and'title-passed upon delivery;\n\u201c (b.) That the contract in this case is evidenced by a written instrument in the form of an order signed by both' parties, complete in its terms, not ambiguous and requires no explanation to enable one to understand its terms;\n\u201c (c) That the order does not establish a conditional sale, nor does the order, together -with the invoice, show that same was on condition.\n\u201cDefendant requested the court to find as a conclusion of law that the title to the baking powder was vested in the grocery company, or its trustee in bankruptcy, and judgment should be for the defendant. These requests were denied.\u201d\nThe court at the request of appellee, found as follows:\n\u201c(a) That the sheriff has in his possession merchandise described in the writ;\n\u201c(b) That the merchandise was shipped and delivered to the grocery company under and by virtue of a jobber\u2019s agency plan, written-order, duly signed by Fred Browne, president of the Browne-Brun Wholesale Grocery Company, an authorized agent of the defendant, which order provided that goods were not to be paid for until sold and were placed in storage, goods to be withdrawn by defendant as needed; an additional commission being allowed by saving\u2019 expense of storage, and that title to said goods to be in plaintiff until sold; defendant being an agent for sale on account of plaintiff. The court announced its conclusion of law to be, \u201cthat, upon the facts introduced by plaintiff, title to the baking powder remained in plaintiff, * * * and that the written order designated \u2018jobber\u2019s agency plan, not -to be paid for until sold,\u2019 in connection with the undisputed testimony of plaintiff constitutes an agency agreement, and the goods in question were consigned by the plaintiff to the defendant, * * * and that the plaintiff is entitled to judgment for possession of the baking powder.\u201d\nIt is first contended by the appellant that the evidence objected to and which the court afterwards considered was inadmissible, because he contends that the contract is plain and complete and contains no ambiguity.\nThe evidence was competent to explain certain provisions in the contract, and it was not prejudicial. The only purpose of it was to show the intention of the parties, and the trial court, believing that the contract was ambiguous, admitted the evidence for the purpose of showing the intention. Moreover, the evidence is practically undisputed.\nThe primary rule in the construction of contracts is that the court must, if possible, ascertain and give effect to the intention of the parties so far as this can be done consistent with legal principles. 13 C. J. 521; 6 R. C. L. 835.\nAnd, in order to arrive at the intention of the parties, courts may acquaint themselves with the persons and circumstances that are the subjects of the statements in the written agreement, and are entitled to place themselves in the same situation as the parties who made the contract, so as to view the circumstances as they view them, and so as to judge the meaning of the words and the correct application of the language to the things described. Inter-Southern Life Ins. Co. v. Shutt, 175 Ark. 1161, 1 S. W. (2d) 801; Coca-Cola Bottling Co. of Ark. v. Coca-Cola Bottling Co., 183 Ark. 288, 35 S. W. (2d) 579.\nEvidence which tends to show the intention of the parties and does not contradict or vary the terms of the -written instrument is admissible for the purpose of showing the real meaning of the words used in the instrument and the intention of the parties.\nIt is contended, however, by the appellant that the sale was not conditional, and that the title passed to the purchaser. The last paragraph in the contract clearly shows that the Browne-Brun Grocery Company was not to pay for any of the goods until they were sold, and the instrument does not purport to he a contract of sale. It further appears that this clause, indicating that there was to be no payment made until the goods were sold by the jobber, was written into the contract by Mr. Browne himself. We must look at the whole contract in order to determine its meaning, and ascertain what the parties themselves did under the contract, and how they construed the contract.\nUnless the Browne-Brun Grocery Company sold the goods, it was not to pay for them. Moreover, the evidence on the part of the appellee shows that he talked with the representative of the Browne Company, and stated to him that the appellee was carrying insurance on the goods. This is not denied by Browne, but he simply says he does not remember.\nIt is not necessary that the term \u201cconditional sale\u201d be used in a contract, nor that there be a reservation of title to make it a conditional sale. Such reservation may be implied from the contract. 55 C.\u2018 J. 1201. The facts that\u2019 the appellee carried insurance on the goods, and that no payment was to be made to it until a sale by the jobber, together with the other competent evidence introduced, shoAV clearly the intention of the parties.\nThe finding of facts by a judge sitting as a jury is as conclusive here as the verdict of a jury. We do not pass on the weight to be given to the evidence, nor the credibility of the witnesses.\nThere was substantial evidence to sustain the finding of the court, and the judgment is affirmed.",
+        "type": "majority",
+        "author": "Mehaefy, J."
+      }
+    ],
+    "attorneys": [
+      "George W. Dodd, for appellant.",
+      "I. J. Friedman, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Sternberg v. Snow King Baking Powder Company, Inc.\n4-2919\nOpinion delivered March 13, 1933.\nGeorge W. Dodd, for appellant.\nI. J. Friedman, for appellee."
+  },
+  "file_name": "1161-01",
+  "first_page_order": 1181,
+  "last_page_order": 1186
+}

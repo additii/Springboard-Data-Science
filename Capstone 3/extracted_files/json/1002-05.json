@@ -1,0 +1,76 @@
+{
+  "id": 12462764,
+  "name": "JZK, Inc., Respondent, v. Coverdale, Petitioner",
+  "name_abbreviation": "JZK, Inc. v. Coverdale",
+  "decision_date": "2016-08-31",
+  "docket_number": "No. 92803-7",
+  "first_page": "1002",
+  "last_page": "1002",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "186 Wash. 2d 1002"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Wash.",
+    "id": 9029,
+    "name": "Washington Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 38,
+    "name_long": "Washington",
+    "name": "Wash."
+  },
+  "cites_to": [
+    {
+      "cite": "192 Wn. App. 1022",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        12456179,
+        12456180,
+        12456181
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/192/1022-01",
+        "/wash-app/192/1022-02",
+        "/wash-app/192/1022-03"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 28,
+    "char_count": 198,
+    "ocr_confidence": 0.873,
+    "sha256": "76c28d71ca592d0c426830d171ac754da659ef2d0b1ad89ce082d4c2d8712cf3",
+    "simhash": "1:3dbffb646f0175b5",
+    "word_count": 32
+  },
+  "last_updated": "2024-02-27T18:43:05.207238+00:00",
+  "provenance": {
+    "date_added": "2019-05-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "JZK, Inc., Respondent, v. Coverdale, Petitioner,"
+    ],
+    "opinions": [
+      {
+        "text": "Petition for review of a decision of the Court of Appeals, No. 46465-9-II, January 19, 2016, 192 Wn. App. 1022. Denied August 31, 2016.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "JZK, Inc., Respondent, v. Coverdale, Petitioner,\nNo. 92803-7."
+  },
+  "file_name": "1002-05",
+  "first_page_order": 988,
+  "last_page_order": 988
+}

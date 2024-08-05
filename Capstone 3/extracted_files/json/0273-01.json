@@ -1,0 +1,294 @@
+{
+  "id": 4075583,
+  "name": "The State of Washington, Respondent, v. A.G.S., Petitioner",
+  "name_abbreviation": "State v. A.G.S.",
+  "decision_date": "2014-12-31",
+  "docket_number": "No. 89689-5",
+  "first_page": "273",
+  "last_page": "280",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "182 Wash. 2d 273"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Wash.",
+    "id": 9029,
+    "name": "Washington Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 38,
+    "name_long": "Washington",
+    "name": "Wash."
+  },
+  "cites_to": [
+    {
+      "cite": "918 P.2d 535",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1996,
+      "opinion_index": 0
+    },
+    {
+      "cite": "82 Wn. App. 460",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        1043782
+      ],
+      "year": 1996,
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/82/0460-01"
+      ]
+    },
+    {
+      "cite": "306 P.3d 935",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2013,
+      "opinion_index": 0
+    },
+    {
+      "cite": "177 Wn.2d 835",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4131297
+      ],
+      "year": 2013,
+      "pin_cites": [
+        {
+          "page": "846"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/177/0835-01"
+      ]
+    },
+    {
+      "cite": "43 P.3d 4",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "weight": 3,
+      "year": 2002,
+      "pin_cites": [
+        {
+          "page": "9-10"
+        },
+        {
+          "page": "12"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "146 Wn.2d 1",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        960829
+      ],
+      "year": 2002,
+      "pin_cites": [
+        {
+          "page": "11-12"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/146/0001-01"
+      ]
+    },
+    {
+      "cite": "28 P.3d 720",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2001,
+      "opinion_index": 0
+    },
+    {
+      "cite": "144 Wn.2d 472",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        970387
+      ],
+      "year": 2001,
+      "pin_cites": [
+        {
+          "page": "480"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/144/0472-01"
+      ]
+    },
+    {
+      "cite": "89 P.3d 217",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2004,
+      "opinion_index": 0
+    },
+    {
+      "cite": "151 Wn.2d 359",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        428154
+      ],
+      "year": 2004,
+      "pin_cites": [
+        {
+          "page": "367"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/151/0359-01"
+      ]
+    },
+    {
+      "cite": "243 P.3d 1283",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2010,
+      "pin_cites": [
+        {
+          "parenthetical": "quoting Arborwood Idaho, LLC v. City of Kennewick, 151 Wn.2d 359, 367, 89 P.3d 217 (2004)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "169 Wn.2d 516",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4010031
+      ],
+      "year": 2010,
+      "pin_cites": [
+        {
+          "page": "526",
+          "parenthetical": "quoting Arborwood Idaho, LLC v. City of Kennewick, 151 Wn.2d 359, 367, 89 P.3d 217 (2004)"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/169/0516-01"
+      ]
+    },
+    {
+      "cite": "991 P.2d 98",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "weight": 2,
+      "year": 2000,
+      "opinion_index": 0
+    },
+    {
+      "cite": "98 Wn. App. 662",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        155841
+      ],
+      "year": 2000,
+      "pin_cites": [
+        {
+          "page": "664"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/98/0662-01"
+      ]
+    },
+    {
+      "cite": "321 P.3d 1207",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2014,
+      "opinion_index": 0
+    },
+    {
+      "cite": "180 Wn.2d 1007",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "year": 2014,
+      "opinion_index": 0
+    },
+    {
+      "cite": "309 P.3d 600",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2013,
+      "opinion_index": 0
+    },
+    {
+      "cite": "176 Wn. App. 365",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        4271273
+      ],
+      "year": 2013,
+      "pin_cites": [
+        {
+          "page": "370"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/176/0365-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 576,
+    "char_count": 11751,
+    "ocr_confidence": 0.755,
+    "pagerank": {
+      "raw": 8.273711171309952e-08,
+      "percentile": 0.47873679121832974
+    },
+    "sha256": "f4fc3b547eb4a78ebb3e1ac202684fd990ffbe1839ab433d04b6bc1329a2aa9d",
+    "simhash": "1:1eacf45271f6b84e",
+    "word_count": 1880
+  },
+  "last_updated": "2024-02-27T17:34:40.830885+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Madsen, C.J., and C. Johnson, Fairhurst, Stephens, Wiggins, Gonz\u00e1lez, Gordon McCloud, and Yu, JJ., concur."
+    ],
+    "parties": [
+      "The State of Washington, Respondent, v. A.G.S., Petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "Owens, J.\n\u00b61 By statute, all juvenile offender records must be kept confidential except those in the \u201cofficial juvenile court file,\u201d which are open to the public. RCW 13.50.010(l)(b), .050. In this case, we address whether a particular type of report about a juvenile offender- \u2014 a special sex offender disposition alternative (SSODA) evaluation, RCW 13.40.162 \u2014 should be filed in the official juvenile court file and therefore be open to the public. The legislature has explicitly defined the contents of the official juvenile court file as \u201cthe petition or information, motions, memorandums, briefs, findings of the court, and court orders.\u201d RCW 13.50.010(l)(b). Since the SSODA evaluation does not fit within any of these categories, it is not a part of the official juvenile court file. Consequently, it is subject to the general rule that all juvenile records not in the official juvenile court file must be kept confidential.\nFACTS\n\u00b62 In 2010, A.G.S. pleaded guilty to two counts of first degree rape of a child and two counts of second degree child molestation. State law provides a special sentencing alternative option for juvenile sex offenders who have no history of a prior sex offense and whose offense was not a serious violent offense. RCW 13.40.162(1). If an offender is eligible, the court or either party may order a SSODA evaluation to determine the juvenile\u2019s amenability to treatment and relative risk to the community. RCW 13.40.162(2). In this case, both the State and A.G.S. ordered separate SSODA evaluations.\n\u00b63 The trial court considered both SSODA evaluations and ultimately decided against giving A.G.S. a SSODA disposition. The court noted that while both SSODA evaluations indicated that A.G.S. was amenable to treatment, they did not discuss the damage that A.G.S.\u2019s actions caused the victims.\n\u00b64 The State provided a copy of its SSODA evaluation to the parents of the victims, but the parents also requested a copy of the SSODA evaluation conducted at the request of the defendant. The parents said they wanted a copy to help with the children\u2019s treatment, although the defense said that the parents were planning on releasing the SSODA evaluation to the public.\n\u00b65 The trial court ordered the release of the portion of the defense\u2019s SSODA evaluation that it considered in making its disposition. The court found that release was appropriate pursuant to \u201cthe open administration of justice\u201d after it found that public records law did not provide a mechanism for release of the SSODA evaluation. Clerk\u2019s Papers at 25-26.\n\u00b66 A.G.S. appealed, and the Court of Appeals remanded to the trial court with instructions to apply RCW 13.50.050, which provides that certain juvenile records are confidential. State v. A.G.S., 176 Wn. App. 365, 370, 309 P.3d 600 (2013) . A.G.S. petitioned for review, arguing that under this court\u2019s previous interpretation of RCW 13.50.050, A.G.S.\u2019s SSODA evaluation must be kept confidential. We granted review. State v. A.G.S., 180 Wn.2d 1007, 321 P.3d 1207 (2014) .\nISSUE\n\u00b67 Should a juvenile offender\u2019s SSODA evaluation be filed in the official juvenile court file and thus be available to the public?\nANALYSIS\n\u00b68 State law provides special protection to records related to the commission of juvenile offenses. RCW 13.50-.050. Such records are generally divided into three categories: the \u201c '[o]fficial juvenile court file,\u2019 \u201d the \u201c '[s]ocial file,\u2019 \u201d and \u201crecords of any other juvenile justice or care agency.\u201d RCW 13.50.010(l)(b)-(d). This division is significant because the official juvenile court file is \u201copen to public inspection, unless sealed,\u201d but \u201c[a] 11 records other than the official juvenile court file are confidential\u201d and may be released only pursuant to a few specific statutory provisions. RCW 13.50.050(2), (3). The Court of Appeals has described this \u201cpolicy of confidentiality\u201d as \u201cdesigned to protect the privacy of the juvenile\u2019s personal and family matters.\u201d State v. J.A.B., 98 Wn. App. 662, 664, 991 P.2d 98 (2000).\n\u00b69 To analyze where the SSODA evaluation must be filed, one must understand the nature of the document itself. The purpose of the SSODA evaluation is \u201cto determine whether the respondent is amenable to treatment.\u201d RCW 13.40.162(2). If an offender is eligible, a SSODA evaluation can be ordered by the court or either party. Id. The SSODA evaluation contains, at a minimum, (1) \u201c[t]he respondent\u2019s version of the facts and the official version of the facts,\u201d (2) \u201c[t]he respondent\u2019s offense history,\u201d (3) \u201c[a]n assessment of problems in addition to alleged deviant behaviors,\u201d (4) \u201c[t]he respondent\u2019s social, educational, and employment situation,\u201d and (5) \u201c[o]ther evaluation measures used.\u201d RCW 13.40.162(2)(a). The examiner also assesses \u201cthe respondent\u2019s amenability to treatment and relative risk to the community\u201d and provides a proposed treatment plan. RCW 13.40.162(2)(b). The statute does not contain any specific provisions regarding who can conduct the assessment, but in this case, both SSODA evaluations were performed by independent psychologists.\n\u00b610 Determining how the juvenile offender records statute applies to the SSODA evaluation is a matter of statutory construction. When construing statutes, the court\u2019s goal \u201c \u2018is to ascertain and carry out the legislature\u2019s intent.\u2019 \u201d Lake v. Woodcreek Homeowners Ass\u2019n, 169 Wn.2d 516, 526, 243 P.3d 1283 (2010) (quoting Arborwood Idaho, LLC v. City of Kennewick, 151 Wn.2d 359, 367, 89 P.3d 217 (2004)). We first examine the plain meaning of the statute. State v. J.M., 144 Wn.2d 472, 480, 28 P.3d 720 (2001). In doing so, we may examine the provision at issue, other provisions of the same act, and related statutes. Dep\u2019t of Ecology v. Campbell & Gwinn, LLC, 146 Wn.2d 1, 11-12, 43 P.3d 4 (2002). If the meaning is plain on its face, we give effect to that plain meaning. Id. at 9-10. If the statute is ambiguous, we may look to other aids of statutory construction, such as the legislative history, to determine the legislature\u2019s intent. Id. at 12.\n\u00b611 The parties frame the issue as whether the SSODA evaluation belongs in the official juvenile court file or the social file, but our review of the statutory scheme leads us to conclude that the determinative question is whether the SSODA evaluation belongs in the official juvenile court file or not. Our conclusion is based on the phrasing of the confidentiality provision related to juvenile records: \u201c[a]ll records other than the official juvenile court file are confidential\u201d and may be released only pursuant to a few specific statutory provisions. RCW 13.50.050(3) (emphasis added). The legislature\u2019s phrasing indicates that all juvenile records are by default confidential unless they are part of the official juvenile court file or a particular statutory exemption applies. Thus, the question before this court is slightly more limited: Are SSODA evaluations part of the official juvenile court file? If not, they must be kept confidential, regardless of which other category they might fall under.\n\u00b612 Thus, the key issue in this case is the definition of the \u201cofficial juvenile court file.\u201d The contents of the file are explicitly defined by statute through the following exclusive list: \u201cthe petition or information, motions, memorandums, briefs, findings of the court, and court orders.\u201d RCW 13.50.010(l)(b). On its face, the SSODA evaluation does not belong in the court file because it is not a petition or information, motion, memorandum, brief, finding of the court, or court order. Put simply, it is not a court document. Rather, it is a psychological report that includes a treatment plan.\n\u00b613 The State focuses intently on the definition of another category of juvenile records \u2014 the \u201csocial file\u201d (which contains \u201cthe records and reports of the probation counselor.\u201d RCW 13.50.010(l)(d)). The State argues that if a document does not fit into the social file, it should automatically be considered part of the official juvenile court file. But this interpretation is directly contrary to the phrasing of the confidentiality provision, which specifically carves out the official juvenile court file as the only file open to the public and indicates that all other records are confidential. Based on this phrasing, the most reasonable interpretation is that documents that do not fall within the definition of the \u201cofficial juvenile court file\u201d should be kept confidential. Accordingly, since the SSODA evaluation does not fall within the definition of the \u201cofficial juvenile court file,\u201d we hold that it should be kept confidential.\n\u00b614 This holding is consistent with the expressed legislative intent to protect the confidentiality of all juvenile records, with certain enumerated exceptions. RCW 13.50-.050(2), (3). This court has already recognized that the \u201cSSODA evaluation may contain sensitive, privileged, or embarrassing information, including details regarding a juvenile\u2019s social situation or alleged deviant behaviors.\u201d State v. Sanchez, 177 Wn.2d 835, 846, 306 P.3d 935 (2013). Holding that the SSODA evaluation belongs in the official juvenile court file means that it is open to the public. RCW 13.50.050(2). We have recognized that \u201cindiscriminately releasing such an evaluation to the public, or to an agency without need or authority to review it, could raise legitimate privacy concerns.\u201d Sanchez, 177 Wn.2d at 846. Because the SSODA evaluation also contains multiple descriptions of the offenses, RCW 13.40.162(2)(a)(i), it could also contain extremely sensitive information regarding the victims. Making the SSODA evaluation automatically open to the public is contrary to the legislative intent expressed in RCW 13.50.050(3), which provides that all records other than the court file are confidential.\n\u00b615 The State argues that such a holding creates a conflict with State v. Loukaitis, 82 Wn. App. 460, 918 P.2d 535 (1996). Specifically, the State points to a statement in Loukaitis where the Court of Appeals indicated that expert testimony from a defendant\u2019s own mental health expert is not part of the social file. Id. at 467. However, Loukaitis is inapposite because the defendant in that case was trying to stretch RCW 13.50.050\u2019s protection of the records in the social file to close a juvenile court declination hearing where his psychiatrist was about to testify regarding her diagnosis and medical opinion of the defendant. See id. at 463. The court held that testimony from the juvenile offender\u2019s own expert witness is not part of the social file. Id. at 467. That holding is not on point in this case, where we are specifically applying RCW 13.50.050 to records.\nCONCLUSION\n\u00b616 All records related to a juvenile offender must be kept confidential unless they are part of the official juvenile court file or meet another statutory exception. RCW 13.50.050(3). Since the SSODA evaluation is not included in the list of documents contained in the official juvenile court file, it must be kept confidential. In addition to being consistent with our prior case law, this conclusion is consistent with the legislative intent expressed in RCW 13.50-.050(3) to protect the confidentiality of all juvenile records except those belonging in the few enumerated categories laid out in the statute. We remand to the trial court for further proceedings in accordance with this opinion.\nMadsen, C.J., and C. Johnson, Fairhurst, Stephens, Wiggins, Gonz\u00e1lez, Gordon McCloud, and Yu, JJ., concur.",
+        "type": "majority",
+        "author": "Owens, J."
+      }
+    ],
+    "attorneys": [
+      "Valerie Marushige, for petitioner.",
+      "Ryan R Jurvakainen, Prosecuting Attorney, Amie L. Matusko, Deputy, and Brian N. Wasankari, Special Deputy, for respondent."
+    ],
+    "corrections": "",
+    "head_matter": "[No. 89689-5.\nEn Banc.]\nArgued September 11, 2014.\nDecided December 31, 2014.\nThe State of Washington, Respondent, v. A.G.S., Petitioner.\nValerie Marushige, for petitioner.\nRyan R Jurvakainen, Prosecuting Attorney, Amie L. Matusko, Deputy, and Brian N. Wasankari, Special Deputy, for respondent."
+  },
+  "file_name": "0273-01",
+  "first_page_order": 309,
+  "last_page_order": 316
+}

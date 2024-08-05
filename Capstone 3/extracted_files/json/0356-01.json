@@ -1,0 +1,459 @@
+{
+  "id": 1357224,
+  "name": "McKinney v. Beattie",
+  "name_abbreviation": "McKinney v. Beattie",
+  "decision_date": "1923-03-05",
+  "docket_number": "",
+  "first_page": "356",
+  "last_page": "360",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "157 Ark. 356"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [
+    {
+      "cite": "51 S. W. 321",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "66 Ark. 452",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1909805
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/66/0452-01"
+      ]
+    },
+    {
+      "cite": "96 Ark. 448",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "33 S. W. 953",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "61 Ark. 527",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1902364
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/61/0527-01"
+      ]
+    },
+    {
+      "cite": "172 S. W. 1006",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "116 Ark. 198",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1532235
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/116/0198-01"
+      ]
+    },
+    {
+      "cite": "85 Ark. 584",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1523292
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/85/0584-01"
+      ]
+    },
+    {
+      "cite": "94 Ark. 118",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1545332
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/94/0118-01"
+      ]
+    },
+    {
+      "cite": "82 Ark. 51",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1529051
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/82/0051-01"
+      ]
+    },
+    {
+      "cite": "76 Ark. 426",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1500988
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/76/0426-01"
+      ]
+    },
+    {
+      "cite": "65 Ark. 422",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        609357
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/65/0422-01"
+      ]
+    },
+    {
+      "cite": "48 Ark. 409",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1887755
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/48/0409-01"
+      ]
+    },
+    {
+      "cite": "81 Am. Dec. 564",
+      "category": "reporters:federal",
+      "reporter": "Am. Dec.",
+      "weight": 2,
+      "opinion_index": -1
+    },
+    {
+      "cite": "51 Me. 140",
+      "category": "reporters:state",
+      "reporter": "Me.",
+      "case_ids": [
+        665504
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/me/51/0140-01"
+      ]
+    },
+    {
+      "cite": "10 Am. Dec. 323",
+      "category": "reporters:federal",
+      "reporter": "Am. Dec.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "13 Ark. 129",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        8727937
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/13/0129-01"
+      ]
+    },
+    {
+      "cite": "150 Ark. 347",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1367861
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/150/0347-01"
+      ]
+    },
+    {
+      "cite": "49 Ark. 242",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1309880
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/49/0242-01"
+      ]
+    },
+    {
+      "cite": "23 N. E. 225",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "49 Am. Dec. 379",
+      "category": "reporters:federal",
+      "reporter": "Am. Dec.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "31 Am. Dec. 432",
+      "category": "reporters:federal",
+      "reporter": "Am. Dec.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "8 Ohio 87",
+      "category": "reporters:state",
+      "reporter": "Ohio",
+      "case_ids": [
+        585331
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ohio/8/0086-01"
+      ]
+    },
+    {
+      "cite": "104 Ark. 439",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1350617
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/104/0439-01"
+      ]
+    },
+    {
+      "cite": "50 N. W. 143",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "55 Atl. 889",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "25 R. I. 332",
+      "category": "reporters:state",
+      "reporter": "R.I.",
+      "case_ids": [
+        1327528
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ri/25/0332-01"
+      ]
+    },
+    {
+      "cite": "103 Ark. 425",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1352007
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/103/0425-01"
+      ]
+    },
+    {
+      "cite": "99 Ark. 446",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1314532
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/99/0446-01"
+      ]
+    },
+    {
+      "cite": "76 Ark. 525",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1501072
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/76/0525-01"
+      ]
+    },
+    {
+      "cite": "69 Ark. 95",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        8719882
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/69/0095-01"
+      ]
+    },
+    {
+      "cite": "75 Ark. 19",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1502536
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/75/0019-01"
+      ]
+    },
+    {
+      "cite": "34 Ark. 590",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1875615
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/34/0590-01"
+      ]
+    },
+    {
+      "cite": "15 Ark. 555",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        8728547
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/15/0555-01"
+      ]
+    },
+    {
+      "cite": "92 Ark. 618",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1548574
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/92/0618-01"
+      ]
+    },
+    {
+      "cite": "61 Ark. 527",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1902364
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/61/0527-01"
+      ]
+    },
+    {
+      "cite": "85 Ark. 584",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1523292
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/85/0584-01"
+      ]
+    },
+    {
+      "cite": "99 Ark. 446",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1314532
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/99/0446-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 480,
+    "char_count": 8166,
+    "ocr_confidence": 0.489,
+    "pagerank": {
+      "raw": 2.2022673598120008e-07,
+      "percentile": 0.7752973242841571
+    },
+    "sha256": "1c256a18a99a996c686597798ad9c7e97e666db0f618cf25fcb4e6f6ea6c9c7e",
+    "simhash": "1:8a21ae7114016671",
+    "word_count": 1459
+  },
+  "last_updated": "2024-02-27T20:13:54.858580+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "McKinney v. Beattie."
+    ],
+    "opinions": [
+      {
+        "text": "McCulloch, C. J.\nAppellant instituted an action in the circuit court of Crittenden County to recover possession of an undivided half interest in a tract of land in that county, title to which appellant claims as tenant in common of appellees. The statute of limitation was pleaded as one of the defenses, and the cause was transferred to the chancery court on motion of appellees, apparently without objection on the part of appellant; at least there is no objection urged here.\nThe facts are undisputed with respect to the origin of the title asserted by the respective parties. The land in controversy was originally owned and actually occupied as a farm by William F. Beattie, who died intestate and without issue in the year 1881, leaving surviving his father, Madison Beattie, and sister and brother, Mary B. McKinney and George A. O. Beattie, respectively. The land was a new acquisition, and under the statutes of this State (Crawford & Moses\u2019 Digest, \u00a7 3480) ascended to his father, Madison Beattie, for life, and then descended in remainder to the collateral kindred of the intestate.\nImmediately after the death of William F. Beattie, his father, Madison Beattie, took possession of the land and occupied it until he died on July 31, 1885, leaving a last will and testament, by which he undertook to devise the whole of the land to his son, George A. C. Beattie. The will of Madison Beattie was probated in Virginia, where he resided, and also in Crittenden County, Arkansas, and his son, George A. C. Beattie, immediately took possession of the land and occupied it until his death in the year 1919. The appellees are the children and only heirs at law of George A. C. Beattie.\nAccording to the undisputed evidence, George A. C. Beattie was the sole occupant of the land from the time he took possession immediately after the death of his father, and he occupied it as his own and did not share the rents and profits with his sister, the appellant. She testified that she made no claim to the land for the reason that she believed, until after the death of her brother, George A. C. Beattie, that her father, Madison Beattie, had inherited the land in fee simple from William F., and that the title passed to George A. C. Beattie under the will of h\u00e9r father.\nWe think that the evidence justified the finding by the chancery court that the possession of the land by the father of appellees was adverse for more than the statutory period, and that such possession constituted an investiture of title. The evidence shows that the possession of George A. G. Beattie was, from the start, adverse and not in recognition, either expressly or impliedly, of the rights of any one else. It is true that, according to the testimony of appellant, both she and her brother were resting under the belief that the latter had acquired title under the will of their father, Madison Beattie, but this does not alter the fact that the possession was in fact adverse to the rights of the cotenant, and constituted in law an ouster, which put the statute of limitation in motion. We say this in full recognition of the rule that possession of one of the cotenants is possession of both, but in this case the adverse occupancy was brought home to appellant as one of the cotenants, and constituted such disseizin as put the statute of limitation in motion.\nThe facts in the case were sufficient, we think, to completely satisfy the rule stated by this court in Singer v. Naron, 99 Ark. 446, as follows: \u201cIn order therefore for the possession of one tenant in common to be adverse to that of his cotenants, knowledge of his adverse claim must be 'brought home to them directly or by such notorious acts of an unequivocal character that notice may be presumed.\u201d\nMere ignorance on the part of appellant concerning her inheritance, or even the joint mistake of law on the part of appellant and her brother as to their respective rights to the land, did not affect the operation of the statute. Ignorance of the law, or even of facts, afford no- immunity from the operation of the statute unless the mistake is caused by fraudulent concealment or misrepresentation. McKneely v. Terry, 61 Ark. 527; Hibben v. Malone, 85 Ark. 584; Conditt v. Holden, 92 Ark. 618, 135 Am. St. 206.\nFinding that the court was correct in its decree in favor of appellees on the ground of the bar of the statute of limitation, it is unnecessary to discuss the other grounds upon which the decree is sought to he upheld.\nAffirmed.",
+        "type": "majority",
+        "author": "McCulloch, C. J."
+      }
+    ],
+    "attorneys": [
+      "Berry & Wheeler, for appellant.",
+      "C. W. Norton, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "McKinney v. Beattie.\nOpinion delivered March 5, 1923.\n1. Tenancy in common \u2014 adverse possession. \u2014 Where the land of intestate ascended to his father for life as a new acquisition, with reriiainder to his brother and sister, and the father died, devising it to the brother, who occupied it as his own, adversely to the sister, for more than seven years, his adverse possession constituted such disseizin as set the statute of limitation in motion.\n2. Limitation op actions \u2014 -effect of mistake of law. \u2014 Mere ignorance on the part of a cotenant concerning her right to land adversely occupied by another tenant, or even a joint mistake of law on the part of both cotenants as to their respective rights to the land, does not affect the running of the statute of limitations, under which title by adverse possession is claimed, the mistake not being caused by fraudulent concealment or misrepresentation.\nAppeal from Crittenden Chancery Court; Archer Wheatley, Chancellor;\naffirmed.\nBerry & Wheeler, for appellant.\nThis was a new acquisition. Appellant and George A. C. Beattie became the owners in fee simple of the lands at the death of their brother, their possession being postponed until the death of their father. 15 Ark. 555; 34 Ark. 590; 75 Ark. 19. They became tenants in common at the death of the brother, in 1881, the mere right of possession being postponed. If, however, their title was postponed until the death of the father, appellant is still entitled to judgment. Actual notice of adverse holding was never brought home to her, and the will of Madison Beattie did not amount to constructive notice of ouster. 69 Ark. 95; 76 Ark. 525; 99 Ark. 446; 103 Ark. 425. This will did not convey color of title. It states: \u201cI give to my son * * * the farm * * * which was owned by my son William * * thereby limiting the quantity and extent of the estate devised. A life tenant has no interest in land that he can devise by will. 25 R. I. 332, 55 Atl. 889; 50 N. W. 143; 104 Ark. 439; Id. 600. The -source of title goes back to William. This is in effect an attempt to assert title under the will against an older title derived, by descent, which cannot be done. 8 Ohio 87, 31 Am. Dec. 432; 49 Am. Dec. 379; 23 N. E. 225; 49 Ark. 242; 150 Ark. 347. All the parties were residents of Virginia. Their ignorance of the Arkansas statutes pertaining to descents and distributions, or their mistaken idea as to the descent, was a mistake of fact and not of law. As to mistakes of law, and when the courts will grant relief, see 13 Ark. 129; 10 Am. Dec. 323, note; 51 Me. 140, 81 Am. Dec. 564; 1 Storey, Eq. \u00a7 122-130; I Head 77. If George A. C. Beattie was not mistaken as to the law, and knew that appellant was entitled to a half-interest in the lands, his withholding this knowledge from his sister was an active fraud against her, and neither he nor his heirs could claim or reap the benefits of such fraud. 2 Pomeroy, \u00a7 894, note 2, 3d edition; Id. \u00a7 901. The doctrine of constructive notice from possession is applied only to protect him who has equitable rights, and not for the benefits of one who is without equity. 48 Ark. 409. The burden of proof is on him who asserts title by adverse possession, and he must show every element necessary to constitute title under the statute. 65 Ark. 422; 76 Ark. 426; 82 Ark. 51; 94 Ark. 118; 99 Ark. 446.\nC. W. Norton, for appellee.\nIgnorance of the right of action does not avoid the statute of limitations. 25 Cyc. 1212; 17 R. C. L. 831; 85 Ark. 584; 116 Ark. 198, 172 S. W. 1006; 61 Ark. 527, 33 S. W. 953. Non-residence does not avoid it. 96 Ark. 448. Mistake does not avoid it. 66 Ark. 452, 51 S. W. 321; 25 Cyc. 1112."
+  },
+  "file_name": "0356-01",
+  "first_page_order": 378,
+  "last_page_order": 382
+}

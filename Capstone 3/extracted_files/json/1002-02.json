@@ -1,0 +1,76 @@
+{
+  "id": 12462761,
+  "name": "State, Respondent, v. Childs, Petitioner",
+  "name_abbreviation": "State v. Childs",
+  "decision_date": "2016-08-31",
+  "docket_number": "No. 93101-1",
+  "first_page": "1002",
+  "last_page": "1002",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "186 Wash. 2d 1002"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Wash.",
+    "id": 9029,
+    "name": "Washington Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 38,
+    "name_long": "Washington",
+    "name": "Wash."
+  },
+  "cites_to": [
+    {
+      "cite": "193 Wn. App. 1001",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        12449932,
+        12449933,
+        12449934
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/193/1001-01",
+        "/wash-app/193/1001-02",
+        "/wash-app/193/1001-03"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 36,
+    "char_count": 263,
+    "ocr_confidence": 0.867,
+    "sha256": "46621048a44e50d065c1b843d01f390c1d8f5e0f4cb83d066a2603ba15fd2208",
+    "simhash": "1:2d917c3145f35df0",
+    "word_count": 43
+  },
+  "last_updated": "2024-02-27T18:43:05.207238+00:00",
+  "provenance": {
+    "date_added": "2019-05-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "State, Respondent, v. Childs, Petitioner,"
+    ],
+    "opinions": [
+      {
+        "text": "Petition for review of a decision of the Court of Appeals, Nos. 32587-3-III and 32588-1-III, March 17, 2016, 193 Wn. App. 1001. Granted on a specific issue and remanded to the superior court August 31, 2016.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "State, Respondent, v. Childs, Petitioner,\nNo. 93101-1."
+  },
+  "file_name": "1002-02",
+  "first_page_order": 988,
+  "last_page_order": 988
+}

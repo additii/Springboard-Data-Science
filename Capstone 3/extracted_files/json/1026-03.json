@@ -1,0 +1,76 @@
+{
+  "id": 12462948,
+  "name": "Umpqua Bank, Respondent, v. Shasta Apts., LLC, et al., Petitioners",
+  "name_abbreviation": "Umpqua Bank v. Shasta Apts., LLC",
+  "decision_date": "2016-12-07",
+  "docket_number": "No. 93426-6",
+  "first_page": "1026",
+  "last_page": "1026",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "186 Wash. 2d 1026"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Wash.",
+    "id": 9029,
+    "name": "Washington Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 38,
+    "name_long": "Washington",
+    "name": "Wash."
+  },
+  "cites_to": [
+    {
+      "cite": "194 Wn. App. 685",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        12451663
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/194/0685-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 32,
+    "char_count": 214,
+    "ocr_confidence": 0.884,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.25766733890663124
+    },
+    "sha256": "0c3ece4a8b4db38d1c1bf09cfe3499440e7d97eada5ccf776a95a8c631fa9b3d",
+    "simhash": "1:0733ea5bf8d53c95",
+    "word_count": 36
+  },
+  "last_updated": "2024-02-27T18:43:05.207238+00:00",
+  "provenance": {
+    "date_added": "2019-05-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Umpqua Bank, Respondent, v. Shasta Apts., LLC, et al., Petitioners,"
+    ],
+    "opinions": [
+      {
+        "text": "Petition for review of a decision of the Court of Appeals, No. 47224-4-II, June 21, 2016, 194 Wn. App. 685. Denied December 7, 2016.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Umpqua Bank, Respondent, v. Shasta Apts., LLC, et al., Petitioners,\nNo. 93426-6."
+  },
+  "file_name": "1026-03",
+  "first_page_order": 1012,
+  "last_page_order": 1012
+}

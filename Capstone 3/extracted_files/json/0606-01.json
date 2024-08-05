@@ -1,0 +1,138 @@
+{
+  "id": 1432104,
+  "name": "Blaylock v. State",
+  "name_abbreviation": "Blaylock v. State",
+  "decision_date": "1933-06-12",
+  "docket_number": "Crim. 3838",
+  "first_page": "606",
+  "last_page": "608",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "187 Ark. 606"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [
+    {
+      "cite": "18 S. W. (2d) 336",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "179 Ark. 785",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        8725654
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/179/0785-01"
+      ]
+    },
+    {
+      "cite": "236 S. W. 617",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "151 Ark. 331",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1366076
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/151/0331-01"
+      ]
+    },
+    {
+      "cite": "217 S. W. 485",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "141 Ark. 442",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1593010
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/141/0442-01"
+      ]
+    },
+    {
+      "cite": "82 S. W. 202",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "72 Ark. 582",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1505611
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/72/0582-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 238,
+    "char_count": 3224,
+    "ocr_confidence": 0.518,
+    "pagerank": {
+      "raw": 4.206747897699882e-08,
+      "percentile": 0.2680349317662922
+    },
+    "sha256": "4eaa0e8a659e0e18c07bec5da0e919e822a7dc980daad6de2123aceff3ad398c",
+    "simhash": "1:313af9b68b13fcd7",
+    "word_count": 594
+  },
+  "last_updated": "2024-02-27T21:18:50.990705+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Blaylock v. State."
+    ],
+    "opinions": [
+      {
+        "text": "Butler, J.\nTlie appellant was indicted, tried and convicted for selling alcoholic liquors. The testimony on behalf of the State was to the effect that about two and a half miles from a small town was a cedar thicket near the road in which it was the custom of those coming to town and having liquor, to hide it. On a certain day two officers went into the thicket and hearing voices approached to a place where two men were in conversation, who upon seeing the officers began to run but were halted and captured and found to have liquor in their possession. The appellant was not with them at this time.\nThe two men who were arrested testified that on the day of their arrest they saw the appellant in town and asked him if he knew where they could get any liquor, and he told them he thought he did. They got into appellant\u2019s car with him and started out toward the cedar thicket, and when they had gone about half way some car trouble developed. They got out and went on foot to the thicket leaving the appellant at the car. They began to look for whiskey and found some behind a rock. They did not know to whom this whiskey belonged but took possession of it or a part of it just before the officers appeared. They did not purchase the liquor from the appellant and did not tell the officers that they had.\nThe appellant testified that he had been told that people peddling liquor would hide it in the cedar thicket and when he was asked if he knew where any liquor was he started with the two men to the thicket, but that he had not placed any liquor there and did not in fact know that there was any at that place.\nOne of the officers was called in rebuttal by the State and, without any objection being interposed, testified to the effect that the two men who were arrested by the officers and who testified in the -case told him that they had bought the liquor from the appellant.\nThe only evidence which tends to establish a sale of the liquor by the appellant was the rebuttal testimony of this officer and in this state of case the Attorney General has confessed error on the ground that no evidence of a substantive nature was introduced at the trial of the case tending to establish the guilt of the appellant. We have examined the record and are of the opinion that the position of the Attorney General is well taken. The rebuttal testimony was admissible for the purpose of testing the credibility of the witnesses by showing that they had made contrary statements, but was admissible for no other purpose. Although there was no request made by the defendant, the court should have so cautioned the jury, and in the state of the evidence should have directed a verdict of acquittal. The rebuttal testimony was a purely hearsay statement and was in no sense substantive proof of the fact charged. The cases cited by the Attorney General sustain his position. Thomas v. State, 72 Ark. 582, 82 S. W. 202; Doran v. State, 141 Ark. 442, 217 S. W. 485; Murray v. State, 151 Ark. 331, 236 S. W. 617; Burgess v. State, 179 Ark. 785, 18 S. W. (2d) 336.\nReversed and remanded.",
+        "type": "majority",
+        "author": "Butler, J."
+      }
+    ],
+    "attorneys": [
+      "Hal L. Norwood, Attorney General, and Robert F. Smith, Assistant, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Blaylock v. State.\nCrim. 3838\nOpinion delivered June 12, 1933.\nHal L. Norwood, Attorney General, and Robert F. Smith, Assistant, for appellee."
+  },
+  "file_name": "0606-01",
+  "first_page_order": 626,
+  "last_page_order": 628
+}

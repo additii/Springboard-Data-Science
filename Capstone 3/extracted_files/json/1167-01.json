@@ -1,0 +1,128 @@
+{
+  "id": 8727135,
+  "name": "Sternberg v. Libby, McNeill & Libby",
+  "name_abbreviation": "Sternberg v. Libby, McNeill & Libby",
+  "decision_date": "1933-03-13",
+  "docket_number": "4-2920",
+  "first_page": "1167",
+  "last_page": "1168",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "186 Ark. 1167"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [
+    {
+      "cite": "214 U. S. 279",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3649869
+      ],
+      "weight": 3,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/214/0279-01"
+      ]
+    },
+    {
+      "cite": "153 Fed. 841",
+      "category": "reporters:federal",
+      "reporter": "F.",
+      "case_ids": [
+        3920756
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f/153/0841-01"
+      ]
+    },
+    {
+      "cite": "57 S. W. 261",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "68 Ark. 230",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1334017
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/68/0230-01"
+      ]
+    },
+    {
+      "cite": "9 S. W. (2d) 81",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "177 Ark. 486",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        8722559
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/177/0486-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 254,
+    "char_count": 3452,
+    "ocr_confidence": 0.538,
+    "pagerank": {
+      "raw": 4.89950402824256e-08,
+      "percentile": 0.3072868340972775
+    },
+    "sha256": "0780eea632484733884835c204391dd14e2d5bf1ffefc59275e2797db021d606",
+    "simhash": "1:cb8f0a4d9445521e",
+    "word_count": 598
+  },
+  "last_updated": "2024-02-27T17:52:01.123529+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Sternberg v. Libby, McNeill & Libby."
+    ],
+    "opinions": [
+      {
+        "text": "McHaNey, J.\nSometime prior to the failure of Browne-Brun Wholesale Grocery Company, appellee sold it a quantity of merchandise. The order for the merchandise was signed by the grocery company\u2019s agent and contained a clause at the head of the order providing that the seller retained title and property in the goods until they were paid for in full. The goods were not paid for, and, the grocery company being in a failing condition, appellee brought replevin against it to recover the merchandise still on hand and unsold, a part of it having been sold. Shortly thereafter the grocery company was adjudicated a bankrupt, and appellant became the trustee. He was substituted as defendant in the action and filed an answer denying that appellee was the owner of the goods and entitled to the possession thereof and all other material allegations in the replevin action. A trial before the court sitting as a jury resulted in a finding and judgment for appellee.\nFor a reversal of the judgment against him, appellant contends (1) that the provision in the contract of sale for the retention of title in the goods was no part of the contract; and (2) that such retention of title is void as against creditors.\nAs to the first, proposition', appellant' contends that the purchaser did not notice the provision of the contract relating to the retention of title, and that it was not bound on that account. \u25a0 The testimony was in' dispute as to whether the grocery company had notice .of that provision. of the contract. Appellee\u2019s agent stated that the buyer\u2019s agent knew that it was there; that it was in all their contracts. The buyer\u2019s agent said that the'clause made no impression on him, and that he paid no attention to it. The court\u2019s finding against appellant is supported by substantial evidence. However, we think it would be immaterial whether the purchaser noticed that provision or not. The undisputed fact is that if was in the contract, plainly visible had the purchaser\u2019s agent desired to inform himself of the provisions of the contract. In the recent case of Gray v. Brewer, 177 Ark. 486, 9 S. W. (2d) 81, we held that \u201cwhere a person signs a paper containing the terms of a proposed contract, and the paper is accepted, he is bound by its terms, whether he reads the paper or not.\u201d See also authorities cited in that case. We therefore hold that this provision is an essential part of the contract. .\nAs to the second proposition that the reservation of title is void as against creditors, we are of the opinion that the appellant is again in error. One of the leading cases in this court holding against appellant\u2019s contention is Triplett v. Mansur-Tebbetts Implement Co., 68 Ark. 230, 57 S. W. 261. It was there held that a contract of conditional sale is valid, regardless of the fact that it contains a provision that the purchaser may resell the property in the usual course of business, and the conditional vendor was allowed to replevin the goods from the conditional vendee\u2019s assignee in insolvency who had taken possession. See also Swofford Bros. Dry Goods Co. v. Bryant, 153 Fed. 841. This case was affirmed by the Supreme Court of the- United States in Bryant v. Swofford Bros. Dry Goods Co., 214 U. S. 279, 29 S. Ct. 614, 53 Law. Ed. 997.\nWe find no error, and the judgment is affirmed.",
+        "type": "majority",
+        "author": "McHaNey, J."
+      }
+    ],
+    "attorneys": [
+      "George W. Dodd, for appellant.",
+      "Daily \u25a0& Woods, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Sternberg v. Libby, McNeill & Libby.\n4-2920\nOpinion delivered March 13, 1933.\nGeorge W. Dodd, for appellant.\nDaily \u25a0& Woods, for appellee."
+  },
+  "file_name": "1167-01",
+  "first_page_order": 1187,
+  "last_page_order": 1188
+}

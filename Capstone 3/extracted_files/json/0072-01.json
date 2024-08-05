@@ -1,0 +1,175 @@
+{
+  "id": 1369534,
+  "name": "Bald Knob Special School District v. McDonald",
+  "name_abbreviation": "Bald Knob Special School District v. McDonald",
+  "decision_date": "1926-05-17",
+  "docket_number": "",
+  "first_page": "72",
+  "last_page": "74",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "171 Ark. 72"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [
+    {
+      "cite": "103 Ark. 79",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1352015
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/103/0079-01"
+      ]
+    },
+    {
+      "cite": "48 Ark. 485",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1887721
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/48/0485-01"
+      ]
+    },
+    {
+      "cite": "46 Ark. 80",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1890505
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/46/0080-01"
+      ]
+    },
+    {
+      "cite": "126 Ark. 622",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1551776
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/126/0622-01"
+      ]
+    },
+    {
+      "cite": "110 Ark. 262",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1337060
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/110/0262-01"
+      ]
+    },
+    {
+      "cite": "81 Ark. 143",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1530605
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/81/0143-01"
+      ]
+    },
+    {
+      "cite": "129 Ark. 211",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1580475
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/129/0211-01"
+      ]
+    },
+    {
+      "cite": "107 Ark. 305",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1344000
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/107/0305-01"
+      ]
+    },
+    {
+      "cite": "87 Ark. 93",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1519074
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/87/0093-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 301,
+    "char_count": 4706,
+    "ocr_confidence": 0.476,
+    "pagerank": {
+      "raw": 3.51190351421791e-07,
+      "percentile": 0.8833424265275698
+    },
+    "sha256": "4e1b21af91bf7a0a1653321ae58d9ea44d457299750523ac462440ddd54205c0",
+    "simhash": "1:8ee768b9e26d0594",
+    "word_count": 781
+  },
+  "last_updated": "2024-02-28T00:06:45.048720+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Bald Knob Special School District v. McDonald."
+    ],
+    "opinions": [
+      {
+        "text": "McCulloch, C. J.\nAppellee is a school-teacher 'by profession, and in September, 1924, the directors of appellant school district entered into a verbal contract with him whereby he was employed as superintendent of schools for a term of eight months, beginning September 15, 1924, at a salary of one hundred and fifty dollars per month. He acted in the capacity in which he was employed for about seven weeks from the commencement of the term, and was then discharged by the board, after a hearing upon charges preferred against him for certain misconduct. He was paid for his services actually performed at the rate stipulated in the verbal contract, and he instituted this action against the district to recover the salary for the remainder of the term for which he was employed. The district defended on the ground that the contract was void by reason of not being in writing, and also on the ground that appellee\u2019s discharge was rightful on account of certain-misconduct. The trial court decided that the Contract, though. verbal, had been ratified, and, on the ether issues in the case, directed a verdict in favor of appellee.\nThe authority conferred upon directors of school districts with reference to the employment of teachers and superintendents is limited under the statute to (employment by written, Contract \u201cspecifying the time for which the teacher is to be employed, the wages to be paid i per month, and any other agreement entered into by the contracting parties.\u201d Crawford & Moses' Digest & 8917; Griggs v. School District, 87 Ark. 93; Marr v. School District, 107 Ark. 305. The right of appellee to recover, however, is asserted on the ground that the directors ratified the contract by permitting appellee to perform services thereunder for a portion of the term. The decisions of this court support the contention that an invalid contract for the employment of a teacher or superintendent may be ratified, and in one of our cases (Dell Special School District v. Johnson, 129 Ark. 211) Ave applied that rule to a verbal contract. In that case, however, the teacher had completely performed the confeact for the full term of employment. In other cases Awe have held that partial performance of the contract Awonld constitute a ratification for the full term, but in \u2019rnone of those cases was there a verbal contract involved. School District v. Goodwin, 81 Ark. 143; School District W. Jackson, 110 Ark. 262; School District v. Hundley, 126 Ark. 622.\nThere is now presented to this court for the first \u2019time the question' whether or not part performance of such a contract, with the acquiescence of the directors and patrons of the district, constitutes a ratification so as to validate the contract in its entirety. Onr conclusion is that-the ratification extended only to the period of performance and not to the entire contract, -otherwise the statute would he entirely ignored. We hold that the statute is mandatory, and that the directors have no authority to make a contract in any other form. They may ratify such a contract by accepting the services of the teacher- or superintendent, but the ratification extends, as before stated, only to the period of performance. The question of liability under such a contract partially performed is the same as that of liability under a verbal contract for any other'personal services, which is governed by the Statute of Frauds, and this court has held that partial performance of a contract for personal services does not take a verbal contract out of the operation of the Statute of Frauds except to the extent of imposing liability for that part which was performed. Meyer v. Roberts, 46 Ark. 80; Henry v. Wells, 48 Ark. 485; Oak Leaf Mill Co. v. Cooper, 103 Ark. 79.\nIt is unnecessary to discuss the other features of the case, for the reason that, under the view of the law expressed \u00e1bove, there was no liability of the district t\u00f3 appellee except for the part of the service actually performed, which has been discharged by payment.\nThe judgment is therefore reversed, and the' cause dismissed.",
+        "type": "majority",
+        "author": "McCulloch, C. J."
+      }
+    ],
+    "attorneys": [
+      "John, E. Miller and Gulbert L. Pearce, for appellant.",
+      "Brundidge & Neelly, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Bald Knob Special School District v. McDonald.\nOpinion delivered May 17, 1926.\nSchools and sghool districts \u2014 verbal contract of employment of teacher. \u2014 While Crawford & Moses\u2019 Dig., \u00a7 8917, requiring contracts for employment of teachers by school districts to be in writing, is mandatory, a verbal contract may be ratified by a district by accepting the teacher\u2019s services, but, in the case of a partial performance, the ratification extends only to the period of performance.\nAppeal from White Circuit Court; E. D. Robertson, Judge;\nreversed.\nJohn, E. Miller and Gulbert L. Pearce, for appellant.\nBrundidge & Neelly, for appellee."
+  },
+  "file_name": "0072-01",
+  "first_page_order": 88,
+  "last_page_order": 90
+}

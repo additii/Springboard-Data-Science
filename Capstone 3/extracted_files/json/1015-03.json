@@ -1,0 +1,76 @@
+{
+  "id": 12462862,
+  "name": "Campbell, Petitioner, v. Tacoma Pub. Sch. Dist. No. 10, Respondent",
+  "name_abbreviation": "Campbell v. Tacoma Pub. Sch. Dist. No. 10",
+  "decision_date": "2016-09-28",
+  "docket_number": "No. 93260-3",
+  "first_page": "1015",
+  "last_page": "1015",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "186 Wash. 2d 1015"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Wash.",
+    "id": 9029,
+    "name": "Washington Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 38,
+    "name_long": "Washington",
+    "name": "Wash."
+  },
+  "cites_to": [
+    {
+      "cite": "192 Wn. App. 874",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        12456099
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/192/0874-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 31,
+    "char_count": 216,
+    "ocr_confidence": 0.887,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.25766289849330987
+    },
+    "sha256": "83b6f17b5050a2f3e6f28d21bc77f7373ccee40c25143631f28057ff17221c4e",
+    "simhash": "1:d8bd25f94e3fe761",
+    "word_count": 36
+  },
+  "last_updated": "2024-02-27T18:43:05.207238+00:00",
+  "provenance": {
+    "date_added": "2019-05-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Campbell, Petitioner, v. Tacoma Pub. Sch. Dist. No. 10, Respondent,"
+    ],
+    "opinions": [
+      {
+        "text": "Petition for review of a decision of the Court of Appeals, No. 46067-0-II, March 8, 2016, 192 Wn. App. 874. Denied September 28, 2016.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Campbell, Petitioner, v. Tacoma Pub. Sch. Dist. No. 10, Respondent,\nNo. 93260-3."
+  },
+  "file_name": "1015-03",
+  "first_page_order": 1001,
+  "last_page_order": 1001
+}

@@ -1,0 +1,229 @@
+{
+  "id": 8723834,
+  "name": "Royal v. State",
+  "name_abbreviation": "Royal v. State",
+  "decision_date": "1923-06-25",
+  "docket_number": "",
+  "first_page": "601",
+  "last_page": "603",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "159 Ark. 601"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [
+    {
+      "cite": "154 Ark. 191",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "88 Ark. 418",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1517174
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/88/0418-01"
+      ]
+    },
+    {
+      "cite": "103 Ark. 87",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1351986
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/103/0087-01"
+      ]
+    },
+    {
+      "cite": "114 Ark. 393",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1536335
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/114/0393-01"
+      ]
+    },
+    {
+      "cite": "64 Ark. 247",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1907416
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/64/0247-01"
+      ]
+    },
+    {
+      "cite": "16 Ark. 499",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        8725582
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/16/0499-01"
+      ]
+    },
+    {
+      "cite": "107 Ark. 469",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1344042
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/107/0469-01"
+      ]
+    },
+    {
+      "cite": "96 Ark. 52",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1541990
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/96/0052-01"
+      ]
+    },
+    {
+      "cite": "105 Ark. 172",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1347121
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/105/0172-01"
+      ]
+    },
+    {
+      "cite": "114 Ark. 230",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1536287
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/114/0230-01"
+      ]
+    },
+    {
+      "cite": "85 Ark. 360",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1523376
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/85/0360-01"
+      ]
+    },
+    {
+      "cite": "97 Ark. 156",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1318884
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/97/0156-01"
+      ]
+    },
+    {
+      "cite": "68 Ark. 529",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1334075
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/68/0529-01"
+      ]
+    },
+    {
+      "cite": "96 Ark. 52",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1541990
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/96/0052-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 278,
+    "char_count": 4840,
+    "ocr_confidence": 0.511,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.20856293166126674
+    },
+    "sha256": "24eefc439c0164994751209d5ed9feb62972653282d43fc0304eaea0fb366abd",
+    "simhash": "1:283370cc1826a4d4",
+    "word_count": 849
+  },
+  "last_updated": "2024-02-27T18:54:00.643605+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Royal v. State."
+    ],
+    "opinions": [
+      {
+        "text": "Hart, J.\nCrawley Royal prosecutes this appeal to reverse a judgment of conviction against him for selling property subject to a landlord\u2019s lien, in violation of tbe provisions of \u00a7 2552 of Crawford & Moses\u2019 Digest.\nTbe main reliance of appellant for reversal of tbe judgment of conviction is that tbe verdict is without evidence to support it. Whether there was any testimony legally sufficient to sustain tbe verdict is a question of law, but whether tbe verdict is justified by tbe testimony presents a question of fact which cannot be considered upon appeal.\nAccording to tbe testimony of T. K. Lee, he made the contract with the appellant, Crawley Royal, to rent him his farm in Chicot County, Ark., for $1,000 for the year 1920. There were 125 acres fit for cultivation, but, on account of the wet season in 1920, there was only between 75 and 100 acres put in cultivation. One of the subtenants of appellant made three bales of cotton and a remnant. This cotton was delivered to appellant, and he delivered two of the bales to the landlord. These two bales were sold for about $100 by the landlord. Appellant told witness that 'he had taken the other bale of cotton to Lake Village and sold it.\nA subtenant of appellant testified that he made three bales of cotton and a remnant of 100 pounds. He turned this cotton over to the appellant after it was ginned. This was the same three bales of cotton referred to bv the landlord in his testimony. Another witness testified that she was a subtenant of appellant, and made a' small remnant of cotton, which she turned over to him. Still another witness testified that he made 280 pounds of lint cotton on the place, which he turned over to appellant. Another witness testified that he ginned seven bales of cotton for the appellant and his subtenants in the fall of 1920. All this cotton was turned over to the appellant, except one bale, which he kept to pay for ginning. This . bale was sold for about $50.\nIt is true that this testimony was contradicted by that of the appellant and his witnesses, but, as above stated, the long-established rule in this State is that this court will not disturb the verdict of a jury upon the mere weight of the evidence.\nThe jury might have found, from the evidence recited above, that the cotton referred to by the witnesses was raised upon the place of the prosecuting witness in Chicot County, Ark., and that appellant sold a part of it with the intent to defeat the landlord in the collection of his rent.\nIt is insisted that the value of the cotton sold is a material element in the offense, and that there is no testimony on this point. According to the testimony of the landlord, the two bales of cotton which he did receive from appellant were sold for something like $100. According to the testimony of' the ginner, the bale which he kept as security for the ginning was sold by him and brought something like $50. The cotton was all grown on the same place. At least the jury might have inferred this to be the fact, and the testimony as to what these three bales sold for inferentially showed the value of the other cotton.\nNo objections were made or exceptions saved to the giving of instructions. Therefore no assignment of error on this account is presented for review. Clardy v. State, 96 Ark. 52.\nIt follows that the judgment must be affirmed.",
+        "type": "majority",
+        "author": "Hart, J."
+      }
+    ],
+    "attorneys": [
+      "Gooh & Trice, for appellant.",
+      "J. S. Utley, Attorney General, John L. Garter and Wm. T. HaonmocJc, Assistants, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Royal v. State.\nOpinion delivered June 25, 1923.\n1. CRIMINAL LAW \u2014 WEIGHT AND SUFFICIENCY OF EVIDENCE. \u2014 While the Supreme Court will determine whether there was evidence legally sufficient to sustain a verdict, it will not disturb a verdict upon the mere weight of the evidence.\n2. Landlord and tenant \u2014 sale of cotton subject to landlord\u2019s lien. \u2014 In a prosecution under Crawford & Moses\u2019 Dig., \u00a7 2552, for a sale of property subject to a landlord\u2019s lien, evidence held sufficient to sustain a finding that defendant had sold cotton with intent to defeat his landlord\u2019s lien, and to show the value thereof.\n3. Criminal law \u2014 instructions\u2014objections and exceptions.\u2014 Where no objections or exceptions are saved to the giving of instructions, no assignment of error on this account is presented for review.\nAppeal from Chicot Circuit Court; Turner Butler, Judge;\naffirmed.\nGooh & Trice, for appellant.\nThe evidence is not sufficient to support the verdict. 68 Ark. 529; 97 Ark. 156; 85 Ark. 360; 114 Ark. 230. Necessary to allege and prove value of the property. 105 Ark. 172. The judgment should be reversed.\nJ. S. Utley, Attorney General, John L. Garter and Wm. T. HaonmocJc, Assistants, for appellee.\nNo objections were made to tbe court\u2019s charge, and no assignment of error is presented on this account. 96 Ark. 52. Tbe verdict is supported by tbe testimony. 107 Ark. 469; 16 Ark. 499; 64 Ark. 247; 114 Ark. 393; 103 Ark. 87; 88 Ark. 418; 154 Ark. 191. Tbe judgment should be affirmed."
+  },
+  "file_name": "0601-01",
+  "first_page_order": 627,
+  "last_page_order": 629
+}

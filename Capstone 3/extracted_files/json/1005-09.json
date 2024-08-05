@@ -1,0 +1,78 @@
+{
+  "id": 12456897,
+  "name": "Block, Petitioner, v. Law Offices of Ben F. Barcus & Assocs. et al., Respondents",
+  "name_abbreviation": "Block v. Law Offices of Ben F. Barcus & Assocs.",
+  "decision_date": "2016-03-02",
+  "docket_number": "No. 92305-1",
+  "first_page": "1005",
+  "last_page": "1005",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "185 Wash. 2d 1005"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Wash.",
+    "id": 9029,
+    "name": "Washington Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 38,
+    "name_long": "Washington",
+    "name": "Wash."
+  },
+  "cites_to": [
+    {
+      "cite": "189 Wn. App. 1006",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        6781309,
+        6781210,
+        6781277,
+        6781238
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/189/1006-04",
+        "/wash-app/189/1006-01",
+        "/wash-app/189/1006-03",
+        "/wash-app/189/1006-02"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 35,
+    "char_count": 225,
+    "ocr_confidence": 0.846,
+    "sha256": "2b86e5b59ad4f075c841640f5001be11958685c7f8075b24715b471233e59f42",
+    "simhash": "1:90918a825b03467f",
+    "word_count": 39
+  },
+  "last_updated": "2024-02-28T00:06:59.447104+00:00",
+  "provenance": {
+    "date_added": "2019-05-22",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Block, Petitioner, v. Law Offices of Ben F. Barcus & Assocs. et al., Respondents,"
+    ],
+    "opinions": [
+      {
+        "text": "Petition for review of a decision of the Court of Appeals, No. 71742-1-I, July 27, 2015, 189 Wn. App. 1006. Denied March 2, 2016.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Block, Petitioner, v. Law Offices of Ben F. Barcus & Assocs. et al., Respondents,\nNo. 92305-1."
+  },
+  "file_name": "1005-09",
+  "first_page_order": 957,
+  "last_page_order": 957
+}

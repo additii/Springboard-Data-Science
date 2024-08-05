@@ -1,0 +1,2060 @@
+{
+  "id": 6792674,
+  "name": "The State of Washington, Respondent, v. Robert Eugene Barry, Petitioner",
+  "name_abbreviation": "State v. Barry",
+  "decision_date": "2015-06-04",
+  "docket_number": "No. 89976-2",
+  "first_page": "297",
+  "last_page": "326",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "183 Wash. 2d 297"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Wash.",
+    "id": 9029,
+    "name": "Washington Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 38,
+    "name_long": "Washington",
+    "name": "Wash."
+  },
+  "cites_to": [
+    {
+      "cite": "135 S. Ct. 880",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12594336,
+        12594337,
+        12594338,
+        12594334,
+        12594335
+      ],
+      "year": 2014,
+      "opinion_index": 0,
+      "case_paths": [
+        "/s-ct/135/0880-03",
+        "/s-ct/135/0880-04",
+        "/s-ct/135/0880-05",
+        "/s-ct/135/0880-01",
+        "/s-ct/135/0880-02"
+      ]
+    },
+    {
+      "cite": "503 F.3d 755",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        2919467
+      ],
+      "weight": 2,
+      "year": 2007,
+      "pin_cites": [
+        {
+          "page": "783",
+          "parenthetical": "Gould, J., concurring in part and dissenting in part"
+        },
+        {
+          "page": "780"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/503/0755-01"
+      ]
+    },
+    {
+      "cite": "547 U.S. 813",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3275498
+      ],
+      "weight": 3,
+      "year": 2006,
+      "pin_cites": [
+        {
+          "page": "823-24"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/547/0813-01"
+      ]
+    },
+    {
+      "cite": "378 U.S. 1",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6164855
+      ],
+      "weight": 3,
+      "year": 1964,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/378/0001-01"
+      ]
+    },
+    {
+      "cite": "291 U.S. 97",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1498121
+      ],
+      "weight": 3,
+      "year": 1934,
+      "pin_cites": [
+        {
+          "page": "107-08"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/291/0097-01"
+      ]
+    },
+    {
+      "cite": "246 P.3d 796",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2011,
+      "pin_cites": [
+        {
+          "parenthetical": "under the Fourteenth Amendment, the defendant's presence during proceedings is a condition of due process only \" 'to the extent that a fair and just hearing would be thwarted by his absence' \" (quoting Snyder v. Massachusetts, 291 U.S. 97, 107-08, 54 S. Ct. 330, 78 L. Ed. 674 (1934"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "170 Wn.2d 874",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4013239
+      ],
+      "year": 2011,
+      "pin_cites": [
+        {
+          "page": "881"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/170/0874-01"
+      ]
+    },
+    {
+      "cite": "431 U.S. 783",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        2099
+      ],
+      "weight": 3,
+      "year": 1977,
+      "pin_cites": [
+        {
+          "page": "790"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/431/0783-01"
+      ]
+    },
+    {
+      "cite": "493 U.S. 342",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11331685
+      ],
+      "weight": 4,
+      "year": 1990,
+      "pin_cites": [
+        {
+          "page": "353",
+          "parenthetical": "citations and internal quotation marks omitted"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/493/0342-01"
+      ]
+    },
+    {
+      "cite": "372 U.S. 335",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1765333
+      ],
+      "weight": 3,
+      "year": 1963,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/372/0335-01"
+      ]
+    },
+    {
+      "cite": "316 U.S. 455",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        368158
+      ],
+      "weight": 3,
+      "year": 1942,
+      "pin_cites": [
+        {
+          "page": "462"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/316/0455-01"
+      ]
+    },
+    {
+      "cite": "655 F.2d 98",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1262146
+      ],
+      "year": 1981,
+      "pin_cites": [
+        {
+          "page": "100",
+          "parenthetical": "no Fifth Amendment violation when the prosecutor rhetorically asked the jury, \" Was there any indignation manifested here or did he just sit there and stare?' \" while, watching a witness testify"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/655/0098-01"
+      ]
+    },
+    {
+      "cite": "224 F.2d 168",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        56382
+      ],
+      "year": 1955,
+      "pin_cites": [
+        {
+          "page": "170"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/224/0168-01"
+      ]
+    },
+    {
+      "cite": "6 F.2d 809",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1673664
+      ],
+      "year": 1925,
+      "pin_cites": [
+        {
+          "page": "811"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/6/0809-01"
+      ]
+    },
+    {
+      "cite": "370 F.2d 874",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        2049876
+      ],
+      "year": 1966,
+      "pin_cites": [
+        {
+          "page": "876"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/370/0874-01"
+      ]
+    },
+    {
+      "cite": "563 F.2d 1246",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        889255
+      ],
+      "year": 1977,
+      "pin_cites": [
+        {
+          "page": "1249"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/563/1246-01"
+      ]
+    },
+    {
+      "cite": "651 F.2d 1188",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1245272
+      ],
+      "year": 1981,
+      "pin_cites": [
+        {
+          "page": "1197",
+          "parenthetical": "citing United States v. Rochan, 563 F.2d 1246, 1249 (5th Cir. 1977)"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/651/1188-01"
+      ]
+    },
+    {
+      "cite": "181 P.3d 1",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2008,
+      "pin_cites": [
+        {
+          "parenthetical": "quoting Crane, 116 Wn.2d at 331"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "163 Wn.2d 204",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        5682321
+      ],
+      "year": 2008,
+      "pin_cites": [
+        {
+          "page": "216",
+          "parenthetical": "quoting Crane, 116 Wn.2d at 331"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/163/0204-01"
+      ]
+    },
+    {
+      "cite": "232 S.W. 133",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "weight": 2,
+      "year": 1921,
+      "pin_cites": [
+        {
+          "page": "140"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "288 Mo. 435",
+      "category": "reporters:state",
+      "reporter": "Mo.",
+      "case_ids": [
+        833157
+      ],
+      "year": 1921,
+      "opinion_index": 0,
+      "case_paths": [
+        "/mo/288/0435-01"
+      ]
+    },
+    {
+      "cite": "332 Mo. 370",
+      "category": "reporters:state",
+      "reporter": "Mo.",
+      "case_ids": [
+        1871781
+      ],
+      "weight": 2,
+      "year": 1932,
+      "pin_cites": [
+        {
+          "page": "971"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mo/332/0370-01"
+      ]
+    },
+    {
+      "cite": "178 P.2d 341",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1947,
+      "opinion_index": 0
+    },
+    {
+      "cite": "27 Wn.2d 336",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        2521047
+      ],
+      "year": 1947,
+      "pin_cites": [
+        {
+          "page": "341"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/27/0336-01"
+      ]
+    },
+    {
+      "cite": "358 S.E.2d 1",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.2d",
+      "weight": 3,
+      "year": 1987,
+      "pin_cites": [
+        {
+          "page": "15"
+        },
+        {
+          "page": "14"
+        },
+        {
+          "page": "15",
+          "parenthetical": "\"[E]vidence is not only what [jurors] hear on the stand but what they witness in the courtroom.\""
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "320 N.C. 179",
+      "category": "reporters:state",
+      "reporter": "N.C.",
+      "case_ids": [
+        4730916
+      ],
+      "year": 1987,
+      "opinion_index": 0,
+      "case_paths": [
+        "/nc/320/0179-01"
+      ]
+    },
+    {
+      "cite": "334 P.3d 1068",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2014,
+      "opinion_index": 0
+    },
+    {
+      "cite": "181 Wn.2d 546",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4356103
+      ],
+      "year": 2014,
+      "pin_cites": [
+        {
+          "page": "556"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/181/0546-01"
+      ]
+    },
+    {
+      "cite": "334 P.3d 1088",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2014,
+      "pin_cites": [
+        {
+          "parenthetical": "plurality opinion"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "181 Wn.2d 598",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4356617
+      ],
+      "year": 2014,
+      "pin_cites": [
+        {
+          "page": "608",
+          "parenthetical": "plurality opinion"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/181/0598-01"
+      ]
+    },
+    {
+      "cite": "334 P.3d 1042",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2014,
+      "opinion_index": 0
+    },
+    {
+      "cite": "181 Wn.2d 493",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4355808
+      ],
+      "year": 2014,
+      "pin_cites": [
+        {
+          "page": "503"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/181/0493-01"
+      ]
+    },
+    {
+      "cite": "340 P.3d 840",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2014,
+      "pin_cites": [
+        {
+          "parenthetical": "citing State v. Koss, 181 Wn.2d 493, 503, 334 P.3d 1042 (2014); State v. Slert, 181 Wn.2d 598, 608, 334 P.3d 1088 (2014) (plurality opinion); State v. Njonge, 181 Wn.2d 546, 556, 334 P.3d 1068, cert. denied, 135 S. Ct. 880 (2014)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "182 Wn.2d 294",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4075505
+      ],
+      "year": 2014,
+      "pin_cites": [
+        {
+          "page": "299-301",
+          "parenthetical": "citing State v. Koss, 181 Wn.2d 493, 503, 334 P.3d 1042 (2014); State v. Slert, 181 Wn.2d 598, 608, 334 P.3d 1088 (2014) (plurality opinion); State v. Njonge, 181 Wn.2d 546, 556, 334 P.3d 1068, cert. denied, 135 S. Ct. 880 (2014)"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/182/0294-01"
+      ]
+    },
+    {
+      "cite": "748 F.2d 1519",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        638647
+      ],
+      "year": 1984,
+      "pin_cites": [
+        {
+          "page": "1531-32",
+          "parenthetical": "juror concealed his knowledge about the defendant during voir dire and disputed some of the defense evidence during deliberations"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/748/1519-01"
+      ]
+    },
+    {
+      "cite": "78 F.3d 1442",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        93225
+      ],
+      "year": 1996,
+      "pin_cites": [
+        {
+          "page": "1444-45",
+          "parenthetical": "surveillance tapes that never had been played in court were sent into the jury room when the jurors retired to deliberate"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/78/1442-01"
+      ]
+    },
+    {
+      "cite": "146 U.S. 140",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3564613
+      ],
+      "weight": 3,
+      "year": 1892,
+      "pin_cites": [
+        {
+          "page": "142-43",
+          "parenthetical": "bailiff told the jurors that defendant was guilty of several murders and gave jurors a newspaper article discussing the case"
+        },
+        {
+          "parenthetical": "bailiff told the jurors that defendant was guilty of several murders and gave jurors a newspaper article discussing the case"
+        },
+        {
+          "parenthetical": "bailiff told the jurors that defendant was guilty of several murders and gave jurors a newspaper article discussing the case"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/146/0140-01"
+      ]
+    },
+    {
+      "cite": "366 U.S. 717",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1285471
+      ],
+      "weight": 3,
+      "year": 1961,
+      "pin_cites": [
+        {
+          "page": "719-20",
+          "parenthetical": "jurors were aware of and influenced by extensive pretrial publicity adverse to the defendant"
+        },
+        {
+          "parenthetical": "jurors were aware of and influenced by extensive pretrial publicity adverse to the defendant"
+        },
+        {
+          "parenthetical": "jurors were aware of and influenced by extensive pretrial publicity adverse to the defendant"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/366/0717-01"
+      ]
+    },
+    {
+      "cite": "379 U.S. 466",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11731209
+      ],
+      "weight": 4,
+      "year": 1965,
+      "pin_cites": [
+        {
+          "page": "467-69",
+          "parenthetical": "jurors were sequestered by and in the company of sheriff's deputies; \"[t]he deputies ate with them, conversed with them, and did errands for them\"; two of the deputies were critical witnesses during the trial"
+        },
+        {
+          "parenthetical": "jurors were sequestered by and in the company of sheriff's deputies; \"[t]he deputies ate with them, conversed with them, and did errands for them\"; two of the deputies were critical witnesses during the trial"
+        },
+        {
+          "parenthetical": "jurors were sequestered by and in the company of sheriff's deputies; \"[t]he deputies ate with them, conversed with them, and did errands for them\"; two of the deputies were critical witnesses during the trial"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/379/0466-01"
+      ]
+    },
+    {
+      "cite": "425 U.S. 501",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6179579
+      ],
+      "weight": 3,
+      "year": 1976,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/425/0501-01"
+      ]
+    },
+    {
+      "cite": "522 F.3d 482",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3761977
+      ],
+      "year": 2008,
+      "pin_cites": [
+        {
+          "page": "493",
+          "parenthetical": "citing Estelle v. Williams, 425 U.S. 501, 96 S. Ct. 1691, 48 L. Ed. 2d 126 (1976)"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/522/0482-01"
+      ]
+    },
+    {
+      "cite": "441 U.S. 786",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1780385
+      ],
+      "weight": 3,
+      "year": 1979,
+      "pin_cites": [
+        {
+          "page": "789",
+          "parenthetical": "citing Taylor, 436 U.S. at 490"
+        },
+        {
+          "parenthetical": "citing Taylor, 436 U.S. at 490"
+        },
+        {
+          "parenthetical": "citing Taylor, 436 U.S. at 490"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/441/0786-01"
+      ]
+    },
+    {
+      "cite": "436 U.S. 478",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1490303
+      ],
+      "weight": 8,
+      "year": 1978,
+      "pin_cites": [
+        {
+          "page": "485"
+        },
+        {
+          "parenthetical": "emphasis added"
+        },
+        {
+          "page": "486-88"
+        },
+        {
+          "page": "485"
+        },
+        {
+          "page": "487-88"
+        },
+        {
+          "page": "490"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/436/0478-01"
+      ]
+    },
+    {
+      "cite": "433 P.2d 682",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1967,
+      "opinion_index": 0
+    },
+    {
+      "cite": "72 Wn.2d 524",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1091270
+      ],
+      "year": 1967,
+      "pin_cites": [
+        {
+          "page": "531"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/72/0524-01"
+      ]
+    },
+    {
+      "cite": "257 P.3d 513",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2011,
+      "pin_cites": [
+        {
+          "parenthetical": "\"[T]he charges were not concise. As [Washam] devotes no substantial argument to the claim, we do not reach it.\""
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "171 Wn.2d 503",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4015240
+      ],
+      "year": 2011,
+      "pin_cites": [
+        {
+          "parenthetical": "\"[T]he charges were not concise. As [Washam] devotes no substantial argument to the claim, we do not reach it.\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/171/0503-01"
+      ]
+    },
+    {
+      "cite": "512 F.3d 1169",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        4071763
+      ],
+      "year": 2008,
+      "pin_cites": [
+        {
+          "page": "1174"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/512/1169-01"
+      ]
+    },
+    {
+      "cite": "813 F.2d 978",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1689702
+      ],
+      "weight": 2,
+      "year": 1987,
+      "pin_cites": [
+        {
+          "page": "979"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/813/0978-01"
+      ]
+    },
+    {
+      "cite": "308 F.3d 411",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        11438896
+      ],
+      "year": 2002,
+      "pin_cites": [
+        {
+          "page": "421",
+          "parenthetical": "\"[P]rosec-utorial comments about the lack of remorse demonstrated by a defendant's demeanor during trial do not violate a defendant's Fifth Amendment right not to testify.\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/308/0411-01"
+      ]
+    },
+    {
+      "cite": "592 F.2d 1202",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        53057
+      ],
+      "weight": 2,
+      "year": 1979,
+      "pin_cites": [
+        {
+          "page": "1209",
+          "parenthetical": "comments that draw attention to a defendant's demeanor do not, without more, implicate the Fifth Amendment"
+        },
+        {
+          "page": "1209"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/592/1202-01"
+      ]
+    },
+    {
+      "cite": "261 Ga. 80",
+      "category": "reporters:state",
+      "reporter": "Ga.",
+      "case_ids": [
+        1229222
+      ],
+      "weight": 4,
+      "year": 1991,
+      "pin_cites": [
+        {
+          "parenthetical": "\"Comments based on courtroom observation of a defendant's demeanor do not infringe on the defendant's Fifth Amendment rights.\""
+        },
+        {
+          "page": "50",
+          "parenthetical": "\"Comments based on courtroom observation of a defendant's demeanor do not infringe on the defendant's Fifth Amendment rights.\""
+        },
+        {
+          "parenthetical": "prosecutor's comment that the defendant \" 'sat right there where he is right now and never moved. Never shed a tear. Never got misty eyed ...' \" was a comment on demeanor rather than silence"
+        },
+        {
+          "page": "49-50",
+          "parenthetical": "prosecutor's comment that the defendant \" 'sat right there where he is right now and never moved. Never shed a tear. Never got misty eyed ...' \" was a comment on demeanor rather than silence"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ga/261/0080-01"
+      ]
+    },
+    {
+      "cite": "922 P.2d 1285",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "weight": 2,
+      "year": 1996,
+      "pin_cites": [
+        {
+          "parenthetical": "Fifth Amendment does not \"prevent! ] the State from introducing pre-arrest evidence of a non-testimonial nature about the accused, such as physical evidence, demeanor, conduct, or the like\""
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "130 Wn.2d 228",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        72832
+      ],
+      "weight": 2,
+      "year": 1996,
+      "pin_cites": [
+        {
+          "page": "241"
+        },
+        {
+          "page": "243",
+          "parenthetical": "Fifth Amendment does not \"prevent! ] the State from introducing pre-arrest evidence of a non-testimonial nature about the accused, such as physical evidence, demeanor, conduct, or the like\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/130/0228-01"
+      ]
+    },
+    {
+      "cite": "47 P.2d 15",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1935,
+      "pin_cites": [
+        {
+          "parenthetical": "\"We can see no difference in pointing at the appellant. . . and in mentioning his name. The gesture may be as eloquent as the spoken word - and as effective.\""
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "182 Wash. 304",
+      "category": "reporters:state",
+      "reporter": "Wash.",
+      "case_ids": [
+        871997
+      ],
+      "year": 1935,
+      "pin_cites": [
+        {
+          "page": "307",
+          "parenthetical": "\"We can see no difference in pointing at the appellant. . . and in mentioning his name. The gesture may be as eloquent as the spoken word - and as effective.\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash/182/0304-01"
+      ]
+    },
+    {
+      "cite": "496 U.S. 582",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12124771
+      ],
+      "weight": 10,
+      "year": 1990,
+      "pin_cites": [
+        {
+          "page": "597",
+          "parenthetical": "footnote omitted"
+        },
+        {
+          "parenthetical": "the \"definition [of 'testimonial'] applies to both verbal and nonverbal conduct\""
+        },
+        {
+          "parenthetical": "the \"definition [of 'testimonial'] applies to both verbal and nonverbal conduct\""
+        },
+        {
+          "parenthetical": "the \"definition [of 'testimonial'] applies to both verbal and nonverbal conduct\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/496/0582-01"
+      ]
+    },
+    {
+      "cite": "487 U.S. 201",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1775233
+      ],
+      "weight": 4,
+      "year": 1988,
+      "pin_cites": [
+        {
+          "page": "210"
+        },
+        {
+          "page": "213"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/487/0201-01"
+      ]
+    },
+    {
+      "cite": "384 U.S. 757",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12047531
+      ],
+      "weight": 4,
+      "year": 1966,
+      "pin_cites": [
+        {
+          "page": "761"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/384/0757-01"
+      ]
+    },
+    {
+      "cite": "774 F.2d 530",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        35733
+      ],
+      "weight": 2,
+      "year": 1985,
+      "pin_cites": [
+        {
+          "page": "537-38",
+          "parenthetical": "oblique references to a defendant's silence cannot be justified by characterizing them as \"demeanor\" evidence"
+        },
+        {
+          "page": "537"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/774/0530-01"
+      ]
+    },
+    {
+      "cite": "159 Ariz. 186",
+      "category": "reporters:state",
+      "reporter": "Ariz.",
+      "case_ids": [
+        1526754
+      ],
+      "weight": 2,
+      "year": 1988,
+      "pin_cites": [
+        {
+          "parenthetical": "\"The subject of the prosecutor's inquiry was defendant's demeanor, not his silence. Such an inquiry is a permissible one.\""
+        },
+        {
+          "page": "70-71",
+          "parenthetical": "\"The subject of the prosecutor's inquiry was defendant's demeanor, not his silence. Such an inquiry is a permissible one.\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ariz/159/0186-01"
+      ]
+    },
+    {
+      "cite": "269 F.3d 1023",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        9472040
+      ],
+      "year": 2001,
+      "pin_cites": [
+        {
+          "page": "1030-31"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/269/1023-01"
+      ]
+    },
+    {
+      "cite": "584 P.2d 442",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1978,
+      "opinion_index": 0
+    },
+    {
+      "cite": "21 Wn. App. 146",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        469240
+      ],
+      "year": 1978,
+      "pin_cites": [
+        {
+          "page": "152"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/21/0146-01"
+      ]
+    },
+    {
+      "cite": "804 P.2d 10",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1991,
+      "pin_cites": [
+        {
+          "parenthetical": "quoting State v. Crawford, 21 Wn. App. 146, 152, 584 P.2d 442 (1978)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "116 Wn.2d 315",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1376222
+      ],
+      "year": 1991,
+      "pin_cites": [
+        {
+          "page": "331",
+          "parenthetical": "quoting State v. Crawford, 21 Wn. App. 146, 152, 584 P.2d 442 (1978)"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/116/0315-01"
+      ]
+    },
+    {
+      "cite": "380 U.S. 609",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1524757
+      ],
+      "weight": 3,
+      "year": 1965,
+      "pin_cites": [
+        {
+          "page": "609-15"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/380/0609-01"
+      ]
+    },
+    {
+      "cite": "957 P.2d 712",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1998,
+      "opinion_index": 0
+    },
+    {
+      "cite": "135 Wn.2d 441",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        812833
+      ],
+      "year": 1998,
+      "pin_cites": [
+        {
+          "page": "472"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/135/0441-01"
+      ]
+    },
+    {
+      "cite": "69 M.J. 438",
+      "category": "reporters:specialty",
+      "reporter": "M.J.",
+      "case_ids": [
+        3970247
+      ],
+      "weight": 2,
+      "year": 2011,
+      "pin_cites": [
+        {
+          "page": "444-45"
+        },
+        {
+          "page": "444-45"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mj/69/0438-01"
+      ]
+    },
+    {
+      "cite": "217 P.3d 756",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2009,
+      "opinion_index": 0
+    },
+    {
+      "cite": "167 Wn.2d 91",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4004888
+      ],
+      "year": 2009,
+      "pin_cites": [
+        {
+          "page": "103"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/167/0091-01"
+      ]
+    },
+    {
+      "cite": "470 P.2d 191",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1970,
+      "opinion_index": 0
+    },
+    {
+      "cite": "78 Wn.2d 121",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1072611
+      ],
+      "year": 1970,
+      "pin_cites": [
+        {
+          "page": "139"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/78/0121-01"
+      ]
+    },
+    {
+      "cite": "559 P.2d 548",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1977,
+      "opinion_index": 0
+    },
+    {
+      "cite": "88 Wn.2d 221",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1111241
+      ],
+      "year": 1977,
+      "pin_cites": [
+        {
+          "page": "237-38"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/88/0221-01"
+      ]
+    },
+    {
+      "cite": "945 P.2d 1120",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1997,
+      "opinion_index": 0
+    },
+    {
+      "cite": "133 Wn.2d 389",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        331094
+      ],
+      "year": 1997,
+      "pin_cites": [
+        {
+          "page": "403"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/133/0389-01"
+      ]
+    },
+    {
+      "cite": "613 P.2d 1139",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1980,
+      "opinion_index": 0
+    },
+    {
+      "cite": "93 Wn.2d 823",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1167805
+      ],
+      "year": 1980,
+      "pin_cites": [
+        {
+          "page": "831"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/93/0823-01"
+      ]
+    },
+    {
+      "cite": "725 P.2d 951",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1986,
+      "pin_cites": [
+        {
+          "parenthetical": "emphasis added"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "106 Wn.2d 772",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1195550
+      ],
+      "year": 1986,
+      "pin_cites": [
+        {
+          "page": "780",
+          "parenthetical": "emphasis added"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/106/0772-01"
+      ]
+    },
+    {
+      "cite": "300 P.3d 400",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2013,
+      "pin_cites": [
+        {
+          "parenthetical": "citing Chapman, 386 U.S. at 24"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "177 Wn.2d 370",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4131233
+      ],
+      "year": 2013,
+      "pin_cites": [
+        {
+          "page": "380",
+          "parenthetical": "citing Chapman, 386 U.S. at 24"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/177/0370-01"
+      ]
+    },
+    {
+      "cite": "395 U.S. 250",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1771609
+      ],
+      "weight": 3,
+      "year": 1969,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/395/0250-01"
+      ]
+    },
+    {
+      "cite": "461 P.2d 322",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1969,
+      "pin_cites": [
+        {
+          "parenthetical": "citing Harrington v. California, 395 U.S. 250, 89 S. Ct. 1726, 23 L. Ed. 2d 284 (1969)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "77 Wn.2d 227",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1076486
+      ],
+      "year": 1969,
+      "pin_cites": [
+        {
+          "page": "233-34",
+          "parenthetical": "citing Harrington v. California, 395 U.S. 250, 89 S. Ct. 1726, 23 L. Ed. 2d 284 (1969)"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/77/0227-01"
+      ]
+    },
+    {
+      "cite": "386 U.S. 18",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6168882
+      ],
+      "weight": 4,
+      "year": 1967,
+      "pin_cites": [
+        {
+          "page": "24",
+          "parenthetical": "emphasis added"
+        },
+        {
+          "parenthetical": "emphasis added"
+        },
+        {
+          "parenthetical": "emphasis added"
+        },
+        {
+          "page": "24"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/386/0018-01"
+      ]
+    },
+    {
+      "cite": "328 P.3d 903",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2014,
+      "opinion_index": 0
+    },
+    {
+      "cite": "180 Wn.2d 1021",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "year": 2014,
+      "opinion_index": 0
+    },
+    {
+      "cite": "317 P.3d 528",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2014,
+      "opinion_index": 0
+    },
+    {
+      "cite": "179 Wn. App. 175",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        4100661
+      ],
+      "year": 2014,
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/179/0175-01"
+      ]
+    },
+    {
+      "cite": "62 Me. L. Rev. 327",
+      "category": "journals:journal",
+      "reporter": "Me. L. Rev.",
+      "year": 2010,
+      "pin_cites": [
+        {
+          "page": "330-31"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "656 P.2d 1064",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1983,
+      "pin_cites": [
+        {
+          "parenthetical": "finding constitutional instructional error where the trial court failed to instruct on the \"beyond a reasonable doubt\" standard"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "98 Wn.2d 484",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1151178
+      ],
+      "year": 1983,
+      "pin_cites": [
+        {
+          "page": "487-88",
+          "parenthetical": "finding constitutional instructional error where the trial court failed to instruct on the \"beyond a reasonable doubt\" standard"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/98/0484-01"
+      ]
+    },
+    {
+      "cite": "711 P.2d 1000",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1985,
+      "opinion_index": 1
+    },
+    {
+      "cite": "105 Wn.2d 1",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1199214
+      ],
+      "year": 1985,
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/105/0001-01"
+      ]
+    },
+    {
+      "cite": "674 P.2d 145",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1983,
+      "pin_cites": [
+        {
+          "parenthetical": "finding constitutional instructional error where the jury instructions omitted an element of the crime"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "100 Wn.2d 607",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1142063
+      ],
+      "year": 1983,
+      "pin_cites": [
+        {
+          "page": "623",
+          "parenthetical": "finding constitutional instructional error where the jury instructions omitted an element of the crime"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/100/0607-01"
+      ]
+    },
+    {
+      "cite": "269 P.3d 207",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2012,
+      "pin_cites": [
+        {
+          "parenthetical": "finding nonconstitutional instructional error where the trial court failed to give a limiting instruction in connection with character evidence"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "173 Wn.2d 405",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4020264
+      ],
+      "year": 2012,
+      "pin_cites": [
+        {
+          "page": "423-24",
+          "parenthetical": "finding nonconstitutional instructional error where the trial court failed to give a limiting instruction in connection with character evidence"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/173/0405-01"
+      ]
+    },
+    {
+      "cite": "230 P.3d 576",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2010,
+      "opinion_index": 1
+    },
+    {
+      "cite": "168 Wn.2d 713",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4007836
+      ],
+      "year": 2010,
+      "pin_cites": [
+        {
+          "page": "724"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/168/0713-01"
+      ]
+    },
+    {
+      "cite": "678 F.2d 1208",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1470759
+      ],
+      "year": 1982,
+      "pin_cites": [
+        {
+          "page": "1209",
+          "parenthetical": "emphasis added"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/f2d/678/1208-01"
+      ]
+    },
+    {
+      "cite": "503 F.3d 755",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        2919467
+      ],
+      "year": 2007,
+      "pin_cites": [
+        {
+          "page": "783",
+          "parenthetical": "Gould, J., concurring/dissenting"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/f3d/503/0755-01"
+      ]
+    },
+    {
+      "cite": "655 F.2d 98",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1262146
+      ],
+      "year": 1981,
+      "pin_cites": [
+        {
+          "page": "100"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/f2d/655/0098-01"
+      ]
+    },
+    {
+      "cite": "748 F.2d 1519",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        638647
+      ],
+      "year": 1984,
+      "pin_cites": [
+        {
+          "page": "1533",
+          "parenthetical": "\"Extrinsic evidence, evidence that has not been subject to the procedural safeguards of a fair trial, threatens such constitutional safeguards as the defendant's right of confrontation, of cross-examination, and of counsel.\" (citing Turner, 379 U.S. at 473)"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/f2d/748/1519-01"
+      ]
+    },
+    {
+      "cite": "78 F.3d 1442",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        93225
+      ],
+      "year": 1996,
+      "pin_cites": [
+        {
+          "page": "1445",
+          "parenthetical": "structural error for the jury to consider unadmitted evidence because it \"undermines one of the most fundamental tenets of our justice system: that a defendant's conviction may be based only on the evidence presented during the trial\""
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/f3d/78/1442-01"
+      ]
+    },
+    {
+      "cite": "146 U.S. 140",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3564613
+      ],
+      "weight": 3,
+      "year": 1892,
+      "pin_cites": [
+        {
+          "page": "149",
+          "parenthetical": "it is vital \"that the jury should pass upon the case free from external causes tending to disturb the exercise of deliberate and unbiassed judgment\""
+        },
+        {
+          "parenthetical": "it is vital \"that the jury should pass upon the case free from external causes tending to disturb the exercise of deliberate and unbiassed judgment\""
+        },
+        {
+          "parenthetical": "it is vital \"that the jury should pass upon the case free from external causes tending to disturb the exercise of deliberate and unbiassed judgment\""
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/146/0140-01"
+      ]
+    },
+    {
+      "cite": "366 U.S. 717",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1285471
+      ],
+      "weight": 3,
+      "year": 1961,
+      "pin_cites": [
+        {
+          "page": "723",
+          "parenthetical": "defendant's right to an impartial jury requires a verdict based solely on the evidence presented at trial"
+        },
+        {
+          "page": "1642",
+          "parenthetical": "defendant's right to an impartial jury requires a verdict based solely on the evidence presented at trial"
+        },
+        {
+          "parenthetical": "defendant's right to an impartial jury requires a verdict based solely on the evidence presented at trial"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/366/0717-01"
+      ]
+    },
+    {
+      "cite": "379 U.S. 466",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11731209
+      ],
+      "weight": 6,
+      "year": 1965,
+      "pin_cites": [
+        {
+          "page": "472-73"
+        },
+        {
+          "page": "472-73"
+        },
+        {
+          "page": "472"
+        },
+        {
+          "page": "473"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/379/0466-01"
+      ]
+    },
+    {
+      "cite": "813 F.2d 978",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1689702
+      ],
+      "weight": 4,
+      "year": 1987,
+      "pin_cites": [
+        {
+          "page": "982"
+        },
+        {
+          "page": "982"
+        },
+        {
+          "page": "982"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/f2d/813/0978-01"
+      ]
+    },
+    {
+      "cite": "261 Ga. 80",
+      "category": "reporters:state",
+      "reporter": "Ga.",
+      "case_ids": [
+        1229222
+      ],
+      "weight": 2,
+      "year": 1991,
+      "pin_cites": [
+        {
+          "parenthetical": "holding that a comment on demeanor during the sentencing phase is permissible because sound policy reason exists to consider remorse evidence during sentencing"
+        },
+        {
+          "page": "49",
+          "parenthetical": "holding that a comment on demeanor during the sentencing phase is permissible because sound policy reason exists to consider remorse evidence during sentencing"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/ga/261/0080-01"
+      ]
+    },
+    {
+      "cite": "774 F.2d 530",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        35733
+      ],
+      "year": 1985,
+      "pin_cites": [
+        {
+          "page": "537-38",
+          "parenthetical": "involving witness testimony that defendant was visibly nervous at the scene of the arrest"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/f2d/774/0530-01"
+      ]
+    },
+    {
+      "cite": "159 Ariz. 186",
+      "category": "reporters:state",
+      "reporter": "Ariz.",
+      "case_ids": [
+        1526754
+      ],
+      "weight": 2,
+      "year": 1988,
+      "pin_cites": [
+        {
+          "parenthetical": "involving an officer's observations of the defendant's demeanor when arrested as opposed to when taken to the station to observe photographs"
+        },
+        {
+          "page": "70-71",
+          "parenthetical": "involving an officer's observations of the defendant's demeanor when arrested as opposed to when taken to the station to observe photographs"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/ariz/159/0186-01"
+      ]
+    },
+    {
+      "cite": "269 F.3d 1023",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        9472040
+      ],
+      "year": 2001,
+      "pin_cites": [
+        {
+          "page": "1030-31",
+          "parenthetical": "involving evidence of the defendant's demeanor at the time of arrest"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/f3d/269/1023-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1976,
+    "char_count": 56868,
+    "ocr_confidence": 0.764,
+    "pagerank": {
+      "raw": 5.061447019797991e-08,
+      "percentile": 0.31891782107759953
+    },
+    "sha256": "7ece9808f67b57135ffdb032f9aa5c5b9e02b4e16518321613b10e49b53a70de",
+    "simhash": "1:8a7b9e6e979e95a1",
+    "word_count": 9039
+  },
+  "last_updated": "2024-02-27T22:09:01.011694+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Madsen, C.J., and Owens, Fairhurst, Gonz\u00e1lez, and Yu, JJ., concur.",
+      "Stephens, J., concurs with Johnson, J."
+    ],
+    "parties": [
+      "The State of Washington, Respondent, v. Robert Eugene Barry, Petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "Wiggins, J.\n\u00b61 Robert Barry appeals his conviction on two counts of child molestation, claiming that the trial court\u2019s instruction in response to a jury question violated his Fifth Amendment and Sixth Amendment rights under the United States Constitution. The jury asked the court whether it may consider \u201cobservations of the defendant\u2019s actions-demeanor during the court case\u201d as \u201cevidence.\u201d In response, the trial court instructed the jury that \u201c[e]vidence includes what you witness in the courtroom.\u201d All parties agree that the record contains no references whatsoever to Barry\u2019s in-court demeanor, so we have no way of determining what aspects of Barry\u2019s \u201cdemeanor\u201d drew the jury\u2019s attention and whether the jury\u2019s observations were favorable or unfavorable to Barry. We hold that the trial court\u2019s instruction did not amount to constitutional error; we instead apply the nonconstitutional error standard and affirm.\n\u00b62 The Fifth Amendment does not extend to the jury\u2019s generic reference to \u201cactions-demeanor,\u201d and the Sixth Amendment does not transform all evidentiary errors into errors of constitutional magnitude. Consequently, no constitutional error occurred. Under the standard for nonconsti-tutional error, the record\u2019s silence on Barry\u2019s demeanor makes it impossible to determine that Barry was prejudiced. For these reasons, we affirm.\nFACTS\n\u00b63 The State charged Barry with two counts of child molestation in the first degree. During its deliberations, the jury sent a written question to the court: \u201cCan we use as \u2018evidence\u2019 for deliberations our observations of the defendant\u2019s actions-demeanor during the court case?\u201d The trial judge summoned counsel for both parties and informed them of the question. Neither the court nor counsel suggested anything that the jury may have observed that could have prompted the question. The record is devoid of any reference to the defendant\u2019s in-court demeanor and conduct.\n\u00b64 After some discussion regarding the proper response to the jury\u2019s question, the court noted that it had read case law stating that evidence includes what is witnessed in the courtroom. Defense counsel initially suggested that \u201cperhaps the best answer is to just simply quote that language: \u2018The evidence includes what they witness in the courtroom.\u2019 \u201d The court rephrased that into \u201c[e]vidence includes what you witness in the courtroom.\u201d Defense counsel then reconsidered, expressing concern that the jury might interpret that answer as inviting the jury to take the defendant\u2019s \u201cactions and demeanor as testimony.\u201d Nonetheless, the trial court ultimately decided to provide its proposed response to the jury. Defense counsel objected on the record. The jury convicted Barry on one of the two counts; it was unable to reach a verdict on the remaining count. Barry appealed.\n\u00b65 The Court of Appeals affirmed. State v. Barry, 179 Wn. App. 175, 317 P.3d 528 (2014). While the Court of Appeals noted that the trial court\u2019s instruction was \u201cimproper in its overbreadth,\u201d id. at 178, it rejected Barry\u2019s constitutional arguments and held that the instruction was a nonconstitutional evidentiary error \u2014 i.e., the trial court let the jury consider something that was not admissible evidence. Id. at 181-82. Under the standard for this type of error, Barry had to show prejudice in order to obtain reversal. Id. The court held that Barry could not show such prejudice because the record contained no references to the defendant\u2019s conduct and behavior during trial. Id. at 182. We granted Barry\u2019s petition for review. 180 Wn.2d 1021, 328 P.3d 903 (2014).\nSTANDARD OF REVIEW\n\u00b66 Our standard of review depends on whether the court\u2019s error was constitutional or nonconstitutional. The Supreme Court held in Chapman v. California that \u201cbefore a federal constitutional error can be held harmless, the court must be able to declare a belief that it was harmless beyond a reasonable doubt.\u201d 386 U.S. 18, 24, 87 S. Ct. 824, 17 L. Ed. 2d 705 (1967) (emphasis added). This stringent standard can be met if there is overwhelming evidence of the defendant\u2019s guilt that is not tainted by the error. State v. Nist, 77 Wn.2d 227, 233-34, 461 P.2d 322 (1969) (citing Harrington v. California, 395 U.S. 250, 89 S. Ct. 1726, 23 L. Ed. 2d 284 (1969)). The State bears the burden of demonstrating harmlessness. State v. Coristine, 177 Wn.2d 370, 380, 300 P.3d 400 (2013) (citing Chapman, 386 U.S. at 24).\n\u00b67 \u201cWhere the error is not of constitutional magnitude, we apply the rule that \u2018error is not prejudicial unless, within reasonable probabilities, had the error not occurred, the outcome of the trial would have been materially affected.\u2019 \u201d State v. Smith, 106 Wn.2d 772, 780, 725 P.2d 951 (1986) (emphasis added) (quoting State v. Cunningham, 93 Wn.2d 823, 831, 613 P.2d 1139 (1980)). Under this nonconstitutional harmless error standard, \u201can accused cannot avail himself of error as a ground for reversal unless it has been prejudicial.\u201d Cunningham, 93 Wn.2d at 831. In assessing whether the error was harmless, we must measure the admissible evidence of the defendant\u2019s guilt against the prejudice, if any, caused by the inadmissible evidence. State v. Bourgeois, 133 Wn.2d 389, 403, 945 P.2d 1120 (1997).\n\u00b68 Barry argues, relying on State v. Wanrow, 88 Wn.2d 221, 237-38, 559 P.2d 548 (1977), that all \u201cinstructional errors\u201d are presumed prejudicial and subject to an intermediate standard of review. This is incorrect. We presume prejudice only when the erroneous instruction was \u201c \u2018given on behalf of the party in whose favor the verdict was returned.\u2019 \u201d Id. at 237 (quoting State v. Golladay, 78 Wn.2d 121, 139, 470 P.2d 191 (1970)). This requirement has been an essential component of this presumption from its inception. We noted in State v. O\u2019Hara that \u201cunder Wanrow, situations could exist where a defendant or the trial court propose an erroneous jury instruction and the instruction is not presumptively prejudicial.\u201d 167 Wn.2d 91, 103, 217 P.3d 756 (2009). Barry presents precisely this situation. It was defense counsel that first suggested, during a back-and-forth discussion among defense counsel and the court, that the court instruct the jury that \u201cevidence includes what you witness in the courtroom.\u201d The State agreed that the instruction was proper, but neither party proposed it nor advocated for the language that the court ultimately chose. The instruction thus was not given on the State\u2019s behalf, and we therefore do not presume prejudice.\nANALYSIS\n\u00b69 We reject Barry\u2019s constitutional arguments and apply the nonconstitutional harmless error standard. Under that standard, the record\u2019s silence regarding Barry\u2019s in-court demeanor is fatal to his appeal.\n\u00b610 As noted above, the parties agree that the record lacks any evidence of the defendant\u2019s demeanor. Thus, neither party can \u201cprove\u201d one way or another whether the error was prejudicial. The burden, then, is the decisive issue, and that depends on whether the error was noncon-stitutional (burden on defendant to show prejudice) or constitutional (burden on prosecution to show harmlessness).\n\u00b611 The State has conceded that the trial court\u2019s instruction was erroneous. We accept this concession for the purposes of this opinion and therefore do not reach whether a jury can ever consider a nontestifying defendant\u2019s demeanor or whether evidence may, in some circumstances, include other juror observations made during the course of a trial.\nI. Fifth Amendment\n\u00b612 The trial court\u2019s instruction did not violate the Fifth Amendment\u2019s proscription against self-incrimination. Courts have almost unanimously held that the Fifth Amendment does not protect evidence of a defendant\u2019s actions or demeanor (hereinafter demeanor evidence), a conclusion consistent with Fifth Amendment jurisprudence and the plain meaning of \u201cdemeanor.\u201d Courts have determined that consideration of demeanor evidence is constitutionally barred only if the demeanor is testimonial, or if it is merely the demeanor accompanying a defendant\u2019s silence or failure to testify. See United States v. Clark, 69 M.J. 438, 444-45 (C.A.A.F. 2011). There is no indication in the record that the question regarding Barry\u2019s courtroom demeanor was an oblique reference to testimonial conduct or Barry\u2019s failure to testify. Consequently, the trial court\u2019s response to the jury\u2019s inquiry did not violate Barry\u2019s Fifth Amendment rights.\nA. \u201cDemeanor\u201d is not equivalent to \u201csilence\u201d\n\u00b613 We reject Barry\u2019s principal Fifth Amendment argument \u2014 that the court\u2019s response to the jury\u2019s question implicated the defendant\u2019s right to remain silent. In its general instructions, the trial court instructed the jury that \u201cthe fact that the defendant has not testified cannot be used to infer guilt or prejudice against him in any way,\u201d and that its instructions were to be taken as a whole. A jury is presumed to follow the court\u2019s instructions, State v. Foster, 135 Wn.2d 441, 472, 957 P.2d 712 (1998), and the record presents no indication that the jury failed to heed the court\u2019s instruction regarding the defendant\u2019s failure to testify in this case.\n\u00b614 Barry argues, however, that because the court\u2019s instruction in response to the jury\u2019s question invited the jury to consider the defendant\u2019s demeanor, that instruction conflicted with its earlier instruction regarding the defendant\u2019s choice not to testify. But the trial court\u2019s instructions conflict only if we view a generic reference to the defendant\u2019s demeanor as equivalent to (or a proxy for) a comment on the defendant\u2019s failure to testify. The relevant case law and the plain meaning of \u201cdemeanor\u201d do not support such a conclusion \u2014 a bare reference to \u201cdemeanor,\u201d without more, is not tantamount to impermissible commentary on a defendant\u2019s failure to testify.\n\u00b615 Griffin v. California established that the Fifth Amendment bars the prosecution from commenting on a defendant\u2019s failure to testify and forbids the court from instructing the jury that such silence is evidence of guilt. 380 U.S. 609, 609-15, 85 S. Ct. 1229, 14 L. Ed. 2d 106 (1965). While we have never adopted a specific rule governing when a trial court\u2019s instruction runs afoul of Griffin, we have examined the issue in the context of prosecutorial comments on a defendant\u2019s silence. Courts consider two factors when assessing whether a prosecutorial comment impermissibly comments on the defendant\u2019s silence: (1) \u201cwhether the prosecutor manifestly intended the remarks to be a comment on\u201d the defendant\u2019s exercise of his right not to testify and (2) whether the jury would \u201c \u2018 \u201cnaturally and necessarily\u201d \u2019 \u201d interpret the statement as a comment on the defendant\u2019s silence. State v. Crane, 116 Wn.2d 315, 331, 804 P.2d 10 (1991) (quoting State v. Crawford, 21 Wn. App. 146, 152, 584 P.2d 442 (1978)).\n\u00b616 The trial court\u2019s instruction in this case meets neither prong of this test. The instruction plainly does not implicate the first part of the test: the prosecution never commented on the defendant\u2019s in-court conduct and the trial court clearly did not intend for its instruction to be a comment on the defendant\u2019s silence. Consequently, this case involves no \u201cmanifest intent\u201d to consider the defendant\u2019s failure to testify.\n\u00b617 Likewise, the plain meaning of \u201cdemeanor\u201d and case law examining demeanor evidence suggest that a generic reference to demeanor cannot be construed as naturally and necessarily referring to the defendant\u2019s failure to testify. The plain meaning of \u201cdemeanor\u201d encompasses behavior extending well beyond mere silence or nonrespon-siveness. Webster\u2019s defines \u201cdemeanor\u201d as \u201cbehavior toward others : outward manner : conduct[]\u201d or, alternatively, \u201cbearing, mien : facial appearance.\u201d Webster\u2019s Third New International Dictionary 599 (2002). The American Heritage Dictionary provides a similar definition \u2014 \u201c[t]he way in which a person behaves; deportment\u201d \u2014 and directs readers to the entry for \u201cbearing\u201d for a list of synonyms. The American Heritage Dictionary of the English Language 496 (3d ed. 1994). Other suggested synonyms include \u201cbehavior,\u201d Roget\u2019s II The New Thesaurus 299 (expanded ed. 1997), as well as \u201cmanner\u201d and \u201ccomportment.\u201d The Random House Dictionary of the English Language 529 (2d ed. 1987). While one may argue whether the above definitions encompass testimonial communications \u2014 an issue discussed below \u2014 they clearly demonstrate that demeanor is far more than a mere proxy for silence.\n\u00b618 Courts examining the relationship between demeanor and a defendant\u2019s right to silence have reached the same conclusion. In United States v. Velarde-Gomez, the Ninth Circuit recognized that commenting on \u201cdemeanor\u201d is distinct from commenting on \u201csilence,\u201d with only the former being permissible under the Fifth Amendment. 269 F.3d 1023, 1030-31 (9th Cir. 2001); see also State v. Mauro, 159 Ariz. 186, 766 P.2d 59, 70-71 (1988) (\u201cThe subject of the prosecutor\u2019s inquiry was defendant\u2019s demeanor, not his silence. Such an inquiry is a permissible one.\u201d); United States v. Elkins, 774 F.2d 530, 537-38 (1st Cir. 1985) (oblique references to a defendant\u2019s silence cannot be justified by characterizing them as \u201cdemeanor\u201d evidence). In cases where a statement does not explicitly refer to the defendant\u2019s silence, the court must examine \u201cthe nature of the statement and the context in which it was offered ... to determine the presence of error.\u201d Elkins, 774 F.2d at 537.\n\u00b619 Here, there is no indication that when the jury asked the court if it could consider the defendant\u2019s \u201cdemeanor,\u201d it really was thinking about the defendant\u2019s silence or choice not to testify. Moreover, the connection of \u201cdemeanor\u201d with \u201cactions\u201d in the jury\u2019s question strongly suggests that the jury was thinking of something more affirmative than mere silence. The trial court\u2019s instruction does not naturally and necessarily refer to the defendant\u2019s silence.\n\u00b620 The trial court\u2019s instruction does not meet either prong of the Crane test. We therefore reject Barry\u2019s attempt to read the court\u2019s answer as an instruction to the jury that it may consider the defendant\u2019s silence as evidence.\nB. The jury question\u2019s generic reference to \u201cdemeanor\u201d does not implicate \u201ctestimonial\u201d conduct\n\u00b621 We also hold that demeanor is not inherently testimonial and that a generic reference to the defendant\u2019s \u201cactions-demeanor\u201d therefore does not implicate the Fifth Amendment. Fifth Amendment jurisprudence requires courts to examine whether the challenged words or conduct are \u201cof a testimonial or communicative nature.\u201d Schmerber v. California, 384 U.S. 757, 761, 86 S. Ct. 1826, 16 L. Ed. 2d 908 (1966). The Supreme Court holds that \u201cin order to be testimonial, an accused\u2019s communication must itself, explicitly or implicitly, relate a factual assertion or disclose information.\u201d Doe v. United States, 487 U.S. 201, 210, 108 S. Ct. 2341, 101 L. Ed. 2d 184 (1988). The Fifth Amendment applies to nonverbal conduct if the conduct \u201ccontains a testimonial component\u201d by \u201creflect [ing] the actor\u2019s communication of his thoughts to another.\u201d Pennsylvania v. Muniz, 496 U.S. 582, 595 n.9, 110 S. Ct. 2638, 110 L. Ed. 2d 528 (1990). In this sense, \u201c \u2018[a] nod or head-shake is as much a \u201ctestimonial\u201d or \u201ccommunicative\u201d act ... as are spoken words.\u2019 \u201d Id. (quoting Schmerber, 384 U.S. at 761 n.5); see also State v. Paschall, 182 Wash. 304, 307, 47 P.2d 15 (1935) (\u201cWe can see no difference in pointing at the appellant. . . and in mentioning his name. The gesture may be as eloquent as the spoken word \u2014 and as effective.\u201d).\n\u00b622 We have previously held that demeanor is not inherently testimonial. In State v. Easter, 130 Wn.2d 228, 241, 922 P.2d 1285 (1996), a defendant raised a Fifth Amendment challenge to a police officer\u2019s testimony that the defendant \u201cdid not answer and looked away without speaking\u201d in response to police questioning. We held that this testimony violated Easter\u2019s right to silence but also stated that \u201c[n]othing in our conclusion ... prevents the State from introducing pre-arrest evidence of a non-testimonial nature about the accused, such as physical evidence, demeanor, conduct, or the like.\u201d Id. at 243. This accords with the holdings of other courts examining demeanor evidence under the Fifth Amendment. See, e.g., Christenson v. State, 261 Ga. 80, 402 S.E.2d 41, 50 (1991) (\u201cComments based on courtroom observation of a defendant\u2019s demeanor do not infringe on the defendant\u2019s Fifth Amendment rights.\u201d); Borodine v. Douzanis, 592 F.2d 1202, 1209 (1st Cir. 1979) (comments that draw attention to a defendant\u2019s demeanor do not, without more, implicate the Fifth Amendment); Bates v. Lee, 308 F.3d 411, 421 (4th Cir. 2002) (\u201c[P]rosec-utorial comments about the lack of remorse demonstrated by a defendant\u2019s demeanor during trial do not violate a defendant\u2019s Fifth Amendment right not to testify.\u201d). On the other hand, demeanor can be testimonial when the demeanor contains a communicative element, as in the case of nods and headshakes. Muniz, 496 U.S. at 595 n.9; Clark, 69 M.J. at 444-45.\n\u00b623 The rule that emerges from these cases is that while demeanor evidence is not inherently testimonial, certain nonverbal conduct that forms part of a defendant\u2019s demeanor might be testimonial. \u201c[N]onverbal conduct contains a testimonial component whenever the conduct reflects the actor\u2019s communication of his thoughts to another.\u201d Muniz, 496 U.S. at 595 n.9. If an accused is compelled \u201cto communicate an express or implied assertion of fact or belief, the suspect confronts the \u2018trilemma\u2019 of truth, falsity, or silence, and hence the response ... contains a testimonial component.\u201d Id. at 597 (footnote omitted).\n\u00b624 Applying that definition to the facts of this case, we hold that the jury\u2019s question referencing the defendant\u2019s \u201cactions-demeanor\u201d does not implicate testimonial conduct. Ordinarily, a person\u2019s posture, a person\u2019s body language, and other aspects of his outward manner do not require that person to confront the Muniz trilemma of truth, falsity, or silence. And while facial expressions and body language might reveal someone\u2019s \u201cstate of mind\u201d in the most general sense, they do not communicate specific \u201cfactual assertions\u201d or \u201cthoughts.\u201d See, e.g., id.; Doe, 487 U.S. at 213.\n\u00b625 For these reasons, the generic \u201cactions-demeanor\u201d mentioned in the jury\u2019s question are not testimonial. Likewise, for the reasons stated in the preceding section, the bare reference to \u201cactions-demeanor\u201d did not constitute improper commentary on the defendant\u2019s silence. Consequently, the reference to demeanor does not implicate the Fifth Amendment.\n\u00b626 Justice Johnson\u2019s dissent accuses us of \u201cstray-ting] from controlling precedent,\u201d relying most heavily on United States v. Schuler, 813 F.2d 978 (9th Cir. 1987). Dissent at 320, 321-23. While we consider federal appellate cases for their persuasive effect, only decisions of the United States Supreme Court are controlling on this court. In any event, Schuler, like the other cases on which the dissent relies, is quite different from the case before us. Most significantly, Schuler\u2019s conclusion that the prosecutor\u2019s comment violated the Fifth Amendment was rooted in that amendment\u2019s due process clause, not its privilege against self-incrimination. The Fifth Amendment\u2019s due process clause has no application to the states. E.g., Bingue v. Prunchak, 512 F.3d 1169, 1174 (9th Cir. 2008). Thus, Schuler\u2019s holding has no bearing on Barry\u2019s Fifth Amendment argument.\n\u00b627 Moreover, the prosecutor in Schuler commented in closing argument on the defendant\u2019s demeanor and specifically invited the jury to draw a negative inference from that demeanor. 813 F.2d at 979. No one in this case commented on the defendant\u2019s demeanor during the trial. Even when the jury submitted its question, no one in the courtroom offered any suggestion as to what the jury might have observed about the defendant\u2019s demeanor, either positively or negatively. Schuler thus offers us no guidance on how to assess the jury question at issue in this case.\n\u00b628 For these reasons, we reject Barry\u2019s Fifth Amendment argument.\nII. Sixth Amendment\n\u00b629 We reject Barry\u2019s Sixth Amendment argument as well. Barry asserts that the trial court\u2019s response to the jury question violated his Sixth Amendment right to a verdict that rests \u201csolely on the basis of the evidence introduced at trial.\u201d Barry never specifies, however, the clause of the Sixth Amendment that includes the right he asserts, and no portion of the Sixth Amendment\u2019s text suggests such a right. We generally consider a constitutional argument inadequate if the argument\u2019s proponent cites only to general constitutional ideas without specific citations and support. RAP 10.3(a)(6); see also In re Recall of Washam, 171 Wn.2d 503, 515 n.5, 257 P.3d 513 (2011) (\u201c[T]he charges were not concise. As [Washam] devotes no substantial argument to the claim, we do not reach it.\u201d). Moreover, adopting the rule Barry asserts would run counter to our long-standing rule that evidentiary errors are not presumptively reversible or prejudicial. See, e.g., State v. White, 72 Wn.2d 524, 531, 433 P.2d 682 (1967).\n\u00b630 The Sixth Amendment provides:\nIn all criminal prosecutions, the accused shall enjoy the right to a speedy and public trial, by an impartial jury of the State and district wherein the crime shall have been committed, which district shall have been previously ascertained by law, and to be informed of the nature and cause of the accusation; to be confronted with the witnesses against him; to have compulsory process for obtaining witnesses in his favor, and to have the assistance of counsel for his defence.\nThe right to a verdict based solely on evidence presented at trial cannot readily be inferred from the right to a speedy trial, a public trial, an impartial jury, a jury of peers, notice of charges, confrontation of witnesses, compulsory process, or assistance of counsel. Thus, the plain language of the Sixth Amendment does not suggest the existence of a constitutional right to an evidence-based verdict.\n\u00b631 Nor does the case law cited by Barry clarify his constitutional source. Barry cites Taylor v. Kentucky, 436 U.S. 478, 485, 98 S. Ct. 1930, 56 L. Ed. 2d 468 (1978), as holding that defendants have a right to a verdict based \u201csolely on the basis of the evidence introduced at trial.\u201d But Taylor never once mentions the Sixth Amendment. Moreover, the context in which the quoted language from Taylor appears suggests a far narrower principle: \u201cThis Court has declared that one accused of a crime is entitled to have his guilt or innocence determined solely on the basis of the evidence introduced at trial, and not on grounds of official suspicion, indictment, continued custody, or other circumstances not adduced as proof at trial.\u201d Id. (emphasis added).\n\u00b632 This context is vital. Taylor dealt with a trial court\u2019s failure to instruct the jury on the presumption of innocence in a case where the prosecutor noted in his opening statement that the accused had already been arrested and indicted by a grand jury and \u201clinked [the accused] to every defendant who turned out to be guilty and was sentenced to imprisonment\u201d in his closing argument. Id. at 486-88. The Taylor Court\u2019s concern was not that a defendant would be judged based on inadmissible evidence but rather based on inherently prejudicial circumstances that can never be evidence at all, such as \u201cofficial suspicion, indictment, [or] continued custody.\u201d Id. at 485. The prosecution brought several such circumstances to the jury\u2019s attention in Taylor. That, combined with the trial court\u2019s \u201cskeletal\u201d instructions, created a danger \u201cthat the jury would convict petitioner on the basis of those extraneous considerations, rather than the evidence introduced at trial.\u201d Id. at 487-88.\n\u00b633 The Supreme Court cautioned against efforts to read Taylor broadly in Kentucky v. Whorton, which clarified that Taylor \u201cwas expressly limited to the facts.\u201d 441 U.S. 786, 789, 99 S. Ct. 2088, 60 L. Ed. 2d 640 (1979) (citing Taylor, 436 U.S. at 490). No subsequent Supreme Court decision or any decision from this court reads Taylor as establishing the broad rule that Barry asserts. As the Fifth Circuit Court of Appeals held, \u201cTaylor and Williams do not transform any reference to matters not in evidence into a Fifth Amendment violation.\u201d United States v. Mendoza, 522 F.3d 482, 493 (5th Cir. 2008) (citing Estelle v. Williams, 425 U.S. 501, 96 S. Ct. 1691, 48 L. Ed. 2d 126 (1976)).\n\u00b634 Justice Johnson\u2019s dissent takes up Barry\u2019s argument that the Fifth and Sixth Amendments guarantee that any verdict must be based on evidence presented at trial. Dissent at 323. The dissent relies on cases in which the jury learned unadmitted information outside of the courtroom. Turner v. Louisiana, 379 U.S. 466, 467-69, 85 S. Ct. 546, 13 L. Ed. 2d 424 (1965) (jurors were sequestered by and in the company of sheriff\u2019s deputies; \u201c[t]he deputies ate with them, conversed with them, and did errands for them\u201d; two of the deputies were critical witnesses during the trial); Irvin v. Dowd, 366 U.S. 717, 719-20, 81 S. Ct. 1639, 6 L. Ed. 2d 751 (1961) (jurors were aware of and influenced by extensive pretrial publicity adverse to the defendant); Mattox v. United States, 146 U.S. 140, 142-43, 13 S. Ct. 50, 36 L. Ed. 917 (1892) (bailiff told the jurors that defendant was guilty of several murders and gave jurors a newspaper article discussing the case); United States v. Noushfar, 78 F.3d 1442, 1444-45 (9th Cir. 1996) (surveillance tapes that never had been played in court were sent into the jury room when the jurors retired to deliberate); United States v. Perkins, 748 F.2d 1519, 1531-32 (11th Cir. 1984) (juror concealed his knowledge about the defendant during voir dire and disputed some of the defense evidence during deliberations). The dissent\u2019s reliance on these cases is misplaced. From a factual standpoint, all of the cases addressed information that jurors learned outside of the courtroom, not their observations inside the courtroom.\n\u00b635 More importantly, however, none of the three Supreme Court cases \u2014 nor any prior or subsequent opinion from the Supreme Court or this court \u2014 stand for the sweeping proposition that a Sixth Amendment violation occurs whenever a judge permits the jury to consider inadmissible subject matter. Adopting the rule Barry and the dissents urge would hold trial courts to an impossibly high standard, requiring us to apply the strict constitutional harmlessness test to every trial in which a trial court permitted the jury to consider hearsay, improper character evidence, irrelevant materials, or any other form of inadmissible subject matter. Such a rule would effectively nullify our long-standing standard of review for evidentiary errors and hold our trial courts to an impossible-to-satisfy standard of evidentiary perfection. We expressed this concern in White, the case in which we announced the first iteration of the nonconstitutional error standard for criminal cases:\n[N]ot all hearsay evidence ... is grounds for reversal, even though admitted in error, for the concept of harmless error remains with the courts. A judicial system which treats every error as a basis for reversal simply could not function because, although the courts can assure a fair trial, they cannot guarantee a perfect one. Thus, error without prejudice is not reversible. Expressed differently, error which does not substantially affect the merits of the controversy likewise is not grounds for reversal.\n72 Wn.2d at 530-31 (citation omitted).\n\u00b636 It is, of course, axiomatic that a jury\u2019s verdict must be based on evidence presented at trial, 11 Washington Practice: Washington Pattern Jury Instructions: Criminal 1.01 (3d ed. 2008), which the trial court both read aloud and provided to the jury in writing, explicitly says as much. But we will not presume constitutional error simply because the jury may have considered subject matter that, while not evidence, was evident and obvious to them in the courtroom. For these reasons, we reject Barry\u2019s Sixth Amendment argument.\nIII. Application of the Nonconstitutional Harmless Error Standard\n\u00b637 Having concluded that the trial court\u2019s instruction violated neither the Fifth nor the Sixth Amendment, we apply the nonconstitutional harmless error standard to the conceded error of permitting the jury to consider Barry\u2019s demeanor as evidence. The party presenting an issue for review has the burden of providing an adequate record to establish error. State v. Andy, 182 Wn.2d 294, 299-301, 340 P.3d 840 (2014) (citing State v. Koss, 181 Wn.2d 493, 503, 334 P.3d 1042 (2014); State v. Slert, 181 Wn.2d 598, 608, 334 P.3d 1088 (2014) (plurality opinion); State v. Njonge, 181 Wn.2d 546, 556, 334 P.3d 1068, cert. denied, 135 S. Ct. 880 (2014)). It is therefore incumbent on Barry to demonstrate that \u201c \u2018within reasonable probabilities ... the outcome of the trial would have been materially affected\u2019 \u201d had the error not occurred. Smith, 106 Wn.2d at 780 (quoting Cunningham, 93 Wn.2d at 831).\n\u00b638 The parties agree that nothing in this record reveals Barry\u2019s demeanor at trial. ER 103(a)(1) states that in the case of a ruling that erroneously admits evidence, the party assigning error must not only object in a timely manner but also must \u201cstat[e] the specific ground of objection, if the specific ground was not apparent from the context.\u201d Here, while Barry generally objected to the trial court\u2019s instruction, his counsel failed to make any record suggesting how the court\u2019s instruction could have undermined or weakened Barry\u2019s case. Counsel could have attempted to make a record of Barry\u2019s demeanor by asking the court to note for the record any unusual or potentially prejudicial behavior. Such a record could have been made either contemporaneously at the time Barry displayed a potentially prejudicial demeanor or after the jury\u2019s question regarding Barry\u2019s demeanor. Without such a record, any argument about prejudice is completely speculative.\n\u00b639 The record\u2019s silence regarding the defendant\u2019s in-court demeanor is doubly fatal to Barry\u2019s challenge under the nonconstitutional harmless error standard: it is impossible to know whether the demeanor \u201cmaterially affected\u201d the verdict at all, and, even if it did, it is impossible to determine whether that effect was favorable or unfavorable to Barry. The nonconstitutional standard does not presume prejudice, nor have we ever suggested that a reviewing court applying the standard may speculate as to potential prejudice. Because error without prejudice is not reversible, White, 72 Wn.2d at 531, we affirm.\nCONCLUSION\n\u00b640 We hold that the trial court\u2019s instruction did not violate the Fifth Amendment or Sixth Amendment. We apply the nonconstitutional harmless error standard and affirm.\nMadsen, C.J., and Owens, Fairhurst, Gonz\u00e1lez, and Yu, JJ., concur.\nMost likely, the trial court was referring to the North Carolina case State v. Brown, 320 N.C. 179, 358 S.E.2d 1, 15 (1987). The trial court stated that it had examined a case involving \u201ca prosecutor\u2019s argument that called attention to a defendant\u2019s stoic appearance, suggesting that the defendant neither felt, nor indicated contrition for his or her act.\u201d The quoted language appears almost word for word in Brown. See id. at 14. The Brown court also announced a rule closely tracking the trial court\u2019s eventual response to the jury\u2019s question in this case. See id. at 15 (\u201c[E]vidence is not only what [jurors] hear on the stand but what they witness in the courtroom.\u201d).\nAs explained below, we accept for the purposes of this opinion the State\u2019s concession that the court\u2019s instruction was erroneous.\nThe provenance of this rule can be traced as follows: Wanrow quoted from Golladay, 78 Wn.2d at 139, which, in turn, quoted State v. Britton, 27 Wn.2d 336, 341, 178 P.2d 341 (1947), which quoted 3 Am. Jur. Appeal and Error \u00a7 949, at 511 (1936), which cited to an American Law Reports annotation covering the Missouri civil case Larsen v. Webb, 332 Mo. 370, 58 S.W.2d 967, 971 (1932). Larsen cited to Moloney v. Boatmen\u2019s Bank, 288 Mo. 435, 232 S.W. 133, 140 (1921), which appears to be the original source of the rule. Moloney states, \u201cWhen an erroneous instruction is given and the trial results in favor of the party at whose instance it was given, the presumption is that the error was prejudicial.\u201d Id. In Moloney and all of the other above-cited iterations of this rule, the presumption of prejudice attaches only if an erroneous instruction was given at the behest or on behalf of the prevailing party.\nWe note, however, that a prosecutor who comments on the defendant\u2019s demeanor is \u201cstrolling in a minefield\u201d strewn with both constitutional and evidentiary hazards. Borodine v. Douzanis, 592 F.2d 1202, 1209 (1st Cir. 1979). The same holds true for courts that make rulings or issue instructions inviting the jury to consider a nontestifying defendant\u2019s demeanor. Rather than testing the limits of our holding in this case, both parties and courts would be well advised to avoid drawing the jury\u2019s attention to subject matter outside the scope of admitted exhibits and the testimony of witnesses.\n\u201cNo person shall be ... compelled in any criminal case to be a witness against himself. . . .\u201d U.S. Const, amend. V.\nFor our purposes, there is no practical distinction between \u201cactions\u201d and \u201cdemeanor\u201d because the Fifth Amendment inquiry is the same regardless of the terminology used \u2014 i.e., a defendant\u2019s conduct is subject to the Fifth Amendment if that conduct is \u201ctestimonial.\u201d See, e.g., State v. Easter, 130 Wn.2d 228, 243, 922 P.2d 1285 (1996) (Fifth Amendment does not \u201cprevent! ] the State from introducing pre-arrest evidence of a non-testimonial nature about the accused, such as physical evidence, demeanor, conduct, or the like\u201d); Pennsylvania v. Muniz, 496 U.S. 582, 595 n.9, 110 S. Ct. 2638, 110 L. Ed. 2d 528 (1990) (the \u201cdefinition [of \u2018testimonial\u2019] applies to both verbal and nonverbal conduct\u201d). Because there is no practical difference between \u201cdemeanor\u201d and \u201cactions\u201d for Fifth Amendment purposes, and because the parties\u2019 briefs focus on the term \u201cdemeanor,\u201d we use \u201cdemeanor\u201d as shorthand for both terms.\nOur courts have stated this test as conjunctive, requiring both a showing of \u201cmanifest intent\u201d by the prosecutor and a showing that the statement would \u201cnaturally and necessarily\u201d be taken as a comment on silence. See State v. Burke, 163 Wn.2d 204, 216, 181 P.3d 1 (2008) (quoting Crane, 116 Wn.2d at 331). Other courts uniformly utilize a disjunctive test, however, requiring a showing of only one element or the other. See, e.g., United States v. Robinson, 651 F.2d 1188, 1197 (6th Cir. 1981) (citing United States v. Rochan, 563 F.2d 1246, 1249 (5th Cir. 1977)); Brown v. United States, 370 F.2d 874, 876 (9th Cir. 1966). The cases that first established this test support a disjunctive reading. See Morrison v. United States, 6 F.2d 809, 811 (8th Cir. 1925); Knowles v. United States, 224 F.2d 168, 170 (10th Cir. 1955). In this case, we need not reach whether the test is conjunctive or disjunctive because, for the reasons stated below, the trial court\u2019s instruction satisfies neither part of the test.\nThe small capital letters in the Webster's quotations indicate cross-references to synonymous words. Webster\u2019s, supra, at 18a (note 16.2).\nAdmittedly, the line between commenting on \u201cdemeanor\u201d and commenting on \u201csilence\u201d can become blurred when speechlessness is a key aspect of the demeanor being described. See Cunningham v. Perini, 655 F.2d 98, 100 (6th Cir. 1981) (no Fifth Amendment violation when the prosecutor rhetorically asked the jury, \u201c Was there any indignation manifested here or did he just sit there and stare?\u2019 \u201d while, watching a witness testify); Christenson v. State, 261 Ga. 80, 402 S.E.2d 41, 49-50 (1991) (prosecutor\u2019s comment that the defendant \u201c \u2018sat right there where he is right now and never moved. Never shed a tear. Never got misty eyed ...\u2019 \u201d was a comment on demeanor rather than silence). Regardless, the jury question that we are tasked with examining in this case cannot plausibly be read as a reference to the defendant\u2019s failure to testify.\nThe Fourteenth Amendment\u2019s almost identically worded due process clause does apply to the states. E.g., Betts v. Brady, 316 U.S. 455, 462, 62 S. Ct. 1252, 86 L. Ed. 1595 (1942), overruled on other grounds by Gideon v. Wainwright, 372 U.S. 335, 83 S. Ct. 792, 9 L. Ed. 2d 799 (1963). We decline to decide this case on due process grounds, however, because Barry did not raise due process in his Court of Appeals brief and provided no due process analysis in his filings with this court. See infra note 12.\nThe dissent speculates that the jury\u2019s question was somehow connected to the superior court\u2019s pretrial admonition to the defendant and members of his family that they refrain from displays of emotion during the trial. Dissent (Johnson, J.) at 322. The connection between this admonition and the jury\u2019s question is pure conjecture.\nSignificantly, Barry has not asserted that the instruction violated his right to due process under the Fourteenth Amendment to the United States Constitution. Indeed, the terms \u201cdue process\u201d and \u201cFourteenth Amendment\u201d appear nowhere in Barry\u2019s Court of Appeals brief. His petition for review makes three passing references to \u201cdue process,\u201d but even there, he never mentions the Fourteenth Amendment and he never cites authority stating that due process includes a right to a verdict based solely on evidence. Nor does Barry offer any analysis whatsoever of due process jurisprudence. To demonstrate a due process violation outside the specific guarantees enumerated in the federal Bill of Rights, one must show that the claimed error violated principles of fundamental fairness. Dowling v. United States, 493 U.S. 342, 110 S. Ct. 668, 107 L. Ed. 2d 708 (1990). Such principles are recognized only if they are \u201c \u2018fundamental conceptions of justice which lie at the base of our civil and political institutions, and which define the community\u2019s sense of fair play and decency.\u2019 \u201d Id. at 353 (citations and internal quotation marks omitted) (quoting United States v. Lovasco, 431 U.S. 783, 790, 97 S. Ct. 2044, 52 L. Ed. 2d 752 (1977)); see also State v. Irby, 170 Wn.2d 874, 881, 246 P.3d 796 (2011) (under the Fourteenth Amendment, the defendant\u2019s presence during proceedings is a condition of due process only \u201c \u2018to the extent that a fair and just hearing would be thwarted by his absence\u2019 \u201d (quoting Snyder v. Massachusetts, 291 U.S. 97, 107-08, 54 S. Ct. 330, 78 L. Ed. 674 (1934), overruled in part on other grounds sub nom. Malloy v. Hogan, 378 U.S. 1, 84 S. Ct. 1489, 12 L. Ed. 2d 653 (1964))). Here, the parties\u2019 briefing supplies us with no analysis of any of these due process principles with respect to a jury\u2019s inside-the-courtroom observations. In the absence of briefing and argument by the parties, we decline to wade into these constitutional waters and decide this case on due process grounds.\nMoreover, the Supreme Court has held that the confrontation clause applies only to testimonial hearsay. Davis v. Washington, 547 U.S. 813, 823-24, 126 S. Ct. 2266, 165 L. Ed. 2d 224 (2006). For the reasons stated above, demeanor is not inherently testimonial. Thus, the jury\u2019s generic question does not implicate the confrontation clause.\nThe citation to Fields u. Brown is particularly inapt because the dissent relies on Judge Gould\u2019s concurrence/dissent in Fields rather than the majority opinion. Dissent at 323 (citing Fields v. Brown, 503 F.3d 755, 783 (9th Cir. 2007) (Gould, J., concurring in part and dissenting in part)). Fields is an en banc decision in which the majority expressly distinguished Turner, 379 U.S. 466, concluding (as we do) that Turner is factually inapposite. Fields, 503 F.3d at 780.\nTo the extent that either of the dissenting opinions suggests that this right can be inferred from the Fourteenth Amendment\u2019s due process clause rather than from the Sixth Amendment, we decline to decide this case on due process grounds for the reasons stated in note 12, supra.\nThe trial court\u2019s jury instruction 1 states, in relevant part, \u201cYour decisions as jurors must be made solely upon the evidence presented during these proceedings. The evidence that you are to consider during your deliberations consists of the testimony that you have heard from witnesses and the exhibits that I have admitted during the trial. . . .\u201d\nIn objecting to the trial court\u2019s instruction, Barry\u2019s counsel stated only that the case the court was citing \u201cis factually distinct from this one.\u201d",
+        "type": "majority",
+        "author": "Wiggins, J."
+      },
+      {
+        "text": "Johnson, J.\n\u00b641 (dissenting) \u2014 A person charged criminally has a constitutional right to a fair trial and to require that the State establish guilt beyond a reasonable doubt through testimony, evidence, and exhibits. It is a long-recognized element of a fair trial that the jury consider only relevant and competent evidence bearing on the issue of guilt or innocence. Today\u2019s majority opinion abandons precedent and allows a conviction based on \u201cevidence\u201d that was not presented during trial, to which the defense could not respond and which an appellate court is unable to review.\n\u00b642 During deliberations, the jury asked the trial court if it could consider the defendant\u2019s \u201cactions-demeanor\u201d during trial. In response, the court instructed the jury to consider as evidence everything it had observed in the courtroom. Because this instruction was given after the trial ended and arguments were concluded, Robert Barry did not have an opportunity to confront, rebut, cross-examine, or explain his demeanor, which the court directed that the jury could consider as \u201cevidence.\u201d The majority characterizes the trial court\u2019s response to the jury as \u201c \u2018instructional error[ ]\u2019 \u201d and holds that the error did not implicate Barry\u2019s constitutional rights to a fair trial. Majority at 303. The majority reasons that the error was not of constitutional magnitude because it did not violate Barry\u2019s Fifth Amendment privilege against self-incrimination or his Sixth Amendment rights because the text of the Sixth Amendment does not suggest the existence of a constitutional right to an evidence-based verdict. Majority at 311-12; U.S. Const, amends. V, VI. The majority errs on both parts.\n\u00b643 The majority\u2019s unprecedented view of the Fifth and Sixth Amendments strays from controlling federal precedent and basic principles of a fair trial: the criminally accused has the right not to take the stand, to sit silently and not incriminate himself, to know the substance of the evidence against him, to be afforded an opportunity to confront that evidence, and to receive a verdict based on the properly admitted evidence. The trial court\u2019s instruction that the jury consider unadmitted, unconfronted, and unknowable \u201cdemeanor\u201d evidence violates each of those constitutionally guaranteed rights. His conviction should be reversed and this case remanded for a constitutionally fair trial.\nFifth Amendment\n\u00b644 The majority erroneously concludes that the non-testimonial nature of Barry\u2019s perceived demeanor, and the fact that the reference to demeanor did not amount to a comment on the defendant\u2019s right to silence, removes this error from the Fifth Amendment\u2019s purview. In so concluding, it largely relies on cases involving evidence of the defendant\u2019s out of court demeanor.\n\u00b645 However, the majority\u2019s narrow view of the Fifth Amendment contradicts Ninth Circuit precedent. United States v. Schuler, 813 F.2d 978 (9th Cir. 1987). In Schuler, the prosecutor told the jury it should consider the defendant\u2019s behavior during trial, including his laughter, as evidence of guilt. The Ninth Circuit held the prosecutor violated the defendant\u2019s rights under the Fifth Amendment:\nIn effect the defendant would be compelled to testify to explain any actual or possible behavior that the prosecutor might bring to the jury\u2019s attention. While this pressure to testify may well be the exception, there is no reason for use of such comments that would justify even a slight opening of the door to an invasion of constitutional rights.\nSchuler, 813 F.2d at 982.\n\u00b646 The court acknowledged that the comment did not refer to Schuler\u2019s right not to testify, nor did the laughter constitute testimony, but the court was concerned that such a comment by the prosecutor would \u201ceviscerate the right to remain silent by forcing the defendant to take the stand\u201d to explain the perceived in-court demeanor. Schuler, 813 F.2d at 982.\n\u00b647 Other courts have also recognized the constitutional implications of such a direction to consider demeanor:\nIt is clear that the prosecutor\u2019s reference to the courtroom behavior of the defendant was improper. It impugned defendant\u2019s Fifth and Sixth Amendment rights. Defendant had a Fifth Amendment right not to testify, and he elected to exercise that right. He also had a Fifth Amendment right not to be convicted except on the basis of evidence adduced against him. Defendant had ... a Sixth Amendment right to a trial by jury .... In tandem, defendant had the right to a jury trial at which, if he elected not to testify, the fact of his presence and his non-testimonial behavior in the courtroom could not be taken as evidence of his guilt.\nUnited States v. Carroll, 678 F.2d 1208, 1209 (4th Cir. 1982) (emphasis added).\n\u00b648 Today\u2019s majority errs by concluding that Fifth Amendment protections extend only to defendant testimony and to actual comments on the defendant\u2019s right to remain silent. As recognized by federal courts, invitations to the jury to consider nontestimonial in-court conduct still impugn the defendant\u2019s Fifth Amendment right because it in essence compels the defendant to take the stand to explain his or her behavior.\n\u00b649 Here, we have no record of Barry\u2019s demeanor during trial, but we do know that before trial began, the court advised Barry that he should refrain from any display of emotion. It advised that everyone in the courtroom remain stone-faced throughout the trial and that no one should show any reaction to the children\u2019s testimony. The court explained to Barry that such a showing of emotion could \u201cbackfire [ ]\u201d on his case. 4 Verbatim Report of Proceedings at 451. Assuming Barry complied with that instruction, his observable lack of remorse throughout trial likely prompted the question from the jury. By then instructing that the jury could consider Barry\u2019s demeanor throughout trial as evidence of his guilt, the court put him in the constitutionally intolerable position of either waiving his constitutional right to refuse to testify, so that he could explain his remorseless attitude throughout trial, or leaving the jurors to formulate their own inferences about his behavior. The defendant has a recognized Fifth Amendment right not to be put in such an untenable position; there simply \u201cis no reason for use of such comments that would justify even a slight opening of the door to an invasion of constitutional rights.\u201d Schuler, 813 F.2d at 982.\nSixth Amendment\n\u00b650 The majority\u2019s textualist interpretation of the Sixth Amendment also contradicts explicit precedent: \u201cThe Sixth Amendment\u2019s guarantees of a trial by an impartial jury and the right of confrontation require that the jury base its verdict on the evidence presented at trial.\u201d Fields v. Brown, 503 F.3d 755, 783 (9th Cir. 2007) (Gould, J., concurring/dissenting) (citing Turner v. Louisiana, 379 U.S. 466, 472-73, 85 S. Ct. 546, 13 L. Ed. 2d 424 (1965)).\nIn the constitutional sense, trial by jury in a criminal case necessarily implies at the very least that the \u201cevidence developed\u201d against a defendant shall come from the witness stand in a public courtroom where there is full judicial protection of the defendant\u2019s right of confrontation, of cross-examination, and of counsel.\nTurner, 379 U.S. at 472-73. This requirement \u201cgoes to the fundamental integrity of all that is embraced in the constitutional concept of trial by jury.\u201d Turner, 379 U.S. at 472. This constitutional right to an evidence-based verdict is a basic, long-standing principle. It is troubling that the majority does not discuss or even reference controlling precedent and instead advances its own creative view of the Sixth Amendment.\n\u00b651 The fact that, practically speaking, jurors may often rely on \u201cextraevidentiary\u201d factors that are not compatible with the fundamental focus of the right to a fair trial and due process is unfortunate but not constitutionally intolerable. I agree with the majority that the Fifth and Sixth Amendments do not (and cannot) guarantee that each conviction is based solely on the evidence presented because from the moment the jurors enter the courtroom, they may subconsciously form impressions about every aspect of the trial. This is an unavoidable human element of the trial process. But after the defense has rested its case, and after closing arguments, the trial court cannot instruct that those observations may be treated as \u201cevidence\u201d bearing on the determination of guilt or innocence when the defendant has had no opportunity to challenge or explain that \u201cevidence.\u201d Such an instruction is akin to allowing a prosecutor to argue evidence not presented at trial or to allowing a new witness to testify privately, without cross-examination, to the jury during its deliberations. It deprives the defendant his right to confront the evidence, and at the very least, it deprives Barry an opportunity to challenge the propriety of the use of this \u201cevidence\u201d in the determination of guilt.\n\u00b652 One would hope that an instruction that the jury could consider a defendant\u2019s race, gender, religious beliefs, or physical appearance in its deliberations would be constitutionally reprehensible \u2014 that we would not tolerate such an instruction to consider irrelevant attributes as \u201cevidence\u201d of guilt. Similarly, the trial court\u2019s vague instruction here to consider the defendant\u2019s \u201cdemeanor\u201d invites that same prejudicial abuse and opens the door for the jury to consider the appearance and demeanor of the defendant instead of focusing on the evidence presented. Such an invitation violates basic notions of due process.\n\u00b653 The trial court should have responded to the juror\u2019s question, if at all, by telling the jury to review the instructions already properly given, instructions that stated, \u201cIt is your duty to decide the facts in this case based upon the evidence presented to you during this trial. . . . Your decisions as jurors must be made solely upon the evidence presented during these proceedings.\u201d Clerk\u2019s Papers at 119. Our criminal procedures are designed specifically to channel the jury\u2019s considerations into narrow, structured, evi-dentiary categories. From jury voir dire, designed to eliminate juror bias and prejudice, to the rules of evidence, designed to weigh considerations of relevance, to the jury instructions themselves, designed to require a reasoned analysis of admitted evidence in coming to a verdict, criminal trial procedure aims at ensuring that defendants are convicted on evidence. The court\u2019s instruction to consider unconfronted \u201cdemeanor\u201d evidence deprived Barry of that constitutionally guaranteed right.\n\u00b654 The majority\u2019s holding today is incongruous with precedent, with the guaranties of the Fifth and Sixth Amendments, and with basic notions of fairness and due process. It is well established that a court\u2019s instruction to consider unadmitted, unrecorded, and unconfronted evidence impugns the defendant\u2019s constitutional right not to testify and violates his right to confront the evidence against him. Because the error is constitutional in nature and Barry objected to the instruction at trial, the State bears the burden of establishing that the error was harmless beyond a reasonable doubt. State v. Jones, 168 Wn.2d 713, 724, 230 P.3d 576 (2010). The State cannot meet this burden based on this silent record. Barry\u2019s conviction should be reversed and the case remanded for a new trial.\nStephens, J., concurs with Johnson, J.\nThe error here cannot accurately be characterized as merely \u201cinstructional\u201d because instructional errors are not based on the evidence admitted, but on the instructions to the jury regarding how to make use of the admitted evidence. See, e.g., State v. Gresham, 173 Wn.2d 405, 423-24, 269 P.3d 207 (2012) (finding nonconstitutional instructional error where the trial court failed to give a limiting instruction in connection with character evidence); State v. Johnson, 100 Wn.2d 607, 623, 674 P.2d 145 (1983) (finding constitutional instructional error where the jury instructions omitted an element of the crime), overruled on other grounds by State v. Bergeron, 105 Wn.2d 1, 711 P.2d 1000 (1985); State v. McCullum, 98 Wn.2d 484, 487-88, 656 P.2d 1064 (1983) (finding constitutional instructional error where the trial court failed to instruct on the \u201cbeyond a reasonable doubt\u201d standard). The error in this case is simply not comparable. The trial court did not err in instructing the jury how to weigh the evidence; it erred in allowing the jury to consider \u201cevidence\u201d that was not admitted at trial, that is not in the record, and that the defendant had no opportunity to rebut. Classifying the error in this case as \u201cinstructional\u201d trivializes the consideration of unadmitted, unconfronted, and unrecorded information as evidence.\nSee majority at 308-09 (citing United States v. Velarde-Gomez, 269 F.3d 1023, 1030-31 (9th Cir. 2001) (involving evidence of the defendant\u2019s demeanor at the time of arrest); State v. Mauro, 159 Ariz. 186, 766 P.2d 59,70-71 (1988) (involving an officer\u2019s observations of the defendant\u2019s demeanor when arrested as opposed to when taken to the station to observe photographs); United States v. Elkins, 774 F.2d 530, 537-38 (1st Cir. 1985) (involving witness testimony that defendant was visibly nervous at the scene of the arrest)).\nThe only two cases cited by the majority that do involve the defendant\u2019s in-court demeanor are cited within a footnote, and neither case supports the majority\u2019s argument. Majority at 308 n.9 (citing Cunningham v. Perini, 655 F.2d 98, 100 (6th Cir. 1981) (holding that the prosecutor\u2019s comment on the nontestifying defendant\u2019s in-court demeanor violated his due process rights, but the court did not reverse because the petitioner challenged the unpreserved error via habeas corpus petition and the petitioner could not establish manifest error); Christenson v. State, 261 Ga. 80, 402 S.E.2d 41,49 (1991) (holding that a comment on demeanor during the sentencing phase is permissible because sound policy reason exists to consider remorse evidence during sentencing)). Neither decision supports the majority\u2019s position here that the court\u2019s direction to consider Barry\u2019s demeanor as evidence of guilt does not infringe on Barry\u2019s Fifth Amendment rights.\nSee Irvin v. Dowd, 366 U.S. 717, 723, 81 S. Ct. 1639, 1642, 6 L. Ed. 2d 751 (1961) (defendant\u2019s right to an impartial jury requires a verdict based solely on the evidence presented at trial); Mattox v. United States, 146 U.S. 140, 149, 13 S. Ct. 50, 36 L. Ed. 917 (1892) (it is vital \u201cthat the jury should pass upon the case free from external causes tending to disturb the exercise of deliberate and unbiassed judgment\u201d); United States v. Noushfar, 78 F.3d 1442, 1445 (9th Cir. 1996) (structural error for the jury to consider unadmitted evidence because it \u201cundermines one of the most fundamental tenets of our justice system: that a defendant\u2019s conviction may be based only on the evidence presented during the trial\u201d); United States v. Perkins, 748 F.2d 1519, 1533 (11th Cir. 1984) (\u201cExtrinsic evidence, evidence that has not been subject to the procedural safeguards of a fair trial, threatens such constitutional safeguards as the defendant\u2019s right of confrontation, of cross-examination, and of counsel.\u201d (citing Turner, 379 U.S. at 473)).\nSee Andrew C. Helman, Racism., Juries, and Justice: Addressing Post-Verdict Juror Testimony of Racial Prejudice During Deliberations, 62 Me. L. Rev. 327, 330-31 (2010).",
+        "type": "dissent",
+        "author": "Johnson, J."
+      },
+      {
+        "text": "Gordon McCloud, J.\n\u00b655 (concurring in dissent) \u2014 I agree with the dissent\u2019s comprehensive explanation of why the court\u2019s instruction violated Robert Barry\u2019s right to a verdict based solely on the evidence under the Sixth Amendment to the United States Constitution. I also believe that the comment violated Barry\u2019s due process rights to both a fair trial and a trial based solely on the evidence under the Fourteenth Amendment to the United States Constitution. I therefore concur in the dissent.",
+        "type": "concurrence",
+        "author": "Gordon McCloud, J."
+      }
+    ],
+    "attorneys": [
+      "Robert Eugene Barry, pro se.",
+      "Mitch Harrison (of Harrison Law), for petitioner.",
+      "Tina Robinson, Prosecuting Attorney, and Randall A. Sutton, Deputy, for respondent."
+    ],
+    "corrections": "",
+    "head_matter": "[No. 89976-2.\nEn Banc.]\nArgued October 21, 2014.\nDecided June 4, 2015.\nThe State of Washington, Respondent, v. Robert Eugene Barry, Petitioner.\nRobert Eugene Barry, pro se.\nMitch Harrison (of Harrison Law), for petitioner.\nTina Robinson, Prosecuting Attorney, and Randall A. Sutton, Deputy, for respondent."
+  },
+  "file_name": "0297-01",
+  "first_page_order": 351,
+  "last_page_order": 380
+}

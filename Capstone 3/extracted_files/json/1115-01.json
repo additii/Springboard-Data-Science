@@ -1,0 +1,187 @@
+{
+  "id": 1403650,
+  "name": "Bowlin v. State",
+  "name_abbreviation": "Bowlin v. State",
+  "decision_date": "1928-01-16",
+  "docket_number": "",
+  "first_page": "1115",
+  "last_page": "1118",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "175 Ark. 1115"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [
+    {
+      "cite": "42 N. Y. 270",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        504984
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/42/0270-01"
+      ]
+    },
+    {
+      "cite": "286 S. W. 937",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "171 Ark. 762",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1369399
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/171/0762-01"
+      ]
+    },
+    {
+      "cite": "93 Am. Dec. 203",
+      "category": "reporters:federal",
+      "reporter": "Am. Dec.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "16 Mich. 40",
+      "category": "reporters:state",
+      "reporter": "Mich.",
+      "case_ids": [
+        1945547
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mich/16/0040-01"
+      ]
+    },
+    {
+      "cite": "14 S. W. 41",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "53 Ark. 387",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1911678
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/53/0387-01"
+      ]
+    },
+    {
+      "cite": "168 S. W. 1122",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "113 Ark. 454",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1537518
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/113/0454-01"
+      ]
+    },
+    {
+      "cite": "93 S. W. 55",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "78 Ark. 40",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1497298
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/78/0040-01"
+      ]
+    },
+    {
+      "cite": "294 S. W. 381",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "174 Ark. 107",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        8718785
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/174/0107-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 396,
+    "char_count": 6346,
+    "ocr_confidence": 0.496,
+    "pagerank": {
+      "raw": 1.8824544883069264e-07,
+      "percentile": 0.7278681112296509
+    },
+    "sha256": "3727704771143d4275a6f7f99f3c335800fe2e28741bc5ac2180e4f6f3dedd63",
+    "simhash": "1:148b5394ac4193ba",
+    "word_count": 1095
+  },
+  "last_updated": "2024-02-27T16:24:20.967461+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Bowlin v. State."
+    ],
+    "opinions": [
+      {
+        "text": "McHaney, J.\nAppellant was indicted, tried, convicted and sentenced to five years' in the penitentiary on a charge of assault with intent to kill one Joe Bramlett, and prosecutes this appeal to reverse the judgment and sentence against him. This was done at an adjourned term of the regular May term of the Johnson Circuit Court.\nIt is admitted that the testimony was sufficient to take the case to the jury, but it is urged: first, that the court was without jurisdiction to try the case and render .judgment against him, for the reason that, according to the affidavits of the county and circuit clerks, there were no funds on hand to pay the expenses of holding the adjourned term of the circuit court, and that the regular business of the court carried over from the regular term to the adjourned term was not tried, but that this defendant, who was indicted at the adjourned term, and some others, were tried at this term of court; that there were no funds with which to pay the jurors, and that this defendant was forced to be tried before jurors who volunteered their services for that purpose. It is claimed that, by reason of this fact, he had no voice in the selection of the jury, and that a court so constituted was and could be no more than a moot court.\nThe record shows that this question was raised for the first time in the motion for a new trial. The statute provides for the manner of the selection of jurors to try cases in the circuit court. By going to trial without objecting to the manner in which the jury was impaneled, appellant must be deemed to have waived any irregularities in the order of selecting the jury. In support of this contention he cites, the case of Dixie Culvert Mfg. Co. v. Perry County, 174 Ark. 107, 294 S. W. 381, construing Amendment No. 11, in which it was held that the county judge of Perry 'County was without authority, under that amendment, to make a contract for road culverts and spread the cost thereof over a period of years, when there was insufficient funds on. hand for the year in which same were purchased to pay therefor. It had nothing to do with the question now before us. See also Polk County v. Mena Star Co., ante p. 76.\nIt is next urged that the case should be reversed for certain remarks made by the prosecuting attorney in his opening\u2019 statement to the jury. An objection by counsel for appellant was sustained by the court, and the prose-, cuting attorney withdrew the remarks from the .jury. There was therefore nothing on which to base this assignment of error. The objection was sustained and the remarks withdrawn by the prosecuting attorney. Lewis v. State, 78 Ark. 40, 93 S. W. 55; Hall v. State, 113 Ark. 454, 168 S. W. 1122.\nIt is finally insisted that the court erred in permitting the prosecuting attorney to ask the appellant the following questions over his objections:\n\u201cQ. I will ask you if you are the same Jim Bowlin that was sent to the pen from Newton County, over here, for cutting a preacher up over there?\u201d \u201cQ. Jim, what was it you was convicted for and why were you serving a jail sentence at Dardanelle about 'a year ago, when you broke jail?\u201d\nAppellant was a witness in his own behalf, and the above questions were asked on cross-examination, and it is well settled in this court that the defendant may be asked on cross-examination about other crimes committed by him, whether he has been in jail, the penitentiary, or any other place that would tend to impair his credibility. These questions were permitted, no doubt, for the purpose of testing the credibility of the witness. This court, in the leading case of Hollingsworth v. State, 53 Ark. 387, 14 S. W. 41, announced the general rule on this subject in a quotation from the Supreme Court of Michigan, in Wilbur v. Flood, 16 Mich. 40, 93 Am. Dec. 203, as follows:\n\u201cIt has always been'held that, within reasonable limits, a witness may, on cross-examination, be very thoroughly sifted upon his character and antecedents. The court has a discretion as to how far propriety will allow this to be done in a given case, and will or should prevent any needless or wanton abuse of the power. But, within this discretion, we think a witness may be asked concerning all antecedents which are really significant, and which will explain his credibility. \u2019 \u2019\nThe above quotation was also used in the recent case of Whittaker v. State, 171 Ark. 762, 286 S. W. 937, where a quotation from Real v. People, 42 N. Y. 270, was cited with approval as follows: \u201cA witness, upon cross-examination, may be asked whether he has been in jail, the penitentiary, or State prison, or any other place that would tend to impair his credibility, and how much of his life he has passed in such places.\u201d\nThe same rules apply to defendants who testify in criminal oases as to other witnesses. There was therefore no error in permitting the above questions to be asked, and in requiring appellant to answer them.\nThese are all the errors complained of, and, having answered them against appellant, the judgment must be affirmed.",
+        "type": "majority",
+        "author": "McHaney, J."
+      }
+    ],
+    "attorneys": [
+      "J esse Reynolds, for appellant.",
+      "H. W. Applegate, Attorney General, and John L. Garter, Assistant, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Bowlin v. State.\nOpinion delivered January 16, 1928.\n1. Jury \u2014 waiver of irregularity in selection.- \u2014 By going to trial without objection to the manner in which the jury was impaneled, defendant must be deemed to have waived any irregularity in the order of selecting the jury.\n2. Criminal law \u2014 improper argument- \u2014 effect of withdrawal.\u2014 Objectionable remarks of the prosecuting attorney to the jury are not ground for reversal, where upon objection the remarks were withdrawn by the prosecuting attorney.\n3. Witnesses \u2014 impeachment on cross-examination.- \u2014 Defendant may be asked on cross-examination as to conviction and incarceration for previous crimes, for the purpose of testing his credibility as a witness.\n4. Witnesses \u2014 cross-examination.\u2014It is within the court\u2019s discretion to permit a witness on cross-examination to be questioned as to his character and antecedents for the purpose of testing his credibility.\n5. Witnesses \u2014 cross-examination of accused. \u2014 In cross-examining witnesses to test their credibility, the same rules apply to defendants who testify in criminal cases as to other witnesses.\nAppeal from Johnson Circuit Court; J. T. Bulloch, Judge;\naffirmed.\nJ esse Reynolds, for appellant.\nH. W. Applegate, Attorney General, and John L. Garter, Assistant, for appellee."
+  },
+  "file_name": "1115-01",
+  "first_page_order": 1131,
+  "last_page_order": 1134
+}

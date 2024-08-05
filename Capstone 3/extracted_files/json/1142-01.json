@@ -1,0 +1,109 @@
+{
+  "id": 1369410,
+  "name": "Porter v. Hot Springs",
+  "name_abbreviation": "Porter v. Hot Springs",
+  "decision_date": "1926-11-08",
+  "docket_number": "",
+  "first_page": "1142",
+  "last_page": "1145",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "171 Ark. 1142"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [
+    {
+      "cite": "57 L. R. A. 895",
+      "category": "reporters:federal",
+      "reporter": "L.R.A.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "90 N. W. 869",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "64 Neb. 710",
+      "category": "reporters:state",
+      "reporter": "Neb.",
+      "case_ids": [
+        5316201
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/neb/64/0710-01"
+      ]
+    },
+    {
+      "cite": "114 S. W. 718",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "88 Ark. 353",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1517161
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/88/0353-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 396,
+    "char_count": 7062,
+    "ocr_confidence": 0.505,
+    "pagerank": {
+      "raw": 5.208839660660182e-08,
+      "percentile": 0.329189076274331
+    },
+    "sha256": "a18dd0cf65bd463d7abd6afb7d43e1131797aa20f51b60d474a8d3dde2368216",
+    "simhash": "1:1cfee44011effcef",
+    "word_count": 1193
+  },
+  "last_updated": "2024-02-28T00:06:45.048720+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Porter v. Hot Springs."
+    ],
+    "opinions": [
+      {
+        "text": "McCulloch, C. J.\nAppellants instituted this action in the chancery court of Garland County against the city of Hot Springs and its executive officers to restrain the enforcement of an ordinance providing for the collection and removal of \u201cgarbage, night soil, dead animals, and other refuse\u201d from the city, and regulating the manner of collecting the same. Appellants alleged in their complaint that they were residents of Garland County, and were engaged in the business of cleaning up the premises of numerous citizens and business men of the city of Hot Springs under contract, and that the effect of the ordinance in question was to unjustly restrict them in their right to contract for such service. The chancery court sustained a demurrer to the complaint, and, after dismissal of the complaint and a failure to plead further, an appeal has been duly prosecuted to this court.\nThe ordinance provides, in substance, that the board of public affairs of the city may enter into a contract for a period of years with some suitable person \u201cto remove all garbage, trash, night soil, dead animals, and other refuse as defined in this ordinance,\u201d and that it shall be unlawful for any person other than the person, firm or corporation having the exclusive contract therefor to remove from any part of the limits of the city \u201cany garbage, night soil, etc., or to remove or attempt to remove any dry refuse or dead animals, * * * or to remove, dump or deposit any such anywhere, except as herein provided.\u201d There is, however, a provision in the ordinance authorizing the mayor' and city clerk to issue a permit, for a fee of ten dollars, to permit any person \u201cto remove or transport any kitchen refuse, commonly known, as swill.\u201d The ordinance attempts to define the various terms used therein, and the term \u201cdry refuse\u201d is defined in the following language:\n\u201c \u2018Dry refuse,\u2019 as used in this ordinance, shall be held to include, and is hereby defined to be, such refuse as accumulates in, around or about stores, shops, hotels, dwelling-houses, or any other place, as is not included in kitchen refuse as herein defined, and any such refuse as ashes, paper, bottles, tin cans, old shoes, old clothing and rags, or articles such as decaying lumber, whether decaying in their nature or otherwise, as are unhealthy, or a nuisance, or a menace to health, and stable manure and manure of stock or animals which is allowed to accumulate so as to be a menace to health, shall be held and considered as dry refuse for the purpose of this ordinance. \u2019 \u2019\nCounsel for appellants cite our decision in the case of Dreyfus v. Boone, 88 Ark. 353, 114 S. W. 718, in upholding the power of a municipality to regulate the removal of noxious substances and to enter into an exclusive contract therefor, but they seek to distinguish the present case, and contend that the ordinance in question is void. We fail, however, to see the force of the distinction sought to be made 'by counsel. They contend that the provision in the ordinance for granting a permit to persons to\u2018haul swill constitutes a delegation of legislative, power to a mere executive officer. Counsel are mistaken in their estimate of the character of the power thus conferred, for it is in no sense legislative. The ordinance itself prescribes the terms and manner in which the permit shall be granted, and only places in the executive officers the power to determine whether or not the applicant is properly equipped to do the work.\nAgain, it is insisted that the provision in the ordinance requiring a fee of ten dollars for the special permit, and also the requirement for a bidder for the general contract to deposit $500, are both unreasonable. It is urged that these two requirements discriminate against a poor man who is financially unable to pay the fee, or to make the cash deposit when bidding for the general contract. This is not sound argument against the validity of the ordinance, for those requirements are not so harsh and unreasonable as to condemn the ordinance as being arbitrary.\nIt is next insisted that that feature of the ordinance which relates to the removal of dry refuse is unreasonable, because it applies to a substance the accumulation of which does not constitute a nuisance. We are not called on to decide whether or not the argument would be sound, even if the effect of this feature of the ordinance was as contended by counsel for appellants, for, from an examination of the language of the section defining dry refuse, it is seen that it only applies to such accumulations. \u201cas are unhealthy, or a nuisance, or a menace to health.\u201d Counsel rely on the decision of the Nebraska court in Iler v. Ross, 64 Neb. 710, 90 N. W. 869, 57 L. R. A. 895,ias sustaining their contention that an ordinance regulating the removal of a substance, the presence of which does not constitute a nuisance, is yoid. That decision does not, however, support the contention of counsel in the present case, for the opinion clearly recognizes the power to regulate the removal of rubbish and waste material when it has been allowed to accumulate in such quantities as to become a nuisance. In the opinion the court said: \u2018 \u2018 There can be, in the nature of things, ho reasonable necessity for the city to gather and remove from the private premises of the inhabitants the accumulation of rubbish and waste material which are not in themselves, and when not allowed to accumulate in unreasonable quantities, nuisances.\u201d\nIt seems to us -that all of the questions in this case are settled by the decision in Dreyfus v. Boone, supra, and that the ordinance involved in the present case must be upheld under the doctrine of the decision just referred to.\nDecree affirmed.",
+        "type": "majority",
+        "author": "McCulloch, C. J."
+      }
+    ],
+    "attorneys": [
+      "Cobb & Cobb, for appellant.",
+      "Geo. P. Whittington and Leo P. McLaughlin, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Porter v. Hot Springs.\nOpinion delivered November 8, 1926.\n1. Municipal corporations \u2014 delegation op legislative power. \u2014 An - ordinance authorizing the mayor and city clerk to issue a permit to persons to haul swill, and prescribing the terms and manner in which the permit shall be granted, is not a delegation of legislative powers to an executive officer, but confers power to determine whether the applicant is equipped to do the work.\n2. Municipal corporations \u2014 garbage contracts \u2014 validity op ordinance. \u2014 An ordinance requiring a fee of $10 for a permit to haul swill, and requiring a bidder for a general contract to remove all garbage and other refuse to deposit $500, is not arbitrary or unreasonable.\n3. Municipal corporations \u2014 garbage contracts. \u2014 An ordinance relating to the removal of \u201cdry refuse,\u201d limited to. such accumulations as are unhealthy or a nuisance, held not unreasonable. \u25a0\n4. Municipal corporations \u2014 garbage contracts. \u2014 An ordinance authorizing the board of public affairs to contract for the removal of garbage and other refuse, and prohibiting others from engaging in such work, with the exception of the removal of swill by licensee, held valid.\nAppeal from Garland Chancery Court; W. B. Duffle, Chancellor;\naffirmed.\nCobb & Cobb, for appellant.\nGeo. P. Whittington and Leo P. McLaughlin, for appellee."
+  },
+  "file_name": "1142-01",
+  "first_page_order": 1158,
+  "last_page_order": 1161
+}

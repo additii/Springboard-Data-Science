@@ -1,0 +1,425 @@
+{
+  "id": 6793004,
+  "name": "Save Our Scenic Area et al., Respondents, v. Skamania County, Petitioner",
+  "name_abbreviation": "Save Our Scenic Area v. Skamania County",
+  "decision_date": "2015-06-11",
+  "docket_number": "No. 90398-1",
+  "first_page": "455",
+  "last_page": "474",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "183 Wash. 2d 455"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Wash.",
+    "id": 9029,
+    "name": "Washington Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 38,
+    "name_long": "Washington",
+    "name": "Wash."
+  },
+  "cites_to": [
+    {
+      "cite": "695 P.2d 994",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1985,
+      "opinion_index": 0
+    },
+    {
+      "cite": "103 Wn.2d 717",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1134119
+      ],
+      "year": 1985,
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/103/0717-01"
+      ]
+    },
+    {
+      "cite": "154 P.3d 959",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2007,
+      "opinion_index": 0
+    },
+    {
+      "cite": "137 Wn. App. 781",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        4042927
+      ],
+      "weight": 2,
+      "year": 2007,
+      "pin_cites": [
+        {
+          "page": "797-98"
+        },
+        {
+          "page": "797"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/137/0781-01"
+      ]
+    },
+    {
+      "cite": "169 P.3d 14",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2007,
+      "opinion_index": 0
+    },
+    {
+      "cite": "162 Wn.2d 683",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        3696092
+      ],
+      "year": 2007,
+      "pin_cites": [
+        {
+          "page": "709"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/162/0683-01"
+      ]
+    },
+    {
+      "cite": "18 P.3d 566",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2001,
+      "opinion_index": 0
+    },
+    {
+      "cite": "143 Wn.2d 96",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        425298
+      ],
+      "year": 2001,
+      "pin_cites": [
+        {
+          "page": "104"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/143/0096-01"
+      ]
+    },
+    {
+      "cite": "815 P.2d 790",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1991,
+      "opinion_index": 0
+    },
+    {
+      "cite": "62 Wn. App. 530",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        1712196
+      ],
+      "year": 1991,
+      "pin_cites": [
+        {
+          "page": "538"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/62/0530-01"
+      ]
+    },
+    {
+      "cite": "174 P.3d 25",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2007,
+      "opinion_index": 0
+    },
+    {
+      "cite": "162 Wn.2d 597",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        3696480
+      ],
+      "year": 2007,
+      "pin_cites": [
+        {
+          "page": "612"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/162/0597-01"
+      ]
+    },
+    {
+      "cite": "23 Seattle U. L. Rev. 5",
+      "category": "journals:journal",
+      "reporter": "Seattle U. L. Rev.",
+      "year": 1999,
+      "pin_cites": [
+        {
+          "page": "8"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "110 P.3d 1132",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2005,
+      "pin_cites": [
+        {
+          "parenthetical": "quoting Richard L. Settle, Washington's Growth Management Revolution Goes to Court, 23 Seattle U. L. Rev. 5, 8 (1999)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "154 Wn.2d 224",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        5628916
+      ],
+      "year": 2005,
+      "pin_cites": [
+        {
+          "page": "232",
+          "parenthetical": "quoting Richard L. Settle, Washington's Growth Management Revolution Goes to Court, 23 Seattle U. L. Rev. 5, 8 (1999)"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/154/0224-01"
+      ]
+    },
+    {
+      "cite": "190 P.3d 38",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2008,
+      "pin_cites": [
+        {
+          "parenthetical": "quoting Quadrant Corp. v. Cent. Puget Sound Growth Mgmt. Hr'gs Bd., 154 Wn.2d 224, 232, 110 P.3d 1132 (2005) (quoting Richard L. Settle, Washington's Growth Management Revolution Goes to Court, 23 Seattle U. L. Rev. 5, 8 (1999))"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "164 Wn.2d 329",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        3996300
+      ],
+      "weight": 2,
+      "year": 2008,
+      "pin_cites": [
+        {
+          "page": "342",
+          "parenthetical": "quoting Quadrant Corp. v. Cent. Puget Sound Growth Mgmt. Hr'gs Bd., 154 Wn.2d 224, 232, 110 P.3d 1132 (2005) (quoting Richard L. Settle, Washington's Growth Management Revolution Goes to Court, 23 Seattle U. L. Rev. 5, 8 (1999))"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/164/0329-01"
+      ]
+    },
+    {
+      "cite": "959 P.2d 1104",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1998,
+      "opinion_index": 0
+    },
+    {
+      "cite": "136 Wn.2d 26",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        867955
+      ],
+      "year": 1998,
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/136/0026-01"
+      ]
+    },
+    {
+      "cite": "335 P.3d 941",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2014,
+      "opinion_index": 0
+    },
+    {
+      "cite": "181 Wn.2d 1007",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "year": 2014,
+      "opinion_index": 0
+    },
+    {
+      "cite": "180 Wn. App. 1017",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        4186121,
+        4189723,
+        4188125,
+        4187478
+      ],
+      "year": 2014,
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/180/1017-03",
+        "/wash-app/180/1017-02",
+        "/wash-app/180/1017-01",
+        "/wash-app/180/1017-04"
+      ]
+    },
+    {
+      "cite": "310 P.3d 780",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2013,
+      "opinion_index": 0
+    },
+    {
+      "cite": "178 Wn.2d 320",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4298175
+      ],
+      "year": 2013,
+      "pin_cites": [
+        {
+          "page": "345"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/178/0320-01"
+      ]
+    },
+    {
+      "cite": "16 U.S.C. \u00a7 544",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "169 P.3d 14",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "weight": 2,
+      "year": 2007,
+      "pin_cites": [
+        {
+          "parenthetical": "Fairhurst, J., dissenting"
+        },
+        {
+          "parenthetical": "Chambers, J., concurring in result"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "162 Wn.2d 683",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        3696092
+      ],
+      "weight": 2,
+      "year": 2007,
+      "pin_cites": [
+        {
+          "page": "707",
+          "parenthetical": "Fairhurst, J., dissenting"
+        },
+        {
+          "page": "706",
+          "parenthetical": "Chambers, J., concurring in result"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/162/0683-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1236,
+    "char_count": 35479,
+    "ocr_confidence": 0.761,
+    "pagerank": {
+      "raw": 4.666970501906556e-08,
+      "percentile": 0.2930441118381805
+    },
+    "sha256": "1c10cc4930f7f9200aca11ca07a14142600d94c9b4cf95e9921ed3f1929609fc",
+    "simhash": "1:377e4a30510a5454",
+    "word_count": 5656
+  },
+  "last_updated": "2024-02-27T22:09:01.011694+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Owens, Fairhurst, Stephens, and Gonz\u00e1lez, JJ., concur.",
+      "Madsen, C.J., and Wiggins and Yu, JJ., concur with Gordon McCloud, J."
+    ],
+    "parties": [
+      "Save Our Scenic Area et al., Respondents, v. Skamania County, Petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "Johnson, J.\n\u00b61 This case involves whether the plaintiffs\u2019 claims under the Growth Management Act (GMA), chapter 36.70A RCW, and Planning Enabling Act of the State of Washington (PEA), chapter 36.70 RCW, were properly dismissed as time barred. The trial court granted the defendant-county\u2019s summary judgment motion on each of the plaintiffs\u2019 claims, but the Court of Appeals reversed on the GMA and PEA claims, reasoning that a genuine issue of fact remained as to (1) whether Skamania County actually completed periodic review on August 2, 2005, which Skamania County argues triggered the clock for the GMA claim, and (2) the date on which the inconsistency, if any, arose between the unmapped classification and the conservancy designation, which would have triggered the clock for the PEA claim. The Court of Appeals remanded for further factual proceedings to address the time bar issue.\n\u00b62 We agree with the Court of Appeals in part, holding that both claims were timely because (1) inaction generally does not trigger the GMA 60-day appeal period and (2) in this case, no actionable inconsistency existed between the 1986 ordinance and the \u201c2007 Comprehensive Plan\u201d (2007 Plan) until August 2012. Because further factual development is unnecessary to address the time bar issue, we affirm the Court of Appeals\u2019 reversal of the trial court and remand the case to the trial court for further proceedings consistent with this opinion.\nFacts\n\u00b63 Skamania County is a rural, heavily forested county located in the southwestern region of Washington State. Roughly 90 percent of the county is publically owned federal or state park forest area, with only about 3 percent of the county open for private development. Because the county is sparsely populated and developed, the county is statutorily considered 1 of 10 \u201cCounties Planning for Critical Areas and Natural Resource Lands,\u201d or \u201cCARL\u201d counties, in Washington State. Clerk\u2019s Papers (CP) at 28. These CARL counties are sometimes referred to as \u201cpartial planning counties,\u201d and they are obligated only to designate critical areas and natural resource lands. RCW 36.70A.170; Resp\u2019ts\u2019 Suppl. Br. at 3 n.4. CARL counties are not under the same obligation to fully plan and zone their lands like \u201cfull planning\u201d counties. See ch. 36.70A RCW.\n\u00b64 In 1986, Skamania County (County) adopted a zoning ordinance, codified at Title 21 Skamania County Code (SCC), which applied an \u201cunmapped\u201d classification to all those areas without formal designation. SCC 21.64.010. The ordinance provided, \u201cIn the areas classified as unmapped (UNM) all uses which have not been declared a nuisance by statute, resolution, ordinance, or court of jurisdiction are allowable.\u201d SCC 21.64.020.\n\u00b65 In 1993, the County adopted zoning classifications and development regulations, codified at Title 22 SCC, to bring certain federal lands in compliance with the federal Columbia River Gorge National Scenic Area Act, 16 U.S.C. \u00a7 544. The ordinance applied exclusively to lands located within the Columbia River Gorge National Scenic Area. For several years thereafter, much of the County remained \u201cunmapped.\u201d\n\u00b66 On August 2, 2005, the County adopted Resolution 2005-35 (Resolution), which the County passed in order to comply with its GMA obligation to designate natural resource lands under RCW 36.70A.170. The Resolution declared, \u201c[T]he designation of forest and agricultural lands within the [Columbia River Gorge] National Scenic Area and the development regulations adopted under SCC Title 22 meets the requirements of the Growth Management Act (RCW 36.70A) for the conservation of forest, agricultural, and mineral resource lands.\u201d CP at 34. The respondents do not dispute that adopting the Resolution satisfied the County\u2019s obligation under the GMA to designate its natural resource lands. Br. of Appellants at 19 n.24. However, the County concedes that this Resolution did not meet its obligation to designate critical areas.\n\u00b67 On July 10,2007, the County revised its original 1977 comprehensive plan and designated much of the County\u2019s private forest area \u201cConservancy.\u201d The plan provided, \u201cThe Conservancy land use area is intended to provide for the conservation and management of existing natural resources in order to achieve a sustained yield of these resources, and to conserve wildlife resources and habitats.\u201d CP at 213. As a result, some areas in Skamania County carry both an unmapped zoning classification and a conservancy land designation.\n\u00b68 That same day, the County enacted an ordinance imposing a six-month building moratorium applicable to approximately 15,000 acres of unmapped private land within the unincorporated portion of the County. According to the ordinance, the purpose of the moratorium was \u201cto maintain the status quo of the area pending the County\u2019s consideration of developing zoning classifications for the areas covered by the newly adopted 2007 Plan and completing the Critical Areas Update Process.\u201d CP at 258. The County intended that the moratorium remain in effect \u201cuntil the zoning classifications related to the 2007 Comprehensive Plan and the Critical Areas Update Process [were] complete.\u201d CP at 258. The County renewed this moratorium every six months for five years, each time reiterating that the County was still in the process of designating lands consistent with the 2007 Plan.\n\u00b69 On August 21, 2012, the County renewed the moratorium for another six-month period but substantially modified its scope, reducing the moratorium to an approximately 4,500-acre region known as the High Lakes. Like each preceding moratorium, the ordinance stated that the County was in the process of updating the zoning classifications consistent with the 2007 Plan.\n\u00b610 Soon after portions of the moratorium were repealed, the County approved plans for the construction of a large industrial wind turbine farm, known as the Whistling Ridge Energy Project, to be built on the High Lakes site. In a separate suit, the two respondents in this case, Friends of the Columbia Gorge and Save Our Scenic Area (collectively SOSA), challenged the project\u2019s approval on the grounds that it was inconsistent with the 2007 Plan\u2019s conservancy land designation. But the 2007 Plan\u2019s \u201cConservancy\u201d designation does not impose enforceable restrictions on land use; restrictions are achieved only by zoning. The area is still classified as \u201cunmapped\u201d lands under the 1986 ordinance, and thus this court held that the industrial development was permissible because wind farms had not yet been declared a nuisance. Friends of Columbia Gorge, Inc. v. State Energy Facility Site Evaluation Council, 178 Wn.2d 320, 345, 310 P.3d 780 (2013).\nProcedural History\n\u00b611 The case before us involves the suit SOSA brought against the County in superior court, filed on September 11, 2012. SOSA sought declaratory and injunctive relief to stop the construction of the wind farm, alleging (among other claims not at issue here) that the County (1) violated the GMA, RCW 36.70A.130(l)(b), by failing to complete periodic review of its natural resource lands ordinance and (2) violated the PEA, RCW 36.70.545, by failing to ensure consistency between its 1986 zoning ordinance and its 2007 Plan. The County successfully moved for summary judgment, arguing that the GMA and PEA claims were barred as untimely. The judge\u2019s order provided:\n2. GMA Natural Resources. With respect to the County\u2019s GMA Natural Resource Designation and Update requirements, the County addressed these GMA requirements in 2005, through Resolution 2005-35. It is now 2012. GMA contains a 60-day appeal period, and land use decisions are to be reviewed expeditiously. With seven years having past [sic], it is now too late for an appeal to be filed.\n3. Unzoned Lands/Comprehensive Plan Consistency The County adopted the regulations applicable to Unzoned lands 27 years ago, and updated its Comprehensive Plan to address and provide for the designation of lands as Unzoned, in 2007. Washington policy is to review decisions affecting use of land expeditiously. The usual appeal period for land use decisions is 21-30 days. If GMA\u2019s analogous appeal period is used, an appeal must be filed within 60-days. Either way, the appeal period has past [sic].\nCP at 414-15 (footnote omitted).\n\u00b612 In an unpublished opinion, the Court of Appeals reversed the trial court on these two issues. With respect to the GMA claim, the court held that the County\u2019s findings of facts contained within the moratorium ordinances \u2014 indicating that the County was in the process of updating its forest land designations \u2014 revealed a genuine issue of fact as to whether the County actually completed periodic review on August 2, 2005, or whether that review process continued during the moratorium periods. Save Our Scenic Area v. Skamania County, noted at 180 Wn. App. 1017 (2014). With respect to the PEA claim, the Court of Appeals held that because the moratorium prohibited building on the unmapped lands, a genuine issue existed as to when any actionable inconsistency between the unmapped areas and the 2007 Plan arose. We granted review. Save Our Scenic Area v. Skamania County, 181 Wn.2d 1007, 335 P.3d 941 (2014).\nAnalysis\nStandard of Review\n\u00b613 We review the propriety of summary judgment rulings de novo, viewing the facts in the light most favorable to the nonmoving party. Summary judgment is proper when there is no genuine issue of material fact and the moving party is entitled to judgment as a matter of law. DePhillips v. Zolt Constr. Co., 136 Wn.2d 26, 959 P.2d 1104 (1998).\n\u00b614 It should also be noted, \u201c[F]rom the beginning the GMA was \u2018 \u201criddled with politically necessary omissions, internal inconsistencies, and vague language.\u201d \u2019 \u201d Thurston County v. W. Wash. Growth Mgmt. Hr\u2019gs Bd., 164 Wn.2d 329, 342, 190 P.3d 38 (2008) (quoting Quadrant Corp. v. Cent. Puget Sound Growth Mgmt. Hr\u2019gs Bd., 154 Wn.2d 224, 232, 110 P.3d 1132 (2005) (quoting Richard L. Settle, Washington\u2019s Growth Management Revolution Goes to Court, 23 Seattle U. L. Rev. 5, 8 (1999))). Given the GMA\u2019s contentious beginnings, we have held that the GMA\u2019s terms are not to be liberally construed. Woods v. Kittitas County, 162 Wn.2d 597, 612, 174 P.3d 25 (2007).\nGMA Claim\n\u00b615 SOSA\u2019s claim under the GMA arises out of RCW 36.70A.130(l)(b), which provides in relevant part:\nExcept as otherwise provided, a county or city not planning under RCW 36.70A.040[] shall take action to review and, if needed, revise its policies and development regulations regarding critical areas and natural resource lands adopted according to this chapter to ensure these policies and regulations comply with the requirements of this chapter according to the deadlines in subsections (4) and (5) of this section.\n\u00b616 When the Resolution was adopted on August 2, 2005, the deadline for the County\u2019s first periodic review for natural resource lands designations was December 1, 2005. RCW 36.70A.130(4)(b); CP at 5. The legislature subsequently extended the deadline to December 1, 2008. RCW 36.70A-.130(6)(b); CP at 165. SOSA argues that the County failed in its mandated obligation to complete review by the 2008 deadline, and it brought this suit to compel compliance.\n\u00b617 \u201cThe consistent policy in this state is to review [land use] decisions . . . expeditiously so that legal uncertainties can be promptly resolved.\u201d City of Federal Way v. King County, 62 Wn. App. 530, 538, 815 P.2d 790 (1991). Full planning counties are to file a petition with the Growth Management Hearings Board (GMHB) within 60 days of the land use decision at issue. RCW 36.70A.290(2). Challenges to CARL counties\u2019 land use decisions under the GMA are filed in superior court. Moore v. Whitman County, 143 Wn.2d 96, 104, 18 P.3d 566 (2001). In order to determine whether the appeal period lapsed on either claim, we must first determine when each claim was triggered.\n\u00b618 The County argues that the Resolution triggered SOSA\u2019s GMA claim because the Resolution satisfied the County\u2019s obligation to conduct periodic review and if SOSA disagreed, they had 60 days to appeal that decision. In petitioning this court, the County argues that the Court of Appeals erroneously construed the moratoria as \u201ctolling\u201d the appeal period.\n\u00b619 The Court of Appeals\u2019 conclusion is problematic. As the County correctly points out, moratoria do not suspend appeal periods. As noted by the dissent in Biggers v. City of Bainbridge Island, 162 Wn.2d 683, 709, 169 P.3d 14 (2007), \u201cBecause a moratorium is only a temporary suspension of established regulations, it does not repeal, amend, or contradict them.\u201d We agree that a moratorium generally does not prevent a land use decision from being final and appealable and that the appeal period begins when the land use decision is made. The County asserts that the appeal-able decision was made on August 2, 2005, when it adopted the Resolution and that SOSA had 60 days to bring action challenging that decision.\n\u00b620 However, the County\u2019s characterization of the Resolution as \u201cperiodic review\u201d considerably strains the plain meaning of the term and the effect of the Resolution. The Resolution merely designated certain resource lands, pursuant to the County\u2019s obligation under RCW 36.70A.170, and declared that the Resolution itself \u201cmeets the requirements of the Growth Management Act (RCW 36.70A) for the conservation of forest, agricultural, and mineral resource lands.\u201d CP at 34. The Resolution does not purport to satisfy the RCW 36.70A.130(l)(b) obligation, nor does it even contain the word \u201creview.\u201d The trial court erred in concluding that the Resolution had anything to do with periodic updates of those same critical areas or that it triggered SOSA\u2019s GMA claim.\n\u00b621 The Court of Appeals arrived at a similar conclusion in Thurston County v. Western Washington Growth Management Hearing Board, 137 Wn. App. 781, 797-98, 154 P.3d 959 (2007), aff\u2019d in part and rev\u2019d in part on other grounds, 164 Wn.2d 329, when it held that a 2003 Thurston County resolution was not part of its periodic update. The court concluded that the resolution merely declared that its provisions brought it in compliance with the GMA, \u201cbut [the resolution] did not refer to RCW 36.70A.130, did not make a finding that it was an \u2018update\u2019 within the meaning of the statute, and did not state the reasons it did not revise the agricultural lands designation criteria.\u201d Thurston County, 137 Wn. App. at 797. Here, we similarly conclude that the language contained in the Resolution indicates that its enactment does not constitute any part of the periodic review process.\n\u00b622 SOSA\u2019s action against the County is more properly characterized as a \u201cfailure to act\u201d claim, which is not necessarily subject to the same 60-day appeal period. Although the GMA provides a 60-day appeal period for land use decisions, the statute does not provide any appeal period for claims that arise out of a CARL county\u2019s failure to act. Therefore, we must determine which appeal period should apply. Typically, when a statute does not provide a limitation period, courts may apply an analogous appeal period from other sources of law and when there is more than one analogous appeal period, the longest period is applied. See Yoshio Akada v. Park 12-01 Corp., 103 Wn.2d 717, 695 P.2d 994 (1985).\n\u00b623 In this case, the most appropriate analogous appeal period is the period applicable to full planning counties when they bring similar actions before the GMHB. Applying the same rule to actions brought by partial planning counties in superior court, \u201c[a] petition relating to the failure of a state agency, city or county to take an action by a deadline specified in the Growth Management Act or the Shoreline Management Act may be brought at any time after the deadline for action has passed.\u201d WAC 242-03--220(5) (emphasis added). In other words, there is no time bar to challenge a county\u2019s failure to meet a GMA deadline. Based on this, SOSA\u2019s failure to act claim under the GMA is therefore timely.\nPEA Claim\n\u00b624 The PEA provides for the implementation and enforcement of land use development and regulation. Its provisions often overlap with and integrate portions of the GMA. Relevant to this case, the PEA requires, \u201cBeginning July 1, 1992, the development regulations of each county that does not plan under RCW 36.70A.040 shall not be inconsistent with the county\u2019s comprehensive plan. For the purposes of this section, \u2018development regulations\u2019 has the same meaning as set forth in RCW 36.70A.030.[]\u201d RCW 36.70.545. The PEA does not provide for a specific remedy for an inconsistency violation, but like other land use violations, the remedy in this case would be a court order to update the ordinances consistent with the 2007 Plan.\n\u00b625 Unlike its GMA claim, SOSA\u2019s PEA claim cannot fairly be characterized as a \u201cfailure to act\u201d claim. The County made a zoning decision.in 1986 to designate the area as \u201cunmapped\u201d and made another decision in 2007 to classify lands as \u201cconservancy.\u201d Any inconsistency between the 1986 ordinance classification and the 2007 Plan\u2019s conservancy designation existed on July 10, 2007, when the 2007 Plan was adopted. On its face, the 1986 ordinance is a \u201cdevelopment regulation,\u201d which is arguably inconsistent with the conservancy designation contained in the 2007 Plan. The County argues that SOSA had 60 days from July 10,2007 to challenge that inconsistency and that their 2012 claim is therefore time barred.\n\u00b626 However, only final decisions are appealable, and the unique facts presented in this case all point to the conclusion that the \u201cunmapped\u201d areas were not a final, appealable regulation until 2012. The County unequivocally stated that it needed time to update the unmapped, \u201cfree for all\u201d areas to attune them with the newly adopted 2007 Plan\u2019s conservancy designations. Every six months, the County enacted ordinances that suspended building \u201cuntil the zoning classifications related to the 2007 Comprehensive Plan and the Critical Areas Update Process [were] complete.\u201d CP at 258. The County enacted moratoria in order to maintain the status quo until a final determination could be made. To be clear, we do not hold that the moratoria themselves rendered the 1986 ordinances \u201ctemporary\u201d; as we have previously said, moratoria do not suspend appeal periods or enacted laws. But in this case, the County declared the \u201cunmapped\u201d areas temporary until the update process could be completed, hence the need for a moratorium to maintain the status quo. Therefore, there was no final county action to appeal during this period.\n\u00b627 Now the County claims that SOSA should have nevertheless filed suit earlier, demanding an update to these areas while the County was in the midst of making those very same updates. The problem with this argument is that had SOSA brought the claim in 2007, the County could have successfully argued that the \u201cunmapped\u201d zones were only placeholders while the County completed the update process and that no inconsistency existed until those zones were adopted as final development regulations. The only remedy available had the suit been brought in 2007 would have been a court order to update the ordinances \u2014 the very process that the County declared numerous times that it was already undertaking. This lack of appropriate remedy is probative of the fact that this claim was not justiciable until the County decided the \u201cunmapped\u201d classifications were final.\n\u00b628 Second, the PEA\u2019s provision involving the disposition of \u201cunmapped areas\u201d suggests that these classifications are not typically envisioned as permanent fixtures. The statute provides:\nAfter the adoption of the first map provided for in RCW 36.70.740, and pending the time that all property within a county can be precisely zoned through the medium of a zoning map, all properties not so precisely zoned by map shall be given a classification affording said properties such broad protective controls as may be deemed appropriate and necessary to serve public and private interests.\nRCW 36.70.780.\n\u00b629 By its nature, an \u201cunmapped\u201d classification serves as a placeholder, rather than permanent designation. Unlike full planning counties, the County is not obligated to set forth zoning classifications by ordinance, and unlike those counties, it retains the prerogative to leave these areas permanently \u201cunmapped.\u201d Although it retains that prerogative, the County reiterated by way of its moratorium ordinances that it intended to update those areas so that they would no longer remain \u201cunmapped.\u201d From 2007 to 2012, these areas effectively lacked any classification, and there was nothing for SOSA to challenge until the County made its final decision.\n\u00b630 Because there was no final \u201cdevelopment regulation\u201d to challenge until August 2012, when the County indicated that it had either completed zoning or was abandoning efforts to update the zones in certain areas, an appealable inconsistency did not exist until that 2012 date. SOSA\u2019s September 2012 PEA claim is therefore timely.\nConclusion\n\u00b631 SOSA\u2019s GMA claim for failure to conduct periodic review is not subject to the 60-day appeal period because GMA claims are triggered by activity, not inactivity. Failure to act claims may be brought any time after the statutory deadline, and, therefore, the GMA claim is timely. SOSA\u2019s PEA claim is also timely because no actionable inconsistency existed until August 2012, when the County effectively made the \u201cunmapped\u201d classification a permanent status by indicating that the ordinances were no longer temporary. For the above reasons, we affirm the Court of Appeals only in its reversal of the trial court and remand the case to the trial court for further proceedings consistent with this opinion.\nOwens, Fairhurst, Stephens, and Gonz\u00e1lez, JJ., concur.\nThe plaintiffs also brought a State Environmental Policy Act claim under chapter 43.21C RCW, which the trial court also dismissed on summary judgment. The Court of Appeals affirmed the dismissal of that claim, and the respondents in this case did not seek review.\nThe GMA initially required that the County complete designation of its natural resource lands and critical areas on or before September 1,1991, followed by periodic review to ensure compliance with the GMA. RCW 36.70A.170(1), . 130(l)Cb). The legislature extended the deadline three times, resulting in the latest deadline to complete the periodic review on December 1, 2008. RCW 36.70A.130(6)(b); CP at 165. The County conceded before the trial court that it failed to meet its obligation to designate critical areas by the deadline, and accordingly, the superior court granted summary judgment in favor of the plaintiffs, ordering the county to complete GMA critical areas designation by December 1, 2013. On appeal, the respondents challenge only the County\u2019s failure to conduct periodic review of its ordinances by the same deadline. See Br. of Appellants at 19 n.24.\nRCW 36.70A.040 applies to the review and update requirements for full planning counties, not CARL counties.\nSave Our Scenic Area, but not Friends of the Columbia Gorge, brought a similar claim in 2008, alleging the County\u2019s failure to conduct periodic review by its 2008 deadline. But that complaint was dismissed without prejudice for lack of prosecution. In their briefing, SOSA explains that it \u201caccepted at face value\u201d the findings contained in the moratorium ordinances that the County was still in the process of completing the updates and decided not to prosecute the suit. Resp\u2019ts\u2019 Suppl. Br. at 9 n.18.\nAfter the 60-day window has expired, challengers can challenge only the consistency of site-specific rezones under the Land Use Petition Act, chapter 36.70C RCW, and those challenges are heard by superior courts. Woods, 162 Wn.2d at 616.\nPerhaps realizing that SOSA is correct in characterizing its GMA claim as a \u201cfailure to act\u201d claim, the County argues in its supplemental briefing that the respondents should be barred from making this argument because it is \u201can ad hoc argument newly raised on appeal.\u201d Suppl. Br. of Pet\u2019r at 16 (formatting omitted). The County suggests that SOSA never characterized their claim as a \u201cfailure to act\u201d claim before the trial court, either in its written response to summary judgment or during oral argument. Suppl. Br. of Pet\u2019r at 17.\nThe County\u2019s assertion contradicts the record. The record reveals that SOSA explicitly argued at the motion hearing, \u201cThe statute of limitations apply [sic] to actions taken, not to inaction. And that\u2019s what this case is about, is \u2014 is inaction.\u201d Verbatim Report of Proceedings at 18. In its complaint, SOSA alleged that \u201cSkamania County has not completed review ... in violation of RCW 36.70A-.130(1)(b), 36.70A.130(4), and 36.70A. 130(6).\u201d CP at 12. This is not a newly raised argument.\nThis provision of the GMA provides:\n\u201c(7) \u2018Development regulations\u2019 or \u2018regulation\u2019 means the controls placed on development or land use activities by a county or city, including, but not limited to, zoning ordinances, critical area ordinances, shoreline master programs, official controls, planned unit development ordinances, subdivision ordinances, and binding site plan ordinances together with any amendments thereto. A development regulation does not include a decision to approve a project permit application, as defined in RCW 36.70B.020, even though the decision may be expressed in a resolution or ordinance of the legislative body of the county or city.\u201d",
+        "type": "majority",
+        "author": "Johnson, J."
+      },
+      {
+        "text": "Gordon McCloud, J.\n\u00b632 (dissenting) \u2014 I agree with the majority that the respondents\u2019 Growth Management Act (GMA), chapter 36.70A RCW, action is properly characterized as a \u201cfailure to act\u201d claim and that such claims may be brought any time after the failure occurs. Majority at 466.1 therefore concur in the majority\u2019s resolution of the first issue, permitting respondents to pursue their GMA claim against Skamania County (County).\n\u00b633 But I disagree with the majority\u2019s resolution of the second issue, permitting the respondents to pursue their claim under the Planning Enabling Act of the State of Washington (PEA), chapter 36.70 RCW. The majority holds that the County\u2019s \u201c2007 Comprehensive Plan\u201d (Plan) was not a \u201cfinal decision\u201d triggering any limited period for appeal. In doing so, the majority necessarily holds that the development moratoria the County enacted between 2007 and 2012 tolled the appeal period applicable to the PEA claim. Because this directly conflicts with our precedent holding that development moratoria do not suspend appeal periods, I respectfully dissent.\n\u00b634 The respondents in this appeal, Save Our Scenic Area and Friends of the Columbia Gorge (collectively SOSA), allege a violation of RCW 36.70.545. As the majority correctly observes, a violation of this statute arises where a county\u2019s development regulations are inconsistent with its comprehensive plan \u2014 and the remedy for such a violation would be a court order to fix the inconsistency. Majority at 468-69. Thus, a violation of RCW 36.70.545 becomes actionable \u2014 and the period for appeal begins to run \u2014 when an alleged inconsistency arises.\n\u00b635 In this case, the majority concludes that an actionable inconsistency first arose when the County lifted the development moratorium formerly applicable to several thousand acres of \u201c \u2018unmapped\u2019 \u201d land, some of which was designated as \u201cconservancy\u201d land in the County\u2019s Plan. Majority at 468. It explains that the 1986 ordinance designating certain areas as \u201c \u2018unmapped\u2019 \u201d is a \u201c \u2018development regulation,\u2019 which is arguably inconsistent with the conservancy designation contained in the 2007 Plan.\u201d Majority at 468. Of course, this arguable inconsistency existed in 2007, when the County first adopted the Plan. The majority acknowledges this but holds that the development morato-ria enacted between 2007 and 2012 rendered the 1986 ordinance temporary and therefore not subject to appeal. Majority at 468. In other words, it holds that the development moratoria tolled the statute of limitations applicable to SOSA\u2019s PEA claim.\n\u00b636 The majority attempts to avoid this result by limiting its holding to \u201cthe unique facts presented in this case.\u201d Majority at 468. It purports not to hold that \u201cthe moratoria themselves rendered the 1986 ordinances \u2018temporary\u2019 \u201d but instead to hold only that the moratoria were necessary \u201cto maintain the status quo\u201d while the County updated its already temporary zoning classifications. Majority at 468 (emphasis added).\n\u00b637 I respectfully disagree. The majority\u2019s reasoning provides no basis on which to distinguish this case from any other in which a municipality adopts a development moratorium so that it can update existing regulations. See Biggers v. City of Bainbridge Island, 162 Wn.2d 683, 707, 169 P.3d 14 (2007) (Fairhurst, J., dissenting) (\u201cLand use scholars and courts recognize that moratoria are valid tools for local government to forestall filing of permit applications when amending land use regulations.\u201d). And it forces municipalities to choose between finality (protected by statutes of limitations) and careful planning (aided by development moratoria).\n\u00b638 In this case, the County is correct that SOSA could have brought its PEA claim in 2007, when the County first adopted the Plan. Indeed, Save Our Scenic Area (but not Friends of the Columbia Gorge) brought the exact same claim in 2008, but it was dismissed without prejudice for want of prosecution. Clerk\u2019s Papers (CP) at 381. In its 2008 lawsuit, Save Our Scenic Area alleged that \u201c[t]he Unmapped Classification is inconsistent with the Conservancy designation of the comprehensive plan because it allows within the Conservancy area any use not declared to be a nuisance and prohibits the application of any terms of the Skamania county zoning to any such uses.\u201d CP at 376. In its present lawsuit, SOSA repeats this claim verbatim, but then adds this paragraph:\n7.6. Skamania County\u2019s failure to zone the Unmapped lands and the County\u2019s failure to protect these lands and their resources from incompatible uses (other than the series of moratorium ordinances that Skamania County has now repealed for the majority of the Unmapped lands) have resulted in development regulations that are inconsistent with the Conservancy designation of the Comprehensive Plan and that violate the consistency requirement of RCW 36.70.545.\nCP at 15 (emphasis added). But it does not identify any development regulations that it believes are inconsistent with the Plan.\n\u00b639 SOSA speculates that had it brought its PEA claim in 2007, \u201cthe County would undoubtedly have argued that because ... the moratorium \u2018maintain [ed] the status quo\u2019 on the affected lands until the County could complete its work and take final action, SOSA\u2019s claims were not yet ripe.\u201d Resp\u2019ts\u2019 Suppl. Br. at 9-10 (second alteration in original) (citation omitted). The majority accepts this speculation, holding that there would have been no \u201cappropriate remedy\u201d in 2007, for the alleged inconsistency at issue here: \u201cThe only remedy available had the suit been brought in 2007 would have been a court order to update the ordinances \u2014 the very process that the County declared numerous times that it was already undertaking.\u201d Majority at 469.\n\u00b640 Again, I respectfully disagree. We can\u2019t assume that the County would have argued, in 2007, that the development moratorium rendered the PEA challenge unripe. Had SOSA brought a timely PEA claim, the County might well have argued \u2014 as it does in this court \u2014 that the \u201c[unmapped\u201d zoning designation was entirely consistent with the Plan. Suppl. Br. of Pet\u2019r at 7 & n.20. Indeed, the Plan explicitly identifies the \u201c[u]nmapped\u201d areas as consistent with the Plan\u2019s \u201cConservancy\u201d designation. CP at 211 (boldface omitted). Had SOSA brought its claim in 2007, we might now have a court order recognizing this consistency and precluding SOSA\u2019s current PEA claim. Or we might have an order granting or denying relief for a different reason. The point is that this matter could have been resolved in 2007, when the County first adopted the Plan.\n\u00b641 To be sure, if the County adopts new development regulations that are inconsistent with the Plan, or if it amends the Plan in a manner that renders it inconsistent with existing development regulations, any party may timely appeal that action. But the County has not done this. The alleged inconsistency at issue in this case has existed since 2007 and could have been challenged at that time. The majority\u2019s speculation that the development moratoria prevented SOSA from bringing an action in 2007 is neither supported by the record nor consistent with our precedent. Because I believe that the majority\u2019s holding conflicts with the rule that development moratoria do not suspend appeal periods, I respectfully dissent.\nMadsen, C.J., and Wiggins and Yu, JJ., concur with Gordon McCloud, J.\nIt is not clear what appeal period applies to a PEA claim. As the trial court noted in its ruling in this case, land use decisions are typically subject to a 21-day or 30-day appeal period. Clerk\u2019s Papers (CP) at 415 & n.4 (citing chapter 36.70C RCW (the Land Use Petition Act) and chapter 34.05 RCW (the Administrative Procedure Act)). The County asserts that a PEA claim triggers a 60-day time limit. Pet\u2019Fs Resp. to Amici Curiae Brs. of Futurewise et al. at 2 & n.4. But the statute it cites for this assertion applies to \u201cpetitions relating to whether or not an adopted comprehensive plan ... is in compliance with the goals and requirements of the [GMA] or chapter 90.58 or 43.12 RCW\u201d \u2014 -it doesn\u2019t address claims that a county has violated a requirement of the PEA. RCW 36.70A.290(2). In any event, we need not decide this question now. Even if we applied the 60-day period available under the GMA, that period has long passed.\nBiggers v. City of Bainbridge Island, 162 Wn.2d 683, 706, 169 P.3d 14 (2007) (Chambers, J., concurring in result) (\u201cI agree with Justice Fairhurst that municipalities can place moratoria on shoreline substantial development permits without conflict with the SMA [Shoreline Management Act of 1971, chapter 90.58 RCW].\u201d); id. at 709 (Fairhurst, J., dissenting) (\u201c[T]he city\u2019s suspension of development while it revised its shoreline master program (SMP) and obtained additional scientific information did not conflict with... the priorities ... set out in the SMA. Because a moratorium is only a temporary suspension of established regulations, it does not repeal, amend, or contradict them.\u201d); majority at 465 (\u201cmoratoria do not suspend appeal periods\u201d).",
+        "type": "dissent",
+        "author": "Gordon McCloud, J."
+      }
+    ],
+    "attorneys": [
+      "Susan E. Drummond (of Law Offices of Susan E. Drummond)', and Adam N. Kick, Prosecuting Attorney for Skamania County, for petitioner.",
+      "J. Richard Aramburu {o\u00ed Aramburu & Eustis LLP); Gary K. Kahn (of Reeves Kahn Hennessy & Elkins); and Nathan J. Baker (of Friends of the Columbia Gorge), for respondents.",
+      "Josh Weiss on behalf of Washington State Association of Counties, amicus curiae.",
+      "Tim Trohimovich on behalf of Futurewise, Friends of the White Salmon River, Columbia Riverkeeper, Spokane Riverkeeper, Neighborhood Alliance of Spokane County, Grays Harbor Audubon Society, Friends of Grays Harbor, Palouse Audubon Society, Spokane Audubon Society, Vancouver Audubon Society, Willapa Hills Audubon Society, and North Central Washington Audubon Society, amici curiae."
+    ],
+    "corrections": "",
+    "head_matter": "[No. 90398-1.\nEn Banc.]\nArgued February 17, 2015.\nDecided June 11, 2015.\nSave Our Scenic Area et al., Respondents, v. Skamania County, Petitioner.\nSusan E. Drummond (of Law Offices of Susan E. Drummond)', and Adam N. Kick, Prosecuting Attorney for Skamania County, for petitioner.\nJ. Richard Aramburu {o\u00ed Aramburu & Eustis LLP); Gary K. Kahn (of Reeves Kahn Hennessy & Elkins); and Nathan J. Baker (of Friends of the Columbia Gorge), for respondents.\nJosh Weiss on behalf of Washington State Association of Counties, amicus curiae.\nTim Trohimovich on behalf of Futurewise, Friends of the White Salmon River, Columbia Riverkeeper, Spokane Riverkeeper, Neighborhood Alliance of Spokane County, Grays Harbor Audubon Society, Friends of Grays Harbor, Palouse Audubon Society, Spokane Audubon Society, Vancouver Audubon Society, Willapa Hills Audubon Society, and North Central Washington Audubon Society, amici curiae."
+  },
+  "file_name": "0455-01",
+  "first_page_order": 509,
+  "last_page_order": 528
+}

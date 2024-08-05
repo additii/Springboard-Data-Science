@@ -1,0 +1,85 @@
+{
+  "id": 1428435,
+  "name": "Morrow v. Scroggins",
+  "name_abbreviation": "Morrow v. Scroggins",
+  "decision_date": "1934-03-19",
+  "docket_number": "4-3402",
+  "first_page": "1088",
+  "last_page": "1090",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "188 Ark. 1088"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [
+    {
+      "cite": "26 S. W. (2d) 95",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "181 Ark. 424",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        8722145
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/181/0424-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 216,
+    "char_count": 3129,
+    "ocr_confidence": 0.49,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.05372475383699976
+    },
+    "sha256": "5b9137507cb8ced505c4e2fb3993d0494ee39d14eb1db4dfe0f40f92ad156ab4",
+    "simhash": "1:988cc17cb09c2122",
+    "word_count": 529
+  },
+  "last_updated": "2024-02-27T23:51:14.545434+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Morrow v. Scroggins."
+    ],
+    "opinions": [
+      {
+        "text": "Humphreys, J.\nThis is an appeal from a judgment rendered by the circuit court of Johnson County, sitting as a jury by agreement, finding and adjudging that appellee was entitled to recover $970.25 from W. J. Morrow, Jr., administrator in succession, and his bondsmen, J. S. Kolb and W. J. Morrow, Sr., who are appellants herein. The judgment recites on its face that it was rendered on June 17, 1933, and filed July 15, 1933. The judgment also recites that the cause was duly submitted to the court at a regular term thereof and was heard on June 17,1933, 'both appellants and appellee being present by their respective, attorneys. The record reflects that the regular term of court at which the cause was submitted was adjourned on May 8, 1933, to June 19, 1933, and was not in session between said dates; hence that the cause was heard and determined in vacation. The subsequent proceedings show that the judgment rendered in vacation was filed during the adjourned term, which convened on June 19,1933, or, to be more definite, was filed on July 15, 1933.\nAppellant contends for a reversal of the judgment because there is no constitutional or statutory law vesting the circuit court with authority to take a case under submission at a regular term of court, and to hear and determine it in vacation. This is true, but in the instant case the .judgment rendered in vacation was not filed or entered until the court reconvened. The filing or entry of the judgment in term time amounted to a confirmation of the findings of fact and law in vacation and to a rendition of the judgment in open court.\nAppellants also contend for a reversal of the judgment because the. court rendered a judgment in favor of appellee for $970.25. Appellee brought suit against appellants to recover the balance due her for her dower interest in her husband\u2019s estate. The appellant, J. W. Morrow, Jr., brought a suit against George H. Scroggins and appellee to recover amounts alleged to have been unaccounted for in his final settlement as administrator. The two cases were consolidated and submitted to the court, sitting as a jury, upon the pleadings and evidence adduced, which resulted in a finding that W. J. Morrow, Jr., administrator in succession of the estate of William Scroggins, was not entitled to go behind the final settlement of George H. Scroggins, which was approved by the probate court on February 23, 1931, and that appellee was entitled to recover from appellants the balance due on her dower interest, less $1,003.74, for which George H. Scroggins wrongfully took credit as adjudged in a former case. The issues involved in these consolidated cases were involved in the trial of Scroggins v. Osborn Company, 181 Ark. 424, 26 S. W. (2d) 95, and were decided adversely to the contention of appellants herein upon practically the same record iioav before us. The findings of the court herein are supported by substantial evidence in the record.\nThe judgement is therefore affirmed.",
+        "type": "majority",
+        "author": "Humphreys, J."
+      }
+    ],
+    "attorneys": [
+      "Williams & Williams, for appellant.",
+      "Daniel B. Byrd and Robert Bailey, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Morrow v. Scroggins.\n4-3402\nOpinion delivered March 19, 1934.\nWilliams & Williams, for appellant.\nDaniel B. Byrd and Robert Bailey, for appellee."
+  },
+  "file_name": "1088-01",
+  "first_page_order": 1106,
+  "last_page_order": 1108
+}

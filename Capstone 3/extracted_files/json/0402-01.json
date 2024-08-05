@@ -1,0 +1,187 @@
+{
+  "id": 8722875,
+  "name": "Gage v. Arkansas Central Railroad Company",
+  "name_abbreviation": "Gage v. Arkansas Central Railroad",
+  "decision_date": "1923-10-15",
+  "docket_number": "",
+  "first_page": "402",
+  "last_page": "405",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "160 Ark. 402"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [
+    {
+      "cite": "118 Ark. 375",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1562511
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/118/0375-01"
+      ]
+    },
+    {
+      "cite": "77 Ark. 357",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1499052
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/77/0357-01"
+      ]
+    },
+    {
+      "cite": "84 Ark. 151",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "77 Ark. 363",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "89 Ark. 154",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1515263
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/89/0154-01"
+      ]
+    },
+    {
+      "cite": "85 Ark. 127",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1523347
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/85/0127-01"
+      ]
+    },
+    {
+      "cite": "32 Am. Rep. 63",
+      "category": "reporters:state_regional",
+      "reporter": "Am. Rep.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "65 Ind. 188",
+      "category": "reporters:state",
+      "reporter": "Ind.",
+      "case_ids": [
+        1516603
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ind/65/0188-01"
+      ]
+    },
+    {
+      "cite": "22 L. R. A. (N. S.) 1200",
+      "category": "reporters:federal",
+      "reporter": "L.R.A.N.S.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "150 N. C. 703",
+      "category": "reporters:state",
+      "reporter": "N.C.",
+      "case_ids": [
+        11272520
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nc/150/0703-01"
+      ]
+    },
+    {
+      "cite": "144 Ark. 11",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1588006
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/144/0011-01"
+      ]
+    },
+    {
+      "cite": "77 Ark. 357",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1499052
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/77/0357-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 372,
+    "char_count": 6041,
+    "ocr_confidence": 0.514,
+    "pagerank": {
+      "raw": 3.471173656458332e-07,
+      "percentile": 0.881243848579589
+    },
+    "sha256": "16f5995a5d02ed4e96ca8225f00e0b54cf78db97961557da3f78ac4cb494d8bf",
+    "simhash": "1:b30160048a690762",
+    "word_count": 1046
+  },
+  "last_updated": "2024-02-27T17:41:07.582861+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Gage v. Arkansas Central Railroad Company."
+    ],
+    "opinions": [
+      {
+        "text": "Hart, J.,\n(after stating the facts). The circuit court was right in directing a verdict for appellee. It is true that railroad companies are bound to have all reasonable and necessary facilities and appliances for conducting and carrying on their business in a prompt, skilful, and careful manner, but they are not bound to be prepared for unusual contingencies which no ordinary prudence or foresight could reasonably foresee or anticipate. So that it has been held in this State, where, an unusual contingency has arisen winch unexpectedly increases the business of a railroad company, it will be excused for delaying shipping, or even in receiving goods for shipment, until such goods can, in the regular and usual course of business, be removed. St. L. S. W. Ry. Co. v. Clay County Gin Co., 77 Ark. 357, and Hines v. Mason, 144 Ark. 11.\nIn the application of the rule, if the railroad, as in this case, is prevented in the handling of freight in a prompt and expeditious manner by unforeseen conditions, such as a strike, over which it had no control, and over which, in the nature of things, it could have no control, it will likewise be excused from receiving freight for shipment. 10 C. J. 67; Murphy Hdw. Co. v. Southern Ry. Co., 150 N. C. 703, 22 L. R. A. (N. S.) 1200; and Pittsburgh, Cinn. & St. L. Ry. Co. v. Hollowell, 65 Ind. 188, 32 Am. Rep. 63.\nIt appears from the record that a switchmen\u2019s strike in the city of Kansas City, Missouri,'caused all railroads which entered that city to refuse to receive freight from connecting carriers. The line of the .defendant\u2019s railroad only extended from Ratcliff to Fort Smith, Arkansas. On account of the embargo on freight consigned to Kansas City, Missouri, it did not receive the shipment of hogs in question. The strike was not in any manner induced or caused by appellee. It had nothing whatever to do with it, and the embargo placed on freight consigned to Kansas City prevented it from receiving the \u25a0hogs for shipment. .\nThe testimony on this branch of the case was undisputed, and it follows that, under the principles of law above announced, the court was right in directing a verdict for appellee. The direction was a general one, but, even if it had been directed because the court had a different theory from the one announced above, the result would not be different on appeal.\nWhere the right conclusion is reached under a state of facts which are undisputed, although through an erroneous route,.it is tbe duty of tins court to affirm. St. L., I. M. & S. R. Co. v. Randle, 85 Ark. 127, and St. L. S. W. Ry. Co. v. Grayson, 89 Ark. 154.\nTherefore the judgment -will be affirmed.",
+        "type": "majority",
+        "author": "Hart, J.,"
+      }
+    ],
+    "attorneys": [
+      "Cheto & Ford, for appellant.",
+      "Thomas B. Pryor and Vincent M. Miles, for appel-lee."
+    ],
+    "corrections": "",
+    "head_matter": "Gage v. Arkansas Central Railroad Company.\nOpinion delivered October 15, 1923.\n1. Carriers \u2014 refusal to receive freight \u2014 excuse.\u2014Where a carrier is prevented from handling freight in a prompt and ' expeditious manner by unforeseen conditions such as a strike, over which it has no control and over which, in the nature of things, it could have no control, it will be excused from receiving freight for shipment until such freight, can, in the regular and usual course of business, be removed.\n2. Appeal and error \u2014 harmless error. \u2014 Where the trial court reached the right conclusion under a state of facts which is undisputed, although by an erroneous route, it is the duty of the Supreme Court to affirm the case.\nAppeal from Franklin Circuit Court, Charleston District; James Cochran, Judge;\naffirmed.\nSTATEMENT OE PACTS.\nTreating this case as counsel for appellant has treated it, it is an action \u00a1by appellant against appellee to recover damages for the common-law breach of duty of appellee, as a common carrier, in refusing to receive for shipment certain hogs of appellant.\nAccording to the evidence adduced in favor of appellant, appellee owns and operates a line of railroad between Paris and Fort Smith, Arkansas. Appellant made application to the station agent of appellee at Ratcliff, Arkansas, for two cars for the purpose of transporting 148 hogs to Kansas City, Missouri. Appellant requested that the cars be set at the stock pens of appellee at Rat-cliff, Arkansas, on the 8th day of April, 1920. Appellee had bis hogs in the stock pens at said station on said date, ready for shipment, but appellee refused to receive the same;\nThe station agent at Ratcliff, Arkansas, the superintendent, and the train dispatcher of appellee, Arkansas Central Railroad Company, were all witnesses' for it. Each of them testified that the distance from Ratcliff, Arkansas, to Kansas City, Missouri, is 397 miles, and that, in the ordinary movement of trains, the carload of stock would make the trip in about 48 hours. The railroad company received information on April 8,1920, that there was an embargo placed by the railroads running into Kansas City on all kinds of freight consigned to that place. The embargo on freight for Kansas City was due to a switchmen\u2019s strike, and the agents on the Arkansas Central Eailroad Company were notified that no freight would be received consigned to Kansas City, Missouri, until the embargo was lifted. The embargo was raised on the 30th day of April, 1920, and freight cars, as requested, were placed for appellant on May 1, 1920. The hogs were then shipped by appellant to Kansas City, Missouri.\nThe court directed a verdict for the appellee, and the case is here on appeal.\nCheto & Ford, for appellant.\nAppellant\u2019s action was not brought under \u00a7 913, C. & M. Digest, but was one for failure to receive freight, and the resultant damages. The statute of limitations is three years instead of one, as held by the court.\nThomas B. Pryor and Vincent M. Miles, for appel-lee.\nWhether the suit was one for failure to furnish cars (77 Ark. 363) or failure to receive freight (84 Ark. 151) the penalty is fixed by \u00a7 913, C. & M. Digest. It fixes the period of limitation at one year. Therefore the court was correct in sustaining a plea of the statute of limitation. A parallel case is that found in 77 Ark. 357. As directly in point, see 118 Ark. 375."
+  },
+  "file_name": "0402-01",
+  "first_page_order": 426,
+  "last_page_order": 429
+}

@@ -1,0 +1,78 @@
+{
+  "id": 12457148,
+  "name": "State, Respondent, v. Russell, Petitioner",
+  "name_abbreviation": "State v. Russell",
+  "decision_date": "2016-06-29",
+  "docket_number": "No. 92893-2",
+  "first_page": "1038",
+  "last_page": "1038",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "185 Wash. 2d 1038"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Wash.",
+    "id": 9029,
+    "name": "Washington Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 38,
+    "name_long": "Washington",
+    "name": "Wash."
+  },
+  "cites_to": [
+    {
+      "cite": "192 Wn. App. 1007",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        12456124,
+        12456125,
+        12456126,
+        12456127
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/192/1007-01",
+        "/wash-app/192/1007-02",
+        "/wash-app/192/1007-03",
+        "/wash-app/192/1007-04"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 27,
+    "char_count": 189,
+    "ocr_confidence": 0.849,
+    "sha256": "068d2eee2d7118b958fb89af93e11b0398fad5325745721993a0a3b3c2c0a37c",
+    "simhash": "1:80996a391ddd43b4",
+    "word_count": 31
+  },
+  "last_updated": "2024-02-28T00:06:59.447104+00:00",
+  "provenance": {
+    "date_added": "2019-05-22",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "State, Respondent, v. Russell, Petitioner,"
+    ],
+    "opinions": [
+      {
+        "text": "Petition for review of a decision of the Court of Appeals, No. 72428-2-I, January 11, 2016, 192 Wn. App. 1007. Denied June 29, 2016.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "State, Respondent, v. Russell, Petitioner,\nNo. 92893-2."
+  },
+  "file_name": "1038-04",
+  "first_page_order": 990,
+  "last_page_order": 990
+}

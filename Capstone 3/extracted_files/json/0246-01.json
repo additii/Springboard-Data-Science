@@ -1,0 +1,227 @@
+{
+  "id": 1358402,
+  "name": "Greeson v. St. Louis Union Trust Company",
+  "name_abbreviation": "Greeson v. St. Louis Union Trust Co.",
+  "decision_date": "1922-12-11",
+  "docket_number": "",
+  "first_page": "246",
+  "last_page": "247",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "156 Ark. 246"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [
+    {
+      "cite": "86 Ark. 258",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "59 U. S. Rep. 540",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "27 Ark. 463",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "137 Ark. 153",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "127 Ark. 153",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1550224
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/127/0153-01"
+      ]
+    },
+    {
+      "cite": "69 Ark. 119",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        8720168
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/69/0119-01"
+      ]
+    },
+    {
+      "cite": "34 Ark. 346",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1875718
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/34/0346-01"
+      ]
+    },
+    {
+      "cite": "53 Ark. 445",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1911609
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/53/0445-01"
+      ]
+    },
+    {
+      "cite": "30 Ohio St. 436",
+      "category": "reporters:state",
+      "reporter": "Ohio St.",
+      "case_ids": [
+        897498
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ohio-st/30/0436-01"
+      ]
+    },
+    {
+      "cite": "53 Ark. 110",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1911726
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/53/0110-01"
+      ]
+    },
+    {
+      "cite": "105 Ark. 261",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1347022
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/105/0261-01"
+      ]
+    },
+    {
+      "cite": "77 Ark. 216",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1499080
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/77/0216-01"
+      ]
+    },
+    {
+      "cite": "99 Ark. 324",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1314397
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/99/0324-01"
+      ]
+    },
+    {
+      "cite": "123 Ark. 18",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1556190
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/123/0018-01"
+      ]
+    },
+    {
+      "cite": "135 Ark. 279",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1571561
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/135/0279-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 257,
+    "char_count": 3512,
+    "ocr_confidence": 0.517,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.05121727174055321
+    },
+    "sha256": "a49f35bd57e999e11b9f1af020a11258e72ff16256e40023634b16db7630f8d4",
+    "simhash": "1:a8fb448121aaa07e",
+    "word_count": 621
+  },
+  "last_updated": "2024-02-27T21:52:19.957046+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Greeson v. St. Louis Union Trust Company."
+    ],
+    "opinions": [
+      {
+        "text": "Humphreys, J.\nThis . suit was commenced in. the Nevada Chancery Court by appellees against appellants to recover a personal judgment against M. W. Greeson for $8,192.86, and to foreclose a mortgage lien on certain lands in said county given by Greeson and wife to secure same. Jas. G. Clark, who purchased Greeson\u2019s equity in the land, was made a party defendant. A judgment and decree of foreclosure against the lands to satisfy same was obtained on the 7th day of October, 1921. Pursuant to the order of sale, the duly appointed commissioner, A. S. McGough, sold the land at public sale on December 3, 1921, at which sale Louis Suckle, being the highest bidder, purchased the land for $11,000. The sale was confirmed and the purchase money paid to the commissioner on April 6, 1922. Thereupon Jas. G. Clark and M. W. Greeson filed an intervention asking that, after paying the cost and amount due appellee, the surplus-be paid to Jas. G. Clark. The court denied the intervention in part, ordering that the surplus be paid to Clark after paying costs, the amount due appellee, and the taxes for the year 1921. From that part of the decree ordering the commissioner to pay the 1921 taxes on said land out of the proceeds of the sale appellants have duly prosecuted an appeal to this court.\nAppellants contend that the court erred in ordering the taxes paid out of the proceeds of the sale. The sale occurred on December 3, 1921. On that date the taxes were not due and payable. It is true that the sale was not confirmed until April 6, 1921, but the date of sale, and not confirmation thereof, governs as to whether the purchaser or mortgagor at judicial sales shall be charged with the taxes. Under our statutes the mortgagor is chargeable with the State, county and municipal taxes due and payable' on the day the land is bid in, and the purchaser is chargeable with the taxes which become due and payable at a subsequent date. Miners Bank of Joplin v. Churchill, ante p. 191. The court erred in ordering the 1921 taxes paid out of the proceeds of the sale.\nThe decree is therefore reversed and the cause is remanded, with directions to enter judgment in favor of James G. Clark\" for $421.27, with 6 per cent, interest from April 6,1922, same being the amount of the 1921 taxes.",
+        "type": "majority",
+        "author": "Humphreys, J."
+      }
+    ],
+    "attorneys": [
+      "McMillan \u00a3 McMillan, for 'appellants.",
+      "Tompkins, McRae \u00a3 Tompkins, for appellees.",
+      "McMillan \u00a3 McMillan, for appellants, in reply."
+    ],
+    "corrections": "",
+    "head_matter": "Greeson v. St. Louis Union Trust Company.\nOpinion delivered December 11, 1922.\nMortgage \u2014 foreclosure-suability of purchaser. \u2014 The liability of a purchaser at mortgage foreclosure sale for taxes due on the land depends upon whether the taxes were due on the day of sale, not the day of confirmation of the sale; the mortgagor being liable for taxes due on the former date, and the purchaser for taxes subsequently due.\nAppeal from Nevada Chancery Court; James D. Shaver, Chancellor;\nreversed.\nMcMillan \u00a3 McMillan, for 'appellants.\nThe purchaser should pay the taxes. Crawford & Moses\u2019 Digest, \u00a7\u00a7 10023, 10056; 135 Ark. 279; 123 Ark. 18; 99 Ark. 324; 77 Ark. 216; 20 Cyc. 1362; 105 Ark. 261; 53 Ark. 110; 30 Ohio St. 436.\nTompkins, McRae \u00a3 Tompkins, for appellees.\nThe deed was not effective until confirmed. Crawford & Moses\u2019 Digest, \u00a7 1512; 53 Ark. 445; 34 Ark. 346; 69 Ark. 119; 127 Ark. 153; Jones on Mortgages (7th ed.) 1661, 1666; 43 111. 327. The party receiving rents and profits must pay taxes. 12 Amer. L. Rep. 411.\nMcMillan \u00a3 McMillan, for appellants, in reply.\nThe deed dates from the date of sale. 99 Ark. 324; 135 Ark. 279; 77 Ark. 216; 137 Ark. 153; 27 Ark. 463; 16 R. C. L. \u00a7 106; 59 U. S. Rep. 540; 86 Ark. 258. \u2022"
+  },
+  "file_name": "0246-01",
+  "first_page_order": 272,
+  "last_page_order": 273
+}

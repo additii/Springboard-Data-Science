@@ -1,0 +1,103 @@
+{
+  "id": 1431946,
+  "name": "American Company of Arkansas v. Wilson",
+  "name_abbreviation": "American Co. v. Wilson",
+  "decision_date": "1933-06-19",
+  "docket_number": "4-3046",
+  "first_page": "625",
+  "last_page": "628",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "187 Ark. 625"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [
+    {
+      "cite": "281 S. W. 368",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "170 Ark. 794",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1371622
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/170/0794-01"
+      ]
+    },
+    {
+      "cite": "289 S. W. 769",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "172 Ark. 599",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1408002
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/172/0599-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 373,
+    "char_count": 7001,
+    "ocr_confidence": 0.497,
+    "pagerank": {
+      "raw": 2.2360557251063729e-07,
+      "percentile": 0.779575759050045
+    },
+    "sha256": "b7ace51c4dcdea2bd6c5678e1111f7b2c91a207d8d4ad999d31c4d2515d0e07f",
+    "simhash": "1:d6f43b228b23ac23",
+    "word_count": 1198
+  },
+  "last_updated": "2024-02-27T21:18:50.990705+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "American Company of Arkansas v. Wilson."
+    ],
+    "opinions": [
+      {
+        "text": "Smith, J.\nThis appeal questions the action of the Pulaski Circuit Court in setting aside default judgments which appellant recovered against appellees, the order appealed from having been made after the expiration of the term at which the judgments were rendered.\nAppellant filed suit on August 12, 1932, to collect an account alleged to be due it by appellees as partners under the firm name of Wilson & Currie. Summonses were served on each defendant, but no answer was filed, and on September 7,1932, judgment was rendered against Wilson, and on- September 12, 1932, judgment was also rendered against Currie. More than twenty days had expired after service of summons upon the respective defendants.\nThe testimony shows that Wilson had stated to Currie, his partner, that he would attend to the case, and the latter relied on the former to do so, and gave the matter no personal attention. The testimony is conflicting as to whether Wilson had employed and directed an attorney to file an answer in the case, bnt it appears certain that Wilson was under the apprehension that he had done so and that he was relying on the attorney to file the answer. The attorney in question testified that he did not understand that he had been employed and directed to file the answer, but on September 14, 1932, which was prior to the adjournment of the term of court at which the judgments had been rendered, the attorney conferred with the judge who had rendered the judgments, and the following statement of the judge as to this conversation appears in the record: \u201cCourt. As I recall it, he (the attorney) came over here, a short time after the default judgment was rendered, all out of breath \u2014 he was excited about it, and I told him he had better file his motion (to vacate the judgment) in the regular way and take it up.\u201d\nOn the following day, which was still prior to the adjournment of the court for the term, Wilson and his attorney conferred with the attorney for the plaintiff in regard to the judgments, and there is an unfortunate but irreconcilable conflict in the testimony as to the agreement then reached. There was clearly a misunderstanding as to the agreement then made. According to the testimony of both Wilson and his attorney, the representation was then made that Wilson did not owe any part of the account, which involved shipments of calcium arsenate in carload lots extending over a period of years except the shipment made in the year 1929. That the transactions had been handled by a Mr. Anderson, representing the plaintiff, and that Anderson would so testify. Anderson had left the State, and his whereabouts were then unknown, and a few weeks\u2019 time was asked and given for Wilson to get in touch with Anderson, who could and would explain the transaction and make it appear that Wilson & Currie owed for only one shipment, which had been closed by a note to the plaintiff\u2019s order, which the defendants offered to pay.\nNo motion was filed to vacate the judgments during the term at which they were rendered, because Wilson and his attorney relied upon this agreement; believing that time had been given to make a showing to plaintiff that an error had been made.\nPlaintiff\u2019s attorney admitted that he had a conversation with Wilson and \"Wilson\u2019s attorney before the expiration of the term, but testified that the extent of his agreement was that he would postpone the issuance of an execution for a few weeks for Wilson to make the suggested investigation and to make report thereof to the plaintiff, but that he did not agree that the judgments themselves might be vacated.\nTestimony was offered in support of the motion to vacate the judgments to the effect that Wilson & Currie did not owe the account, or any portion of it, except the shipment in the year 1929, and that the account had been closed by the execution of a note for the shipment made that year, which Wilson offered to pay. He renewed this tender of payment with his motion.\nThe judgments were vacated by the presiding judge who rendered them, and his statements, appearing in the record, indicate that this action was induced, in part, at least; by the judge\u2019s own recollection of the facts. The court made, among others, the following findings of fact: \u201c6-a. That this understanding caused, the plaintiffs and their attorney to think that they were to have two or three weeks after September 14th in which to file some kind of a proceeding to have the judgments set aside, which time ran over the expiration of the -term, and the court is therefore treating this proceeding to set aside the said judgments as if it were filed during the same term the judgments were rendered.\u201d\nThe court found, and the testimony establishes very clearly, that no fraud was intended or was practiced by the plaintiff\u2019s attorney, but the testimony also establishes the fact, as found by the court, that, at a time when a motion could and would have been entertained to vacate the judgments, an agreement was reached, as understood by Wilson and his attorney, that the judgments would be vacated for the purpose of filing an answer putting in issue the liability of the defendants for the debt sued for, and that because of this agreement, as \u25a0understood by Wilson and his attorney, a motion to vacate was not filed until after the expiration of the term at which the judgments had been rendered.\nThe case is sufficiently like that of Wrenn v. Manufacturers\u2019 Furniture Co., 172 Ark. 599, 289 S. W. 769, to be governed by it. That case, like this, was one in which a motion was made to vacate a judgment after the expiration of the term at which it had been rendered. It was there said: \u201cIn a recent case, where a defendant relied on conversations and statements of attorney for plaintiff, this court said: \u2018There was such a misunderstanding as constituted unavoidable casualty or misfortune which prevented the defendant from appearing and defending. There is no room to suspect \u2014 and the lower court did not find \u2014 that plaintiff\u2019s attorney had intentionally misled the defendant, but the defendant and her husband, who was her representative in the matter, did testify that they were misled, and, because of that fact, had not arranged with the attorney they intended to employ to file an answer presenting a defense which, if true, would defeat a recovery, and had not furnished the attorney the information needed to prepare the answer.\u2019 McElroy v. Underwood, 170 Ark. 794, 281 S. W. 368.\u201d\nWe think the showing made was sufficient to justify the court, under the seventh paragraph of \u00a7 6290, Crawford & Moses\u2019 Digest, to find that an unavoidable casualty or misfortune had prevented the defendants from appearing and defending- when they might and would otherwise have done so.\nThe judgment of the court vacating the original judgments is therefore affirmed.",
+        "type": "majority",
+        "author": "Smith, J."
+      }
+    ],
+    "attorneys": [
+      "Roberts & Stubblefield, for appellant.",
+      "Sam Rorex and Owens & Ehrman, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "American Company of Arkansas v. Wilson.\n4-3046\nOpinion delivered June 19, 1933\nRoberts & Stubblefield, for appellant.\nSam Rorex and Owens & Ehrman, for appellee."
+  },
+  "file_name": "0625-01",
+  "first_page_order": 645,
+  "last_page_order": 648
+}

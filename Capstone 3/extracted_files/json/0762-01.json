@@ -1,0 +1,115 @@
+{
+  "id": 1432052,
+  "name": "Williamson v. Nixon",
+  "name_abbreviation": "Williamson v. Nixon",
+  "decision_date": "1933-07-10",
+  "docket_number": "4-3158",
+  "first_page": "762",
+  "last_page": "764",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "187 Ark. 762"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [
+    {
+      "cite": "99 Pac. 1040",
+      "category": "reporters:state_regional",
+      "reporter": "P.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "51 Wash. 667",
+      "category": "reporters:state",
+      "reporter": "Wash.",
+      "case_ids": [
+        544184
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash/51/0667-01"
+      ]
+    },
+    {
+      "cite": "78 S. W. 430",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "25 Ky. Law Rep. 1664",
+      "category": "reporters:state",
+      "reporter": "Ky. L. Rptr.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "25 Minn. 146",
+      "category": "reporters:state",
+      "reporter": "Minn.",
+      "case_ids": [
+        765701
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/minn/25/0146-01"
+      ]
+    },
+    {
+      "cite": "49 S. W. (2d) 371",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.2d",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 337,
+    "char_count": 4620,
+    "ocr_confidence": 0.5,
+    "pagerank": {
+      "raw": 1.3901477939784153e-07,
+      "percentile": 0.6426046460623767
+    },
+    "sha256": "ac6b104f2da259b8657c15b28e2e1d4a961163c9bc5f73c9a433c608346872cc",
+    "simhash": "1:0aec79e47a48d120",
+    "word_count": 780
+  },
+  "last_updated": "2024-02-27T21:18:50.990705+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Williamson v. Nixon."
+    ],
+    "opinions": [
+      {
+        "text": "Smith, J.\nThe question presented on this appeal is whether The Daily Legal News, printed and published in the city of Little Rock, has become and is now a \u201cnewspaper\u201d within the meaning- of \u00a7 6807, Crawford & Moses\u2019 Digest.\nIn an opinion delivered on May 2, 1932, reported in 185 Ark., at page 748, 49 S. W. (2d) 371, under the style of Continental Life Insurance Co. v. Mahoney, it was held that this publication was not a newspaper within the meaning of \u00a7 6807, Crawford & Moses\u2019 Dig-est, which section of the statute authorizes and directs the publication of certain legal notices in newspapers. After a review of the cases dealing with the subject, we declared the requirements which a publication must meet to be classed as a newspaper within the meaning- of the statute. The headnote in that case reads as follows: \u201cA daily publication specializing in news relating to the courts and to business transactions, and having a $20 yearly subscription rate, but carrying no news of a general character, held not a \u2018newspaper\u2019 in which notice of foreclosure proceedings could be published, under Crawford & Moses\u2019\u2019 Digest, \u00a7 6807.\u201d We there said: \u201cWe think the test in determining the question is whether or not the publication regularly carries the record of events occurring of general interest to the public as a whole, and those publications which do carry such items might be properly designated as newspapers, although some special purpose or class of happenings be the chief object to which the publication is devoted. The reason for the test we have suggested becomes apparent when the object for which notices are printed is considered, i. e., that they be given wide and general publicity, and publications cannot reasonably be expected to be generally read when they have no news of general interest, but are restricted to events of interest only to a few classes. There are numerous cases which support this view, among which are the cases cited, supra, and Beecher v. Stevens, 25 Minn. 146; Reagan v. Duddy, 25 Ky. Law Rep. 1664, 78 S. W. 430; Times Printing Co. v. Star Publishing Co., 51 Wash. 667, 99 Pac. 1040, 16 Ann. Cas. 414.\u201d\nAt the time of the former appeal the annual subscription price of the publication was $20. We were then and are yet of the opinion that a subscription price so large would necessarily limit the number and character of the subscribers to the class of persons interested in the news items of a legal nature in which the publication specialized, and was an important circumstance to be considered in determining whether its circulation was general. The subscription price has since been reduced to $12, and it is now shown that the circulation has been materially increased since the time of the former appeal.\nIn addition, it is now made to appear that \u2018 \u2018 the publication regularly carries the record of events occurring of general interest to the public as a whole. \u2019 \u2019 A number of different issues of the publication are exhibited, and all appear to be of about the same character. For instance, in the issue of May 23,1933, the following news appears: An item relating to the 'Civilian Conservation Corps for Arkansas under a recent act of Congress and a call for physicians for that service; a half-column of social and society news, including meetings of various clubs and church societies; a list of motion picture shows in both Little Rock and North Little Rock; certain tabloid news from Washington respecting congressional legislation; brief items of general news of Little Rock; news from Chicago concerning the 1933 World\u2019s Fair; river and flood news; an obituary column; report of a meeting of the North Little Rock city council; meetings of noon-day luncheon clubs; a social function held by the Little Rock Y. M. C. A.; sporting news; additional amateur sporting news; certain market reports; and a few other items of news. Other copies of the publication which are exhibited contain about the same character of news of a general nature.\nWe feel constrained to hold, in view of the enlarged news service which the publication now renders, that it has become and is a newspaper within the meaning of \u00a7 6807, Crawford & Moses\u2019 Digest, as that section was construed on the former appeal.\nWe therefore hold that the publication is eligible to print in its columns the legal advertisements which may be legally printed in other daily papers, and the decree of the court below, holding to the contrary, is reversed.",
+        "type": "majority",
+        "author": "Smith, J."
+      }
+    ],
+    "attorneys": [
+      "Talley, Coulter & Talley and Will G. Akers, for appellants.",
+      "Wayne W. Owen, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Williamson v. Nixon.\n4-3158\nOpinion delivered July 10, 1933.\nTalley, Coulter & Talley and Will G. Akers, for appellants.\nWayne W. Owen, for appellee."
+  },
+  "file_name": "0762-01",
+  "first_page_order": 782,
+  "last_page_order": 784
+}

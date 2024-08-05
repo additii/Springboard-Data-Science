@@ -1,0 +1,76 @@
+{
+  "id": 12462881,
+  "name": "State, Respondent, v. Olsen, Petitioner",
+  "name_abbreviation": "State v. Olsen",
+  "decision_date": "2016-11-02",
+  "docket_number": "No. 93315-4",
+  "first_page": "1017",
+  "last_page": "1017",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "186 Wash. 2d 1017"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Wash.",
+    "id": 9029,
+    "name": "Washington Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 38,
+    "name_long": "Washington",
+    "name": "Wash."
+  },
+  "cites_to": [
+    {
+      "cite": "194 Wn. App. 264",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        12451636
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/194/0264-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 27,
+    "char_count": 187,
+    "ocr_confidence": 0.86,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2576648291077974
+    },
+    "sha256": "7893d3706251f49bee55b3bde1653a67a565d06046578c430a83c962df8a70e3",
+    "simhash": "1:0431edb72fc940c1",
+    "word_count": 31
+  },
+  "last_updated": "2024-02-27T18:43:05.207238+00:00",
+  "provenance": {
+    "date_added": "2019-05-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "State, Respondent, v. Olsen, Petitioner,"
+    ],
+    "opinions": [
+      {
+        "text": "Petition for review of a decision of the Court of Appeals, No. 46886-7-II, May 24, 2016, 194 Wn. App. 264. Granted November 2, 2016.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "State, Respondent, v. Olsen, Petitioner,\nNo. 93315-4."
+  },
+  "file_name": "1017-06",
+  "first_page_order": 1003,
+  "last_page_order": 1003
+}

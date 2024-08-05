@@ -1,0 +1,874 @@
+{
+  "id": 12440904,
+  "name": "The State of Washington, Respondent, v. Julio J. Davila, Petitioner",
+  "name_abbreviation": "State v. Davila",
+  "decision_date": "2015-08-27",
+  "docket_number": "No. 90839-7",
+  "first_page": "55",
+  "last_page": "82",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "184 Wash. 2d 55"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Wash.",
+    "id": 9029,
+    "name": "Washington Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 38,
+    "name_long": "Washington",
+    "name": "Wash."
+  },
+  "cites_to": [
+    {
+      "cite": "113 A.3d 202",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "case_ids": [
+        6875998
+      ],
+      "weight": 2,
+      "year": 2015,
+      "opinion_index": 0,
+      "case_paths": [
+        "/a3d/113/0202-01"
+      ]
+    },
+    {
+      "cite": "808 P.2d 754",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1991,
+      "pin_cites": [
+        {
+          "parenthetical": "specific instances of conduct admissible under ER 608(b) if relevant to veracity"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "60 Wn. App. 887",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        1719362
+      ],
+      "year": 1991,
+      "pin_cites": [
+        {
+          "page": "893",
+          "parenthetical": "specific instances of conduct admissible under ER 608(b) if relevant to veracity"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/60/0887-01"
+      ]
+    },
+    {
+      "cite": "845 P.2d 289",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1993,
+      "pin_cites": [
+        {
+          "parenthetical": "where defense was permitted to thoroughly cross-examine witness about his exchange of testimony for reduced sentence, trial court properly barred cross-examination regarding witness' prior drug dealing"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "120 Wn.2d 631",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1368204
+      ],
+      "year": 1993,
+      "pin_cites": [
+        {
+          "page": "651",
+          "parenthetical": "where defense was permitted to thoroughly cross-examine witness about his exchange of testimony for reduced sentence, trial court properly barred cross-examination regarding witness' prior drug dealing"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/120/0631-01"
+      ]
+    },
+    {
+      "cite": "427 U.S. 97",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6174831
+      ],
+      "weight": 3,
+      "year": 1976,
+      "pin_cites": [
+        {
+          "page": "112-13",
+          "parenthetical": "\"if the omitted evidence creates a reasonable doubt that did not otherwise exist, constitutional error has been committed''"
+        },
+        {
+          "parenthetical": "\"if the omitted evidence creates a reasonable doubt that did not otherwise exist, constitutional error has been committed''"
+        },
+        {
+          "parenthetical": "\"if the omitted evidence creates a reasonable doubt that did not otherwise exist, constitutional error has been committed''"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/427/0097-01"
+      ]
+    },
+    {
+      "cite": "1 F.3d 149",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        10508852
+      ],
+      "year": 1993,
+      "pin_cites": [
+        {
+          "page": "158",
+          "parenthetical": "in review of Brady claim, district court's factual findings reviewed for clear error and legal conclusions reviewed de novo"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/1/0149-01"
+      ]
+    },
+    {
+      "cite": "44 F.3d 913",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        7415340
+      ],
+      "year": 1994,
+      "pin_cites": [
+        {
+          "page": "919",
+          "parenthetical": "trial court did not abuse its discretion in concluding that suppressed evidence was not material under Brady since \"[i]ts suppression does not 'undermine confidence in the outcome of the trial' ''"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/44/0913-01"
+      ]
+    },
+    {
+      "cite": "388 F.3d 471",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        9148650
+      ],
+      "year": 2004,
+      "pin_cites": [
+        {
+          "page": "479",
+          "parenthetical": "appellate court reviewing Brady claim should defer to trial court's factual findings \"while reviewing the ultimate constitutional question afresh''"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/388/0471-01"
+      ]
+    },
+    {
+      "cite": "419 F.3d 159",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        8930176
+      ],
+      "year": 2005,
+      "pin_cites": [
+        {
+          "page": "169",
+          "parenthetical": "materiality is a mixed question of fact and law; trial court's factual determinations entitled to deference, but legal rulings reviewed de novo"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/419/0159-01"
+      ]
+    },
+    {
+      "cite": "546 F.3d 507",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3894506
+      ],
+      "year": 2008,
+      "pin_cites": [
+        {
+          "page": "508-10",
+          "parenthetical": "trial court's ruling on Brady-based motion for new trial reviewed for abuse of discretion; evidence is \"material'' under Brady if it creates reasonable probability of different outcome"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/546/0507-01"
+      ]
+    },
+    {
+      "cite": "261 F.3d 496",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        9496051
+      ],
+      "year": 2001,
+      "pin_cites": [
+        {
+          "page": "502"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/261/0496-01"
+      ]
+    },
+    {
+      "cite": "624 F.3d 640",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3796026
+      ],
+      "year": 2010,
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/624/0640-01"
+      ]
+    },
+    {
+      "cite": "759 F.3d 550",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        4155198
+      ],
+      "year": 2014,
+      "pin_cites": [
+        {
+          "page": "559",
+          "parenthetical": "in reviewing Brady claim, \"we give considerable deference to the district court's factual findings and factual conclusions, but we review de novo the district court's conclusions about the legal significance of those findings''"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/759/0550-01"
+      ]
+    },
+    {
+      "cite": "745 F.3d 1075",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        4236045
+      ],
+      "year": 2014,
+      "pin_cites": [
+        {
+          "page": "1083",
+          "parenthetical": "trial court's ruling on Brady claim reviewed de novo, but underlying factual findings reviewed for clear error"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/745/1075-01"
+      ]
+    },
+    {
+      "cite": "870 P.2d 313",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1994,
+      "opinion_index": 0
+    },
+    {
+      "cite": "123 Wn.2d 641",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        812823
+      ],
+      "year": 1994,
+      "pin_cites": [
+        {
+          "page": "644"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/123/0641-01"
+      ]
+    },
+    {
+      "cite": "857 P.2d 270",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1993,
+      "opinion_index": 0
+    },
+    {
+      "cite": "122 Wn.2d 109",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1363529
+      ],
+      "year": 1993,
+      "pin_cites": [
+        {
+          "page": "128"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/122/0109-01"
+      ]
+    },
+    {
+      "cite": "952 P.2d 116",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1998,
+      "opinion_index": 0
+    },
+    {
+      "cite": "134 Wn.2d 868",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        452331
+      ],
+      "year": 1998,
+      "pin_cites": [
+        {
+          "page": "916"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/134/0868-01"
+      ]
+    },
+    {
+      "cite": "972 P.2d 1250",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1999,
+      "opinion_index": 0
+    },
+    {
+      "cite": "137 Wn.2d 378",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        179349
+      ],
+      "year": 1999,
+      "pin_cites": [
+        {
+          "page": "396"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/137/0378-01"
+      ]
+    },
+    {
+      "cite": "83 P.3d 970",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2004,
+      "opinion_index": 0
+    },
+    {
+      "cite": "150 Wn.2d 821",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        9195821
+      ],
+      "year": 2004,
+      "pin_cites": [
+        {
+          "page": "851"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/150/0821-01"
+      ]
+    },
+    {
+      "cite": "336 P.3d 1134",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2014,
+      "opinion_index": 0
+    },
+    {
+      "cite": "181 Wn.2d 757",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4356270
+      ],
+      "year": 2014,
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/181/0757-01"
+      ]
+    },
+    {
+      "cite": "147 P.3d 1201",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2006,
+      "opinion_index": 0
+    },
+    {
+      "cite": "158 Wn.2d 759",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        3085961
+      ],
+      "year": 2006,
+      "pin_cites": [
+        {
+          "page": "798"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/158/0759-01"
+      ]
+    },
+    {
+      "cite": "725 F.3d 970",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        4071132
+      ],
+      "weight": 3,
+      "year": 2013,
+      "pin_cites": [
+        {
+          "page": "971"
+        },
+        {
+          "page": "983-85"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/725/0970-01"
+      ]
+    },
+    {
+      "cite": "758 F.3d 1119",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        4159142
+      ],
+      "year": 2014,
+      "pin_cites": [
+        {
+          "page": "1139"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/758/1119-01"
+      ]
+    },
+    {
+      "cite": "283 F.3d 1040",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        9513424
+      ],
+      "year": 2002,
+      "pin_cites": [
+        {
+          "page": "1055"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/283/1040-01"
+      ]
+    },
+    {
+      "cite": "259 P.3d 158",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "weight": 2,
+      "year": 2011,
+      "opinion_index": 0
+    },
+    {
+      "cite": "171 Wn.2d 881",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4015530
+      ],
+      "weight": 2,
+      "year": 2011,
+      "pin_cites": [
+        {
+          "page": "893-94"
+        },
+        {
+          "page": "896"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/171/0881-01"
+      ]
+    },
+    {
+      "cite": "405 U.S. 150",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11721534
+      ],
+      "weight": 3,
+      "year": 1972,
+      "pin_cites": [
+        {
+          "page": "154",
+          "parenthetical": "one federal prosecutor's knowledge imputed to another federal prosecutor for purposes of Brady suppression inquiry"
+        },
+        {
+          "parenthetical": "one federal prosecutor's knowledge imputed to another federal prosecutor for purposes of Brady suppression inquiry"
+        },
+        {
+          "parenthetical": "one federal prosecutor's knowledge imputed to another federal prosecutor for purposes of Brady suppression inquiry"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/405/0150-01"
+      ]
+    },
+    {
+      "cite": "775 F.2d 825",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        41834
+      ],
+      "weight": 3,
+      "year": 1985,
+      "pin_cites": [
+        {
+          "page": "843"
+        },
+        {
+          "page": "843"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/775/0825-01"
+      ]
+    },
+    {
+      "cite": "777 F.3d 125",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3985805
+      ],
+      "weight": 3,
+      "year": 2015,
+      "pin_cites": [
+        {
+          "page": "141"
+        },
+        {
+          "page": "141"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/777/0125-01"
+      ]
+    },
+    {
+      "cite": "796 F.2d 1112",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1620230
+      ],
+      "weight": 3,
+      "year": 1986,
+      "pin_cites": [
+        {
+          "page": "1116"
+        },
+        {
+          "page": "1115"
+        },
+        {
+          "page": "1116"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/796/1112-01"
+      ]
+    },
+    {
+      "cite": "527 U.S. 263",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1248336
+      ],
+      "weight": 6,
+      "year": 1999,
+      "pin_cites": [
+        {
+          "page": "281-82"
+        },
+        {
+          "page": "280"
+        },
+        {
+          "page": "280",
+          "parenthetical": "emphasis added"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/527/0263-01"
+      ]
+    },
+    {
+      "cite": "342 P.3d 327",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2015,
+      "opinion_index": 0
+    },
+    {
+      "cite": "182 Wn.2d 1002",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "year": 2015,
+      "opinion_index": 0
+    },
+    {
+      "cite": "333 P.3d 459",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2014,
+      "opinion_index": 0
+    },
+    {
+      "cite": "183 Wn. App. 154",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        4345353
+      ],
+      "weight": 8,
+      "year": 2014,
+      "pin_cites": [
+        {
+          "page": "167-70"
+        },
+        {
+          "page": "167-73"
+        },
+        {
+          "page": "171-72"
+        },
+        {
+          "page": "172-73"
+        },
+        {
+          "page": "172"
+        },
+        {
+          "page": "173"
+        },
+        {
+          "page": "168"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/183/0154-01"
+      ]
+    },
+    {
+      "cite": "276 P.3d 286",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "weight": 2,
+      "year": 2012,
+      "opinion_index": 0
+    },
+    {
+      "cite": "174 Wn.2d 474",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4021722
+      ],
+      "weight": 2,
+      "year": 2012,
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/174/0474-01"
+      ]
+    },
+    {
+      "cite": "473 U.S. 667",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6205331
+      ],
+      "weight": 7,
+      "year": 1985,
+      "pin_cites": [
+        {
+          "page": "682"
+        },
+        {
+          "page": "678"
+        },
+        {
+          "page": "676"
+        },
+        {
+          "page": "676-77",
+          "parenthetical": "Brady material includes impeaching as well as exculpatory evidence"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/473/0667-01"
+      ]
+    },
+    {
+      "cite": "514 U.S. 419",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1339057
+      ],
+      "weight": 6,
+      "year": 1995,
+      "pin_cites": [
+        {
+          "page": "438"
+        },
+        {
+          "page": "433-34"
+        },
+        {
+          "page": "440"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/514/0419-01"
+      ]
+    },
+    {
+      "cite": "373 U.S. 83",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11716714
+      ],
+      "weight": 6,
+      "year": 1963,
+      "pin_cites": [
+        {
+          "parenthetical": "emphasis omitted"
+        },
+        {
+          "page": "87",
+          "parenthetical": "emphasis added"
+        },
+        {
+          "page": "87"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/373/0083-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1663,
+    "char_count": 52471,
+    "ocr_confidence": 0.889,
+    "pagerank": {
+      "raw": 5.061447019797991e-08,
+      "percentile": 0.31960029329895295
+    },
+    "sha256": "d7379fe157a5826d895f2050f5d86f0a0f20935efacd679273a85213a3fd06bf",
+    "simhash": "1:80ee5a38770c85ed",
+    "word_count": 8825
+  },
+  "last_updated": "2024-02-27T21:13:25.899037+00:00",
+  "provenance": {
+    "date_added": "2019-05-21",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Madsen, C.J., and Johnson, Owens, Fairhurst, Stephens, Wiggins, Gonz\u00e1lez, and Yu, JJ., concur."
+    ],
+    "parties": [
+      "The State of Washington, Respondent, v. Julio J. Davila, Petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "Gordon McCloud, J.\n\u00b61 Julio Davila challenges the Court of Appeals\u2019 decision affirming his conviction for second degree murder. At issue is whether the State violated its disclosure obligation under Brady v. Maryland, 373 U.S. 83, 83 S. Ct. 1194, 10 L. Ed. 2d 215 (1963), when it failed to disclose the fact that a forensic scientist who analyzed certain DNA (deoxyribonucleic acid) evidence used in Davila\u2019s case had been fired for incompetence. While we conclude that this evidence was both favorable to the defendant and suppressed by the State in violation of its Brady obligations, we also conclude that the evidence was not material to the outcome of Davila\u2019s trial, given the specific facts presented in this case. We therefore affirm.\nFACTS\n\u00b62 In 2007, Jeramie Davis called 911 to report an assault at an adult bookstore in Spokane. At the store, police found the owner, John Allen, lying unconscious on top of a baseball bat and bleeding from his head. Allen later died of his injuries.\n\u00b63 While police were processing the crime scene, some of Allen\u2019s relatives arrived and told them that Allen\u2019s car was missing from its usual parking place outside the store. Police found the car a short time later, less than a block from the store, with its passenger side door slightly ajar.\n\u00b64 In 2008, Davis was convicted of Allen\u2019s murder based on evidence that he had robbed Allen\u2019s store on the night that Allen was killed. Davila had not yet become a suspect.\n\u00b65 Davila would, however, become a suspect later. In the investigation leading to Davis\u2019 trial, detectives swabbed four areas of the baseball bat found at the scene and several areas of Allen\u2019s car in order to test them for DNA evidence. These swabs were later tested by former Washington State Patrol Crime Laboratory (Crime Lab) forensic scientist Denise Olson.\n\u00b66 At issue in this case are a swab taken from the handle of the baseball bat (Swab D) and a swab from the steering wheel of the car (Item 24). Olson created a profile for Swab D that revealed a mixture of at least two different people\u2019s DNA. Olson found that the \u201cmajor [DNA] contributor\u201d was \u201cUnknown Individual A.\u201d Clerk\u2019s Papers (CP) at 275 (emphasis omitted). She found that the other contributor might be Allen but was definitely not Davis. Olson also created a profile for Item 24. She found that Allen was included as a DNA contributor, \u201cUnknown Individual A\u201d could not be excluded as a contributor, and Davis was excluded. CP at 279 (emphasis added and omitted). In other words, Olson\u2019s analysis of Item 24 was inconclusive as to whether that item contained DNA from \u201cUnknown Individual A.\u201d Id. (emphasis omitted).\n\u00b67 The DNA profile of \u201cUnknown Individual A\u201d (from Swab D) was entered into the Combined DNA Index System (CODIS) database. 3 Verbatim Report of Proceedings (VRP) at 434-35 (July 12, 2012). In 2011, three years after Davis\u2019 conviction, the Crime Lab received a \u201chit, or a match in that database\u201d between the DNA from \u201cUnknown Individual A\u201d and DNA from the defendant in this case, Julio Davila. Id. at 435.\n\u00b68 Lorraine Heath, the supervising forensic scientist at the Crime Lab, retested and analyzed Swab D (the baseball bat swab) and compared it against a new reference swab obtained from Davila. Her testing confirmed that the DNA from Swab D matched the DNA from the reference swab. Heath also retested Item 24 (the steering wheel swab) and confirmed that Davila could be neither included nor excluded as a contributor of DNA on that sample. In other words, Heath\u2019s retesting confirmed Olson\u2019s results: Swab D contained DNA from \u201cUnknown Individual A,\u201d later identified as Davila\u2019s DNA, and Item 24 was inconclusive for this DNA.\n\u00b69 The State charged Davila with Allen\u2019s murder under two different theories: (1) first degree felony murder for working with Davis to commit a robbery and thereby causing Allen\u2019s death and (2) second degree felony murder for causing Allen\u2019s death in the course of an assault or attempted assault in the second degree. The first degree felony murder charge was predicated on the theory that Davila worked with Davis to rob Allen\u2019s store, but the court dismissed that charge before the jury deliberated, finding that there was insufficient evidence that Davila and Davis knew one another.\n\u00b610 At trial, the State presented the following evidence: (1) fingerprints taken from a glass counter close to where Allen was found matched Davila\u2019s, (2) Davila\u2019s DNA was found on the handle of the baseball bat used to murder Allen, (3) Davila claimed never to have been in Allen\u2019s store or to have had any contact with Allen, and (4) Davila lived behind Allen\u2019s store at the time of the murder.\n\u00b611 The jury convicted Davila of second degree murder. It also found that Davila was armed with a deadly weapon at the time. On October 25, 2012, the court sentenced Davila to 199 months in total confinement, including 24 months for the deadly weapon enhancement.\nPROCEDURAL HISTORY\n\u00b612 On July 25,2012, after Davila\u2019s conviction but before his sentencing, the defense filed a motion for a new trial. CP at 162-65. It alleged prosecutorial misconduct in closing argument and rebuttal, and it also asserted that the State withheld Brady material: the fact that \u201ca forensic expert closely linked to the case was incapable of doing her job\u201d and that she had been fired for incompetence. CP at 162.\n\u00b613 The expert in question was Olson, the scientist who first tested Swab D\u2014the baseball bat swab that eventually registered the \u201chit\u201d in the CODIS database\u2014and Item 24\u2014the steering wheel swab that was inconclusive for Davila\u2019s DNA. After filing a public disclosure request, the defense learned, after the guilty verdict but prior to sentencing, that Olson had been fired in 2011 after receiving poor evaluations for roughly five years. It also learned that the Crime Lab had performed an audit of Olson\u2019s work in 2007, the year that she tested Swab D and Item 24 for Davis\u2019 case, and that this audit had revealed errors in the vast majority of Olson\u2019s cases and had \u201cresulted in \u2018Brady letters\u2019 being sent to eleven prosecuting attorneys notifying them of [Olson\u2019s] problems and her faulty results.\u201d CP at 256.\n\u00b614 In response to the motion for a new trial, the State argued that Olson had not performed any of the DNA testing crucial to the case against Davila. Specifically, it asserted that Heath had conducted the DNA tests in Davila\u2019s case and had also \u201creviewed all of Ms. Olson\u2019s tests from the Davis case and agreed with all of Ms. Olson\u2019s findings and conclusions.\u201d CP at 261. The State also asserted that when Heath matched Davila\u2019s DNA to the DNA found on the handle of the murder weapon, she did not rely on any of the testing done by Olson. CP at 267.\n\u00b615 Finally, the State did not dispute the fact that it never disclosed this information\u2014Olson\u2019s substandard work performance and the pretrial audits during which the State documented it\u2014to the defense. Instead, the State argued that defense counsel knew at the time of jury selection that Olson no longer worked in the Crime Lab, so he could have discovered the reason with due diligence. CP at 268.\n\u00b616 The trial court ultimately held three separate hearings on Davila\u2019s motion for a new trial, granting the defense two extensions of time to obtain evidence relevant to the Brady claim.\nThe First Hearing on the Motion for a New Trial\n\u00b617 The trial court first addressed the defense\u2019s motion for a new trial on August 1, 2012, the date set for Davila\u2019s sentencing. The State acknowledged that Olson\u2019s performance record \u201cstanding alone . . . would cause a great deal of concern.\u201d 4 VRP at 583 (Aug. 1, 2012). But it argued that in light of the fact that Heath retested Swab D and Item 24 and confirmed Olson\u2019s results, there was no reasonable probability that the disclosure of Olson\u2019s performance record and termination would have changed the outcome of Davila\u2019s trial. In making this argument, the prosecutor cited Kyles v. Whitley, 514 U.S. 419, 115 S. Ct. 1555, 131 L. Ed. 2d 490 (1995), and United States v. Bagley, 473 U.S. 667, 105 S. Ct. 3375, 87 L. Ed. 2d 481 (1985), the key United States Supreme Court cases defining Brady materiality.\n\u00b618 The court also stated that it had \u201cno evidence to find that [the prosecutor] withheld the . . . report [on Olson\u2019s incompetence]\u201d and that the prosecutor \u201chad no obligation to find out about the extent of the report.\u201d 4 VRP at 596 (Aug. 1, 2012). Nevertheless, it concluded that Heath\u2019s retesting would be grounds for a new trial if it were shown that Olson could have contaminated the samples that Heath later retested. Citing In re Personal Restraint of Stenson, 174 Wn.2d 474, 276 P.3d 286 (2012), a Brady case involving mishandled forensic evidence, the trial court ruled that the defense was entitled to an evidentiary hearing on whether any of Olson\u2019s initial testing could have compromised the DNA evidence in Davila\u2019s case. Specifically, the trial court ruled that \u201cthe issue is contamination [,] ... meanfing] the material was compromised, and no matter how many times you test it, it will not make any difference. That is what the defense has to show for the court to make any changes.\u201d 4 VRP at 598-99 (Aug. 1, 2012); CP at 295-96.\n\u00b619 The defense suggested that it would need an expert to determine whether the DNA evidence used against Da-vila might have been compromised, but the trial court did not limit the subject of the evidentiary hearing it was granting to expert testimony. It made clear that there was a factual issue as to whether the DNA evidence used to convict Davila might have been mishandled and that defense counsel was entitled to explore that issue. Indeed, the court suggested that there would be no need to consult an expert until the defense had investigated the facts surrounding the Crime Lab\u2019s handling of the DNA evidence: \u201cI am willing ... to give you an opportunity to basically demonstrate that you have sufficient evidence . . . [that] this was contaminated or these procedures were not followed and it was likely this was contaminated. ... I would give you the authority to depose .... Then if you are going to need an expert after you have deposed, come to me so we can have one hearing.\u201d 4 VRP at 597-98 (Aug. 1, 2012) (emphasis added). The court even called the parties\u2019 attention to a recent evidentiary hearing it had just conducted in another case, to give the parties an example of how they might prepare for such a hearing. Id. at 598 (\u201cIf you took a look at that fairly extensive affidavit that is in State v. Woods, it might be of assistance to both counsel in looking at when somebody is arguing a contamination theory.\u201d). And it granted a continuance of several weeks for the defense to conduct this factual investigation. Id. at 600-02 (scheduling September 7 status conference on motion for new trial).\nThe Second Hearing on the Motion for a New Trial\n\u00b620 The court reconvened about two and a half months later, on October 19, 2012, but the defense had not obtained any evidence of contamination. Defense counsel explained that he had contacted a DNA expert but needed more time to explore the possibility that the DNA evidence used in Davila\u2019s case had been contaminated. He stated that the expert had determined that contamination might have occurred in either of two ways: (1) if \u201cMr. Davila\u2019s DNA had been at the lab prior to the evidence from this case arriving at the lab\u201d or (2) \u201ccross contamination of evidentiary items.\u201d 4 VRP at 605 (Oct. 19, 2012). But he asked for more time to explore those possibilities and suggested that Davila\u2019s DNA might have entered the Crime Lab when detectives investigated prior burglaries of Allen\u2019s bookstore. Id. at 606.\n\u00b621 The trial court expressed frustration at defense counsel\u2019s failure to provide more than speculation about the presence of Davila\u2019s DNA in the Crime Lab:\nI would expect that you would have done some investigation with regard to the speculation about what happened on these robberies [sic]. Did, in fact, you talk to the detectives or the police officers? Did you see what, in fact, was sent to the crime lab? Your expert\u2019s not going to know that or have any better way of finding that out than you guys are. I would expect to see some sort of affidavit or declaration saying \u201chere is what we have learned from talking with the investigators, from talking with the lab.\u201d Not about contamination, but just was Mr. Davila\u2019s DNA there?\n... So the question becomes what . . . was in the lab that might have had Mr. Davila\u2019s DNA on it in order to contaminate it? And that is a question that I do not need a DNA expert to answer . . . because it is a factual question. Whether or not it was contaminated, that is what the DNA expert needs to answer for me. But before that expert can give me an answer, I presume he or she needs to know whether or not Mr. Davila\u2019s DNA was in the lab, on something that was in the lab at the same time as the bat was tested. Then you turn it over to the expert and say[/]ask what they think about it. Could it be contaminated or not? But if we do not have any evidence that Mr. Davila\u2019s DNA was in the lab at the time that the bat was tested, how can we have contamination if it was not there?\nId. at 609-11. Defense counsel agreed that \u201cwe have to sort of pin point a situation where we can say, more than likely, that could have been Mr. Davila\u2019s DNA, that may have gone over on a piece of evidence, and . .. Ms. Olson touched that piece of evidence.\u201d Id. at 612.\n\u00b622 The trial court determined that it could not consider the motion for a new trial until it had evidence, \u201con a more likely than not basis, [that] Mr. Davila\u2019s DNA was on something that was in the lab at the relevant time.\u201d Id. at 612-13. It gave defense counsel until later that same week to provide that evidence in the form of a declaration. Id. at 613.\nThe Third Hearing on the Motion for a New Trial\n\u00b623 On October 23,2012, two days before the date set for the next evidentiary hearing, defense counsel filed an affidavit stating that he had consulted with a DNA testing expert, Dr. Gregory Hampikian, and concluded that a new trial was warranted. Attached to the affidavit was a brief report by Dr. Hampikian. The report concluded that Olson could, in theory, have contaminated the DNA evidence used to convict Davila, provided that Davila\u2019s DNA was in the Crime Lab (and was handled by Olson) before Olson tested Swab D. It stated, very generally:\nIn the present case (involving Julio Joseph Davila), Olsen [sic] performed critical DNA tests on evidence, and had access to the key DNA samples used to implicate Mr. Davila. With her well-documented propensity for errors, her work in this case is suspect. While I cannot determine if Mr. Davila\u2019s DNA was in the laboratory at the same time (or before) the evidence samples in this case, it is clear that two evidence samples in this case (the sample taken from the car, and that from the bat) were handled and processed by Ms. Olsen [sic]. If the car sample had Mr. Davila\u2019s DNA, it is possible that Ms. Olsen [sic] mislabeled or contaminated the samples, so that her finding of Mr. Davila\u2019s DNA on the bat is incorrect. This is concern [ ] based on her well-documented, long-term deficiencies, and the specific mislabeling of samples described in her performance records.\nIf Mr. Davila\u2019s DNA had been in the lab on evidence, or as a reference sample in another case, then the possible routes of contamination are greatly multiplied.\nCP at 310-11. The defense provided no other factual data.\n\u00b624 In response, the State filed a certificate from Lorraine Heath, the supervising forensic DNA scientist at the Crime Lab. Most significantly, the certificate stated that (1) during the time that Olson conducted testing for the Jeramie Davis case, \u201cthere was never any reference swabs or other items that contained the DNA of Julio Davila in the laboratory\u201d and (2) Olson did not have possession of the steering wheel swabs at the time she tested Swab D, so \u201c[t]here is no possibility that the steering wheel swabs could have contaminated, or been switched with, the baseball bat swab.\u201d CP at 313.\n\u00b625 On October 25, 2012, the trial court held its final hearing on the motion for a new trial. Defense counsel submitted no other evidence and called no witnesses. He did dispute Heath\u2019s assertions that the steering wheel swabs could not have contaminated the bat swab:\nBased on [Dr. Hampikian\u2019s] review of the records ... I believe approximately August 16th 2007, is when the bat was tested. Based on Dr. Ha[m]pi[ Jkian\u2019s review of the records, on August 14th, two days prior . . . the automobile, truck, steering wheel swabs were in the lab.[] And this is the heart, I believe, of what we\u2019re talking about here.\nSo two days prior Ms. Olson had, in the lab, according to Dr. Ha[m]pi[ Jkian\u2019s review of Washington State Patrol records, evidence from the truck, evidence from inside the store.\n4 VRP at 618 (Oct. 25, 2012).\n\u00b626 The court apparently accepted the factual assertion that the steering wheel swab was in the Crime Lab before the bat sample was tested, but rejected defense counsel\u2019s argument because the simultaneous presence of several evidentiary items in the Crime Lab was not enough to suggest that cross contamination had occurred:\nI think the question that I have, counsel, the fact that there are two or three or four items in the lab, in and of itself, does not say whether or not those items were in proximity at a time and a place where contamination could have occurred. The fact that they are simply in the lab, normally the case that I referenced to you before, they were being tested all at the same time. So it wasn\u2019t just that they were in the lab; they were in close proximity being tested. And as you can see on these reports, there are a number of items on each report that were being tested, four or five items on each report on different dates. But these two items were not tested together. In other words, the bat was tested with a few other items, the steering wheel was tested with a few items, but they were not tested together, and apparently not on the same day. That seems to be the issue to me. ... So the fact that they were both in the lab at the same time, in and of itself, does not mean a whole lot to me. I do not have any evidence that they were necessarily either mingled in the storage area, and it seems pretty clear from Ms. Heath\u2019s certificates that they were not mingled in the testing.\nId. at 619-20. The trial court concluded that these facts were not enough to show contamination in this particular case:\nWe do know that Mr. Davila\u2019s DNA was not in the lab directly from any prior conviction or prior matter, so the test sample for him came in later. Ms. Heath has provided not only her certificate of where she tested the materials, but also the reports that these materials were not tested together. They were tested on separate days.\nThe first thing that was tested was the bat, and it is the bat that has the DNA. The steering wheel ended up being inconclusive as to whether or not Mr. Davila\u2019s DNA was even on it. So that was inconclusive; it has never been identified specifically as an item that had his DNA. The only thing that has been identified [as] an item that had his DNA was the bat. That was tested first.\nWhile I can appreciate counsel\u2019s concern in this matter about not having known about it, the reality is that the information provided to this jury came from Ms. Heath. She did the testing on it and essentially supported Ms. Olson\u2019s testing. I appreciate the argument that once it is contaminated, it is contaminated and the testing is going to come up the same. Which is one of the reasons that I allowed counsel to go forward on this matter, but I have not seen anything that is anything other than speculation. The facts, as best I can see them, are that these items were tested on different dates. The bat was tested first and the steering wheel was inconclusive and the bat was not inconclusive.\nId. at 623-24.\n\u00b627 Davila appealed, and the Court of Appeals affirmed. State v. Davila, 183 Wn. App. 154, 333 P.3d 459 (2014). In Brady, the United States Supreme Court held that \u201cthe suppression by the prosecution of evidence favorable to an accused upon request violates due process where the evidence is material either to guilt or to punishment, irrespective of the good faith or bad faith of the prosecution.\u201d 373 U.S. at 87 (emphasis added). The Court of Appeals held that Olson\u2019s incompetence was favorable to the accused and suppressed by the State\u2014thus meeting the first two Brady requirements. 183 Wn. App. at 167-70. But the court also concluded that the new evidence was not material. Id. at 167-73.\n\u00b628 The Court of Appeals acknowledged that Davila\u2019s defense would have proceeded very differently if defense counsel had known that Olson was fired for incompetence. Specifically, the court noted that the defense could have called Dr. Hampikian to testify about his concerns that DNA from the steering wheel swab might have contaminated the bat swab. Id. at 171-72. But it held that Olson\u2019s incompetence was not \u201cmaterial,\u201d under Brady, because \u201cclose review of the record establishes little likelihood that her handling of the evidence could have contaminated the evidence at issue.\u201d Id. at 172-73. Just as the trial court had done, the Court of Appeals relied on Olson\u2019s own records to conclude that the steering wheel and bat swabs were tested on different days, \u201castronomically reducing the possibility of cross contamination.\u201d Id. at 172. Ultimately, the court concluded that evidence of Olson\u2019s incompetence could have been used \u201cfor impeachment purposes\u201d but was not material because there was no evidence that Olson had mishandled the DNA samples used to convict Davila. Id. at 173.\n\u00b629 Davila petitioned for review, arguing that the Court of Appeals applied the wrong legal standard when it determined that he had not satisfied Brady\u2019\u2019s materiality requirement. State v. Davila, 182 Wn.2d 1002, 342 P.3d 327 (2015).\nANALYSIS\n\u00b630 The Court of Appeals was correct. In order to establish a Brady violation, a defendant must establish three things: (1) \u201c[t]he evidence at issue must be favorable to the accused, either because it is exculpatory, or because it is impeaching,\u201d (2) \u201cth[e] evidence must have been suppressed by the State, either willfully or inadvertently,\u201d and (3) the evidence must be material. Strickler v. Greene, 527 U.S. 263, 281-82, 119 S. Ct. 1936, 144 L. Ed. 2d 286 (1999). The evidence that Olson was inept was both favorable to the defense and suppressed by the State (which had a detailed report on Olson\u2019s professional failings). But, despite the fact that the trial court gave the defense three chances to present evidence in support of materiality, the defense did not do so. On this record, the defense failed to prove materiality.\nI. The Court of Appeals correctly held that evidence of Olson\u2019s incompetence was favorable to the accused\n\u00b631 As noted above, \u201c \u2018favorable\u2019 \u201d evidence under Brady includes impeachment evidence as well as exculpatory evidence. Strickler, 527 U.S. at 280 (quoting Brady, 373 U.S. at 87). The Court of Appeals concluded that Olson\u2019s incompetence was favorable to the accused because it \u201cwould have opened an area of impeachment that Mr. Davila was unaware of at the time of trial.\u201d Davila, 183 Wn. App. at 168. Citing this court\u2019s decision in Stenson, 174 Wn.2d at 489, it noted the importance of thoroughly cross-examining forensic analysts. We agree with the Court of Appeals on this point.\n\u00b632 The State asserts that Olson\u2019s deficiencies are not truly \u201cexculpatory\u201d since the allegation that \u201cOlson could have contaminated or mislabeled the samples was mere speculation.\u201d Suppl. Br. of Resp\u2019t at 23 (formatting omitted). In support of that claim, it cites United States v. Michaels, 796 F.2d 1112, 1116 (9th Cir. 1986), United States v. Georgiou, 777 F.3d 125, 141 (3d Cir. 2015), cert. filed, No. 14-1535 (U.S. June 25, 2015), and United States v. Andrus, 775 F.2d 825, 843 (7th Cir. 1985). Suppl. Br. of Resp\u2019t at 23-24.\n\u00b633 This authority is distinguishable. In Michaels, the defense sought access to United States \u201cpostal inspectors\u2019 rough notes from witness interviews,\u201d speculating that those notes might have proved that the defendant never actually mailed a package of explosives. 796 F.2d at 1115. The court held that the notes were not material because the defendant provided no basis for believing that they actually contained exculpatory information. Id. at 1116.\n\u00b634 Similarly, in Georgiou, the defendant sought notes from two federal Securities Exchange Commission interviews of a witness for the prosecution. 777 F.3d at 141. The court held that there was no basis in the record to suggest that the notes contained any Brady material. Id. And in Andrus, the defendant sought to compel discovery of law enforcement witness personnel files. 775 F.2d at 843. The court held that the defendant had no basis for concluding that the files contained Brady material and was not entitled to discovery based on speculation alone. Id.\n\u00b635 Unlike the situations in Michaels, Georgiou, and Andrus, here we know exactly what the alleged Brady material contains: evidence that Olson made numerous mistakes in her forensic analytical work and that the Crime Lab nevertheless continued to employ her for several years after the mistakes first surfaced.\nII. The Court of Appeals correctly held that the State suppressed evidence of Olson\u2019s incompetence\n\u00b636 Under Brady, the prosecution has a duty to seek out exculpatory and impeaching evidence held by other government actors. Kyles, 514 U.S. at 438. Thus, the prosecution \u201csuppresses\u201d evidence, for purposes of Brady, even if that evidence is held by others acting on the government\u2019s behalf, e.g., police investigators. Id.; see also Strickler, 527 U.S. at 283 n.23 (if prosecution asserts that it complies with Brady through an open file policy, defense counsel may rely on file to contain all Brady materials). As the State now appears to acknowledge, the Crime Lab is an arm of the State whose knowledge is imputed to the prosecution for purposes of Brady. See Giglio v. United States, 405 U.S. 150, 154, 92 S. Ct. 763, 31 L. Ed. 2d 104 (1972) (one federal prosecutor\u2019s knowledge imputed to another federal prosecutor for purposes of Brady suppression inquiry). For this reason, the trial court was wrong to suggest that the prosecution had no obligation to discover or disclose the records pertaining to Olson\u2019s incompetence.\n\u00b637 Nevertheless, the State argues that it could not have \u201csuppressed\u201d evidence of Olson\u2019s incompetence since Olson was listed as a witness for the defense. It contends that the defense listed Olson as a potential expert witness and should therefore have discovered the facts of her termination through the normal expert-witness-vetting process. Suppl. Br. of Resp\u2019t at 22 (\u201cthe defense attorneys in the present case had an elementary and fundamental obligation to at least question their listed expert witness, Ms. Olson, before trial about her qualifications and work history with the Washington State Patrol\u201d).\n\u00b638 Davila counters that the defense never listed Olson as an expert witness but instead considered calling her only as a fact witness \u201cregarding \u2018chain of custody issues\u2019 and DNA tested from Allen\u2019s truck.\u201d Pet\u2019r\u2019s Second Suppl. Br. Addressing New Issues Raised in State\u2019s Br. at 7 (citing 4 VRP at 575-78 (Aug. 1, 2012); CP at 283).\n\u00b639 The record supports his contention. The defense mentioned Olson only once in the trial court, when it discussed its anticipated cross-examination of Heath:\nTHE COURT: Mr. Krzyminski, do you have witnesses available for tomorrow if we need them?\nMR. KRZYMINSKI: The witness that I would anticipate is Denise Olson, your Honor. In my conversations with Mr. Nagy, I believe the testimony that I can elicit from Denise Olson I can get from Lorraine Heath. If that worked out all fine, I would not be calling Denise Olson. But again that\u2019s subject to Ms. Heath. I\u2019m anticipating that she can answer the questions I would have because it has to do with the previous tests [performed for Davis\u2019 case]. And [Heath] didn\u2019t work there in 2007, 2008 when these items were being tested but she does have the reports available.\n2 VRP at 398-99 (July 11,2012) (emphasis added). It is clear from this exchange that defense counsel anticipated calling Olson only as a fact witness regarding the handling of relevant DNA evidence in Davis\u2019 case. The defense did not, as the State argues, list Olson as an expert witness. Even if it had, the defense would not thereby waive the defendant\u2019s constitutional Brady protections.\n\u00b640 Further, the defense had no reason to investigate Olson\u2019s reasons for leaving the Crime Lab just because she was a possible witness. For this reason, all of the authority that the State cites on the defense\u2019s duty to exercise due diligence in discovering exculpatory evidence is distinguishable. The Court of Appeals correctly held that the prosecution suppressed evidence of Olson\u2019s incompetence in the Crime Lab, and of testifying witness Heath\u2019s knowledge of this incompetence, for purposes of the Brady analysis.\nIII. The Court of Appeals correctly held that evidence of Olson\u2019s incompetence was not material under Brady given the specific facts in this record\n\u00b641 Evidence is material under Brady \u201c \u2018if there is a reasonable probability that, had the evidence been disclosed to the defense, the result of the proceeding would have been different.\u2019 \u201d Kyles, 514 U.S. at 433-34 (quoting Bagley, 473 U.S. at 682). To satisfy this standard, a defendant need not demonstrate by a preponderance that he would have been acquitted had the suppressed evidence been disclosed. Id. at 434. Instead, he or she must show only that \u201cthe government\u2019s evidentiary suppression \u2018undermines confidence in the outcome of the trial.\u2019 \u201d Id. (quoting Bagley, 473 U.S. at 678). There is no separate, additional prejudice inquiry.\n\u00b642 The parties\u2019 substantive arguments on materiality are intertwined with an argument over the applicable standard of review. The defense argues that, at least in this case, we should review both the trial court\u2019s conclusions of law and its findings of fact de novo. The State acknowledges that this court reviews Brady claims de novo, but it contends that deference is owed the factual findings underlying a trial court\u2019s ruling on a Brady claim. Suppl. Br. of Resp\u2019t at 12.\n\u00b643 For the following reasons, we conclude that (a) Brady materiality is a legal question that is reviewed de novo, but the trial court\u2019s underlying factual findings are reviewed for substantial evidence; (b) the trial court applied the correct legal standard when it denied Davila\u2019s Brady claim, even though it used some imprecise language; and (c) on the basis of the available evidence, the trial court did not err in concluding that Item 24 could not have contaminated Swab D.\nA. Whether suppressed evidence is \u201cmaterial\u201d is a legal question that is reviewed de novo, but the trial court\u2019s underlying factual findings are reviewed for substantial evidence in the record\n\u00b644 In State v. Mullen, 171 Wn.2d 881, 893-94, 259 P.3d 158 (2011), this court stated that it reviews Brady claims de novo. But it did not specifically address the issue of deference to the trial court\u2019s factual determinations\u2014it simply agreed with the trial court\u2019s decision to deny the defendant\u2019s motion for a new trial. Id. at 887, 898-905. In Stenson, 174 Wn.2d at 488\u2014a personal restraint petition\u2014 this court explained that Brady materiality is a mixed question of fact and law, which \u201c[w]e review . . . de novo by applying the reference hearing facts to the law and drawing our own legal conclusions.\u201d\n\u00b645 This precedent applies a typical mixed standard of review for Brady claims: the trial court\u2019s legal conclusions about materiality are reviewed de novo, but its underlying factual findings are reviewed for substantial evidence in the record. This is consistent with federal appellate court precedent on Brady materiality. Thus, while the trial court\u2019s factual conclusions receive some deference, the ultimate constitutional question\u2014whether the suppression of evidence deprived the defendant of due process\u2014is reviewed de novo.\nB. The trial court applied the correct legal standard for materiality in this case\n\u00b646 As noted above, Davila argues that the trial court applied the wrong standard for materiality when it denied his motion for a new trial. Specifically, he contends that the trial court should have asked whether Olson\u2019s termination for incompetence would have allowed him to impeach the overall carefulness of the Crime Lab\u2014not whether there was any reasonable possibility that Olson contaminated the evidence used in his case.\n\u00b647 Davila argues that the facts underlying Olson\u2019s termination \u201cundercut the credibility of the person who first handled, extracted, amplified, and tested the DNA samples from the crime scene\u201d\u2014Olson\u2014and \u201cimpeached the carefulness of the Crime Lab.\u201d Suppl. Br. of Pet\u2019r at 7. He maintains that the defense would have employed a fundamentally different strategy had it known of these facts. Davila points out that Heath testified to the rigorous accreditation standards that the Crime Lab must meet, including regular audits of every lab scientist\u2019s proficiency. He argues that had the defense known how long the Crime Lab employed a scientist with serious deficiencies like Olson\u2019s, it could have tried to impeach Heath\u2019s testimony by calling an expert to explain the risk of error that Olson posed and investigating the possibility that Heath wanted to downplay that risk.\n\u00b648 But in all of the cases on which Davila relies, the defense actually developed factual data that would support a legal finding of materiality.\n\u00b649 In Benn v. Lambert, 283 F.3d 1040, 1055 (9th Cir. 2002), for example, the prosecution failed to disclose the fact that an informant-witness had a history of lying and was viewed by law enforcement as untrustworthy. And in Amado v. Gonzalez, 758 F.3d 1119, 1139 (9th Cir. 2014), the prosecution failed to disclose the facts that a gang rivalry and the desire to seek favor with probation officers might have motivated its primary witness to testify against the defendant. In both of these cases, it was readily apparent what strategy the defense would have pursued had it known of the suppressed impeachment evidence. And, more to the point, it was readily apparent that this strategy would have seriously undermined the prosecution\u2019s theory.\n\u00b650 The other two cases Davila cites are similar, although they deal specifically with forensic evidence. In Aguilar v. Woodford, 725 F.3d 970, 971 (9th Cir. 2013), the prosecution introduced evidence that a police dog had alerted to the scent of the defendant at the scene of the crime. The other evidence against the defendant was weak, and substantial evidence suggested that another person had committed the crime, a shooting. Id. The Ninth Circuit held that the dog\u2019s history of mistaken scent identifications was material under Brady. Id. at 983-85.\n\u00b651 In Stenson, the defendant was convicted of shooting two victims to death. 174 Wn.2d at 487. The State\u2019s case rested in part on forensic evidence showing (1) gunshot residue inside the front right pocket of the defendant\u2019s jeans and (2) blood spatter on the front of the same jeans. Id. at 478. Long after trial, postconviction counsel discovered two pieces of impeaching evidence: (1) a photograph of the lead detective, who testified at trial and supervised the entire investigation, showing him wearing the defendant\u2019s jeans and turning out the right pocket with an ungloved hand and (2) a Federal Bureau of Investigation file revealing that a trainee, and not the expert witness who testified for the State, had actually performed the gunshot residue testing. Id. at 479, 491. After a lengthy evidentiary hearing addressing the handling of the jeans, this court held that the photograph tended to \u201cdemonstrate . . . that a key exhibit in the case . . . had [in fact] been seriously mishandled and compromised by law enforcement investigators.\u201d Id. at 492.\n\u00b652 Thus, in both Aguilar and Stenson, the Brady evidence at issue tended to completely neutralize the prosecution\u2019s most significant evidence. In Aguilar, the Brady evidence allowed the defense to argue that the scent identification was incorrect, like many of the police dog\u2019s other scent identifications had been. And in Stenson, the evidence undermined key scientific evidence in the State\u2019s case.\n\u00b653 We agree with Davila that he could have used the facts of Olson\u2019s ineptitude to generally undermine the Crime Lab\u2019s reputation with the jury, but we conclude that the defense failed to meaningfully connect Olson\u2019s ineptitude with the evidence used to convict Davila. Put another way, the defense failed to develop facts showing that Olson\u2019s ineptitude and termination were material in this case. To be sure, the prosecution\u2019s Brady duties \u201cencompass! ] impeachment evidence as well as exculpatory evidence.\u201d Strickler, 527 U.S. at 280 (emphasis added) (citing Bagley, 473 U.S. at 676). But the effect of any omission must be evaluated cumulatively, Kyles, 514 U.S. at 440, and in the context of the whole trial record, Augurs, 427 U.S. at 112-13. Indeed, if impeachment value alone were sufficient to warrant a new trial, there would be no need for the third Brady prong (the materiality inquiry).\n\u00b654 But in this case, even if Olson\u2019s test results were untrustworthy, the defense still faced the problem of Swab D (the baseball bat swab). Testing by both Olson and Heath revealed the presence of Davila\u2019s DNA on that swab.\n\u00b655 Davila seeks to attribute both of those inculpatory test results to Olson\u2019s incompetence, but he suggests only one theory that could support that attribution: the theory that Item 24 did have Davila\u2019s DNA on it (even though testing of Item 24 by both Olson and Heath was inconclusive for Davila\u2019s DNA), that Olson handled Item 24 before handling Swab D (or handled them simultaneously), and that Olson thereby contaminated Swab D with DNA from Item 24. Timing was thus crucial to Davila\u2019s argument on materiality. Yet he never offered any fact or called any witness who could have supported his theory that Olson in fact handled Item 24 before she handled Swab D or that those two items were otherwise mingled in the Crime Lab, even though the trial court gave him two continuances to do so. Indeed, the only evidence presented at the Brady hearing supported the opposite conclusion.\n\u00b656 Given the specific facts of this case, the trial court was correct to require some evidence that Item 24 could have contaminated Swab D in order to find materiality. Without that evidence, Olson\u2019s termination for incompetence does not seriously undermine Heath\u2019s testimony that Davila\u2019s DNA was on the handle of the baseball bat used to kill Allen.\n\u00b657 The trial court did err when it stated that Davila needed to prove \u201con a more likely than not basis, [that] Mr. Davila\u2019s DNA was on something that was in the lab at the relevant time.\u201d 4 VRP at 612-13 (emphasis added) (Oct. 19, 2012); see supra p. 73. But since Davila did not establish any likelihood of contamination at all, under any standard, this misstatement is irrelevant.\nC. On the basis of the available evidence, the trial court did not err when it concluded that there was no reasonable probability of contamination\n\u00b658 As noted above, the trial court found that there was no evidence of contamination because Item 24 and Swab D were tested on different days and Swab D was tested first. 4 VRP at 623-24 (Oct. 25, 2012). Davila challenges this finding in two ways.\n\u00b659 First, Davila argues that it does not matter whether Item 24 and Swab D were tested on different days. He contends that Item 24 could have contaminated Swab D solely by virtue of the fact that the two samples were held together in the lab and handled by Olson. Pet\u2019r\u2019s Second Suppl. Br. Addressing New Issues Raised in State\u2019s Br. at 6. Second, Davila argues that the Court of Appeals (and, by extension, the trial court) should not have relied on Olson\u2019s reports to conclude that Item 24 and Swab D were tested on different days since sloppy record keeping was one of the reasons that Olson was fired. Pet\u2019r\u2019s Suppl. Br. at 18. We reject both of these arguments.\n\u00b660 To support his argument on cross contamination, Davila offered only Dr. Hampikian\u2019s declaration, which stated that cross contamination could have occurred because Olson, an incompetent scientist, handled both samples. But, as the trial court pointed out at the second hearing on the motion for a new trial, Item 24 could not have contaminated Swab D unless those items were actually commingled\u2014for example, by Olson\u2019s handling them simultaneously or handling Item 24 before handling Swab D\u2014and on this factual question, Dr. Hampikian had no knowledge whatsoever. Thus, his observation that Olson\u2019s incompetence might have led to cross contamination was speculative for purposes of the materiality inquiry.\n\u00b661 In fact, the only evidence regarding the actual handling of Item 24 and Swab D\u2014Heath\u2019s certificate and Olson\u2019s records\u2014supported the State\u2019s argument on materiality: that Olson tested (and therefore handled) Swab D weeks before she tested Item 24. We agree with Davila that this evidence was not perfect\u2014Heath is the very witness that Davila sought to impeach, and Olson\u2019s records are inherently suspect given her propensity for error. But this imperfect evidence was unrebutted. The defense offered no evidence of its own to help the trial court decide if Hampikian\u2019s cross contamination theory had any possible application to the facts of this case. Davila didn\u2019t show where Crime Lab evidence is stored, how it is generally handled, whether that was different in 2007, or what could have occurred in this case to mingle Swab D and Item 24.\n\u00b662 The defense has the burden to produce facts in support of its theory, and the defense failed to develop any such facts in this case. Thus, the trial court did not err when it determined that there was no reasonable probability of contamination.\nCONCLUSION\n\u00b663 The defense failed to present any evidence in support of its claim that contamination was a real possibility in this case. Based on the defense\u2019s presentation in the Brady hearings, the trial court reached the right conclusion on materiality. We agree with the Court of Appeals\u2019 analysis on all three Brady requirements, and we therefore affirm.\nMadsen, C.J., and Johnson, Owens, Fairhurst, Stephens, Wiggins, Gonz\u00e1lez, and Yu, JJ., concur.\nCP at 297 (defense counsel stating, \u201cIf I contact an expert and they come back to me and say, you really don\u2019t have anything here . . . we won\u2019t need to have this hearing\u2019\u2019).\nThese assertions are not supported by anything in the record before this court. According to that record, Olson reported testing the bat on November 5, 2007, and the steering wheel swab on December 4, 2007. CP at 275, 278; see also 3 VRP at 455 (July 12, 2012) (Heath testifying that Olson tested Swab D on November 5, 2007). It is not clear why defense counsel referred to the August dates at the Brady hearing. In his second supplemental brief in this court, Davila argues that the August dates are correct and that the \u201cactual testing [of the bat and the steering wheel swabs] was [therefore] performed within two days in August 2007 and the items were held together in the lab.\u2019\u2019 Pet\u2019r\u2019s Second Suppl. Br. Addressing New Issues Raised in State\u2019s Br. at 6. But in support of this assertion, Davila cites only to the testimony by defense counsel, excerpted above.\nDavila argues that the trial court confused Brady suppression with prosecutorial misconduct and therefore applied the wrong legal standard to his Brady claim. Had the court rejected Davila\u2019s motion for a new trial on the basis that the State had no obligation to disclose evidence of Olson\u2019s incompetence, we would agree. But the trial court did not conclude that Davila failed Brady's suppression requirement. On the contrary, it ruled that Davila was entitled, under Stenson, 174 Wn.2d 474, 276 P.3d 286\u2014a Brady case\u2014to an evidentiary hearing on materiality.\nIn support of this argument, the State cites State v. Mullen, 171 Wn.2d 881, 896, 259 P.3d 158 (2011), State v. Gregory, 158 Wn.2d 759, 798, 147 P.3d 1201 (2006), overruled on other grounds by State v. W.R., 181 Wn.2d 757, 336 P.3d 1134 (2014), State v. Thomas, 150 Wn.2d 821, 851, 83 P.3d 970 (2004), In re Personal Restraint of Gentry, 137 Wn.2d 378, 396, 972 P.2d 1250 (1999), and In re Personal Restraint of Benn, 134 Wn.2d 868, 916, 952 P.2d 116 (1998). All of these cases address situations in which defense counsel failed to pursue lines of inquiry that should have been obvious given what the prosecution disclosed prior to trial.\n\u201cGenerally, [factual] findings are viewed as verities, provided there is substantial evidence to support the findings. State v. Halstien, 122 Wn.2d 109, 128, 857 P.2d 270 (1993). Substantial evidence exists where there is a sufficient quantity of evidence in the record to persuade a fair-minded, rational person of the truth of the finding. Halstien, at 129.\u2019\u2019 State v. Hill, 123 Wn.2d 641, 644, 870 P.2d 313 (1994).\nE.g., United States v. Reese, 745 F.3d 1075, 1083 (10th Cir. 2014) (trial court\u2019s ruling on Brady claim reviewed de novo, but underlying factual findings reviewed for clear error); United States v. Dado, 759 F.3d 550, 559 (6th Cir. 2014) (in reviewing Brady claim, \u201cwe give considerable deference to the district court\u2019s factual findings and factual conclusions, but we review de novo the district court\u2019s conclusions about the legal significance of those findings\u2019\u2019); United States v. Wilson, 624 F.3d 640, 660 n.24 (4th Cir. 2010) (\u201cmotions for a new trial based on an alleged Brady violation are reviewed for abuse of discretion!, but] [i]t is an abuse of discretion for the district court to commit a legal error\u2014such as improperly determining whether there was a Brady violation\u2014and that underlying legal determination is reviewed de novo\u2019\u2019 (citing United States v. Stokes, 261 F.3d 496, 502 (4th Cir. 2001))); United States v. Banks, 546 F.3d 507, 508-10 (7th Cir. 2008) (trial court\u2019s ruling on Brady-based motion for new trial reviewed for abuse of discretion; evidence is \u201cmaterial\u2019\u2019 under Brady if it creates reasonable probability of different outcome); United States v. Madori, 419 F.3d 159, 169 (2d Cir. 2005) (materiality is a mixed question of fact and law; trial court\u2019s factual determinations entitled to deference, but legal rulings reviewed de novo); United States v. Sipe, 388 F.3d 471, 479 (5th Cir. 2004) (appellate court reviewing Brady claim should defer to trial court\u2019s factual findings \u201cwhile reviewing the ultimate constitutional question afresh\u2019\u2019); United States v. Newton, 44 F.3d 913, 919 (11th Cir. 1994) (trial court did not abuse its discretion in concluding that suppressed evidence was not material under Brady since \u201c[i]ts suppression does not \u2018undermine confidence in the outcome of the trial\u2019 \u2019\u2019); United States v. Thornton, 1 F.3d 149, 158 (3d Cir. 1993) (in review of Brady claim, district court\u2019s factual findings reviewed for clear error and legal conclusions reviewed de novo).\nThis is because when an appellate court determines whether exculpatory evidence is \u201cmaterial\u2019\u2019 under Brady, it must determine whether, had the defense been able to present that evidence to the jury, any juror might have had a reasonable doubt as to guilt. United States v. Agurs, 427 U.S. 97, 112-13, 96 S. Ct. 2392, 49 L. Ed. 2d 342 (1976) (\u201cif the omitted evidence creates a reasonable doubt that did not otherwise exist, constitutional error has been committed\u2019\u2019); Stenson, 174 Wn.2d at 493-94 (suppressed evidence material because it \u201cundermines confidence in the jury verdict\u2019\u2019). This is a legal question\u2014whether the defendant has been afforded due process; as such, it is reviewed de novo.\nWe reject the State\u2019s argument that Evidence Rule (ER) 608(b) would have barred the admission of Olson\u2019s incompetence and firing at trial. Suppl. Br. of Resp\u2019t at 17-18. ER 608(b) provides:\nSpecific instances of the conduct of a witness, for the purpose of attacking or supporting the witness\u2019 credibility, other than conviction of crime as provided in rule 609, may not be proved by extrinsic evidence. They may, however, in the discretion of the court, if probative of truthfulness or untruthfulness, be inquired into on cross examination of the witness (1) concerning the witness\u2019 character for truthfulness or untruthfulness, or (2) concerning the character for truthfulness or untruthfulness of another witness as to which character the witness being cross-examined has testified.\nThe purpose of this rule is to prevent irrelevant character assassination, not to bar evidence that the State may have botched or misrepresented its investigation. See State v. Benn, 120 Wn.2d 631, 651, 845 P.2d 289 (1993) (where defense was permitted to thoroughly cross-examine witness about his exchange of testimony for reduced sentence, trial court properly barred cross-examination regarding witness\u2019 prior drug dealing); State v. Wilson, 60 Wn. App. 887, 893, 808 P.2d 754 (1991) (specific instances of conduct admissible under ER 608(b) if relevant to veracity). Moreover, at Davila\u2019s trial Heath testified at length about the integrity of the Crime Lab\u2019s procedures and the rigorous audits to which it is subject, thereby putting the lab\u2019s competence directly at issue. Evidence that the Crime Lab employed an incompetent scientist for years was certainly relevant to impeach that testimony\u2014and it does not implicate ER 608(b) at all. See Bagley, 473 U.S. at 676-77 (Brady material includes impeaching as well as exculpatory evidence).\nThis does not relieve prosecutors of the obligation to disclose impeachment evidence that might not reach \u201cmateriality\u201d threshold under Brady. Such suppression would not violate the constitution, but it might well violate a prosecutor\u2019s professional obligations. In Washington, Rules of Professional Conduct (RPC) 3.8 provides:\nThe prosecutor in a criminal case shall:\n(d) make timely disclosure to the defense of all evidence or information known to the prosecutor that tends to negate the guilt of the accused or mitigates the offense, and, in connection with sentencing, disclose to the defense and to the tribunal all mitigating information known to the prosecutor, except when the prosecutor is relieved of this responsibility by a protective order of the tribunal.\nWe note that at least one Court of Appeals has held that the prosecution\u2019s failure to disclose potentially exculpatory evidence may violate an RPC governing disclosure obligations, even if the evidence ultimately proves nonmaterial under a Brady analysis. In re Andrew J. Kline, 113 A.3d 202 (D.C. 2015).\nSuppl. Br. of Pet\u2019r at 14 (\u201cSwab D was the only DNA connection between Davila and the crime scene, and Heath used The remaining portion of this swab\u2019 used first by Olson.\u201d (citing CP at 281)), 17 (\u201cOlson was a critical link in the State\u2019s chain of custody\u201d); Pet\u2019r\u2019s Second Suppl. Br. Addressing New Issues Raised in State\u2019s Br. at 6 (arguing that Item 24 could have contaminated Swab D because Olson tested both items within a short period of time).\nWe also note that Heath\u2019s certificate assumes that Dr. Hampikian was referring to Item 23 in his report on the potential for contamination: \u201cThe swab from the steering wheel (Item 23) referred to by Dr. Greg Hampikian in his \u2018Report on Possible DNA Errors by Forensic Scientist 3 Denise Olsen [sic], in the Julio Josef Davila case\u2019 was not in Ms. Olson\u2019s possession during her testing of the swabs from the baseball bat.\u2019\u2019 CP at 313. However, it is clear that Dr. Hampikian was referring to Item 24, the steering wheel sample with the most evidentiary value, according to Olson\u2019s reports and Heath\u2019s certificate, and the only item that Davila suggests could have contaminated the Swab D. Id.",
+        "type": "majority",
+        "author": "Gordon McCloud, J."
+      }
+    ],
+    "attorneys": [
+      "Nancy P. Collins (of Washington Appellate Project), for petitioner.",
+      "Lawrence H. Haskell, Prosecuting Attorney, and Brian C. OBrien and Larry D. Steinmetz, Deputies, for respondent."
+    ],
+    "corrections": "",
+    "head_matter": "[No. 90839-7.\nArgued May 14, 2015.\nDecided August 27, 2015.\nThe State of Washington, Respondent, v. Julio J. Davila, Petitioner.\nNancy P. Collins (of Washington Appellate Project), for petitioner.\nLawrence H. Haskell, Prosecuting Attorney, and Brian C. OBrien and Larry D. Steinmetz, Deputies, for respondent."
+  },
+  "file_name": "0055-01",
+  "first_page_order": 97,
+  "last_page_order": 124
+}

@@ -1,0 +1,322 @@
+{
+  "id": 1358445,
+  "name": "Beckler Produce Company v. American Railway Express Company",
+  "name_abbreviation": "Beckler Produce Co. v. American Railway Express Co.",
+  "decision_date": "1922-12-18",
+  "docket_number": "",
+  "first_page": "296",
+  "last_page": "300",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "156 Ark. 296"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [
+    {
+      "cite": "74 Ark. 320",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        8720723
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/74/0320-01"
+      ]
+    },
+    {
+      "cite": "256 U. S. 554",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3679471
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/256/0554-01"
+      ]
+    },
+    {
+      "cite": "82 Ark. 309",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1529034
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/82/0309-01"
+      ]
+    },
+    {
+      "cite": "59 Ark. 165",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1327693
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/59/0165-01"
+      ]
+    },
+    {
+      "cite": "143 Ark. 388",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1589379
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/143/0388-01"
+      ]
+    },
+    {
+      "cite": "147 Ark. 197",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1583237
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/147/0197-01"
+      ]
+    },
+    {
+      "cite": "92 Ark. 465",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1548627
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/92/0465-01"
+      ]
+    },
+    {
+      "cite": "86 Ark. 309",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1521462
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/86/0309-01"
+      ]
+    },
+    {
+      "cite": "12 Ga. 104",
+      "category": "reporters:state",
+      "reporter": "Ga.",
+      "case_ids": [
+        589434
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ga/12/0104-01"
+      ]
+    },
+    {
+      "cite": "90 Fed. 220",
+      "category": "reporters:federal",
+      "reporter": "F.",
+      "case_ids": [
+        6752213
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f/90/0220-01"
+      ]
+    },
+    {
+      "cite": "100 Ark. 248",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1312274
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/100/0248-01"
+      ]
+    },
+    {
+      "cite": "58 Ark. 407",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1329130
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/58/0407-01"
+      ]
+    },
+    {
+      "cite": "95 Ark. 327",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1543578
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/95/0327-01"
+      ]
+    },
+    {
+      "cite": "68 Ark. 433",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1334117
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/68/0433-01"
+      ]
+    },
+    {
+      "cite": "209 U. S. 123",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        8288600
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/209/0123-01"
+      ]
+    },
+    {
+      "cite": "238 U.S. 325",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3676476
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/238/0325-01"
+      ]
+    },
+    {
+      "cite": "238 U. S. 482",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3676054
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/238/0482-01"
+      ]
+    },
+    {
+      "cite": "251 U. S. 63",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3680560
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/251/0063-01"
+      ]
+    },
+    {
+      "cite": "131 Ark. 442",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1578614
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/131/0442-01"
+      ]
+    },
+    {
+      "cite": "226 U. S. 217",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        8286299
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/226/0217-01"
+      ]
+    },
+    {
+      "cite": "207 U. S. 73",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3639674
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/207/0073-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 516,
+    "char_count": 8799,
+    "ocr_confidence": 0.496,
+    "pagerank": {
+      "raw": 7.900230546054436e-08,
+      "percentile": 0.4606228007887719
+    },
+    "sha256": "0f11141693649795634cbcb2f2b7544b0e3e407a17dbca9579cfdfe642f07fd7",
+    "simhash": "1:5fc3dedabe0a77d7",
+    "word_count": 1528
+  },
+  "last_updated": "2024-02-27T21:52:19.957046+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Beckler Produce Company v. American Railway Express Company."
+    ],
+    "opinions": [
+      {
+        "text": "Hart, J. (after stating the facts).\nUnder our statutes express companies shall settle in twenty days after notice given for the loss of goods in transit. Crawford & Moses\u2019 Digest, \u00a7 936.\nThe statute further provides that any express company refusing to pay a claim within twenty days after notice given shall be liable in damages to the owner of the goods to the amount of damages sustained by the loss, and also the sum of $2 for each day that the express company fails and refuses to settle after the twenty days\u2019 notice has been given. Crawford & Closes\u2019 Digest, \u00a7 937.\nCounsel for the express company contend that the statute, in so far as it provides a continuing penalty of $2 per day after failure to settle, is unconstitutional, because the amount allowed is arbitrary and excessive.\nIn Seaboard Air Line v. Seegars, 207 U. S. 73, it was held that a State statute may, without violating the equal protection clause of the Fourteenth Amendment, put into one class all engaged in business of a special and public character, and require them to perform a duty which they can do better and more quickly than others, and impose a not exorbitant penalty for the non-performance thereof.\nStatutes of this character do not violate the due process or equal protection clauses of the State and Federal Constitutions; but, on the contrary, merely provide a reasonable incentive for the prompt settlement, without suit, of just demands of a class admitting of special legislative treatment; and in this connection it may be said that such statutes are not objectionable in so far as intrastate shipments are concerned. Yazoo & Miss. R. Co. v. Jackson Vinegar Co., 226 U. S. 217; and St. Louis, I. M. & So. Ry. Co. v. Williams, 131 Ark. 442, affirmed in 251 U. S. 63.\nSo it may be said that, in general, the amount of the penalty prescribed is a matter for the Legislature to determine in its discretion, and courts will not interfere with its \u25a0 discretion in the premises as long as it keeps within the fair and reasonable scope of its power.\nWe are of the opinion, however, that the penalty exacted in the statute under consideration is so exorbitant and unreasonable as to render the statute unconstitutional. The statute provides a continuing penalty of $2 per day, and leaves it to the discretion of the owner of the goods to bring suit at any time within the period of the statute of limitations.\nIn the instant case the shipment consisted of twenty bushels of peaches valued at $48.66, and the penalty asked for amounted to $1,740. This amount is unreasonable, and serves to defeat the beneficent purpose of the statute, which, as we have said, was to compel the. carrier to perform with reasonable diligence the duty which peculiarly appertains to its business as- a carrier of freight. A pen-, alty which is unreasonable in amount would not accomplish-this purpose, but would have the effect to deprive the carrier of its property without due process of law-Southwestern Telegraph & Telephone Co. v. Danaher., 238 U. S. 482; Kansas City So. Ry. Co. v. Anderson, 238 U.S. 325, and Exparte Young, 209 U. S. 123.\nThe object of statutes of this kind is not to penalize the carrier for refusing to pay olaims within the time required, whether just or unjust, but the design is to bring about a prompt investigation and payment of all proper claims. The penalty is intended to make the. carrier prompt in the discharge of its duties and to allow to the owner of the goods compensation for the trouble and' expense of a suit which the unreasonable delay and refusal of the carrier to pay has- made necessary. In such cases penalties may be made cumulative in order to make it to the interest of the carrier to perform its duty. For instance, section 7525 provides that when a railroad company shall discharge, without cause, any employee, his wages shall become due at once, and, upon the refusal to pay him, a penalty for the nonpaj\u2019ment of such wages shall continue from the date of the discharge at the same rate until paid.\nThe section, however, contains a proviso that such wages shall not continue more than sixty days unless an action therefor shall be commenced within that time. This section has been held constitutional by this court in numerous cases. Other statutes have heen held constitutional which provide a cumulative penalty to railroads failing or refusing to deliver freight or perform other duties required by the statute within a specified time.\nIn the first mentioned case the cumulative penalties only run for a stated length of time where suit is not brought, and this prevents them from becoming excessive and unreasonable.\nIn the latter class of cases the continued negligence of the carrier renders the penalties cumulative. Under the present statute there is no limitation to prevent the penalties from becoming excessively cumulative at the will of the owner of the goods. This makes the statute oppressive and unreasonable. It ceases to be a statute for the protection of the public, but becomes one which enables the shipper, by delay in bringing his suit, to force the carrier to pay his claim, however unjust and unreasonable it might be, or, for its refusal to do so, to pay a penalty which, by the action of the owner of the goods and not the carrier, had been allowed to continue until it became wholly disproportionate to the loss suffered. In other words, the statute gives the option to the shipper to make the penalty cumulative and to become oppressive. Therefore, the cumulative penalties provided by the statute are unreasonable, and by the act of the owner may become so excessive as to prevent the carrier from resorting to the courts to contest the correctness of the claim. The penalty clause of the statute is unconstitutional in that it denies to the carrier the equal protection of the law and deprives it of its property without due process of law.\nIt follows that the judgment must be affirmed.",
+        "type": "majority",
+        "author": "Hart, J. (after stating the facts)."
+      }
+    ],
+    "attorneys": [
+      "E. H. Timmons, for appellant.",
+      "Bridges S Wooldridge, for appellee.",
+      "E. H. Timmons, for appellant, in reply."
+    ],
+    "corrections": "",
+    "head_matter": "Beckler Produce Company v. American Railway Express Company.\nOpinion delivered December 18, 1922.\nCarriers \u2014 penalty for failure of express company to settle for lost GOODS. \u2014 Crawford & Moses\u2019 Dig., \u00a7 937, imposing a penalty of $2 per day for failure of an express company to settle for goods lost in transit within 20 days after notic-e contravenes the equal protection and due process clauses of the Constitution, in that it gives the option to the shipper to make the penalty excessive'-by delaying action till the penalty becomes disproportioned to the loss.\nAppeal from Arkansas Circuit Court, Northern District; George W. Claris, Judge;\naffirmed.\nstatement op pacts.\nOn the 16th day of July, 1918, J. B. Polk delivered to the Wells Fargo & Company Express at Stevens, Ark., twenty bushels of peaches to be shipped by express to Beckler Produce Company at Stuttgart, Ark. The express 'company failed to deliver the peaches to the consignee, and this resulted in a loss to it of $48.66.\nThe American Railway Express Company took over all the property belonging to. the Wells Fargo & Company Express, and assumed all its debts and liabilities.\nThe Beckler Produce Company gave notice, as required by the statute, within twenty days of the loss of the peaches while in transit. The express company failed to pay the claim, and the consignee sued it to recover damages for the loss of the peaches and also for the sum of $1,743.66, being the sum of $2 for each day from the date of the failure of the express company to pay the claim commencing August 21, 1918, and continuing to the 10th of January, 1921, the day this suit was filed.\nThe court directed the jury to return a verdict for the value of the peaches sued for, and instructed it not to consider the allegations of the complaint as to the statutory penalty.\nThe jury returned a verdict in the sum of $48.66 with interest at 6 per cent, from July 18, 1918, and from the judgment rendered the plaintiff has duly prosecuted an appeal to this court.\nE. H. Timmons, for appellant.\nThe two-year statute of limitations does not apply. See. 6954, C. & M. Dig. The statutory liability here comes under \u00a7' 6950, sub-sec. 1, C. & M. Dig. The -statute creating this liability is remedial. 68 Ark. 433; 95 Ark. 327; 58 Ark. 407; 100 Ark. 248; 90 Fed. 220; 12 Ga. 104. The burden was on defendant to prove -the action was barred. 86 Ark. 309; 92 Ark. 465.\nBridges S Wooldridge, for appellee.\nNo proper bill of exceptions has been filed, and the case should be affirmed. 147 Ark. 197. The case should be affirmed under Rule 9. 143 Ark. 388.\nSec. 6954, C. & M. Dig., applies, as this is for the recovery -of a penalty. 59 Ark. 165; 82 Ark. 309; 256 U. S. 554.\nE. H. Timmons, for appellant, in reply.\nThe bill of exceptions is sufficient. 147 Ark. 197. The abstract is sufficient. 74 Ark. 320; 143 Ark. 388."
+  },
+  "file_name": "0296-01",
+  "first_page_order": 322,
+  "last_page_order": 326
+}

@@ -1,0 +1,1191 @@
+{
+  "id": 4076089,
+  "name": "The State of Washington, Respondent, v. Howard John Evans Shale, Appellant",
+  "name_abbreviation": "State v. Shale",
+  "decision_date": "2015-03-19",
+  "docket_number": "No. 90906-7",
+  "first_page": "882",
+  "last_page": "895",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "182 Wash. 2d 882"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Wash.",
+    "id": 9029,
+    "name": "Washington Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 38,
+    "name_long": "Washington",
+    "name": "Wash."
+  },
+  "cites_to": [
+    {
+      "cite": "356 P.2d 985",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1960,
+      "opinion_index": 0
+    },
+    {
+      "cite": "57 Wn.2d 181",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1023906
+      ],
+      "year": 1960,
+      "pin_cites": [
+        {
+          "page": "186"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/57/0181-01"
+      ]
+    },
+    {
+      "cite": "846 F.2d 486",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1788317
+      ],
+      "year": 1988,
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/846/0486-01"
+      ]
+    },
+    {
+      "cite": "860 F.2d 1463",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        655802
+      ],
+      "year": 1988,
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/860/1463-01"
+      ]
+    },
+    {
+      "cite": "120 Stat. 590",
+      "category": "laws:leg_session",
+      "reporter": "Stat.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "94 L. Ed. 2d 244",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "case_ids": [
+        3948404,
+        1131060
+      ],
+      "year": 1987,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/338/0440-01",
+        "/us/480/0202-01"
+      ]
+    },
+    {
+      "cite": "480 U.S. 202",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1131060
+      ],
+      "weight": 2,
+      "year": 1987,
+      "pin_cites": [
+        {
+          "page": "206-07"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/480/0202-01"
+      ]
+    },
+    {
+      "cite": "869 P.2d 1062",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1994,
+      "opinion_index": 0
+    },
+    {
+      "cite": "123 Wn.2d 488",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        812777
+      ],
+      "year": 1994,
+      "pin_cites": [
+        {
+          "page": "496-507"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/123/0488-01"
+      ]
+    },
+    {
+      "cite": "538 U.S. 84",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        9030411
+      ],
+      "weight": 5,
+      "year": 2003,
+      "pin_cites": [
+        {
+          "page": "105"
+        },
+        {
+          "page": "97"
+        },
+        {
+          "page": "97"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/538/0084-01"
+      ]
+    },
+    {
+      "cite": "900 P.2d 1119",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1995,
+      "opinion_index": 0
+    },
+    {
+      "cite": "79 Wn. App. 133",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        423963
+      ],
+      "year": 1995,
+      "pin_cites": [
+        {
+          "page": "141"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/79/0133-01"
+      ]
+    },
+    {
+      "cite": "918 P.2d 898",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1996,
+      "pin_cites": [
+        {
+          "parenthetical": "citing State v. L.J.M., 79 Wn. App. 133, 141, 900 P.2d 1119 (1995)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "129 Wn.2d 386",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        904217
+      ],
+      "year": 1996,
+      "pin_cites": [
+        {
+          "page": "395",
+          "parenthetical": "citing State v. L.J.M., 79 Wn. App. 133, 141, 900 P.2d 1119 (1995)"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/129/0386-01"
+      ]
+    },
+    {
+      "cite": "114 P.3d 627",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2005,
+      "opinion_index": 0
+    },
+    {
+      "cite": "154 Wn.2d 438",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        5629301
+      ],
+      "year": 2005,
+      "pin_cites": [
+        {
+          "page": "457"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/154/0438-01"
+      ]
+    },
+    {
+      "cite": "18 U.S.C. \u00a7 1151",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "pin_cites": [
+        {
+          "page": "(a)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "435 U.S. 191",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3068
+      ],
+      "weight": 3,
+      "year": 1978,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/435/0191-01"
+      ]
+    },
+    {
+      "cite": "435 U.S. 313",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3059
+      ],
+      "weight": 3,
+      "year": 1978,
+      "pin_cites": [
+        {
+          "page": "326",
+          "parenthetical": "citing Oliphant v. Suquamish Indian Tribe, 435 U.S. 191, 98 S. Ct. 1011, 55 L. Ed. 2d 209 (1978)"
+        },
+        {
+          "parenthetical": "citing Oliphant v. Suquamish Indian Tribe, 435 U.S. 191, 98 S. Ct. 1011, 55 L. Ed. 2d 209 (1978)"
+        },
+        {
+          "parenthetical": "citing Oliphant v. Suquamish Indian Tribe, 435 U.S. 191, 98 S. Ct. 1011, 55 L. Ed. 2d 209 (1978)"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/435/0313-01"
+      ]
+    },
+    {
+      "cite": "28 P.3d 720",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2001,
+      "opinion_index": 0
+    },
+    {
+      "cite": "144 Wn.2d 472",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        970387
+      ],
+      "year": 2001,
+      "pin_cites": [
+        {
+          "page": "480"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/144/0472-01"
+      ]
+    },
+    {
+      "cite": "43 P.3d 4",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2002,
+      "pin_cites": [
+        {
+          "parenthetical": "citing State v. J.M., 144 Wn.2d 472, 480, 28 P.3d 720 (2001)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "146 Wn.2d 1",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        960829
+      ],
+      "year": 2002,
+      "pin_cites": [
+        {
+          "page": "9",
+          "parenthetical": "citing State v. J.M., 144 Wn.2d 472, 480, 28 P.3d 720 (2001)"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/146/0001-01"
+      ]
+    },
+    {
+      "cite": "6 Ohio St. J. Crim. L. 3",
+      "category": "journals:journal",
+      "reporter": "Ohio St. J. Crim. L.",
+      "year": 2008,
+      "pin_cites": [
+        {
+          "page": "3"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "333 P.3d 380",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2014,
+      "opinion_index": 0
+    },
+    {
+      "cite": "181 Wn.2d 272",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4356636
+      ],
+      "year": 2014,
+      "pin_cites": [
+        {
+          "page": "277"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/181/0272-01"
+      ]
+    },
+    {
+      "cite": "450 U.S. 544",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6188224
+      ],
+      "weight": 3,
+      "year": 1981,
+      "pin_cites": [
+        {
+          "page": "565-66",
+          "parenthetical": "\"[T]he inherent sovereign powers of an Indian tribe do not extend to the activities of nonmembers of the tribe.\""
+        },
+        {
+          "parenthetical": "\"[T]he inherent sovereign powers of an Indian tribe do not extend to the activities of nonmembers of the tribe.\""
+        },
+        {
+          "parenthetical": "\"[T]he inherent sovereign powers of an Indian tribe do not extend to the activities of nonmembers of the tribe.\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/450/0544-01"
+      ]
+    },
+    {
+      "cite": "447 U.S. 134",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6182119
+      ],
+      "weight": 3,
+      "year": 1980,
+      "pin_cites": [
+        {
+          "page": "160-61"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/447/0134-01"
+      ]
+    },
+    {
+      "cite": "25 U. S. C. \u00a7 479",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "48 Stat. 988",
+      "category": "laws:leg_session",
+      "reporter": "Stat.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "430 U. S. 641",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12126711
+      ],
+      "weight": 3,
+      "year": 1977,
+      "pin_cites": [
+        {
+          "page": "646-647, n. 7"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/430/0641-01"
+      ]
+    },
+    {
+      "cite": "18 U. S. C. \u00a7 1153",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "358 U.S. 217",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3650026
+      ],
+      "weight": 3,
+      "year": 1959,
+      "pin_cites": [
+        {
+          "page": "219-20"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/358/0217-01"
+      ]
+    },
+    {
+      "cite": "448 U.S. 136",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1787603
+      ],
+      "weight": 6,
+      "year": 1980,
+      "pin_cites": [
+        {
+          "page": "142"
+        },
+        {
+          "parenthetical": "internal quotation marks omitted"
+        },
+        {
+          "page": "142"
+        },
+        {
+          "page": "142"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/448/0136-01"
+      ]
+    },
+    {
+      "cite": "467 U.S. 138",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6195885
+      ],
+      "weight": 4,
+      "year": 1984,
+      "pin_cites": [
+        {
+          "page": "147",
+          "parenthetical": "quoting White Mountain Apache Tribe v. Bracker, 448 U.S. 136, 142, 100 S. Ct. 2578, 65 L. Ed. 2d 665 (1980)"
+        },
+        {
+          "parenthetical": "quoting White Mountain Apache Tribe v. Bracker, 448 U.S. 136, 142, 100 S. Ct. 2578, 65 L. Ed. 2d 665 (1980)"
+        },
+        {
+          "parenthetical": "quoting White Mountain Apache Tribe v. Bracker, 448 U.S. 136, 142, 100 S. Ct. 2578, 65 L. Ed. 2d 665 (1980)"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/467/0138-01"
+      ]
+    },
+    {
+      "cite": "308 P.3d 590",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2013,
+      "opinion_index": 0
+    },
+    {
+      "cite": "178 Wn.2d 19",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4298201
+      ],
+      "year": 2013,
+      "pin_cites": [
+        {
+          "page": "25"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/178/0019-01"
+      ]
+    },
+    {
+      "cite": "850 P.2d 1332",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1993,
+      "opinion_index": 0
+    },
+    {
+      "cite": "121 Wn.2d 373",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1365818
+      ],
+      "year": 1993,
+      "pin_cites": [
+        {
+          "page": "381"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/121/0373-01"
+      ]
+    },
+    {
+      "cite": "37 P.3d 1216",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2002,
+      "pin_cites": [
+        {
+          "parenthetical": "citing State v. Schmuck, 121 Wn.2d 373, 381, 850 P.2d 1332 (1993)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "145 Wn.2d 370",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        314615
+      ],
+      "year": 2002,
+      "pin_cites": [
+        {
+          "page": "374",
+          "parenthetical": "citing State v. Schmuck, 121 Wn.2d 373, 381, 850 P.2d 1332 (1993)"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/145/0370-01"
+      ]
+    },
+    {
+      "cite": "937 P.3d 1069",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 1997,
+      "opinion_index": 0
+    },
+    {
+      "cite": "132 Wn.2d 333",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        498364
+      ],
+      "year": 1997,
+      "pin_cites": [
+        {
+          "page": "340"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/132/0333-01"
+      ]
+    },
+    {
+      "cite": "273 P.3d 434",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2012,
+      "pin_cites": [
+        {
+          "parenthetical": "citing State v. Squally, 132 Wn.2d 333, 340, 937 P.3d 1069 (1997)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "173 Wn.2d 672",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4020160
+      ],
+      "year": 2012,
+      "pin_cites": [
+        {
+          "page": "678",
+          "parenthetical": "citing State v. Squally, 132 Wn.2d 333, 340, 937 P.3d 1069 (1997)"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/173/0672-01"
+      ]
+    },
+    {
+      "cite": "185 P.3d 634",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2008,
+      "pin_cites": [
+        {
+          "parenthetical": "citing Cooper, 130 Wn.2d at 774"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "144 Wn. App. 945",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        5738760
+      ],
+      "year": 2008,
+      "pin_cites": [
+        {
+          "page": "952",
+          "parenthetical": "citing Cooper, 130 Wn.2d at 774"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/144/0945-01"
+      ]
+    },
+    {
+      "cite": "105 Stat. 646",
+      "category": "laws:leg_session",
+      "reporter": "Stat.",
+      "weight": 2,
+      "opinion_index": 0
+    },
+    {
+      "cite": "495 U.S. 676",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        633899
+      ],
+      "weight": 5,
+      "year": 1990,
+      "pin_cites": [
+        {
+          "page": "679"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/495/0676-01"
+      ]
+    },
+    {
+      "cite": "25 U.S.C. \u00a7 1301",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "(2)"
+        },
+        {
+          "page": "(2)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "124 S. Ct. 1628",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        7345408,
+        5908820
+      ],
+      "year": 2004,
+      "pin_cites": [
+        {
+          "parenthetical": "quoting 25 U.S.C. \u00a7 1301(2) and citing Duro v. Reina, 495 U.S. 676, 110 S. Ct. 2053, 109 L. Ed. 2d 693 (1990); Act of Oct. 28, 1991, Pub L. No. 102-137, 105 Stat. 646"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/am-tribal-law/5/1628-01",
+        "/us/541/0193-01"
+      ]
+    },
+    {
+      "cite": "541 U.S. 193",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        5908820
+      ],
+      "weight": 3,
+      "year": 2004,
+      "pin_cites": [
+        {
+          "page": "198",
+          "parenthetical": "quoting 25 U.S.C. \u00a7 1301(2) and citing Duro v. Reina, 495 U.S. 676, 110 S. Ct. 2053, 109 L. Ed. 2d 693 (1990); Act of Oct. 28, 1991, Pub L. No. 102-137, 105 Stat. 646"
+        },
+        {
+          "parenthetical": "quoting 25 U.S.C. \u00a7 1301(2) and citing Duro v. Reina, 495 U.S. 676, 110 S. Ct. 2053, 109 L. Ed. 2d 693 (1990); Act of Oct. 28, 1991, Pub L. No. 102-137, 105 Stat. 646"
+        },
+        {
+          "page": "198"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/541/0193-01"
+      ]
+    },
+    {
+      "cite": "34 Fed. Reg. 14,288",
+      "category": "reporters:federal",
+      "reporter": "Fed. Reg.",
+      "weight": 3,
+      "year": 1969,
+      "pin_cites": [
+        {
+          "parenthetical": "emphasis added"
+        },
+        {
+          "parenthetical": "citing State v. J.M., 144 Wn.2d 472, 480, 28 P.3d 720 (2001)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "891 P.2d 26",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1995,
+      "opinion_index": 0
+    },
+    {
+      "cite": "126 Wn.2d 43",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        436062
+      ],
+      "year": 1995,
+      "pin_cites": [
+        {
+          "page": "47"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/126/0043-01"
+      ]
+    },
+    {
+      "cite": "33 Fed. Reg. 17,339",
+      "category": "reporters:federal",
+      "reporter": "Fed. Reg.",
+      "year": 1968,
+      "opinion_index": 0
+    },
+    {
+      "cite": "82 Stat. 73",
+      "category": "laws:leg_session",
+      "reporter": "Stat.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "25 U.S.C. \u00a7\u00a7 1321-1323",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "525 P.2d 217",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "weight": 2,
+      "year": 1974,
+      "opinion_index": 0
+    },
+    {
+      "cite": "84 Wn.2d 192",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1125167
+      ],
+      "year": 1974,
+      "pin_cites": [
+        {
+          "page": "198"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/84/0192-01"
+      ]
+    },
+    {
+      "cite": "368 F.2d 648",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        2057159
+      ],
+      "year": 1966,
+      "pin_cites": [
+        {
+          "page": "652"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/368/0648-01"
+      ]
+    },
+    {
+      "cite": "67 Stat. 588",
+      "category": "laws:leg_session",
+      "reporter": "Stat.",
+      "year": 1953,
+      "opinion_index": 0
+    },
+    {
+      "cite": "43 P. 15",
+      "category": "reporters:state_regional",
+      "reporter": "P.",
+      "year": 1895,
+      "opinion_index": 0
+    },
+    {
+      "cite": "13 Wash. 335",
+      "category": "reporters:state",
+      "reporter": "Wash.",
+      "case_ids": [
+        299403
+      ],
+      "year": 1895,
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash/13/0335-01"
+      ]
+    },
+    {
+      "cite": "233 P. 327",
+      "category": "reporters:state_regional",
+      "reporter": "P.",
+      "year": 1925,
+      "pin_cites": [
+        {
+          "parenthetical": "citing State v. Williams, 13 Wash. 335, 43 P. 15 (1895)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "133 Wash. 140",
+      "category": "reporters:state",
+      "reporter": "Wash.",
+      "case_ids": [
+        784474
+      ],
+      "year": 1925,
+      "pin_cites": [
+        {
+          "page": "144",
+          "parenthetical": "citing State v. Williams, 13 Wash. 335, 43 P. 15 (1895)"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash/133/0140-01"
+      ]
+    },
+    {
+      "cite": "25 Stat. 676",
+      "category": "laws:leg_session",
+      "reporter": "Stat.",
+      "year": 1889,
+      "opinion_index": 0
+    },
+    {
+      "cite": "337 P.2d 33",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1959,
+      "pin_cites": [
+        {
+          "parenthetical": "emphasis omitted"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "53 Wn.2d 789",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1011295
+      ],
+      "year": 1959,
+      "pin_cites": [
+        {
+          "page": "790-91",
+          "parenthetical": "emphasis omitted"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/53/0789-01"
+      ]
+    },
+    {
+      "cite": "121 S. Ct. 2304",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        9313272,
+        7347582
+      ],
+      "year": 2001,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/533/0353-01",
+        "/am-tribal-law/3/2304-01"
+      ]
+    },
+    {
+      "cite": "533 U.S. 353",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        9313272
+      ],
+      "weight": 2,
+      "year": 2001,
+      "pin_cites": [
+        {
+          "page": "361"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/533/0353-01"
+      ]
+    },
+    {
+      "cite": "8 L. Ed. 483",
+      "category": "reporters:federal",
+      "reporter": "L. Ed.",
+      "case_ids": [
+        1439675
+      ],
+      "year": 1832,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/31/0515-01"
+      ]
+    },
+    {
+      "cite": "324 U.S. 786",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6156763
+      ],
+      "weight": 3,
+      "year": 1945,
+      "pin_cites": [
+        {
+          "page": "789",
+          "parenthetical": "citing Worcester v. Georgia, 31 U.S. (6 Pet.) 515, 8 L. Ed. 483 (1832), abrogation recognized by Nevada v. Hicks, 533 U.S. 353, 361, 121 S. Ct. 2304, 150 L. Ed. 2d 398 (2001)"
+        },
+        {
+          "parenthetical": "citing Worcester v. Georgia, 31 U.S. (6 Pet.) 515, 8 L. Ed. 483 (1832), abrogation recognized by Nevada v. Hicks, 533 U.S. 353, 361, 121 S. Ct. 2304, 150 L. Ed. 2d 398 (2001)"
+        },
+        {
+          "parenthetical": "citing Worcester v. Georgia, 31 U.S. (6 Pet.) 515, 8 L. Ed. 483 (1832), abrogation recognized by Nevada v. Hicks, 533 U.S. 353, 361, 121 S. Ct. 2304, 150 L. Ed. 2d 398 (2001)"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/324/0786-01"
+      ]
+    },
+    {
+      "cite": "439 U.S. 463",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11331119
+      ],
+      "weight": 5,
+      "year": 1979,
+      "pin_cites": [
+        {
+          "page": "470",
+          "parenthetical": "Yakima Indian Nation"
+        },
+        {
+          "parenthetical": "Yakima Indian Nation"
+        },
+        {
+          "parenthetical": "Yakima Indian Nation"
+        },
+        {
+          "page": "470-71"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/439/0463-01"
+      ]
+    },
+    {
+      "cite": "928 P.2d 406",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1996,
+      "pin_cites": [
+        {
+          "parenthetical": "citing Washington v. Confederated Bands & Tribes of the Yakima Indian Nation, 439 U.S. 463, 470, 99 S. Ct. 740, 58 L. Ed. 2d 740 (1979) (Yakima Indian Nation)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "130 Wn.2d 770",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        72847
+      ],
+      "year": 1996,
+      "pin_cites": [
+        {
+          "page": "773",
+          "parenthetical": "citing Washington v. Confederated Bands & Tribes of the Yakima Indian Nation, 439 U.S. 463, 470, 99 S. Ct. 740, 58 L. Ed. 2d 740 (1979) (Yakima Indian Nation)"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/130/0770-01"
+      ]
+    },
+    {
+      "cite": "18 U.S.C. \u00a7 2241",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "pin_cites": [
+        {
+          "page": "(c)"
+        }
+      ],
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 1299,
+    "char_count": 25745,
+    "ocr_confidence": 0.753,
+    "pagerank": {
+      "raw": 6.770845263994211e-08,
+      "percentile": 0.41275958559746145
+    },
+    "sha256": "e6c37cd0a431233a62fd913a8b5c87c2e655df755a36caa25acc40ded5d08c89",
+    "simhash": "1:51c723506e859263",
+    "word_count": 4195
+  },
+  "last_updated": "2024-02-27T17:34:40.830885+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Madsen, C.J., and Johnson, Owens, Fairhurst, Stephens, Wiggins, Gordon McCloud, and Yu, JJ, concur."
+    ],
+    "parties": [
+      "The State of Washington, Respondent, v. Howard John Evans Shale, Appellant."
+    ],
+    "opinions": [
+      {
+        "text": "Gonz\u00e1lez, J.\n\u00b61 We are asked to decide whether Washington State has the power to prosecute an enrolled member of the Yakama Nation living on the Quinault Indian Nation\u2019s reservation for failing to register with the county sheriff as a sex offender. We find the State has that power and affirm.\nFacts\n\u00b62 Howard Shale is an enrolled member of the Yakama Nation. He has family in the Quinault Indian Nation as well. In 1997, Shale was convicted of raping a child under 12 in violation of 18 U.S.C. \u00a7 2241(c). After Shale was released from prison, he moved to Seattle and registered as a sex offender with the King County sheriff.\n\u00b63 In 2012, a Jefferson County sheriff\u2019s detective began investigating whether Shale had moved to her county without reregistering as a sex offender. At least two officers assisted the detective in her investigation: a Jefferson County sheriff\u2019s deputy and a Quinault tribal police officer. One officer went to Shale\u2019s father\u2019s home, which may have been in Clallam County, and spoke to Shale himself. Shale told the officer he had been living in his father\u2019s home for at least three months. The tribal police officer went to the Quinault reservation in Jefferson County and spoke to several people there. They told him Shale had been living on the reservation for approximately a year. Shale later testified that he was living on the reservation with his grandmother. Taken together, the police reports suggest Shale was dividing his time between the two family homes. Based on the detective\u2019s report, the Jefferson County prosecutor charged Shale with failure to register with the county sheriff as a sex offender under RCW 9A.44.130(l)(a).\n\u00b64 Shale moved to dismiss the charges, arguing that \u201cJefferson County has no jurisdiction for the charged crime, as it is alleged to [have been] committed by a tribal member in Indian Country.\u201d Clerk\u2019s Papers (CP) at 3. According to his counsel\u2019s declaration, Shale said he had registered as a sex offender with the Quinault Indian Nation but the record does not establish whether that was before or after these charges were brought. The State did not dispute that Shale was an Indian living on the Quinault reservation but argued that he was still subject to prosecution because he was not a member of the Quinault Indian Nation. Judge Harper agreed and denied the motion to dismiss, concluding that RCW 37.12.010 carved out from state authority only \u201cIndians when on their tribal lands,\u201d not tribal members while on another tribe\u2019s land. RCW 37.12.010 (emphasis added), quoted in CP at 9, 18. Nothing in the record establishes the Quinault Indian Nation\u2019s views on this prosecution.\n\u00b65 Shale stipulated to the police records and was convicted at a bench trial. Shale appealed, initially raising only two assignments of error: that \u201c[t]he trial court lacked jurisdiction because Mr. Shale is a member of a federally recognized Indian tribe and his offense occurred on the Quinault reservation\u201d and \u201c[t]he trial court erred by finding Mr. Shale guilty and sentencing him for failure to register as a sex offender.\u201d Appellant\u2019s Opening Br. at 1. A Court of Appeals commissioner considered the appeal on the merits and affirmed. Ruling Affirming J. & Sentence, No. 44654--5-II at 3-4 (Wash. Ct. App. Mar. 25, 2014). Shale successfully moved to modify the commissioner\u2019s ruling, and, after another round of briefing where Shale raised several new issues, the Court of Appeals certified the case for our consideration, which we accepted. The Washington Association of Prosecuting Attorneys and the Washington State attorney general have filed separate amicus briefs supporting the State and raising new issues.\nAnalysis\n\u00b66 Until the 1950s, \u201ccriminal offenses by Indians in Indian country were subject to only federal or tribal jurisdiction,\u201d not state. State v. Cooper, 130 Wn.2d 770, 773, 928 P.2d 406 (1996) (citing Washington v. Confederated Bands & Tribes of the Yakima Indian Nation, 439 U.S. 463, 470, 99 S. Ct. 740, 58 L. Ed. 2d 740 (1979) (Yakima Indian Nation)). States had little lawful authority on tribal lands \u2014 so little that the United States Supreme Court observed that \u201c[t]he policy of leaving Indians free from state jurisdiction and control is deeply rooted in the Nation\u2019s history.\u201d Rice v. Olson, 324 U.S. 786, 789, 65 S. Ct. 989, 89 L. Ed. 1367 (1945) (citing Worcester v. Georgia, 31 U.S. (6 Pet.) 515, 8 L. Ed. 483 (1832), abrogation recognized by Nevada v. Hicks, 533 U.S. 353, 361, 121 S. Ct. 2304, 150 L. Ed. 2d 398 (2001)). To that end, the enabling act that brought Washington State into the union limited the State\u2019s authority over Indian lands, which \u201c 'remain[ed] under the absolute jurisdiction and control of the Congress of the United States.\u2019 \u201d State v. Paul, 53 Wn.2d 789, 790-91, 337 P.2d 33 (1959) (emphasis omitted) (quoting Enabling Act, ch. 180, 25 Stat. 676 (1889)). However, Washington State did assert jurisdiction over some crimes committed on tribal land involving only non-Indians. State v. Lindsey, 133 Wash. 140, 144, 233 P. 327 (1925) (citing State v. Williams, 13 Wash. 335, 43 P. 15 (1895)).\n\u00b67 The formal relationship between the states and the tribal nations changed dramatically in 1953, when Congress enacted Public Law 280 (Pub. L. No. 83-280, 67 Stat. 588 (1953)). That act required some states and authorized others to \u201cassum[e] . . . jurisdiction over Indians\u201d within a state\u2019s borders. Paul, 53 Wn.2d at 791. In 1957, our state \u201copted for state jurisdiction ... for any tribe that would give its consent.\u201d Duane Champagne & Carole Goldberg, Captured Justice: Native Nations and Public Law 280, at 17-18 (2012) (citing Yakima Indian Nation, 439 U.S. 463); see also Laws of 1957, ch. 240. Soon afterward, a group purporting to represent the Quinault Tribal Council requested the State assume civil and criminal jurisdiction over the Quinault reservation, and Governor Rosellini, on behalf of the State, agreed. Quinault Tribe of Indians v. Gallagher, 368 F.2d 648, 652 (9th Cir. 1966).\n\u00b68 In 1963, the State \u201cassert[ed] nonconsensual civil and criminal jurisdiction over all Indian country with certain exceptions\u201d not relevant here. Cooper, 130 Wn.2d at 773 (citing ch. 37.12 RCW); Champagne & Goldberg, supra, at 17-18. The legislature may have been motivated by an attorney general report that concluded few of the tribes at the time had tribal judicial systems prepared for the change. See Allen Lane Carr & Stanley M. Johnson, Comment, Extent of Washington\u2019s Criminal Jurisdiction over Indians, 33 Wash. L. Rev. & St. B.J. 289, 292 n.16 (1958) (citing Richard F. Broz, Office of Att\u2019y Gen., Legal Problems Concerning Indians and Their Rights under Federal and State Laws (Oct. 20, 1954) (unpublished manuscript)). While the available legislative history of RCW 37.12.010 is sparse, there was debate on the senate floor on a proposed amendment that would have conditioned acceptance of jurisdiction on a promise of reimbursement to the affected counties for the costs associated with the assumption of jurisdiction from the United States Bureau of Indian Affairs. Senate Journal, 38th Leg., Reg. Sess., at 213 (Wash. 1963). This amendment may have been inspired by the fact that Public Law 280 did not include \u201cany federal funding support for the states\u2019 new law enforcement and criminal justice duties.\u201d Champagne & Goldberg, supra, at 13. The amendment failed, and Governor Rosellini signed the bill into law.\n\u00b69 Soon afterward, our State began to reconsider its broad, nonconsensual assertion of authority over Indian tribes. In 1965, at the request of the Quinault Indian Nation, Governor Rosellini attempted to withdraw his early acceptance of state jurisdiction and return jurisdiction to the federal government. Comenout v. Burdman, 84 Wn.2d 192, 198, 525 P.2d 217 (1974). This return of jurisdiction from the State to the federal government in the aftermath of Public Law 280 is commonly referred to as \u201cretrocession.\u201d E.g., id. Three years later, Congress passed legislation that explicitly allowed states to request to retrocede previously claimed jurisdiction over tribes to the federal government and required tribal consent for future extension of state jurisdiction over Indians and Indian tribes. Cooper, 130 Wn.2d at 774 (citing 25 U.S.C. \u00a7\u00a7 1321-1323); Pub. L. No. 90-284, 82 Stat. 73, 77; Exec. Order No. 11,435, 33 Fed. Reg. 17,339 (Nov. 21, 1968). The 1968 act did not invalidate prior assumptions of state jurisdiction. Cooper, 130 Wn.2d at 774 (citing In re Estate of Cross, 126 Wn.2d 43, 47, 891 P.2d 26 (1995)).\n\u00b610 Setting up the question we need to answer today, the federal government accepted only partial retrocession. Comenout, 84 Wn.2d at 198. Specifically, Department of the Interior Secretary Walter Hickel, on behalf of the federal government, \u201caccepted] . . . retrocession to the United States of all jurisdiction exercised by the State of Washington over the Quinault Indian Reservation, except as provided under Chapter 36, Laws of 1963 (RCW 37.12.010-37.12.060).\u201d Notice of Acceptance of Retrocession of Jurisdiction, 34 Fed. Reg. 14,288 (Aug. 30, 1969) (emphasis added). Chapter 37.12 RCW says in most relevant part that \u201c[t]he state of Washington hereby obligates and binds itself to assume criminal.. .jurisdiction over Indians and Indian territory . . . , but such assumption of jurisdiction shall not apply to Indians when on their tribal lands\u201d RCW 37.12-.010 (emphasis added).\n\u00b611 Some decades later, the United States Supreme Court concluded that the tribal courts of one tribe did not have jurisdiction over members of other tribes. In response, Congress enacted legislation \u201cpermitting a tribe to bring certain tribal prosecutions against nonmember Indians . . . [by] enlarging] the tribes\u2019 own \u2018powers of self-government\u2019 \u201d to include \u201c \u2018exercising] criminal jurisdiction over all Indians,\u2019 including nonmembers.\u201d United States v. Lara, 541 U.S. 193, 198, 124 S. Ct. 1628, 158 L. Ed. 2d 420 (2004) (quoting 25 U.S.C. \u00a7 1301(2) and citing Duro v. Reina, 495 U.S. 676, 110 S. Ct. 2053, 109 L. Ed. 2d 693 (1990); Act of Oct. 28, 1991, Pub L. No. 102-137, 105 Stat. 646). This legislation was upheld by the Court in Lara on the theory that Congress has the power to \u201crelax[ ] restrictions on the bounds of the inherent tribal authority that the United States recognizes.\u201d Id. at 207. Nothing in the act itself addressed whether this post-Duro tribal jurisdiction is exclusive of any state jurisdiction.\n\u00b612 In 2008, our Court of Appeals partially synthesized this history and ruled that \u201cexcept for the enumerated categories listed in RCW 37.12.010, the State lacks criminal jurisdiction over members of the Quinault Tribe while on tribal lands within the reservation.\u201d State v. Pink, 144 Wn. App. 945, 952, 185 P.3d 634 (2008) (citing Cooper, 130 Wn.2d at 774). Pink was a member of the Quinault Indian Nation, and the court had no occasion to consider whether the State lacked criminal jurisdiction over members of other tribes while on Quinault tribal lands. In 2012, the Washington Legislature passed a bill that formalized a process for full or partial retrocession of state jurisdiction over members of a tribe back to the federal government. Laws of 2012, ch. 48, codified as RCW 37.12.160-.180.\n\u00b613 It is against this backdrop that we consider the question presented: whether the State has jurisdiction to prosecute Shale, a member of the Yakama Nation, for failing to register as a sex offender while living on the Quinault reservation. We review jurisdictional questions de novo. State v. Jim, 173 Wn.2d 672, 678, 273 P.3d 434 (2012) (citing State v. Squally, 132 Wn.2d 333, 340, 937 P.3d 1069 (1997)). Both the State and a tribe may have jurisdiction in any given criminal case, and prosecution by one does not bar the other from also charging an offender with a crime arising out of the same conduct. State v. Moses, 145 Wn.2d 370, 374, 37 P.3d 1216 (2002) (citing State v. Schmuck, 121 Wn.2d 373, 381, 850 P.2d 1332 (1993)). Washington\u2019s assumption of criminal jurisdiction provides in most relevant part: RCW 37.12.010 (reviser\u2019s note omitted). This statute limits state jurisdiction over crimes committed on trust or allotment land within reservation borders. See State v. Clark, 178 Wn.2d 19, 25, 308 P.3d 590 (2013). Since the federal government accepted retrocession of the State\u2019s previously-asserted jurisdiction over the Quinault Indian Nation subject to this provision, the question turns in large part on whether this statute retains or retrocedes criminal jurisdiction over crimes committed on Quinault tribal lands by members of other tribes, and on whether asserting jurisdiction would undermine tribal sovereignty.\nThe state of Washington hereby obligates and binds itself to assume criminal and civil jurisdiction over Indians and Indian territory, reservations, country, and lands within this state in accordance with the consent of the United States given by the act of August 15, 1953 (Public Law 280, 83rd Congress, 1st Session), but such assumption of jurisdiction shall not apply to Indians when on their tribal lands or allotted lands within an established Indian reservation and held in trust by the United States or subject to a restriction against alienation imposed by the United States, unless the provisions of RCW 37.12.021 have been invoked ....\n[Eight specific civil subject areas omitted.]\n. . . PROVIDED FURTHER, That Indian tribes that petitioned for, were granted and became subject to state jurisdiction pursuant to this chapter on or before March 13,1963 shall remain subject to state civil and criminal jurisdiction as if chapter 36, Laws of 1963 had not been enacted.\n\u00b614 We find the State does have criminal jurisdiction in this case. Asserting jurisdiction is consistent with the \u201c \u2018two independent but related barriers\u2019 \u201d that the United States Supreme Court observes limit \u201cthe assertion of state authority over tribal reservations.\u201d Three Affil. Tribes of Fort Berthold, Reservation v. Wold Eng\u2019g, PC, 467 U.S. 138, 147, 104 S. Ct. 2267, 81 L. Ed. 2d 113 (1984) (quoting White Mountain Apache Tribe v. Bracker, 448 U.S. 136, 142, 100 S. Ct. 2578, 65 L. Ed. 2d 665 (1980)). \u201cFirst, a particular exercise of state authority may be foreclosed because it would undermine \u2018the right of reservation Indians to make their own laws and be ruled by them.\u2019 \u201d Id. (internal quotation marks omitted) (quoting White Mountain, 448 U.S. at 142); see also Yakima Indian Nation, 439 U.S. at 470-71 (quoting Williams v. Lee, 358 U.S. 217, 219-20, 79 S. Ct. 269, 3 L. Ed. 2d 251 (1959)); Clark, 178 Wn.2d at 26. \u201cSecond, state authority may be pre-empted by incompatible federal law.\u201d Three Affil. Tribes, 467 U.S. at 147 (citing White Mountain, 448 U.S. at 142).\n\u00b615 We are not persuaded that prosecuting Shale infringes on the right of the tribe to -make its own laws and be ruled by them. No treaty protection against state jurisdiction is asserted. The tribe is free to bring its own prosecution if it wishes, and there is nothing in the record that suggests the tribe feels that this prosecution infringes on its rights. Allowing the State to assert jurisdiction is consistent with United States Supreme Court precedent. For example, the high court has found that imposing Washington state tax law on nonmember Indians living on a reservation does not undermine tribal sovereignty. The court observed:\nFederal statutes, even given the broadest reading to which they are reasonably susceptible, cannot be said to pre-empt Washington\u2019s power to impose its taxes on Indians not members of the Tribe. We do not so read the Major Crimes Act, 18 U. S. C. \u00a7 1153, which at most provides for federal-court jurisdiction over crimes committed by Indians on another Tribe\u2019s reservation. Cf. United States v. Antelope, 430 U. S. 641, 646-647, n. 7[, 97 S. Ct. 1395, 51 L. Ed. 2d 701] (1977). Similarly, the mere fact that nonmembers resident on the reservation come within the definition of \u201cIndian\u201d for purposes of the Indian Reorganization Act of 1934, 48 Stat. 988, 25 U. S. C. \u00a7 479, does not demonstrate a congressional intent to exempt such Indians from state taxation.\nNor would the imposition of Washington\u2019s tax on these purchasers contravene the principle of tribal self-government, for the simple reason that nonmembers are not constituents of the governing Tribe. For most practical purposes those Indians stand on the same footing as non-Indians resident on the reservation.\nWashington v. Confederated Tribes of Colville Indian Reservation, 447 U.S. 134, 160-61, 100 S. Ct. 2069, 65 L. Ed. 2d 10 (1980); accord Montana v. United States, 450 U.S. 544, 565-66, 101 S. Ct. 1245, 67 L. Ed. 2d 493 (1981) (\u201c[T]he inherent sovereign powers of an Indian tribe do not extend to the activities of nonmembers of the tribe.\") Similarly, we have recently held that it does not infringe on a tribe\u2019s right to self-rule to respect a tribal enterprise\u2019s consent to state court jurisdiction. Outsource Servs. Mgmt., LLC v. Nooksack Bus. Corp., 181 Wn.2d 272, 277, 333 P.3d 380 (2014).\n\u00b616 We also note that the tribe is very concerned about sexual assault and may well welcome the State\u2019s assistance in prosecuting unregistered sex offenders who come to its land. The Quinault Indian Nation\u2019s criminal code states that \u201c[a]n astounding thirty percent of Indian and Alaska Native women will be raped in their lifetimes. Tribal nations are disproportionately affected by violent crime and Sex Offenses in particular from both Indian and Non-Indian perpetrators.\u201d State\u2019s Resp. to Appellant\u2019s Suppl. Br., App. A (Quinault Tribal Code \u00a7 12.11.103). \u201cAccording to federal health statistics, one in every four Native girls and one in every seven Native boys will be sexually abused.\u201d Virginia Davis & Kevin Washburn, Sex Offender Registration in Indian Country, 6 Ohio St. J. Crim. L. 3, 3 (2008) (citing United States Department of Health and Human Services\u2019 Indian Health Service Child Abuse Project). In this case, a tribal officer assisted in the criminal investigation, which suggests the tribe knew about the prosecution, had an opportunity to intervene, and made the deliberate decision not to. In the absence of evidence in the record that the tribe feels this prosecution undermines its sovereignty, we conclude that this prosecution does not undermine the tribe\u2019s ability to make its own laws and be ruled by them.\n\u00b617 Second, whether state authority is preempted by incompatible federal law primarily turns on the scope of the authority that remained after the federal government accepted partial retrocession of jurisdiction over the Quinault Indian Nation, which, in this case, largely depends on the meaning of RCW 37.12.010, since the federal acceptance of retrocession was subject to that statute. 34 Fed. Reg. 14,288. Our \u201cfundamental objective\u201d in statutory interpretation \u201cis to ascertain and carry out the Legislature\u2019s intent.\u201d Dep\u2019t of Ecology v. Campbell & Gwinn, LLC, 146 Wn.2d 1, 9, 43 P.3d 4 (2002) (citing State v. J.M., 144 Wn.2d 472, 480, 28 P.3d 720 (2001)). While we recognize that there is some dispute in the historical record, the weight of the evidence persuades us that in 1957 and 1963, when the Washington Legislature passed and amended RCW 37.12.010, and in 1969, when Secretary Hickel accepted retrocession, neither this State nor the federal government would have understood that one tribe\u2019s courts could have jurisdiction over members of another tribe. In 1978, the United States Supreme Court observed that Indian tribes did not have the jurisdiction to try members of other tribes. See United States v. Wheeler, 435 U.S. 313, 326, 98 S. Ct. 1079, 55 L. Ed. 2d 303 (1978) (citing Oliphant v. Suquamish Indian Tribe, 435 U.S. 191, 98 S. Ct. 1011, 55 L. Ed. 2d 209 (1978)). Finally, in 1990, the United States Supreme Court squarely held that tribal courts did not have jurisdiction over other members of other tribes. Duro, 495 U.S. at 679. Taken together, we find that the federal government accepted retrocession of state jurisdiction over members of the Quinault Indian Nation only while on their Quinault reservation. 34 Fed. Reg. 14,288; RCW 37.12.010-.060. Since Shale is not a member of the Quinault Indian Nation, the State has jurisdiction.\nConclusion\n\u00b618 We affirm the courts below and hold that the State has jurisdiction to prosecute Shale for failure to register as a sex offender while living on the Quinault reservation.\nMadsen, C.J., and Johnson, Owens, Fairhurst, Stephens, Wiggins, Gordon McCloud, and Yu, JJ, concur.\nThe State did not dispute that it was charging Shale with a crime committed on \u201cIndian country,\u201d which is relevantly defined in 18 U.S.C. \u00a7 1151(a) as \u201call land within the limits of any Indian reservation under the jurisdiction of the United States Government.\u201d\nAt oral argument, counsel for Shale suggested that the tribe\u2019s attorney consulted on one of the supplemental briefs.\nAs these new issues were not raised to the trial court or designated in his initial brief, we largely decline to consider them. RAP 2.4(a); RAP 2.5(a). To the extent that his newly raised arguments are jurisdictional, we reject them for the reasons below.\nWhile we are grateful for amici\u2019s assistance, we decline to reach the issues that only they raise. See State v. Evans, 154 Wn.2d 438, 457, 114 P.3d 627 (2005).\nWe are unaware of any steps taken by the Quinault Indian Nation to initiate this process.\nWe note that Shale bears the \u201c \u201cburden of contesting\u2019 \u201d jurisdiction, which \u201crequires only that the defendant point to evidence that has been produced and presented to the court, which, if true, would be sufficient to defeat state jurisdiction.\u201d State v. 129 Wn.2d 386, 395, 918 P.2d 898 (1996) (citing State v. L.J.M., 79 Wn. App. 133, 141, 900 P.2d 1119 (1995)). It is questionable whether Shale has met that burden. Shale\u2019s attorney conceded at oral argument before this court that nothing in the police reports to which Shale stipulated establishes whether he resided on fee, trust, or allotment land. Wash. Supreme Court oral argument, State v. Shale, No. 90906-7 (Feb. 12, 2015), at 38 min., 58 sec. through 39 min., audio recording by TVW, Washington State\u2019s Public Affairs Network, http://www.tvw.org. However, the State has not chosen to raise this issue, and so we assume without deciding that Shale was living on trust or allotment land within the tribe\u2019s jurisdictional boundaries at the relevant time.\nShale also suggests that the sex offender registration statute is in essence a civil regulatory system that is beyond the State\u2019s power to enforce on Indian tribal land. Appellant\u2019s Suppl. Br. at 4-5 & n.1 (citing Smith v. John Doe, 538 U.S. 84, 105, 123 S. Ct. 1140, 155 L. Ed. 2d 164 (2003); State v. Ward, 123 Wn.2d 488, 496-507, 869 P.2d 1062 (1994)). Both Smith and Ward considered whether the registration requirement itself was punitive in nature and therefore could not be applied to offenders who committed their crimes before it was enacted without violating the ex post facto clause. Smith, 538 U.S. at 97; Ward, 123 Wn.2d at 510-11. Both courts rejected the argument. Smith, 538 U.S. at 97; Ward, 123 Wn.2d at 510-11. Neither case suggests that prosecution for failure to register was in essence the enforcement of a civil regulatory scheme that would run afoul the principle that states lack civil regulatory jurisdiction except as explicitly set forth by statute. See California v. Cabazon Band of Mission Indians, 480 U.S. 202, 206-07, 107 S. Ct. 1083, 94 L. Ed. 2d 244 (1987).\nFor the first time after his appeal had been rejected below, Shale argued that the federal Sex Offender Registration and Notification Act (SORNA), Pub. L. No. 109-248, 120 Stat. 590, as applicable to this case deprives the State of jurisdiction. While we do not mean to forestall a more timely and better developed challenge in some future case, nothing in SORNA that has been called to our attention by the parties in this case preempts state law or deprives the State of jurisdiction.\nWheeler, of course, was decided before Congress permitted tribes to exercise \u201c \u2018criminal jurisdiction over all Indians/ including nonmembers.\u201d Lara, 541 U.S. at 198 (quoting 25 U.S.C. \u00a7 1301(2) and citing Act of Oct. 28, 1991, 105 Stat. 646). We cite it only as evidence of what the Washington Legislature and Secretary Hickel would have understood chapter 37.12 RCW to mean at the time.\nWe recognize that the authorities are not unanimous. For example, Duro resolved a circuit split between the Ninth Circuit, which (by a divided panel) held that tribal courts did have such jurisdiction over nonmember Indians, and the Eight Circuit, which held they did not. Duro, 495 U.S. at 683-84 (citing Duro v. Reina, 860 F.2d 1463 (9th Cir. 1988); Greywater v. Joshua, 846 F.2d 486 (8th Cir. 1988)).\nFor this reason, we find Shale\u2019s argument that state courts have concurrent jurisdiction with tribal courts only when such jurisdiction has been explicitly granted by statute unavailing. Appellant\u2019s Resp. to Br. of Amicus Curiae at 1 (citing State ex rel. Adams v. Superior Court, 57 Wn.2d 181, 186, 356 P.2d 985 (1960)). Public Law 280 and RCW 37.12.010 together do grant such jurisdiction.",
+        "type": "majority",
+        "author": "Gonz\u00e1lez, J."
+      }
+    ],
+    "attorneys": [
+      "Jodi R. Backlund, Manek R. Mistry, and Skylar T. Brett (of Backlund & Mistry), for appellant.",
+      "Michael E. Haas, Prosecuting Attorney, for respondent.",
+      "Pamela B. Loginsky on behalf of Washington Association of Prosecuting Attorneys, amicus curiae.",
+      "Fronda C. Woods and Jay D. Geek, Assistant Attorneys General, on behalf of the Attorney General, amicus curiae."
+    ],
+    "corrections": "",
+    "head_matter": "[No. 90906-7.\nEn Banc.]\nArgued February 12, 2015.\nDecided March 19, 2015.\nThe State of Washington, Respondent, v. Howard John Evans Shale, Appellant.\nJodi R. Backlund, Manek R. Mistry, and Skylar T. Brett (of Backlund & Mistry), for appellant.\nMichael E. Haas, Prosecuting Attorney, for respondent.\nPamela B. Loginsky on behalf of Washington Association of Prosecuting Attorneys, amicus curiae.\nFronda C. Woods and Jay D. Geek, Assistant Attorneys General, on behalf of the Attorney General, amicus curiae."
+  },
+  "file_name": "0882-01",
+  "first_page_order": 918,
+  "last_page_order": 931
+}

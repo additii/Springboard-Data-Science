@@ -1,0 +1,103 @@
+{
+  "id": 1400004,
+  "name": "Foote v. Blanks",
+  "name_abbreviation": "Foote v. Blanks",
+  "decision_date": "1928-04-16",
+  "docket_number": "",
+  "first_page": "1045",
+  "last_page": "1048",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "176 Ark. 1045"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [
+    {
+      "cite": "83 S. W. 913",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "73 Ark. 174",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1504062
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/73/0174-01"
+      ]
+    },
+    {
+      "cite": "202 S. W. 244",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "133 Ark. 250",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1575069
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/133/0250-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 366,
+    "char_count": 6236,
+    "ocr_confidence": 0.459,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.05260673498725215
+    },
+    "sha256": "1a350e2946416e5ec38dc674c6e3a741e1fa98d2ce060ed9b0c576fb0d46f39c",
+    "simhash": "1:cfbfc1b22f2642af",
+    "word_count": 1068
+  },
+  "last_updated": "2024-02-27T16:25:41.435006+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Foote v. Blanks."
+    ],
+    "opinions": [
+      {
+        "text": "Humphreys, J.\nOn the 26th day of August, 1927, appellant obtained a judgment in the circuit court upon a note against J. P. Blanks, one of the appellees, for $1,000. On September 9 following he brought this suit in the cironit court of AsMey County against appellees, to set aside certain conveyances of real estate and bank stock by J. P. Blanks to the other appellees for the alleged purpose of defeating appellant and his other creditors from collecting their claims against him, thereby defrauding them. It was alleged that J. P. Blanks was insolvent, and rendered so by conveyances of his real estate and bank stock to his co-appellees, without consideration, and with knowledge by the grantees that the conveyances were made to defeat his creditors. The lands were conveyed by several deeds of conveyance on the 17th day of February, 1926, to L. W. Blanks, a nephew of J. P. Blanks, who subsequently conveyed a part of them to the Elon Company and a part to the Hamburg Investment Company, two corporations which were owned by his brother and himself. On the same day J. P. Blanks assigned his stock, amounting to $19,000, in the Hamburg Bank to L. W. Blanks, who subsequently transferred it to his mother, L. G-. Blanks.\nAppellees filed an answer, admitting the conveyances were made, but denying that they were voluntary and without consideration, or that they were made for the purpose of defrauding the appellant and the other creditors of J. P. Blanks.\nThe cause was submitted to the court upon the pleadings and depositions of the witnesses, which resulted in a dismissal of the complaint of appellant, based upon substantially the following findings, to-wit:\n\u201cThat each of the conveyances were made in good faith, and for a reasonable and fair consideration, and that none of them were made for the purpose of hindering or delaying the creditors of J. P. Blanks, and that said J. P. Blanks was not insolvent at the time he-made said conveyances herein mentioned by him to L. W. Blanks, and that L. W. Blanks paid a fair consideration in each and every instance, and there was no fraud in any manner in said conveyances to L. W. Blanks, and that L. W. Blanks had a perfect right to transfer said hank stock to L. Gr. Blanks and the lands to the Elon Company and the Hamburg Investment Company, and that none of the parties herein made or received said conveyances with any intent to defraud any creditors of the said J. P. Blanks.\u201d\nAppellant contends for a reversal of the judgment upon the ground that J. P. Blanks was insolvent when he instituted this suit, and that the property in question was conveyed to a relative and close friend, who admitted that he purchased same for the purpose of helping his uncle and who, it is claimed, was unable to satisfactorily explain the transactions. Appellant cites the case of Harris v. Smith, 133 Ark. 250, 202 S. W. 244, in support of his contention. The court said in that case that: \u2018 \u2018 The various transactions were out of the ordinary, and Harris\u2019 explanation of them was unsatisfactory. The learned chancellor correctly found that the stock of merchandise was transferred to the Wyss Lumber & Trading Company without consideration and in fraud of appellees and other creditors, and that the moneys deposited in the City National Bank in the name of Wyss Lumber & Trading Company belonged to B. P. Harris.\u201d\nThe record in the instant case does not reflect that the several transfers were made without consideration, and that the vendor and vendee were unable to make a satisfactory explanation of the transactions. On the contrary, it appears that the conveyances were made for adequate considerations, and that the consideration received was applied to the payment of bona ficle debts of J. P. Blanks. It also appears that his obligations were pressing, and the only way he could meet them was to sell a large part of his holdings. His nephew came to his rescue, and bought most of his property for a fair market value. He used his mother\u2019s insurance money to buy the bank stock, and paid twenty cents above par for it. After purchasing it he transferred the stock to his mother. He had anlple funds with which to purchase his uncle\u2019s property, and actually paid him cash for it, which was used to pay his uncle\u2019s pressing debts. After conveying the property in question, J. P. Blanks had a large block of stock left in the Boyle Dry Goods Company, and other assets amounting to about $2,500. These transfers were made two year's before the institution of this suit, and just what became of the Doyle stock and his other assets in \"the interim does not appear. The rule applied in the Harris case, supra, was that announced by Mr. Chief Justice Hill for the court in the case of Wilks v. Vaughan, 73 Ark. 174, 83 S. W. 913, which is as follows:\n\u201cIt is thoroughly settled in equity jurisprudence that conveyances made to members of the household and near relatives of an embarrassed debtor are looked upon with suspicion and scrutinized with care; and when they are voluntary they are prima facie fraudulent, and when the embarrassment of the debtor proceeds to financial wreck, they are presumed conclusively to be fraudulent as to existing creditors.\u201d\nThe rule was applicable and controlling under the facts in the Harris case, supra, but cannot be applied in the instant case, because the facts are entirely different in the two cases. In the Harris case the conveyances were made without consideration and to defraud his creditors, while in the instant case they were made for fair considerations and for the purpose of paying the pressing debts of J. P. Blanks. The findings of the trial court were in accordance with the weight of the evidence. The decree is therefore affirmed.",
+        "type": "majority",
+        "author": "Humphreys, J."
+      }
+    ],
+    "attorneys": [
+      "Y. W. Etheridge, for appellant.",
+      "Compere & Compere, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Foote v. Blanks.\nOpinion delivered April 16, 1928.\nFraudulent conveyances \u2014 conveyance to nephew. \u2014 A debtor\u2019s conveyance of property to his nephew was not fraudulent as to a creditor subsequently obtaining a judgment, where the nephew paid in cash the fair market value of the property for the purpose of enabling the debtor to pay pressing obligations.\nAppeal from Ashley Chancery Court; E. G. Hammock, Chancellor;\naffirmed.\nY. W. Etheridge, for appellant.\nCompere & Compere, for appellee."
+  },
+  "file_name": "1045-01",
+  "first_page_order": 1063,
+  "last_page_order": 1066
+}

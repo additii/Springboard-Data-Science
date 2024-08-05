@@ -1,0 +1,75 @@
+{
+  "id": 1428373,
+  "name": "Alter v. Arkansas Power & Light Company",
+  "name_abbreviation": "Alter v. Arkansas Power & Light Co.",
+  "decision_date": "1934-01-22",
+  "docket_number": "4-3296",
+  "first_page": "681",
+  "last_page": "683",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "188 Ark. 681"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [
+    {
+      "cite": "63 S. W. (2d) 279",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "187 Ark. 1162",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 293,
+    "char_count": 4200,
+    "ocr_confidence": 0.48,
+    "sha256": "a7215e532f9ed8ec62a094bf359b9521719b578df87c9d88417bf83edf7d01ad",
+    "simhash": "1:9c3e08a616cf8fea",
+    "word_count": 686
+  },
+  "last_updated": "2024-02-27T23:51:14.545434+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Alter v. Arkansas Power & Light Company."
+    ],
+    "opinions": [
+      {
+        "text": "McHaney, J.\nAppellant sued appellee for damages on two counts: \u201cFirst, that he was a passenger on one of appellee\u2019s street cars in the city of Little Rock, having paid his fare, and that the operator failed to stop said car on signal given at his destination, and that he rode on to the end of the line, intending to alight at the desired place on the return trip; that the operator demanded an additional fare which he refused to pay because it was the operator\u2019s fault in ignoring his stop signal; that after traveling seven or eight blocks on the return trip, the operator again demanded the fare, struck him with a metal instrument, knocked him down, struck him 'several times on the head, threw him to the ground, and otherwise abused and mistreated him. Second, for false imprisonment in causing his arrest, imprisonment and detention without legal authority on a false charge of attempted robbery. He prayed damages both compensatory and punitive. Appellee answered, denying the allegations of the complaint, alleged that appellant, while intoxicated and without cause, assaulted its operator who merely defended himself. As to the second count, appellee answered that the police officers arrested appellant because of his drunken condition and because of the unlawful assault made by him on its operator, for which it is not liable.\u201d\nAt the conclusion of appellant\u2019s testimony, the court withdrew from the consideration of the jury the claim for damages for false imprisonment alleged in the second count. The case went to the jury on the first count of the complaint, and there was a verdict for appellee, upon which judgment was entered.\nAppellant first contends for a reversal of the judgment on the ground that the court erred in withdrawing from the jury the charge of false imprisonment. We cannot agree with this contention. The undisputed facts show that appellant was arrested by the police officers, was tried in the municipal court, convicted of simple assault and fined $25. He appealed to the circuit court, where he was again tried, convicted and fined $10. He appealed to this court, and the judgment was affirmed. See Alter v. City of Little Rode, memorandum opinion 187 Ark. 1162, 63 S. W. (2d) 279. Our statute, \u00a7 2336, Crawford & Moses\u2019 Digest, defines false imprisonment as follows: \u201cFalse imprisonment is the unlawful violation of the personal liberty of another, and consists in confinement or detention without sufficient legal authority. \u2019 \u2019 Appellant\u2019s arrest was not \u201cunlawful\u201d and his \u201cconfinement or detention\u201d was not \u201cwithout sufficient legal authority.\u201d The court therefore correctly dismissed the false imprisonment count.\nIt is next contended that the court erred in refusing to permit the jury to consider any element of damages for appellant\u2019s wrongful expulsion from the street car. His requested instruction No. 7 embodied this element of damages, but assumed as an established fact, that his expulsion was wrongful. This ivas a disputed question of fact, and the court correctly refused the instruction as asked, and correctly modified same so as to eliminate this erroneous request, as also damages for false imprisonment.\nIt is also argued that erroneous testimony was admitted in permitting the operator to testify that about the same time there were numerous holdups of street car operators, and that he had been held up, and another operator shot. No objection was made at the time, but, after the testimony in this regard had been given, he asked the court to instruct the jury not to consider it. The court permitted the testimony to go to show the operator\u2019s state of mind only. We think it was competent for this purpose.\nAssignments are argued as to the giving and refusing to give certain instructions, and in the modification of certain others. We have carefully examined these assignments and find them without merit. The court fully and fairly instructed the jury, and its finding is against appellant. No error appearing, the judgment must be affirmed.",
+        "type": "majority",
+        "author": "McHaney, J."
+      }
+    ],
+    "attorneys": [
+      "E. W. Martin, for appellant.",
+      "Rose, Hemingway, Cantrell & Loughborough and J. W. Barron, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Alter v. Arkansas Power & Light Company.\n4-3296\nOpinion delivered January 22, 1934.\nE. W. Martin, for appellant.\nRose, Hemingway, Cantrell & Loughborough and J. W. Barron, for appellee."
+  },
+  "file_name": "0681-01",
+  "first_page_order": 699,
+  "last_page_order": 701
+}

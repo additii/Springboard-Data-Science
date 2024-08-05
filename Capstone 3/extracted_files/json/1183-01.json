@@ -1,0 +1,193 @@
+{
+  "id": 8726781,
+  "name": "Laughlin v. Tyler",
+  "name_abbreviation": "Laughlin v. Tyler",
+  "decision_date": "1928-10-08",
+  "docket_number": "",
+  "first_page": "1183",
+  "last_page": "1185",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "177 Ark. 1183"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [
+    {
+      "cite": "239 S. W. 21",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "152 Ark. 540",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1364173
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/152/0540-01"
+      ]
+    },
+    {
+      "cite": "201 S. W. 820",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "132 Ark. 592",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1576686
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/132/0592-01"
+      ]
+    },
+    {
+      "cite": "252 S. W. 591",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "159 Ark. 586",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        8723712
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/159/0586-01"
+      ]
+    },
+    {
+      "cite": "163 S. W. 508",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "111 Ark. 29",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1540384
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/111/0029-01"
+      ]
+    },
+    {
+      "cite": "4 S. W. (2d) 9",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "176 Ark. 649",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1399945
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/176/0649-01"
+      ]
+    },
+    {
+      "cite": "102 S. W. 718",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "83 Ark. 118",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1527109
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/83/0118-01"
+      ]
+    },
+    {
+      "cite": "234 S. W. 185",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "150 Ark. 340",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1367884
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/150/0340-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 359,
+    "char_count": 5289,
+    "ocr_confidence": 0.518,
+    "pagerank": {
+      "raw": 6.770845263994211e-08,
+      "percentile": 0.4111143159311605
+    },
+    "sha256": "bfe0bd946600e5510a030f1ac1a2ee95a83ec0acf1a044232227834a31470801",
+    "simhash": "1:a7775aa18f95861e",
+    "word_count": 926
+  },
+  "last_updated": "2024-02-27T22:14:07.667199+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Laughlin v. Tyler."
+    ],
+    "opinions": [
+      {
+        "text": "McHaNEy, J.\nThis is an action in replevin, brought in a justice\u2019s court by appellant against appellees, to recover the possession of a team of mules, sold by appellant to appellees on December 14, 1926. At the time of the sale, appellant and appellee, John Tyler, entered into an oral agreement for lappellee to cultivate sixty acres of appellant\u2019s land as a sharecropper, and the mules were sold to him to enable him to cultivate the land. Appel-lees on said date executed and delivered to appellant their promissory note, due ten months thereafter, at 8 per cent., for $175, appellant agreeing to keep the mules and winter them, and to deliver them to appellees in the spring, which was done. Appellees moved on appellant\u2019s place, but failed to make any crop, on account of a disagreement between them regarding a settlement for work done by appellees for appellant. Appellees moved off of appellant\u2019s land on May 4,1927, and at the time of their removal appellant presented them their note, and demanded the return of the mules, for the reason that appellees had breached their contract to cultivate the land. Appellant testified that he would not have sold appellees the mules on a credit, except for the contract for cultivation of the land. The note contained no reservation of title in the mules, and no lien was retained in the instrument itself, or by mortgage or otherwise. Appellees gave a cross-bond and retained possession of the mules. The justice of the peace dismissed the writ of replevin, entered judgment for defendants, and appellant appealed to the circuit court, where a trial anew was had. At the conclusion of appellant\u2019s testimony, the court instructed a verdict for appellees, and the case is here on appeal.\nIn answer to a question as to what the terms of the contract to cultivate the land were, appellant answered: \u201cWell, he was to cultivate the land and give me half, cultivate and gather, etc.\u201d In another place he called him a sharecropper. From the evidence we are left in doubt as to the relation existing between them, whether landowner and sharecropper, or landlord and tenant. If appellees were sharecroppers, then the relation of landlord and tenant did not exist. Woodson v. McLaughlin, 150 Ark. 340, 234 S. W. 185. If the relation of landlord and tenant existed by virtue of the oral contract, which we assume to be the fact, since both parties have apparently so treated it, \u00a1appellant would have a lien on the crop grown by the tenant for the amount of this note, under \u00a7 6890, O. & M. Digest, giving the landlord a lien on the crop raised upon the premises for advances made by him to enable the tenant to make the crop. This statute does not give the landlord a lien on the things advanced themselves, in this case the mules, but only on the crop raised upon the premises. Since there was no crop raised on the premises, there can be no lien. The party must bring himself within the terms of the statute before he is entitled to a lien. Kaufman v. Underwood, 83 Ark. 118, 102 S. W. 718, 119 A. S. R. 121; Etheridge v. Bird Brothers, 176 Ark. 649, 4 S. W. (2d) 9.\nAppellant contends, however, that the contract to cultivate the land and the sale and purchase of the mules were one entire contract; that appellant sold appellees the mules to enable them to cultivate the land, and as a further provision of the rental contract, wholly on a credit, to he paid for ten months later; and that, having taken possession of the land and the mules under this contract, appellees breached it by refusing to cultivate the land and removing therefrom. Assuming that this contention is true, still was replevin the proper action?\nIt is well settled that the action of replevin cannot be maintained merely for the collection of a debt, but is purely a possessory action for the recovery of specific personal property. Spear v. Arkansas National Bank, 111 Ark. 29, 163 S. W. 508, Ann. Cas. 1916A, 735; Jones v. Keebey, 159 Ark. 586, 252 S. W. 591. It is undisputed that appellant sold appellees the mules outright, even though he did so in connection with the rental contract, and even though he would not have done so but for the rental contract. He retained no title to the property, therefore title to the property passed to appellees. \u201cProperty in defendant is a good defense in an action o.f replevin, and this is. ordinarily true whether it be an absolute or a special or qualified property in the goods which are the subject-matter of the litigation.\u201d 34 C. J. 1414.\nAppellant might have maintained an action to establish and enforce a. lien on the mules under the vendor\u2019s lien statute, after breach of the contract by appellee for the rental of the land, but the action of replevin will not lie. To maintain replevin, plaintiff must show title in the property, and a landlord\u2019s lien is not sufficient to sustain the action. Security Bank & Trust Co. v. Bond, 132 Ark. 592, 201 S. W. 820; Brown & Hackney, Inc., v. Lovelace, 152 Ark. 540, 239 S. W. 21. Having parted with the title to the property by the sale and delivery of possession, appellant is precluded from maintaining this action.\nAffirmed.",
+        "type": "majority",
+        "author": "McHaNEy, J."
+      }
+    ],
+    "attorneys": [
+      "F. G. Taylor and Oliver & Oliver, for appellant.",
+      "G. 0. Raley and G. T. Bloodworth, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Laughlin v. Tyler.\nOpinion delivered October 8, 1928.\nF. G. Taylor and Oliver & Oliver, for appellant.\nG. 0. Raley and G. T. Bloodworth, for appellee."
+  },
+  "file_name": "1183-01",
+  "first_page_order": 1201,
+  "last_page_order": 1203
+}

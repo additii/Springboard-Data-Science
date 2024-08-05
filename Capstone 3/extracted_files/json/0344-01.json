@@ -1,0 +1,163 @@
+{
+  "id": 8721808,
+  "name": "St. Louis-San Francisco Railway Co. v. Fletcher",
+  "name_abbreviation": "St. Louis-San Francisco Railway Co. v. Fletcher",
+  "decision_date": "1923-05-14",
+  "docket_number": "",
+  "first_page": "344",
+  "last_page": "349",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "159 Ark. 344"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [
+    {
+      "cite": "70 Ark. 331",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1509505
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/70/0331-01"
+      ]
+    },
+    {
+      "cite": "247 U. S. 100",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "142 Ark. 601",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1590502
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/142/0601-01"
+      ]
+    },
+    {
+      "cite": "57 Ark. 16",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1324574
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/57/0016-01"
+      ]
+    },
+    {
+      "cite": "70 Ark. 331",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1509505
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/70/0331-01"
+      ]
+    },
+    {
+      "cite": "258 U. S. 268",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1479315
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/258/0268-01"
+      ]
+    },
+    {
+      "cite": "17 Wall. 657",
+      "category": "reporters:scotus_early",
+      "reporter": "Wall.",
+      "case_ids": [
+        62482
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/84/0657-01"
+      ]
+    },
+    {
+      "cite": "142 Ark. 601",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1590502
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/ark/142/0601-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 548,
+    "char_count": 10512,
+    "ocr_confidence": 0.431,
+    "pagerank": {
+      "raw": 1.72431587179121e-07,
+      "percentile": 0.7044202190938545
+    },
+    "sha256": "eb82bc600667a52aaa3ac2cf6284fc580fcbf79fd9877b60bbe68ed13e58ee6e",
+    "simhash": "1:f8f4d5813e6edd3b",
+    "word_count": 1803
+  },
+  "last_updated": "2024-02-27T18:54:00.643605+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "St. Louis-San Francisco Railway Co. v. Fletcher."
+    ],
+    "opinions": [
+      {
+        "text": "Humphreys, J.\nThe question for determination on this appeal is whether appellant is liable to appellee for the value of appellee\u2019s cow that died from eating grass on appellant\u2019s rdglit-of-way, which had been sprayed with a poisonous chemical mixture for the purpose of killing it. At the conclusion of the testimony appellant asked for a peremptory instruction, and no other, upon tile theory that the cow was tr-espa.smngfnipnriA3m-xight-of-way, and that appellant owed appellee no duty with reference to his~cow, even though she subsequently died from eating gTassupon which appellant had sprayed poison, with full knowledge that said cow and other cattle were accustomed to graze upon its right-of-way. The court refused to grant the request, but, on the contrary, peremptorily instructed a verdict for appellee, who had requested no instructions. This was, in effect, a submission of the issues of fact to the trial court' by the parties to the action. The verdict is therefore conclusive on appeal to this court, if not contrary to law, and if supported by any substantial evidence.\nThe record reflects the following facts: At the time the cow ate the grass and died, a special act was in force in Mississippi County prohibiting owners of cattle from allowing them to run out, in which provision was made for impounding cattle running at large. Notwithstanding the law had gone into effect, appellee and his neighbors. residing near Archllion. agreed to allow their\"cattle to run at large until the law was enforced. Their cultivated fields were fenced. Appellant\u2019s right-of-way was also fenced, save a short distance .on the west side for entry by the public to the depot and station grounds.\nThe grass on the right-of-way was good, and cattle in the neighborhood frequently entered the opening, and were in the habit of grazing there, without objection on the part of appellant. On the 14th day of July, 1921, appellant sprayed the right-of-way six or eight feet on each side of the track, from a tank on a slowly moving train, with a chemical mixture, for the purpose of killing the growing weeds and grass on each side of its track. The spraying was done under the supervision of the roadmaster. Not only was it the habit of the cattle to graze on the right-of-way, but during the spraying process five or six of them, then grazing there, fell back out of the way of the spraying tank and returned after the train passed. No warning was given the owners of the cattle of the intention to spray the right-of-way, and no effort was made by appellant to prevent the cattle from grazing upon the poison grass. Appellee\u2019s cow and others in the neighborhood grazed upon the vegetation on the day it was sprayed with the liquid substance, and died with fits, and a greenish foaming from the mouth and nostrils. The poisonous spray wilted and killed everything it touched in the way of vegetation, except sycamore leaves. Little chickens died when they came in contact with it. It was injurious to the skin of human beings.\nThe facts detailed above are sufficient to support the finding that the chemical mixture sprayed by appellant upon the grass growing upon its right-of-way was a poisonous substance, deadly not only to vegetation but to animals eating the vegetation; also that appellant\u2019s operatives knew that cattle were in the habit of grazing on the right-of-way, and were then grazing, where they sprayed the poison. Appellant\u2019s contention is that its only duty to trespassing cattle was not to invite them upon the right-of-way by placing dangerous, attractive substances thereon; and that it was not liable in damages for spraying poison on vegetation grown on its private property, upon which trespassing animals were then grazing or were accustomed to graze. We are unableX to indulge the nice distinction that the property owner \\ may poison uninvited cattle when trespassing on his pri- j vate premises, with impunity, and may not poison tres-y passing cattle, without incurring liability, which were aK tracted thereon by a poisonous mixture. Certainly the\\ special stock law did not warrant such a proceeding. It! provided for impounding trespassing animals, not kill.-' \u2022 ing them. The result is certainly the same, where one places poison upon an attractive bait and thereby induces domestic animals to come upon its premises and eat thereof until they die, or whether, finding trespassing animals upon his premises, he covers the grass upoli which they are grazing with poison, thereby killing them. In either event, according to our view, he unlawfully killed the cattle. The invitation doctrine, or the doctrine of the turntable cases, in our opinion, has no application to the facts in the instant case, for the very good reason that the poison within itself was not an invitation. \u2022 But appellant had knowledge that this and other cows were accustomed to grazing, and were then graz ing, where it sprayed the poison. The mere fact tha^ cattle were trespassing upon the right-of-way did not license appellant to poison them. Certainly appellant owed appellee the negative duty of not knowingly killing his cow. The rule announced by this court in the case of Brinkley Car Company v. Cooper, 70 Ark. 331 (335), on the second appeal, seems to us peculiarly applicable to the facts in this case. Mr. Justice Riddick, in rendering the opinion in that case, used the following-language: \u201cWe hold that if the company owning the premises had notice that children had frequented the place-of this pool, or, from the nature of the surroundings, wore likely to do so, and if it careless^ left a pool of hot water there, concealed in such way that one would reasonably expect it to occasion injury to children, the company would be liable for damages to the boy, who, by reason of its concealed nature, walked into the pool of hot water and was burned. The owner of land has a right to use it for any lawful purpose, and this company had a right to operate its manufacturing- plant and empty .the hot water from its boilers on its premises when it became necessary to do so, and, before it can be made liable for an unintentional injury caused to a boy of six years of age by such hot water, two things are necessary; first, it must be shown that the company had notice that the boy or other children were likely to some upon its premises; and second, by reason of the concealed nature of the pool of water, or the want of notice on the part of the children of the condition of the water, injury to them ought to have been foreseen on the part of .the company as a consequence of leaving the pool of water in that condition.\u201d In the instant case the .company had notice that the cattle frequented the place where it was spraying the poison, and that the cattle were grazing there at the time, and should have foreseen that the cattle would be killed, as a consequence of spraying the grass which they were eating, or would eat, with a poisonous mixture.\nNo error appearing, the judgment is affirmed.",
+        "type": "majority",
+        "author": "Humphreys, J."
+      },
+      {
+        "text": "McCulloch, C. J.,\n(dissenting). The decision of the majority is, I think, an unwarranted extension of what is usually termed the doctrine of \u201cthe turntable cases.\u201d Railway Co. v. Stout, 17 Wall. 657. This doctrine has been heretofore applied with hesitation and caution by this court and most other courts, and the conclusion now announced by the majority is in conflict with those decisions. Abbott v. Van Meter, 142 Ark. 601; United Zinc & Chemical Co. v. Britt, 258 U. S. 268.\nLiability of a landowner has, in such cases, been imposed, not on account of dangerous defects or agencies allowed to exist on the premises, but because of the fact that trespassing children or animals are attracted by such defects or agencies to their injury. The rule of liability is now generally referred to as the \u201cattractive nuisance doctrine,\u201d and depends entirely on the fact that the danger is an attractive one to children or animals. In all of the decisions on the subject there is a clear recognition of the rule of law that the owner of premises is not under any legal obligation to keep the same safe for trespassers. The limit of the owner\u2019s obligation is not to lure children or animals to the premises or to bait a trap for them.\nIn the present instance appellant was using its right-of-way in a lawful manner, and the poisonous spray was used for a useful purpose. It had the right to use the premises -in that way, and was not bound to protect against trespassing animals.\nThere is no evidence at all that the spray was attractive to animals or that the vegetation was more attractive after the spray fell on it. All that is shown is that cattle went there to graze because grass was to be found there. It is just a case where trespassing cattle went where grass was to be found, and were killed. So, under the application of the law made by the majority in this case, wherever injury to trespassing cattle occurs the owner of the premises is liable if it can be shown that the animals went there to graze and the premises were kept in an unsafe condition.",
+        "type": "dissent",
+        "author": "McCulloch, C. J.,"
+      }
+    ],
+    "attorneys": [
+      "W. F. Evans, W. J. Orr and E. L-. Westbrook, for appellant.",
+      "Gravette & Rayner, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "St. Louis-San Francisco Railway Co. v. Fletcher.\nOpinion delivered May 14, 1923.\nAnimals \u2014 injuries by' poison. \u2014 Where a railroad company sprayed its right-of way with a poisonous mixture, knowing that cattle were accustomed to graze there, and without notifying their owner, and the cattle were killed by the poison, the company is liable.\nAppeal from Mississippi Circuit Court; W. W. Bandy, Judge;\naffirmed.\nW. F. Evans, W. J. Orr and E. L-. Westbrook, for appellant.\nThe testimony shows ^hat appellee\u2019s cattle were running-at large in violation of law (Sp. act 154, Acts 1919) at the time they ate the poisoned grass on appellant\u2019s right-of-way \u2014 were trespassing on its grounds \u2014 -and the court' erred in holding appellant liable for their death. The right-of-way was fended, except for a short distance at the station to permit \u25a0 the public to' get to station grounds, and the poison spray was lawfully used to-kill the grass on the right-of-way. 57 Ark. 16; 142 Ark. 601; 247 U. S. 100, 62 L. ed. 1003.\nGravette & Rayner, for appellee.\nAppellant kne^ cattle were accustomed to graze in its right-of-way. Its agents operating the tank-car with the poison spray saw them grazing, saw them fall back as the spraying tank passed and then return to their grazing. Appellee\u2019s cow was among them, and died from eating the poisoned grass, and appellant is liable for the resulting damages. 142 Ark. 601, also cited by appellant; 70 Ark. 331."
+  },
+  "file_name": "0344-01",
+  "first_page_order": 370,
+  "last_page_order": 375
+}

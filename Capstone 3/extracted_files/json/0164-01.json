@@ -1,0 +1,560 @@
+{
+  "id": 1388597,
+  "name": "Arkansas Railroad Commission v. Stout Lumber Company",
+  "name_abbreviation": "Arkansas Railroad Commission v. Stout Lumber Co.",
+  "decision_date": "1923-11-19",
+  "docket_number": "",
+  "first_page": "164",
+  "last_page": "177",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "161 Ark. 164"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [
+    {
+      "cite": "91 Ark. 243",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1511771
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/91/0243-01"
+      ]
+    },
+    {
+      "cite": "89 Ark. 600",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "pin_cites": [
+        {
+          "page": "602"
+        }
+      ],
+      "opinion_index": -1
+    },
+    {
+      "cite": "159 Ark. 617",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        8724025
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/159/0617-01"
+      ]
+    },
+    {
+      "cite": "109 Ark. 556",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1341154
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/109/0556-01"
+      ]
+    },
+    {
+      "cite": "61 Minn. 205",
+      "category": "reporters:state",
+      "reporter": "Minn.",
+      "case_ids": [
+        1650166
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/minn/61/0205-01"
+      ]
+    },
+    {
+      "cite": "43 Pae. 553",
+      "category": "reporters:state_regional",
+      "reporter": "P.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "133 Ark. 491",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1575110
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/133/0491-01"
+      ]
+    },
+    {
+      "cite": "137 Ark. 280",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1568144
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/137/0280-01"
+      ]
+    },
+    {
+      "cite": "31 Ark. 119",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1879331
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/31/0119-01"
+      ]
+    },
+    {
+      "cite": "48 Ark. 305",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1887790
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/48/0305-01"
+      ]
+    },
+    {
+      "cite": "27 Ark. 419",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1885740
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/27/0419-01"
+      ]
+    },
+    {
+      "cite": "3 Ark. 285",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        8728455
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/3/0285-01"
+      ]
+    },
+    {
+      "cite": "1591 Ark. 617",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "76 Ark. 309",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "138 Ark. 459",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1566979
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/138/0459-01"
+      ]
+    },
+    {
+      "cite": "143 Ark. 83",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1589451
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/143/0083-01"
+      ]
+    },
+    {
+      "cite": "154 Ark. 218",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1361253
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/154/0218-01"
+      ]
+    },
+    {
+      "cite": "132 Ark. 28",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "158 Ark. 519",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1355735
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/158/0519-01"
+      ]
+    },
+    {
+      "cite": "141 Ark. 518",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1592906
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/141/0518-01"
+      ]
+    },
+    {
+      "cite": "133 Ark. 157",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1575063
+      ],
+      "weight": 3,
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/133/0157-01"
+      ]
+    },
+    {
+      "cite": "132 Ark. 609",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1576759
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "612"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/132/0609-01"
+      ]
+    },
+    {
+      "cite": "99 Ark. 100",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1314468
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/99/0100-01"
+      ]
+    },
+    {
+      "cite": "89 Ark. 598",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1515179
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/89/0598-01"
+      ]
+    },
+    {
+      "cite": "120 Ark. 169",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "weight": 2,
+      "opinion_index": -1
+    },
+    {
+      "cite": "61 Ark. 625",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "weight": 2,
+      "opinion_index": -1
+    },
+    {
+      "cite": "31 Ark. 239",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "29 Ark. 252",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "weight": 2,
+      "opinion_index": -1
+    },
+    {
+      "cite": "150 Ark. 486",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1367891
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/150/0486-01"
+      ]
+    },
+    {
+      "cite": "140 Ark. 398",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1594410
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/140/0398-01"
+      ]
+    },
+    {
+      "cite": "91 Ark. 5",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1511829
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/91/0005-01"
+      ]
+    },
+    {
+      "cite": "120 Ark. 288",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1561117
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/120/0288-01"
+      ]
+    },
+    {
+      "cite": "66 N. Y. 413",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2163463
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/66/0413-01"
+      ]
+    },
+    {
+      "cite": "47 N. Y. 330",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        509414
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/47/0330-01"
+      ]
+    },
+    {
+      "cite": "150 N. Y. 200",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2273995
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/150/0200-01"
+      ]
+    },
+    {
+      "cite": "159 Ark. 617",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        8724025
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/159/0617-01"
+      ]
+    },
+    {
+      "cite": "109 Ark. 556",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1341154
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/109/0556-01"
+      ]
+    },
+    {
+      "cite": "158 Ark. 519",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1355735
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/158/0519-01"
+      ]
+    },
+    {
+      "cite": "72 Ark. 445",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1505542
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/ark/72/0445-01"
+      ]
+    },
+    {
+      "cite": "55 Ark. 389",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1322242
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/ark/55/0389-01"
+      ]
+    },
+    {
+      "cite": "91 Ark. 243",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1511771
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/ark/91/0243-01"
+      ]
+    },
+    {
+      "cite": "89 Ark. 600",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "opinion_index": 1
+    },
+    {
+      "cite": "159 Ark. 617",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        8724025
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/ark/159/0617-01"
+      ]
+    },
+    {
+      "cite": "109 Ark. 556",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1341154
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/ark/109/0556-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 952,
+    "char_count": 26310,
+    "ocr_confidence": 0.481,
+    "pagerank": {
+      "raw": 7.161564862667632e-08,
+      "percentile": 0.4289732721869113
+    },
+    "sha256": "5fbb4f6dd6c5d106271e9f3bec5a8c76c4e92bf662cd18031f150896cc7d17fc",
+    "simhash": "1:f40ead0c013759e6",
+    "word_count": 4634
+  },
+  "last_updated": "2024-02-27T21:32:42.656819+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Wood and Humphreys, JJ., dissenting."
+    ],
+    "parties": [
+      "Arkansas Railroad Commission v. Stout Lumber Company."
+    ],
+    "opinions": [
+      {
+        "text": "McCulloch, C. J.\nThis appeal involves the construction and effect of an amendment to the severance * tax statute enacted by the General Assembly of 1923, approved February 14, 1923, imposing a tax ou the business of severing certain products from the soil for commercial purposes. Acts 1923, General Statutes, p. 67. The statute is designated, and will be hereinafter referred to, as act No. 118. The amendatory statute was approved March 26, 1923 (Acts 1923, General Statutes, p. 578), and designated as act No. 681. Both of these statutes were enacted at the same session The bill for act No. 681 was introduced in the Senate on March 5, 1923, and passed the House of Representatives on March 7, but was not presented to the Governor for approval until after adjournment.\nSection 4 of act No. 118 provides for the imposition of \u201ca privilege tax amounting to two and one-half per cent, of the gross cash market value of the total production of such natural resources\u201d other than -\u201cthe production of 'certain natural resources, the privilege tax upon which is hereinafter specially provided for.\u201d\nSection 5 of act No. 118 reads as follows:\n\u201cSection 5. Special rates.\n\u201c (a) On bauxite. Every producer of bauxite shall be subject to all of the provisions of this act, except, instead, of a tax of two and one-half (2y2) per cent, of the gross market value of said product, the producer of bauxite shall pay a privilege tax equivalent to twenty-five cents (25c) per ton on the total production of bauxite during the preceding quarterly period, irrespective of the market value thereof.\n\u201c(b) On coal. Every producer of coal shall be subject to all of the provisions of this act, except that, instead of a tax of two and one-half (2%) per cent, on the gross market value of said products, the producer of coal shall pay a privilege tax equivalent to one cent (lc) per ton on the total production of coal during the preceding quarterly period, irrespective of the market value thereof.\n\u201c(c) On timber. Every producer of timber shall be .subject to all the provisions of this act, except that, instead of a tax of two and one-half (2%) per cent, of the gross market value of said products, the producer of timber shall pay a privilege tax equivalent to seven cents (7c) per thousand feet, board measure, on the total stumpage covered or cut during the preceding quarterly period, irrespective of the market value thereof.\u201d\nAct No. 681 (omitting \u00a7 2, which is the concluding section declaring an emergency and putting the statute into immediate effect) reads as follows:\n\u201cSec. 1. That \u00a7 5 of act No. 118 of the Acts of the Legislature of the State of Arkansas, approved February 14, 1923, be amended to read as follows:\n\u201c \u2018Special rates\u2019 (d). On manganese ore. The provisions of this act shall not apply to the producer of manganese ore, but every shipper of manganese ore shall pay a privilege tax of ten cents per ton, based on the weight at the point of shipment, irrespective of the market value of the said ore. Said tax to be paid as provided in said act. \u201d\nThe Arkansas Railroad Commission, which is clothed with authority to collect the tax, sought to collect from those producing commodities mentioned in \u00a7 5 a tax of two and one-half per cent, on value as prescribed in \u00a7 4, claiming authority to do so on the theory that the original \u00a7 5 had been repealed by act No. 681.\nThe appellees, each a corporation engaged in the business, respectively, of severing timber and coal from the soil for commercial purposes, disputed this assertion, and claimed the right to pay under \u00a7 5 of the original statute as the limit of its taxation. Appellees instituted this' suit in the chancery court of Pulaski County to restrain the Commission from attempting to impose the tax of two and one-half per cent, on valuation of the product. The chancery court granted the relief prayed for by appellees, and the Commission has appealed.\nThe question presented is whether act No. 681 operates as a repeal of the whole of original \u00a7 5 by substitution, or whether it merely amends the statute by adding another subdivision to \u00a7 5 relating to the tax on production of manganese. The State contends that the later statute operates as a repeal of \u00a7 5 by substitution; and the contention of appellees is that it operates merely as an amendment to the original section by adding another subdivision.\nThe rule of interpretation has been firmly established by many decisions of this court, as well as by decisions of other courts of last resort, that the use of the formula, \u201camended so as to read as follows,\u201d in an amendatory statute, means that the new statute is substituted for and repeals the old statute, or that part of it which is thus referred to. The authorities on this subject are reviewed in the case of State ex rel. v. Trulock, 109 Ark. 556. We decided, however, in that case that the rule was not an inflexible -one, and was not applicable where there were other. controlling and unmistakable indicia found in the statute of a contrary intention on the part of the lawmakers. In the opinion in that case it was said: \u201cBut that rule of interpretation is not an absolute or an inflexible one, and is not always arbitrarily applied. It must be considered with other rules equally well settled, and must yield place to others which may, under the language of a statute, be more appropriately and accurately employed. The cardinal rule of interpretation is the ascertainment of the meaning of the lawmakers as expressed in the language which they have used. Not what the lawmakers themselves meant, but what the .language they used means; And all rules of interpretation must yield to this as the paramount one.\u201d Again, it was said in the same opinion: \u201cThe words, \u2018be amended to read as follows,\u2019 constituted a mere formula, in which there is no magic, except that it ordinarily carries the meaning, when not otherwise limited, that the amendatory statute excludes all omitted provisions of the former law.\u201d The conclusion reached in that case was that, notwithstanding the use of this formula in -the new statute, it did not exclude by repeal the omitted provisions in the former law.\nIn the very recent case of Wallace v. McCartney, 159 Ark. 617, the same question arose in the interpretation of a similar amendatory statute, and we announced the same rule as in the Trulock case, holding that the amendatory statute was not a substitution, but an addition or supplement, to the original statute. In the case just referred to we said that \u201cit is obvious, from a consideration of the whole of the amendatory statute, that the Legislature did not intend to amend the whole of the section named, but had left unimpaired that part of it which covered a subject not treated in the new statute.\u201d\nIn the Trulock case we followed the decision of the New York Court of Appeals in the case of Bank of the Metropolis v. Faber, 150 N. Y. 200, and quoted from it the following:\n\u201cThe effect upon a prior statute of a subsequent amendment, '\u2018so as to read as follows,\u2019 is not to be determined in all cases by any fixed and absolute rule, but frequently becomes \u00e1 question of legislative intent to be determined from the nature and language of the amendment, from other acts passed at or about the same time, and from all the circumstances of the case. The duty of the courts is to give effect to the legislative intent rather than the literal terms of the act.\u201d There are other decisions of the same court which might have been referred to, where language was used which has much force in the interpretation of the statute now before us. In the case of Smith v. The People, 47 N. Y. 330, where the court had under consideration a similar question, it was said:\n\u201cA clause in a statute purporting to repeal other statutes is subject to the same rules of interpretation as other enactments, and the intent must prevail oyer literal interpretation. One part of an act of the Legislature may be referred to in aid of the interpretation of other parts of the same act. So in cases of doubt or uncertainty, ants in pari materia, passed before or after, and whether repealed or unrepealed, may be referred to in order to discern the intent of the Legislature in the use of particular terms; and within the same rule, and the reason of it, contemporaneous legislation, although not precisely in pari materia, may be referred to for. the same purpose. Statutes in pari materia relate to the same subject, the same person or thing, or the same class of persons or things, and are to be read together, for the reason that it is to be implied that a code of statutes relating to one subject is governed by the same spirit, and are intended to be harmonious and consistent. * * * Statutes enacted at the same session of the Legislature should receive a construction, if possible, which will give effect to each. They are within the reason of the rule governing the construction of statutes in pari materia. Each is supposed to speak the mind of the same Legislature, and the words used in each should be qualified and restricted, if necessary, in their construction and effect, so as to give validity and effect to every other act passed at the same session.\u201d\nIn the case of In re Rochester Water Commission, 66 N. Y. 413, where there was involved the effect of a supplemental statute using the formula, \u201camended so as to read as follows,\u201d the court said:\n\u201cOrdinarily, and in the absence of any evidence of a legislative intent to the contrary, a substitution of one section for another by an amendment in the form in which this amendment was accomplished would work a repeal of the original section from the time of the amendment, and as affecting all eases thereafter arising. But when, from the language of the statute and of the amendment, a different intent is apparent, such effect will not be given to it; and where other acts of the Legislature, passed at or about the same time, corroborate the evidence of intent, as gathered from the statutes under review, the duty of the courts is to give effect to the intent rather than to the literal terms of the act. The intent must not be conjectured, but must be apparent from all the statutes taken together, and consistent with the whole purpose and object as well of the original statute as of the amendment. This rule of interpretation is of frequent application, and is one of the most important and familiar canons of construction.\u201d\nIt is earnestly contended by learned counsel for the State that the use of the letter \u201cd\u201d in the amendatory statute affords the only evidence of the intention of the framers of the statute to supplement, rather than to repeal by substitution, the original statute, and that this evidence is too slight and uncertain to contravene or overturn the settled interpretation of the formula employed. The use of the letter in the same way that the preceding letters of the alphabet were used in the original statute in designating the different rates of taxation on the several \u25a0 products is undoubtedly of emphatic significance in determining what the real intention of the lawmakers was, but we cannot agree with counsel that this is the only evidence of a contrary intention afforded by the statute itself and the original statute, which had been enacted only a short time before, at the same session of the Legislature. The whole structure and form of the amendatory statute is so identical with the different subdivisions of the original \u00a7 5 as to give compelling force to the idea that the addition of another subdivision was intended rather than a substitution for the whole of the original section. The natural and ordinary effect upon the mind ill comparing the new statute with the original section is that an addition to the section was intended, rather than a substitute. It deals solely with taxation of the production of a commodity, manganese, which is of little consequence in this State, compared with the production of the great commodities coal, lumber, and bauxite, mentioned in the original section, and it is scarcely conceivable that the lawmakers intended, in dealing with this commodity, to overturn the carefully laid taxation -scheme prescribed in the recently enacted and yet untried general statute on this subject.\nThe rule announced by the New York court in the cases cited supra is especially applicable in the present controversy, for the two statutes were passed at the same session and closely together in point of time. The statute was a new one, and when the amendatory statute was passed the former one had not gone into effect, and was wholly untried. There had been no experience in the enforcement of the original statute so as to give rise to the belief that material changes had taken place in the legislative mind. It is true that the repeal of the whole of original \u00a7 5 would have left a complete scheme for the uniform taxation of the privilege of production of all commodities mentioned at .the rate of two and one half per cent, on valuation, but this is of little force in inducing the conclusion that the lawmakers had undergone a complete change of mind in the scheme of imposing a specific amount upon most of the great commodities to be produced.\nAgain, it is insisted by counsel for appellant that if the later statute be construed to be an addition, and not. a substitution for, original \u00a7 5, it is brought in conflict with \u00a7 23, art. 5, of the Constitution, which provides that a law shall not be \u201crevived, amended or the provisions thereof extended or conferred by reference to title only,\u201d and that we should give such interpretation to this statute as will make it valid rather than to make it invalid. We are unable to agree with counsel in the argument that, if the later statute be interpreted to mean an addition to \u00a7 5, it offends against the provisions of the Constitution above referred to. It will be observed that \u00a7 1 of tbe amendatory statute, when read and considered separately and apart from the original statute sought to be amended, distinctly and unequivocally imposes a privilege tax of ten cents per ton on the production of manganese ore. This presents the case of a statute which is \u201coriginal in form\u201d and which \u201ccreates some burden or obligation,\u201d and which merely refers to \u201csome other existing statute for the purpose of pointing out the procedure -in executing the power, enforcing- the right,.or discharging the burden.\u201d See the recent case of Farris v. Wright, 158 Ark. 519, and the authorities there collated. The later statute is therefore not invalid as an attempt to amend or extend the law by reference only to the title.\nThe conclusion now reached is that the effect of the last statute is not to substitute its provisions for the original \u00a7 5 in act No. 118, but that it is to add thereto the subdivision set forth in the later statute.\nThe chancery court was correct in its decision, and the de-eree is affirmed.\nWood and Humphreys, JJ., dissenting.",
+        "type": "majority",
+        "author": "McCulloch, C. J."
+      },
+      {
+        "text": "DISSENTING OPINION.\nHumphreys, J.\nIn the opinion of Mr. Justice Wood and myself, act No. 681, enacted by the General Assembly of 1923, operated as a repeal, by substitution, of \u00a7 5 of act 118, passed at an earlier date at the same session. Act 681 amends \u00a7 5 of act 118 so as to read as follows:\n\u201cSpecial Rates\u201d (d). On manganese ore. The provisions of this act shall not apply to the producer of manganese ore, but every shipper of manganese ore shall pay a privilege tax of ten cents per ton, based on the weight at the point of shipment, irrespective of the market value of the said ore. Said tax to be paid as provided in said act.\u201d\nIt will be observed.that the special rates placed upon bauxite, eo\u00e1l and lumber by \u00a7 5, act 118, were omitted from act 681. This court is committed to the well-settled rule of construction that \u201cwhen a statute amends a former statute, \u2018so as to read as follows,\u2019 it operates as a repeal, by implication, of provisions omitted in the amended law.\u201d Mondschein v. State, 55 Ark. 389; Rennau v. State, 72 Ark. 445; Henderson v. Dearing, 89 Ark. 600; Edland v. State, 91 Ark. 243. The rule thus announced is so firmly established in this State that only one exception thereto has ever been allowed, viz., when a literal interpretation of the amendatory statute would have the effect of abrogating the whole law upon the subject. State of Arkansas, on the relation of the Attorney General, v. Trulock, 109 Ark. 556; Wallace v. McCartney, 159 Ark. 617. In each of the cases last cited, if the amendatory acts had been literally construed, the effect would have been to practically destroy the entire law upon the subject sought to be covered by legislation. The court reasoned in these cases that the Legislature certainly did not intend to destroy the law it was attempting to enact, and therefore read the original and amendatory acts in each.case together, to ascertain the intent of the Legislature from all the language used in both acts. In the instant ease it is unnecessary to read the statutes together to ascertain the intent of the Legislature in each act. Section 5 of the original act may be treated as repealed by act No. 681, according to the formula used, and a privilege tax will remain, of two and one-half per cent, of the gross cash market value of every natural resource, including bauxite, coal' and lumber, except, of course, manganese, which is specially taxed under the last act. See \u00a7 4, act No. 118. In other words, if act No. 681 be treated as a substitute for \u00a7 5 of act No. 118, as it should be under the general rule of construction, if possible, no natural resources severed from the soil will escape the privilege tax. The entire subject . attempted to be legislated upon would still be covered by statute, so the whole law would not be abrogated by a literal construction of the amendatory act. The instant case therefore comes clearly within the general rule, and not within the exception announced in the Trulock and McCartney cases, supra. In arriving at the intent of the Legislature the letter (d) should not be permitted to override the plain, unambiguous language of the amendatory act. On the other hand, the well-established meaning of the formula, \u201camended so as to read as follows,\u201d should override the uncertain and indefinite meaning of the letter (d). This can be accomplished by treating the latter (d), which is meaningless as used in the act, as surplusage.\nMoreover, if the two acts be treated in pari materia, it becomes a mere matter of speculation whether the Legislature intended to add manganese to the commodities upon which the special privilege tax is imposed, or whether it intended to substitute manganese for the other commodities embraced in said \u00a7 5. It may have been, and -probably was, the intent of the Legislature to substitute the special tax' on manganese for the special tax on the other three commodities. It is apparent that said \u00a7 5, as it stood before the amendatory act 681 was passed, contained inequalities and discriminations between the three commodities of bauxite, coal, and lumber. One cent on coal was so nominal that it amounted to no tax at all. Seven and one-half cents on lumber was almost as nominal as that of coal, whereas the tax of twenty-five cents on bauxite was largely out of proportion to the taxes on the other two commodities. In speculating on the intent, one might just as well say that the Legislature intended to wipe -out these inequalities between three of the most important natural resources, as to say that it intended to add another commodity to the three for special taxation. By indulging the former speculation as to intent, the tax for severing the three most important natural resources would be equalized The fact that we are led into a field of speculation, by treating the statutes m pari materia in search for the intent, should prevent the invocation of that rule of construction. In the instant case we deem it unnecessary to ingraft another exception upon the well-established rule of construction, in order to arrive at the true intent of the Legislature. Too many exceptions tend to destroy the wholesome effect of a general rule.\nFor the reasons given, we dissent from the majority opinion.",
+        "type": "dissent",
+        "author": "Humphreys, J."
+      }
+    ],
+    "attorneys": [
+      "J. S. Utley, Attorney General, John L. Carter, Wm. T. Hammock and Barden Moose, Assistants, for appellant.",
+      "Gmtghan d Sifford, for appellee, Stout Lumber Co.",
+      "Pryor d Miles, for appellees, Western Coal & Minina- Co. et al.",
+      "Rose, Hemingway, Cantrell & Loughborough, amici curiae, for appellant."
+    ],
+    "corrections": "",
+    "head_matter": "Arkansas Railroad Commission v. Stout Lumber Company.\nOpinion delivered November 19, 1923.\n1. Statutes \u2014 \u201camended to read as follows\u201d construed. \u2014 While the words, \u201camended so as to read as follows\u201d generally mean that the new statute is substituted for and repeals the _ old statute, or the part referred to, the rule is not an inflexible one, and is not applicable where there are other controlling and unmistakable indicia found in the statute of a contrary intention on the part of the lawmakers.\n2. License \u2014 severance tax \u2014 construction.\u2014General Acts 1923, No. 118, \u00a7 5, imposed a privilege tax on the production of bauxite, coal and timber. General Acts 1923, No. 681, \u00a7 1, provides that \u00a7 5 of the former act \u201cbe amended to read as follows,\u201d followed by a provision fixing the privilege tax on manganese ore. Held that this provision was not intended to repeal \u00a7 5 of the prior act, but to supplement it.\n3. Statutes \u2014 construction.\u2014A tax statute and an amendment thereto, passed at the same session, should be construed together in determining whether the amendment was intended as a repeal or a supplement to the original statute, even though its repeal would leave a complete tax scheme.\n4. Statutes \u2014 amendment by reference. \u2014 Constitution art. 5, \u00a7 23, prohibiting the revival, amendment or extension of statutes by reference to title only, does not invalidate General Acts 1923, No. 681, amending General Acts 1923, No. 118, relative to severance tax, by imposing a special rate on a particular product, as it is original in form, and merely refers to an existing statute to point out the method of enforcement.\nAppeal from Pulaski Chancery Court; John E. Martineau, Chancellor;\naffirmed.\nJ. S. Utley, Attorney General, John L. Carter, Wm. T. Hammock and Barden Moose, Assistants, for appellant.\nSection 1 of act 681 repeals \u00a7 5 of act 118, and supplants the same, or else it is an attempt to extend the provisions of \u00a7 5, in violation of art. 5, \u00a7 23, of the Constitution. It is fundamental that every reasonable construction must he resorted to in order to save a statute from unconstitutionality, and that, if a statute is susceptible of two constructions, one that conflicts and the other that harmonizes with the Constitution, the latter construction will be adopted. 120 Ark. 288; 91 Ark. 5; 140 Ark. 398; 150 Ark. 486; 155 IT. S. 657. On the point that, as an attempt to extend the provisions of \u00a7 5 it would be contrary to the Constitution, supra, see 29 Ark. 252; 31 Ark. 239; 61 Ark. 625; 120 Ark. 169; 89 Ark. 598; 99 Ark. 100, .104; 132 Ark. 609; 133 Ark. 157; 141 Ark. 518; Icl. 84; Id. 196; Id. 612; 158 Ark. 519.\n2. The act 681 is complete for the purpose of supplanting \u00a7 5 of the original act, and cannot stand as a valid enactment if its purpose be to graft upon \u00a7 5 another provision, unless it conforms to the Constitution by reenacting \u00a7 5 of the original act, with such ingrafted provision incorporated therein. 132 Ark. 28; 154 Ark. 218; 143 Ark. 83; 138 Ark. 459.\nGmtghan d Sifford, for appellee, Stout Lumber Co.\n1. It is reasonable, and the court, has the right, to ascertain the legislative intent, not Only from the language of the statute itself, but also by bringing to its aid public events, public documents, executive messages, etc., legislative proceedings and journals, and the trend of public events .leading to the enactment. 76 Ark. 309. It is clear, however, from the language of act 681, that it was intended to be an amendment. Had the Legislature intended to repeal \u00a7 5 of act 118, it could, and in appropriate language would, have said so, instead of saying that it intended to amend it. The language used in \u00a7 1 of act 681, viz: \u201cSpecial rates (d), on manganese ore,\u201d is convincing of an express purpose and intent to amend \u00a7 5 of act 118 by the addition of another paragraph to that section.\n2. If a failure to hold that \u00a7 5 is repealed by the act 681 is to result in a finding that the latter act is unconstitutional, it is better so, rather than for the court to constitute itself into a legislative body, and read into the act a construction not warranted by its language.\nPryor d Miles, for appellees, Western Coal & Minina- Co. et al.\nWhen act 681 is considered in connection with paragraphs \u201ca,\u201d \u201cb,\u201d gnd \u201cc\u201d of \u00a7 5 of the original act, it is manifest that the Legislature was endeavoring to include manganese ore in the provisions of \u00a7 5 by adding another paragraph and designating that as \u201cd,\u201d to fix its place in the section. We think this court\u2019s decision in Wallace v. McCartney, 1591 Ark. 617, is conclusive on the question raised here. It appears, from reading the provisions of the original act, that manganese ore had been omitted, and that act 681 was intended merely to add to the provisions of \u00a7 5, so as to include a tax upon manganese ore. 25 R. C. L. 923; let 1067; 133 Ark. 157; 3 Ark. 285; 27 Ark. 419; 48 Ark. 305. See also 31 Ark. 119; 137 Ark. 280; 150 Ark. 486, and cases cited; 133 Ark. 491.\nRose, Hemingway, Cantrell & Loughborough, amici curiae, for appellant.\nIf there is any rule of law that is well settled, it is that the form of amending sections of statutes, \u201cso as to read as follows,\u201d shows a clear intent on the part of the Legislature to displace the old section or sections with the new. 26 Am. & Eng. Encyc. of L., 735; 36 Cyc. 1083; 25 R. C. L., \u201cStatutes,\u201d p. 907; 43 Pae. 553; 61 Minn. 205 ; 63 ,N. W. 621, 623. While this is a general rule, it is especially rigid and inflexible in all those States having a constitutional provision similar to ours, to the effect that no law shall be amended by reference to its title, etc. Article 5, \u00a7 23, Const. It is not necessary, as explained in Wallace v. Truloch, 109 Ark. 556, to reenact all of an amended section, in all cases, still the evil to be guarded against is. ever present, and it would take an extreme case to justify a departure from the general rule. See also Wallace v. McCarthy, 159 Ark. 617; 29 Ark. 252; 61 Ark. 625; 120 Ark. 169; 132 Ark. 609, 612; 133 Ark. 157; 138 Ark. .459; 89 Ark. 600, 602; 91 Ark. 243."
+  },
+  "file_name": "0164-01",
+  "first_page_order": 192,
+  "last_page_order": 205
+}

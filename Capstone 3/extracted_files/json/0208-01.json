@@ -1,0 +1,165 @@
+{
+  "id": 1432008,
+  "name": "Benton v. Thompson",
+  "name_abbreviation": "Benton v. Thompson",
+  "decision_date": "1933-04-10",
+  "docket_number": "4-2961",
+  "first_page": "208",
+  "last_page": "212",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "187 Ark. 208"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [
+    {
+      "cite": "45 S. W. (2d) 508",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "185 Ark. 20",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1435378
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/185/0020-01"
+      ]
+    },
+    {
+      "cite": "44 S. W. (2d) 825",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "184 Ark. 798",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1438482
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/184/0798-01"
+      ]
+    },
+    {
+      "cite": "296 S. W. 39",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "173 Ark. 1083",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        8725865
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/173/1083-01"
+      ]
+    },
+    {
+      "cite": "35 S. W. (2d) 70",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "183 Ark. 107",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1441800
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/183/0107-01"
+      ]
+    },
+    {
+      "cite": "128 S. W. 1042",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "95 Ark. 194",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1543555
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/95/0194-01"
+      ]
+    },
+    {
+      "cite": "37 Ark. 539",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 429,
+    "char_count": 8254,
+    "ocr_confidence": 0.518,
+    "pagerank": {
+      "raw": 1.3714162367478955e-07,
+      "percentile": 0.6383667542007275
+    },
+    "sha256": "8904bc4fcfbc9da2e81a2ec132e5bb2659f9b707b7215908989a7b029e60fae9",
+    "simhash": "1:df6288ebc0c753ef",
+    "word_count": 1449
+  },
+  "last_updated": "2024-02-27T21:18:50.990705+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Justices Smith, McHaney and Butler, dissent."
+    ],
+    "parties": [
+      "Benton v. Thompson."
+    ],
+    "opinions": [
+      {
+        "text": "Mehaffy, J.\nJohn R. Thompson, as a resident, citizen and taxpayer of Lonoke County, Arkansas, brought this suit for the use and benefit of Lonoke County.\nR. O. Benton, the appellant, is the regularly elected, qualified and acting sheriff of Lonoke County, Arkansas.\nIt was alleged in the complaint that the appellant was justly indebted to the county of Lonoke in the sum of $6,300, the same being occasioned as follows:\nAct 173 of the Special Acts of the General Assembly of the State of Arkansas for the year 1919 fixed the salary of the sheriff of Lonoke County at the sum of $4,000 per year, and required that out of said sum the sheriff of said county should pay all his deputy hire; that this act is the law at this time, and has been such at all times mentioned in the complaint; that in the year 1927 the sheriff of Lonoke County drew from the county $5,200, and a like sum for the years of 1928, 1929, and 1930 as his salary and to pay deputy hire, which was $2,200 more than was allowed him under the act above mentioned; that the sheriff based his right to draw this money upon act 90 of the Acts of 1927, which only affected Lonoke County and its officers, and was unconstitutional and void; that the appellant was, at the expiration of 1930, indebted to the general fund of Lonoke County in the sum of $4,800; that in the year 1931 the appellant drew from the county general fund the sum of $5,200 as his salary and to pay deputy hire, which was $1,200 more than he was entitled to under the act of 1919; and for the first quarter of 1932 appellant drew $1,250 for his salary and deputy hire, which was $300 more than he was entitled to under the law; that appellant had rendered his accounts and settled with the county court at each regular session, and his settlements were approved and confirmed; that the settlements were made under act 90 of 1927, which was void, and the settlements were approved by the court through error as to the law.\nAppellant filed a demurrer stating first that the complaint does not state facts sufficient to constitute a cause of action, and, second, that the court has no jurisdiction of the subject-matter.\nThe court sustained the demurrer to the amounts collected by the sheriff to the date of March 16, 1931, but overruled the demurrer as to the amounts sued for which were collected since March 16, 1931. The court dismissed appellee\u2019s complaint as to all amounts collected prior to March 26, 1931, and entered judgment against appellant for $1,500, the amount due since March 16, 1931. Each party prayed an appeal to this court, which was granted.\nIt is the contention of the appellant that the circuit court had no jurisdiction because under the Constitution and statutes the county court had exclusive original jurisdiction.\nArticle 7, \u00a7 28, of the Constitution reads as follows:\n\u201cThe county courts shall have exclusive original jurisdiction in all matters relating to county taxes, roads, bridges, ferries, paupers, bastardy, vagrants, the apprenticeship of minors, the disbursement of money for county purposes; and in every other case that may be necessary to the internal improvement and local concerns of the respective counties. The county court shall be held by one judge, except in cases otherwise herein provided.\u2019\u2019\nSection 2279 of Crawford & Moses\u2019 Digest also defines the jurisdiction of the county courts.\nIf this suit involved a matter relating to county taxes, roads, bridges, ferries, paupers, bastardy, vagrants, the apprenticeship of minors, the disbursement of money for county purposes, or if it related to the necessary internal improvements, then the county court would have exclusive original jurisdiction.\nIn the case of State, use of Izard County v. Hinkle, 37 Ark. 539, it was held that to treat the orders of .allowance by the county court as null and void would be going a length which this court has never sanctioned, and that there was no necessity for it because of the other remedies provided, that is, appeal to the circuit court from the judgment of allowance, quashing the judgment on certiorari, and the power of the county court to call in outstanding warrants, or opening the allowance or order in chancery for fraud, or mistake.\nBut the court in the Hinkle case said there was further trouble; that the complaint alleged the allowance of the claim and ordered warrants to be issued, but that it did not allege that any of these warrants were paid by the treasurer, or that the appellee obtained any money upon them.\nIn the instant case it is alleged that the appellant drew the sums of money mentioned as received in violation of law. The allegation is that he received the money, and this is a suit to collect the money wrongfully received, and does not come within the jurisdiction of the county court wherein it is given original exclusive jurisdiction in certain matters. None of the matters mentioned in \u00a7 28 of article 7 of the Constitution are involved in this suit, and the exclusive jurisdiction is not by the Constitution vested in the county court in matters of this kind.\nSection 11 of article 7 of the Constitution provides:\n\u201cThe circuit court shall have jurisdiction in all civil and criminal cases, the exclusive jurisdiction which may not be vested in some other court provided for by this Constitution.\u201d\nThe Hinkle case, supra, involved the settlements of the sheriff, and involved county taxes. This suit does not involve any subject mentioned in the constitutional provision giving county courts exclusive original jurisdiction.\nIn the case of Carroll County v. State, 95 Ark. 194, 128 S. W. 1042, the court said, after quoting the constitutional provision with reference to jurisdiction of county courts: \u201cThe subject-matter of this action is not embraced in the jurisdiction of county courts as thus defined by the Constitution. The sum sued for is not taxes; nor is the action brought to enforce a settlement by a revenue officer of the taxes in his hands. * * * If the sum sued for had ever been county taxes, it ceased to be such when it was paid into the county treasury, as a debt would cease to be a debt when it is paid. It is a sum due for money loaned, accrued interest, is a demand in favor of the county, and is not due for taxes.\u201d\nIn the instant case it is simply a suit for a debt due the county. There is no claim that there was any mistake or fraud in the sheriff\u2019s settlement.\nAct 173 of the Acts of 1919 is a valid law. It is local, applying to Lonoke County only, but it was enacted prior to the adoption of the constitutional provision prohibiting local legislation by the Legislature.\nAct 90 of the Acts of 1927 was void because it was a local act, amending act 173 of 1919, and was passed after the adoption of the amendment to the Constitution prohibiting local legislation.\nThis court has held that, while the Legislature may repeal a local act, or may repeal a portion of it, it cannot amend a local act. The Act of 1927 was therefore void. Cannon v. May, 183 Ark. 107, 35 S. W. (2d) 70.\nCounty courts, like probate courts, have only such special and limited jurisdiction as is conferred upon them by the Constitution and statutes and can only exercise the powers expressly granted or necessarily incident thereto. Hart v. Wimberly, 173 Ark. 1083, 296 S. W. 39; Moss v. Moose, 184 Ark. 798, 44 S. W. (2d) 825; Huff v. Hot Springs Savings Trust & Guaranty Company, 185 Ark. 20, 45 S. W. (2d) 508.\nHaving reached the conclusion that the act of 1927 is void, appellant was entitled to receive fees under act 173 of 1919, and any fees received by him in excess of the fees allowed by said act were in violation of law.\nThe appellee prosecutes a cross-appeal.\nA majority of the court is of the opinion, with which the writer does not agree, that act 218 of the Acts of 1931, being a general act, relieves the sheriff of Lonoke County from paying back money wrongfully received up to the date of the passage of said act.\nIt follows from what we have said that the judgment must be affirmed, both on appeal and cross-appeal. It is so ordered.\nJustices Smith, McHaney and Butler, dissent.",
+        "type": "majority",
+        "author": "Mehaffy, J."
+      }
+    ],
+    "attorneys": [
+      "Trimble, Trimble & McCrary, for appellant.",
+      "John R. Thompson, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Benton v. Thompson.\n4-2961\nOpinion delivered April 10, 1933.\nTrimble, Trimble & McCrary, for appellant.\nJohn R. Thompson, for appellee."
+  },
+  "file_name": "0208-01",
+  "first_page_order": 226,
+  "last_page_order": 230
+}

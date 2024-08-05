@@ -1,0 +1,209 @@
+{
+  "id": 1388593,
+  "name": "National Life Insurance Company of U. S. A. v. Jackson",
+  "name_abbreviation": "National Life Insurance Co. of U. S. A. v. Jackson",
+  "decision_date": "1923-12-24",
+  "docket_number": "",
+  "first_page": "597",
+  "last_page": "601",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "161 Ark. 597"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [
+    {
+      "cite": "76 S. W. 811",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "73 Ore. 278",
+      "category": "reporters:state",
+      "reporter": "Or.",
+      "case_ids": [
+        4533139
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/or/73/0278-01"
+      ]
+    },
+    {
+      "cite": "172 Pac. 486",
+      "category": "reporters:state_regional",
+      "reporter": "P.",
+      "case_ids": [
+        4475561
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/or/88/0620-01"
+      ]
+    },
+    {
+      "cite": "94 So. 375",
+      "category": "reporters:state_regional",
+      "reporter": "So.",
+      "case_ids": [
+        1283970
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/la/152/0739-01"
+      ]
+    },
+    {
+      "cite": "143 Ark. 369",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1589521
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/143/0369-01"
+      ]
+    },
+    {
+      "cite": "137 Ark. 366",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1568049
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/137/0366-01"
+      ]
+    },
+    {
+      "cite": "138 Ark. 442",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1566868
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/138/0442-01"
+      ]
+    },
+    {
+      "cite": "122 Ark. 219",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1558122
+      ],
+      "pin_cites": [
+        {
+          "page": "223"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/122/0219-01"
+      ]
+    },
+    {
+      "cite": "104 Ark. 538",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1350622
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/104/0538-01"
+      ]
+    },
+    {
+      "cite": "122 Ark. 168",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1558207
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/122/0168-01"
+      ]
+    },
+    {
+      "cite": "137 Ark. 366",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1568049
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/137/0366-01"
+      ]
+    },
+    {
+      "cite": "122 Ark. 219",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1558122
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/122/0219-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 396,
+    "char_count": 8163,
+    "ocr_confidence": 0.469,
+    "pagerank": {
+      "raw": 2.696623360214967e-07,
+      "percentile": 0.8280685476257497
+    },
+    "sha256": "a945bd3b2158ad60021d438f74461aed773d384c223f45ec4b32007acf904ef3",
+    "simhash": "1:335df0fdee500c57",
+    "word_count": 1429
+  },
+  "last_updated": "2024-02-27T21:32:42.656819+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "National Life Insurance Company of U. S. A. v. Jackson."
+    ],
+    "opinions": [
+      {
+        "text": "Hart, J.,\n(after stating the facts). The court instructed the jury that, if it should find that' the agent of the insurance company had knowledge that the insured had tuberculosis at the time the policy was written or delivered, the insurance company would be liable.\nThe court erred in giving this instruction. It is true that the general rule of law imputing to a principal notice of facts learned by his agent in the discharge of his duties applies to insurers; but this principle has no application under the terms of the policy sued on. As will be seen from our statement of facts, one of the conditions of the policy is that no liability is assumed by the company for any accident, illness or disease occurring or contracted prior to the date thereof, or any death arising therefrom.\nIt is well settled that policies of insurance must be interpreted according to the plain import of the language used in them, where- there is no ambiguity in it. The clause in question, in plain terms, provides that no liability is assumed by the company for death arising from a disease contracted prior to the date of the policy. The testimony of the beneficiary herself, as well as that of the physician who attended the insured in his last illness, shows that he had tuberculosis at the time the policy was applied for and issued, and that he died of that disease. All the attending circumstances corroborate their testimony. The policy was issued about the middle of April and delivered about the middle of May. The insured died of tuberculosis on the 16th day of June thereafter. Thus the undisputed evidence shows that the - insured had tuberculosis at the time the policy was issued to him and died of that disease within a short time thereafter. There is no statute in this State or ground of public policy which would prevent a contract of this sort from being valid. Hence the parties are bound by the provisions of the contract which they made.\nThis principle was recognized in. Carland v. General Accident, Fire & Life Assurance Corporation, 122 Ark. 168. There a policy of insurance agreed to pay the insured a certain sum monthly in the event of an illness resulting in total disability, if the disability occurred by reason of illness that was contracted and began after the policy had been maintained in continuous force for sixty days. It was held that the insured could not recover under the policy, when the illness was contracted within sixty days after the issuance of the policy, although it continued until after the expiration of the sixty-day period.\nIn American National Insurance Company v. Otis, 122 Ark. 219, the policy provided that, in case death occurred from any cause within five weeks from the date of the reinstatement of. a policy, the company should not be liable, and it was held- that, under the express terms of the policy, the .company was not liable where the insured died within less than five weeks after the policy was reinstated. See also Metropolitan Life Ins. Co. v. Fitzgerald, 137 Ark. 366.\nInasmuch as the undisputed evidence shows that the insured had tuberculosis at the time he applied for the policy, and it was issued, and that he died from that disease a short time after the policy was issued, under the express terms of the policy the insurance company was not liable, and the circuit court erred in not directing a verdict for it.\nFor that error the judgment will be reversed, and, inasmuch as it seems to have been fully developed, the cause will be dismissed.",
+        "type": "majority",
+        "author": "Hart, J.,"
+      }
+    ],
+    "attorneys": [
+      "Carmichael & Hendricks, for appellant."
+    ],
+    "corrections": "",
+    "head_matter": "National Life Insurance Company of U. S. A. v. Jackson.\nOpinion delivered December 24, 1923.\n1. Insurance' \u2014 construction ' of policies. \u2014 Policies of insurance must be interpreted according to the plain import of the language used in them, where there is no ambiguity in them.\n2. Insurance \u2014 death by pre-existing disease \u2014 liability.\u2014Under a policy of life insurance which stipulated that no liability is assumed by the company for any accident, illness or disease occurring or contracted prior to the date thereof, no liability was incurred where insured died from tuberculosis contracted prior to the issuance of the policy, even though the company\u2019s agent who delivered the policy at the time knew that insured had tuberculosis.\nAppeal from Pulaski Circuit Court, Second Division; B. M. Mann, Judge;\nreversed.\nSTATEMENT OE EACTS.\nAdeline Jackson brought this suit in the municipal court of Pulaski County, Arkansas, against 'the National Life Insurance Company of U. S. A., to recover $72 alleged to be due her on a life insurance policy issued in her favor on the life of her son.\nShe recovered judgment in the municipal court, and the insurance company appealed to the circuit court. The ease was tried there upon substantially the following testimony:\nAccording to the testimony of Adeline Jackson, she was the mother of Leonard Spencer. She,did not know that he had applied for the policy until after' he had done so. She then, at the instance of her son, gave the agent of the insurance company money with which to pay for the policy. When the policy was applied for, it was easy to tell that the boy was sick. He was in the room when the agent of the insurance company came for the money, and was just as poor as he could be. She notified the company of the death of her son within the period of time prescribed by the policy.\nOn cross-examination she stated that the boy had been sick with consumption since February preceding the issuance of the policy.\nThe application for the policy was made on the 18th day of April, 1922. In it the applicant stated that he had never had tuberculosis. The policy bears the date of May 15, 1922, and the insured died on the 16th day of June, 1922, of tuberculosis.\nOne of the conditions of the policy is as. follows: \u201cNo liability is assumed by the company for any accident, illness, or disease occurring or contracted prior to the date hereof, or any death arising therefrom.\u201d\nThe insured died at the Pulaski County Hospital, and the superintendent of that hospital, who is a physician, testified that the insured was received in the hospital three days before he died, and that he died of tuberculosis. He testified further that the physical condition of the insured indicated that he had had tuberculosis for some time.\nOn the part of the insurance company -the agent testified that he did not know that the insured had tuberculosis at the time he applied for the policy or at the time the policy was delivered to him. He testified further that, if he had known-that the insured had tuberculosis, he would not have taken his application, and that there was nothing in ljs physical appearance to indicate that he had tuberculosis. The witness denied that the mother of the insured had told him that her son was sick at the time the policy was issued to him. The insured was five feet eight inches high and weighed 120 pounds at the time he applied for the policy. He was twenty-one years of age, and his mother was named as beneficiary in the policy'.\nThe jury returned a verdict in favor of the plaintiff, and from the judgment rendered the defendant has duly prosecuted an appeal to this court.\nCarmichael & Hendricks, for appellant.\n1. There was and is no liability on the part of appellant. It was conclusively shown that deceased had tuberculosis at the time the policy was written, and several months prior thereto. The provision that the insurer should not be liable for any illness or disease contracted prior to the date of the policy, or for death arising therefrom, was of the essence of the contract, and could not be waived by a 'soliciting agent. 104 Ark. 538; 122 Ark. 219, 223; Id. 468; 138 Ark. 442; 137 Ark. 366; 143 Ark. 369.\n2. It was error on the part of the court, in instructing the jury to the effect that, in the answer by deceased in his application that he had not had tuberculosis (among other diseases named), this answer was a warranty, to qualify that instruction so as to permit a recovery if the \u25a0 jury found that the agent of the insurance company knew he had tuberculosis at tbe time tbe policy was delivered. 94 So. 375; 172 Pac. 486; 73 Ore. 278; 76 S. W. 811."
+  },
+  "file_name": "0597-01",
+  "first_page_order": 625,
+  "last_page_order": 629
+}

@@ -1,0 +1,103 @@
+{
+  "id": 1428210,
+  "name": "State ex rel. Arkansas Construction Commission v. Toler",
+  "name_abbreviation": "State ex rel. Arkansas Construction Commission v. Toler",
+  "decision_date": "1934-03-19",
+  "docket_number": "4-3454",
+  "first_page": "1082",
+  "last_page": "1082",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "188 Ark. 1082"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [
+    {
+      "cite": "63 S. W. (2d) 993",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "187 Ark. 1055",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1432001
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/187/1055-01"
+      ]
+    },
+    {
+      "cite": "54 S. W. (2d) 283",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "186 Ark. 477",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        8722965
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/186/0477-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 121,
+    "char_count": 1049,
+    "ocr_confidence": 0.5,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.05372050648512713
+    },
+    "sha256": "e0157c68206ec69eab6b58e33289cd0ac596e8ae2388e0e92ee34db918154e85",
+    "simhash": "1:62dbfd43430dc240",
+    "word_count": 178
+  },
+  "last_updated": "2024-02-27T23:51:14.545434+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "State ex rel. Arkansas Construction Commission v. Toler."
+    ],
+    "opinions": [
+      {
+        "text": "Smith, J.\nPetitioner prays the issuance of a writ prohibiting the circuit court of Saline County from hearing and adjudging a suit wherein the Arkansas Construction Commission was garnished by a plaintiff who sought to enforce a demand against his debtor who had been employed by the Construction Commission in the discharge of the duties conferred upon it by act 180 of the Acts of 1929, page 884. By this act a commission was created for the purpose of constructing and equipping a State Hospital for Nervous Diseases and a Tuberculosis Sanitarium.\nThe case of Bull v. Ziegler, 186 Ark. 477, 54 S. W. (2d) 283, is decisive of the question that such agencies of the State are not subject to garnishment. See also Watson v. Dodge, 187 Ark. 1055, 63 S. W. (2d) 993.\nThe writ will be awarded as prayed prohibiting further proceedings in that suit.",
+        "type": "majority",
+        "author": "Smith, J."
+      }
+    ],
+    "attorneys": [
+      "Hal L. Norwood, Attorney General, and Pat Mehaffy, Assistant, for appellant.",
+      "J. B. Milham, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "State ex rel. Arkansas Construction Commission v. Toler.\n4-3454\nOpinion delivered March 19, 1934.\nHal L. Norwood, Attorney General, and Pat Mehaffy, Assistant, for appellant.\nJ. B. Milham, for appellee."
+  },
+  "file_name": "1082-01",
+  "first_page_order": 1100,
+  "last_page_order": 1100
+}

@@ -1,0 +1,85 @@
+{
+  "id": 1432002,
+  "name": "Illinois Standard Mortgage Corporation v. Collins",
+  "name_abbreviation": "Illinois Standard Mortgage Corp. v. Collins",
+  "decision_date": "1933-10-02",
+  "docket_number": "4-3095",
+  "first_page": "902",
+  "last_page": "907",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "187 Ark. 902"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [
+    {
+      "cite": "1 S. W. 547",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "47 Ark. 301",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1888765
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/47/0301-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 281,
+    "char_count": 4168,
+    "ocr_confidence": 0.494,
+    "pagerank": {
+      "raw": 1.9207750643306655e-07,
+      "percentile": 0.732948716315121
+    },
+    "sha256": "d69bd827448fa1971e5a3fd1cfdc9257c7a4fd1f5eb1d4a81c51ce5a87b3f44b",
+    "simhash": "1:d1dcd0653fd7c2f4",
+    "word_count": 685
+  },
+  "last_updated": "2024-02-27T21:18:50.990705+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Illinois Standard Mortgage Corporation v. Collins."
+    ],
+    "opinions": [
+      {
+        "text": "Johnson, C. J.,\n(after stating the facts). We find it unnecessary to discuss the many interesting questions discussed by counsel. The question of estoppel is decisive of all issues here presented. The testimony shows conclusively that at all the times here in controversy E. W. Collins was president of the Homebuilders\u2019 Corporation and an active member of the board of directors of the Young Men\u2019s Building & Loan Association. During the same period of time' G-. G-. Brooks was the secretary of the Young Men\u2019s Building & Loan Association and the Homebuilders\u2019 Corporation, and, in addition thereto, Brooks was the supervising manager of all the business of both corporations. During the same period of time and in the absence of Brooks from the office, Collins had charge of the affairs of both corporations. Collins and Brooks executed the application for the loan which is secured by appellant\u2019s mortgage. In conformity therewith, they jointly executed the mortgage and notes which accompanied it. The proceeds of the loan was remitted by appellant to Collins and- Brooks, and it in turn paid it over to the Homebuilders\u2019 Corporation, and it is fairly inferable that this identical money was paid over by the Homebuilders\u2019 Corporation to the Young Men\u2019s Building & Loan Association. The fact is, we think no other reasonable inference can be drawn from the testimony. It would be inequitable and unjust to permit the Young Men\u2019s Building & Loan Association to take appellant\u2019s money delivered on the faith of a first mortgage, then assert a superior claim and right under a mortgage which would have been released had attention been directed to it. Under the facts and circumstances of this case, we are convinced that the Young Men\u2019s Building & Loan Association received and accepted appellant\u2019s money with the full knowledge and information that appellant thought it was receiving a first mortgage on the property in controversy, and this based upon the solemn representations of Gr. Gr. Brooks, who was then the supervising manager and secretary of the Young Men\u2019s Building & Loan Association, to the effect that appellant\u2019s mortgage was a first mortgage against the property in controversy. Equity holds a person to a representation made or position assumed, where otherwise inequitable consequences would result to another who has, in good faith, relied thereon. Such an estoppel is founded on morality and justice, and especially concerns conscience and equity. It needs neither a consideration nor a legal obligation to support it. See \u00a7 19, vol. 10 R. C. L., p. 689. Again, acceptance of any benefit from a transaction or contract, with knowledge or notice of the facts and rights, would and should create an estoppel. See-\u00a7 22, 10 R. C. L., p. 694. There can be no question in the instant case but that knowledge of Brooks was knowledge to the Young Men\u2019s Building & Loan Association.\nThis court has held that, \u201cif a creditor of a fraudulent grantor, with knowledge of the fraud, accepts from the grantee the purchase price agreed to be paid for the land, he thereby affirms the sale, and waives right to complain of the fraud.\u201d Millington v. Hill, 47 Ark. 301, 1 S. W. 547. This rule has full application to the facts of this case. The Young Men\u2019s Building & Loan Association had full knowledge that an application was being made to appellant for a loan on the property which it now claims adversely and with this knowledge accepted the proceeds of the loan. By doing this, it is estopped in asserting rights under its mortgage of 1925 superior to that of appellant.\nFor the reasons aforesaid, the decree is reversed, and the cause is remanded with directions that the property be sold and the proceeds arising therefrom be disbursed; first, to the costs attending the sale; secondly, to appellant in the aggregate sum due it under its notes and mortgages, and, if any balance remain, same to be paid to the Young Men\u2019s Building & Loan Association.",
+        "type": "majority",
+        "author": "Johnson, C. J.,"
+      }
+    ],
+    "attorneys": [
+      "Roy Penix, Robert S. Keebler and Stickley, Exby, Moriarity & Pierce, for appellant.",
+      "Basil Baker, for appellees."
+    ],
+    "corrections": "",
+    "head_matter": "Illinois Standard Mortgage Corporation v. Collins.\n4-3095\nOpinion delivered October 2, 1933.\nRoy Penix, Robert S. Keebler and Stickley, Exby, Moriarity & Pierce, for appellant.\nBasil Baker, for appellees."
+  },
+  "file_name": "0902-01",
+  "first_page_order": 922,
+  "last_page_order": 927
+}

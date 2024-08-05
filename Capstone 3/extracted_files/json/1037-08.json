@@ -1,0 +1,78 @@
+{
+  "id": 12457144,
+  "name": "State, Respondent, v. Molina, Petitioner",
+  "name_abbreviation": "State v. Molina",
+  "decision_date": "2016-06-29",
+  "docket_number": "No. 92876-2",
+  "first_page": "1037",
+  "last_page": "1037",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "185 Wash. 2d 1037"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Wash.",
+    "id": 9029,
+    "name": "Washington Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 38,
+    "name_long": "Washington",
+    "name": "Wash."
+  },
+  "cites_to": [
+    {
+      "cite": "192 Wn. App. 1018",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        12456163,
+        12456164,
+        12456165,
+        12456166
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/192/1018-01",
+        "/wash-app/192/1018-02",
+        "/wash-app/192/1018-03",
+        "/wash-app/192/1018-04"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 27,
+    "char_count": 188,
+    "ocr_confidence": 0.875,
+    "sha256": "ace5038f52b501b6074cb06cee6dace801e83cf48906983bf785b978e8d837c5",
+    "simhash": "1:c0b95ab755c340b8",
+    "word_count": 31
+  },
+  "last_updated": "2024-02-28T00:06:59.447104+00:00",
+  "provenance": {
+    "date_added": "2019-05-22",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "State, Respondent, v. Molina, Petitioner,"
+    ],
+    "opinions": [
+      {
+        "text": "Petition for review of a decision of the Court of Appeals, No. 73025-8-1, January 19, 2016, 192 Wn. App. 1018. Denied June 29, 2016.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "State, Respondent, v. Molina, Petitioner,\nNo. 92876-2."
+  },
+  "file_name": "1037-08",
+  "first_page_order": 989,
+  "last_page_order": 989
+}

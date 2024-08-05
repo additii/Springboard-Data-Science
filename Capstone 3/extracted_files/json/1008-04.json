@@ -1,0 +1,76 @@
+{
+  "id": 12462809,
+  "name": "Noll et al., Respondents, v. Am. Biltrite, Inc., Defendant, Special Elec. Co., Petitioner",
+  "name_abbreviation": "Noll v. Am. Biltrite, Inc.",
+  "decision_date": "2016-09-28",
+  "docket_number": "No. 91998-4",
+  "first_page": "1008",
+  "last_page": "1008",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "186 Wash. 2d 1008"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Wash.",
+    "id": 9029,
+    "name": "Washington Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 38,
+    "name_long": "Washington",
+    "name": "Wash."
+  },
+  "cites_to": [
+    {
+      "cite": "188 Wn. App. 572",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        4278128
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/188/0572-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 36,
+    "char_count": 240,
+    "ocr_confidence": 0.866,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.25765961644868096
+    },
+    "sha256": "0bee3f11c7e8e8f1c1d55c04fd4db005ffa210f6a2819e29ef59caa7230fddb7",
+    "simhash": "1:81f14ec14ba78e04",
+    "word_count": 39
+  },
+  "last_updated": "2024-02-27T18:43:05.207238+00:00",
+  "provenance": {
+    "date_added": "2019-05-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Noll et al., Respondents, v. Am. Biltrite, Inc., Defendant, Special Elec. Co., Petitioner,"
+    ],
+    "opinions": [
+      {
+        "text": "Petition for review of a decision of the Court of Appeals, No. 71345-1-I, June 29, 2015, 188 Wn. App. 572. Granted. September 28, 2016.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Noll et al., Respondents, v. Am. Biltrite, Inc., Defendant, Special Elec. Co., Petitioner,\nNo. 91998-4."
+  },
+  "file_name": "1008-04",
+  "first_page_order": 994,
+  "last_page_order": 994
+}

@@ -1,0 +1,1000 @@
+{
+  "id": 12462754,
+  "name": "Certification From the United States District Court for the Eastern District of Washington in Travelers Casualty & Surety Company, as Assignee and Subrogee, Plaintiff, v. Washington Trust Bank, Defendant",
+  "name_abbreviation": "Travelers Casualty & Surety Co. v. Washington Trust Bank",
+  "decision_date": "2016-11-03",
+  "docket_number": "No. 92483-0",
+  "first_page": "921",
+  "last_page": "946",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "186 Wash. 2d 921"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Wash.",
+    "id": 9029,
+    "name": "Washington Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 38,
+    "name_long": "Washington",
+    "name": "Wash."
+  },
+  "cites_to": [
+    {
+      "cite": "619 So. 2d 328",
+      "category": "reporters:state_regional",
+      "reporter": "So. 2d",
+      "case_ids": [
+        7467725
+      ],
+      "year": 1993,
+      "pin_cites": [
+        {
+          "parenthetical": "citing cases from numerous jurisdictions in accord"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/so2d/619/0328-01"
+      ]
+    },
+    {
+      "cite": "963 F. Supp. 504",
+      "category": "reporters:federal",
+      "reporter": "F. Supp.",
+      "case_ids": [
+        395737
+      ],
+      "year": 1997,
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp/963/0504-01"
+      ]
+    },
+    {
+      "cite": "570 P.2d 445",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1977,
+      "pin_cites": [
+        {
+          "parenthetical": "stands for same proposition as Seattle-First"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "18 Wn. App. 588",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        471824
+      ],
+      "year": 1977,
+      "pin_cites": [
+        {
+          "parenthetical": "stands for same proposition as Seattle-First"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/18/0588-01"
+      ]
+    },
+    {
+      "cite": "44 F.3d 19",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        7412056
+      ],
+      "year": 1995,
+      "pin_cites": [
+        {
+          "parenthetical": "agent was authorized to receive checks but not to indorse them"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/44/0019-01"
+      ]
+    },
+    {
+      "cite": "100 F.3d 893",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        11941685
+      ],
+      "year": 1996,
+      "pin_cites": [
+        {
+          "parenthetical": "bank liable to payee of check for conversion when it allowed an authorized indorser to deposit the check into his own account; agent did not have that apparent authority"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/100/0893-01"
+      ]
+    },
+    {
+      "cite": "642 N.Y.S.2d 217",
+      "category": "reporters:state",
+      "reporter": "N.Y.S.2d",
+      "case_ids": [
+        700080,
+        700104
+      ],
+      "year": 1996,
+      "pin_cites": [
+        {
+          "parenthetical": "bank liable for checks where no actual, apparent, or implied agency authority existed and it was commercially unreasonable to accept them"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/226/0297-01",
+        "/ad2d/226/0305-01"
+      ]
+    },
+    {
+      "cite": "226 A.D.2d 305",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        700104
+      ],
+      "year": 1996,
+      "pin_cites": [
+        {
+          "parenthetical": "bank liable for checks where no actual, apparent, or implied agency authority existed and it was commercially unreasonable to accept them"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/226/0305-01"
+      ]
+    },
+    {
+      "cite": "587 P.2d 617",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1978,
+      "pin_cites": [
+        {
+          "parenthetical": "finding no agency relationship existed between depository bank and indorser"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "22 Wn. App. 46",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        467043
+      ],
+      "weight": 2,
+      "year": 1978,
+      "pin_cites": [
+        {
+          "page": "55",
+          "parenthetical": "finding no agency relationship existed between depository bank and indorser"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/22/0046-01"
+      ]
+    },
+    {
+      "cite": "251 B.R. 558",
+      "category": "reporters:specialty",
+      "reporter": "B.R.",
+      "case_ids": [
+        11198036
+      ],
+      "year": 2000,
+      "pin_cites": [
+        {
+          "parenthetical": "depository bank was not liable for a missing indorsement where the depositor was an authorized agent of the payee"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/br/251/0558-01"
+      ]
+    },
+    {
+      "cite": "548 P.2d 563",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1976,
+      "opinion_index": 0
+    },
+    {
+      "cite": "15 Wn. App. 238",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        1775994
+      ],
+      "weight": 3,
+      "year": 1976,
+      "pin_cites": [
+        {
+          "page": "241"
+        },
+        {
+          "page": "240-41"
+        },
+        {
+          "page": "238-40"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/15/0238-01"
+      ]
+    },
+    {
+      "cite": "742 N.E.2d 1094",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.2d",
+      "year": 2001,
+      "opinion_index": 0
+    },
+    {
+      "cite": "51 Mass. App. Ct. 35",
+      "category": "reporters:state",
+      "reporter": "Mass. App. Ct.",
+      "case_ids": [
+        132497
+      ],
+      "weight": 3,
+      "year": 2001,
+      "pin_cites": [
+        {
+          "page": "45"
+        },
+        {
+          "page": "50-51"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass-app-ct/51/0035-01"
+      ]
+    },
+    {
+      "cite": "418 F. Supp. 2d 964",
+      "category": "reporters:federal",
+      "reporter": "F. Supp. 2d",
+      "case_ids": [
+        1025764
+      ],
+      "year": 2006,
+      "pin_cites": [
+        {
+          "page": "978"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp-2d/418/0964-01"
+      ]
+    },
+    {
+      "cite": "2009 U.S. Dist. LEXIS 76125",
+      "category": "reporters:specialty_lexis",
+      "reporter": "U.S. Dist. LEXIS",
+      "year": 2009,
+      "pin_cites": [
+        {
+          "parenthetical": "court order"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "2009 WL 2710244",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "year": 2009,
+      "pin_cites": [
+        {
+          "parenthetical": "court order"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "2014 U.S. Dist. LEXIS 25158",
+      "category": "reporters:specialty_lexis",
+      "reporter": "U.S. Dist. LEXIS",
+      "year": 2014,
+      "pin_cites": [
+        {
+          "parenthetical": "court order"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "2014 WL 794141",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "year": 2014,
+      "pin_cites": [
+        {
+          "parenthetical": "court order"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "473 F.3d 672",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        2541233
+      ],
+      "year": 2007,
+      "pin_cites": [
+        {
+          "page": "675-76",
+          "parenthetical": "bank satisfied \"'made available'\" requirement by keeping statements at bank instead of providing them to customer"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/473/0672-01"
+      ]
+    },
+    {
+      "cite": "568 F.3d 1232",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3654305
+      ],
+      "weight": 5,
+      "year": 2009,
+      "pin_cites": [
+        {
+          "page": "1236"
+        },
+        {
+          "page": "1234"
+        },
+        {
+          "page": "1236"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/568/1232-01"
+      ]
+    },
+    {
+      "cite": "Ga. Code Ann. \u00a7 11-4-406",
+      "category": "laws:leg_statute",
+      "reporter": "Ga. Code Ann.",
+      "pin_cites": [
+        {
+          "page": "(c)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "457 F. Supp. 2d 1341",
+      "category": "reporters:federal",
+      "reporter": "F. Supp. 2d",
+      "case_ids": [
+        8450579
+      ],
+      "year": 2006,
+      "pin_cites": [
+        {
+          "parenthetical": "Ga. Code Ann. \u00a7 11-4-406(c), a statute paralleling ours, barred customer's claim despite providing images of only front of checks where customer could obtain copies of front and back of checks"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp-2d/457/1341-01"
+      ]
+    },
+    {
+      "cite": "231 Ill. Dec. 415",
+      "category": "reporters:state",
+      "reporter": "Ill. Dec.",
+      "year": 1998,
+      "pin_cites": [
+        {
+          "parenthetical": "citing other jurisdictions reaching the same conclusion"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "696 N.E.2d 711",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.2d",
+      "year": 1998,
+      "pin_cites": [
+        {
+          "parenthetical": "citing other jurisdictions reaching the same conclusion"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "297 Ill. App. 3d 246",
+      "category": "reporters:state",
+      "reporter": "Ill. App. 3d",
+      "case_ids": [
+        910290
+      ],
+      "year": 1998,
+      "pin_cites": [
+        {
+          "page": "251-52",
+          "parenthetical": "citing other jurisdictions reaching the same conclusion"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ill-app-3d/297/0246-01"
+      ]
+    },
+    {
+      "cite": "201 P.3d 1040",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2009,
+      "opinion_index": 0
+    },
+    {
+      "cite": "148 Wn. App. 739",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        3979687
+      ],
+      "year": 2009,
+      "pin_cites": [
+        {
+          "page": "747-48"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/148/0739-01"
+      ]
+    },
+    {
+      "cite": "274 P. 789",
+      "category": "reporters:state_regional",
+      "reporter": "P.",
+      "weight": 2,
+      "year": 1929,
+      "pin_cites": [
+        {
+          "parenthetical": "contention that money payments were made without authority is a question of fact"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "151 Wash. 46",
+      "category": "reporters:state",
+      "reporter": "Wash.",
+      "case_ids": [
+        816002
+      ],
+      "year": 1929,
+      "pin_cites": [
+        {
+          "page": "50",
+          "parenthetical": "contention that money payments were made without authority is a question of fact"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash/151/0046-01"
+      ]
+    },
+    {
+      "cite": "93 P.3d 930",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2004,
+      "opinion_index": 0
+    },
+    {
+      "cite": "122 Wn. App. 279",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        499810
+      ],
+      "year": 2004,
+      "pin_cites": [
+        {
+          "page": "281"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/122/0279-01"
+      ]
+    },
+    {
+      "cite": "257 P.3d 631",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2011,
+      "pin_cites": [
+        {
+          "parenthetical": "citing O'Brien v. Hafer, 122 Wn. App. 279, 281, 93 P.3d 930 (2004)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "172 Wn.2d 98",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4018163
+      ],
+      "year": 2011,
+      "pin_cites": [
+        {
+          "page": "114",
+          "parenthetical": "citing O'Brien v. Hafer, 122 Wn. App. 279, 281, 93 P.3d 930 (2004)"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/172/0098-01"
+      ]
+    },
+    {
+      "cite": "325 S.E.2d 12",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.2d",
+      "year": 1985,
+      "pin_cites": [
+        {
+          "parenthetical": "existence of authority to sign on behalf of another is a question of fact when reasonable inferences from evidence conflict"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "72 N.C. App. 476",
+      "category": "reporters:state",
+      "reporter": "N.C. App.",
+      "case_ids": [
+        8526965
+      ],
+      "year": 1985,
+      "pin_cites": [
+        {
+          "page": "478-80",
+          "parenthetical": "existence of authority to sign on behalf of another is a question of fact when reasonable inferences from evidence conflict"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nc-app/72/0476-01"
+      ]
+    },
+    {
+      "cite": "138 S.E.2d 442",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.2d",
+      "year": 1964,
+      "opinion_index": 0
+    },
+    {
+      "cite": "110 Ga. App. 319",
+      "category": "reporters:state",
+      "reporter": "Ga. App.",
+      "case_ids": [
+        1609964
+      ],
+      "year": 1964,
+      "pin_cites": [
+        {
+          "page": "321"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ga-app/110/0319-01"
+      ]
+    },
+    {
+      "cite": "738 S.E.2d 173",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.2d",
+      "weight": 3,
+      "year": 2013,
+      "pin_cites": [
+        {
+          "parenthetical": "citing 6B Lary Lawrence, Lawrence's Anderson on the Uniform Commercial Code \u00a7 3-204:8R (3d ed. 2003)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "366 N.C. 464",
+      "category": "reporters:state",
+      "reporter": "N.C.",
+      "case_ids": [
+        4354724
+      ],
+      "year": 2013,
+      "pin_cites": [
+        {
+          "page": "468",
+          "parenthetical": "citing 6B Lary Lawrence, Lawrence's Anderson on the Uniform Commercial Code \u00a7 3-204:8R (3d ed. 2003)"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nc/366/0464-01"
+      ]
+    },
+    {
+      "cite": "394 Md. 270",
+      "category": "reporters:state",
+      "reporter": "Md.",
+      "case_ids": [
+        532115
+      ],
+      "weight": 3,
+      "year": 2006,
+      "pin_cites": [
+        {
+          "page": "284"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/md/394/0270-01"
+      ]
+    },
+    {
+      "cite": "45 P.3d 1068",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "weight": 3,
+      "year": 2002,
+      "opinion_index": 0
+    },
+    {
+      "cite": "146 Wn.2d 291",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        960823
+      ],
+      "year": 2002,
+      "pin_cites": [
+        {
+          "page": "313"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/146/0291-01"
+      ]
+    },
+    {
+      "cite": "101 P.3d 409",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2004,
+      "pin_cites": [
+        {
+          "parenthetical": "citing Jones v. Allstate Ins. Co., 146 Wn.2d 291, 313, 45 P.3d 1068 (2002)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "153 Wn.2d 102",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        875619
+      ],
+      "year": 2004,
+      "pin_cites": [
+        {
+          "parenthetical": "citing Jones v. Allstate Ins. Co., 146 Wn.2d 291, 313, 45 P.3d 1068 (2002)"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/153/0102-01"
+      ]
+    },
+    {
+      "cite": "196 F.3d 1075",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        11558929
+      ],
+      "year": 1999,
+      "pin_cites": [
+        {
+          "page": "1076"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/196/1075-01"
+      ]
+    },
+    {
+      "cite": "193 P.3d 128",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2008,
+      "pin_cites": [
+        {
+          "parenthetical": "plurality opinion"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "165 Wn.2d 200",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        5752020
+      ],
+      "year": 2008,
+      "pin_cites": [
+        {
+          "parenthetical": "plurality opinion"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/165/0200-01"
+      ]
+    },
+    {
+      "cite": "43 P.3d 4",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "weight": 3,
+      "year": 2002,
+      "pin_cites": [
+        {
+          "page": "9-10"
+        },
+        {
+          "page": "11"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "146 Wn.2d 1",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        960829
+      ],
+      "year": 2002,
+      "pin_cites": [
+        {
+          "page": "9"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/146/0001-01"
+      ]
+    },
+    {
+      "cite": "833 P.2d 381",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1992,
+      "opinion_index": 0
+    },
+    {
+      "cite": "119 Wn.2d 504",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1370272
+      ],
+      "year": 1992,
+      "pin_cites": [
+        {
+          "page": "507"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/119/0504-01"
+      ]
+    },
+    {
+      "cite": "68 P.3d 282",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2003,
+      "pin_cites": [
+        {
+          "parenthetical": "citing City of Pasco v. Pub. Emp't Relations Comm'n, 119 Wn.2d 504, 507, 833 P.2d 381 (1992)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "149 Wn.2d 342",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1292581
+      ],
+      "year": 2003,
+      "pin_cites": [
+        {
+          "page": "346",
+          "parenthetical": "citing City of Pasco v. Pub. Emp't Relations Comm'n, 119 Wn.2d 504, 507, 833 P.2d 381 (1992)"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/149/0342-01"
+      ]
+    },
+    {
+      "cite": "231 P.3d 166",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2010,
+      "pin_cites": [
+        {
+          "parenthetical": "citing RCW 2.60.030(2)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "168 Wn.2d 789",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4007761
+      ],
+      "year": 2010,
+      "pin_cites": [
+        {
+          "page": "799",
+          "parenthetical": "citing RCW 2.60.030(2)"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/168/0789-01"
+      ]
+    },
+    {
+      "cite": "870 P.2d 299",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1994,
+      "opinion_index": 0
+    },
+    {
+      "cite": "123 Wn.2d 573",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        812829
+      ],
+      "year": 1994,
+      "pin_cites": [
+        {
+          "page": "578"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/123/0573-01"
+      ]
+    },
+    {
+      "cite": "72 P.3d 151",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2003,
+      "pin_cites": [
+        {
+          "parenthetical": "citing Rivett v. City of Tacoma, 123 Wn.2d 573, 578, 870 P.2d 299 (1994)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "149 Wn.2d 660",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1292600
+      ],
+      "year": 2003,
+      "pin_cites": [
+        {
+          "page": "670",
+          "parenthetical": "citing Rivett v. City of Tacoma, 123 Wn.2d 573, 578, 870 P.2d 299 (1994)"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/149/0660-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1521,
+    "char_count": 42365,
+    "ocr_confidence": 0.893,
+    "pagerank": {
+      "raw": 6.115520425780502e-08,
+      "percentile": 0.38104673284040885
+    },
+    "sha256": "8ed0bf9cd356b38cb91005838c5c6b3ea3d52c525bb28834c2840b6bf1345420",
+    "simhash": "1:a33c8b11a9ae6102",
+    "word_count": 7008
+  },
+  "last_updated": "2024-02-27T18:43:05.207238+00:00",
+  "provenance": {
+    "date_added": "2019-05-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Madsen, C.J., and Johnson, Owens, Fairhurst, Stephens, Wiggins, Gordon McCloud, and Yu, JJ., concur."
+    ],
+    "parties": [
+      "Certification From the United States District Court for the Eastern District of Washington in Travelers Casualty & Surety Company, as Assignee and Subrogee, Plaintiff, v. Washington Trust Bank, Defendant."
+    ],
+    "opinions": [
+      {
+        "text": "Gonz\u00e1lez, J.\n\u00b61 An employee of a nonprofit serving disabled adult clients used her position to embezzle more than half a million dollars held by the nonprofit for its clients. She did this by drawing checks from the nonprofit\u2019s account payable to its clients, signing the back of those checks with her own signature, and cashing them at the nonprofit\u2019s local bank. After the embezzlement was discovered, Travelers Casualty & Surety Company, the nonprofit\u2019s insurance company, made the nonprofit whole. Travelers now seeks contribution from the bank in federal court. By submitting certified questions, that court has asked us to decide, among other things, whether a nonpayee\u2019s signature on the back of a check is an indorsement. We are also asked whether claims based on unauthorized indorsements that are not discovered and reported to a bank within one year of being made available to the customer are time barred. We answer yes to both questions.\nFacts and Procedural History\n\u00b62 Travelers insured Skils\u2019Kin, a nonprofit agency providing services to disabled adult clients in Spokane. Skils\u2019Kin was the representative payee for many of its clients\u2019 Social Security benefits, which were deposited into a single business checking account at Washington Trust Bank (Bank). Skils\u2019Kin wrote checks as representative payee and agent for its clients\u2019 use. Checks were written either to the clients directly or to those who provided services to the clients. Clients and Skils\u2019Kin entered into a \u201c \u2018Financial Service Agreement\u2019 \u201d in which clients \u201c \u2018authorize SKILS KIN staff to act as agent/payee on [their] behalf.\u2019 \u201d Doc. No. 191-1, at 2. Skils\u2019Kin managed the monthly income and living expenses for about 1,000 clients. Shannon Patterson was a Skils\u2019Kin employee who oversaw Skils\u2019Kin\u2019s bank account and was a signatory on the account. Skils\u2019Kin adopted and delivered a corporate resolution to the Bank, authorizing Patterson to open deposit and checking accounts and to indorse checks.\n\u00b63 From 2008 to 2013, Patterson embezzled hundreds of thousands of dollars from Skils\u2019Kin by drawing over 300 checks from Skils\u2019Kin\u2019s account payable to its disabled clients or to third party service providers, signing the back of each check with her own name, cashing the checks at the Bank, and keeping the money. Patterson was not the named payee on any of the checks at issue, and no named payee indorsed the checks to Patterson. Patterson\u2019s bad acts were not discovered until she admitted them in a suicide note.\n\u00b64 The Bank sent Skils\u2019Kin monthly bank statements during Patterson\u2019s embezzlements. These statements included copies of the fronts of the checks that had been cashed at the Bank. The statements did not include copies of the backs of the checks, which would have readily revealed Patterson\u2019s signature. Each statement contained contact information for the bank and listed cleared checks by check number, date, and dollar amount. Skils\u2019Kin\u2019s bookkeeper used these statements to reconcile the accounts. Beginning in 2011, Skils\u2019Kin could access its checking account online at any time to view both the front and backs of checks that cleared its account. The online process required clicking an account to view, clicking a link for the front of the check, clicking a link for the back of the check, closing the check, and repeating as necessary.\n\u00b65 After Patterson\u2019s confession, Travelers covered Skils\u2019-Kin\u2019s losses and sued the Bank for contribution. Travelers alleges that the Bank breached its duty of care as a matter of law by cashing checks to Patterson\u2014who was not the named payee\u2014and that the checks at issue are not \u201cproperly payable\u201d under RCW 62A.4-401(a). Thus, it reasons, the time bar under RCW 62A.4-406(f) does not apply. Washington Trust Bank argues that an oral agreement between the Bank and Patterson allowed tellers to cash the checks signed on the back by Patterson. The parties dispute whether an oral agreement existed. The Bank also contends the \u201cTerms and Conditions\u201d contract for Skils\u2019Kin\u2019s pooled account at Washington Trust Bank gave Patterson authority to indorse checks on behalf of the named payees. Additionally, the Bank argues that Skils\u2019Kin\u2019s corporate resolution allowed Patterson to make an agreement with the Bank and that Skils\u2019Kin clients were unable to personally sign the checks at the bank because they were home-bound, were disruptive, and/or lacked proper identification. As an affirmative defense, the Bank contends RCW 62A.4--406(f) precludes Travelers\u2019 claims as time barred, while Travelers denies that Patterson\u2019s signature qualifies under RCW 62A.4-406(f) and argues the statute does not apply.\n\u00b66 Both the bank and the insurance company filed for summary judgment. Neither prevailed. Sometime afterward, the district court found that the case raised unresolved questions of Washington state law and certified three questions to us, as follows:\nWhen a check (i) is presented for payment, (ii) bears no signature in the name of the payee on the back, and (iii) the drawee/payor bank pays the check over the counter, in cash, to an individual who is not the payee but who is an authorized signer on the account and who signs the back of the check in her own name, is the signature on the back of the check an \u201cunauthorized signature,\u201d \u201calteration,\u201d or \u201cunauthorized in-dorsement\u201d as a matter of law imposing on the customer the notice requirement of RCW 62A.4-406(f)?\nIf the Answer to Question # 1 is \u201cYes\u201d, does providing a bank customer with a listing of the front of the checks and electronic access to images of the front and back of the checks via on-line banking make the \u201cstatement of account\u201d and \u201citems\u201d reasonably available as required by [RCW 62A.]4-406(a)?\nDoes a bank fail to exercise ordinary care as a matter of law if it pays a check to a person other than the payee when the check contains no indorsement in the name of the payee?\nOrder Certifying Local Law Questions to Wash. Supreme Ct., Travelers Cas. & Sur. Co. v. Wash. Tr. Bank, No. CV-13-0409-JLQ, at 9-10 (E.D. Wash. Nov. 10, 2015).\nStandard of Review\n\u00b67 Certified questions present questions of law, and this court reviews them de novo. Parents Involved in Cmty. Schs. v. Seattle Sch. Dist. No. 1, 149 Wn.2d 660, 670, 72 P.3d 151 (2003) (citing Rivett v. City of Tacoma, 123 Wn.2d 573, 578, 870 P.2d 299 (1994)). We consider the legal issues not in the abstract but based on the certified record provided by the federal court. Bradburn v. N. Cent. Reg\u2019l Library Dist., 168 Wn.2d 789, 799, 231 P.3d 166 (2010) (citing RCW 2.60.030(2)).\n\u00b68 We review questions of statutory interpretation de novo. State v. Wentz, 149 Wn.2d 342, 346, 68 P.3d 282 (2003) (citing City of Pasco v. Pub. Emp\u2019t Relations Comm\u2019n, 119 Wn.2d 504, 507, 833 P.2d 381 (1992)). On matters of statutory interpretation, our \u201cfundamental objective is to ascertain and carry out the Legislature\u2019s intent.\u201d Dep\u2019t of Ecology v. Campbell & Gwinn, LLC, 146 Wn.2d 1, 9, 43 P.3d 4 (2002). \u201c[I]f the statute\u2019s meaning is plain on its face, then the court must give effect to that plain meaning as an expression of legislative intent.\u201d Id. at 9-10. A statute\u2019s \u201cmeaning is discerned from all that the Legislature has said in the statute and related statutes which disclose legislative intent about the provision in question.\u201d Id. at 11.\nAnalysis\n\u00b69 We decline to answer the first certified question as written because part of the original question asks us to make factual determinations regarding Patterson\u2019s authority to cash the checks. Instead, we exercise our inherent authority to reformulate question 1 into two questions of law. See Danny v. Laidlaw Transit Servs., Inc., 165 Wn.2d 200, 205 n.1, 193 P.3d 128 (2008) (plurality opinion) (citing Broad v. Mannesmann Anlagenbau AG, 196 F.3d 1075, 1076 (9th Cir. 1999)). First, is the signature of someone other than the named payee an indorsement if that signature is located on the back of a check that is presented for payment, lacks the payee\u2019s signature on the back, and is cashed by a bank? Second, are Travelers\u2019 claims time barred under RCW 62A.4-406(f)? We answer both in the affirmative. We conclude that Patterson\u2019s signature is an indorsement as a matter of law. RCW 62A.3-204(a). But whether Patterson\u2019s signature is \u201cunauthorized\u201d for purposes of the latter half of the first question will depend on whether Patterson had the authority to cash checks as an agent for Skils\u2019Kin\u2019s customers. We recognize that whether Patterson had that authority is disputed and decline to reach that issue.\n\u00b610 Certified question 2 essentially asks us to decide whether the time bar provision of RCW 62A.4-406(f) has been triggered. To enjoy the benefit of RCW 62A.4-406(f)\u2019s time bar on claims, a bank must make a statement of account available to its customer that meets certain statutory requirements. We find as a matter of law that the Bank\u2019s statement of account met those requirements and answer this question in the affirmative.\n\u00b611 Finally, in this case, we answer certified question 3 in the negative. Generally, a bank fails to exercise ordinary care as a matter of law if it cashes a check for a person other than the payee when the check contains no payee\u2019s indorsement. However, whether in fact the bank exercised ordinary care will turn on unresolved factual issues regarding Patterson\u2019s authority to indorse checks on behalf of the named payees, and her agreement, if any, with the bank.\nQuestion 1(A). Is the signature of an authorized signer who is not the named payee an indorsement if that signature is located on the back of a check that is presented for payment, bears no signature in the name of the payee on the back, and is cashed by a bank?\n\u00b612 We answer the reformulated question in the affirmative. Patterson\u2019s signatures constitute indorse-ments under Washington law.\na. Patterson\u2019s signature is an indorsement\n\u00b613 Washington law defines \u201cindorsement\u201d in RCW 62A.3-204(a). The parties in this case urge us to apply different portions of subsection (a)\u2019s definition. Travelers focuses on the first half of subsection (a), arguing a signature must negotiate, restrict payment, or incur indorser\u2019s liability to be an indorsement. Travelers contends that Patterson\u2019s signatures do not meet any of the three alternatives in subsection (a) and are instead receipts that document \u201c \u2018proof of who cashed the check [s].\u2019 \u201d PL Travelers Cas. & Sur. Co. of Am.\u2019s Opening Br. at 33 (Travelers\u2019 Br.). Travelers argues this proves unambiguously that Patterson\u2019s signatures were not indorsements. The Bank emphasizes the last half of subsection (a). The Bank argues that state law presumes a signature on the back of a check is an indorsement.\n\u00b614 RCW 62A.3-204(a) states:\n\u201cIndorsement\u201d means a signature, other than that of a signer as maker, drawer, or acceptor/1 that alone or accompanied by other words is made on an instrument for the purpose of (i) negotiating the instrument, (ii) restricting payment of the instrument, or (iii) incurring indorser\u2019s liability on the instrument, but regardless of the intent of the signer, a signature and its accompanying words is an indorsement unless the accompanying words, terms of the instrument, place of the signature, or other circumstances unambiguously indicate that the signature was made for a purpose other than indorsement.\n\u00b615 Chapter 62A.3 RCW was modeled on the Uniform Commercial Code (UCC) and official comment to the parallel UCC provision, article 3\u2019s \u201cNegotiable Instruments.\u201d \u201cCourts in Washington have relied on the Official Comments to U.C.C.\u201d Bank of Am. NT & SA v. David W. Hubert, PC, 153 Wn.2d 102, 113 n.9, 101 P.3d 409 (2004) (citing Jones v. Allstate Ins. Co., 146 Wn.2d 291, 313, 45 P.3d 1068 (2002)). The comment elaborates that in some cases, an indorsement may serve more than one purpose. The \u201cintent of the signer\u201d may be determined by words accompanying the signature, the place of the signature, or other circumstances. See RCWA 62A.3-204(a) U.C.C. cmt. 1, at 69. As an example, the comment states that if a signature is not qualified and appears in the place normally used for indorse-ments, it may be an indorsement even though the signer intended the signature to be a receipt. Id. \u201cThe general rule is that a signature is an indorsement if the instrument does not indicate an unambiguous intent of the signer not to sign as an indorser.\u201d Id. Put another way, \u201c[a] signature on the back of an instrument is an indorsement unless it says that it is not. If the instrument does not indicate any clear intent on the part of the signer to sign as anything other than an indorser, the signature is an indorsement.\u201d Chi. Title Ins. Co. v. Allfirst Bank, 394 Md. 270, 284, 905 A.2d 366 (2006).\n\u00b616 Washington\u2019s definition of \u201cindorsement\u201d is technical and somewhat counterintuitive\u2014indeed, a Maryland court has described its own identical version of the statute and official comment as \u201csomewhat unnecessarily obtuse.\u201d Id. Webster\u2019s Dictionary\u2019s definition reflects the common understanding of the term. Webster\u2019s defines \u201cindorsement\u201d as (1) the process of \u201csigning] one\u2019s name as payee on the back of (a check) in order to obtain the cash or credit represented on the face\u201d or (2) \u201cinscribing] (one\u2019s signature) on a check, bill, [or] note.\u201d Webster\u2019s Third New International Dictionary 1154, 749 (1993) (noting \u201cindorse\u201d as a variant spelling of \u201cendorse\u201d and defining the terms \u201cendorsement\u201d and \u201cendorse\u201d). Carefully read in context, the meaning of \u201cindorsement\u201d under Washington statutes is plain and controls in this case. If a statute\u2019s meaning is plain on its face, we \u201cmust give effect to that plain meaning as an expression of legislative intent.\u201d Campbell & Gwinn, 146 Wn.2d at 9-10. RCW 62A.3-204(a) does not expressly require the \u201cnamed payee\u201d to sign or indorse the instrument. Instead, the statute essentially provides four alternatives under which a signature may qualify as an indorsement. Under the fourth alternative, any signature operates as an indorsement unless it is unambiguously something else. Additionally, while the UCC does not define \u201cindorsement,\u201d secondary sources suggest any person\u2019s signature could act as an indorsement, not just the payee or holder. For example, Black\u2019s Law Dictionary defines \u201cindorsement\u201d as (1) \u201c[t]he placing of a signature, sometimes with an additional notation, on the back of a negotiable instrument to transfer or guarantee the instrument or to acknowledge payment\u201d or (2) \u201c[t]he signature or notation itself.\u201d Black\u2019s Law Dictionary 893 (10th ed. 2014). Definition (2) supports the conclusion that a signature or notation itself is an indorsement.\n\u00b617 We conclude Patterson\u2019s signatures are indorse-ments as a matter of law. Under a plain reading of RCW 62A.3-204(a) and its UCC official comment, a signature qualifies as an \u201cindorsement\u201d if it meets one of four alternatives: (1) it was made to negotiate the instrument, (2) it was made to restrict payment, (3) it was made to incur signer\u2019s liability, or (4) it was a signature and not unambiguously something other than an indorsement. Patterson\u2019s signatures arguably fit the first alternative and plainly fit the fourth\u2014she signed the top area on the back of checks at issue where an indorsement would normally appear, she presented the checks for payment, and she did nothing that would indicate unambiguously that her signature was anything but an indorsement.\n\u00b618 The UCC exhibits a strong presumption in favor of the legitimacy of indorsements, which protect the transfer of negotiable instruments by giving force to the information presented on the face of the instrument. See In re Foreclosure of Deed of Tr. Executed by Bass, 366 N.C. 464, 468, 738 S.E.2d 173 (2013) (citing 6B Lary Lawrence, Lawrence\u2019s Anderson on the Uniform Commercial Code \u00a7 3-204:8R (3d ed. 2003)). Treating Patterson\u2019s signatures as indorsements aligns with this presumption. Likewise, committing to the jury the factual question of Patterson\u2019s authority to indorse checks promotes uniformity of commercial law, as a multitude of jurisdictions follow this procedural trajectory. See 2 James J. White et al., Uniform Commercial Code \u00a7 19:4 n.8 (6th ed. 2013) (listing cases that have found and not found authorization).\n\u00b619 Travelers argues that Patterson\u2019s signatures were receipts of \u201c \u2018who cashed the check [s],\u2019 \u201d not indorsements. Travelers\u2019 Br. at 33. Accepting this argument would require us to give RCW 62A.3-204 a strained reading. It would also require us to put aside the comment that explains that if an indorsed signature \u201cis not qualified in any way and appears in the place normally used for indorsements, it may be an indorsement even though the signer intended the signature to be a receipt.\u201d RCWA 62A.3-204 U.C.C. cmt. 1, at 69. Patterson signed in the upper area of the checks in the place normally used for indorsements. See, e.g., 5A Ronald A. Anderson & Lary Lawrence, Anderson on the Uniform Commercial Code \u00a7 3-202:47 (3d ed. 1994) (\u201c[o]rdinarily and following the literal meaning of the term, an indorsement is written on the back of the instrument\u201d). Even if Patterson intended her signature to be a receipt, it is still an indorsement for statutory purposes.\n\u00b620 We conclude that the signature of an authorized signer who is not the named payee is an indorsement if that signature is located on the back of a check that is presented for payment, bears no signature in the name of the payee on the back, and is cashed by a bank and answer the first part of the reformulated certified question 1 in the affirmative.\nb. Whether Patterson\u2019s signature is \u201cunauthorized\u201d is a question for the trier of fact\n\u00b621 Because we have determined that Patterson\u2019s signatures are indorsements as a matter of law, we may, but need not, address this issue. However, because the federal district court has certified this question to us, we will address it briefly.\n\u00b622 An \u201cunauthorized signature\u201d is a \u201csignature made without actual, implied, or apparent authority.\u201d RCW 62A.1-201(b)(41). This applies to \u201cindorsements.\u201d RCWA 62A. 1-201 U.C.C. cmt. 43, at 43. UCC comments attached to chapter 62A.3 RCWA explain that the former version of the statute was unclear as to whether an \u201c \u2018unauthorized signature\u2019 \u201d in articles 3 and 4 applied to indorsements. Id. Thus, lawmakers deleted the words \u201cor indorsement\u201d so that references to \u201cunauthorized signature\u201d in RCWA 62A.3-406 and in articles 3 and 4 as a whole \u201cunambiguously refer to any signature.\u201d Id.\n\u00b623 The legislature has directed us to construe the UCC in light of agency law, and learned treatises direct us to resolve questions of authorization under the UCC through agency law principles. RCW 62A.1-103(b); 5A Anderson & Lawrence, supra, \u00a7 3-202:35 (citing U.C.C. \u00a7 1-103). Under agency principles, an indorsement may be made by an agent; it is not necessary that an indorsement be made by the holder personally because it could be written on behalf of the holder. See RCW 62A.3-402 (signature by representative); see also 5A Anderson & Lawrence, supra, \u00a7 3-202:35 (citing Pazol v. Citizens Nat\u2019l Bank of Sandy Springs, 110 Ga. App. 319, 321, 138 S.E.2d 442 (1964)). \u201cCourts have handled authorization determinations on a case by case basis and looked to agency law to determine whether there was actual or apparent authorization.\u201d 2 White et al., supra, at 332-33; see also Summerlin v. Nat\u2019l Serv. Indus., Inc., 72 N.C. App. 476, 478-80, 325 S.E.2d 12 (1985) (existence of authority to sign on behalf of another is a question of fact when reasonable inferences from evidence conflict). Whether an agency relationship exists is generally a question of fact. Unruh v. Cacchiotti, 172 Wn.2d 98, 114, 257 P.3d 631 (2011) (citing O\u2019Brien v. Hafer, 122 Wn. App. 279, 281, 93 P.3d 930 (2004)); see Hudson v. Pac. Truck & Tractor Co., 151 Wash. 46, 50, 274 P. 789 (1929) (contention that money payments were made without authority is a question of fact). The record is unclear on whether Skils\u2019Kin had the authority to authorize Patterson to act as an agent for its clients and, if so, whether it did authorize her to so act, or whether those clients had given her that authority. We decline to reach this portion of the certified question.\nQuestion 1(B). Are claims based on unauthorized indorse-ments that are not discovered and reported to a bank within one year of being made available to the customer time barred under RCW 62A.4-406(f)?\n\u00b624 Assuming without deciding that the indorsements are unauthorized, we must decide whether the RCW 62A.4--406(f) time bar applies to claims made based on unauthorized indorsements. RCW 62A.4-406(f) states:\nWithout regard to care or lack of care of either the customer or the bank, a natural person whose account is primarily for personal, family, or household purposes who does not within one year, and any other customer who does not within sixty days, from the time the statement and items are made available to the customer (subsection (a)) discover and report the customer\u2019s unauthorized signature or any alteration on the face or back of the item or does not within one year from that time discover and report any unauthorized indorsement is precluded from asserting against the bank such unauthorized signature or indorsement or such alteration. If there is a preclusion under this subsection, the payor bank may not recover for breach of warranty under RCW 62A.4-208 with respect to the unauthorized signature or alteration to which the preclusion applies.\n(Emphasis added.)\n\u00b625 The Bank argues that Travelers\u2019 claim is time barred under this statute. Travelers contends that RCW 62A.4-406(f) does not apply because its claim is not based on \u201cunauthorized alterations, indorsements or customer signatures.\u201d Travelers\u2019 Br. at 26. Instead, Travelers contends its claim rests on RCW 62A.4-401(a), which states that \u201c[a] bank may charge against the account of a customer an item that is properly payable from that account even though the charge creates an overdraft. An item is properly payable if it is authorized by the customer and is in accordance with any agreement between the customer and bank.\u201d (Emphasis added.) Travelers contends that the statute creates a requirement that the check be properly payable for it to be paid and that the checks at issue were not properly payable because they were not indorsed by the named payee. Travelers relies on RCW 62A.4-401(a)\u2019s language stating something is properly payable \u201cif it is authorized by the customer and is in accordance with any agreement between the customer and bank.\u201d But this is a section concerning overdrafts, not a statement of the general principles governing payability. Cf. 6C Ronald A. Anderson & Lary Lawrence, Anderson on the Uniform Commercial Code \u00a7 4-401:5 (3d. ed. 2000) (when a bank pays an item that is not properly payable, it may not debit its customer\u2019s account); id. \u00a7 4-401:55 (collecting cases).\n\u00b626 Under the plain language of RCW 62A.4-406(f), the time bar applies to unauthorized indorsements. The adjective \u201cunauthorized\u201d modifies signature, indorsement, and alteration in RCW 62A.4-406(f). Fidelity & Deposit Co. of Maryland v. Dally appears to be the only Washington case that has addressed specifically the one-year time bar in RCW 62A.4-406(f ). 148 Wn. App. 739, 747-48, 201 P.3d 1040 (2009). Other jurisdictions have found that RCW 62A.4-406(f )\u2019s requirement that customers notify banks of unauthorized signatures, alterations, or indorsements is a condition precedent to bringing suit. See Euro Motors, Inc. v. Sw. Fin. Bank & Tr. Co., 297 Ill. App. 3d 246, 251-52, 696 N.E.2d 711, 231 Ill. Dec. 415 (1998) (citing other jurisdictions reaching the same conclusion); 6C Anderson & Lawrence, supra, at 490 (RCW 62A.4-406 relates only to the time for notice and is not a statute of limitations specifying the time within which a suit must be brought).\n\u00b627 Accordingly, we conclude that claims based on unauthorized indorsements that are not discovered and reported to a bank within one year of being made available to the customer are time barred under RCW 62A.4-406(f) and answer the second part of the reformulated certified question 1 in the affirmative.\nQuestion 2. Does a \u201cstatement of account\u201d listing of the front of checks and online access to images of the front and backs of checks make the back of the checks \u201creasonably available\u201d?\n\u00b628 We also answer certified question 2 in the affirmative. The Bank provided sufficient information to Skils\u2019Kin to identify the items paid through monthly statements listing check numbers, amounts, and dates. The statement also provided a telephone number for Skils\u2019Kin to call and request the items that cleared a customer\u2019s account. This is sufficient under RCW 62A.4-406(a), which concerns customer statements of account and states:\nA bank that sends or makes available to a customer a statement of account showing payment of items for the account shall either return or make available to the customer the items paid, copies of the items paid, or provide information in the statement of account sufficient to allow the customer reasonably to identify the items paid. The statement of account provides sufficient information if the item is described by item number, amount, and date of payment. If the bank does not return the items paid or copies of the items paid, it shall provide in the statement of account the telephone number that the customer may call to request an item or copy of an item pursuant to subsection (b)[1 of this section.\n(Emphasis added.)\n\u00b629 The language of RCW 62A.4-406(a) gives a bank multiple ways to satisfy the statute. A bank that makes available a statement of account may return or make available those items to a customer. RCW 62A.4-406(a). Providing a check number, amount, and date of payment is sufficient information under the statute. Id. Moreover, a bank is not required to return items paid, but if it does not, it must provide customers with a telephone number to request paid items. Id.\n\u00b630 Travelers urges this court to hold that the Bank did not make statements \u201creasonably available\u201d because Skils\u2019Kin did not agree to receive electronic copies of its monthly statements and the Bank did not send copies of the backs of the cleared checks. Travelers notes that Skils\u2019Kin\u2019s statement of account did not give instructions on obtaining original or copies of canceled checks.\n\u00b631 We find Travelers\u2019 argument unpersuasive. The Bank satisfied RCW 62A.4-406(a) because it complied with the language of the statute. R provided sufficient information to Skils\u2019Kin to reasonably identify the items paid through monthly statements listing check numbers, amount, and dates. RCW 62A.4-406(a) contains no language requiring a bank to return copies of checks to its customers. See also RCWA 62A.4-406 U.C.C. cmt. 1, at 345 (customer\u2019s duties to timely review and report errors triggered if bank sends a statement of account complying with safe harbor rule without returning the paid items). Nevertheless, the Bank sent copies of the items with images of the fronts of the paid checks and language on the first page directing customers to call a telephone number for assistance. A customer could call that number to request copies of canceled checks.\n\u00b632 Other jurisdictions have held that statements with images of the face of all cleared checks satisfy the notice requirement mirroring RCW 62A.4-406(f). Ownbey Enters., Inc. v. Wachovia Bank, NA, 457 F. Supp. 2d 1341 (N.D. Ga. 2006) (Ga. Code Ann. \u00a7 11-4-406(c), a statute paralleling ours, barred customer\u2019s claim despite providing images of only front of checks where customer could obtain copies of front and back of checks); Redland Co. v. Bank of Am. Corp., 568 F.3d 1232, 1236 (11th Cir. 2009). In Redland, a corporate employee wrote checks payable to a specific company and the employee indorsed the checks, writing the company\u2019s name on the back. 568 F.3d at 1234. The depositing bank sent the corporation monthly account statements, including copies of the fronts of all checks. Id. The United States Court of Appeals for the Eleventh Circuit held statements and copies of check fronts were sufficient to trigger customer\u2019s duty to report. Id. at 1236. However, the court noted that if the customer had the opportunity to review the backs of checks, it was unlikely the customer would have discovered the employee\u2019s scheme because the employee did not use his own name\u2014he signed the specific company\u2019s name. Id. Despite Redland,\u2019s factual differences from this case, it is clear that the language of RCW 62A.4-406(a) sets out the requirements for a satisfactory statement of account. Even if providing the copies of only the front of checks is insufficient standing alone, the Bank\u2019s statement of account still satisfies RCW 62A.4-406(a) because it provided sufficient information (numbers, amount, and dates of cleared checks) and a telephone number for Skils\u2019Kin to call for assistance. If the Bank had provided only the numbers, amount, and dates of the checks plus an assistance telephone number to request copies, it would have minimally satisfied the statute. Here, the Bank exceeded its obligations under the statute by providing Skils\u2019Kin with online banking services that included electronic viewing of the fronts and backs of all cleared checks. See also 2 White et al., supra, at 429 (\u201cWe see no reason why a listing of these checks and the debits to the account together with digital images of checks would not fully satisfy the \u2018statement of account\u2019 requirement in [U.C.C. \u00a7] 4-406(a).\u201d); see also Tatis v. US Bancorp, 473 F.3d 672, 675-76 (6th Cir. 2007) (bank satisfied \u201c\u2018made available\u2019\u201d requirement by keeping statements at bank instead of providing them to customer); Grubaugh v. Cent. Progressive Bank, No. 13-3045, 2014 WL 794141, 2014 U.S. Dist. LEXIS 25158 (E.D. La. Feb. 27, 2014) (court order) (bank satisfied statute because customer could access statements at the bank).\nQuestion 3. Does a bank fail to exercise ordinary care as a matter of law if it pays a check to a person other than the payee when the check contains no indorsement in the name of the payee?\n\u00b633 Generally, a bank fails to exercise ordinary care as a matter of law in paying a check to a person other than a named payee when the check lacks a payee\u2019s indorsement. However, we stress that questions of fact remain as to Patterson\u2019s authorization to act as an agent on behalf of the named payees. Based on the record before us, a trier of fact could find that Patterson was or was not authorized to indorse checks in the name of the payees. Therefore, the resolution of certified question 3 also turns on unresolved factual questions and should not be determined as a matter of law. Determination of this question does not affect the application of RCW 62A.4-406(f), which applies with or \u201c[w]ithout regard to . . . lack of care.\u201d See also 6C Anderson & Lawrence, supra, at 519 (collecting cases). Whether the Bank exercised ordinary care relates to RCW 62A.4-406(d) and (e).\n\u00b634 We stress that what constitutes a proper degree of care for a bank and a depositor is ordinarily a question of fact for the trier of fact. See id. at 446-48. RCW 62A.3-402(a) allows binding signatures on checks made by individuals \u201cacting, or purporting to act, as a representative.\u201d A payee\u2019s authorized agent may sign in that agent\u2019s name or in the payee\u2019s name. RCW 62A.3-402(a) (\u201ceither the name of the represented person or the name of the signerf;] the represented person is bound by the signature\u201d); see Domestic Constr., LLC v. Bank of Am., NA, No. C07-5357BHS, 2009 WL 2710244, 2009 U.S. Dist. LEXIS 76125 (W.D. Wash. Aug. 26, 2009) (court order). If a jury determines Patterson had authority as an agent of the payee\u2019s to indorse the checks at issue, the signatures are binding as a matter of law on the principals/payees under RCW 62A.3-402(a).\n\u00b635 A bank does not exercise ordinary care if it fails to exercise \u201creasonable commercial standards, prevailing in the area in which the person is located, with respect to the business in which the person is engaged.\u201d RCW 62A.3--103(a)(7). Certain \u201cegregious practices by banks\u201d violate reasonable commercial standards as a matter of law. Cont\u2019l Cas. Co. v. Fifth/Third Bank, 418 F. Supp. 2d 964, 978 (N.D. Ohio 2006); Govoni & Sons Constr. Co. v. Mechs. Bank, 51 Mass. App. Ct. 35, 742 N.E.2d 1094 (2001). Examples of a bank\u2019s \u201c \u2018clearly unreasonable conduct\u2019 \u201d are payment of checks with missing indorsements, ignoring a restrictive indorsement, and failure to inquire into the authority to sign of one purporting to be an agent. Govoni & Sons, 51 Mass. App. Ct. at 45 (quoting 1 James J. White & Robert S. Summers, Uniform Commercial Code \u00a7 15-5, at 761-62 (3d ed. 1988)).\n\u00b636 The record in this case does not establish the Bank exercised \u201cclearly unreasonable conduct\u201d and therefore failed to exercise reasonable care as a matter of law. Travelers argues that a bank fails to exercise ordinary care under Washington law when a transaction is \u201c \u2018suspect on its face.\u2019 \u201d Travelers\u2019 Br. at 42 (quoting Bank of W. v. Wes-Con Dev. Co., 15 Wn. App. 238, 241, 548 P.2d 563 (1976)). Bank of West concerns the payment of a check with a forged payee\u2019s indorsement. Bank of W., 15 Wn. App. at 240-41. Unlike here, the parties in Bank of West did not dispute that the signature at issue was an indorsement. See id. at 238-40. Similarly, Travelers\u2019 reliance on Govoni & Sons to argue the Bank acted commercially unreasonable is inapposite. Govoni & Sons concerns missing indorsements. 51 Mass. App. Ct. at 50-51. In the case at hand, the checks cashed by the Bank contained Patterson\u2019s signatures, which constitute indorsements. See supra Question 1(A). Additionally, evidence was presented regarding the Bank\u2019s inquiry into Patterson\u2019s authority.\n\u00b637 Whether a bank exercises ordinary care when it pays a check to a person other than the named payee, when the payee has not indorsed the check, will turn on the facts of the individual case.\nConclusion\n\u00b638 We hold that Patterson\u2019s signatures are indorse-ments under Washington law. Whether she had authority to sign on behalf of the named payees on the checks at issue is properly decided by the trier of fact. In addition, we note that Skils\u2019Kin\u2019s failure to discover and notify the Bank of Patterson\u2019s embezzlement scheme within one year bars Travelers\u2019 claims under RCW 62A.4-406(f).\n\u00b639 We conclude that the Bank satisfied RCW 62A.4--406(a) because it provided sufficient information to Skils\u2019-Kin to reasonably identify the items paid through monthly statements listing check numbers, amounts, and dates; and provided a phone number to call to request items or copies of items paid. See RCW 62A.4-401(a). Sending the fronts of checks satisfies the statute.\n\u00b640 Finally, whether a bank exercises ordinary care when it pays a check to a person other than the payee, when the check lacks that payee\u2019s indorsement, is a factual determination that requires deciding whether the person was an authorized agent of the payee. The parties in this case dispute Patterson\u2019s authority as an agent to indorse checks for the named payees. This is a question for the trier of fact.\nMadsen, C.J., and Johnson, Owens, Fairhurst, Stephens, Wiggins, Gordon McCloud, and Yu, JJ., concur.\nSee Doc. No. 90-3. In relevant part, Skils\u2019Kin\u2019s 2009 corporate resolution states:\n[(B)](4) Any of the persons named below, so long as they act in a representative capacity as agents of this corporation, are authorized to make any and all other contracts, agreements, stipulations and orders which they may deem advisable for the effective exercise of the powers indicated below, from time to time with this Financial Institution, concerning funds deposited in this Financial Institution, moneys borrowed from this Financial Institution or any other business transacted by and between this corporation and this Financial Institution subject to any restrictions stated below.\nId.\nThe resolution also gave each of the named individuals the power to:\n[(C)] (2) Open any deposit or checking account(s) in the name of this corporation.\n... (3) Endorse checks and orders for the payment of money and withdraw funds on deposit with this Financial Institution.\nId.\nA bank may charge against the account of a customer an item that is properly payable from that account even though the charge creates an overdraft. An item is properly payable if it is authorized by the customer and is in accordance with any agreement between the customer and bank.\nRCW 62A.4-401(a).\nWithout regard to care or lack of care of either the customer or the bank, a natural person whose account is primarily for personal, family, or household purposes who does not within one year, and any other customer who does not within sixty days, from the time the statement and items are made available to the customer (subsection (a)) discover and report the customer\u2019s unauthorized signature or any alteration on the face or back of the item or does not within one year from that time discover and report any unauthorized indorsement is precluded from asserting against the bank such unauthorized signature or indorsement or such alteration. If there is a preclusion under this subsection, the payor bank may not recover for breach of warranty under RCW 62A.4-208 with respect to the unauthorized signature or alteration to which the preclusion applies.\nRCW 62A.4-406(f).\nThe \u201cTerms and Conditions\u2019\u2019 state, in part:\nUnless clearly indicated otherwise on the account records, any of you, acting alone, who signs in the space designated for signatures on the signature card may withdraw or transfer all of any part of the account balance at any time. Each of you (until we receive written notice to the contrary) authorizes each other person signing the signature card to indorse any item payable to you or your order for deposit to this account or any other transaction with us.\nDoc. No. 90-1, at 24, 29, 31.\nA check is one type of negotiable instrument. A \u201ccheck\u201d is a draft, or order, that is payable on demand and drawn on a bank. RCW 62A.3-104(f).\nWe do not opine on whether, given our resolution of the certified questions, those factual issues will need to be resolved.\nRCW 62A.3-103 defines \u201cacceptor\u201d as a drawee who has accepted a draft. It does not include the indorsers in this case because the drawee here is the Bank itself.\n\u201cIndorsement\u201d is generally understood to mean writing one\u2019s signature on the back of the commercial paper. See 5A Ronald A. Anderson & Lary Lawrence, Anderson on the Uniform Commercial Code \u00a7\u00a7 3-202:1 to 3-202:33 (3d ed. 1994).\nAuthorization was found in In re McMullen Oil Co., 251 B.R. 558 (Bankr. C.D. Cal. 2000) (depository bank was not liable for a missing indorsement where the depositor was an authorized agent of the payee).\nAuthorization was not found in Seattle-First National Bank v. Pacific National Bank of Washington, 22 Wn. App. 46, 55, 587 P.2d 617 (1978) (finding no agency relationship existed between depository bank and indorser); Gallery Garage Management Corp. v. Chemical Bank, 226 A.D.2d 305, 642 N.Y.S.2d 217 (1996) (bank liable for checks where no actual, apparent, or implied agency authority existed and it was commercially unreasonable to accept them); General American Life Insurance Co. v. AmSouth Bank, 100 F.3d 893 (11th Cir. 1996) (bank liable to payee of check for conversion when it allowed an authorized indorser to deposit the check into his own account; agent did not have that apparent authority); and Kenerson v. FDIC, 44 F.3d 19 (1st Cir. 1995) (agent was authorized to receive checks but not to indorse them).\nAnderson on the Uniform Commercial Code further explains that an indorsement need not be on any particular part of the instrument provided the intention to indorse can be determined or provided the signing is not clearly in some other capacity. See 5A Anderson & Lawrence, supra, \u00a7 3-202:47 (citing U.C.C. \u00a7 3-402, which was adopted by Washington in RCW 62A.3-204 and elaborates on former section 3-402).\nWe note in passing that Travelers does not suggest an alternative statute of limitations or other species of time bar that would apply. We find it unlikely that the UCC would have no time bar on this category of claims.\nOther Washington cases have referenced RCW 62A.4-406 but have not analyzed the time bar. See Seattle-First, 22 Wn. App. 46 (did not address time limitations imposed by RCW 62A.4-406); Parsons Travel, Inc. v. Hoag, 18 Wn. App. 588, 570 P.2d 445 (1977) (stands for same proposition as Seattle-First).\nSee also Brown v. Cash Mgmt. Tr. of Am., 963 F. Supp. 504 (D. Md. 1997); Gerber v. City Nat\u2019l Bank of Fla., 619 So. 2d 328 (Fla. Dist. Ct. App. 1993) (citing cases from numerous jurisdictions in accord).\nRCW 62A.4-406(b) provides:\nIf the items are not returned to the customer, the person retaining the items shall either retain the items or, if the items are destroyed, maintain the capacity to furnish legible copies of the items until the expiration of seven years after receipt of the items. A customer may request an item from the bank that paid the item, and that bank must provide in a reasonable time either the item or, if the item has been destroyed or is not otherwise obtainable, a legible copy of the item. A bank shall provide, upon request and without charge to the customer, at least two items or copies of items with respect to each statement of account sent to the customer. A bank may charge fees for additional items or copies of items in accordance with RCW 30.22.230. Requests for ten items or less shall be processed and completed within ten business days.\n(Reviser\u2019s note omitted.)",
+        "type": "majority",
+        "author": "Gonz\u00e1lez, J."
+      }
+    ],
+    "attorneys": [
+      "Bruce K. Medeiros (of Davidson Bachman Medeiros PLLC) (Mark E. Wilson of Fisher Broyles, of counsel), for plaintiff.",
+      "Leslie R. Weatherhead and Geana M. Van Dessel (o\u00edLee & Hayes PLLC), for defendant.",
+      "Lauren A. Dorsett, Hugh R. McCullough, and Peter J. Mucklestone on behalf of Washington Bankers Association, amicus curiae.",
+      "Amanda N. Martin on behalf of Northwest Consumer Law Center, amicus curiae."
+    ],
+    "corrections": "",
+    "head_matter": "[No. 92483-0.\nArgued September 8, 2016.\nDecided November 3, 2016.\nCertification From the United States District Court for the Eastern District of Washington in Travelers Casualty & Surety Company, as Assignee and Subrogee, Plaintiff, v. Washington Trust Bank, Defendant.\nBruce K. Medeiros (of Davidson Bachman Medeiros PLLC) (Mark E. Wilson of Fisher Broyles, of counsel), for plaintiff.\nLeslie R. Weatherhead and Geana M. Van Dessel (o\u00edLee & Hayes PLLC), for defendant.\nLauren A. Dorsett, Hugh R. McCullough, and Peter J. Mucklestone on behalf of Washington Bankers Association, amicus curiae.\nAmanda N. Martin on behalf of Northwest Consumer Law Center, amicus curiae."
+  },
+  "file_name": "0921-01",
+  "first_page_order": 959,
+  "last_page_order": 984
+}

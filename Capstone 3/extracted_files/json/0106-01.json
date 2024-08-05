@@ -1,0 +1,87 @@
+{
+  "id": 1431979,
+  "name": "St. Louis Southwestern Railway Company v. Cook-Bahlau Feed Manufacturing Company",
+  "name_abbreviation": "St. Louis Southwestern Railway Co.v. Cook-Bahlau Feed Manufacturing Co.",
+  "decision_date": "1933-03-27",
+  "docket_number": "4-2938",
+  "first_page": "106",
+  "last_page": "110",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "187 Ark. 106"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [
+    {
+      "cite": "295 S. W. 705",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "174 Ark. 318",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        8720761
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/174/0318-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 420,
+    "char_count": 8052,
+    "ocr_confidence": 0.521,
+    "pagerank": {
+      "raw": 1.236523951772729e-07,
+      "percentile": 0.6068624078083317
+    },
+    "sha256": "7f62d6796bfdb6df93380654e2e55a82e40e30b699f6b6a1f9e334b957e938f8",
+    "simhash": "1:bcbc1641f23ba5fc",
+    "word_count": 1377
+  },
+  "last_updated": "2024-02-27T21:18:50.990705+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Smith, J., dissents."
+    ],
+    "parties": [
+      "St. Louis Southwestern Railway Company v. Cook-Bahlau Feed Manufacturing Company."
+    ],
+    "opinions": [
+      {
+        "text": "McHaney, J.\nAppellees, Cook-Bahlau Feed Manufacturing Company and \u00c6tna Casualty & Surety Company, will hereinafter be referred to. as principal and surety respectively. August 19, 1926, they executed and delivered to appellant the following bond: \u201cWe undertake that the undersigned principal will, (1) within ten days from date of delivery of each shipment, surrender, duly indorsed, to the St. Louis Southwestern Railway Company the original shipper\u2019s order bill of lading covering such shipment or shipments which may, from time to time, be delivered by said railway company, upon the written order of the principal, stating that the bill of lading for such shipment has been lost or delayed, and also stating the true, value of said shipment or, in case the same is lost, furnish the said railway company satisfactory written evidence of such loss; and, (2) indemnify said St. Louis Southwestern Railway Company, the successors and assigns thereof, and each connecting carrier participating in the transportation of said shipment, against all losses, costs, expenses, attorney\u2019s fees, claims, judgments and demands of whatever kind resulting from, or arising or growing out of, directly or indirectly, such delivery of such shipments, without production and surrender of each said order bills of lading issued therefor, or prior to the payment of any draft accompanying the same or for nonobservance of any provision contained in said bills of lading with reference to delivery. \u2019 \u2019\nThis bond was on a form prepared by appellant, and continued in force and effect until failure of the principal in October, 1930. It was executed pursuant to \u00a7 793, Crawford & Moses\u2019 Digest. The principal was a large grain dealer in Pine Bluff, and received shipments of many cars of grain. Only two cars are involved in this .litigation. Car UP No. 127131 containing oats reached Pine Bluff September 21,1930. Shipper\u2019s order bill of lading with draft attached for $900 drawn on the principal reached Merchants\u2019 & Planters\u2019 Bank, Pine Bluff, September 19, two days before arrival of car, and principal was promptly notified thereof, either on that day or the next. Car MEC No. 5042, also containing oats, arrived September 28, 1930. Shipper\u2019s order bill of lading with draft attached for $1,028.23 reached the same bank September 25, three days before arrival of car, and notice was promptly given. Both cars were delivered to the principal by appellant without the surrender of the bills of lading and without requiring a \u201cwritten order of the principal, stating that the bill of lading for such shipment has been lost or delayed and also stating the true value of said shipment; or, in case same is lost, furnish the said railway company satisfactory written evidence of such loss.\u201d The drafts attached' to .said ladings were not, paid by the principal, and appellant-was required to pay the shippers for such merchandise.' It thereafter brought this action against the principal and the surety to recover on the bond. The principal, being insolvent, defaulted, and judgment was had against it. The surety defended on the ground that the loss sustained was not covered by its bond. The trial court found im-favor of the surety, and entered judgment accordingly.\nWe think the court correctly so held. While the bond is entitled \u201cBlanket Indemnity Bond for Delivery of Shipper\u2019s Order Freight Without Surrender of Original Bill of Lading,\u201d it is not in fact such a bond. By its express terms it' does not purport to indemnify appellant for all shipper\u2019s order freight it might deliver to the principal without surrender of B/L, but only in such .cases as the B/L \u201chas been lost or delayed,\u201d and only then on the written order of the principal so stating and the true value thereof, and, in case of loss, proof thereof satisfactory to appellant. The conditions upon which appellant might deliver shipper\u2019s. order freight to \u2022the principal are plain and unambiguous. The object of both the statute and the bond was to facilitate the delivery of shipper\u2019s order freight where the B/L was lost or delayed. The original act shows this to be the fact, and the bond speaks for itself. The act is entitled: \u201cAn act to permit shippers and consignees of freight * # * to execute bonds to common carriers * * * in order to obtain possession of goods when they are unable to present and deliver the original bills of lading and receipts.\u201d One of the reasons for the act is recited in the second preamble as follows: \u201cWhereas it often happens that the shipper or consignee fails to receive said bill of lading or original receipt, and the goods called for therein cannot be delivered on account of the absence of the original receipts and bills of lading, thus causing delay and injury to the goods.\u201d No doubt the Legislature had in mind the convenience of the shipper or consignee and the perishable nature of the shipment. There would be no reasonable excuse for substituting a bond for the surrender of a B/L, which was not delayed or lost, for, if present to the knowledge of the consignee, all he would have to do would be to pay the holder of the draft and obtain the B/L. The language of the act is broad enough perhaps to authorize the carrier to accept a bond so general in its terms as to cover all deliveries of shipper\u2019s order freight as it might make without surrender of B/L, but it does not require such a bond to be executed. The bond in this case was not such a bond. It was clearly limited to such shipper\u2019s order freight which could not be delivered because of loss or delay of the B/L. In the case now before us the B/L in neither case was lost or delayed, and no written order was made by the principal so stating. Had the principal made such written order and stated that the B/L was either lost or destroyed and otherwise complied with the requirements of the bond, an entirely different case would be before us. It would then be more like the case cited and relied on by appellant \u2014 that of Kansas City S. Ry. Co. v. U. S. F. & G. Co., 174 Ark. 318, 295 S. W. 705. In that case the bond was entirely different from the bond in this case. 'But paragraph numbered 2 of that bond was the basis of the principal defense of the surety, and it read as follows: \u201cThat neither the principal nor its agents nor employees shall request, accept or receive from said railway company the delivery or possession of any freight to which it would not be entitled upon the production and surrender of bills of lading or shipping receipts therefor, and that no delivery of freight on account of this bond will be requested or made where the draft with the bill of lading is then in any bank at point of delivery for collection.\u201d\nThe consignee in that case requested delivery, although the B/L was then in the bank at Fort Smith with draft attached. We held the surety liable. No such state of facts exists in this case. The bond is not so broad and all inclusive. No demand, written or otherwise, was made on appellant for delivery, and no showing that the B/L was either lost or delayed. The parties to this contract are sui juris.- Attorneys for appellant prepared the bond. Courts do not make contracts for the parties, but only construe them. The parties having made this contract in clear and unambiguous language, it is the duty of the court to construe it according to the plain meaning of the language employed, and not to enlarge or extend its terms on any theory of strict construction against appellant because it prepared the bond, or against the surety because it is a paid surety.\nThe bond having clearly named the conditions on which the surety would be liable, appellant must be held to show a breach of such conditions before it can hold the surety liable. Not having done so, the judgment must be affirmed. It is so ordered.\nSmith, J., dissents.",
+        "type": "majority",
+        "author": "McHaney, J."
+      }
+    ],
+    "attorneys": [
+      "Carter, Jones & Turney and Lamb & Adams, for appellant.",
+      "John Sherrill, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "St. Louis Southwestern Railway Company v. Cook-Bahlau Feed Manufacturing Company.\n4-2938\nOpinion delivered March 27, 1933.\nCarter, Jones & Turney and Lamb & Adams, for appellant.\nJohn Sherrill, for appellee."
+  },
+  "file_name": "0106-01",
+  "first_page_order": 124,
+  "last_page_order": 128
+}

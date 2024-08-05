@@ -1,0 +1,115 @@
+{
+  "id": 1373971,
+  "name": "Hays v. State",
+  "name_abbreviation": "Hays v. State",
+  "decision_date": "1925-12-21",
+  "docket_number": "",
+  "first_page": "1173",
+  "last_page": "1177",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "169 Ark. 1173"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [
+    {
+      "cite": "154 Ark. 621",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1361174
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/154/0621-01"
+      ]
+    },
+    {
+      "cite": "154 Ark. 20",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1361184
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/154/0020-01"
+      ]
+    },
+    {
+      "cite": "143 Ark. 523",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1589347
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/143/0523-01"
+      ]
+    },
+    {
+      "cite": "141 Ark. 442",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1593010
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/141/0442-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 368,
+    "char_count": 7263,
+    "ocr_confidence": 0.47,
+    "pagerank": {
+      "raw": 1.6484124187077514e-07,
+      "percentile": 0.6923013658325253
+    },
+    "sha256": "a645e616e92ca44a34106859b822e76d62e4394d188757263ddf75b7c4c1e141",
+    "simhash": "1:37aeb0672f8496ca",
+    "word_count": 1303
+  },
+  "last_updated": "2024-02-28T00:06:49.445516+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Hays v. State."
+    ],
+    "opinions": [
+      {
+        "text": "Hart, J.\nJid Hays prosecutes this appeal to reverse a judgment against him for the statutory crime of carnal abuse.\nThe first assignment of error is that the evidence is not legally sufficient to support the verdict.\nNo useful purpose could be served by setting out the evidence in the record. We deem it sufficient to say that the evidence for the State, if believed by the jury, warranted it in finding that the defendant had sexual intercourse with a girl under the statutory age. Hence this assignment of error is not well taken.\nThe next assignment of error relates to the argument of the special counsel for the State in his closing argument to the jury. On this point we copy from the record the following: \u201cThis girl, who they called the injured party, is now gone. What do the facts show, gentlemen of the jury? That Jid Hays was down in Mexico, and the last time this girl\u2019s sister heard from her she was at El Paso, on the Mexican border. The presumption is that Jid Hays had her carried there. I believe he had her carried down there, ;and that she is somewhere down there now. She may have been thrown in the Rio Grande River. I believe she is down there, and the presumption is that he had her carried down there.\u201d\nCounsel for the defendant object\u00e9d to the argument on the ground that there was no evidence whatever tending to show that the defendant had the girl carried off, and asked the court to instruct the jury not to consider the argument on this point. The court said: \u201cGentlemen of the jury, you remember what the evidence in the case is, and you will try the case according to the evidence of the witnesses.\u201d\nCounsel for the defendant again objected, and the court overruled his objections, and told the special prosecutor to go ahead. The action of the court amounted to an approval of the argument of the special counsel for the State, and, we think, was prejudicial to the rights of the defendant.\nThe defendant was a witness for himself, and testified that he left home and went down into Mexico, and stayed there 18 months because public sentiment was against him. He denied that he knew where the girl with whom he was charged with having sexual intercourse was, or that he knew that she had been away at all. He denied seeing her while he was in Mexico;\nThe sister of the girl with whom the defendant is alleged to have had sexual intercourse testified that she had a letter from her about a year ago from El Paso, Texas.\nAnother witness for the State testified that at one time the defendant asked him to send a money order for $20 to the girl in question to Memphis, Tlenn., and that he did so. This was before the defendant went to Mexico.\nThis testimony was admissible as evidence, which it was the exclusive province of the jury to weigh, and in connection with all the testimony to' determine what degree of weight and credit should be accorded it. The jury was not required to attach any weight or credit to this testimony merely because it had been admitted by the court; but it must determine for itself its credibility and weight in connection with all the circumstances and other testimony in the case. The evidence is not aided by any presumption of the truth of it. The deduction from the facts in the evidence in the whole case was for the jury, and the court, by sanctioning the argument of special counsel for the State, in effect instructed the jury that, under the facts proved, there was a presumption that the defendant had carried the girl in question to El Paso. The special counsel stated further that the girl may have been thrown in the Rio Grande, and that he believed that the defendant had carried her down there, and repeated to the jury that the presumption is that he had carried her down there. From this the jury might infer that there was sufficient proof to show that the defendant had carried the girl to El Paso, and that the burden of proof was upon him to show that he1 had not carried her down there. Now, the 'burden of proof was upon the State to show the guilt of the defendant beyond a reasonable doubt, and presumption of innocence attended him throughout the trial. The girl in question was not present at the trial, and the remarks of .special counsel that, under the circumstances, the \u00abpresumption was that he had carried her away was necessarily prejudicial to the rights of the defendant. There is nothing 'whatever to show that he had anything to do with her going to El Paso.\nAgain special counsel for the State said that the defendant had the money to do it, and that he believed that he did do it. He was again referring to' the fact that the defendant had carried the girl to El Paso.\nThis court has been very careful to guard the rights of accused persons, and counsel for the State is never allowed to state facts which are not evidence for the purpose of securing- a conviction. Counsel for the State not only stated that he believed that the defendant had carried the girl to El Paso, but that the presumption was that he had carried her there.\nAs above stated, the court refused either to reprimand the attorney or to interfere with him in any way in making this kind of an argument. This amounted to an approval of the argument, and constitutes such prejudicial error as calls for a. reversal of the judgment. Doran v. State, 141 Ark. 442; Brown v. State, 143 Ark. 523; Crosby v. State, 154 Ark. 20; and Hughes v. State, 154 Ark. 621.\nThere has been brought to our attention by writ of certiorari an affidavit from special counsel for the State and other persons to the effect' that he did not tell the jury thiat there was a presumption that the defendant carried the girl with whom he is charged to have had sexual intercourse down to El Paso, Texas, or that he believed that he had carried her down there. We cannot consider these affidavits, however. We must be governed by the bill of exceptions which is .signed by \u25a0 the circuit judge trying the case, and which must be taken as the record in .the case. So far as the record discloses, special counsel for the State used the language attributed to him, and we cannot consider his denial that he made the argument.\nIt follows that for the error in allowing the improper argument to go to the jury as indicated in the opinion, the judgment will 'be reversed, and the cause remanded for a new trial.",
+        "type": "majority",
+        "author": "Hart, J."
+      }
+    ],
+    "attorneys": [
+      "T. N. Wilson, Steve Corrigan and Randolph P. Hamby, for appellant.",
+      "H. W. Applegate, Attorney General, and John L. Carter, Assistant, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Hays v. State.\nOpinion delivered December 21, 1925.\n1. Criminal law- \u2014 improper argument op state\u2019s attorney. \u2014 In a prosecution for the statutory crime of carnal abuse, the argument of special counsel for the State that .the prosecutrix was last heard from in a city -on the Mexican \u00a1border, that defendant had been in Mexico, and that the presumption was that'defendant had \u2022 carried her there, was prejudicial error in view of the court\u2019s refusal to reprimand counsel or to interfere 'with - his, argument. \u25a0\n2. Criminal law \u2014 impeaching rill o-p exceptions\u2014 On- appeal the court is governed by the bill of exceptions signed by the trial judge, which .cannot be impaired by affidavits aliunde.\nAppeal from' Clark Circuit Court; James II. Mc-Collum, Judge;\nreversed.\nT. N. Wilson, Steve Corrigan and Randolph P. Hamby, for appellant.\nH. W. Applegate, Attorney General, and John L. Carter, Assistant, for appellee."
+  },
+  "file_name": "1173-01",
+  "first_page_order": 1193,
+  "last_page_order": 1197
+}

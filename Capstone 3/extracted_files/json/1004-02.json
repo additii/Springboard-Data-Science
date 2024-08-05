@@ -1,0 +1,76 @@
+{
+  "id": 12462776,
+  "name": "Garrett Ranches, LLC, Respondent, v. Larry Honn Family, LLC, Petitioner",
+  "name_abbreviation": "Garrett Ranches, LLC v. Larry Honn Family, LLC",
+  "decision_date": "2016-08-31",
+  "docket_number": "No. 93043-1",
+  "first_page": "1004",
+  "last_page": "1004",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "186 Wash. 2d 1004"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Wash.",
+    "id": 9029,
+    "name": "Washington Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 38,
+    "name_long": "Washington",
+    "name": "Wash."
+  },
+  "cites_to": [
+    {
+      "cite": "192 Wn. App. 1048",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        12456274,
+        12456275,
+        12456276
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/192/1048-01",
+        "/wash-app/192/1048-02",
+        "/wash-app/192/1048-03"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 31,
+    "char_count": 224,
+    "ocr_confidence": 0.861,
+    "sha256": "c9eb03f9a82491f41de2319a1a2ec0f5bf1359f52379e4860f73ae823adccd65",
+    "simhash": "1:acd976a0d9474e55",
+    "word_count": 36
+  },
+  "last_updated": "2024-02-27T18:43:05.207238+00:00",
+  "provenance": {
+    "date_added": "2019-05-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Garrett Ranches, LLC, Respondent, v. Larry Honn Family, LLC, Petitioner,"
+    ],
+    "opinions": [
+      {
+        "text": "Petition for review of a decision of the Court of Appeals, No. 33175-0-III, February 25, 2016, 192 Wn. App. 1048. Denied August 31, 2016.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Garrett Ranches, LLC, Respondent, v. Larry Honn Family, LLC, Petitioner,\nNo. 93043-1."
+  },
+  "file_name": "1004-02",
+  "first_page_order": 990,
+  "last_page_order": 990
+}

@@ -1,0 +1,78 @@
+{
+  "id": 12462923,
+  "name": "State, Respondent, v. Saykao, Petitioner",
+  "name_abbreviation": "State v. Saykao",
+  "decision_date": "2016-11-02",
+  "docket_number": "No. 93378-2",
+  "first_page": "1023",
+  "last_page": "1023",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "186 Wash. 2d 1023"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Wash.",
+    "id": 9029,
+    "name": "Washington Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 38,
+    "name_long": "Washington",
+    "name": "Wash."
+  },
+  "cites_to": [
+    {
+      "cite": "194 Wn. App. 1021",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        12451754,
+        12451755,
+        12451756,
+        12451757
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/194/1021-01",
+        "/wash-app/194/1021-02",
+        "/wash-app/194/1021-03",
+        "/wash-app/194/1021-04"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 27,
+    "char_count": 187,
+    "ocr_confidence": 0.874,
+    "sha256": "c17710f8d00a197a8ac394950663c6c24b521104b9e58b93a925b30bdf15f583",
+    "simhash": "1:05990ac7383dd5d5",
+    "word_count": 31
+  },
+  "last_updated": "2024-02-27T18:43:05.207238+00:00",
+  "provenance": {
+    "date_added": "2019-05-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "State, Respondent, v. Saykao, Petitioner,"
+    ],
+    "opinions": [
+      {
+        "text": "Petition for review of a decision of the Court of Appeals, No. 73250-1-I, June 6, 2016, 194 Wn. App. 1021. Denied November 2, 2016.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "State, Respondent, v. Saykao, Petitioner,\nNo. 93378-2."
+  },
+  "file_name": "1023-01",
+  "first_page_order": 1009,
+  "last_page_order": 1009
+}

@@ -1,0 +1,78 @@
+{
+  "id": 12462931,
+  "name": "State, Respondent, v. Severson, Petitioner",
+  "name_abbreviation": "State v. Severson",
+  "decision_date": "2016-11-02",
+  "docket_number": "No. 93400-2",
+  "first_page": "1024",
+  "last_page": "1024",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "186 Wash. 2d 1024"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Wash.",
+    "id": 9029,
+    "name": "Washington Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 38,
+    "name_long": "Washington",
+    "name": "Wash."
+  },
+  "cites_to": [
+    {
+      "cite": "193 Wn. App. 1010",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        12449968,
+        12449969,
+        12449970,
+        12449967
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/193/1010-02",
+        "/wash-app/193/1010-03",
+        "/wash-app/193/1010-04",
+        "/wash-app/193/1010-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 27,
+    "char_count": 192,
+    "ocr_confidence": 0.842,
+    "sha256": "8d782ef0fbc4210f7f91e69b244ffe98020ca9a6e95b21bb29cd184c28fef856",
+    "simhash": "1:049d0eac77ef4d48",
+    "word_count": 31
+  },
+  "last_updated": "2024-02-27T18:43:05.207238+00:00",
+  "provenance": {
+    "date_added": "2019-05-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "State, Respondent, v. Severson, Petitioner,"
+    ],
+    "opinions": [
+      {
+        "text": "Petition for review of a decision of the Court of Appeals, No. 46359-8-II, March 29, 2016, 193 Wn. App. 1010. Denied November 2, 2016.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "State, Respondent, v. Severson, Petitioner,\nNo. 93400-2."
+  },
+  "file_name": "1024-01",
+  "first_page_order": 1010,
+  "last_page_order": 1010
+}

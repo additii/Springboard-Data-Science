@@ -1,0 +1,271 @@
+{
+  "id": 1399914,
+  "name": "Prewett v. Waterworks Improvement District No. 1",
+  "name_abbreviation": "Prewett v. Waterworks Improvement District No. 1",
+  "decision_date": "1928-04-23",
+  "docket_number": "",
+  "first_page": "1166",
+  "last_page": "1170",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "176 Ark. 1166"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [
+    {
+      "cite": "215 S. W. 262",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "140 Ark. 241",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1594459
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/140/0241-01"
+      ]
+    },
+    {
+      "cite": "268 S. W. 38",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "167 Ark. 449",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "267 S. W. 787",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "167 Ark. 264",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1376993
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/167/0264-01"
+      ]
+    },
+    {
+      "cite": "266 S. W. 449",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "166 Ark. 490",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1378610
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/166/0490-01"
+      ]
+    },
+    {
+      "cite": "37 S. W. 574",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "63 Ark. 143",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "79 Ark. 185",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1495619
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/79/0185-01"
+      ]
+    },
+    {
+      "cite": "136 S. W. 974",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "98 Ark. 596",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1316078
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/98/0596-01"
+      ]
+    },
+    {
+      "cite": "280 S. W. 641",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "170 Ark. 371",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "265 S. W. 517",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "166 Ark. 71",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "232 S. W. 583",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "149 Ark. 401",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        8720123
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/149/0401-01"
+      ]
+    },
+    {
+      "cite": "184 S. W. 57",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "122 Ark. 491",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1558162
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/122/0491-01"
+      ]
+    },
+    {
+      "cite": "143 S. W. 575",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "102 Ark. 72",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1354011
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/102/0072-01"
+      ]
+    },
+    {
+      "cite": "292 S. W. 989",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "173 Ark. 523",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        8722456
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/173/0523-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 426,
+    "char_count": 8139,
+    "ocr_confidence": 0.497,
+    "pagerank": {
+      "raw": 2.657388547072347e-07,
+      "percentile": 0.8245890011348151
+    },
+    "sha256": "d5844236893b60d5ef44c8d296b90a048be9ae5fd27021b91878c213589829bb",
+    "simhash": "1:a36b5c517ace91ab",
+    "word_count": 1423
+  },
+  "last_updated": "2024-02-27T16:25:41.435006+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Prewett v. Waterworks Improvement District No. 1."
+    ],
+    "opinions": [
+      {
+        "text": "Kirby, J.\nThis is the second appeal of this case, a .statement of which will be found in Waterworks Improvement Dist. v. Rainwater, 173 Ark. 523, 292 S. W. 989. It was held on the former appeal, tinder the facts proved, that the court should have entered judgment in favor of the improvement district upon the bond oif the depository bank and the sureties thereon for the sum of $4,000, with interest at 4 per cent, as provided in the contract between the bank and the improvement district.\nThe case was reversed and remanded, it being said in the opinion: \u2018 \u2018 The court erred in not rendering a verdict in accordance with the views expressed in this opinion, and the judgment will be reversed, and the cause remanded for further proceedings according to law and not inconsistent with this opinion.\u201d\nOn the remand of the cause the defendants filed an amendment to their answer, setting up that .they became sureties upon the bond on the false representation of A. E. Waters, the president of the bank, that he was also signing said bond as a surety; that the plaintiffs knew their signatures were so procured, and accepted the bond without requiring Waters to sign it as a co-surety, thereby knowingly releasing him from any personal liability on the bond, without the knowledge, consent or acquiescence of the other sureties, and that they were thereby released and absolved from any liability or obligation under the bond.\nAnother amendment alleged that A. E. Waters was the real party at interest in securing the deposit of funds in the bank, of which he owned three-fourths of the stock} that he handled and negotiated all the transactions connected with it, had the bond prepared, and presented to the other sureties, representing that he w'ould sign same as surety and become jointly liable; that their signatures were procured upon such false representation, and they did not know that Waters was not a surety on said bond until the suit was filed. That he agreed with the defendants to become jointly liable, and fraudulently failed to sign the bond; that he was legally jointly bound by his conduct .with the other defendants, if there was any liability incurred by them on the bond, and that Waters .should be made a defendant, and if any judgment was rendered against the other sureties it should be rendered against him as well. Alleged the joint liability of Waters under the circumstances, and prayed that he be made a party defendant, and that the cause be continued until the next term, etc.\nAppellee moved to strike from the files the amended .answers, because any judgment rendered thereon would be inconsistent with the opinion remanding the case, and because the alleged defenses attempted to be set up by the amendments to the answer were known or could have been known to the defendants before the cause was first tried, and because the matters alleged in the amendments stated no defenses to plaintiff\u2019s complaint. Appellees also moved for judgment on the mandate for .the amount, which the court, on the former appeal, held the judgment should have been rendered for.\nThe -court sustained the motion to strike the amendments to the answer, and, appellants refusing to plead further, rendered judgment for $4,187.48, the amount due according to the opinion of the Supreme Court on the first appeal, and from this judgment this appeal is prosecuted.\nAppellants insist that the court erred in striking-out the amendments to their answer, in not granting a new trial, and in rendering a judgment upon the motion against them on the mandate, without the introduction of any further testimony.\nThe direction in the opinion reversed the cause for the error of the lower court in not rendering a judgment in accordance with the views expressed therein, and remanded the cause for further proceeding's according- to law and not inconsistent with the opinion.\nIt is true the general rule in cases at law is, upon reversal, to remahd for a new trial, hut there was no direction specifically made for a new trial upon any or all of the issues involved in this case (Longer v. Carter, 102 Ark. 72, 143 S. W. 575; Morgan Engineering Co. v. Cache River Drain. Dist., 122 Ark. 491, 184 S. W. 57; Deason & Keith v. Rock, 149 Ark. 401, 232 S. W. 583, and the order was. not in fact a remand for a new trial in general, and the appellants were not entitled to inject into the case any new issues as grounds of defense which might have been and were not presented on the first trial. The principal of res judicata extends not only to the questions of fact and of law which were decided in the former trial, but also to the grounds, of recovery and defenses, which might have been, but weire not, presented. Howard-Sevier Road Imp. Dist. No. 1 v. Hunt, 166 Ark. 71, 265 S. W. 517; Newton v. Altheimer, 170 Ark. 371, 280 S. W. 641; Harrod v. St. L. I. M. & S. R. Co., 98 Ark. 596, 136 S. W. 974; Hollingsworth v. McAndrew, 79 Ark. 185; Hill v. Draper, 63 Ark. 143, 37 S. W. 574.\nThe amendments stricken out were not filed by permission of the court anyway, and might have been stricken out on that account. Ark. State Life Ins. Co. v. Allen, 166 Ark. 490, 266 S. W. 449; Meador v. Weathers, 167 Ark. 264, 267 S. W. 787; Temple Cotton Oil Co. v. Davis, 167 Ark. 449, 268 S. W. 38; Road Dist. No. 6 v. Hall, 140 Ark. 241, 215 S. W. 262.\nThe matter alleged in the amendment attempted to be filed to the answer did not constitute a. defense to appellees\u2019 cause of action anyway, and could have been stricken out under the allegations in the third paragraph in the motion to dismiss, which was in effect a general demurrer thereto..\n\u25a0 The appellants, signed the bond, as appears from their signatures thereon, after the bank\u2019s signature, by Waters as president, principal, and each of them must have known in so doing that Waters had not signed as a surety, and their answer admits that they knew this before the first trial. The most they could have expected from his being compelled to become a surety and held liable as such would have been contribution from him for the amount of the judgment recovered against and paid by them as sureties upon the bond upon which he should have become surety if their contention was tenable. This would not reduce their liability to appellee in any degree, and they are not precluded on account of this decision from prosecuting any cause for relief they may have or-may be. entitled to against the said Waters on that account.\nWe find no error in the record, and the judgment is affirmed.",
+        "type": "majority",
+        "author": "Kirby, J."
+      }
+    ],
+    "attorneys": [
+      "Shaver, Shaver & Williams and A. D. DuLaney, for appellant.",
+      "A. P. Steel and Norwood & Alley, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Prewett v. Waterworks Improvement District No. 1.\nOpinion delivered April 23, 1928.\n1. Appeal and error \u2014 remand for new tri\u00e1H. \u2014 The general rule in reversing cases of law is. to remand the case for a new trial.\n2. Appeal and error \u2014 remand for judgment. \u2014 Where an action at law was reversed without directions for trial upon any of the issues involved, the order reversing the case for not rendering judgment in accordance with the views therein expressed and remanding- the case for further proceedings was not a remand for new trial, and appellants were not entitled to make any new issues as grounds of defense which might have- been hut were not presented on the first trial.\n3. Judgment \u2014 res judicata. \u2014 .The principle of res judicata extends , not only to the questions of fact and law, which were decided on the former trial, but also to the grounds of recovery and defenses which might have been but were not presented.\n4. Appeal and error \u2014 pleading\u2014unauthorized .amendments.\u2014 Amendments to the answer filed on remand'of the cause without permission of the court were properly stricken out.\n5. Depositories \u2014 suit on bond \u2014 defense.\u2014In a suit by an improvement district against the sureties on the bond of a bank as depository of the district, it was no defense that the defendants became sureties on the false representation of the hank\u2019s president that he was also signing the bond as surety, which he failed to do.\nAppeal from Little River Court; Seth C. Reynolds, special Judge;\naffirmed.\nShaver, Shaver & Williams and A. D. DuLaney, for appellant.\nA. P. Steel and Norwood & Alley, for appellee."
+  },
+  "file_name": "1166-01",
+  "first_page_order": 1184,
+  "last_page_order": 1188
+}

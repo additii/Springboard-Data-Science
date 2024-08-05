@@ -1,0 +1,78 @@
+{
+  "id": 12462959,
+  "name": "State, Respondent, v. Rife, Petitioner",
+  "name_abbreviation": "State v. Rife",
+  "decision_date": "2016-12-07",
+  "docket_number": "No. 93447-9",
+  "first_page": "1027",
+  "last_page": "1027",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "186 Wash. 2d 1027"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Wash.",
+    "id": 9029,
+    "name": "Washington Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 38,
+    "name_long": "Washington",
+    "name": "Wash."
+  },
+  "cites_to": [
+    {
+      "cite": "194 Wn. App. 1016",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        12451736,
+        12451737,
+        12451734,
+        12451735
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/194/1016-03",
+        "/wash-app/194/1016-04",
+        "/wash-app/194/1016-01",
+        "/wash-app/194/1016-02"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 27,
+    "char_count": 186,
+    "ocr_confidence": 0.856,
+    "sha256": "6a8e01bc19e7c35bdc9cf676ad16ebd1fd0e3fb9e57424d43eb9dacc478c6b07",
+    "simhash": "1:65b05c3731d74c84",
+    "word_count": 31
+  },
+  "last_updated": "2024-02-27T18:43:05.207238+00:00",
+  "provenance": {
+    "date_added": "2019-05-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "State, Respondent, v. Rife, Petitioner,"
+    ],
+    "opinions": [
+      {
+        "text": "Petition for review of a decision of the Court of Appeals, No. 46638-4-II, June 1, 2016, 194 Wn. App. 1016. Denied December 7, 2016.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "State, Respondent, v. Rife, Petitioner,\nNo. 93447-9."
+  },
+  "file_name": "1027-06",
+  "first_page_order": 1013,
+  "last_page_order": 1013
+}

@@ -1,0 +1,599 @@
+{
+  "id": 4356079,
+  "name": "Certification From the United States District Court for the Eastern District of Washington in Kelli Gray, and All Others Similarly Situated, Plaintiffs, v. Suttell & Associates et al., Defendants; Eva Lauber et al., and All Others Similarly Situated, Petitioners, v. Encore Capital Group, Inc., et al., Respondents",
+  "name_abbreviation": "Gray v. Suttell & Associates",
+  "decision_date": "2014-08-28",
+  "docket_number": "No. 88414-5",
+  "first_page": "329",
+  "last_page": "345",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "181 Wash. 2d 329"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Wash.",
+    "id": 9029,
+    "name": "Washington Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 38,
+    "name_long": "Washington",
+    "name": "Wash."
+  },
+  "cites_to": [
+    {
+      "cite": "828 F. Supp. 2d 1212",
+      "category": "reporters:federal",
+      "reporter": "F. Supp. 2d",
+      "case_ids": [
+        3984134
+      ],
+      "year": 2011,
+      "pin_cites": [
+        {
+          "parenthetical": "analyzing RCW 19.16.110 claim first and then turning to RCW 19.16.260 claim"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp-2d/828/1212-01"
+      ]
+    },
+    {
+      "cite": "895 F. Supp. 2d 1097",
+      "category": "reporters:federal",
+      "reporter": "F. Supp. 2d",
+      "case_ids": [
+        4280856
+      ],
+      "year": 2012,
+      "pin_cites": [
+        {
+          "page": "1112-113",
+          "parenthetical": "finding plaintiff's RCW 19.16.110 claim valid but the RCW 19.16.260 claim invalid because no evidence defendant violated RCW 19.16.260 simply by violating RCW 19.16.110"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp-2d/895/1097-01"
+      ]
+    },
+    {
+      "cite": "12 P.3d 144",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2000,
+      "pin_cites": [
+        {
+          "parenthetical": "amendments clarified legislature's view of statute that a recent superior court decision had called into question"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "142 Wn.2d 316",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1361355
+      ],
+      "year": 2000,
+      "pin_cites": [
+        {
+          "page": "324",
+          "parenthetical": "amendments clarified legislature's view of statute that a recent superior court decision had called into question"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/142/0316-01"
+      ]
+    },
+    {
+      "cite": "39 P.3d 984",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2002,
+      "pin_cites": [
+        {
+          "parenthetical": "legislature amended definition after we declined to interpret definition in four consecutive decisions, holding that amended statute resolved ambiguity"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "145 Wn.2d 528",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        314625
+      ],
+      "year": 2002,
+      "pin_cites": [
+        {
+          "page": "536-37",
+          "parenthetical": "legislature amended definition after we declined to interpret definition in four consecutive decisions, holding that amended statute resolved ambiguity"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/145/0528-01"
+      ]
+    },
+    {
+      "cite": "257 P.3d 586",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2011,
+      "opinion_index": 0
+    },
+    {
+      "cite": "171 Wn.2d 736",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4015835
+      ],
+      "year": 2011,
+      "pin_cites": [
+        {
+          "page": "751"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/171/0736-01"
+      ]
+    },
+    {
+      "cite": "557 P.2d 1299",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1976,
+      "opinion_index": 0
+    },
+    {
+      "cite": "87 Wn.2d 922",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1113807
+      ],
+      "year": 1976,
+      "pin_cites": [
+        {
+          "page": "926"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/87/0922-01"
+      ]
+    },
+    {
+      "cite": "228 P.3d 760",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2010,
+      "pin_cites": [
+        {
+          "parenthetical": "citing Johnson v. Morris, 87 Wn.2d 922, 926, 557 P.2d 1299 (1976)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "154 Wn. App. 885",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        5753169
+      ],
+      "weight": 2,
+      "year": 2010,
+      "pin_cites": [
+        {
+          "page": "905",
+          "parenthetical": "citing Johnson v. Morris, 87 Wn.2d 922, 926, 557 P.2d 1299 (1976)"
+        },
+        {
+          "page": "905",
+          "parenthetical": "one indication a new enactment is a clarification is that the original statute was ambiguous"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/154/0885-01"
+      ]
+    },
+    {
+      "cite": "142 P.3d 193",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2006,
+      "pin_cites": [
+        {
+          "parenthetical": "\"or\" is disjunctive unless there is clear legislative intent to the contrary"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "134 Wn. App. 669",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        3514092
+      ],
+      "year": 2006,
+      "pin_cites": [
+        {
+          "page": "682",
+          "parenthetical": "\"or\" is disjunctive unless there is clear legislative intent to the contrary"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/134/0669-01"
+      ]
+    },
+    {
+      "cite": "61 P.3d 1141",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2003,
+      "opinion_index": 0
+    },
+    {
+      "cite": "148 Wn.2d 451",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        609205
+      ],
+      "year": 2003,
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/148/0451-01"
+      ]
+    },
+    {
+      "cite": "300 P.3d 340",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2013,
+      "opinion_index": 0
+    },
+    {
+      "cite": "177 Wn.2d 263",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4131363
+      ],
+      "year": 2013,
+      "pin_cites": [
+        {
+          "page": "269-70"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/177/0263-01"
+      ]
+    },
+    {
+      "cite": "238 P.3d 487",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2010,
+      "opinion_index": 0
+    },
+    {
+      "cite": "169 Wn.2d 571",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4010275
+      ],
+      "year": 2010,
+      "pin_cites": [
+        {
+          "page": "578"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/169/0571-01"
+      ]
+    },
+    {
+      "cite": "273 P.3d 434",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2012,
+      "pin_cites": [
+        {
+          "parenthetical": "citing State v. Bunker, 169 Wn.2d 571, 578, 238 P.3d 487 (2010)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "173 Wn.2d 672",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4020160
+      ],
+      "year": 2012,
+      "pin_cites": [
+        {
+          "page": "689",
+          "parenthetical": "citing State v. Bunker, 169 Wn.2d 571, 578, 238 P.3d 487 (2010)"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/173/0672-01"
+      ]
+    },
+    {
+      "cite": "43 P.3d 4",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2002,
+      "opinion_index": 0
+    },
+    {
+      "cite": "146 Wn.2d 1",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        960829
+      ],
+      "year": 2002,
+      "pin_cites": [
+        {
+          "page": "9-10"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/146/0001-01"
+      ]
+    },
+    {
+      "cite": "239 P.3d 354",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2010,
+      "opinion_index": 0
+    },
+    {
+      "cite": "169 Wn.2d 815",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4010698
+      ],
+      "year": 2010,
+      "pin_cites": [
+        {
+          "page": "820"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/169/0815-01"
+      ]
+    },
+    {
+      "cite": "853 P.2d 444",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1993,
+      "opinion_index": 0
+    },
+    {
+      "cite": "121 Wn.2d 655",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1365803
+      ],
+      "year": 1993,
+      "pin_cites": [
+        {
+          "page": "663"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/121/0655-01"
+      ]
+    },
+    {
+      "cite": "69 P.3d 318",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2003,
+      "opinion_index": 0
+    },
+    {
+      "cite": "149 Wn.2d 444",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1292565
+      ],
+      "year": 2003,
+      "pin_cites": [
+        {
+          "page": "450"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/149/0444-01"
+      ]
+    },
+    {
+      "cite": "281 P.3d 305",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2012,
+      "opinion_index": 0
+    },
+    {
+      "cite": "174 Wn.2d 909",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4021904
+      ],
+      "year": 2012,
+      "pin_cites": [
+        {
+          "page": "914"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/174/0909-01"
+      ]
+    },
+    {
+      "cite": "446 P.2d 347",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1968,
+      "opinion_index": 0
+    },
+    {
+      "cite": "74 Wn.2d 600",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1086644
+      ],
+      "year": 1968,
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/74/0600-01"
+      ]
+    },
+    {
+      "cite": "231 P.3d 166",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "weight": 2,
+      "year": 2010,
+      "opinion_index": 0
+    },
+    {
+      "cite": "168 Wn.2d 789",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4007761
+      ],
+      "year": 2010,
+      "pin_cites": [
+        {
+          "page": "799"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/168/0789-01"
+      ]
+    },
+    {
+      "cite": "803 P.2d 10",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1991,
+      "pin_cites": [
+        {
+          "parenthetical": "violation of WCAA is a per se violation of the WCPA"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "60 Wn. App. 151",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        1719068
+      ],
+      "year": 1991,
+      "pin_cites": [
+        {
+          "page": "155",
+          "parenthetical": "violation of WCAA is a per se violation of the WCPA"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/60/0151-01"
+      ]
+    },
+    {
+      "cite": "15 U.S.C. \u00a7\u00a7 1692",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "weight": 7,
+      "pin_cites": [
+        {
+          "page": "3"
+        }
+      ],
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 1307,
+    "char_count": 29622,
+    "ocr_confidence": 0.744,
+    "pagerank": {
+      "raw": 1.2582011031260124e-07,
+      "percentile": 0.6117762078020765
+    },
+    "sha256": "b070add84fd46ac13c836e8f3aabbc94eb3a3d58e4de53c70012ba5066bf79da",
+    "simhash": "1:1898798154b7a5a9",
+    "word_count": 4686
+  },
+  "last_updated": "2024-02-27T19:47:16.443836+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Certification From the United States District Court for the Eastern District of Washington in Kelli Gray, and All Others Similarly Situated, Plaintiffs, v. Suttell & Associates et al., Defendants. Eva Lauber et al., and All Others Similarly Situated, Petitioners, v. Encore Capital Group, Inc., et al., Respondents."
+    ],
+    "opinions": [
+      {
+        "text": "f 1 In response to questions certified to this court, we hold that debt buyers fall within the definition of \u201ccollection agency\u201d under the Washington Collection Agency Act (WCAA), chapter 19.16 RCW, when they solicit claims for collection. Accordingly, if the court finds that Midland Funding LLC solicited claims, then Midland Funding is a collection agency and it cannot file collection lawsuits without a license.\nWiggins, J.\nISSUES\n\u00b62 The United States District Court for the Eastern District of Washington certified the following questions to us:\n1. Does the definition of \u201ccollection agency\u201d in RCW 19.16-,100(2) include a person who 1) purchases claims that are owed or due or asserted to be owed or due another, 2) undertakes no activity on said delinquent consumer account but rather contracts with an affiliated collection agency to collect the purchased claims, and 3) is the named plaintiff in a subsequent collection lawsuit for said purchased claims?\n2. Can a company, such as Midland Funding, LLC, file lawsuits in the [state of] Washington on delinquent consumer accounts without being licensed as a collection agency as defined by RCW 19.16.100(2)?\nCertification from U.S. Dist. Court for E. Dist. of Wash., No. CV-09-251-EFS, consolidated with No. CV-10-5132-EFS (E.D. Wash. 2013).\nFACTS\n\u00b6[3 This lawsuit involves two consolidated suits: Gray v. Suttell & Associates, No. CV-09-251-EFS (E.D. Wash.), and Lauber v. Encore Capital Group, No. CV-10-5132-EFS (E.D. Wash.). On April 8, 2011, plaintiffs filed an amended complaint, alleging claims under Washington\u2019s Consumer Protection Act (WCPA), chapter 19.86 RCW, and the federal Fair Debt Collection Practices Act (FDCPA), 15 U.S.C. \u00a7\u00a7 1692-1692p. These claims are based in part on plaintiffs\u2019 assertion that Midland Funding\u2019s business arrangements and debt collection processes violated the WCAA. See RCW 19.16.440; Evergreen Collectors v. Holt, 60 Wn. App. 151, 155, 803 P.2d 10 (1991) (violation of WCAA is a per se violation of the WCPA). The following chart illustrates the relationships between Midland Funding and its parent companies.\nEncore Capital Group Inc. (publicly held corporation)\nsi Owns\nMidland Credit Management Inc. (licensed collection agency)\nnL Owns\nMidland Portfolio Services Inc. (owns 100 percent of Midland Funding)\nsi Owns\nMidland Funding LLC (debt buying entity that owns the accounts)\n\u00b64 Midland Funding purchases defaulted receivables, i.e., consumers\u2019 unpaid financial commitments to credit originators such as banks, credit unions, consumer finance companies, commercial retailers, auto finance companies, and telecommunication companies. Midland Funding has no employees and is merely a holding company for the delinquent accounts it purchases.\n\u00b65 Midland Credit Management (MCM) services the defaulted accounts on behalf of Midland Funding. Pursuant to the \u201cServicing Agreement,\u201d MCM decides how to collect on the defaulted accounts purchased by Midland Funding. MCM\u2019s employees manage the collection process and perform the collection acts for these defaulted accounts. MCM is licensed by the State of Washington as a collection agency. To fulfill its servicing duties, MCM contracts directly with Suttell & Associates, a law firm, to file collection lawsuits in Midland Funding\u2019s name. From 2005 to 2010, 1,082 cases were filed in Washington superior courts naming Midland Funding LLC as plaintiff.\n\u00b66 Defendants Midland Funding and Suttell argue that prior to recent amendments to the WCAA, debt buyers did not fall within the definition of \u201ccollection agencies.\u201d Thus, Midland Funding did not need not to obtain a collection agency license. In February 2013, the federal district court certified the above questions to this court.\nI. Overview of Washington\u2019s Collection Agency Act\n\u00b67 Both state and federal law regulate collection agencies. The WCAA, chapter 19.16 RCW, enacted in 1971, requires collection agencies to obtain a license, follow certain internal procedures, and adhere to a code of conduct. Prior to recent amendments, the WCAA defined \u201ccollection agency\u201d as:\n(a) Any person directly or indirectly engaged in soliciting claims for collection, or collecting or attempting to collect claims owed or due or asserted to be owed or due another person;\n(b) Any person who directly or indirectly furnishes or attempts to furnish, sells, or offers to sell forms represented to be a collection system or scheme intended or calculated to be used to collect claims even though the forms direct the debtor to make payment to the creditor and even though the forms may be or are actually used by the creditor himself or herself in his or her own name;\n(c) Any person who in attempting to collect or in collecting his or her own claim uses a fictitious name or any name other than his or her own which would indicate to the debtor that a third person is collecting or attempting to collect such claim.\nFormer RCW 19.16.100(2) (2003) (emphasis added).\n\u00b68 A recent amendment, effective October 1, 2013, adds subsection (d) to this definition:\n(d) Any person or entity that is engaged in the business of purchasing delinquent or charged off claims for collection purposes, whether it collects the claims itself or hires a third party for collection or an attorney for litigation in order to collect such claims.\nLaws op 2013, ch. 148, \u00a7 1 (emphasis added) (codified at RCW 19.16.100(2)(d)).\n\u00b69 The federal FDCPA was enacted in 1977 to combat abusive debt collection practices. 15 U.S.C. \u00a7 1692. Some provisions of the WCAA parallel provisions of the FDCPA, but there are notable differences. For instance, the FDCPA regulates \u201c \u2018debt collector [s]\u2019 \u201d as opposed to \u201ccollection agencies.\u201d 15 U.S.C. \u00a7 1692a(6). Because the FDCPA\u2019s definition of \u201cdebt collectors\u201d differs from the WCAA\u2019s definition of \u201ccollection agency,\u201d we do not find courts\u2019 interpretations of the FDCPA definition instructive in this case.\nII. Overview of Debt Purchasing\n\u00b610 Since the enactment of the WCAA, the debt collection industry has grown and changed to keep up with the increasing amount of consumer delinquent debt. The Federal Trade Commission noted that \u201c \u2018[t]he most significant change in the debt collection business in recent years has been the advent and growth of debt buying.\u2019 \u201d Fed. Trade Comm\u2019n, The Structure and Practices of the Debt Buying Industry 1 (2013) (alteration in original) (quoting Fed. Trade Comm\u2019n, Collecting Consumer Debts: The Challenge of Change 13 n.l (2009)). Although a relatively new industry, by 2007, the debt collection industry employed over 200,000 people and reported annual revenue of $58 billion from consumer collections. Rick Jurgens & Robert J. Hobbs, Nat\u2019l Consumer Law Ctr., The Debt Machine, How The Collection Industry Hounds Consumers and Overwelms Court 5 (2010). A \u201cdebt buyer\u201d is an entity or individual that purchases delinquent or charged-off debts from a creditor, usually for a fraction of the face value of the debt, and then takes some action to collect on those claims. H.B. Rep. on Substitute H.B. 1822, at 2, 63d Leg., Reg. Sess. (Wash. 2013).\n\u00b611 There is growing concern that collection practices employed by debt buyers are harmful to consumers. A legislative staff summary of public testimony in support of the recent amendments reported:\nMany of the worst abuses in the debt collection industry are by debt buyers. Debt buyers purchase mass portfolios of charged off debt for pennies on the dollar, with little evidentiary basis, and get massive default judgments because the consumers have no notice of the lawsuit. Consumers have had to go to great lengths to rectify judgments based on fraudulent or paid-off claims that were sold to debt buyers who did not know they were buying illegitimate claims.\nId. at 3.\n\u00b612 Indeed, up to one-half of all purchased debt is resold several times over, which can make it difficult for the original debtor to recognize the debt because the collector is no longer the original creditor. Fed. Trade Comm\u2019n, Repairing a Broken System: Protecting Consumers in Debt Collection Litigation and Arbitration 5 (2010). Responding to these concerns, the Washington State Legislature amended the WCAA in 2013 to explicitly reach debt buying entities. The issue here is whether the preamended definitions also cover debt buyers.\nANALYSIS\nf 13 Certified questions from federal court are questions of law that we review de novo. Bradburn v. N. Cent. Reg\u2019l Library Dist., 168 Wn.2d 789, 799, 231 P.3d 166 (2010). We consider the legal issues not in the abstract but based on the certified record provided by the federal court. Id. (citing RCW 2.60.030(2)). Once the court has decided to rule on a certified question pursuant to RCW 2.60.020, the ruling is not advisory but resolves actual issues pending in the federal proceeding and will be legal precedent in all future controversies involving the same legal question. In re Elliott, 74 Wn.2d 600, 446 P.2d 347 (1968).\n\u00b614 Here, we hold that debt buyers are collection agencies under the WCAA when they solicit claims for collection. Accordingly, if Midland Funding solicits claims for collection, it is a collection agency and may not file collection lawsuits in Washington without a license. RCW 19.16.110 (no person shall act as a collection agency without first having applied for and obtained a license).\nI. Whether a Debt Purchaser Is a \u201cCollection Agency\u201d Subject to Licensing Requirements under the WCAA\n\u00b615 The first issue is whether debt buyers are \u201ccollection agencies\u201d subject to licensure under the WCAA. The relevant statutory provision defines a \u201ccollection agency\u201d as\n[a]ny person directly or indirectly engaged in soliciting claims for collection, or collecting or attempting to collect claims owed or due or asserted to be owed or due another person.\nRCW 19.16.100(2)(a). We hold this definition is ambiguous, but the most reasonable interpretation is that debt buyers fall within it when they solicit claims for collection. Recent amendments additionally clarify that this interpretation is correct.\nA. The statute is ambiguous\n\u00b616 The purpose of statutory interpretation is \u201cto determine and give effect to the intent of the legislature.\u201d State v. Sweany, 174 Wn.2d 909, 914, 281 P.3d 305 (2012); State v. J.P., 149 Wn.2d 444, 450, 69 P.3d 318 (2003); In re Pers. Restraint of Williams, 121 Wn.2d 655, 663, 853 P.2d 444 (1993). When possible, the court derives legislative intent solely from the plain language enacted by the legislature, considering the text of the provision in question, the context of the statute in which the provision is found, related provisions, and the statutory scheme as a whole. State v. Ervin, 169 Wn.2d 815, 820, 239 P.3d 354 (2010); Dep\u2019t of Ecology v. Campbell & Gwinn, LLC, 146 Wn.2d 1, 9-10, 43 P.3d 4 (2002). We employ traditional rules of grammar to discern plain meaning. State v. Jim, 173 Wn.2d 672, 689, 273 P.3d 434 (2012) (citing State v. Bunker, 169 Wn.2d 571, 578, 238 P.3d 487 (2010)). If the statute remains susceptible to more than one reasonable meaning, it is ambiguous. City of Seattle v. Fuller, 177 Wn.2d 263, 269-70, 300 P.3d 340 (2013).\nf 17 Here, the use of a comma and the disjunctive \u201cor\u201d to separate \u201csoliciting claims for collection\u201d and \u201ccollecting or attempting to collect claims owed or due or asserted to be owed or due another person\u201d strongly suggests that there are two types of collection agencies. See HJS Dev., Inc. v. Pierce County ex rel. Dep\u2019t of Planning & Land Servs., 148 Wn.2d 451, 473 n.95, 61 P.3d 1141 (2003); accord State v. Riofta, 134 Wn. App. 669, 682, 142 P.3d 193 (2006) (\u201cor\u201d is disjunctive unless there is clear legislative intent to the contrary). In addition, the absence of a comma before the qualifying phrase \u201cowed or due or asserted to be owed or due another person\u201d indicates that the phrase refers only to the second type of collection agency. Bunker, 169 Wn.2d at 578 (under the last antecedent rule, a qualifying phrase refers to the last antecedent, but a comma before the qualifying phrase indicates that the phrase applies to all antecedents).\n\u00b618 \u201cSolicit\u201d appears once more in another part of the statute listing prohibited activities applicable to licensees; under RCW 19.16.250, licensees may not attempt to enforce a claim by advertising or threatening to advertise sale of that claim and may not solicit a claim by agreeing to advertise or threaten to advertise sale of that claim. Thus, in both provisions, the two regulated actions are (1) enforcement/collection of a claim and (2) solicitation of a claim.\nf 19 Accordingly, a reasonable reading of the statute is that it defines two types of \u201ccollection agencies\u201d: those that solicit claims for collection and those that collect claims owed to another. Collection agencies that fall within the first category of entities \u2014 entities that solicit claims for collection \u2014 need not collect claims owed to another. Accordingly, we reject defendants\u2019 argument that debt buyers cannot be collection agencies simply because they collect claims they purchase and own, and we hold that debt buyers qualify as collection agencies under the WCAA as long as they solicit claims for collection.\n\u00b620 The statute does not define \u201csolicit.\u201d See RCW 19.16-.100. Webster\u2019s dictionary defines \u201csolicit\u201d as \u201cto endeavor to obtain by asking or pleading.\u201d Webster\u2019s Third New International Dictionary 2169 (2002). In other words, soliciting claims for collection involves conduct aimed at procuring a claim for collection. A passive market participant does not \u201csolicit\u201d claims for collection. There must be some affirmative act on the part of the solicitor. For example, the solicitor could advertise that it is purchasing claims, target individual sellers, enter into contracts with sellers to purchase claims, or perform market-based research to generate lists used to purchase claims. See, e.g., RCW 19.182.010(7) (\u201cdirect solicitation\u201d means \u201cthe process in which the consumer reporting agency compiles or edits for a client a list of consumers who meet specific criteria and provides this list to the client or third party on behalf of the client for use in soliciting those consumers for an offer of a product or service\u201d). By contrast, if a company is formed, sits idle, and never actually solicits or acquires any claims for collection, that company has not solicited claims for collection. Nor has a company solicited claims if it engages in no marketing and merely passively accepts offers.\n\u00b621 Here, it is possible that Midland Funding solicited claims for collection if it affirmatively acted to acquire the claims it collected on. But there are disputes whether Midland Funding is, in fact, a passive debt buyer as opposed to one that solicits claims for collection. It is not our task to make factual findings, only to explain Washington law. Thus, we hold that Midland Funding, a debt buyer, is a \u201ccollection agency\u201d under RCW 19.16.100(2) if the district court finds that Midland Funding solicited claims for collection \u2014 that is, if Midland Funding or its agents took any affirmative steps to obtain claims for collection.\n\u00b622 Regarding the remainder of the definition, there is no dispute that debt buyers like Midland Funding are purchasing \u201cclaims\u201d because Midland Funding purchases portfolios of consumer debt, particularly credit card obligations, arising from agreement or contract. See former RCW 19.16.100(5) (\u201cclaim\u201d is \u201cany obligation for the payment of money or thing of value arising out of any agreement or contract, express or implied\u201d). In addition, Midland Funding solicits claims \u201cfor collection\u201d even if it outsources the collection as long as its purpose for soliciting the claim is collection. None of the statutory exemptions applies to persons who outsource collection. See former RCW 19.16-.100(3)(a)-(f). In sum, debt buyers like Midland Funding fall within the statutory definition of \u201ccollection agency\u201d if they solicit claims for collection. This interpretation gives effect to the overall purpose of the WCAA \u2014 to prohibit unfair or deceptive debt collection practices.\nB. The 2013 amendments to RCW 19.16.100 clarify that debt buyers are \u201ccollection agencies\u201d\n\u00b623 Although we generally presume that a new legislative enactment is an amendment that changes a law, the presumption may be rebutted by clear evidence that the legislature intended an interpretive clarification. State v. Elmore, 154 Wn. App. 885, 905, 228 P.3d 760 (2010) (citing Johnson v. Morris, 87 Wn.2d 922, 926, 557 P.2d 1299 (1976)); see also Roe v. TeleTech Customer Care Mgmt. (Colo.) LLC, 171 Wn.2d 736, 751, 257 P.3d 586 (2011). The new amendment provides that a collection agency includes:\n(d) Any person or entity that is engaged in the business of purchasing delinquent or charged off claims for collection purposes, whether it collects the claims itself or hires a third party for collection or an attorney for litigation in order to collect such claims.\nLaws of 2013, ch. 148, \u00a7 1 (codified at RCW 19.16.100(2)(d)). There are two indications that this amendment is a clarification and not a change in the law.\n\u00b624 First, as discussed, former RCW 19.16.100(2)(a) was ambiguous with respect to whether debt buyers who collect on claims they purchase and own are \u201ccollection agencies.\u201d See Elmore, 154 Wn. App. at 905 (one indication a new enactment is a clarification is that the original statute was ambiguous). There has been no judicial guidance on the issue; no court has addressed whether debt buyers were included in the statutory definition. Indeed, the reason the legislature amended the statute was to make clear that debt buyers are covered. See Final B. Rep. on Substitute H.B. 1822, at 1, 63d Leg., Reg. Sess. (Wash. 2013); H.B. Rep. on Substitute H.B. 1822, at 2-3 (writing that debt buyers were not \u201cspecifically\u201d or \u201ctechnically\u201d covered by the WCAA, suggesting they were implicitly covered). The amended definition does not conflict with the former statute. The legislature has merely clarified a definition that, in application, connoted an ambiguous meaning.\n\u00b625 Second, the legislature amended RCW 19.16.100 following uncertainty as to whether the original enactment encompassed debt buyers. When an amendment is adopted soon after a disagreement regarding the meaning of the law, courts have concluded that the amendment is clarifying. See, e.g., Barstad v. Stewart Title Guar. Co., 145 Wn.2d 528, 536-37, 39 P.3d 984 (2002) (legislature amended definition after we declined to interpret definition in four consecutive decisions, holding that amended statute resolved ambiguity); McGee Guest Home, Inc. v. Dep\u2019t of Soc. & Health Servs., 142 Wn.2d 316, 324, 12 P.3d 144 (2000) (amendments clarified legislature\u2019s view of statute that a recent superior court decision had called into question). Here, for eight years the Board struggled to determine whether debt buyers fell within former RCW 19.16.100(2)(a), ultimately deciding at a meeting in September 2012 that the issue required yet further examination. Just a few months later, H.B. 1822 was introduced in the House of Representatives. H.B. 1822, 63d Leg., Reg. Sess. (Wash. 2013) (first reading on Feb. 11,2013). Thus, the amendment\u2019s aim was to clarify uncertainties that arose from the enforcement of the WCAA.\n\u00b626 To conclude, we hold that the preamended definition of \u201ccollection agency\u201d includes debt buyers who solicit claims for collection. Midland Funding meets this requirement if it sought to purchase delinquent debts for collection. The recent amendment clarifies that debt buyers are collection agencies.\nII. Whether Midland Funding May File Collection Lawsuits in Washington without a License\nf27 The second certified question is whether a company, such as Midland Funding, can file lawsuits in the state of Washington on delinquent consumer accounts without being licensed as a collection agency. We hold that it cannot if it is found to be a \u201ccollection agency\u201d under former RCW 19.16.100(2) because RCW 19.16.110 unambiguously requires persons acting as a collection agency to first obtain a license.\n|28 RCW 19.16.110 provides:\nNo person shall act, assume to act, or advertise as a collection agency or out-of-state collection agency as defined in this chapter, except as authorized by this chapter, without first having applied for and obtained a license from the director.\nAll persons who act as a collection agency under the WCAA must obtain a license under RCW 19.16.110. Here, if the district court finds that Midland Funding is a \u201ccollection agency\u201d then Midland Funding is in violation of RCW 19.16.110. RCW 19.16.110 unambiguously requires any person acting as a collection agency to obtain a license. Midland Funding acts as a collection agency if it solicits claims for collection. See former RCW 19.16.100(2)(a). This section applies whether or not a collection agency files collection lawsuits.\nCONCLUSION\n\u00b629 To conclude, we answer the first certified question yes, the definition of a \u201ccollection agency\u201d\u2019 in RCW 19.16.100 includes debt buyers if the debt buyer solicits claims for collection. We answer the second certified question no, Midland Funding may not file lawsuits in Washington on delinquent consumer accounts without a license if the district court finds that Midl\u00e1nd Funding is a collection agency.\nMadsen, C.J.; C. Johnson, Owens, Fairhurst, Stephens, Gonz\u00e1lez, and Gordon McCloud, JJ; and J.M. Johnson, J. Pro Tem., concur.\n1 The definitions in this section were recently alphabetized pursuant to RCW 1.08.015(2)(k). Laws of 2013, ch. 148, \u00a7\u00a7 1, 3. Accordingly, the definition of \u201ccollection agency\u201d is now under RCW 19.16.100(4). However, this opinion cites to prealphabetized RCW 19.16.100 to ensure consistency with the briefs.\nIn the Gray lawsuit, Kelli Gray failed to pay for an item she ordered from Spiegel Brands Inc. Electronic Case File (EOF) 428, at 1. Midland Funding purchased Gray\u2019s defaulted Spiegel account and assigned the account to its servicer, Midland Credit Management Inc. (MCM), which then turned the account over to Suttell & Associates, a law firm that filed a collection lawsuit against Gray in Spokane County Superior Court. Id. at 1-2. On August 12,2009, Gray filed her lawsuit, alleging that the Midland defendants and Suttell violated the federal Fair Debt Collection Practices Act (FDCPA), 15 U.S.C. \u00a7\u00a7 1692-1692p; Washington\u2019s Consumer Protection Act (WCPA), chapter 19.86 RCW; and the WCAA by serving and filing time-barred lawsuits, requesting unreasonable attorney fees, and acting as a collection agency without a license. ECF at 1-2. On November 10, 2010, plaintiffs Eva Lauber, Dane Scott, Scott Boolen, and Joel Finch filed their putative class action on debt obligations that they failed to pay. Id. The Lauber plaintiffs\u2019 complaint similarly alleges violations of the FDCPA, WCPA, and WCAA based on the filing of affidavits in state court actions, and a license claim. Id. On December 29, 2010, the court consolidated the Lauber and Gray cases. Id.\nNote that MCM, the collection agency, owns the \u201cowner\u201d of the accounts it is collecting.\nThe drafters of the original 1971 bill included \u201cfactoring\u201d agencies under the definition of \u201ccollection agencies.\u201d That language did not survive the Senate Judiciary Committee\u2019s review. See Substitute S.B. 796, at 2, 42d Leg., 1st Ex. Sess. (Wash. Apr. 21,1971) (on file with Washington State archives). Factoring consists of lending money to commercial clients, taking accounts receivable as security, and collecting on those accounts. While factoring is a form of alternative financing to improve working capital, working with a collection agency is an attempt to recover old debt.\nAs of November 2013, American consumers held over $800 billion of revolving, unsecured debt. Consumer Credit - G.19: Current Release: June 2014, Board of Governors of Fed. Res. Sys., http://www.federalreserve.gov/releases/gl9/20140807 (release date Aug. 7, 2014). According to a 2009 government accountability office report, \u201c[approximately 6.6 percent of credit cards were 30 or more days past due in the first quarter of 2009 \u2014 the highest [delinquency] rate in 18 years.\u201d U.S. Gov\u2019t Accountability Office, Credit Cards: Fair Debt Collection Practices Act Could Better Reflect the Evolving Debt Collection Marketplace and Use of Technology 1 (2009), www.gao.gov/new.items/d09748.pdf.\nThe statute also lists entities that are not collection agencies. RCW 19.16-.100(3). However, no provision specifically addresses debt buyers. Ch. 19.16 RCW.\n\u201cSolicit\u201d clearly requires some affirmative conduct, but the statute\u2019s ambiguity arises because parties disputed whether the statute applied to debt buyers who were soliciting/collecting claims they owned, as opposed to third party claims. Indeed, the Collection Agency Board (Board) \u2014 the agency charged with administering the WCAA \u2014 struggled to determine whether debt buyers fall under the statutory definition due to this ambiguity. See RCW 19.16.410. In a July 2004 meeting, the Board adopted an interpretation that debt buyers who collect solely on their own claims and in their own names are not covered by chapter 19.16 RCW. But in a more recent October 2011 board meeting, the Board acknowledged its 2004 decision and asked an assistant attorney general to reexamine whether debt buyers fall under the definition of a \u201ccollection agency\u201d in RCW 19.16.100(2). The assistant attorney general offered no answer but suggested that debt buyers should fall under the department\u2019s regulatory oversight responsibilities. Finally, during a September 2012 meeting, the Board unanimously passed a resolution that the Board should \u201ccontinue to review the issues\u201d and \u201cthat the Board\u2019s current and past minutes are not intended for use as persuasive authority on those issues.\u201d Thus, the enforcing agency struggled to determine whether debt buyers fell within the scope of the definition, ultimately deciding that further research was necessary. This supports the conclusion that the statutory language is ambiguous.\nMidland Funding was formed to purchase claims for collection, has actually purchased claims, and has subsequently filed 7,278 collection lawsuits in Washington between 2005 and 2010. It strains credulity to suggest that Midland Funding acquired 7,278 claims for collection without ever undertaking any steps to solicit claims. In addition, defendant Encore Capital files reports with the United States Securities and Exchange Commission (SEC). Defendants Midland Funding and MCM\u2019s financial and operational information are not separately required but, rather, are subsumed in the disclosures made by Encore Capital to the SEC. Indeed, in its 2010 10-Q filing with the SEC, Encore Capital explains:\nEncore Capital Group, Inc. (\u201cEncore\u201d), through its subsidiaries (collectively, the \u201cCompany\u201d), is a systems-driven purchaser and manager of charged-off consumer receivable portfolios .... The Company purchases receivables based on account-level valuation methods, and employs a suite of proprietary statistical models across the full extent of its operations.... Moreover, the Company has one of the industry\u2019s largest distressed consumer databases, comprised of approximately 20 million consumer accounts.\nECF 128-1, at 5 (Encore Capital Grp. Inc. Quarterly Report (Form 10-Q), at 3 (Aug. 2, 2010)).\nAlthough the SEC filing does not conclusively establish that Midland Funding solicits claims for collection, it has no employees and acts only through employees of other Encore Capital subsidiaries.\nRCW 19.16.260, regarding licensing prerequisites to collection lawsuits, was amended in 2013 to require collections agencies that file lawsuits to collect their own claims to allege and prove that they are licensed. See Laws op 2013, ch. 148, \u00a7 3 (adding \u201cits own claim or\u201d to the provision). Because we can and do decide the case pursuant to RCW 19.16.110, we need not analyze the effect of this amendment. We also note that courts have analyzed claims under RCW 19.16.110 separately from claims under RCW 19.16.260. See Moritz v. Daniel N. Gordon, PC, 895 F. Supp. 2d 1097, 1112-113 (W.D. Wash. 2012) (finding plaintiff\u2019s RCW 19.16.110 claim valid but the RCW 19.16.260 claim invalid because no evidence defendant violated RCW 19.16.260 simply by violating RCW 19.16.110); see Paris v. Steinberg & Steinberg, 828 F. Supp. 2d 1212 (W.D. Wash. 2011) (analyzing RCW 19.16.110 claim first and then turning to RCW 19.16.260 claim).\nWe note that an entity that originates loans and then merely collects on its own claims would not qualify as a \u201ccollection agency\u201d under RCW 19.16.100 and thus would not need to be licensed.\nMidland Funding may also need a license under the WCAA if it is found to be an alter ego of its parent, MCM.",
+        "type": "majority",
+        "author": "Wiggins, J."
+      }
+    ],
+    "attorneys": [
+      "Michael D. Kinkley (of Michael D. Kinkley PS); and Kirk D. Miller (of Kirk D. Miller PS), for petitioners.",
+      "Carl E. Hueber (of Winston & Cashatt); Bradley L. Fisher (of Davis Wright Tremaine LLP); John D. Munding; and Matthew J. Segal (of Pacifica Law Group LLP) (.Richard L. Stone of Hogan Lovell US LLP and Theodore W. Seitz of Dykema Gossett PLLC, of counsel), for respondents.",
+      "Frederick P. Corbit on behalf of Northwest Justice Project, amicus curiae."
+    ],
+    "corrections": "",
+    "head_matter": "[No. 88414-5.\nEn Banc.]\nArgued October 22, 2013.\nDecided August 28, 2014.\nCertification From the United States District Court for the Eastern District of Washington in Kelli Gray, and All Others Similarly Situated, Plaintiffs, v. Suttell & Associates et al., Defendants. Eva Lauber et al., and All Others Similarly Situated, Petitioners, v. Encore Capital Group, Inc., et al., Respondents.\nMichael D. Kinkley (of Michael D. Kinkley PS); and Kirk D. Miller (of Kirk D. Miller PS), for petitioners.\nCarl E. Hueber (of Winston & Cashatt); Bradley L. Fisher (of Davis Wright Tremaine LLP); John D. Munding; and Matthew J. Segal (of Pacifica Law Group LLP) (.Richard L. Stone of Hogan Lovell US LLP and Theodore W. Seitz of Dykema Gossett PLLC, of counsel), for respondents.\nFrederick P. Corbit on behalf of Northwest Justice Project, amicus curiae."
+  },
+  "file_name": "0329-01",
+  "first_page_order": 371,
+  "last_page_order": 387
+}

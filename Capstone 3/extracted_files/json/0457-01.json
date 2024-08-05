@@ -1,0 +1,139 @@
+{
+  "id": 1435172,
+  "name": "Mooney v. Tillery",
+  "name_abbreviation": "Mooney v. Tillery",
+  "decision_date": "1932-03-21",
+  "docket_number": "",
+  "first_page": "457",
+  "last_page": "461",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "185 Ark. 457"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [
+    {
+      "cite": "89 S. W. 550",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "76 Ark. 555",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1501032
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/76/0555-01"
+      ]
+    },
+    {
+      "cite": "18 S. W. 371",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "55 Ark. 384",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1322285
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/55/0384-01"
+      ]
+    },
+    {
+      "cite": "233 S. W. 816",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "150 Ark. 19",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1367848
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/150/0019-01"
+      ]
+    },
+    {
+      "cite": "224 S. W. 989",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "145 Ark. 592",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1586191
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/145/0592-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 432,
+    "char_count": 8378,
+    "ocr_confidence": 0.506,
+    "pagerank": {
+      "raw": 1.0343690289808285e-07,
+      "percentile": 0.5490385732913386
+    },
+    "sha256": "e4e1bb9226b1d7aa2bccd3de70468f5e271ea5c16d9209e045d69f3c5119fdff",
+    "simhash": "1:8b96ff089549c673",
+    "word_count": 1483
+  },
+  "last_updated": "2024-02-27T17:51:09.396208+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Mooney v. Tillery."
+    ],
+    "opinions": [
+      {
+        "text": "Mehaeey, J.\nThe appellant, Ed B. Mooney, was engaged in the general construction business in the city of Hot Springs, and owned and operated a number of automobile trucks and other vehicles. The appellant, Floyd Cockrell, was employed by Mooney as a driver of an automobile truck.\nOn June 28,1931, Floyd Cockrell was driving a truck of E\u2019d B. Mooney, on the Little Bock-Hot -Springs Highway, five or six miles from Hot Springs, and was driving in the direction of the city of Hot Springs.\nW. T. Tillery was driving an automobile in the opposite direction. There was a collision, and Andy Lee Wilson, who was riding with Tillery, was killed, and Tillery\u2019s car was demolished.\nThere was a judgment in favor of Tillery for $350, a judgment in favor of the estate of Andy Lee Wilson for $6,000, and a judgment in favor of J. H. Wilson in his own right, for $1,500'. This appeal is prosecuted to reverse these .judgments.\nThe evidence was in conflict as to whose negligence caused the collision, and the verdict of the jury on that question is conclusive. Appellants do not contend that there was not sufficient evidence to sustain the verdict as to negligence. They contend, however, first, that the evidence is not sufficient to sustain a verdict for $6,000 for the benefit of the estate, on account of the pain and suffering- endured by deceased.\n' ' Appellants concede that there was evidence sufficient to justify a verdict for pain and suffering, but it is contended that the evidence as to pain and suffering- was not sufficient to justify a verdict in the sum of $6,000.\n\u2022 Witnesses testified that Andy Wilson groaned several times, twisted his body and shoulders, and was suffering pain. Some of appellants\u2019 witnesses testified that he was not conscious, but, as conceded by appellants, it was a question for the jury, and their finding- is conclusive as to pain and suffering.\nThe time, however, which he suffered was very short because the evidence showed that he died within thirty minutes or an hour after his injury. Considering- the character of the injury and the short time that he lived after the injury, we have reached the conclusion that $6,000 is excessive,, and that the evidence is not sufficient to sustain a verdict for more than $3,500 for pain and suffering, and the judgment in favor' of the estate for $6,000 is therefore reduced to $3,500.\nIt is next contended that instruction No. 3, given at the request of the appellee, was erroneous. Instruction No. 3 reads as follows: \u201cIf you believe, from a preponderance of the evidence in this case, that the plaintiff, J. H. Wilson, as father and administrator of the estate of Andy Lee Wilson, deceased, and Homer Tillery, are entitled to recover, then, in assessing the damages dne J. H. Wilson, as administrator, yon should take into consideration the conscious pain and suffering endured by the deceased, Andy Wilson, from the time of the collision, or injury, until the time he died, if any such pain and suffering has been shown by the evidence. In assessing the damages due to J. H. Wilson as the father of said Andy Wilson, you should take into consideration the pecuniary loss suffered by the father of the deceased, if any has been shown by the evidence, resulting from the death of the said Andy Wilson. In estimating this loss, it is proper for you to consider the age of the deceased at the time he was killed, the probable duration of his life if he had not been killed, the probable duration of his father\u2019s life, his health, habits, occupation, the value of his services to his father, and the probable value of his services he would have rendered in the future.\u201d\nOne objection to instruction No. 3 was that there was no proof that the deceased, Andy Wilson, contributed any sum to his father, or that he would in the future contribute any sum to his father.\nJ. H. Wilson, father of the deceased, testified that his son helped him in his crop the biggest part of the time. He was 22 years old, and made his home with his father. He helped in the farming, plowing corn, breaking land, chopping cotton, getting wood in the winter time, and things like that. He testified that his son helped support him, and gave him some small sums of money, and bought some clothes'for his mother, and he did not charge anything for the work he did for his father.\nThere was therefore some substantial evidence to support the verdict in favor of the father, and no evidence contradicting it.\nAppellant calls attention to 8 R. C. L., \u00a7 40, p. 477, and that section states the rule to be that any one who is injured in Ms person may recover for loss or diminution of Ms earning capacity, but it is also stated in said section, \u201cnor will recovery by an infant for prospective loss of earnings, after he has reached his majority, be precluded by the fact that he has never earned anything, and that no one can tell with certainty what his future earning capacity will be.\u201d\nOf course, it would be impossible to tell what contributions would be made by a son to his father, but it may be shown to a reasonable certainty what his future contributions would be.\nThe next case to which attention is called by the appellant is Hines v. Johnson, 145 Ark. 592, 224 S. W. 989. We do not think the principles announced in that case have any application to the facts in this case. The court held in that case that, where damages are claimed for the death of a child incapable of earning anything or rendering services of any value, the value of its probable future services to the parent during its minority is a matter of conjecture, and may be determined by the jury without the testimony of witnesses. The court also held in that case that the surviving father was the next of kin, and that he could recover, but that the mother could not, for the loss of the child\u2019s services.\nAppellant also calls attention to the case of Interurban Ry. Co. v. Trainer, 150 Ark. 19, 233 S. W. 816. In that case it was held that the measure of damages to a parent was the pecuniary value of the services during minority, and that, since the parent was entitled to the services of the minor child, the law presumes that the parent has incurred and suffered pecuniary loss and damage in the death of an infant, even before it has arrived at an age to render services of pecuniary value.\nBut this court has held that, where the evidence shows contributions to the parent by the son, and where the evidence would justify the finding of the jury that he would contribute in the future, and that the father had a reasonable expectation of receiving contributions in the future, this evidence would justify recovery. Fordyce v. McCants, 55 Ark. 384, 18 S. W. 371; St. L., Memphis & S. E. Rd. Co. v. Garner, 76 Ark. 555, 89 S. W. 550.\nThe deceased in this case was 22 years old, lived with his parents, worked on the farm for them, did not receive from them any compensation for his work, and the jury returned a verdict for $1,500. There was substantial evidence to sustain the verdict, and we do not think $1,500 was excessive.\n\u201cLegal liability alone is not the test of the injury in respect of which damages may be recovered; but the reasonable expectation of pecuniary advantage by the relative remaining alive may be taken into account. It is not essential to the recovery of substantial damages by the father of an adult son that the latter had accumulated property, or given pecuniary aid to the former after attaining his majority, other facts being proved which justify the conclusion of substantial loss.\u201d Sutherland on Damages, \u00a7 1273.\n\u201cIn case of the killing of an adult child, who is at the time actually rendering services, recovery may be had even in all jurisdictions. * * * A reasonable probability of pecuniary advantage from the continuance of life mnst be shown; if it is shown, the parent may recover, if not, there can be no recovery. So, where at and before the time of his death the deceased was not contributing to his parent\u2019s support, there can be no recovery.\u201d Sedgwick on Damages, voh 2, p. 1117.\nThe verdict in favor of the appellee for $6,000 for pain and suffering is reduced to $3,500, and affirmed for that amount. We find no other error, and the judgment is in all other respects affirmed.",
+        "type": "majority",
+        "author": "Mehaeey, J."
+      }
+    ],
+    "attorneys": [
+      "B'usbee, Pugh & Harrison, for appellant.",
+      "Witt & Witt, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Mooney v. Tillery.\nOpinion delivered March 21, 1932.\nB'usbee, Pugh & Harrison, for appellant.\nWitt & Witt, for appellee."
+  },
+  "file_name": "0457-01",
+  "first_page_order": 477,
+  "last_page_order": 481
+}

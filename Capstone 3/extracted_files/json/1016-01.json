@@ -1,0 +1,78 @@
+{
+  "id": 12462868,
+  "name": "State, Respondent, v. O'Cain, Petitioner",
+  "name_abbreviation": "State v. O'Cain",
+  "decision_date": "2016-09-28",
+  "docket_number": "No. 93275-1",
+  "first_page": "1016",
+  "last_page": "1016",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "186 Wash. 2d 1016"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Wash.",
+    "id": 9029,
+    "name": "Washington Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 38,
+    "name_long": "Washington",
+    "name": "Wash."
+  },
+  "cites_to": [
+    {
+      "cite": "193 Wn. App. 1024",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        12450020,
+        12450021,
+        12450022,
+        12450023
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/193/1024-01",
+        "/wash-app/193/1024-02",
+        "/wash-app/193/1024-03",
+        "/wash-app/193/1024-04"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 27,
+    "char_count": 191,
+    "ocr_confidence": 0.853,
+    "sha256": "d0b0d063cfbb45f452c305a8b48889a9c831292ec3e67d59dbcccc1a8fab8c5a",
+    "simhash": "1:00b2e23b19770e7d",
+    "word_count": 31
+  },
+  "last_updated": "2024-02-27T18:43:05.207238+00:00",
+  "provenance": {
+    "date_added": "2019-05-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "State, Respondent, v. O\u2019Cain, Petitioner,"
+    ],
+    "opinions": [
+      {
+        "text": "Petition for review of a decision of the Court of Appeals, No. 73191-2-I, April 18, 2016, 193 Wn. App. 1024. Denied September 28, 2016.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "State, Respondent, v. O\u2019Cain, Petitioner,\nNo. 93275-1."
+  },
+  "file_name": "1016-01",
+  "first_page_order": 1002,
+  "last_page_order": 1002
+}

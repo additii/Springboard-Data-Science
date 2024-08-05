@@ -1,0 +1,59 @@
+{
+  "id": 8728042,
+  "name": "Evans vs. Davis",
+  "name_abbreviation": "Evans v. Davis",
+  "decision_date": "1852-01",
+  "docket_number": "",
+  "first_page": "683",
+  "last_page": "683",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "12 Ark. 683"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 36,
+    "char_count": 248,
+    "ocr_confidence": 0.509,
+    "sha256": "4c2b7074374dc53111b305422bc230b60c2c7e32863c4fef1455adfc3bd618f5",
+    "simhash": "1:77215453584ed098",
+    "word_count": 42
+  },
+  "last_updated": "2023-07-14T17:49:49.158040+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Evans vs. Davis."
+    ],
+    "opinions": [
+      {
+        "text": "Mr. Justice Scott\ndelivered the opinion of the Court.\nThe writ of certiorari in this case, having been improvidently issued must be dismissed. (Carnall v. Crawford County, 6 Eng. 605. Marr Ex parte, Ante, and Allis Ex parte, Ante)",
+        "type": "majority",
+        "author": "Mr. Justice Scott"
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Evans vs. Davis."
+  },
+  "file_name": "0683-02",
+  "first_page_order": 683,
+  "last_page_order": 683
+}

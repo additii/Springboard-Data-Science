@@ -1,0 +1,85 @@
+{
+  "id": 1432014,
+  "name": "School District No. 4 v. McCrary",
+  "name_abbreviation": "School District No. 4 v. McCrary",
+  "decision_date": "1933-06-26",
+  "docket_number": "4-3142",
+  "first_page": "800",
+  "last_page": "802",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "187 Ark. 800"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [
+    {
+      "cite": "29 S. W. (2d) 268",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "181 Ark. 1046",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        8726484
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/181/1046-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 284,
+    "char_count": 4065,
+    "ocr_confidence": 0.493,
+    "pagerank": {
+      "raw": 7.317852702137001e-08,
+      "percentile": 0.4360136440387065
+    },
+    "sha256": "d78e673339441343a5485cec748341cde95d3a3946537c12d16bac35f96cee54",
+    "simhash": "1:94d48bd4c608b48b",
+    "word_count": 693
+  },
+  "last_updated": "2024-02-27T21:18:50.990705+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "School District No. 4 v. McCrary."
+    ],
+    "opinions": [
+      {
+        "text": "McHaney, J.\nAppellant brought this action to recover judgment in the sum of $387.86 against appellees, who are the sureties on the county depository bond of the now defunct Lonoke County Bank, made such by proper order of the county court. The bank was found to be insolvent, and was taken over by the Bank Commissioner for liquidation in December, 1931, with the various county and school district funds on deposit therein, including that of appellant. On January 4, 1932, the county court made and entered an order placing the matter of collecting and recovering all said funds secured by the depository bond in the hands of the prosecuting attorney of that district, who was ordered to take all leg\u2019al steps necessary in recovering same. Thereafter on March 7, 1932, the prosecuting attorney, with the approving order of the county court, accepted a deed of trust, executed by appellees, conveying to the county valuable lands and properties as security for the payment of all said depository funds, and in consideration therefor it was agreed that payment would be extended to December 15, 1932. This agreement was approved by order of the county court, made and entered that date. On December 5,1932, appellees paid to the county $1,000 in cash and asked for and obtained an extension to December 1, 1933, in which to make payment, an appropriate order being made by the court to this effect.\nAppellees moved to dismiss the complaint on the ground, among others, that the obligation was not then due, and that the suit was prematurely brought. All the facts above mentioned were set out in the motion and copies of all orders exhibited thereto! The court sustained the motion, dismissed the complaint, and this appeal is from that order.\nAppellant states its contention for a reversal of the judgment as follows: \u201cIt is the contention of appellant that the county court had no jurisdiction or authority to make the order relied on by appellees herein, and that such order is not binding on appellant, and said order being made without authority is void and is properly attacked by this suit.\u201d This contention cannot be sustained. Section 28 of article 7 of the Constitution, and \u00a7 2279, Crawford & Moses\u2019 Digest, confer such authority as was here exercised upon the county court, and we think that the question is ruled adversely to appellant\u2019s contentions in Board of Education of Lonoke County v. Lonoke County, 181 Ark. 1046, 29 S. W. (2d) 268. It was there held that the county court was vested with power and authority to enter into a contract to employ special counsel and agree upon reasonable compensation to be paid pro rata from the several county and school funds to enforce collection against the sureties on another depository bond of an insolvent bank. It would seem to follow as a necessary consequence that, if such court has the power to make such a contract as that, it would have the power to contract for security and fix the time of payment, or to extend the same, in the absence of any fraud or collusion between the court and the bondsmen, and there is no such allegation here. On the contrary, the court orders show they were made because of the distressed financial situation, making it impossible for the bondsmen to secure money to satisfy the bond. We think the court, in taking the deed of trust, acted for the best interests of the county and its schools, and in accepting the $1,000 and extending the time for payment, represented the best interests of the county and the. school districts, including appellant, for to have said with Shylock, \u00a3<I will have my bond,\u201d and demanded an immediate sale of the property covered by the trust deed, would have meant a sacrifice thereof, for it is well known that property at that time had very little market value, if any.\nThe circuit court correctly dismissed appellant\u2019s complaint, and its judgment must be affirmed.",
+        "type": "majority",
+        "author": "McHaney, J."
+      }
+    ],
+    "attorneys": [
+      "Jno. B. Thompson, for appellant.",
+      "Trimble, Trimble & McCrary and Chas. A. Walls, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "School District No. 4 v. McCrary.\n4-3142\nOpinion delivered June 26, 1933.\nJno. B. Thompson, for appellant.\nTrimble, Trimble & McCrary and Chas. A. Walls, for appellee."
+  },
+  "file_name": "0800-01",
+  "first_page_order": 820,
+  "last_page_order": 822
+}

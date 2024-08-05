@@ -1,0 +1,355 @@
+{
+  "id": 1364158,
+  "name": "Medlock v. Jones",
+  "name_abbreviation": "Medlock v. Jones",
+  "decision_date": "1922-02-13",
+  "docket_number": "",
+  "first_page": "57",
+  "last_page": "64",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "152 Ark. 57"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [
+    {
+      "cite": "129 Ark. 218",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1580466
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/129/0218-01"
+      ]
+    },
+    {
+      "cite": "130 Ark. 365",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        8720449
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/130/0365-01"
+      ]
+    },
+    {
+      "cite": "137 Ark. 107",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1568018
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/137/0107-01"
+      ]
+    },
+    {
+      "cite": "136 Ark. 84",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1569956
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/136/0084-01"
+      ]
+    },
+    {
+      "cite": "86 Ark. 622",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "131 Ark. 509",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1578642
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/131/0509-01"
+      ]
+    },
+    {
+      "cite": "133 Ark. 30",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1575086
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/133/0030-01"
+      ]
+    },
+    {
+      "cite": "135 Ark. 385",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "135 Ark. 372",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1571604
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/135/0372-01"
+      ]
+    },
+    {
+      "cite": "133 Ark. 250",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1575069
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/133/0250-01"
+      ]
+    },
+    {
+      "cite": "20 Ark. 359",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1869305
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/20/0359-01"
+      ]
+    },
+    {
+      "cite": "19 S. W. 136",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "58 Tex. 257",
+      "category": "reporters:state",
+      "reporter": "Tex.",
+      "case_ids": [
+        2175123
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/tex/58/0257-01"
+      ]
+    },
+    {
+      "cite": "10 L. R. A. (N. S.) 185",
+      "category": "reporters:federal",
+      "reporter": "L.R.A.N.S.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "90 Am. Dec. 451",
+      "category": "reporters:federal",
+      "reporter": "Am. Dec.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "3 Peters 43",
+      "category": "reporters:scotus_early",
+      "reporter": "Pet.",
+      "case_ids": [
+        3305559
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/28/0043-01"
+      ]
+    },
+    {
+      "cite": "42 Ark. 289",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        8723850
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/42/0289-01"
+      ]
+    },
+    {
+      "cite": "99 Ark. 446",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1314532
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/99/0446-01"
+      ]
+    },
+    {
+      "cite": "125 Ark. 181",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1553292
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/125/0181-01"
+      ]
+    },
+    {
+      "cite": "39 Ark. 491",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1898646
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/39/0491-01"
+      ]
+    },
+    {
+      "cite": "34 Ark. 632",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1875679
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/34/0632-01"
+      ]
+    },
+    {
+      "cite": "28 Ark. 550",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1884393
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/28/0550-01"
+      ]
+    },
+    {
+      "cite": "79 Ark. 608",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1495621
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/79/0608-01"
+      ]
+    },
+    {
+      "cite": "70 Ark. 385",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1509516
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/70/0385-01"
+      ]
+    },
+    {
+      "cite": "24 Ark. 224",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        8726743
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/24/0224-01"
+      ]
+    },
+    {
+      "cite": "21 Ark. 468",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1868295
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/21/0468-01"
+      ]
+    },
+    {
+      "cite": "118 Ark. 249",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 645,
+    "char_count": 14733,
+    "ocr_confidence": 0.487,
+    "pagerank": {
+      "raw": 4.5639931493563623e-07,
+      "percentile": 0.9248792111045856
+    },
+    "sha256": "7c74b38cad08febaa95efa795a74a394f0399e7ea90805240520cbae1d33c5c1",
+    "simhash": "1:af1f40399b2a997c",
+    "word_count": 2573
+  },
+  "last_updated": "2024-02-27T17:37:19.864965+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Medlock v. Jones."
+    ],
+    "opinions": [
+      {
+        "text": "Humphreys, J.\nAppellee instituted suit in ejectment against appellant in the Conway Circuit Court to recover possession of one-third of the west half of the southwest quarter of section 15, township 6 north, range 15 west, in said county, alleging, in substance, that she was the owner of the entire tract, and that said appellant wrongfully claimed to be the owner of a one-third in7 terest therein, and unlawfully took possession thereof. Appellee alleged ownership of a one-third interest in said real estate by patent from the government and ownership of the other two-thirds interest by adverse possession for more than seven years.\nAppellant filed an answer denying the material allegations of the complaint, alleging ownership in one-third interest by virtue of a purchase of same for a valuable consideration on the 20th day of June, 1920, from Sallie Winston, a sister of appellee, who was one of three joint patentees of said tract of land from the United States government.\nThe case was submitted upon the pleadings, evidence and instructions of the court, which resulted in a judgment ejecting appellant from the premises. From that judgment an appeal has been duly prosecuted to this court.\nThe record reflects that the real estate in question was entered by Adam Berry, the father of appellee, her sister and Andy Berry, her brother; that afterwards the entryman, Adam Berry, died, and a patent was issued to his children aforesaid; that Andy Berry went to Texas in 1885, leaving the two sisters upon the property and instructing them to keep the taxes paid; that the land was sold for delinquent taxes on June 10, 1895, to B. F. Nesbitt, and was redeemed Mar'ch 5, 1896, by Aaron Woodson, who was at that time the husband of Sallie Berry, who, after Woodson\u2019s death, married a man by the name of F. G. Winston; that the delinquent sale and redemption was shown by exhibit introduced by appellant. Appellee testified, however, that she redeemed the landsfrom this delinquent sale, and that, before doing so, she notified her brother, who was then in Texas, that if she paid the taxes she intended to claim the land adversely to him; that she received no response from him; that at the time she paid the delinquent tax her sister agreed to repay her, but that the matter rocked along, and later .her sister informed her that she was unable to pay the taxes and to go ahead and pay them and -take the land; that she continued from that day forward to pay the taxes and claim the land; that her sister resided with her for a number of years, but later married Winston and moved away from the place; that she had paid the taxes and claimed and occupied the land as her own for more than twenty years. On cross-examination appellee made statements conflicting with her evidence in chief.\nSeveral of appellee\u2019s neighbors' testified that she had held the continuous unbroken possession of the land for about twenty years, claiming to be the owner thereof.\nThe testimony adduced by appellant tended to show that the payment of taxes by appellee was for herself and her brother and sister as joint tenants, and that her occupancy of the land was not adverse to them; that, after appellant purchased an undivided one-third interest in 1920 from appellee\u2019s sister, Sallie Winston, appellee and her husband, who was looking after the property, agreed to buy appellant\u2019s interest from him, and that the terms of sale were agreed upon; that a part of the purchase price was to be paid by sale of timber to be cut from the land; that appellee permitted appellant to cut a part of the timber in part payment of the consideration; that afterwards appellee refused to carry out the contract, but agreed upon a division of the land; that subsequent to the delinquent sale appellee paid taxes in the name of herself, sister and brother; that appellee mortgaged an undivided one-third interest in the land to raise money.\nDuring the progress of the trial appellant attempted to prove by J. S. J ones, the husband of appellee, that he went to Morrilton and represented to some one that he wanted the land divided. The court thereupon asked the witness whether he was attending to the business for his wife, to which he responded that he was not. Thereupon ihe court excluded the evidence, over the objection and exception of appellant. Appellee testified in her own examination that her husband was looking after and making contracts in reference to the property for her. In appellant\u2019s motion for a new trial he alleged that the court erred in excluding the evidence of J. S. Jones, the husband of appellee, to the effect that he had filed a partition suit in the chancery court of Conway County for the lands in question in the name and style of Paralee Jones and Jeff Medlock against Andy Berry.\nAfter the rendition of the verdict and judgment appellant filed a motion for a new trial and an amendment thereto. The amendment is as follows:\n\u201cAfter the verdict was rendered and judgment rendered herein the defendant learned that on the-day of- 1917, plaintiff, Paralee Jones, and Sallie Winston, of whom the defendant purchased the undivided one-third interest of the land in controversy, jointly executed to J. B. R. Streeter an oil lease on the land in controversy, and since said date of judgment defendant is informed by W. H. Duff, assistant cashier of the Bank of Plummerville, Arkansas, that he, the said W. H. Duff, was with the said J. B. R. Streeter, or his agent, on the date of the execution of oil lease, and that the said W. H. Duff would testify as follows: \u2018 On going to the home of said Paralee Jones on the-day of-1917, for the purpose of procuring an oil lease on the W]/2, SW%, sec. 5, township 6 N., R. 16 W., known as the Adam Berry land, in Conway County, we obtained signature to said lease of said Paralee Jones, and the said Paralee Jones advised us that her sister, Sallie Winston, owned an undivided interest in said land and stated that we would have to go to her to get her signature to the lease, as she, the said Sallie Winston, owned an interest in said lands, and that we went from there to the home of Sallie Winston and obtained her signature to said lease.\u2019 Wherefore defendant prays that he be given a new trial herein.\n\u201cJ. K. Medlock, the defendant herein, states on oath that the allegations contained in the foregoing motion are true, and that the said W. H. Duff would testify in substance as set out in said .motion, and that this information was given him by said W. H. Duff after judgment had been rendered herein; therefore is the reason the same was not obtained and used in trial of said cause.\n\u201cJ. K. Medlock.\n\u201cSubscribed and sworn to before me this 10th day of March, 1921. J. L. 'Williams, Clerk. \u2019 \u2019\nOver the objection and exception of appellant, the motion for a new trial was overruled.\nAppellant\u2019s first insistence for reversal of the judgment is that the evidence was insufficient to carry the issue of limitation by adverse possession to the jury. Appellant argues that appellee never expressly disclaimed or repudiated the interest of her co-tenant, Sallie Winston, or by acts tantamount thereto notified Sallie Winston that she was claiming adversely to her, and that for this reason the court erred in submitting the issue of limitations to the jury, and should have peremptorily instructed for appellant. Appellant fails to give full effect and purport to the testimony of appellee. Appellee testified that it was agreed between herself and sister, Sallie Winston, that she should pay the taxes and take the land, and that pursuant to such agreement she did pay the taxes and occupy the land thereafter adversely to her sister. In this appellant was, to some extent, corroborated by the testimony of several of her neighbors. While appellee\u2019s evidence was to some extent unsatisfactory, on account of contradictions in it, yet it was sufficient 'to carry the claim of adverse possession to the jury.\nAnother ground insisted upon by appellant for reversal of the judgment is that the court excluded the evidence of J. S. Jones in reference to the partition suit filed by him for appellee and her sister against their brother, Andy Berry, in the Conway Chancery Court. The evidence in this respect in the record was not as broad as the allegation in the motion for a new trial. In other words, the record does not support this allegation in the motion for a new trial. If the testimony disclosed \u00a1by the record had 'been to the effect that J. S. Jones had 'brought a suit for partition of the land in question for appellee and her sister against their brother, it would have been error to exclude it, because appellee\u2019s evidence tended to show that her husband was looking after and making contracts concerning the land for her; but the evidence excluded by the court was not developed to this extent. It was only attempted to be shown by Jones that he went to Morrilton to see some one about dividing the land, and he himself testified in response to the court\u2019s question that he was not representing his wife on that occasion. We do not think the court erred in excluding the evidence.\nAppellant also insists on reversing the judgment because the court refused to grant a new trial for newly discovered evidence set forth in the amendment to the motion for a new trial. Appellee suggests that the court properly overruled the motion because, first, it was not shown \u2018why the new evidence was not discovered before the trial, and second, that diligence was not used in discovering it before the trial. The evidence \u25a0was not of that character which could be discovered before it was disclosed by the witness W. H. Duff, It is stated in the motion that W. H. Duff did not communicate the fact to appellant until after the rendition of the judgment. The motion also states that for that reason the same was not obtained and used in the trial of said cause. We think the motion sufficiently shows why the evidence was not discovered before the trial, and, inferentially, why more diligence was not used than was used in procuring it. Again, appellee suggests that the evidence is cumulative, and for that reason the court properly overruled the motion for a new trial. The newly discovered evidence was in the nature of an admission made by appellee that her sister, Sallie Winston, owned an undivided one-third interest in the land. It tended to break down the evidence of appellee. Appellee\u2019s whole case rested upon the truth of her own testimony. According to her testimony, she had a contract or agreement with her sister by which she was to pay the taxes and take the property. In other words, appellee fixed a time by contract at which the statute of limitations began to run against her sister. No other witness testified to this fact. Her sister denied it. It is true there was evidence in the record tending to show that appellee had made several mortgages of an undivided one-third interest in said property as security for borrowed money, but the newly discovered evidence to the effect that she joined her sister in an oil lease on said land, and at the time stated that her sister had an interest in the land, is more definite and certain than any other evidence which had been introduced, contradicting her statement that she had claimed title to and occupied the land for more than seven years adversely to her brother and sister. In fact, it was independent evidence, not in any sense cumulative, tending to contradict and break down appellee\u2019s own evidence upon which she relied for recovery.\nOther assignments of error are insisted upon for a reversal of the judgment, but as they will not likely occur upon a new trial we deem it unnecessary to discuss them.\nFor the error indicated the judgment is reversed and the cause remanded for a new trial.",
+        "type": "majority",
+        "author": "Humphreys, J."
+      }
+    ],
+    "attorneys": [
+      "M. H. Dean, for appellant.",
+      "Edward Gordon, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Medlock v. Jones.\nOpinion delivered February 13, 1922.\n1. Adverse possession \u2014 sufficiency ' of evidence. \u2014 -Evidence held sufficient to carry to the jury the question of plaintiff\u2019s adverse possession.\n2. Witnesses \u2014 husband and wife. \u2014 A husband was not competent, in an action by his wife, to testify as to a certain transaction where he was not acting as her agent in the matter.\n3. Evidence \u2014 conduct of plaintiff\u2019s husband. \u2014 In an action by plaintiff, who claimed to have acquired title by adverse possession against cotenants, in which plaintiff testifies that her . husband was looking after land and making contracts concerning it for her, testimony that the husband saw some one with reference to dividing the land, where he testified that he was not representing his wife in doing so, was not admissible to show that hei possession was not adverse to the cotenants.\n4. New trial \u2014 newly discovered evidence. \u2014 It was error to deny a new trial for newly discovered evidence, not cumulative, which tended to break down appellee\u2019s testimony,, upon which alone she relied for recovery.\nAppeal from Conway Circuit Court; A. B. Priddy, Judge;\nreversed.\nM. H. Dean, for appellant.\nThe court erred in refusing to direct a verdict for defendant. To uphold a verdict on appeal there must be evidence to support it. 118 Ark. 249. A new trial will be ordered where a verdict is directly against the evidence. 21 Ark. 468; 24 Ark. 224; 70 Ark. 385; 79 Ark. 608; 28 Ark. 550; 34 Ark. 632; 39 Ark. 491.\nPossession of one co-tenant under common title is presumed to be for the benefit of all, and if he wishes to hold adversely he must bring notice to them of such adverse holding; the statute begins to run from the receipt of such notice. 125 Ark. 181; 99 Ark. 446; 42 Ark. 289; 3 Peters 43; 1 Spears, 225; 90 Am. Dec. 451; 10 L. R. A. (N. S.) 185.\nThe acts and declarations of the party in possession will be construed most strongly against him. 58 Tex. 257.\nA tenant in common to avail himself of the statute of limitations must repudiate the title of his co-tenant. 19 S. W. 136.\nMere acts of ownership by one tenant in common are not sufficient to bring notice to the other co-tenant of an adverse holding. 20 Ark. 359; 52 An. Dec. 212.\nEdward Gordon, for appellee.\nExceptions saved but not argued will be treated as abandoned. 133 Ark. 250; 135 Ark. 372.\nTo sustain the verdict on appeal the evidence must \u25a0be received in the light most favorable to appellee. 135 Ark. 385. This court must give the testimony the strongest probative value in favor of the verdict. 133 Ark. 30 ; 131 Ark. 509. A verdict on conflicting evidence is conclusive. i82 Ark. 603; 86 Ark. 622. If there is any legal evidence to support a verdict it will not be disturbed. 136 Ark. 84.\nThe court properly overruled the motion for new trial on the ground of newly discovered evidence. 130 Ark. Ill; 137 Ark. 107; 130 \u00c1rk. 365; 129 Ark. 218."
+  },
+  "file_name": "0057-01",
+  "first_page_order": 81,
+  "last_page_order": 88
+}

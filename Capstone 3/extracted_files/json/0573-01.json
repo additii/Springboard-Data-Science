@@ -1,0 +1,745 @@
+{
+  "id": 12462743,
+  "name": "Fred Binschus, Individually and as Personal Representative, et al., Respondents, v. The Department of Corrections et al., Defendants, Skagit County, Petitioner",
+  "name_abbreviation": "Binschus v. Department of Corrections",
+  "decision_date": "2016-09-22",
+  "docket_number": "No. 91644-6",
+  "first_page": "573",
+  "last_page": "595",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "186 Wash. 2d 573"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Wash.",
+    "id": 9029,
+    "name": "Washington Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 38,
+    "name_long": "Washington",
+    "name": "Wash."
+  },
+  "cites_to": [
+    {
+      "cite": "973 P.2d 465",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1999,
+      "opinion_index": 0
+    },
+    {
+      "cite": "137 Wn.2d 518",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        179292
+      ],
+      "year": 1999,
+      "pin_cites": [
+        {
+          "page": "526"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/137/0518-01"
+      ]
+    },
+    {
+      "cite": "295 P.3d 212",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "weight": 2,
+      "year": 2013,
+      "pin_cites": [
+        {
+          "page": "319",
+          "parenthetical": "emphasis added and omitted"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "176 Wn.2d 427",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4306888
+      ],
+      "year": 2013,
+      "pin_cites": [
+        {
+          "page": "429-30"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/176/0427-01"
+      ]
+    },
+    {
+      "cite": "759 P.2d 1188",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1988,
+      "opinion_index": 0
+    },
+    {
+      "cite": "111 Wn.2d 182",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1179769
+      ],
+      "year": 1988,
+      "pin_cites": [
+        {
+          "page": "193"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/111/0182-01"
+      ]
+    },
+    {
+      "cite": "119 P.3d 825",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2005,
+      "opinion_index": 0
+    },
+    {
+      "cite": "155 Wn.2d 306",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        3765944
+      ],
+      "year": 2005,
+      "pin_cites": [
+        {
+          "page": "315-16"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/155/0306-01"
+      ]
+    },
+    {
+      "cite": "671 P.2d 230",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "weight": 4,
+      "year": 1983,
+      "pin_cites": [
+        {
+          "parenthetical": "quoting Restatement (Second"
+        },
+        {
+          "parenthetical": "emphasis added"
+        },
+        {
+          "parenthetical": "emphasis added"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "100 Wn.2d 421",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1142085
+      ],
+      "year": 1983,
+      "pin_cites": [
+        {
+          "page": "426"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/100/0421-01"
+      ]
+    },
+    {
+      "cite": "883 P.2d 1383",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "weight": 3,
+      "year": 1994,
+      "opinion_index": 0
+    },
+    {
+      "cite": "125 Wn.2d 337",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        436985
+      ],
+      "year": 1994,
+      "pin_cites": [
+        {
+          "page": "341"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/125/0337-01"
+      ]
+    },
+    {
+      "cite": "357 P.3d 665",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2015,
+      "opinion_index": 0
+    },
+    {
+      "cite": "184 Wn.2d 1001",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        12440946,
+        12440947,
+        12440948,
+        12440949,
+        12440950
+      ],
+      "year": 2015,
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/184/1001-01",
+        "/wash-2d/184/1001-02",
+        "/wash-2d/184/1001-03",
+        "/wash-2d/184/1001-04",
+        "/wash-2d/184/1001-05"
+      ]
+    },
+    {
+      "cite": "345 P.3d 818",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2015,
+      "opinion_index": 0
+    },
+    {
+      "cite": "186 Wn. App. 77",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        4174019
+      ],
+      "year": 2015,
+      "pin_cites": [
+        {
+          "page": "81"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/186/0077-01"
+      ]
+    },
+    {
+      "cite": "822 P.2d 243",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1992,
+      "opinion_index": 0
+    },
+    {
+      "cite": "118 Wn.2d 195",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1372163
+      ],
+      "year": 1992,
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/118/0195-01"
+      ]
+    },
+    {
+      "cite": "378 P.3d 162",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2016,
+      "opinion_index": 1
+    },
+    {
+      "cite": "186 Wn.2d 422",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        12462737
+      ],
+      "year": 2016,
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/186/0422-01"
+      ]
+    },
+    {
+      "cite": "979 P.2d 400",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1999,
+      "opinion_index": 1
+    },
+    {
+      "cite": "138 Wn.2d 265",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        887368
+      ],
+      "year": 1999,
+      "pin_cites": [
+        {
+          "page": "284"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/138/0265-01"
+      ]
+    },
+    {
+      "cite": "698 P.2d 77",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1985,
+      "opinion_index": 1
+    },
+    {
+      "cite": "103 Wn.2d 768",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1134110
+      ],
+      "year": 1985,
+      "pin_cites": [
+        {
+          "page": "777"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/103/0768-01"
+      ]
+    },
+    {
+      "cite": "793 P.2d 952",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1990,
+      "pin_cites": [
+        {
+          "parenthetical": "holding that general statutes do not impose a specific duty on the Department of Corrections to provide a particular course of mental health care treatment"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "115 Wn.2d 34",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1379077
+      ],
+      "year": 1990,
+      "pin_cites": [
+        {
+          "page": "38-39",
+          "parenthetical": "holding that general statutes do not impose a specific duty on the Department of Corrections to provide a particular course of mental health care treatment"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/115/0034-01"
+      ]
+    },
+    {
+      "cite": "244 P.3d 924",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2010,
+      "pin_cites": [
+        {
+          "parenthetical": "Sanders, J., lead opinion"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "170 Wn.2d 628",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4012567
+      ],
+      "year": 2010,
+      "pin_cites": [
+        {
+          "page": "635-36",
+          "parenthetical": "Sanders, J., lead opinion"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/170/0628-01"
+      ]
+    },
+    {
+      "cite": "309 P.3d 387",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2013,
+      "opinion_index": 1
+    },
+    {
+      "cite": "178 Wn.2d 165",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4298113
+      ],
+      "year": 2013,
+      "pin_cites": [
+        {
+          "page": "170"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/178/0165-01"
+      ]
+    },
+    {
+      "cite": "54 P.3d 197",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2002,
+      "opinion_index": 1
+    },
+    {
+      "cite": "113 Wn. App. 556",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        764680
+      ],
+      "year": 2002,
+      "pin_cites": [
+        {
+          "page": "571"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-app/113/0556-01"
+      ]
+    },
+    {
+      "cite": "366 P.3d 1244",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2016,
+      "opinion_index": 1
+    },
+    {
+      "cite": "185 Wn.2d 1004",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        12456881,
+        12456882,
+        12456883,
+        12456884,
+        12456885,
+        12456886,
+        12456887,
+        12456888
+      ],
+      "year": 2016,
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/185/1004-01",
+        "/wash-2d/185/1004-02",
+        "/wash-2d/185/1004-03",
+        "/wash-2d/185/1004-04",
+        "/wash-2d/185/1004-05",
+        "/wash-2d/185/1004-06",
+        "/wash-2d/185/1004-07",
+        "/wash-2d/185/1004-08"
+      ]
+    },
+    {
+      "cite": "359 P.3d 867",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2015,
+      "opinion_index": 1
+    },
+    {
+      "cite": "189 Wn. App. 839",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        6779982
+      ],
+      "weight": 3,
+      "year": 2015,
+      "pin_cites": [
+        {
+          "page": "849-50"
+        },
+        {
+          "page": "848"
+        },
+        {
+          "page": "850-53"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-app/189/0839-01"
+      ]
+    },
+    {
+      "cite": "134 P.3d 197",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2006,
+      "opinion_index": 1
+    },
+    {
+      "cite": "157 Wn.2d 18",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        3004043
+      ],
+      "year": 2006,
+      "pin_cites": [
+        {
+          "page": "24"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/157/0018-01"
+      ]
+    },
+    {
+      "cite": "973 P.2d 465",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1999,
+      "pin_cites": [
+        {
+          "parenthetical": "where probation officer reported a violation of court-imposed probation conditions and the court chose not to revoke probation, the court's decision precluded proximate cause as a matter of law"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "137 Wn.2d 518",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        179292
+      ],
+      "year": 1999,
+      "pin_cites": [
+        {
+          "page": "531-32",
+          "parenthetical": "where probation officer reported a violation of court-imposed probation conditions and the court chose not to revoke probation, the court's decision precluded proximate cause as a matter of law"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/137/0518-01"
+      ]
+    },
+    {
+      "cite": "119 P.3d 825",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2005,
+      "opinion_index": 1
+    },
+    {
+      "cite": "155 Wn.2d 306",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        3765944
+      ],
+      "year": 2005,
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/155/0306-01"
+      ]
+    },
+    {
+      "cite": "671 P.2d 230",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1983,
+      "opinion_index": 1
+    },
+    {
+      "cite": "100 Wn.2d 421",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1142085
+      ],
+      "year": 1983,
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/100/0421-01"
+      ]
+    },
+    {
+      "cite": "357 P.3d 665",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2015,
+      "opinion_index": 1
+    },
+    {
+      "cite": "184 Wn.2d 1001",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        12440946,
+        12440947,
+        12440948,
+        12440949,
+        12440950
+      ],
+      "year": 2015,
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/184/1001-01",
+        "/wash-2d/184/1001-02",
+        "/wash-2d/184/1001-03",
+        "/wash-2d/184/1001-04",
+        "/wash-2d/184/1001-05"
+      ]
+    },
+    {
+      "cite": "345 P.3d 818",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2015,
+      "opinion_index": 1
+    },
+    {
+      "cite": "186 Wn. App. 77",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        4174019
+      ],
+      "year": 2015,
+      "pin_cites": [
+        {
+          "page": "95"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-app/186/0077-01"
+      ]
+    },
+    {
+      "cite": "822 P.2d 243",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1992,
+      "opinion_index": 1
+    },
+    {
+      "cite": "118 Wn.2d 195",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1372163
+      ],
+      "year": 1992,
+      "pin_cites": [
+        {
+          "page": "199"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/118/0195-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1597,
+    "char_count": 42983,
+    "ocr_confidence": 0.884,
+    "pagerank": {
+      "raw": 6.720043307566981e-08,
+      "percentile": 0.40795274164632767
+    },
+    "sha256": "ec67836d51feacadc6939bc3dab5ad92c53258d7898bf6b4cf9e5e0a4108485c",
+    "simhash": "1:3d090194e3406428",
+    "word_count": 7043
+  },
+  "last_updated": "2024-02-27T18:43:05.207238+00:00",
+  "provenance": {
+    "date_added": "2019-05-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Madsen, C.J., and Fairhurst, Wiggins, and Gordon McCloud, JJ., concur.",
+      "Johnson, Stephens, and Gonz\u00e1lez, JJ., concur with Yu, J."
+    ],
+    "parties": [
+      "Fred Binschus, Individually and as Personal Representative, et al., Respondents, v. The Department of Corrections et al., Defendants, Skagit County, Petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "[As amended by order of the Supreme Court January 17, 2017.]\nOwens, J.\n\u00b61 In 1992, we held that the State could be held liable for crimes committed by parolees if those crimes resulted from the State\u2019s negligence in supervising the parolees. Taggart v. State, 118 Wn.2d 195, 822 P.2d 243 (1992). Today, plaintiffs ask us to extend Taggart and hold that a county jail can be held liable for crimes committed by a former inmate. However, the crimes in this case occurred well after the inmate left that jail\u2014long after the county had the duty (or ability) to supervise the former inmate. Plaintiffs contend that the jail could have prevented the inmate from committing crimes after he was released, but a jail\u2019s duty to supervise and control inmates during incarceration does not include a general duty to somehow prevent inmates from committing crimes after they are lawfully released from incarceration. We affirm the trial court\u2019s summary judgment order for Skagit County.\nFACTS\n\u00b62 Isaac Zamora was incarcerated at Skagit County Jail for nonviolent crimes from April 4, 2008, until May 29, 2008, when he was transferred to Okanogan County Corrections Center. Zamora then served the rest of his sentence at Okanogan County Corrections Center and was released on August 2, 2008.\n\u00b63 On September 2, 2008, Zamora had a psychotic episode and went on a shooting spree in Skagit County. He ultimately killed six people and injured several others. Some of his victims and their families (plaintiffs) sued a number of parties, including Skagit County. The plaintiffs alleged that Skagit County was liable for Zamora\u2019s actions because of its failure to \u201cexercise . . . ordinary and reasonable care\u201d while Zamora was incarcerated in Skagit County Jail several months prior to the shooting. Clerk\u2019s Papers (CP) at 3868. The plaintiffs\u2019 claims against the other institutions were either settled out of court or dismissed on summary judgment.\n\u00b64 Plaintiffs contend that while Zamora was incarcerated in Skagit County Jail from April 4, 2008, until May 29, 2008, the jail failed to fully evaluate and treat Zamora\u2019s mental illness. They argue that (1) Skagit County was on notice that Zamora was in need of mental health services, (2) if Zamora had received a thorough mental health evaluation, he would been diagnosed and prescribed treatment, (3) Zamora might have complied with treatment resulting from that evaluation, and (4) if Zamora had complied with that treatment, he might not have had the psychotic break that led to the shooting in September. For the sake of our analysis today, we will treat those allegations as true.\n\u00b65 The trial judge granted summary judgment to Skagit County on the issues of duty and proximate cause. The trial judge ruled that \u201c[a]ny take charge duty an entity owes under Restatement (Second) of Torts \u00a7 319 [(Am. Law. Inst. 1965)] must be based on the presumption that the entity can control the actor. In the case of a jail, this duty would exist only during the period of incarceration.\u201d CP at 212. The trial judge also found that the plaintiffs had not made a showing that Skagit County\u2019s alleged negligence was the proximate cause of Zamora\u2019s crimes.\n\u00b66 The Court of Appeals reversed. It held that there were material issues of fact as to whether Skagit County had a legal duty to the victims and whether a breach of that alleged duty was the proximate cause of the injuries to the victims. Binschus v. Dep\u2019t of Coir., 186 Wn. App. 77, 81, 345 P.3d 818 (2015). We granted Skagit County\u2019s petition for review. 184 Wn.2d 1001, 357 P.3d 665 (2015).\nISSUE\n\u00b67 Did the trial court properly grant summary judgment to Skagit County because the county\u2019s duty to control Zamora did not extend to the plaintiffs?\nANALYSIS\n\u00b68 We review summary judgment orders de novo. Mountain Park Homeowners Ass\u2019n v. Tydings, 125 Wn.2d 337, 341, 883 P.2d 1383 (1994). Summary judgment is appropriate when there are no genuine issues of material fact and the moving party is entitled to judgment as a matter of law. Id. \u201cAll facts and reasonable inferences are considered in the light most favorable to the nonmoving party.\u201d Id.\n\u00b69 In this case, the trial court granted summary judgment to Skagit County because Skagit County had no duty to prevent Zamora from committing criminal acts after he was lawfully released from its custody. As explained below, we affirm the trial court. Under the Restatement, a jail\u2019s duty in a take charge relationship is limited to controlling violent inmates during incarceration, not preventing all foreseeable future crimes.\n\u00b610 As a general rule, people and institutions are not responsible for preventing a person from physically harming others. Petersen v. State, 100 Wn.2d 421, 426, 671 P.2d 230 (1983). However, there is an exception when \u201c \u2018a special relation exists between the actor and the third person which imposes a duty upon the actor to control the third person\u2019s conduct.\u2019 \u201d Id. (quoting Restatement (Second) of Torts \u00a7 315 (Am. Law Inst. 1965)). Crucial to our analysis is the nature of that duty: \u201c \u2018to control the third person\u2019s conduct.\u2019 \u201d Id. (emphasis added) (quoting Restatement \u00a7 315).\n\u00b611 One of those special relationships that gives rise to a duty to control the third person\u2019s conduct is the relationship between a jail and an inmate. Specifically, the jail-inmate relationship is often a take charge relationship, described in \u00a7 319 of the Restatement:\nOne who takes charge of a third person whom he knows or should know to be likely to cause bodily harm to others if not controlled is under a duty to exercise reasonable care to control the third person to prevent him from doing such harm.\nAgain, we note the nature of that duty: \u201cto exercise reasonable care to control the third person to prevent him from doing such harm.\u201d Id. (emphasis added).\n\u00b612 We adopted the Restatement\u2019s rule for take charge relationships in Taggart, 118 Wn.2d at 219-20. In that case, we held that parole officers have a take charge relationship with parolees. Id. at 220. We explained that the take charge duty is fundamentally about control: \u201cWhen a parolee\u2019s criminal history and progress during parole show that the parolee is likely to cause bodily harm to others if not controlled, the parole officer is under a duty to exercise reasonable care to control the parolee and to prevent him or her from doing such harm.\u201d Id. (emphasis added). We applied the same rule in Joyce v. Department of Corrections, 155 Wn.2d 306, 315-16, 119 P.3d 825 (2005), where we held that community corrections officers can have a take charge relationship with offenders when they are responsible for supervising the offenders and ensuring that they are complying with their conditions of release. We held that liability can be imposed when there is a failure to adequately supervise the probationer. Id. at 319.\n\u00b613 Importantly, the take charge duty is not without limitation. Throughout our case law, we have consistently reiterated a fundamental limit on duties arising from a take charge relationship: such a duty will be imposed \u201conly upon a showing of a \u2018definite, established and continuing relationship between the defendant and the third party.\u2019 \u201d Taggart, 118 Wn.2d at 219 (quoting Honcoop v. State, 111 Wn.2d 182, 193, 759 P.2d 1188 (1988)); see also Joyce, 155 Wn.2d at 319-20.\n\u00b614 Plaintiffs ask this court to greatly expand the take charge duty described above. Rather than imposing a duty to control a person\u2019s conduct, plaintiffs contend that the take charge duty imposes a broad duty to \u201cto use reasonable care to protect against reasonably foreseeable dangers [the offender] posed.\u201d Resp\u2019ts\u2019 Suppl. Br. at 13, 20. In theory, this could include all reasonably foreseeable dangers, even those that might occur long after the take charge duty has ended. For support, plaintiffs point to language in Taggart and Joyce where we summarized the duty that results from a take charge relationship. Taken out of context, one could read the individual sentences as imposing such a broad duty. However, a thorough reading of those cases reveals that they did not create such a radical expansion of the take charge duty. The Restatement sections and our case law consistently explain the take charge duty is a duty to control, and that liability results from negligently failing to control, not failing to protect against all foreseeable dangers.\n\u00b615 In Taggart, we held that parole officers have a take charge relationship with parolees, despite the fact that they do not have a custodial relationship. 118 Wn.2d at 223. After an in-depth review of the Restatement sections, we explained that \u201c[w]hen a parolee\u2019s criminal history and progress during parole show that the parolee is likely to cause bodily harm to others if not controlled, the parole officer is under a duty to exercise reasonable care to control the parolee and to prevent him or her from doing such harm.\u201d Id. at 220 (emphasis added). We then explained the particular actions that the parole officers failed to take to control the parolees\u2014one parole officer should have \u201csupervised closely\u201d the parolee, and the other failed to arrest the parolee for violating the conditions of his parole. Id. at 224-25.\n\u00b616 Plaintiffs point to one particular statement in Taggart where we did not emphasize control. We stated, \u201cWe conclude that parole officers have a duty to protect others from reasonably foreseeable dangers engendered by parolees\u2019 dangerous propensities.\u201d Id. at 224. However, following that statement, we discussed how we specifically did not want to \u201cexaggerate the degree of control [parole officers] exercise over parolees.\u201d Id. To the extent that our concluding statement can be taken out of context to mean that the take charge duty to control is a broad duty to prevent all reasonably foreseeable dangers, we now clarify: the take charge duty described in Restatement \u00a7 319 as a \u201cduty ... to control\u201d is, indeed, a duty to control. We did not previously, and do not today, expand it to a general duty to prevent a person from committing criminal acts in the future. Such an interpretation is contrary to the language and logic of \u00a7 319.\n\u00b617 The practical implications of imposing such a broad duty on jails are striking. By some estimates, the recidivism rate is well over 50 percent. See Matthew R. Durose, Alexia D. Cooper & Howard N. Snyder, U.S. Dep\u2019t of Justice, Office of Justice Programs Bureau of Justice Statistics, Recidivism of Prisoners Released in 30 States in 2005: Patterns from 2005 to 2010 (2014), http://www.bjs.gov/content/pub/pdf/rprts05p0510.pdf [https://perma.cc/A4QF-84XQ]. Thus, one could argue that in almost any case, it is foreseeable that an inmate may commit another crime after release. Are jails civilly liable for those crimes if they failed to take adequate measures to prevent that foreseeable recidivism? Such an expansive interpretation is not supported by the Restatement sections or a thorough reading of our precedent.\n\u00b618 Applying the rule from the Restatement sections, Skagit County owed a duty to exercise reasonable care to control Zamora to prevent him from doing harm. This duty was owed during the time when Skagit County had a take charge relationship with Zamora. Skagit County owed this duty to anyone who might foreseeably suffer bodily harm resulting from the failure to control Zamora. Skagit County did not owe such a duty for harms unrelated to its duty to control Zamora. The trial court correctly held that as a matter of law, the crimes Zamora committed after his lawful release were not a foreseeable consequence of any failure to control Zamora during incarceration. Thus, the trial court correctly granted summary judgment for Skagit County.\n\u00b619 This is not to say that jails can never be liable for a former inmate\u2019s actions. First, there may be situations in which a jail\u2019s failure to control an inmate results in foreseeable injury to others, and the jail may be liable even if that injury occurs after the duty to control ended. For instance, a jail could fail to control a violent inmate by negligently allowing him or her to escape one week before he or she was scheduled to be released. Even if the inmate injured others after the scheduled release date (and thus after the jail\u2019s duty to control had theoretically ended), the jail might still be liable if its failure to control the inmate during incarceration was the proximate cause of the injuries. Such a situation would be analogous to Petersen, in which a psychiatrist failed to adequately control a patient. 100 Wn.2d at 424-25. In that case, a psychiatrist discharged an involuntarily detained patient. The patient stopped taking his medications and injured the plaintiff in a car accident five days after he was released. Id. at 424. We found that this was a violation of the psychiatrist\u2019s duty to control the patient, as the psychiatrist chose to release the patient rather than seeking additional involuntary confinement. This fits with our analysis above\u2014the injury to the plaintiff was a foreseeable consequence of the failure to control the patient. Thus, the psychiatrist could be liable for that failure to control the patient, even though the injuries to the victim occurred after the duty ended.\n\u00b620 Second, a jail could theoretically be liable for injuries caused by former inmates under a separate section of the Restatement that explains,\nAn act or an omission may be negligent if the actor realizes or should realize that it involves an unreasonable risk of harm to another through the conduct of the other or a third person which is intended to cause harm, even though such conduct is criminal.\nRestatement (Second) of Torts \u00a7 302B (Am. Law Inst. 1965). We have held that \u201cRestatement \u00a7 302B may create an independent duty to protect against the criminal acts of a third party where the actor\u2019s own affirmative act creates or exposes another to the recognizable high degree of risk of harm.\u201d Robb v. City of Seattle, 176 Wn.2d 427, 429-30, 295 P.3d 212 (2013). While the trial court held that the jail\u2019s alleged actions in this case do not rise to that standard, we nonetheless recognize that \u00a7 302B presents the possibility that a jail could be liable for a former inmate\u2019s actions in cases where an affirmative act has occurred.\n\u00b621 Because we find that Skagit County had no duty to the plaintiffs, we do not reach the issue of whether its actions in April and May 2008 were the proximate cause of Zamora\u2019s psychotic break in September 2008.\nCONCLUSION\n\u00b622 We affirm the trial court\u2019s grant of summary judgment to Skagit County. Jails have a responsibility to control violent inmates while they are incarcerated, but they do not have a general duty to prevent such inmates from committing crimes after they are lawfully released from incarceration.\nMadsen, C.J., and Fairhurst, Wiggins, and Gordon McCloud, JJ., concur.\nZamora was briefly detained by Skagit County on August 5, 2008, but was released by a judge on his own recognizance the next day. The plaintiffs do not allege any negligence by the county during that time period.\nWe also quoted this statement in Joyce, but we did not broaden our holding from Taggart. See 155 Wn.2d at 316 (\u201cWe have answered all of the questions raised by the State about its duty before.\u2019\u2019). As in Taggart, the statement must be read in the context of the opinion, where we again discussed the nature of that duty: \u201c[O]nce the relationship is created, it is the relationship itself which ultimately imposes the duty upon the government, and \u2018the failure to adequately monitor and report violations, thus failure to adequately supervise the probationer,' may result in liability.\u2019\u2019 Id. at 319 (emphasis added and omitted) (quoting Bishop v. Miche, 137 Wn.2d 518, 526, 973 P.2d 465 (1999)).\nThe dissent criticizes us for focusing on the word \u201ccontrol\u201d in \u00a7 319, but we might levy a similar criticism for their refusal to acknowledge the word altogether. Section 319 imposes \u201ca duty to exercise reasonable care to control the third person to prevent him from doing such harm.\u201d Restatement \u00a7319. We stand by our conclusion that the concept of \u201ccontrol\u201d must be a part of any \u00a7 319 analysis.\nThe dissent contends that we focus solely on physical control and that any other action, such as transferring Zamora\u2019s files to his new jail, was \u201ccategorically\u201d outside of Skagit County\u2019s \u00a7 319 duty. Dissent at 591. This is incorrect. Section 319 requires that jails \u201cexercise reasonable care to control the third person to prevent him from doing such harm.\u201d A variety of actions might be needed to control a person to prevent him or her from doing harm, and there is nothing in \u00a7 319 or this majority that limits that duty to physical control. However, there is a limit on the jail\u2019s responsibilities under \u00a7 319; unfortunately, the dissent ignores that limit. By \u00a7 319\u2019s language, jails have a duty to exercise reasonable care to control a person so as to prevent him or her from doing harm. We do not change that limit today; we simply abide by it.\nThe trial court dismissed the plaintiffs\u2019 \u00a7 302B claim because the jail in this case did not commit an affirmative act, and the Court of Appeals affirmed. To the extent that respondents contend they raised this issue in their answer to the petition for review, we note that we granted only the petition for review; therefore, the \u00a7 302B claim is not before us.",
+        "type": "majority",
+        "author": "Owens, J."
+      },
+      {
+        "text": "Yu, J.\n\u00b623 (dissenting) \u2014 The issue presented is not whether counties should be subject to an expansive duty to prevent recidivism by former jail inmates. Rather, the issue presented is whether the evidence in the record is sufficient to create a factual question about whether Skagit County fulfilled its duty to protect third parties from foreseeable violence by pretrial detainees and jail inmates in accordance with Restatement (Second) of Torts \u00a7 319 (Am. Law Inst. 1965) (\u00a7 319). The majority limits the scope of this duty to maintaining physical control over the detainee or inmate during periods of lawful confinement, categorically excluding any other types of reasonable precautions a county might take. Such a limitation is inconsistent with our precedent, and the evidence in the record is sufficient to raise factual questions that should have precluded summary judgment. I would therefore affirm the Court of Appeals and must respectfully dissent.\nFACTUAL BACKGROUND\n\u00b624 Because the duty imposed by \u00a7 319 requires a highly fact-specific inquiry, I present these additional facts to supplement the factual summary in the majority opinion. And as the nonmoving parties at the summary judgment stage, the plaintiffs are entitled to have \u201call facts submitted and all reasonable inferences therefrom\u201d viewed in the light most favorable to them. Taggart v. State, 118 Wn.2d 195, 199, 822 P.2d 243 (1992).\n\u00b625 The records from Skagit County\u2019s own jail and sheriff\u2019s office indicate that Skagit County had known for years that Isaac Zamora suffered from mental health issues. See Clerk\u2019s Papers (CP) at 3551 (\u201cAt this time we are aware that ISAAC ZAMORA does have some mental problems and his mom will be monitoring him, calling if there is any change.\u201d (emphasis added)). The events surrounding Zamora\u2019s incarceration in Skagit County Jail in the spring of 2008 reaffirmed this knowledge and also strongly indicated that his condition was worsening and becoming potentially dangerous.\n\u00b626 On April 4, 2008, Skagit Emergency Communications Center received a hang-up call from the Zamora residence and dispatched Skagit County deputies to investigate. Zamora explained that he had called 911 and \u201cjust wanted to thank us and the dispatcher for a response the other day.\u201d Id. at 3554. The deputies arrested Zamora on two outstanding warrants and described him in their reports as \u201cverbally abusive\u201d and \u201crambling.\u201d Id. At the request of jail staff, Zamora was taken to a hospital to determine whether \u201che was fit for jail\u201d at all. Id. Zamora was ultimately housed in the \u201cC-Pod\u201d unit of Skagit County Jail, which is \u201csort of protective custody\u201d for inmates who are \u201canti-social,\u201d are \u201cfearful\u201d of others, are \u201cdisruptive\u201d or \u201cthreatening\u201d to the general population, or suffer from mental illness. Id. at 2581.\n\u00b627 By this time, Zamora\u2019s mother was very concerned about his deteriorating mental health. Three days after Zamora was taken to jail, she wrote a letter to the Skagit County prosecutor, requesting that his sentence include \u201ca mental health evaluation and treatment.\u201d Id. at 142. She also spoke to a Skagit County corrections officer by phone that day, reporting that she was \u201cafraid\u201d of Zamora due to his mental illness and unpredictable behavior. Id. at 2580. Zamora\u2019s mother reported he was \u201cbi-polar and is aggressive [and] has anger problems,\u201d and \u201cbegged\u201d the officer to keep Zamora in jail and get him mental health treatment. Id. at 3681. The next day, a mental health counselor asked Zamora if he would like contact with a mental health provider, but he would not answer the question at that time. Id. at 3683.\n\u00b628 However, while Zamora was in Skagit County Jail, he did make three separate requests for mental health care. The first mental health counselor Zamora spoke with described him as having \u201c[p]ersecutorial thoughts,\u201d being \u201ceasily moved into rageful thinking,\u201d having \u201cpressured speech,\u201d feeling \u201cvictimized,\u201d having \u201c[s]ome grandiosity\u201d about \u201chis role in the world,\u201d and suffering from \u201canxiety\u201d that \u201csounds like [a] panic attack.\u201d Id. at 3685. The counselor concluded, \u201cHe needs something!\u201d Id. However, because Zamora was \u201cparanoid about poison and not messing [with] his brain,\u201d the counselor entreated, \u201cCan a person in medical please meet with him if meds are approved and address his fears?\u201d Id. Three days later, a physician approved a prescription for Lamictal, an antiseizure medication that is often used as a mood stabilizer. There is no indication that anyone followed up on the counselor\u2019s urgent request that a medical professional meet with Zamora regarding this medication.\n\u00b629 Zamora later spoke with a different mental health counselor and stated he was taking his Lamictal, although the medication log indicated he was refusing it. Id. at 3687. Zamora also told the counselor that he would take medication to help him sleep, but not any other \u201c \u2018mental\u2019 medications.\u201d Id. He \u201cexpressed extreme anger\u201d regarding his mother\u2019s efforts to get him mental health treatment and asked the counselor to call his mother and \u201ctell her to \u2018get the fuck out of my life.\u2019 \u201d Id. The counselor noted he \u201cappeared upset, [was] easily angered,\u201d and had \u201crambling style speech.\u201d Id. The counselor\u2019s recommendation was to \u201ccontinue to offer psych meds.\u201d Id.\n\u00b630 After Zamora had spent a little over a month in Skagit County Jail, he made a third mental health request, stating, \u201c[I\u2019]d like [t]o talk because [I] keep seeing black dots and white flashes.\u201d Id. at 2958. Unlike Zamora\u2019s previous mental health requests, there are no notes indicating whether there was any follow-up on this third request.\n\u00b631 On May 15, 2008, after spending approximately 6 weeks in Skagit County Jail as a pretrial detainee, Zamora pleaded guilty to one count of malicious mischief in the second degree and one count of possession of a controlled substance. Id. at 3483, 3494. He was sentenced to 6 months of confinement, which, \u201cif medically appropriate/required,\u201d could be served as in-home detention. Id. at 3498. Following confinement, Zamora was to serve 12 months of community supervision with conditions including \u201cmental health eval[u-ation]/treatment,\u201d a \u201cdrug evaluation,\u201d and was to \u201ccomply with all treatment recommendations.\u201d Id. at 3499. Two weeks later, Zamora was transferred to Okanogan County Corrections Center pursuant to an interlocal agreement. However, Skagit County transferred only part of Zamora\u2019s file, and did not provide Okanogan County with his judgment and sentence or other information about Zamora\u2019s mental health care needs. Id. at 2540, 2618. Zamora remained in Okanogan County Corrections Center for approximately 2 months.\n\u00b632 Three days after Zamora was released, his mother called 911 because Zamora \u201cwas aggressive and angry towards his mother and brother.\u201d Id. at 2858. The responding deputy discovered Zamora had an outstanding warrant, arrested him, and took him back to Skagit County Jail. Zamora\u2019s mother told officers that he was \u201csuffering from undiagnosed and untreated mental illness and that he has been a problem for some time.\u201d Id. at 3557. The deputy who brought Zamora to the jail specifically asked them not to release Zamora the same day in order to give his mother time to seek a no-contact order. Zamora was released the next day on his own recognizance.\n\u00b633 About a month later, one of Zamora\u2019s neighbors, Clinton Griffith, called police to report Zamora had confronted Griffith\u2019s wife, demanding to know how long she had been living there. As Zamora left, he apparently tore down a sign on Griffith\u2019s gate. Griffith was less concerned about the property damage than about Zamora\u2019s \u201cweird behavior\u201d and the possibility that he was suffering from \u201csome sort of mental illness.\u201d Id. at 3562. On that same day, Zamora underwent a mental health evaluation to determine his eligibility for services from the Department of Social and Health Services. Zamora \u201capparently really needed help,\u201d id. at 162, and the evaluator found him qualified for services. Zamora\u2019s mother viewed this evaluation as a \u201cglimmer of hope\u201d because in the preceding weeks he\u2019d \u201cbeen progressively getting more seriously mentally ill with no treatment, no diagnosis, no help in sight.\u201d Id. at 181.\n\u00b634 The violence underlying this lawsuit occurred the next day. Another of Zamora\u2019s neighbors, Chester Rose, called Zamora\u2019s mother to say Zamora was in Rose\u2019s house and \u201cdidn\u2019t seem to be himself.\u201d Id. at 170. Zamora apparently let himself into Rose\u2019s house, then demanded to know what Rose was doing there. Zamora\u2019s mother told Rose to call the police, which he did, and Skagit County Sheriff\u2019s Deputy Anne Jackson responded. Upon getting out of her patrol car at Rose\u2019s house, Deputy Jackson encountered Zamora and the two exchanged gunfire. Deputy Jackson was shot six times and died at the scene. In the ensuing melee, five of Zamora\u2019s neighbors were also killed and four more were injured.\nANALYSIS\n\u00b635 As correctly noted by the majority, the duty contemplated by \u00a7 319 stems from the special relationship that arises where one \u201ctakes charge\u201d of someone else who has a known likelihood of harming others if not controlled. However, the majority incorrectly seizes on the single word \u201ccontrol\u201d to unduly limit the scope of that duty. This interpretation is inconsistent with our precedent. It also encourages counties to detain individuals with known mental health issues in jail without making reasonable efforts to provide them with adequate treatment, to transfer such individuals to another county without providing adequate information about their mental health needs, and to release such individuals into the community with more severe mental health problems than they had to begin with. We should not tolerate, much less encourage, such practices, which contribute to a revolving door, conveyor belt system of justice.\nA. Scope of the duty to control\n\u00b636 The majority\u2019s analysis rests on a single word: \u201ccontrol.\u201d From this single word, the majority concludes that so long as Skagit County maintained physical control over Zamora while he was lawfully in custody, Skagit County fully discharged its \u00a7 319 duty. However, the scope of \u00a7 319 duty to control depends on the nature of the specific relationship at issue; it is not strictly limited to physical control.\n\u00b637 Indeed, the very first case in which this court adopted \u00a7 319 applied it to the relationship between the State and parolees under its supervision. Taggart, 118 Wn.2d at 219. A parolee, by definition, is not within the State\u2019s immediate physical control, and we specifically rejected the argument that the duty imposed by \u00a7 319 is limited to custodial relationships involving physical control over a person. Id. at 223. Nevertheless, we held \u201cthat the State has a duty to take reasonable precautions to protect against reasonably foreseeable dangers posed by the dangerous propensities of parolees,\u201d id. at 217 (emphasis added), and we evaluated the scope of those reasonable precautions in light of the actual scope of the State\u2019s authority over parolees, id. at 219-20. Our subsequent case law has adhered to this approach of evaluating the actual relationship giving rise to a \u00a7 319 duty to determine its proper scope. See, e.g., Osborn v. Mason County, 157 Wn.2d 18, 24, 134 P.3d 197 (2006); Joyce v. Dep\u2019t of Corr., 155 Wn.2d 306, 320 n.3, 119 P.3d 825 (2005). In light of this precedent, it seems anomalous to hold, as the majority appears to, that \u00a7 319 imposes only a limited duty on counties to maintain physical control over its jail population, even though it imposes a broader duty on a state parole officer to take reasonable precautions to prevent foreseeable violence by parolees in the community.\n\u00b638 There are, without question, important limitations on a county\u2019s authority to control its jail population. Of course, the only acts or omissions that Skagit County could be held liable for are those that occurred during its special relationship with Zamora while he was in custody. See, e.g., Joyce, 155 Wn.2d at 319; Smith v. Dep\u2019t of Corr., 189 Wn. App. 839, 849-50, 359 P.3d 867 (2015), review denied, 185 Wn.2d 1004, 366 P.3d 1244 (2016). There are also statutory, common law, and constitutional limitations on a county\u2019s authority that necessarily limit the scope of its duty. See Osborn, 157 Wn.2d at 24-25; Joyce, 155 Wn.2d at 320 n.3; Couch v. Dep\u2019t of Corr., 113 Wn. App. 556, 571, 54 P.3d 197 (2002). For instance, as amicus rightly notes, Skagit County cannot be held liable for failing to involuntarily medicate or civilly commit Zamora if it did not have the constitutional and statutory authority to do so. See Br. of Amicus Curiae Am. Civil Liberties Union of Wash. at 5-8.\n\u00b639 It must also be emphasized that in this context, as in all negligence cases, \u201conly reasonable care is owed.\u201d Lowman v. Wilbur, 178 Wn.2d 165, 170, 309 P.3d 387 (2013). The law does not demand perfect results, but merely reasonable efforts. For example, while Skagit County had the duty to provide Zamora with necessary medical treatment, including mental health care, while he was in custody, it had no overarching duty to completely rehabilitate Zamora or somehow cure his mental illness. See RCW 70.48.130(1); Gregoire v. City of Oak Harbor, 170 Wn.2d 628, 635-36, 244 P.3d 924 (2010) (Sanders, J., lead opinion); id. at 646 (Madsen, C.J., concurring/dissenting); cf. Melville v. State, 115 Wn.2d 34, 38-39, 793 P.2d 952 (1990) (holding that general statutes do not impose a specific duty on the Department of Corrections to provide a particular course of mental health care treatment).\n\u00b640 The record here indicates several reasonable precautions that might have been within the scope of Skagit County\u2019s \u00a7 319 duty. Skagit County\u2019s own mental health counselor recommended a reasonable step that Skagit County could have taken\u2014having a medical doctor try to talk to Zamora about psychiatric medication. CP at 3685. While a doctor approved a prescription for Lamictal, it is not clear whether any doctor ever met with Zamora to address his fears or to evaluate whether Lamictal was an appropriate medication in light of Zamora\u2019s known symptoms and barriers to treatment. Id. at 2539-40, 2544-45. Moreover, \u00a7 319 unquestionably imposes \u201ca duty to protect foreseeable victims of criminals, mental patients, and others leaving its custody.\u201d Osborn, 157 Wn.2d at 24 (emphasis added). But when Zamora was transferred to Okanogan County Corrections Center, Skagit County provided only part of his file and no information on his mental health care needs, potentially curtailing Okanogan County\u2019s ability to address those needs. CP at 2540, 2618. Under the majority\u2019s reasoning, however, even the basic step of transferring Zamora\u2019s file along with his person was categorically outside Skagit County\u2019s \u00a7 319 duty. This cannot be a legitimate limit on Skagit County\u2019s duty.\n\u00b641 The majority rightly acknowledges that \u201c[a] variety of actions might be needed to control a person to prevent him or her from doing harm.\u201d Majority at 582 n.4. However, this acknowledgment is inconsistent with the majority\u2019s apparent conclusion that such actions do not include reasonably following up on available information and conveying that information to other responsible parties. Those are in fact precisely the type of actions that may be required to fulfill a \u00a7 319 duty because the ability to meaningfully control a foreseeably violent person necessarily requires adequate information about that person. See, e.g., Joyce, 155 Wn.2d at 316-17 (\u201c[A] jury could conclude that this duty was breached by the State\u2019s failure to report egregious violations of the conditions of release to the court so that the trial judge could take action appropriate to the offender\u2019s conduct.\u201d); Taggart, 118 Wn.2d at 214 (parole officer allegedly failed to \u201cprovide his superior with relevant information necessary to enable the superior to make an informed decision whether to issue a parole warrant\u201d). The majority does not explain why this case must be different, but nevertheless shifts the focus of its inquiry to whether Skagit County maintained basic, physical control over Zamora while he was in custody.\n\u00b642 By focusing only on physical control, the majority\u2019s analysis treats the special relationship between a county and its jail population as analogous to the relationship between a warehouse and its inventory. This is unacceptable as applied to anyone, but is particularly disconcerting as applied to a presumptively innocent pretrial detainee who is known to be suffering from mental illness, as Zamora was for most of the time he was in Skagit County Jail. I therefore cannot join the majority.\nB. Foreseeability and proximate cause\n\u00b643 Because the majority does not need to reach the other issues raised, I address them only briefly. I would affirm the Court of Appeals holding that there are material factual questions precluding summary judgment dismissal of the plaintiffs\u2019 \u00a7 319 claim.\n\u00b644 First, Skagit County argues that it did not owe any take charge duty to the victims because their injuries and deaths occurred after Zamora left its custody. As the Court of Appeals correctly determined, \u201c[T]his argument confuses the existence of a duty with the scope of the duty.\u201d Binschus v. Dep\u2019t of Corr., 186 Wn. App. 77, 95, 345 P.3d 818, review granted, 184 Wn.2d 1001, 357 P.3d 665 (2015). Section 319 itself plainly contemplates that the duty extends to anyone who is foreseeably injured by a breach occurring during the take charge relationship, even if the injury occurs later. Most on point is the first illustration:\nA operates a private hospital for contagious diseases. Through the negligence of the medical staff!,] B, who is suffering from scarlet fever, is permitted to leave the hospital with the assurance that he is entirely recovered, although his disease is still in an infectious stage.... B ... communicate [s] the scarlet fever ... to D. ... A is subject to liability to D.\nRestatement (Second) of Torts \u00a7 319 cmt. a, illus.1 (Am. Law. Inst. 1965). In this illustration, A\u2019s take charge relationship with B ended when B was permitted to leave the hospital. However, A\u2019s negligence during its take charge relationship with B foreseeably caused D\u2019s later injury, so A is liable.\n\u00b645 Our case law is consistent with this analysis. Most on point is Petersen v. State, 100 Wn.2d 421, 671 P.2d 230 (1983). In Petersen, a psychiatric patient had a schizophrenic-type reaction to drugs and the psychiatrist determined that the patient\u2019s symptoms were likely to return if the patient used drugs again or went off his medication. Id. at 428. The psychiatrist also determined that the patient was \u201cquite likely\u201d to resume taking drugs and stop taking his medication if released, but the psychiatrist did not seek additional involuntary commitment or \u201ctake other reasonable precautions.\u201d Id. The patient was released, resumed using drugs, and injured another person in a car accident while under the influence. Id. at 422-23. This court held that even though the car accident occurred after the psychiatrist\u2019s relationship with the patient ended, the psychiatrist might be liable for the injuries because the breach occurred during the relationship. Id. at 428.\n\u00b646 Once a special relationship giving rise to a \u00a7 319 duty is established, the question of whether the actual injuries suffered by the particular victims were foreseeable is a question of fact \u201cand should not be decided as a matter of law unless reasonable minds could not differ.\u201d Joyce, 155 Wn.2d at 321 n.3; see also Taggart, 118 Wn.2d at 224-25. Here, reasonable minds could differ. Zamora\u2019s release into the community was not only foreseeable, but certain. And the victims were Zamora\u2019s neighbors, members of the immediate community into which Skagit County knew he would be released. Whether Zamora\u2019s acts of violence against them were foreseeable should be resolved by the trier of fact.\n\u00b647 Additionally, Skagit County contends that proximate cause is precluded as a matter of law. \u201cWashington \u2018recognizes two elements to proximate cause: [clause in fact and legal causation.\u2019 \u201d Lowman, 178 Wn.2d at 169 (alteration in original) (quoting Hartley v. State, 103 Wn.2d 768, 777, 698 P.2d 77 (1985)). While proximate cause does present a close question in this case, I would hold it cannot be resolved as a matter of law based on the record presented.\n\u00b648 As to cause in fact, Skagit County contends that there is no evidence that Zamora would have consented to any additional mental health care measures or that any such measures would have been effective. However, the evidence in the record indicates that Zamora\u2019s willingness to accept mental health care fluctuated\u2014he did in fact specifically request mental health treatment on three separate occasions while in Skagit County Jail. CP at 2958, 3685, 3687. Zamora\u2019s intermittent refusal to participate in mental health treatment cannot be treated as definitive proof that he would certainly have refused all treatment if, for instance, a medical professional had spoken to him as Skagit County Jail\u2019s mental health counselor had requested. Id. at 3685. Moreover, the record indicates that after the shootings, Zamora was confined at Western State Hospital and took medications that did in fact control his psychotic symptoms. Id. at 2545. This is significantly more concrete evidence than what we have rejected in the past as overly speculative. See, e.g., Melville, 115 Wn.2d at 40-41.\n\u00b649 As to legal causation, Skagit County contends that the chain of causation was broken as a matter of law. However, in the specific context of a duty imposed by a special relationship, we have already held that \u201c[t]he question of legal causation is so intertwined with the question of duty that the former can be answered by addressing the latter.\u201d Taggart, 118 Wn.2d at 226; see also Hertog v. City of Seattle, 138 Wn.2d 265, 284, 979 P.2d 400 (1999). And Skagit County does not point to \u201can actual intervening act\u201d in the record that was sufficient to break the chain of causation. Joyce, 155 Wn.2d at 321-22; see, e.g., Bishop v. Miche, 137 Wn.2d 518, 531-32, 973 P.2d 465 (1999) (where probation officer reported a violation of court-imposed probation conditions and the court chose not to revoke probation, the court\u2019s decision precluded proximate cause as a matter of law). I would therefore hold that summary judgment on the issue of proximate cause was not appropriate.\nCONCLUSION\n\u00b650 I cannot join the majority\u2019s narrow interpretation of the duty imposed by \u00a7 319. And because the evidence, viewed in the light most favorable to the plaintiffs, is sufficient to create genuine issues of material fact on all the elements of their \u00a7 319 claim, I would affirm the Court of Appeals and remand for further proceedings. I respectfully dissent.\nJohnson, Stephens, and Gonz\u00e1lez, JJ., concur with Yu, J.\nAfter modification, further reconsideration denied January 17, 2017.\nIn Smith, Division Two of the Court of Appeals held that the Department of Corrections\u2019 (DOC) take charge duty with respect to an offender on community custody \u201cended when [the offender] absconded from community custody and a warrant issued for his arrest.\u2019\u2019 Smith, 189 Wn. App. at 848. However, it separately analyzed DOC\u2019s actions that occurred before the offender absconded, ultimately holding that any such actions or omissions did not proximately cause the victim\u2019s murder, which occurred almost four months later. Id. at 850-53.\nI also note that while N.L. v. Bethel School District, 186 Wn.2d 422, 378 P.3d 162 (2016), does not rely on \u00a7 319, there is considerable tension between the reasoning of the majority in this case and the reasoning of the majority in N.L.\nPetersen discusses the general special relationships contemplated by Restatement (Second) of Torts \u00a7 315 (Am. Law Inst. 1965), rather than the specific take charge relationship contemplated by \u00a7 319. However, it illustrates well that a victim can be foreseeable even if he or she does not suffer injury until after the special relationship ends.",
+        "type": "dissent",
+        "author": "Yu, J."
+      }
+    ],
+    "attorneys": [
+      "Howard M. Goodfriend and Catherine W. Smith {o\u00edSmith Goodfriend PS); Rich A. Weyrich, Prosecuting Attorney for Skagit County, and A.O. Denny, Deputy, and John E. Justice {o\u00ed Law, Lyman, Daniel, Kamerrer & Bogdanovich PS), for petitioner.",
+      "Philip A. Talmadge (of Talmadge/Fitzpatrick/Tribe)-, Nathan P Roberts and John R. Connelly Jr. (of Connelly Law Offices)-, Jaime D. Allen (of Davis Wright Tremaine LLP)-, Jeffrey D. Dunbar (of Ogden Murphy Wallace PLLC)\\ Eugene R. Moses {o\u00ed Law Offices of Gene R. Moses PS)-, Dean R. Brett (of Brett McCandlis Brown PLLC)-, and W. Mitchell Cogdill (of Cogdill Nichols Rein Wartelle Andrews), for respondents.",
+      "Robert W. Ferguson, Attorney General, and Michael P. Lynch, Managing Assistant, on behalf of Washington State, amicus curiae.",
+      "Daniel Brian Heid and Rebecca Boatright on behalf of Washington State Association of Municipal Attorneys, am-icus curiae.",
+      "Shannon M. Ragonesi on behalf of Washington Cities Insurance Authority, amicus curiae.",
+      "Bryan P. Harnetiaux and Daniel E. Huntington on behalf of Washington State Association for Justice Foundation, amicus curiae.",
+      "Matthew J. Segal, Nancy L. Talner, and Mark M. Cooke on behalf of American Civil Liberties Union of Washington, amicus curiae."
+    ],
+    "corrections": "",
+    "head_matter": "[No. 91644-6.\nArgued January 14, 2016.\nDecided September 22, 2016.\nFred Binschus, Individually and as Personal Representative, et al., Respondents, v. The Department of Corrections et al., Defendants, Skagit County, Petitioner.\nHoward M. Goodfriend and Catherine W. Smith {o\u00edSmith Goodfriend PS); Rich A. Weyrich, Prosecuting Attorney for Skagit County, and A.O. Denny, Deputy, and John E. Justice {o\u00ed Law, Lyman, Daniel, Kamerrer & Bogdanovich PS), for petitioner.\nPhilip A. Talmadge (of Talmadge/Fitzpatrick/Tribe)-, Nathan P Roberts and John R. Connelly Jr. (of Connelly Law Offices)-, Jaime D. Allen (of Davis Wright Tremaine LLP)-, Jeffrey D. Dunbar (of Ogden Murphy Wallace PLLC)\\ Eugene R. Moses {o\u00ed Law Offices of Gene R. Moses PS)-, Dean R. Brett (of Brett McCandlis Brown PLLC)-, and W. Mitchell Cogdill (of Cogdill Nichols Rein Wartelle Andrews), for respondents.\nRobert W. Ferguson, Attorney General, and Michael P. Lynch, Managing Assistant, on behalf of Washington State, amicus curiae.\nDaniel Brian Heid and Rebecca Boatright on behalf of Washington State Association of Municipal Attorneys, am-icus curiae.\nShannon M. Ragonesi on behalf of Washington Cities Insurance Authority, amicus curiae.\nBryan P. Harnetiaux and Daniel E. Huntington on behalf of Washington State Association for Justice Foundation, amicus curiae.\nMatthew J. Segal, Nancy L. Talner, and Mark M. Cooke on behalf of American Civil Liberties Union of Washington, amicus curiae."
+  },
+  "file_name": "0573-01",
+  "first_page_order": 611,
+  "last_page_order": 633
+}

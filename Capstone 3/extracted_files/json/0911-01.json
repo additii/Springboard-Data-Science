@@ -1,0 +1,462 @@
+{
+  "id": 12440944,
+  "name": "Claire C. Woodward, Petitioner, v. Ava A. Taylor et al., Respondents",
+  "name_abbreviation": "Woodward v. Taylor",
+  "decision_date": "2016-01-14",
+  "docket_number": "No. 91270-0",
+  "first_page": "911",
+  "last_page": "924",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "184 Wash. 2d 911"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Wash.",
+    "id": 9029,
+    "name": "Washington Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 38,
+    "name_long": "Washington",
+    "name": "Wash."
+  },
+  "cites_to": [
+    {
+      "cite": "571 P.2d 589",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1977,
+      "pin_cites": [
+        {
+          "parenthetical": "applying Washington law to a car accident case involving Washington citizens that occurred in Oregon"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "18 Wn. App. 668",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        471638
+      ],
+      "year": 1977,
+      "pin_cites": [
+        {
+          "parenthetical": "applying Washington law to a car accident case involving Washington citizens that occurred in Oregon"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/18/0668-01"
+      ]
+    },
+    {
+      "cite": "555 P.2d 997",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1976,
+      "opinion_index": 0
+    },
+    {
+      "cite": "87 Wn.2d 577",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1113821
+      ],
+      "year": 1976,
+      "pin_cites": [
+        {
+          "page": "580, 583"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/87/0577-01"
+      ]
+    },
+    {
+      "cite": "Idaho Code \u00a7 6-801",
+      "category": "laws:leg_statute",
+      "reporter": "Idaho Code",
+      "opinion_index": 0
+    },
+    {
+      "cite": "Idaho Code \u00a7 49-654",
+      "category": "laws:leg_statute",
+      "reporter": "Idaho Code",
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "(2)(b)"
+        },
+        {
+          "page": "(1)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "Idaho Code \u00a7 49.654",
+      "category": "laws:leg_statute",
+      "reporter": "Idaho Code",
+      "opinion_index": 0
+    },
+    {
+      "cite": "90 Idaho 96",
+      "category": "reporters:state",
+      "reporter": "Idaho",
+      "case_ids": [
+        4468321
+      ],
+      "weight": 2,
+      "year": 1965,
+      "pin_cites": [
+        {
+          "page": "102",
+          "parenthetical": "stating that whether an individual's action is negligent \"is to be determined by its conformity to or departure from what an ordinarily prudent person would have done under all the circumstances and conditions then existing\""
+        },
+        {
+          "parenthetical": "stating that whether an individual's action is negligent \"is to be determined by its conformity to or departure from what an ordinarily prudent person would have done under all the circumstances and conditions then existing\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/idaho/90/0096-01"
+      ]
+    },
+    {
+      "cite": "426 P.2d 824",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1967,
+      "pin_cites": [
+        {
+          "parenthetical": "stating that negligence \"is the failure to exercise reasonable or ordinary care,\" which is defined as \"that degree of care which an ordinarily careful and prudent person would exercise under the same or similar circumstances or conditions\""
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "71 Wn.2d 119",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1095277
+      ],
+      "year": 1967,
+      "pin_cites": [
+        {
+          "page": "122",
+          "parenthetical": "stating that negligence \"is the failure to exercise reasonable or ordinary care,\" which is defined as \"that degree of care which an ordinarily careful and prudent person would exercise under the same or similar circumstances or conditions\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/71/0119-01"
+      ]
+    },
+    {
+      "cite": "676 P.2d 477",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "weight": 3,
+      "year": 1984,
+      "pin_cites": [
+        {
+          "parenthetical": "\"The extent of the interest of each potentially interested state should be determined on the basis, among other things, of the purpose sought to be achieved by their relevant local law rules and the particular issue involved.\""
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "101 Wn.2d 200",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1139599
+      ],
+      "year": 1984,
+      "pin_cites": [
+        {
+          "page": "204"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/101/0200-01"
+      ]
+    },
+    {
+      "cite": "254 P.3d 818",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2011,
+      "opinion_index": 0
+    },
+    {
+      "cite": "171 Wn.2d 726",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4015795
+      ],
+      "year": 2011,
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/171/0726-01"
+      ]
+    },
+    {
+      "cite": "940 P.2d 261",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1997,
+      "opinion_index": 0
+    },
+    {
+      "cite": "132 Wn.2d 642",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        498329
+      ],
+      "year": 1997,
+      "pin_cites": [
+        {
+          "page": "648"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/132/0642-01"
+      ]
+    },
+    {
+      "cite": "154 P.3d 206",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "weight": 2,
+      "year": 2007,
+      "opinion_index": 0
+    },
+    {
+      "cite": "159 Wn.2d 837",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        3592457
+      ],
+      "year": 2007,
+      "pin_cites": [
+        {
+          "page": "842"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/159/0837-01"
+      ]
+    },
+    {
+      "cite": "331 P.3d 29",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "weight": 2,
+      "year": 2014,
+      "pin_cites": [
+        {
+          "parenthetical": "internal quotation marks omitted"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "180 Wn.2d 954",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4241822
+      ],
+      "year": 2014,
+      "pin_cites": [
+        {
+          "page": "962"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/180/0954-01"
+      ]
+    },
+    {
+      "cite": "349 P.3d 857",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2015,
+      "opinion_index": 0
+    },
+    {
+      "cite": "183 Wn.2d 1001",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        6793824,
+        6793891,
+        6793799,
+        6793846,
+        6793915
+      ],
+      "year": 2015,
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/183/1001-02",
+        "/wash-2d/183/1001-04",
+        "/wash-2d/183/1001-01",
+        "/wash-2d/183/1001-03",
+        "/wash-2d/183/1001-05"
+      ]
+    },
+    {
+      "cite": "340 P.3d 869",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2014,
+      "opinion_index": 0
+    },
+    {
+      "cite": "185 Wn. App. 1",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        4361457
+      ],
+      "year": 2014,
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/185/0001-01"
+      ]
+    },
+    {
+      "cite": "918 P.2d 540",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1996,
+      "opinion_index": 0
+    },
+    {
+      "cite": "82 Wn. App. 454",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        1043795
+      ],
+      "weight": 5,
+      "year": 1996,
+      "pin_cites": [
+        {
+          "page": "456-58"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/82/0454-01"
+      ]
+    },
+    {
+      "cite": "875 P.2d 1213",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1994,
+      "opinion_index": 0
+    },
+    {
+      "cite": "124 Wn.2d 205",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        507090
+      ],
+      "year": 1994,
+      "pin_cites": [
+        {
+          "page": "210"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/124/0205-01"
+      ]
+    },
+    {
+      "cite": "864 P.2d 937",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1994,
+      "opinion_index": 0
+    },
+    {
+      "cite": "123 Wn.2d 93",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        812817
+      ],
+      "year": 1994,
+      "pin_cites": [
+        {
+          "page": "100-01"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/123/0093-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 792,
+    "char_count": 18922,
+    "ocr_confidence": 0.898,
+    "pagerank": {
+      "raw": 4.666970501906556e-08,
+      "percentile": 0.29336420772021843
+    },
+    "sha256": "fb5ad00e6caf4200f93d61e50699715f90d20ce2e180791a28aac79f4281084c",
+    "simhash": "1:b880e0b445874e3c",
+    "word_count": 3078
+  },
+  "last_updated": "2024-02-27T21:13:25.899037+00:00",
+  "provenance": {
+    "date_added": "2019-05-21",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Madsen, C.J., and Johnson, Owens, Fairhurst, Stephens, Gonz\u00e1lez, Gordon McCloud, and Yu, JJ., concur."
+    ],
+    "parties": [
+      "Claire C. Woodward, Petitioner, v. Ava A. Taylor et al., Respondents."
+    ],
+    "opinions": [
+      {
+        "text": "Wiggins, J.\n\u00b61 In this case, we summarize and apply the conflict of laws principles applicable to a tort action between two Washington residents arising out of a single-car automobile accident that occurred in Idaho. The issue before us is whether Washington or Idaho law applies. The plaintiff filed this suit in Washington more than two years after the accident. If Idaho law applies, the plaintiff\u2019s claim is time barred by Idaho\u2019s two-year statute of limitations; if Washington law applies, the plaintiff\u2019s claim is permitted under Washington\u2019s three-year statute of limitations.\n\u00b62 We hold that Washington\u2019s law, including its statute of limitations, applies to this case. For cases filed in Washington State, Washington law presumptively applies. Burnside v. Simpson Paper Co., 123 Wn.2d 93, 100-01, 864 P.2d 937 (1994). If a conflict of law issue arises, a court must first determine that there is an actual conflict between the laws of the interested states. If there is an actual conflict, we decide which state\u2019s law applies under the framework established in the Restatement (Second) of Conflict of Laws (Am. Law Inst. 1971). A difference between the statutes of limitations does not constitute a conflict of law. Rice v. Dow Chem. Co., 124 Wn.2d 205, 210, 875 P.2d 1213 (1994). If there is no actual conflict, Washington\u2019s presumptive law applies. Burnside, 123 Wn.2d at 103. In this case, there is no actual conflict between Washington\u2019s and Idaho\u2019s potentially applicable laws; therefore, Washington\u2019s substantive law applies. Because Washington\u2019s substantive law applies, the plaintiff\u2019s case is not time barred.\nFACTS\n\u00b63 This case comes to us as an appeal of the trial court\u2019s ruling on the defendants\u2019 motion on the pleadings, in which we accept as true the facts alleged in the plaintiff\u2019s complaint.\n\u00b64 On March 27,2011, Ava Taylor was driving a car with Claire Woodward and two other passengers through Idaho as they were all returning to Washington from a trip to Nevada. During their drive through Idaho, the roadway was slick with ice and snow was visible on the side of the road. Despite these road conditions, Taylor set the cruise control to 82 mph\u2014above the legal speed limit of 75 mph.\n\u00b65 At about 2:30 a.m., Taylor lost control of the car, resulting in a rollover accident. Woodward was asleep in the rear passenger seat and, though wearing her seatbelt, suffered significant injuries, including a complex commi-nuted fracture to her neck.\n\u00b66 On May 8, 2013, Woodward filed a negligence suit against Taylor in King County Superior Court, making a single allegation of liability against Taylor: \u201cDefendant Ava Taylor was negligent in driving too fast for the conditions of the roadway at the time and place of the one-car, roll-over collision, as alleged.\u201d Taylor moved to dismiss on the pleadings, arguing that Woodward\u2019s claim was time barred under Idaho\u2019s two-year statute of limitations for personal injury actions. The trial court dismissed the suit, construing Woodward\u2019s negligence claim against Taylor as an allegation of violation of the speed limit and reasoning that \u201cspeeding has to be based upon the rules of the road where the accident occurred.\u201d In doing so, the trial court interpreted Ellis v. Barto, 82 Wn. App. 454, 918 P.2d 540 (1996), as holding that \u201ca negligence action, that\u2019s based upon the rules of the road, is subject to the law of the state where an accident occurred.\u201d Therefore, the trial court held that Idaho\u2019s substantive law applied to the case and, hence, Idaho\u2019s two-year statute of limitations applied pursuant to RCW 4.18.020.\n\u00b67 On appeal, the Court of Appeals, Division One, affirmed the trial court\u2019s dismissal of Woodward\u2019s claim as barred by Idaho\u2019s two-year statute of limitations. Woodward v. Taylor, 185 Wn. App. 1, 340 P.3d 869 (2014), review granted, 183 Wn.2d 1001, 349 P.3d 857 (2015). Similar to the trial court, the Court of Appeals did not evaluate whether an actual conflict of law existed in this case. Rather, the Court of Appeals focused on the most significant relationship test to determine whether Washington or Idaho substantive law applied. The Court of Appeals, applying the most significant relationship test, relied on Ellis for the proposition that the state in which the accident occurred generally has the greater interest in applying its law when the suit is based on a violation of that state\u2019s rules of the road. Finding that Woodward\u2019s suit was based on Idaho\u2019s rules of the road and liability issues arising from that violation, the Court of Appeals held that Idaho\u2019s substantive law and statute of limitations applied and affirmed the trial court\u2019s dismissal of Woodward\u2019s claim. We granted Woodward\u2019s petition for review.\nANALYSIS\nI. Standard of review\n\u00b68 \u2018We review CR 12(b)(6) dismissals de novo.\u201d FutureSelect Portfolio Mgmt., Inc. v. Tremont Grp. Holdings, Inc., 180 Wn.2d 954, 962, 331 P.3d 29 (2014). Dismissal is appropriate under CR 12(b)(6) only if the plaintiff cannot prove \u201c \u2018any set of facts which would justify recovery.\u2019 \u201d Id. (internal quotation marks omitted) (quoting Kinney v. Cook, 159 Wn.2d 837, 842, 154 P.3d 206 (2007)). We take all facts alleged in the complaint as true, and \u201cwe may consider hypothetical facts supporting the plaintiff\u2019s claim.\u201d Id.\nII. Washington\u2019s conflict of laws analysis\n\u00b69 We hold that Washington substantive law applies in this case because there is no actual conflict of law. Because Washington substantive law applies, Washington\u2019s statute of limitations also applies. When a party raises a conflict of law issue in a personal injury case, we apply the following analytical framework to determine which law applies: (1) identify an actual conflict of substantive law, (2) if there is an actual conflict of substantive law, apply the most significant relationship test to determine which state\u2019s substantive law applies to the case, or, if there is no actual conflict, apply the presumptive law of the forum, (3) then, if applicable, apply the chosen substantive law\u2019s statute of limitations according to RCW 4.18.020. E.g., Rice, 124 Wn.2d at 210-13.\n\u00b610 Under the first step, the court must identify an actual conflict of law. FutureSelect Portfolio Mgmt., Inc., 180 Wn.2d at 967. An actual conflict of law exists where the result of an issue is different under the laws of the interested states. Seizer v. Sessions, 132 Wn.2d 642, 648, 940 P.2d 261 (1997). We do not consider differences between two states\u2019 statutes of limitations in making a choice of applicable law. Rice, 124 Wn.2d at 210. If there is no actual conflict, the local law of the forum applies and the court does not reach the most significant relationship test. Seizer, 132 Wn.2d at 648-49.\n\u00b611 In tort, if there is an actual conflict of law, the court applies the two-part most significant relationship test to determine which state\u2019s substantive law to apply to the claim. This two-part most significant relationship test is embodied in Restatement section 6 and sections 145-46. See Williams v. Leone & Keeble, Inc., 171 Wn.2d 726, 735 n.6, 254 P.3d 818 (2011); Southwell v. Widing Transp., Inc., 101 Wn.2d 200, 204, 676 P.2d 477 (1984); see also Restatement ch. 7, topic 1, intro, note.\n\u00b6 12 For the first part of the most significant relationship test, the court evaluates the contacts each interested jurisdiction has with the parties and the occurrence under the factors of Restatement section 145 plus any more specific section of the Restatement that is relevant to the cause of action. See Williams, 171 Wn.2d at 735 n.6; Southwell, 101 Wn.2d at 204. \u201cThe approach is not merely to count contacts, but rather to consider which contacts are most significant and to determine where these contacts are found.\u201d Southwell, 101 Wn.2d at 204.\n\u00b613 For the second part of the most significant relationship test, the court must then evaluate the interests and policies of the potentially concerned jurisdictions by applying the factors set forth in Restatement section 6. See id. (\u201cThe extent of the interest of each potentially interested state should be determined on the basis, among other things, of the purpose sought to be achieved by their relevant local law rules and the particular issue involved.\u201d).\n\u00b614 Finally, after determining which state\u2019s substantive law applies, the court is to determine the appropriate statute of limitations by following the \u201cUniform Conflict of Laws\u2014Limitations Act,\u201d chapter 4.18 RCW. This act states:\n(1) Except as provided by RCW 4.18.040, if a claim is substantively based:\n(a) Upon the law of one other state, the limitation period of that state applies; or\n(b) Upon the law of more than one state, the limitation period of one of those states, chosen by the law of conflict of laws of this state, applies.\n(2) The limitation period of this state applies to all other claims.\nRCW 4.18.020. A difference between two states\u2019 statutes of limitations may not be the basis for finding an actual conflict of law. Rice, 124 Wn.2d at 210. Rather, a court determines the applicable statute of limitations only after first finding an actual conflict of law and then determining the applicable substantive law under the most significant relationship test. Id.\nIII. There is no actual conflict of law\n\u00b615 In this case, there is no actual conflict between the laws of Washington and Idaho under the facts as alleged by Woodward in her compliant. In her complaint, Woodward alleges only general negligence against Taylor. Taylor, however, alleges that an actual conflict arises under the states\u2019 negligence per se laws, family car doctrines, maximum speed limit laws, and comparative fault laws. We address each claim in turn, concluding that no actual conflict of law exists.\nA. There is no actual conflict in negligence law\n\u00b616 No actual conflict exists between Washington and Idaho negligence law because both states apply the same standard of care. Compare Gordon v. Deer Park Sch. Dist. No. 414, 71 Wn.2d 119, 122, 426 P.2d 824 (1967) (stating that negligence \u201cis the failure to exercise reasonable or ordinary care,\u201d which is defined as \u201cthat degree of care which an ordinarily careful and prudent person would exercise under the same or similar circumstances or conditions\u201d), with Nagel v. Hammond, 90 Idaho 96, 102, 408 P.2d 468 (1965) (stating that whether an individual\u2019s action is negligent \u201cis to be determined by its conformity to or departure from what an ordinarily prudent person would have done under all the circumstances and conditions then existing\u201d). Because both states use the same standard of care for negligence, the outcome of whether Taylor was driving negligently would be the same in both states. In the absence of differing outcomes, there is no actual conflict between Washington and Idaho negligence laws. See Seizer, 132 Wn.2d at 648.\nB. There is no actual conflict in maximum speed limit law\n\u00b617 No actual conflict of law exists between Washington and Idaho maximum speed limit laws. Both Washington and Idaho prohibit driving above the state\u2019s maximum speed limit and driving too fast when confronted with hazardous road conditions. RCW 46.61.400; Idaho Code \u00a7 49.654. Under these statutes, the result of Woodward\u2019s claim would not be different because (1) Woodward does not allege speeding above the statutory maximum as the basis for Taylor\u2019s negligence and (2) both states require the same response from drivers when confronted with hazardous road conditions.\n\u00b618 First, Idaho sets its maximum speed limit on highways at 75 mph, which may be increased to 80 mph under certain conditions by Idaho\u2019s transportation board. Idaho Code \u00a7 49-654(2)(b). Conversely, Washington sets its maximum speed limit on state highways at 60 mph, which may be increased to 75 mph by the secretary of transportation upon a determination that the increased speed would be reasonable and safe. RCW 46.61.400(2)(c), .410(1).\n\u00b619 Second, both states require drivers to slow down in response to adverse road conditions. Idaho requires that \u201c[n]o person shall drive a vehicle at a speed greater than is reasonable and prudent under the conditions and having regard to the actual or potential hazards then existing\u201d and that the proper response to hazards is driving more slowly. Idaho Code \u00a7 49-654(1), (2). With nearly identical language, Washington requires that \u201c[n]o person shall drive a vehicle on a highway at a speed greater than is reasonable and prudent under the conditions and having regard to the actual and potential hazards then existing\u201d and that the proper response to hazards is driving at a slower speed. RCW 46.61.400(1), (2). No actual conflict exists between these two statutes because they both require the driver to slow down in response to road hazards\u2014the result of Woodward\u2019s negligence claim would not differ under these two statutes.\n\u00b620 Taylor erroneously argues the different speed limits create an actual conflict of law. Specifically, Taylor states that because Woodward alleged in her complaint that Taylor was exceeding the maximum speed limit, then her claim has to be based on the rules of the road where the accident occurred, i.e., \u201cthe traffic laws of the state of Idaho.\u201d However, Woodward\u2019s sole allegation of negligence against Taylor was that Taylor was driving too fast for the icy conditions. Indeed, Taylor could have been driving too fast for conditions even if she had been driving significantly below the speed limit; alleging driving in excess of the speed limit shows merely the degree of Taylor\u2019s negligent driving.\n\u00b621 Further, Taylor urges us to hold that Idaho\u2019s substantive law applies, citing to the Court of Appeals decision in Ellis, 82 Wn. App. 454. In Ellis, a case involving a two-car accident in Idaho between Washington residents, the Washington Court of Appeals considered which state\u2019s substantive law to apply to the case. Id. at 456-58. After finding that an actual conflict of law existed between the states\u2019 laws regarding vehicle turnarounds, the Court of Appeals then employed the most significant relationship test, ultimately determining that Idaho\u2019s substantive law applied. Id.\n\u00b622 Ellis fails to provide helpful guidance for our decision in this case: unlike Ellis, this case presents no actual conflict of law. More importantly, Taylor\u2019s reading of Ellis overemphasizes the importance of the location of the accident to the exclusion of the other factors of the most significant relationship test from the Restatement. Ellis does not stand for the proposition that the law of the state where an accident occurred presumptively applies. Our conflict of laws analysis incorporates the Restatement factors; as a factors test, each case is unique in the set of facts that it presents.\nC. There is no actual conflict between the states\u2019 comparative fault laws\n\u00b623 Finally, despite the fact that Washington and Idaho comparative fault laws differ, these differences do not create an actual conflict. Washington law provides that an at-fault defendant is liable for a percentage of the plaintiff\u2019s damages, using the percentage of fault attributed to the defendant by the trier of fact, regardless of the percentage of fault attributed to the plaintiff. RCW 4.22.070(1). Indeed, if the plaintiff is fault-free, any at-fault defendant is jointly and severally liable for the total fault attributed to all defendants against whom judgment is entered. Id. Conversely, Idaho law bars a plaintiff from recovering from a defendant who was less at fault for causing the accident than the plaintiff. Idaho Code \u00a7 6-801. Here, Woodward was sleeping in the rear passenger seat when Taylor lost control of the vehicle. Under these facts, which we take as true because this comes from a motion on the pleadings, it is almost inconceivable that a jury could assign more fault to Woodward that to Taylor. Thus, the result under either state\u2019s laws would be the same\u2014Taylor is liable to Woodward.\n\u00b624 Therefore, applying the facts alleged in the complaint to the possibility of conflicting laws in this case shows that there is no actual conflict of law. When there is no actual conflict of law, this court does not reach the most significant relationship test, and Washington\u2019s substantive law applies to Woodward\u2019s negligence claim against Taylor.\nIV. Washington\u2019s substantive law and statute of limitations apply\n\u00b625 When there is no actual conflict of law between states, a court does not reach the most significant relationship test but applies the substantive local law of the forum. See, e.g., Rice, 124 Wn.2d at 210. In this case, because there is no actual conflict of law, Washington\u2019s substantive law applies. Therefore, Washington\u2019s statute of limitations also applies. RCW 4.18.020(1)(a) (stating that when \u201ca claim is substantively based! ] ... [u]pon the law of one other state, the limitation period of that state applies\u201d). Because Washington\u2019s applicable limitation period is three years, RCW 4.16.080(2), Woodward\u2019s claim is not time barred.\nCONCLUSION\n\u00b626 We reverse the Court of Appeals and remand for further proceedings consistent with this opinion.\nMadsen, C.J., and Johnson, Owens, Fairhurst, Stephens, Gonz\u00e1lez, Gordon McCloud, and Yu, JJ., concur.\nRCW 4.18.020(l)(a), \u201cConflict of laws\u2014Limitation periods,\u2019\u2019 states that \u201cif a claim is substantively based . . . [u]pon the law of one other state, the limitation period of that state applies.\u2019\u2019 (Boldface omitted.)\nWashington rejects the lex loci delicti conflict of law approach to tort cases. Johnson v. Spider Staging Corp., 87 Wn.2d 577, 580, 583, 555 P.2d 997 (1976).\nFor example, the cause of action in this case is a personal injury tort; therefore, a court employing the most significant relationship test must consider both Restatement section 145 and section 146.\nPotential conflicts between Washington and Idaho laws governing negligence per se and the family car doctrine are irrelevant because Woodward does not assert these theories of liability against Taylor in her complaint.\nCompare 6 Washington Practice: Washington Pattern Jury Instructions: Civil 10.01 (6th ed. 2012) (\u201cNegligence\u2014Adult\u2014Definition\u2019\u2019), with Idaho Civil Jury Instruction 2.20 (definition of \u201cnegligence\u2019\u2019).\nWe note that if we were to reach the most significant relationship test, Woodward would have a strong argument that Washington\u2019s substantive law applies to her claim. See Mentry v. Smith, 18 Wn. App. 668, 571 P.2d 589 (1977) (applying Washington law to a car accident case involving Washington citizens that occurred in Oregon); see also, e.g., Restatement \u00a7 146 cmt. d.",
+        "type": "majority",
+        "author": "Wiggins, J."
+      }
+    ],
+    "attorneys": [
+      "Daniel L. Hannula and Harold T. Dodge Jr. (of Rush Hannula Harkins & Kyler LLP), for petitioner.",
+      "Mark S. Cole (of Cole Wathen Leid Hall PC); and Glenn E. Barger and Dylan T. Becker (of Barger Law Group PC), for respondents."
+    ],
+    "corrections": "",
+    "head_matter": "[No. 91270-0.\nArgued September 24, 2015.\nDecided January 14, 2016.\nClaire C. Woodward, Petitioner, v. Ava A. Taylor et al., Respondents.\nDaniel L. Hannula and Harold T. Dodge Jr. (of Rush Hannula Harkins & Kyler LLP), for petitioner.\nMark S. Cole (of Cole Wathen Leid Hall PC); and Glenn E. Barger and Dylan T. Becker (of Barger Law Group PC), for respondents."
+  },
+  "file_name": "0911-01",
+  "first_page_order": 953,
+  "last_page_order": 966
+}

@@ -1,0 +1,115 @@
+{
+  "id": 1428347,
+  "name": "Bankers' Reserve Life Company v. Harper",
+  "name_abbreviation": "Bankers' Reserve Life Co. v. Harper",
+  "decision_date": "1933-11-06",
+  "docket_number": "4-3102",
+  "first_page": "81",
+  "last_page": "83",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "188 Ark. 81"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [
+    {
+      "cite": "104 S. W. 200",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "83 Ark. 574",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "58 S. W. (2d) 422",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "187 Ark. 87",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1431968
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/187/0087-01"
+      ]
+    },
+    {
+      "cite": "51 S. W. (2d) 526",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "185 Ark. 1082",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1435205
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/185/1082-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 224,
+    "char_count": 3170,
+    "ocr_confidence": 0.497,
+    "pagerank": {
+      "raw": 9.73380222060099e-08,
+      "percentile": 0.5306230208788234
+    },
+    "sha256": "8e6431151eea2fe8b595ff081e427a460afb6f05608fa88376817cbf3d9549a0",
+    "simhash": "1:2b69163a6b470dbc",
+    "word_count": 538
+  },
+  "last_updated": "2024-02-27T23:51:14.545434+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Bankers\u2019 Reserve Life Company v. Harper."
+    ],
+    "opinions": [
+      {
+        "text": "Johnson, C. J.\nOn former appeal in this case, 185 Ark. 1082, 51 S. W. (2d) 526, we held that the testimony introduced in said cause made a question of fact for a jury to determine whether or not the release was procured by fraud or coercion. That opinion is the law of this case on that question, the testimony here presented being substantially the same as on the former appeal. Therefore, we conclude that the trial court was correct in submitting the question of the validity or invalidity of the release to the jury, and the jury\u2019s finding that the. release was procured by fraud and coercion is supported by the evidence.\nAppellant insists that the trial court erred in refusing the introduction of a letter written by appellee\u2019s sister to appellant in reference to the release. The uncontradicted testimony in this record reflects that this letter was written by appellee\u2019s sister to appellant without the knowledge or consent of appellee. The burden was upon appellant to show that the letter was authorized by appellee, and this it wholly failed to do. The trial court was correct in refusing to admit this letter in evidence.\nNext, it is said that error was committed in permitting the witness Arnold to express his opinion in reference to the demeanor of Mr. Dow, the ag'ent of appellant who procured the release. Under settled principles of this court, a lay-witness may express an opinion after detailing the facts and circumstances upon which the- opinion is based. Pacific Mutual Life Insurance Company v. McCombs, ante p..............\nIt is said that error was committed by the trial court in refusing to admit in evidence certain records of the hospital, wherein the deceased, Samuel Harper, was confined just prior to his death. Admittedly, these records were not made by the offered witness, neither were they made in his presence or hearing. Therefore the authenticity of these records was not established by any testimony. The trial court therefore did not err in so holding.\nIt is next complained that the trial court erred in giving and- refusing to give certain instructions. It suffices to say that we have carefully read the instructions given and refused by the trial court, and we think they conform to previous decisions of this court.\nIt is here argued that the case should now be dismissed, because appellee did not, prior to the institution of this suit, return or offer to return to appellant the money consideration for the release. This court has many times held that this was not necessary where the release was procured by fraud. Union AAid Life Insurance Company v. Harkey, 187 Ark. 87, 58 S. W. (2d) 422. Industrial Mutual Indemnity Company v. Thompson, 83 Ark. 574, 104 S. W. 200.\nLastly, it is contended that the trial- court erred in allowing an attorney\u2019s fee of $400. The trial court heard testimony on the reasonableness of the fee, and we can not say that- his award is contrary to the testimony.\nNo- error appearing, the judgment of the trial court is in \u00bf11 things affirmed.",
+        "type": "majority",
+        "author": "Johnson, C. J."
+      }
+    ],
+    "attorneys": [
+      "Dudley & Barrett, for appellant.",
+      "Oliver & Oliver, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Bankers\u2019 Reserve Life Company v. Harper.\n4-3102\nOpinion delivered November 6, 1933.\nDudley & Barrett, for appellant.\nOliver & Oliver, for appellee."
+  },
+  "file_name": "0081-01",
+  "first_page_order": 99,
+  "last_page_order": 101
+}

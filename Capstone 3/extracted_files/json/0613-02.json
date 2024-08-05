@@ -1,0 +1,85 @@
+{
+  "id": 8729439,
+  "name": "Mays & Meeks vs. Johnson & Clark",
+  "name_abbreviation": "Mays v. Johnson",
+  "decision_date": "1842-07",
+  "docket_number": "",
+  "first_page": "613",
+  "last_page": "616",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "4 Ark. 613"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [
+    {
+      "cite": "12 Mass. 400",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "5 Mass. 547",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        2002208
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mass/5/0424-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 371,
+    "char_count": 6039,
+    "ocr_confidence": 0.544,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2086602346314399
+    },
+    "sha256": "1f66e5d8236c5bce8b67c148806de88f695d669052ed9db39e25eaf3a58e43e6",
+    "simhash": "1:2777a2310b5d29aa",
+    "word_count": 1037
+  },
+  "last_updated": "2024-02-27T21:24:25.647823+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Mays & Meeks vs. Johnson & Clark."
+    ],
+    "opinions": [
+      {
+        "text": "By the Court,\nDickinson, J.\nThe certificate of a land-officer cannot, of itself, be evidence of any fact, unless expressly made so by statute, or act of Congress. It is not the best evidence which can be produced. A copy of the record of the land-office, and the adjudication of the land-officers thereon, properly certified by them as a complete transcript of all the proceedings had before them upon the claim, would, in our opinion, have been competent evidence, and ought to have been received. The certificate of the Receiver, of the result of the adjudication, ought to have been rejected.\nJudgment reversed.",
+        "type": "majority",
+        "author": "Dickinson, J."
+      }
+    ],
+    "attorneys": [
+      "D. Walker, for appellants.",
+      "Hempstead & Johnson, contra."
+    ],
+    "corrections": "",
+    "head_matter": "Mays & Meeks vs. Johnson & Clark.\nThe certificate of a land-officer cannot, of itself, be evidence of any fact, unless express. ly made so by statute of the State, or act of Congrep\u00bb.\nTo prove the rejection of a donation claim, a copy of the record of the land-office, and the adjudication of the land-officers thereon, properly certified by them as a complete transcript, is necessary.\nThis was an action of covenant, determined in the Benton Circuit-Court, before the Hon. Joseph M. Hoge, one of the circuit judges. Johnson & Clark sued Mays & Meeks, on bond, conditioned to refund six hundred dollars, which they thereby acknowledged to have received from Johnson & Clark, for.three Lovely donation claims, if said claims were not allowed at the Helena Land-office, by a certain day.\nThe breach assigned is, that the claims were not allowed at the Helena Land-office within the lime, but were passed upon by the officers, and adjudged spurious and fraudulent. Plea, denying the adjudication and rejection by the land-officers, of the claims, in the words of the breach; on which issue was joined, and the case was submitted to the court, sitting as a jury. The plaintiffs in the court below, to prove that the claims were not allowed, produced the certificate of the Register of the Helena Land-office, that the claims were rejected and spurious, and also a witness, who swore he heard one of the defendants acknowledge he was satisfied the claim was rejected. The defendants objected to the witness being sworn, which was overruled by the court; and they excepted and appealed.\nD. Walker, for appellants.\nIf the claims were rejected at the Helena Land-office, that fact became a matter of of record, and could not be established by parol; and parol evidence is not admissible until the original is accounted for; then its contents may be proven.\nIt is a universal and well established principle of law, a principle as old as the law itself, that the best evidence must be adduced which the case admits of. 1 Stark. Ev. 102, 389.\nLand-officers act judicially, and are required by the act of the 24th May, 1828, granting donations to settlers on lands ceded to the Cherokees, to take all the testimony to establish a right to a donation, and on which the Register and Receiver, both, under their signatures, are to endorse their decision, and be filed and carefully preserved by the Register, whereby it becomes a record. Pub. Land Laws, Inst, and Opin. part 2,p. 413, 415.\nThe testimony, with the decision of the Register and Receiver endorsed thereon, so filed and preserved, constitute the only legitimate medium to prove the fact of rejection, if it did exist. 3 Starkie\u2019s Ev. 1043. Was there possibly any room for doubt on the subject, it would be removed by our statute, which makes copies of entries or papers filed in any land-office of this State, certified by the Register or Receiver, evidence. R. S. 371, sec. G. The Register\u2019s certificate, produced in this case, can prove nothing; he merely Certifies to the existence of a certain fact, without a copy of the adjudication by which that fact is established.\nThe second point is equally well settled. Secondary evidence will not be received, unless it is first shown to the court, that the best or primary evidence is unattainable. This was not done, but the court permitted it to be given, without showing the impossibility of procuring a copy of the record in the land-office; and in this the court undoubtedly erred, for which the judgment should be reversed. As to the admissibility of secondary evidence, the following authorities are cited: Swiff\u2019s Ev. 3. Dillingham vs. Snow, 5 Mass. 547. Slockbridge vs. W. Slockbridge, 12 Mass. 400.\nHempstead & Johnson, contra.\nIt is certainly true that secondary evidence can never be introduced, while the higher is susceptible of being procured; and this rule rests upon the well known principle that the best evidence must be brought forward of which the case is capable. The application, not the rule, is controverted. The certificate was the best evidence which could be adduced. The question raised on the record was in fact one of fraud; and this may be, and usually is proved by parol evidence. 2 Stark. Ev. 555. The testimony of the witness was to be a collateral fact only. But the Register and Receiver are not, by any law of Congress, formed into a court of record. They were not judicial officers;, and the most that can be said, is, that a decision made by them, in the absence of fraud, might be conclusive as to the facts presented. Wilcox vs. Jackson, 13 Pet. R. 511. The acts of May, 1828, of January, 1829, and January, 1830, only authorized the Register and Receiver to take the proper testimony of actual settlement, and subsequent removal, of an applicant, to entitle him to a donation claim, of which kind is the one mentioned, in the condition of the bond on which'suit is instituted. White\u2019s Land Laws. They are officers who are required to report periodically, but who keep no records like a court.\nThe testimony of Paschal was to a collateral fact, and as good as the nature of the case would admit of; not, at least, of so inferior a character as to authorize its exclusion. It was as to an admission made by the party, merely, independent of which the jury could not have found a different verdict; and it may, therefore, be fairly presumed that it had little or no influence upon them."
+  },
+  "file_name": "0613-02",
+  "first_page_order": 613,
+  "last_page_order": 616
+}

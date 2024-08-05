@@ -1,0 +1,145 @@
+{
+  "id": 1428397,
+  "name": "Mayo v. Bank of Marvell",
+  "name_abbreviation": "Mayo v. Bank of Marvell",
+  "decision_date": "1933-12-04",
+  "docket_number": "4-3328",
+  "first_page": "330",
+  "last_page": "334",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "188 Ark. 330"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [
+    {
+      "cite": "188 S. W. 561",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "125 Ark. 141",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1553191
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/125/0141-01"
+      ]
+    },
+    {
+      "cite": "17 S. W. 805",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "55 Ark. 222",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1322200
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/55/0222-01"
+      ]
+    },
+    {
+      "cite": "42 Ark. 25",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        8720647
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/42/0025-01"
+      ]
+    },
+    {
+      "cite": "155 S. W. 117",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "107 Ark. 402",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1344029
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/107/0402-01"
+      ]
+    },
+    {
+      "cite": "46 Ark. 373",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1890492
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/46/0373-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 395,
+    "char_count": 6636,
+    "ocr_confidence": 0.501,
+    "pagerank": {
+      "raw": 9.713765318104917e-08,
+      "percentile": 0.5301397880725864
+    },
+    "sha256": "2edf02f5f6a4c63b0a13dc6e5d9263e059d048b237cc65dcf718c017fd09c34d",
+    "simhash": "1:580e041870e6f112",
+    "word_count": 1150
+  },
+  "last_updated": "2024-02-27T23:51:14.545434+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Mayo v. Bank of Marvell."
+    ],
+    "opinions": [
+      {
+        "text": "McHaney, J.\nAppellant, J. Edwin Mayo, is the administrator in succession of the estate of Walter P. Mayo, and he and the other appellants are the children and sole heirs at law of R. D. Mayo, who was the first administrator of the estate of Walter P. Mayo, with the will annexed. The will, after providing for payment of certain bequests out of life insurance policies to named legatees, made his father, R. D. Mayo, his residuary legatee, and named him as executor of said estate. Walter P. Mayo left a large estate consisting of real and personal properties in Monroe and Phillips counties, Arkansas. R. D. Mayo qualified as executor, and continued to act as such until his death on April 12, 1926. A few days later, appellant, J. Edwin Mayo, was appointed and qualified as administrator in succession of said estate. There was no administration on the estate of R. D. Mayo. The proceeds of the insurance policies bequeathed to various legatees were collected by R. D. Mayo, but neither he nor his son, J. Edwin, paid over the proceeds of such policies to the various legatees, with two exceptions. The estate has never been closed. Walter P. Mayo was the owner of approximately 3,000 acres of land, 1,400 acres of which was in a high state of cultivation, and the remainder consisted of virgin timber lands of a large value. After taking charge of said estate, J. Edwin Mayo and the others heirs of B. D. Mayo, appellants, became indebted to the Bank of Marvell for borrowed money evidenced by notes, in the year\" 1926, for a large sum. Failing to pay same, suit was brought against appellants thereon in Phillips Circuit Court and on November 20, 1931, judgment was rendered on these notes in favor of appellee against appellants, heirs of B. D. Mayo, for the sum of $16,809.47 with interest from date until paid at the rate of 8 per cent, per annum. It appears that, a short time after the rendition of this judgment, Judge John I. Moore, attorney for appellee, agreed with the then counsel for appellants, that no execution would' be issued on said judgment without the consent of their counsel. This agreement was made to afford additional time to appellants to sell some of the assets of'the estate to take care of appellee\u2019s debt, which was a debt incurred by them in the operation of said estate. Pursuant to this agreement, no execution was issued on appellee\u2019s .judgment until March 29, 1933, when appellee caused an execution to be issued out of the Phillips Circuit Court, directed to the sheriff of Monroe County, who made a levy upon the interest of appellants in and to the 3,000 acres of land formerly belonging to Walter P. Mayo, deceased. Thereafter, on May 3, appellants filed this action against appellee and the sheriff of Monroe County, and others to enjoin and restrain the sheriff from selling the property upon which the execution had been levied.\nThe court, on a final hearing, denied the relief prayed, and dismissed the-complaint for want of equity, from which is this appeal.\nThe court correctly dismissed the complaint for want of equity. There was no equity in it. The undisputed proof shows that no debts were probated against the estate of Walter P. Mayo, deceased, and that there was no administration upon the estate of the father, B. D. Mayo, deceased. Under these circumstances, the lands of the decedent were not an asset in his hands for the payment of debts, because- there were no debts. Appel-' lant, J. Edwin Mayo, as administrator, had no right to-' their possession and control. Section 67, 'Crawford & Moses\u2019 Digest, provides that: \u201cLands shall be assets in the hands of the executor or administrator, and shall be deemed in their possession, and subject to their control for the payment of debts.\u201d This court has many times held that the administrator has no control of his decedent\u2019s lands, nor the rents thereof, when not needed for the payment of debts. Stewart v. Smiley, 46 Ark. 373; Jones v. Jones, 107 Ark. 402, 155 S. W. 117, and many more recent cases. The legal title to an intestate\u2019s lands, upon his death, descends to and vests in his heirs at law, subject to the widow\u2019s dower, and the payment of debts through his administrator. Culberhouse v. Shirey, 42 Ark. 25; Mobley v. Andrews, 55 Ark. 222, 17 S. W. 805; Burton v. Gorman, 125 Ark. 141, 188 S. W. 561. There being no debts, the administrator in this case had no title or interest in the lands of the testator. It appears, however, that he took possession both as administrator and in his own right, and with the consent of the other heirs, and attempted to conduct the farming business as such administrator.\nAppellants contend that the administrator was entitled to the protection of the chancery court from an execution against the heirs, and levied upon lands belonging to the estate of the testator. But the administrator is not entitled to protection from a proceeding in which he, as administrator, has no interest. Having no interest in the lands as administrator, it is difficult to perceive what right he would have to prevent the levy of an execution against the heirs.\nIt is also contended by appellants that the jurisdiction of the equity court should have been invoked to prevent the violation of the agreement between counsel above mentioned as to the issuance of wan execution under the judgment in favor , of appellee. It is true that there was such an agreement, but it may be said, first, that it was without consideration; and, second, .that such agreement was not to last forever, 'but only for a reasonable time to enable appellants to make disposition of the timber land belonging to the estate-to satisfy the judgment and other debts incurred by appellants. The undisputed proof shows this to be a fact. This agreement was permitted to stand, and no execution was issued from the date of the judgment to March 29,1933, more than a year and four months, and appellants do not contend that this was not a reasonable time.\nThe rights of legatees are not involved in this appeal, although one of them was a party plaintiff in the action. The legacies were to be paid out of specific funds, the proceeds of certain life insurance policies. Whether by standing by, permitting the executor and administrator in succession to use said funds for other purposes, they may now recover out of the corpus of the residuary estate is another question, and one that is not before us.\nThe decree of the court is therefore correct, and is accordingly affirmed.",
+        "type": "majority",
+        "author": "McHaney, J."
+      }
+    ],
+    "attorneys": [
+      "W. M. Mayo and T. K. Riddick, for appellant.",
+      "Moore, Daggett & Burke, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Mayo v. Bank of Marvell.\n4-3328\nOpinion delivered December 4, 1933.\nW. M. Mayo and T. K. Riddick, for appellant.\nMoore, Daggett & Burke, for appellee."
+  },
+  "file_name": "0330-01",
+  "first_page_order": 348,
+  "last_page_order": 352
+}

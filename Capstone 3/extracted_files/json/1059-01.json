@@ -1,0 +1,199 @@
+{
+  "id": 1403522,
+  "name": "Hill v. McClintock",
+  "name_abbreviation": "Hill v. McClintock",
+  "decision_date": "1928-01-16",
+  "docket_number": "",
+  "first_page": "1059",
+  "last_page": "1066",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "175 Ark. 1059"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [
+    {
+      "cite": "6 J. J. Marsh. (Ky.) 222",
+      "category": "reporters:state",
+      "reporter": "J.J. Marsh.",
+      "case_ids": [
+        8518826
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ky/29/0222-01"
+      ]
+    },
+    {
+      "cite": "203 S. W. 260",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "134 Ark. 121",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1573276
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/134/0121-01"
+      ]
+    },
+    {
+      "cite": "212 S. W. 325",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "138 Ark. 489",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1566988
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/138/0489-01"
+      ]
+    },
+    {
+      "cite": "146 S. W. 489",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "103 Ark. 209",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1352004
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/103/0209-01"
+      ]
+    },
+    {
+      "cite": "129 S. W. 1088",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "95 Ark. 405",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1543491
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/95/0405-01"
+      ]
+    },
+    {
+      "cite": "136 S. W. 981",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "98 Ark. 553",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1316043
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/98/0553-01"
+      ]
+    },
+    {
+      "cite": "204 S. W. 746",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "136 Ark. 83",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "117 S. W. 770",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "89 Ark. 604",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1515273
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/89/0604-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 610,
+    "char_count": 15993,
+    "ocr_confidence": 0.457,
+    "pagerank": {
+      "raw": 1.8992395635532924e-07,
+      "percentile": 0.7300769272648714
+    },
+    "sha256": "0a41273149aa52ffd6da081475070d90cd862d7dd04f1848525206f868c3fe05",
+    "simhash": "1:df76afcacc66ce72",
+    "word_count": 2858
+  },
+  "last_updated": "2024-02-27T16:24:20.967461+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Hill v. McClintock."
+    ],
+    "opinions": [
+      {
+        "text": "Hart, C. J.,\n(after stating the facts). In proceedings of this sort a citizen and taxpayer has a right to he made a party to the proceedings in the county court 'and to appeal from an adverse ruling of the county court relative to the vacation, alteration or establishment of roads. Johnson v. West, 89 Ark. 604, 117 S. W. 770; and McMahan v. Ruble, 136 Ark. 83, 204 S. W. 746, and cases cited.\nBut it is insisted that Hill had no such right, because he signed the original petition for the vacation of the road. The record shows that, before the original petition was acted upon, Hill and other persons who had signed the original petition asked that their names be withdrawn, before the court took any action on the petition. The withdrawal of the name of Hill and the names of the other persons did not affect the jurisdiction of the court, because there was still left upon the petition more than ten names, as required by the statutes. Under these circumstances it has been generally held that names may be withdrawn at any time before the tribunal in which the petition is filed in some way acts or determines the sufficiency of the petition. Elliott on Roads and Streets, '4 Ed., vol., 1, paragraph 374. Numerous cases from the courts of last resort of several States are cited in support of the doctrine.\nThere is no analogy between proceedings of this sort and proceedings to form local improvement districts in cities and towns under the provisions of our Constitution. In such a case our Constitution provides that such improvement district can only be formed where a majority in value of the property owners have signed the petition. The act of signing the petition is in the nature of an election, and is an irrevocable act, because the signing of the petition is in the nature of casting a ballot at an election. A signer of a petition for the establishment of an improvement district cannot revoke Ms act except for cause shown.\nIn the present case more than ten names, as required by the statute, were left on the petition, and it cannot be doubted that Hill and the other remonstrants might withdraw their names at any time before the petition had been acted upon by the county court. Each petitioner acted on his individual responsibility, and, if he should change his mind on the question of whether the road should be vacated or not, he had a right to do so at any time before the county court acted upon the petition. Besides this, the record shows that Hill and the other remonstrants signed the petition upon the representation that the road described in it was the old road leading from' the main public road to the ferry formerly owned and operated by J. M. McClintock. When they found out that they had signed the petition upon a misrepresentation of fact and that the road in question was the one leading to the east and west approaches of the bridge across White River, they had a right to correct their mistake, because the petition had not been acted on by the county court before they withdrew their names.\nIn the circuit court J. M. McClintock filed a motion to dismiss the appeal because Hill and the other parties to the appeal had not filed the appeal bond required by \u00a7 5241 of Crawford & Moses\u2019 Digest. McClintock did not ask or obtain a ruling upon his motion to dismiss the appeal, but, on the other hand, went to trial in the circuit court on the merits of the case. Under our system of pleading he will be deemed to have waived a ruling on his motion to dismiss the appeal and to have consented to the jurisdiction of the circuit court to try the case. Parker v. Wilson, 98 Ark. 553, 136 S. W. 981, and Pratt v. Frazer, 95 Ark. 405, 129 S. W. 1088.\nIt is next insisted that the giving of the appeal bond was a prerequisite to the exercise of jurisdiction by the circuit court, and could not \u00a1be waived. We do not agree with this contention. The giving of the appeal bond was for the benefit of McClintock and the other petitioners to the vacation of the road, and might be waived by them. The only purpose of the bond in the present case would have been for the payment of the costs of the case. If McClintock wished to avail himself of his right under the statute to have the appeal bond given, he should have insisted upon the circuit court acting upon his motion to dismiss the appeal. Nemier v. Bramlett, 103 Ark. 209, 146 S. W. 489, and Free v. Maxwell, 138 Ark. 489, 212 S. W. 325, where it was held that, where no affidavit for appeal was filed before an appeal was granted by the probate court, appellee waived the filing thereof by proceeding* to trial in the circuit court without objection on that account. By analogy, the appeal'bond required by the statute, being for the benefit of the appellee, might be waived by him. Appellee must be held to have waived a provision of the statute for his benefit to which he gave no attention until after the ease had gone to trial on its merits. His stipulation of facts and his agreement to try the case on the merits were sufficient waiver of his right to require the appeal bond under the statute.\nIt f ollows that the circuit court had .jurisdiction of the case, and this brings us to a consideration of the trial of the case in the circuit court on its merits.\nThe- record shows that no notice was given of the proceeding*'and that no viewers were appointed, and consequently no viewer\u2019s report was made in favor of vacating the road, as required under \u00a7 5247 of Crawford & Moses\u2019 Digest. It is contended, however, by counsel for appellee, that this is a proceeding under \u00a7 5249 of Crawford & Moses \u2019 Digest, and that no notice was necessary, under the ruling of Sloan v. Lawrence County, 134 Ark. 121, 203 S. W. 260. We do not agree with this contention of counsel for appellee. Section 5249 confers upon the county court authority to. open new roads and to make such changes in old roads as they may deem necessary and proper. Section 5247 provides that, when any county road or -any part of any county road shall be considered useless, any ten citizens residing* in that portion 'of the comity may make application by petition to the county court to vacate the same. Thus it will be seen that the two sections of the statute operate in entirely different fields. There is a material difference in laying out a new road 'and making* changes and alterations in a public road, and in vacating it.\nIn Thompson v. Crabb, 6 J. J. Marsh. (Ky.) 222, it was said that there is. a palpable distinction between the alteration and the discontinuance of a public highway. In the one case the road is kept up, leading to the principal points, although it may be, by alteration, upon different ground from that on which it was first located. In the other it is abolished altogether, the authorities are exempted from keeping it in repair, and it may be stopped up entirely. Hence it was said that the Kentucky statute providing for a discontinuance of an established road did not apply to the ease of an alteration.\nIn the case at bar we are of the opinion that the proceedings was under \u00a7 5247, providing for the vacation of roads under certain conditions, and that the court erred in vacating' the road, for the reason that the provisions with regard to notice and the appointment of viewers provided by the statute were not complied with.\nThe judgment vacating the property was erroneous for another reason. It will be noted that \u00a7 5247 provides that, when any county road or any part of any county road shall be considered useless, it may be vacated by a proper petition filed in the county court. Under the statute the portion of the road could only be vacated when it was considered useless. The question of whether the part of- the road asked to be vacated had become useless was one of fact to be determined on the evidence. The question of the utility or non-utility of the part of the highway asked to. be vacated was therefore one for judicial determination, which could not be arbitrarily exercised by the county court.\nThe undisputed evidence shows that the part of the road asked to be vacated connected the east and west approaches to the bridge over White River with, the Bankhead Highway, which is a part of the State system of highways, and is one which receives aid from the United States. The court will take judicial notice' that White River is a navigable river, and, if the approaches of the public road which connect with the bridge across that river should be vacated, the use of the whole road would be materially affected, and the use of the bridge as a means of crossing the river would be entirely abolished. Therefore it will be seen that, as long as the bridge is used as a part of the State Highway and as a means of crossing White River, the public road leading to the bridge on each side of it cannot, in the very nature of things, be considered useless, and it was erroneous for the county court to so hold. As a practical matter, those parts of the public road which are used as approaches to the bridge can never be considered useless as long as the (bridge is a part of the public highway for crossing White River. The circuit court affirmed the judgment of the county court vacating the road, and thereby adopted the view of the matter held by the county court, and committed error in so holding.\nOther questions are pressed upon us for a reversal of the judgment, but the views which we have expressed are conclusive of the case. Hence it is not necessary to state, consider or determine the other questions relied upon by counsel for appellants for a reversal of the judgment.\nIt follows that the judgment will be reversed, and the cause will be remanded, with directions to the circuit court to reverse the judgment of the county court vacating the road in question, and to certify its judgment down to the county court, to the end that the judgment of the circuit court may be adopted by the county court and entered upon its record as the judgment of the county court. That is to say, the judgment of the circuit court will be that the order of the county court vacating the road in question will be reversed, and the county court ordered to dismiss the petition of J. M. MeClintock and others asking for a vacation of the public road in question. It is so ordered.",
+        "type": "majority",
+        "author": "Hart, C. J.,"
+      }
+    ],
+    "attorneys": [
+      "H. W. Applegate, Attorney General, Hal Norwood, Assistant, Robinson, House Jh Moses and John D. '$ Cooper Thweatt, for appellant.",
+      "Emmet Vaughom and J. F. Holtzendorff, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Hill v. McClintock.\nOpinion delivered January 16, 1928.\n1. Highways \u2014 proceeding to vacate road \u2014 parties.\u2014In a proceeding in the county couft to vacate a public road, a citizen and taxpayer has the right to he made a party and to appeal from an adverse ruling of the county court.\n2. Highways \u2014 petition to vacate road \u2014 right to withdraw names OF petitioners. \u2014 Citizens and taxpayers who signed a petition to vacate a road were entitled to withdraw their names before the county court acted on the petition, where the withdrawal of their names did not affect the court\u2019s jurisdiction.\n3.. Highways \u2014 petition to vacate road \u2014 right to withdraw names. \u2014 'Where citizens and taxpayers signed a petition to vacate a road upon a misrepresentation of fact, they had a right to correct their mistake by withdrawing their names, before the petition was acted on by the county court.\n4. Courts \u2014 appeal to circuit court \u2014 waiver of requirement of bond. \u2014 -On appeal to the circuit court from an order of the county court vacating a public road, appellees by consenting to a trial on the merits, waived a ruling on a motion to dismiss because appellant had not filed the appeal bond required by Crawford & Moses\u2019 Dig., \u00a7 5241.\n5. Highways-^procedure IN' VACATING road. \u2014 A proceeding to vacate a public road is governed by Crawford & Moses\u2019 Dig., \u00a7 5247, providing that, when any county road shall be considered useless, ten citizens may petition the county court to vacate same, \u25a0but not by \u00a7 5249, authorizing the court to open new roads and to make changes in old roads.\n6. Highways \u2014 procedure in vacating road. \u2014 In a proceeding, to vacate a road under Crawford &l Moses\u2019 Dig., \u00a7 5247, failure to give notice of the proceeding and failure to appoint viewers, as required under the statute, held to render the order vacating the road erroneous.\n7. Highways^ \u2014 authority op court to- vacate road. \u2014 Under Crawford & Moses\u2019 Dig., \u00a7 5247, providing that on petition of ten citizens the county court might vacate a road when it shall be considered useless, the court cannot arbitrarily vacate a road without finding that it has become useless.\n8. Evidence \u2014 judicial notice \u2014 navigability op stream. \u2014 The court will take judicial notice that White River is a navigable river.\n9. Highways; \u2014 validity op order vacating road. \u2014 On appeal from the circuit\" court\u2019s judgment affirming the county court\u2019s order vacating a public road, evidence held to show that the road in question was not useless, and hence the judgment was erroneous under Crawford & Moses\u2019 Digest, \u00a7 5247, providing that a road may be vacated when it shall be considered useless.\n.Appeal from Prairie Circuit Court, Northern District ; W. J. Waggoner, Judge;\nreversed.\nSTATEMENT OF FACTS.\nOn the 23d day of July, 1927, J. M. MoClintock and 104 other persons, citizens and taxpayers of the Southern District of Prairie County, Arkansas, filed a petition in the county court to vacate the east and west ends of the public road connecting with the bridge across White River near De Vails Bluff, in said comity. The part of the road asked to be vacated which connected the west end of the bridge with the improved road is 794 feet in length, and the part of the road asked to\" be vacated which connected the east end of the bridge with the public road is 1,356 feet in length. No notice of the time of presenting the petition was given. On the 25th day of July, 1927, a remonstrance signed by Gr. P. Hill, a citizen and taxpayer of said county, and 75 others who signed the original petition, was filed in the county court. Hill and the other persons who signed said remonstrance alleged in it that they had signed the original petition for the vacation of the road because it was represented to them that the road sought to be vacated was that part of the road leading from the main public highway to the old ferry which had been owned and operated by J. M. McClintock. The county court made an order vacating the road, as asked for in the petition.\nOn the 27th day of July, 1927, G. P. Hill and four other persons who had signed the remonstrance filed an affidavit for an appeal to the circuit court from the order vacating said public road. J. M. McClintock filed a motion in the circuit court to dismiss the appeal, on the ground that the parties who. took the appeal had signed the original petition, and because they had failed to file bond for appeal within ten days, .as provided by \u00a7 5241 of Crawford & Moses\u2019 Digest.\nIn the circuit court no action was taken on the motion to dismiss the appeal, but the case was tried upon the facts stated above and upon a written stipulation filed by the parties. The written stipulation contains a definite and particular description of the road to be vacated, which connects the east and west approaches to the bridge over White River near DeVails Bluff, in the Southern District of Prairie County, Arkansas, with State High-, way No. 70. It is further agreed .that said road is a part of the State Highway system and under its control and management, and is known as a part of the Bank-head Highway, designated No. 70 by the United States Government and by the State Highway Department. The stipulation recites that it is to be used as evidence in the trial of the cause in the circuit court in the Northern District of Prairie C'ounty.\nThe circuit court found the issues in favor of J. M. McClintock, and it was ordered and adjudged that the order of the county court be affirmed. The case is here on appeal.\nH. W. Applegate, Attorney General, Hal Norwood, Assistant, Robinson, House Jh Moses and John D. '$ Cooper Thweatt, for appellant.\nEmmet Vaughom and J. F. Holtzendorff, for appellee."
+  },
+  "file_name": "1059-01",
+  "first_page_order": 1075,
+  "last_page_order": 1082
+}

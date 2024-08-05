@@ -1,0 +1,934 @@
+{
+  "id": 12440919,
+  "name": "In the Matter of the Estate of Virginia J. Jepsen. The Estate of Mack Jepsen, Respondent, v. Julie Miles, as Personal Representative, Petitioner",
+  "name_abbreviation": "Estate of Jepsen v. Miles",
+  "decision_date": "2015-09-24",
+  "docket_number": "No. 90874-5",
+  "first_page": "376",
+  "last_page": "392",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "184 Wash. 2d 376"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Wash.",
+    "id": 9029,
+    "name": "Washington Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 38,
+    "name_long": "Washington",
+    "name": "Wash."
+  },
+  "cites_to": [
+    {
+      "cite": "366 U.S. 643",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1285684
+      ],
+      "weight": 3,
+      "year": 1961,
+      "pin_cites": [
+        {
+          "page": "647"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/366/0643-01"
+      ]
+    },
+    {
+      "cite": "131 S. Ct. 1197",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        6023194,
+        4151926,
+        12457263
+      ],
+      "year": 2011,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/562/0428-01",
+        "/vet-app/24/1197-01",
+        "/l-ed-2d/179/0159-01"
+      ]
+    },
+    {
+      "cite": "562 U.S. 428",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6023194,
+        12457263
+      ],
+      "weight": 2,
+      "year": 2011,
+      "pin_cites": [
+        {
+          "page": "440"
+        },
+        {
+          "parenthetical": "holding that the deadline for veterans to appeal administrative denial of benefits may be subject to equitable tolling because \"[t]he solicitude of Congress for veterans is of long standing'' (quoting United States v. Oregon, 366 U.S. 643, 647, 81 S. Ct. 1278, 6 L. Ed. 2d 575 (1961))"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/562/0428-01",
+        "/l-ed-2d/179/0159-01"
+      ]
+    },
+    {
+      "cite": "105 Nw. U. L. Rev. 947",
+      "category": "journals:journal",
+      "reporter": "Nw. U. L. Rev.",
+      "weight": 2,
+      "year": 2011,
+      "pin_cites": [
+        {
+          "page": "954-55"
+        },
+        {
+          "page": "959-60"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "275 P.3d 1175",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2012,
+      "opinion_index": 0
+    },
+    {
+      "cite": "168 Wn. App. 109",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        4025872
+      ],
+      "year": 2012,
+      "pin_cites": [
+        {
+          "page": "118"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/168/0109-01"
+      ]
+    },
+    {
+      "cite": "115 P.3d 286",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2005,
+      "opinion_index": 0
+    },
+    {
+      "cite": "154 Wn.2d 574",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        5628632
+      ],
+      "year": 2005,
+      "pin_cites": [
+        {
+          "page": "587-89"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/154/0574-01"
+      ]
+    },
+    {
+      "cite": "173 P.3d 228",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2007,
+      "opinion_index": 0
+    },
+    {
+      "cite": "162 Wn.2d 365",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        3696467
+      ],
+      "year": 2007,
+      "pin_cites": [
+        {
+          "page": "370-71"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/162/0365-01"
+      ]
+    },
+    {
+      "cite": "9 P.3d 845",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2000,
+      "opinion_index": 0
+    },
+    {
+      "cite": "102 Wn. App. 456",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        1301308
+      ],
+      "year": 2000,
+      "pin_cites": [
+        {
+          "page": "463"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/102/0456-01"
+      ]
+    },
+    {
+      "cite": "135 P. 494",
+      "category": "reporters:state_regional",
+      "reporter": "P.",
+      "year": 1913,
+      "opinion_index": 0
+    },
+    {
+      "cite": "76 Wash. 27",
+      "category": "reporters:state",
+      "reporter": "Wash.",
+      "case_ids": [
+        618010
+      ],
+      "year": 1913,
+      "pin_cites": [
+        {
+          "page": "30-31"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash/76/0027-01"
+      ]
+    },
+    {
+      "cite": "137 P.3d 16",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2006,
+      "opinion_index": 0
+    },
+    {
+      "cite": "157 Wn.2d 206",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        3004436
+      ],
+      "year": 2006,
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/157/0206-01"
+      ]
+    },
+    {
+      "cite": "981 P.2d 439",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1999,
+      "opinion_index": 0
+    },
+    {
+      "cite": "138 Wn.2d 650",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        887341
+      ],
+      "year": 1999,
+      "pin_cites": [
+        {
+          "page": "653"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/138/0650-01"
+      ]
+    },
+    {
+      "cite": "43 P.3d 4",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2002,
+      "opinion_index": 0
+    },
+    {
+      "cite": "146 Wn.2d 1",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        960829
+      ],
+      "year": 2002,
+      "pin_cites": [
+        {
+          "page": "9-10"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/146/0001-01"
+      ]
+    },
+    {
+      "cite": "316 P.3d 999",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2013,
+      "opinion_index": 0
+    },
+    {
+      "cite": "179 Wn.2d 438",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4033310
+      ],
+      "year": 2013,
+      "pin_cites": [
+        {
+          "page": "443"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/179/0438-01"
+      ]
+    },
+    {
+      "cite": "342 P.3d 326",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2015,
+      "opinion_index": 0
+    },
+    {
+      "cite": "182 Wn.2d 1002",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "year": 2015,
+      "opinion_index": 0
+    },
+    {
+      "cite": "187 P.3d 758",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2008,
+      "opinion_index": 1
+    },
+    {
+      "cite": "145 Wn. App. 249",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        5737257
+      ],
+      "year": 2008,
+      "pin_cites": [
+        {
+          "page": "258-59"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-app/145/0249-01"
+      ]
+    },
+    {
+      "cite": "559 U.S. 260",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3581753,
+        12447239
+      ],
+      "weight": 3,
+      "year": 2010,
+      "pin_cites": [
+        {
+          "page": "272",
+          "parenthetical": "rule requiring an adversarial proceeding for bankruptcy court to discharge debt is a claim-processing rule, not a jurisdictional rule"
+        },
+        {
+          "parenthetical": "rule requiring an adversarial proceeding for bankruptcy court to discharge debt is a claim-processing rule, not a jurisdictional rule"
+        },
+        {
+          "parenthetical": "rule requiring an adversarial proceeding for bankruptcy court to discharge debt is a claim-processing rule, not a jurisdictional rule"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/559/0260-01",
+        "/l-ed-2d/176/0158-01"
+      ]
+    },
+    {
+      "cite": "546 U.S. 12",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        5984933
+      ],
+      "weight": 3,
+      "year": 2005,
+      "pin_cites": [
+        {
+          "page": "13",
+          "parenthetical": "per curiam"
+        },
+        {
+          "parenthetical": "per curiam"
+        },
+        {
+          "parenthetical": "per curiam"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/546/0012-01"
+      ]
+    },
+    {
+      "cite": "133 S. Ct. 817",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12407338
+      ],
+      "weight": 2,
+      "year": 2013,
+      "pin_cites": [
+        {
+          "page": "821",
+          "parenthetical": "statutory timeline for certain administrative appeal is a claim-processing rule, not a jurisdictional rule"
+        },
+        {
+          "parenthetical": "statutory timeline for certain administrative appeal is a claim-processing rule, not a jurisdictional rule"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/568/0145-01"
+      ]
+    },
+    {
+      "cite": "535 U.S. 625",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        353467
+      ],
+      "weight": 3,
+      "year": 2002,
+      "pin_cites": [
+        {
+          "page": "630",
+          "parenthetical": "\" '[j]urisdiction' means . . . 'the courts' statutory or constitutional power to adjudicate the case.' \" (quoting Steel Co., 523 U.S. at 89)"
+        },
+        {
+          "parenthetical": "\" '[j]urisdiction' means . . . 'the courts' statutory or constitutional power to adjudicate the case.' \" (quoting Steel Co., 523 U.S. at 89)"
+        },
+        {
+          "parenthetical": "\" '[j]urisdiction' means . . . 'the courts' statutory or constitutional power to adjudicate the case.' \" (quoting Steel Co., 523 U.S. at 89)"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/535/0625-01"
+      ]
+    },
+    {
+      "cite": "749 P.2d 754",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1988,
+      "opinion_index": 1
+    },
+    {
+      "cite": "50 Wn. App. 633",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        1706193
+      ],
+      "weight": 2,
+      "year": 1988,
+      "pin_cites": [
+        {
+          "page": "635-36"
+        },
+        {
+          "page": "635-36"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-app/50/0633-01"
+      ]
+    },
+    {
+      "cite": "558 U.S. 67",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3639103
+      ],
+      "weight": 5,
+      "year": 2009,
+      "pin_cites": [
+        {
+          "page": "81"
+        },
+        {
+          "parenthetical": "providing that a will contest petitioner may \"petition to the court having jurisdiction [to] contest the validity of said will\" by following the statute's various timing and service requirements (emphasis added)"
+        },
+        {
+          "page": "81-86",
+          "parenthetical": "certain internal agency procedures are claim-processing rules, not jurisdictional rules"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/558/0067-01"
+      ]
+    },
+    {
+      "cite": "561 U.S. 247",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12455280,
+        3644388
+      ],
+      "weight": 3,
+      "year": 2010,
+      "pin_cites": [
+        {
+          "page": "254",
+          "parenthetical": "\"Subject-matter jurisdiction . . . 'refers to a tribunal's power to hear a case.' \" (internal quotation marks omitted"
+        },
+        {
+          "parenthetical": "\"Subject-matter jurisdiction . . . 'refers to a tribunal's power to hear a case.' \" (internal quotation marks omitted) (quoting Union Pac. R.R. Co. v. Bhd. of Locomotive Eng'rs & Trainmen Gen. Comm. of Adjustment, 558 U.S. 67, 81, 130 S. Ct. 584, 175 L. Ed. 2d 428 (2009)"
+        },
+        {
+          "parenthetical": "\"Subject-matter jurisdiction . . . 'refers to a tribunal's power to hear a case.' \" (internal quotation marks omitted) (quoting Union Pac. R.R. Co. v. Bhd. of Locomotive Eng'rs & Trainmen Gen. Comm. of Adjustment, 558 U.S. 67, 81, 130 S. Ct. 584, 175 L. Ed. 2d 428 (2009))"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/l-ed-2d/177/0535-01",
+        "/us/561/0247-01"
+      ]
+    },
+    {
+      "cite": "565 U.S. 134",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12186041,
+        12445442
+      ],
+      "weight": 7,
+      "year": 2012,
+      "pin_cites": [
+        {
+          "page": "169",
+          "parenthetical": "Scalia, J., dissenting"
+        },
+        {
+          "parenthetical": "Scalia, J., dissenting"
+        },
+        {
+          "parenthetical": "Scalia, J., dissenting"
+        },
+        {
+          "page": "141",
+          "parenthetical": "\"[W]e have pressed a stricter distinction between truly jurisdictional rules, which govern 'a court's adjudicatory authority,' and nonjurisdictional 'claim-processing rules,' which do not.'' (quoting Kontrick, 540 U.S. at 554-55)"
+        },
+        {
+          "parenthetical": "\"[W]e have pressed a stricter distinction between truly jurisdictional rules, which govern 'a court's adjudicatory authority,' and nonjurisdictional 'claim-processing rules,' which do not.'' (quoting Kontrick, 540 U.S. at 554-55)"
+        },
+        {
+          "parenthetical": "\"[W]e have pressed a stricter distinction between truly jurisdictional rules, which govern 'a court's adjudicatory authority,' and nonjurisdictional 'claim-processing rules,' which do not.'' (quoting Kontrick, 540 U.S. at 554-55)"
+        },
+        {
+          "page": "652",
+          "parenthetical": "statutory requirement for a federal habeas corpus petitioners to obtain a certificate of appealability to appeal a district court's final order is a claim-processing rule, not a jurisdictional rule"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/565/0134-01",
+        "/l-ed-2d/181/0619-01"
+      ]
+    },
+    {
+      "cite": "523 U.S. 83",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11503308
+      ],
+      "weight": 4,
+      "year": 1998,
+      "pin_cites": [
+        {
+          "page": "91"
+        },
+        {
+          "page": "89"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/523/0083-01"
+      ]
+    },
+    {
+      "cite": "546 U.S. 500",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        5937941
+      ],
+      "weight": 5,
+      "year": 2006,
+      "pin_cites": [
+        {
+          "page": "511",
+          "parenthetical": "quoting Steel Co. v. Citizens for Better Env't, 523 U.S. 83, 91, 118 S. Ct. 1003, 140 L. Ed. 2d 210 (1998)"
+        },
+        {
+          "parenthetical": "quoting Steel Co. v. Citizens for Better Env't, 523 U.S. 83, 91, 118 S. Ct. 1003, 140 L. Ed. 2d 210 (1998)"
+        },
+        {
+          "parenthetical": "quoting Steel Co. v. Citizens for Better Env't, 523 U.S. 83, 91, 118 S. Ct. 1003, 140 L. Ed. 2d 210 (1998)"
+        },
+        {
+          "page": "503",
+          "parenthetical": "\"This case concerns the distinction between two sometimes confused or conflated concepts: federal-court 'subject-matter' jurisdiction over a controversy; and the essential ingredients of a federal claim for relief.''"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/546/0500-01"
+      ]
+    },
+    {
+      "cite": "124 S. Ct. 906",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        8897340,
+        9066734
+      ],
+      "year": 2004,
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/540/0443-01",
+        "/br/303/0906-01"
+      ]
+    },
+    {
+      "cite": "540 U.S. 443",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        8897340
+      ],
+      "weight": 6,
+      "year": 2004,
+      "pin_cites": [
+        {
+          "page": "454"
+        },
+        {
+          "page": "454"
+        },
+        {
+          "page": "456",
+          "parenthetical": "\"[A] claim-processing rule,... even if unalterable on a party's application, can nonetheless be forfeited if the party asserting the rule waits too long to raise the point.\" (emphasis added)"
+        },
+        {
+          "page": "554-55"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/540/0443-01"
+      ]
+    },
+    {
+      "cite": "124 S. Ct. 1856",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        9259203,
+        5932838
+      ],
+      "year": 2004,
+      "pin_cites": [
+        {
+          "parenthetical": "alteration in original"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/vet-app/17/1856-01",
+        "/us/541/0401-01"
+      ]
+    },
+    {
+      "cite": "541 U.S. 401",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        5932838
+      ],
+      "weight": 4,
+      "year": 2004,
+      "pin_cites": [
+        {
+          "page": "413",
+          "parenthetical": "alteration in original"
+        },
+        {
+          "parenthetical": "alteration in original"
+        },
+        {
+          "page": "413",
+          "parenthetical": "noting that \" 'time prescriptions, . . . even rigid ones' \" are claim-processing rules (emphasis added"
+        },
+        {
+          "page": "413-14",
+          "parenthetical": "statutory timeline for seeking attorney fees in certain situations is a claim-processing rule, not a jurisdictional rule"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/541/0401-01"
+      ]
+    },
+    {
+      "cite": "131 S. Ct. 1197",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        6023194,
+        4151926,
+        12457263
+      ],
+      "year": 2011,
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/562/0428-01",
+        "/vet-app/24/1197-01",
+        "/l-ed-2d/179/0159-01"
+      ]
+    },
+    {
+      "cite": "562 U.S. 428",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6023194,
+        12457263
+      ],
+      "weight": 13,
+      "year": 2011,
+      "pin_cites": [
+        {
+          "page": "435"
+        },
+        {
+          "page": "434"
+        },
+        {
+          "page": "434"
+        },
+        {
+          "page": "434-35"
+        },
+        {
+          "page": "434"
+        },
+        {
+          "page": "435"
+        },
+        {
+          "page": "435"
+        },
+        {
+          "page": "435",
+          "parenthetical": "emphasis added"
+        },
+        {
+          "page": "431",
+          "parenthetical": "statutory timeline for certain judicial appeals is a claim-processing rule, not a jurisdictional rule"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/562/0428-01",
+        "/l-ed-2d/179/0159-01"
+      ]
+    },
+    {
+      "cite": "105 Nw. U. L. Rev. 947",
+      "category": "journals:journal",
+      "reporter": "Nw. U. L. Rev.",
+      "year": 2011,
+      "pin_cites": [
+        {
+          "parenthetical": "discussing recent United States Supreme Court cases"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "137 P.3d 16",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2006,
+      "pin_cites": [
+        {
+          "parenthetical": "quoting In re Marriage of Markowski, 50 Wn. App. 633, 635-36, 749 P.2d 754 (1988)"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "157 Wn.2d 206",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        3004436
+      ],
+      "weight": 8,
+      "year": 2006,
+      "pin_cites": [
+        {
+          "page": "210",
+          "parenthetical": "quoting In re Marriage of Markowski, 50 Wn. App. 633, 635-36, 749 P.2d 754 (1988)"
+        },
+        {
+          "page": "210"
+        },
+        {
+          "page": "213",
+          "parenthetical": "emphasis added"
+        },
+        {
+          "page": "213-14"
+        },
+        {
+          "parenthetical": "emphasis added"
+        },
+        {
+          "page": "210"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/157/0206-01"
+      ]
+    },
+    {
+      "cite": "316 P.3d 999",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2013,
+      "opinion_index": 1
+    },
+    {
+      "cite": "179 Wn.2d 438",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4033310
+      ],
+      "year": 2013,
+      "pin_cites": [
+        {
+          "page": "447"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/179/0438-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1236,
+    "char_count": 31403,
+    "ocr_confidence": 0.873,
+    "pagerank": {
+      "raw": 4.339701094470699e-08,
+      "percentile": 0.2730095461163952
+    },
+    "sha256": "12b9a9f002dc0a04701af41972146fa7802b965af2a1198932890d2e5e241cd6",
+    "simhash": "1:bcadc21ecfcaa489",
+    "word_count": 5094
+  },
+  "last_updated": "2024-02-27T21:13:25.899037+00:00",
+  "provenance": {
+    "date_added": "2019-05-21",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Madsen, C.J., and Fairhurst, Wiggins, and Gonz\u00e1lez, JJ., concur.",
+      "Johnson, Owens, and Gordon McCloud, JJ., concur with Stephens, J."
+    ],
+    "parties": [
+      "In the Matter of the Estate of Virginia J. Jepsen. The Estate of Mack Jepsen, Respondent, v. Julie Miles, as Personal Representative, Petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "Yu, J.\n\u00b61 In order to commence a will contest action, there must be timely personal service of the will contest petition on the estate\u2019s personal representative. Here, the will contest petition was never personally served on the personal representative. The action was therefore never fully commenced and should have been dismissed. We reverse the Court of Appeals.\nFACTUAL AND PROCEDURAL HISTORY\n\u00b62 Virginia J. Jepsen executed her last will and testament on July 1, 2009, and died on November 16, 2011. On December 20, 2011, the superior court admitted Jepsen\u2019s will to probate, declared the estate was solvent, and appointed Julie Miles as personal representative (PR) with nonintervention powers.\n\u00b63 On March 22,2012, Jepsen\u2019s adult son, Mack, filed a petition contesting the validity of Jepsen\u2019s will. Mack\u2019s attorney e-mailed the petition to the PR\u2019s attorney the same day it was filed. There is nothing in the record showing that the PR affirmatively agreed to accept e-mail service on her attorney in lieu of personal service on the PR. On April 27, 2012, the PR filed a response to Mack\u2019s petition, denying its substantive allegations but not raising any affirmative defenses.\n\u00b64 On October 31, 2012, the PR filed a motion to dismiss Mack\u2019s petition because it was not personally served within 90 days of filing. The trial court initially granted the PR\u2019s motion but reversed itself on reconsideration, holding that service under RCW 11.24.010 went solely to personal jurisdiction and that any objection on that basis was waived. The PR appealed, and the Court of Appeals affirmed in an unpublished decision. In re Estate of Jepsen, No. 71732-4-I (Wash. Ct. App. Sept. 8, 2014) (unpublished), http://www .courts.wa.gov/opinions/pdf/717324.pdf, review granted, 182 Wn.2d 1002, 342 P.3d 326 (2015).\nISSUES\n\u00b65 A. Did the Court of Appeals correctly hold that the PR waived any objection to Mack\u2019s failure to comply with RCW 11.24.010?\n\u00b66 B. Is either party entitled to attorney fees and costs on appeal?\nANALYSIS\n\u00b67 RCW 11.24.010 sets forth the steps necessary to commence a will contest action, one of which is personally serving the will contest petition on the PR. Mack did not do so, and the probate of Jepsen\u2019s will is now binding and final. However, we disapprove of the PR\u2019s delay in raising the issue and therefore deny both parties\u2019 requests for attorney fees and costs on appeal.\nA. Under the plain language of RCW 11.24.010, the probate of Jepsen\u2019s will is binding and final\n\u00b68 Questions of statutory interpretation are reviewed de novo. In re Marriage of Buecking, 179 Wn.2d 438, 443, 316 P.3d 999 (2013). We must first consider the statute\u2019s plain language. Dep\u2019t of Ecology v. Campbell & Gwinn, LLC, 146 Wn.2d 1, 9-10, 43 P.3d 4 (2002). In this case, our inquiry ends there. A will contest petitioner must satisfy RCW 11.24.010\u2019s requirements in order to commence a will contest action, and Mack did not do so.\n\u00b69 Will contests are special statutory proceedings governed by ch. 11.24 RCW. In re Estate of Toth, 138 Wn.2d 650, 653, 981 P.2d 439 (1999). RCW 11.24.010 sets a four-month limitations period for will contests and provides in relevant part:\nFor the purpose of tolling the four-month limitations period, a contest is deemed commenced when a petition is filed with the court and not when served upon the personal representative. The petitioner shall personally serve the personal representative within ninety days after the date of filing the petition. If, following filing, service is not so made, the action is deemed to not have been commenced for purposes of tolling the statute of limitations.\nIf no person files and serves a petition within the time under this section, the probate or rejection of such will shall be binding and final.\n(Emphasis added.) This unambiguous language requires no construction. The PR in this case was never personally served with the will contest petition. The probate of Jepsen\u2019s will is therefore binding and final.\n\u00b610 Mack tries to avoid this plain language by contending that personal service of a will contest petition is necessary only to gain personal jurisdiction over the PR and that the PR waived any objection on that basis under CR 12(h)(1). His primary support for this argument comes from In re Estate of Kordon, 157 Wn.2d 206, 137 P.3d 16 (2006). In that case, we held that issuance of a \u201ccitation\u201d under former RCW 11.24.020 (1965) was \u201cequivalent to a civil summons, conferring personal jurisdiction over a party to a will contest.\u201d Id. at 210 (emphasis added). Kordon, however, interpreted RCW 11.24.020, which (in both its current and former versions) sets forth the requirements for giving notice of a will contest action. By contrast, this case concerns RCW 11.24.010, which sets forth the requirements for commencing a will contest action. Washington courts have always strictly enforced the requirements for commencing will contest actions, and we do so again today. See, e.g., Toth, 138 Wn.2d at 656; State ex rel. Wood v. Superior Court, 76 Wash. 27, 30-31, 135 P. 494 (1913); In re Estate of Peterson, 102 Wn. App. 456, 463, 9 P.3d 845 (2000).\n\u00b611 Mack also contends that giving effect to the plain language of RCW 11.24.010 would divest the superior courts of their constitutional jurisdiction over \u201call matters of probate.\u201d Const. art. IV, \u00a7 6. However, \u201cthe legislature may prescribe reasonable regulations that do not divest the court of its jurisdiction.\u201d Buecking, 179 Wn.2d at 449. RCW 11.24.010 does just that by setting forth reasonable statutory prerequisites that must be fulfilled in order to commence a will contest action, which, as noted above, is a special statutory proceeding. Cf. Christensen v. Ellsworth, 162 Wn.2d 365, 370-71, 173 P.3d 228 (2007); James v. Kitsap County, 154 Wn.2d 574, 587-89, 115 P.3d 286 (2005); In re Parentage of Ruff, 168 Wn. App. 109, 118, 275 P.3d 1175 (2012).\n\u00b612 Mack did not complete the necessary steps to commence his will contest action. The probate of Jepsen\u2019s will is therefore binding and final.\nB. Attorney fees and costs are denied\n\u00b613 Both parties request attorney fees and costs on appeal pursuant to RCW 11.96A. 150(1). Mack failed to comply with the plain language of RCW 11.24.010, so we deny his request. However, we disapprove of the PR\u2019s delay in raising the issue, contrary to her statutory duty \u201cto settle the estate ... as rapidly and as quickly as possible, without sacrifice to the probate or nonprobate estate.\u201d RCW 11.48-.010. We therefore deny her request as well.\nCONCLUSION\n\u00b614 For the foregoing reasons, we reverse the Court of Appeals, deny both parties\u2019 requests for attorney fees and costs, and remand for further proceedings consistent with this opinion.\nMadsen, C.J., and Fairhurst, Wiggins, and Gonz\u00e1lez, JJ., concur.\nWe use Mack\u2019s first name for clarity, intending no disrespect.\nMack died in August 2013, and his estate was substituted as the party in interest. Jepsen, slip op. at 2 n.1.\nThe Trust and Estate Dispute Resolution Act, ch 11.96A RCW, \u201cshall not supersede, but shall supplement\u2019\u2019 other Title 11 RCW statutes, including statutes governing will contests. RCW 11.96A.080(2). There is no need for supplementation to resolve the merits of this case.\nAn e-mail to an attorney cannot constitute substantial compliance with personal service on a party where, as here, there is no express waiver of personal service, no agreement for electronic service, see GR 30(b)(4), and no acceptance of service by the PR anywhere in the record. Mack does not raise equitable estoppel, so we express no opinion on that issue.\nAttempting to parse out the \u201cfuzz[y]\u2019\u2019 distinction between procedural \u201clitigation preconditions\u2019\u2019 and \u201cjurisdictional\u2019\u2019 statutes has led to significant confusion in prior cases. Howard M. Wasserman, The Demise of \u201cDrive-By Jurisdictional Rulings,\u201d 105 Nw. U. L. Rev. 947, 954-55 (2011). We decline to add to that confusion, particularly in the special statutory context of a will contest, where there is \u201cno functional difference between a court lacking power to hear the issue [based on a jurisdictional statute] and a court lacking the opportunity to wield that power [based on a litigation precondition]: either way, it is unable to adjudicate the issue.\u2019\u2019 Id. at 959-60. Instead, we adhere to our precedent strictly construing will contest statutes, which set forth reasonable requirements that further the long-standing preference for efficient administration and finality of judgments in probate matters. See Toth, 138 Wn.2d at 656; cf. Henderson v. Shinseki, 562 U.S. 428, 440, 131 S. Ct. 1197, 179 L. Ed. 2d 159 (2011) (holding that the deadline for veterans to appeal administrative denial of benefits may be subject to equitable tolling because \u201c[t]he solicitude of Congress for veterans is of long standing\u2019\u2019 (quoting United States v. Oregon, 366 U.S. 643, 647, 81 S. Ct. 1278, 6 L. Ed. 2d 575 (1961))).\nNotably, the Land Use Petition Act at issue in James specifically provides that certain defenses based on procedural noncompliance are waived if not timely raised. RCW 36.70C.080(2)-(3). The will contest statutes do not contain similar waiver provisions.\nBecause Mack did not fully commence his will contest action, the PR\u2019s response to his petition was superfluous. However, we note that automatic waiver under CR 12(h)(1) is inconsistent with the plain language of RCW 11.24.010 and so would not apply in any event. CR 81(a).",
+        "type": "majority",
+        "author": "Yu, J."
+      },
+      {
+        "text": "Stephens, J.\n\u00b615 (dissenting) \u2014 The primary dispute in this case concerns whether the personal service requirement in the statute governing will contests, RCW 11.24-.010, speaks to the superior court\u2019s subject matter jurisdiction over will contest proceedings or to personal jurisdiction over the personal representative of the decedent\u2019s estate. The distinction is pivotal because a defense that subject matter jurisdiction is improper can be raised at any time, but a defense that personal jurisdiction is improper may be waived. The superior court and the Court of Appeals held that the statute concerns personal jurisdiction and the estate waived the defense. I would affirm.\n\u00b616 The majority takes a different approach. The majority concludes the statute creates a defense that cannot be waived\u2014but without discussing its jurisdictional status at all. In my view, this avoids the proper analysis. Regardless of whether a statute is phrased in \u201cmandatory\u201d terms, the deeply rooted norm in our adversarial litigation process is that a defense is waived if the defense is not timely asserted. CR 12(h)(1). A defense for lack of subject matter jurisdiction is the narrow exception to this rule. CR 12(h)(3). I would hold that RCW 11.24.010 is a claim-processing rule concerning service of process and personal jurisdiction. Because the estate did not timely assert this defense, it is waived and Mack Jepsen\u2019s will contest action should proceed. I respectfully dissent.\nI\n\u00b617 This court recently \u201cclarified that jurisdiction is comprised of only two components: jurisdiction over the person and subject matter jurisdiction.\u201d In re Marriage of Buecking, 179 Wn.2d 438, 447, 316 P.3d 999 (2013). A defense that personal jurisdiction is improper is waived if not timely asserted, CR 12(h)(1), but a defense for lack of subject matter jurisdiction is never waived, CR 12(h)(3). Because of this special allowance for raising issues of subject matter jurisdiction, determining which rules concern subject matter jurisdiction can become a critical issue in litigation.\n\u00b618 We have recognized that confusion abounds in regard to subject matter jurisdiction, and so our \u201crecent cases have narrowed the types of errors that implicate a court\u2019s subject matter jurisdiction.\u201d Buecking, 179 Wn.2d at 448. Likewise, the United States Supreme Court\u2019s \u201crecent cases [have sought] to bring some discipline to the use of this term [jurisdiction].\u201d Henderson v. Shinseki, 562 U.S. 428, 435, 131 S. Ct. 1197, 179 L. Ed. 2d 159 (2011). Recognizing that its prior cases had \u201c \u2018more than occasionally [mis] used the term \u201cjurisdictional,\u201d \u2019 \u201d Scarborough v. Principi, 541 U.S. 401, 413, 124 S. Ct. 1856, 158 L. Ed. 2d 674 (2004) (alteration in original) (quoting Kontrick v. Ryan, 540 U.S. 443, 454, 124 S. Ct. 906, 157 L. Ed. 2d 867 (2004)), the United States Supreme Court has discarded what the court now refers to as \u201cunrefined . . . \u2018drive-by jurisdictional rulings\u2019 that should be accorded \u2018no precedential effect,\u2019 \u201d Arbaugh v. Y&H Corp., 546 U.S. 500, 511, 126 S. Ct. 1235, 163 L. Ed. 2d 1097 (2006) (quoting Steel Co. v. Citizens for Better Env\u2019t, 523 U.S. 83, 91, 118 S. Ct. 1003, 140 L. Ed. 2d 210 (1998)). As in this court, the result has been that the United States Supreme Court has properly narrowed the types of rules that confer subject matter jurisdiction. See, e.g., Howard M. Wasserman, The Demise of \u201cDrive-By Jurisdictional Rulings,\u201d 105 Nw. U. L. Rev. 947 (2011) (discussing recent United States Supreme Court cases).\n\u00b619 The method of analysis followed in the United States Supreme Court\u2019s jurisdiction cases provides a helpful framework for our analysis. In about a dozen cases over the last decade or so, the court has refined its approach to deciding when a rule will be considered jurisdictional. It now distinguishes between jurisdictional rules, on the one hand, and elements of the merits or claim-processing rules, on the other hand.\n\u00b620 As noted, which side of the distinction a rule falls on \u201cis not merely semantic but of considerable practical importance forjudges and litigants.\u201d Henderson, 562 U.S. at 434; see also Gonzalez v. Thaler, 565 U.S. 134, 169, 132 S. Ct. 641, 181 L. Ed. 2d 619 (2012) (Scalia, J., dissenting) (\u201cTerminology is destiny.\u201d). Rules that grant a court subject matter jurisdiction \u201calter [ ] the normal operation of our adversarial system\u201d because the court has an obligation to ensure subject matter jurisdiction is proper and the parties may raise the issue at any point, no matter how late or how inequitable. Henderson, 562 U.S. at 434. These procedures can result in the \u201cwaste of judicial resources and may unfairly prejudice litigants\u201d when, after \u201cmany months of work on the part of the attorneys and the court,\u201d a defect in subject matter jurisdiction is raised for the first time. Id. at 434-35. Yet these procedures are necessary to ensure that courts enter judgments only where they have the jurisdictional power to do so. By contrast, in most other aspects of our adversarial system, the \u201csystem is replete with rules requiring that certain matters be raised at particular times\u201d or else they are waived. Id. at 434. Because \u201cthe consequences that attach to the jurisdictional label may be so drastic,\u201d the United States Supreme Court has \u201curged that a rule should not be referred to as jurisdictional unless it governs a court\u2019s adjudicatory capacity.\u201d Id. at 435. \u201cOther rules, even if important and mandatory, . . . should not be given the jurisdictional brand.\u201d Id.\n\u00b621 Applying the United States Supreme Court\u2019s three-part distinction, I turn first to subject matter jurisdiction. Subject matter jurisdiction refers to the court\u2019s \u201cability to entertain a type of case.\u201d Buecking, 179 Wn.2d at 448 (emphasis added); accord Morrison v. Nat\u2019l Austl. Bank Ltd., 561 U.S. 247, 254, 130 S. Ct. 2869, 177 L. Ed. 2d 535 (2010) (\u201cSubject-matter jurisdiction . . . \u2018refers to a tribunal\u2019s power to hear a case.\u2019 \u201d (internal quotation marks omitted) (quoting Union Pac. R.R. Co. v. Bhd. of Locomotive Eng\u2019rs & Trainmen Gen. Comm. of Adjustment, 558 U.S. 67, 81, 130 S. Ct. 584, 175 L. Ed. 2d 428 (2009))). The statute at issue here, RCW 11.24.010, does not grant the superior court subject matter jurisdiction because it does not confer on the superior court the power to hear this type of case. Indeed, the statute expressly recognizes that the question of the court\u2019s jurisdiction will be determined from another source of law. See id. (providing that a will contest petitioner may \u201cpetition to the court having jurisdiction [to] contest the validity of said will\u201d by following the statute\u2019s various timing and service requirements (emphasis added)). As the statute thus anticipates, the superior court already has subject matter jurisdiction under the Washington Constitution: the Constitution provides that the \u201csuperior court shall have original jurisdiction ... of all matters of probate.\u201d Wash. Const. art. IV, \u00a7 6. Under this constitutional authority, the superior court has the power to adjudicate will contests.\n\u00b622 On the other side of the distinction are elements of the merits and claim-processing rules. The statute at issue, RCW 11.24.010, does not provide the elements of the merits of a will contest petition, so I set that category aside. See, e.g., Arbaugh, 546 U.S. 500 (regarding the distinction between elements of the merits and jurisdictional rules). But as the United States Supreme Court has explained, another category of \u201crules that should not be described as jurisdictional are what we have called \u2018claim-processing rules.\u2019 \u201d Henderson, 562 U.S. at 435. A claim-processing rule is one that \u201cseek[s] to promote the orderly progress of litigation by requiring that the parties take certain procedural steps at certain specified times,\u201d yet it has nothing to do with the court\u2019s subject matter jurisdiction. Id. \u201cFiling deadlines, such as the 120-day filing deadline at issue here, are quintessential claim-processing rules.\u201d Id. At least eight times in the last decade, the United States Supreme Court has overruled a lower court\u2019s incorrect categorization of a rule as jurisdictional when the rule is truly a claim-processing rule. In all such cases, if a party believes the claim-processing rule was not properly followed, that party must timely assert the defense, generally in its answer or in a timely motion.\n\u00b623 RCW 11.24.010\u2019s personal service requirement is a classic claim-processing rule. The relevant portion of the statute provides simply that the \u201cpetitioner shall personally serve the personal representative within ninety days after the date of filing the petition\u201d or else the probate of the will \u201cshall be binding and final.\u201d RCW 11.24.010. This is a clear example of a claim-processing rule because it does not speak to the court\u2019s adjudicatory power over a category of cases. It instead speaks to the procedure\u2014a personal service requirement\u2014by which the litigation will unfold. Relatedly, \u201c[p]roper service of process \u2018is essential to invoke personal jurisdiction over\u2019 \u201d the personal representative. In re Estate of Kordon, 157 Wn.2d 206, 210, 137 P.3d 16 (2006) (quoting In re Marriage of Markowski, 50 Wn. App. 633, 635-36, 749 P.2d 754 (1988)). Because this is a rule governing service of process and personal jurisdiction, a defense that the rule was not satisfied is waived if not properly asserted. See CR 12(h)(1)(A) (\u201cA defense of lack of jurisdiction over the person, improper venue, insufficiency of process, or insufficiency of service of process is waived . . . if omitted from [a CR 12 motion or a responsive pleading].\u201d).\n\u00b624 The estate did not assert and preserve its defense based on noncompliance with RCW 11.24.010, either in a CR 12 motion or its answer to the petition. Instead, it answered, appeared at hearings, and conducted discovery before raising its objection many months later. The superior court and the Court of Appeals correctly recognized that the defense was waived and the will contest should proceed.\nII\n\u00b625 The majority\u2019s contrary conclusion appears to turn on the fact that the statute\u2019s plain language says the will\u2019s admission to probate \u201cshall be binding and final\u201d if the personal service requirement is not fulfilled, RCW 11.24-.010; see also majority at 380 (\u201cThis unambiguous language requires no construction. The [personal representative] in this case was never personally served with the will contest petition. The probate of Jepsen\u2019s will is therefore binding and final.\u201d (footnote omitted)).\n\u00b626 This reliance on \u201cshall\u201d proves too much. Merely because a statute speaks in mandatory terms\u2014such as \u201cshall be binding and final\u201d\u2014does not make it jurisdictional so that a party can raise an objection at any point during or after the litigation. That would create an absurd re-suit: all rules of law (save expressly discretionary ones) set forth mandatory prescriptions, but we have never suggested every claim, defense, or procedural issue can be raised at any time in litigation. Indeed, the United States Supreme Court has flatly rejected the majority\u2019s line of reasoning, holding that claim-processing rules, \u201ceven if important and mandatory, . . . should not be given the jurisdictional brand.\u201d Henderson, 562 U.S. at 435 (emphasis added); see also Scarborough, 541 U.S. at 413 (noting that \u201c \u2018time prescriptions, . . . even rigid ones\u2019 \u201d are claim-processing rules (emphasis added) (quoting Kontrick, 540 U.S. at 454)); Kontrick, 540 U.S. at 456 (\u201c[A] claim-processing rule,... even if unalterable on a party\u2019s application, can nonetheless be forfeited if the party asserting the rule waits too long to raise the point.\u201d (emphasis added)).\n\u00b627 In my view, the majority\u2019s focus on the mandatory nature of the rule misses the core question this case presents: whether a defense based on noncompliance with RCW 11.24.010\u2019s personal service requirement is waived if it is not timely raised and preserved. See Br. of Resp\u2019t at 12 (identifying question on appeal \u201cwhether the provision in question relates to a requirement that can be waived\u201d). As explained above, the answer is yes. RCW 11.24.010\u2019s personal service requirement is a mere claim-processing rule, and a defense that the rule was not followed must be raised in the answer or in a timely motion.\nIll\n\u00b628 The statutory history of RCW 11.24.010 also convinces me that its personal service requirement can be waived if not timely asserted.\n\u00b629 Prior to 2006, the will contest statute, RCW 11.24-.010, had no personal service requirement. See former RCW 11.24.010 (2004). It simply provided:\nIf any person interested in any will shall appear within four months immediately following the probate . . . thereof, and by petition to the court having jurisdiction contest the validity of said will,... he or she shall file a petition containing his or her objections and exceptions to said will ....\nIf no person shall appear within the time under this section, the probate ... of such will shall be binding and final.\nId. At that time, the statute\u2019s next section, RCW 11.24.020, created a related scheme that governed the issuance of a \u201ccitation\u201d:\nUpon the filing of the petition referred to in RCW 11.24.010, a citation shall be issued to the executors ... of the will, or to the administrators with the will annexed, and to all legatees . . . , requiring them to appear before the court, on a day therein specified, to show cause why the petition should not be granted.\nFormer RCW 11.24.020 (2004).\n\u00b630 This court interpreted both of these former provisions in Kordon, 157 Wn.2d 206. At issue there, the petitioner timely filed a will contest petition within RCW 11.24-.010\u2019s four-month period but did not file a citation pursuant to RCW 11.24.020 for about two years following the filing of the petition. The superior court dismissed the petition for lack of personal jurisdiction over the personal representative, and the Court of Appeals affirmed.\n\u00b631 We held that \u201c[a] citation is equivalent to a civil summons, conferring personal jurisdiction over a party to a will contest\u201d and that the \u201cfailure to issue a citation deprives the court of personal jurisdiction over the party denied process.\u201d Id. at 210. And we recognized that \u201c[w]hile RCW 11.24.020 imposes no explicit statutory time limit on the issuance of a citation, it implicitly adopts the requirements of the Superior Court Civil Rules and Title 4 RCW, governing civil procedure,\u201d specifically that a plaintiff must serve process on a defendant within 90 days of filing a complaint under the general civil procedure statute, RCW 4.16.170. Id. at 213 (emphasis added) (discussing CR 1, CR 3(a), CR 81(a), and RCW 4.16.170). We concluded that \u201ca party contesting a will may request and serve citations any time within the four-month statute of limitations on bringing a will contest [under RCW 11.24.010] or any time within 90 days of timely filing a petition contesting the will.\u201d Id. Because the will contest petitioner in Kordon \u201cserved [the] citation . . . more than two years after timely filing a petition contesting Kordon\u2019s will,\u201d we affirmed the dismissal for lack of personal jurisdiction. Id. at 213-14.\n\u00b632 Following our decision in Kordon, the legislature amended RCW 11.24.010. See Laws of 2007, ch. 475, \u00a7 4. The amendment effectively codified our holding by adding this new sentence to RCW 11.24.010:\nFor the purpose of tolling the four-month limitations period, a contest is deemed commenced when a petition is filed with the court and not when served upon the personal representative. The petitioner shall personally serve the personal representative within ninety days after the date of filing the petition. If following filing, service is not so made, the action is deemed to not have been commenced for purposes of tolling the statute of limitations.\nId. (emphasis added) (codified at RCW 11.24.010\u2019s penultimate sentence). This new language simply makes explicit the time limitation that Kordon held to be implicit. That is apparent because the amended RCW 11.24.010 substantially reproduces the language from the general civil procedure statute in Title 4 RCW, RCW 4.16.170, that Kordon had held RCW 11.24.020 \u201cimplicitly adopts.\u201d See Kordon, 157 Wn.2d at 213. Nothing in the amendment departs from our holding in Kordon that service of process \u201c \u2018is essential to invoke personal jurisdiction over\u2019 \u201d the personal representative. Id. at 210 (quoting Markowski, 50 Wn. App. at 635-36). As a personal service requirement concerning personal jurisdiction, the defense is waived if the objection is not preserved in the respondent\u2019s answer or CR 12 motion. CR 12(h)(1).\nIV\n\u00b633 I would hold that RCW 11.24.010\u2019s requirement for personal service on the personal representative is a claim-processing rule that concerns service of process and personal jurisdiction. Noncompliance with its terms does not deprive the superior court of its subject matter jurisdiction over a will contest petition. Any defense that the rule has been violated is waived if not timely asserted. Jepsen\u2019s will contest action should be allowed to proceed. I would affirm the sensible decisions of the superior court and the Court of Appeals. I respectfully dissent.\nJohnson, Owens, and Gordon McCloud, JJ., concur with Stephens, J.\nReconsideration denied February 3, 2016.\nSee United States v. Cotton, 535 U.S. 625, 630, 122 S. Ct. 1781, 152 L. Ed. 2d 860 (2002) (\u201c \u2018[j]urisdiction\u2019 means . . . \u2018the courts\u2019 statutory or constitutional power to adjudicate the case.\u2019 \u201d (quoting Steel Co., 523 U.S. at 89)).\nSee Arbaugh, 546 U.S. at 503 (\u201cThis case concerns the distinction between two sometimes confused or conflated concepts: federal-court \u2018subject-matter\u2019 jurisdiction over a controversy; and the essential ingredients of a federal claim for relief.\u2019\u2019).\nSee Gonzalez v. Thaler, 565 U.S. 134, 141, 132 S. Ct. 641, 181 L. Ed. 2d 619 (2012) (\u201c[W]e have pressed a stricter distinction between truly jurisdictional rules, which govern \u2018a court\u2019s adjudicatory authority,\u2019 and nonjurisdictional \u2018claim-processing rules,\u2019 which do not.\u2019\u2019 (quoting Kontrick, 540 U.S. at 554-55)).\nSee Sebelius v. Auburn Reg\u2019l Med. Ctr., _ U.S. _, 133 S. Ct. 817, 821, 184 L. Ed. 2d 627 (2013) (statutory timeline for certain administrative appeal is a claim-processing rule, not a jurisdictional rule); Henderson, 562 U.S. at 431 (statutory timeline for certain judicial appeals is a claim-processing rule, not a jurisdictional rule); Eberhart v. United States, 546 U.S. 12, 13, 126 S. Ct. 403, 163 L. Ed. 2d 14 (2005) (per curiam) (Fed. R. Civ. P. 33(b)(2), which sets a timeline for filing a motion for a new trial, is a claim-processing rule, not a jurisdictional rule); Scarborough, 541 U.S. at 413-14 (statutory timeline for seeking attorney fees in certain situations is a claim-processing rule, not a jurisdictional rule); Gonzalez, 132 S. Ct. at 652 (statutory requirement for a federal habeas corpus petitioners to obtain a certificate of appealability to appeal a district court\u2019s final order is a claim-processing rule, not a jurisdictional rule); United Student Aid Funds, Inc. v. Espinosa, 559 U.S. 260, 272, 130 S. Ct. 1367, 176 L. Ed. 2d 158 (2010) (rule requiring an adversarial proceeding for bankruptcy court to discharge debt is a claim-processing rule, not a jurisdictional rule); Union Pac. R.R., 558 U.S. at 81-86 (certain internal agency procedures are claim-processing rules, not jurisdictional rules).\nFor example, a defendant\u2019s affirmative defense based on the plaintiff\u2019s failure to file within the statute of limitations is waived if not timely asserted, irrespective of how forceful or mandatory the statute of limitation\u2019s language. One statute of limitations provides that a testamentary beneficiary must submit a claim for nonprobate assets within six months of the date of probate and one year of the date of death or be \u201cforever barred from making such a claim or commencing such an action.\u201d RCW 11.11.070(3) (emphasis added). However, the Court of Appeals has properly held that a defendant waives the time bar as a defense if the defendant does not raise the defense in the answer. See In re Estates of Palmer, 145 Wn. App. 249, 258-59, 187 P.3d 758 (2008).\nThe concept of a \u201ccitation\u201d was amended in 2006 to refer to \u201cnotice ... as provided in RCW 11.96A.100,\u201d Laws of 2006, ch. 360, \u00a7 9 (codified at RCW 11.24.020), but this change is immaterial here.\nThat Title 4 RCW statute provides:\nFor the purpose of tolling any statute of limitations an action shall be deemed commenced when the complaint is filed or summons is served whichever occurs first. If service has not been had on the defendant prior to the filing of the com plaint, the plaintiff shall cause one or more of the defendants to be served personally, or commence service by publication within ninety days from the date of filing the complaint. If the action is commenced by service on one or more of the defendants or by publication, the plaintiff shall file the summons and complaint within ninety days from the date of service. If following service, the complaint is not so filed, or following filing, service is not so made, the action shall be deemed to not have been commenced for purposes of tolling the statute of limitations.\nRCW 4.16.170 (emphasis added).\nJepsen seeks an award of attorney fees under RCW 11.96A.150. The decision to grant fees is discretionary at each level of court based on the equities of the case. Though the Court of Appeals declined to award fees, I believe it is appropriate to grant those fees incurred during the pendency of this case before this court.",
+        "type": "dissent",
+        "author": "Stephens, J."
+      }
+    ],
+    "attorneys": [
+      "Susan L. Caulkins and Ingrid L.D. McLeod (of Davies Pearson PC), for petitioner.",
+      "RobeitP. Dickson (of Dickson Law Group PS), for respondent."
+    ],
+    "corrections": "",
+    "head_matter": "[No. 90874-5.\nArgued May 21, 2015.\nDecided September 24, 2015.\nIn the Matter of the Estate of Virginia J. Jepsen. The Estate of Mack Jepsen, Respondent, v. Julie Miles, as Personal Representative, Petitioner.\nSusan L. Caulkins and Ingrid L.D. McLeod (of Davies Pearson PC), for petitioner.\nRobeitP. Dickson (of Dickson Law Group PS), for respondent."
+  },
+  "file_name": "0376-01",
+  "first_page_order": 418,
+  "last_page_order": 434
+}

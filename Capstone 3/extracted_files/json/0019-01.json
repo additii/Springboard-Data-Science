@@ -1,0 +1,462 @@
+{
+  "id": 12456818,
+  "name": "Guy H. Wuthrich, Petitioner, v. King County, Respondent",
+  "name_abbreviation": "Wuthrich v. King County",
+  "decision_date": "2016-01-28",
+  "docket_number": "No. 91555-5",
+  "first_page": "19",
+  "last_page": "29",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "185 Wash. 2d 19"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Wash.",
+    "id": 9029,
+    "name": "Washington Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 38,
+    "name_long": "Washington",
+    "name": "Wash."
+  },
+  "cites_to": [
+    {
+      "cite": "783 P.2d 632",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1989,
+      "opinion_index": 0
+    },
+    {
+      "cite": "56 Wn. App. 394",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        1760052
+      ],
+      "year": 1989,
+      "pin_cites": [
+        {
+          "page": "396-97"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/56/0394-01"
+      ]
+    },
+    {
+      "cite": "332 P.2d 463",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1958,
+      "opinion_index": 0
+    },
+    {
+      "cite": "53 Wn.2d 228",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1011262
+      ],
+      "year": 1958,
+      "pin_cites": [
+        {
+          "page": "229-30"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/53/0228-01"
+      ]
+    },
+    {
+      "cite": "698 P.2d 77",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "weight": 5,
+      "year": 1985,
+      "pin_cites": [
+        {
+          "parenthetical": "internal quotation marks omitted"
+        },
+        {
+          "page": "170-72"
+        },
+        {
+          "page": "172"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "103 Wn.2d 768",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1134110
+      ],
+      "year": 1985,
+      "pin_cites": [
+        {
+          "page": "777"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/103/0768-01"
+      ]
+    },
+    {
+      "cite": "124 P. 397",
+      "category": "reporters:state_regional",
+      "reporter": "P.",
+      "year": 1912,
+      "opinion_index": 0
+    },
+    {
+      "cite": "69 Wash. 134",
+      "category": "reporters:state",
+      "reporter": "Wash.",
+      "case_ids": [
+        566845
+      ],
+      "year": 1912,
+      "pin_cites": [
+        {
+          "page": "136"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash/69/0134-01"
+      ]
+    },
+    {
+      "cite": "322 P.3d 1207",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2014,
+      "opinion_index": 0
+    },
+    {
+      "cite": "180 Wn.2d 54",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4241959
+      ],
+      "year": 2014,
+      "pin_cites": [
+        {
+          "page": "66"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/180/0054-01"
+      ]
+    },
+    {
+      "cite": "223 P.3d 1230",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2009,
+      "opinion_index": 0
+    },
+    {
+      "cite": "153 Wn. App. 890",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        5748740
+      ],
+      "weight": 2,
+      "year": 2009,
+      "pin_cites": [
+        {
+          "page": "900-01, 904-05"
+        },
+        {
+          "page": "901"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/153/0890-01"
+      ]
+    },
+    {
+      "cite": "887 P.2d 886",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1995,
+      "opinion_index": 0
+    },
+    {
+      "cite": "125 Wn.2d 697",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        437140
+      ],
+      "year": 1995,
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/125/0697-01"
+      ]
+    },
+    {
+      "cite": "139 P.2d 1019",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "weight": 2,
+      "year": 1943,
+      "opinion_index": 0
+    },
+    {
+      "cite": "18 Wn.2d 573",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        2587346
+      ],
+      "year": 1943,
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/18/0573-01"
+      ]
+    },
+    {
+      "cite": "264 P.2d 265",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1953,
+      "opinion_index": 0
+    },
+    {
+      "cite": "43 Wn.2d 766",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        5008703
+      ],
+      "year": 1953,
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/43/0766-01"
+      ]
+    },
+    {
+      "cite": "281 P.2d 853",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1955,
+      "opinion_index": 0
+    },
+    {
+      "cite": "46 Wn.2d 352",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        5032763
+      ],
+      "year": 1955,
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/46/0352-01"
+      ]
+    },
+    {
+      "cite": "44 P.3d 845",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2002,
+      "opinion_index": 0
+    },
+    {
+      "cite": "146 Wn.2d 237",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        960809
+      ],
+      "year": 2002,
+      "pin_cites": [
+        {
+          "page": "243"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/146/0237-01"
+      ]
+    },
+    {
+      "cite": "951 P.2d 1118",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1998,
+      "opinion_index": 0
+    },
+    {
+      "cite": "134 Wn.2d 509",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        452329
+      ],
+      "year": 1998,
+      "pin_cites": [
+        {
+          "page": "514"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/134/0509-01"
+      ]
+    },
+    {
+      "cite": "309 P.3d 387",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2013,
+      "pin_cites": [
+        {
+          "parenthetical": "quoting Crowe v. Gaston, 134 Wn.2d 509, 514, 951 P.2d 1118 (1998)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "178 Wn.2d 165",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4298113
+      ],
+      "year": 2013,
+      "pin_cites": [
+        {
+          "page": "169",
+          "parenthetical": "quoting Crowe v. Gaston, 134 Wn.2d 509, 514, 951 P.2d 1118 (1998)"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/178/0165-01"
+      ]
+    },
+    {
+      "cite": "108 P.3d 1220",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "weight": 3,
+      "year": 2005,
+      "pin_cites": [
+        {
+          "parenthetical": "quoting CR 56(c)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "153 Wn.2d 780",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        875614
+      ],
+      "year": 2005,
+      "pin_cites": [
+        {
+          "page": "787"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/153/0780-01"
+      ]
+    },
+    {
+      "cite": "355 P.3d 1154",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2015,
+      "opinion_index": 0
+    },
+    {
+      "cite": "183 Wn.2d 1017",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        6797571,
+        6797550,
+        6797620,
+        6797685,
+        6797652,
+        6797719,
+        6797593
+      ],
+      "year": 2015,
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/183/1017-02",
+        "/wash-2d/183/1017-01",
+        "/wash-2d/183/1017-04",
+        "/wash-2d/183/1017-06",
+        "/wash-2d/183/1017-05",
+        "/wash-2d/183/1017-07",
+        "/wash-2d/183/1017-03"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 757,
+    "char_count": 12804,
+    "ocr_confidence": 0.907,
+    "pagerank": {
+      "raw": 9.147367255609644e-08,
+      "percentile": 0.5081402429253598
+    },
+    "sha256": "cb00fb5e91fd45fe6da105fe1f97d6d1bb6ccb056f7ed94c34e3d1025f9f78e5",
+    "simhash": "1:cb89c19ebebf6409",
+    "word_count": 2082
+  },
+  "last_updated": "2024-02-28T00:06:59.447104+00:00",
+  "provenance": {
+    "date_added": "2019-05-22",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Madsen, C.J., and Johnson, Owens, Fairhurst, Stephens, Wiggins, Gonz\u00e1lez, and Gordon McCloud, JJ., concur."
+    ],
+    "parties": [
+      "Guy H. Wuthrich, Petitioner, v. King County, Respondent."
+    ],
+    "opinions": [
+      {
+        "text": "Yu, J.\n\u00b61 A municipality\u2019s duty to maintain its roadways in a reasonably safe condition for ordinary travel is not confined to the asphalt. If a wall of roadside vegetation makes the roadway unsafe by blocking a driver\u2019s view of oncoming traffic at an intersection, the municipality has a duty to take reasonable steps to address it. In this case, there are genuine issues of material fact as to whether this duty was breached and whether any breach proximately caused petitioner Guy Wuthrich\u2019s injuries. We reverse and remand for further proceedings.\nFacts and Procedural History\n\u00b62 On June 20, 2008, at about 5:15 p.m., Wuthrich was riding a motorcycle on Avondale Road Northeast in King County, approaching an intersection with Northeast 159th Street. Drivers on 159th Street are controlled by a stop sign at the intersection; drivers on Avondale Road are not. Defendant Christa Gilland was driving a car on 159th Street. When she reached the intersection with Avondale Road, she stopped to wait for passing traffic but did not see Wuthrich approaching from the left. She turned left onto Avondale Road and collided with Wuthrich\u2019s motorcycle, seriously injuring him.\n\u00b63 On June 15, 2011, Wuthrich filed a complaint against both Gilland and respondent King County (County), alleging that the County was liable for his injuries because overgrown blackberry bushes obstructed Gilland\u2019s view of traffic at the intersection. The trial court dismissed the action against the County on summary judgment. The Court of Appeals affirmed in a split, unpublished decision. Wuthrich v. King County, No. 44019-9-II (Wash. Ct. App. Mar. 10, 2015) (unpublished), http://www.courts.wa.gov/opinions/pdf/D2%2044019-9-II%20%20Unpublished%200pinion.pdf, review granted, 183 Wn.2d 1017, 355 P.3d 1154 (2015).\nIssue\n\u00b64 Did the Court of Appeals err in affirming the trial court\u2019s order dismissing Wuthrich\u2019s action against the County on summary judgment?\nStandard of Review\n\u00b65 We review summary judgment decisions de novo. Owen v. Burlington N. Santa Fe R.R. Co., 153 Wn.2d 780, 787, 108 P.3d 1220 (2005). \u201c[A] 11 facts and reasonable inferences must be viewed in the light most favorable to\u201d Wuthrich, the nonmoving party. Id. \u201cSummary judgment is proper if the record before the trial court establishes \u2018that there is no genuine issue as to any material fact and that the moving party is entitled to a judgment as a matter of law.\u2019 \u201d Id. (quoting CR 56(c)).\nAnalysis\n\u00b66 \u201cIn order to recover on a common law claim of negligence, a plaintiff\u2018must show (1) the existence of a duty to the plaintiff, (2) a breach of that duty, (3) a resulting injury, and (4) the breach as the proximate cause of the injury.\u2019 \u201d Lowman v. Wilbur, 178 Wn.2d 165, 169, 309 P.3d 387 (2013) (quoting Crowe v. Gaston, 134 Wn.2d 509, 514, 951 P.2d 1118 (1998)). The County contends it has no duty to address hazardous conditions created by naturally occurring roadside vegetation. Alternatively, the County contends that even if it does have such a duty, any breach was not a proximate cause of Wuthrich\u2019s injuries. Both contentions are precluded by this court\u2019s precedent.\nA. Duty and breach\n\u00b67 The existence and scope of a duty are questions of law. Keller v. City of Spokane, 146 Wn.2d 237, 243, 44 P.3d 845 (2002). It is well established that a municipality has the duty \u201cto maintain its roadways in a condition safe for ordinary travel.\u201d Owen, 153 Wn.2d at 786-87. There is no categorical exemption for unsafe conditions caused by roadside vegetation.\n\u00b68 The County argues otherwise, relying on Rathbun v. Stevens County, 46 Wn.2d 352, 281 P.2d 853 (1955), Brad shaw v. City of Seattle, 43 Wn.2d 766, 264 P.2d 265 (1953), and Barton v. King County, 18 Wn.2d 573, 139 P.2d 1019 (1943). Those cases would support the County\u2019s position if their legal foundations remained solid. However, each of those cases was decided before the legislature waived sovereign immunity for municipalities and therefore relied on the rule that the municipalities\u2019 duties to address conditions outside the roadway was limited to warning or protecting against inherently dangerous or misleading conditions. Rathbun, 46 Wn.2d at 356-57; Bradshaw, 43 Wn.2d at 773-74; Barton, 18 Wn.2d at 575-76. That rule no longer applies.\n\u00b69 Our more recent precedent makes it clear that a municipality has \u201cthe overarching duty to provide reasonably safe roads for the people of this state to drive upon.\u201d Owen, 153 Wn.2d at 788. Addressing inherently dangerous or misleading conditions is simply \u201cpart of\u201d that duty. Id. And to the extent that Ruff v. County of King, 125 Wn.2d 697, 887 P.2d 886 (1995), has been misread as holding that a municipality\u2019s duty is limited to complying with applicable law and eliminating inherently dangerous conditions, we clarify that it is not. Municipalities are generally held to a reasonableness standard consistent with that applied to private parties. See Owen, 153 Wn.2d at 787; Keller, 146 Wn.2d at 242-43 (citing RCW 4.96.010); Xiao Ping Chen v. City of Seattle, 153 Wn. App. 890, 900-01, 904-05, 223 P.3d 1230 (2009). Therefore, to the extent that Rathbun, Bradshaw, and Barton hold that a municipality has no duty at all to address dangerous sight obstructions caused by roadside vegetation, we now explicitly hold they are no longer good law. See W.G. Clark Constr. Co. v. Pac. Nw. Reg\u2019l Council of Carpenters, 180 Wn.2d 54, 66, 322 P.3d 1207 (2014).\n\u00b610 We also note that whether a condition is inherently dangerous does not depend on whether the condition \u201cexists in the roadway itself.\u201d Wuthrich, No. 44019-9-II, slip op. at 7. It depends on whether there is an \u201c \u2018extraordinary condition or unusual hazard.\u2019 \u201d Barton, 18 Wn.2d at 577 (quoting Leber v. King County, 69 Wash. 134, 136, 124 P. 397 (1912)). Such a hazard may be presented by \u201cthe situation along the highway!\u2019 Id. at 576. Inherent dangerousness is a question of fact that may be relevant to the level of care that is reasonable, but it does not affect the existence of the overall duty to take reasonable care. Owen, 153 Wn.2d at 788.\n\u00b611 Whether the County breached its duty depends on the answers to factual questions: Was the road reasonably safe for ordinary travel, and did the municipality fulfill its duty by making reasonable efforts to correct any hazardous conditions? Id. Wuthrich introduced sufficient evidence to create genuine issues of material fact as to both of these questions. Gilland testified that her view of the intersection was obstructed by the blackberry bushes, and Wuthrich\u2019s experts testified that the County could have taken a variety of corrective actions to address the issue, including trimming or removing the blackberry bushes, reducing the speed limit, or adjusting the stop line. Whether the roadway was reasonably safe and whether it was reasonable for the County to take (or not take) any corrective actions are questions of fact that must be answered in light of the totality of the circumstances. Id. at 788-90; Xiao Ping Chen, 153 Wn. App. at 901.\n\u00b612 In sum, we reaffirm that a municipality has a duty to take reasonable steps to remove or correct for hazardous conditions that make a roadway unsafe for ordinary travel and now explicitly hold this includes hazardous conditions created by roadside vegetation. We reject the notion that continuing to recognize this duty will make municipalities strictly liable for all traffic accidents because, as we have previously emphasized, \u201conly reasonable care is owed.\u201d Lowman, 178 Wn.2d at 170 (citing Keller, 146 Wn.2d at 252); see also Owen, 153 Wn.2d at 789-90.\nB. Proximate cause\n\u00b613 The County also argues that even if it did breach its duty, we should affirm on the alternate basis that the breach did not proximately cause Wuthrich\u2019s injuries. \u201cWashington \u2018recognizes two elements to proximate cause: [clause in fact and legal causation.\u2019 \u201d Lowman, 178 Wn.2d at 169 (alteration in original) (quoting Hartley v. State, 103 Wn.2d 768, 777, 698 P.2d 77 (1985)). Here, cause in fact is disputed and the County\u2019s arguments relating to legal causation are barred by controlling precedent.\n\u00b614 \u201cCause in fact refers to the \u2018but for\u2019 consequences of an act\u2014the physical connection between an act and an injury.\u201d Hartley, 103 Wn.2d at 778. \u201cAs a determination of what actually occurred, cause in fact is generally left to the jury.\u201d Id. In this case, Gilland testified that the blackberry bushes obstructed her view of the intersection, so she did not see Wuthrich until she had already begun her left-hand turn and did not have time to stop. Consistently, the police report stated that the \u201cbrush line causes somewhat of a site [sic] obstruction\u201d and there were \u201cno pre-impact skid marks from either vehicle\u201d in the roadway, indicating that Gilland and Wuthrich could not see each other until the moment of impact. Clerk\u2019s Papers at 445. This is sufficient to raise a genuine issue of material fact as to whether Wuthrich would in fact have been injured if Gilland\u2019s view had not been obstructed. See Hartley, 103 Wn.2d at 778.\n\u00b615 Legal causation depends on \u201c \u2018policy determinations as to how far the consequences of a defendant\u2019s acts should extend.\u2019 \u201d Lowman, 178 Wn.2d at 169 (quoting Crowe, 134 Wn.2d at 518). We make that determination by \u201cevaluating] \u2018mixed considerations of logic, common sense, justice, policy, and precedent.\u2019 \u201d Id. (internal quotation marks omitted) (quoting Hartley, 103 Wn.2d at 779). The County contends that Gilland\u2019s negligence was not a foreseeable circumstance, so legal causation should not extend to the County. However, we have already rejected similar arguments. Id. at 170-72. Gilland\u2019s alleged negligence could certainly \u201climit or negate [the County\u2019s] liability on any number of theories, including comparative fault or the failure to prove factual causation,\u201d but that possibility does not automatically defeat the existence of legal causation. Id. at 172; cf. Owen, 153 Wn.2d at 787.\n\u00b616 The County also contends that legal causation is not established because there were very few prior accidents at the intersection, so it did not have notice that the blackberry bushes were hazardous. However, to the extent legal causation includes a notice component, it is simply notice of the condition. Niebarger v. City of Seattle, 53 Wn.2d 228, 229-30, 332 P.2d 463 (1958). There is evidence in the record that the blackberry bushes had been there for years and the County knew about them. The lack of prior accidents could be relevant circumstantial evidence as to the reasonableness of the County\u2019s actions when evaluating breach, but it does not preclude legal causation.\nConclusion\n\u00b617 There are genuine issues of material fact as to whether the intersection at Avondale Road and 159th Street was reasonably safe for ordinary travel, whether the County took reasonable steps to remove hazardous conditions at the intersection, and whether any of the County\u2019s actions or omissions proximately caused Wuthrich\u2019s injuries. We therefore reverse the Court of Appeals and remand to the trial court for further proceedings.\nMadsen, C.J., and Johnson, Owens, Fairhurst, Stephens, Wiggins, Gonz\u00e1lez, and Gordon McCloud, JJ., concur.\nWuthrich\u2019s action against Gilland has been stayed, and Gilland is not a party on appeal.\nThe County moved to strike part 11(C) of Wuthrich\u2019s brief responding to amicus Washington State Association of Municipal Attorneys. We passed the County\u2019s motion to the merits and now grant it. The offending portion of Wuthrich\u2019s brief relies on factual evidence outside the record, which we cannot consider when reviewing the trial court\u2019s summary judgment decision. Owen, 153 Wn.2d at 787; see also RAP 9.12.\nIt is disputed whether the County owned the land on which the blackberry bushes were located. We therefore do not reach the merits of Wuthrich\u2019s argument that the County had an independent duty as a landowner to \u201cuse and keep [its] premises in a condition so adjacent public ways are not rendered unsafe for ordinary travel.\u2019\u2019 Re v. Tenney, 56 Wn. App. 394, 396-97, 783 P.2d 632 (1989).",
+        "type": "majority",
+        "author": "Yu, J."
+      }
+    ],
+    "attorneys": [
+      "Keith L. Kessler, Bradley J. Moore, Ray W. Kahler, and Garth L. Jones (of Stritmatter Kessler Whelan Koehler Moore Kahler)-, and David C. Nordeen (of Law Office of David Nordeen PLLC), for petitioner.",
+      "Daniel T. Satterberg, Prosecuting Attorney, and Cindi S. Port, David J. Hackett, and John R. Zeldenrust, Deputies, for respondent.",
+      "Andrew G. Cooley and Derek C. Chen on behalf of the Washington State Association of Municipal Attorneys and Association of Washington Cities, amici curiae.",
+      "Bryan P Harnetiaux and George M. Ahrend on behalf of Washington State Association for Justice Foundation, am-icus curiae."
+    ],
+    "corrections": "",
+    "head_matter": "[No. 91555-5.\nArgued November 10, 2015.\nDecided January 28, 2016.\nGuy H. Wuthrich, Petitioner, v. King County, Respondent.\nKeith L. Kessler, Bradley J. Moore, Ray W. Kahler, and Garth L. Jones (of Stritmatter Kessler Whelan Koehler Moore Kahler)-, and David C. Nordeen (of Law Office of David Nordeen PLLC), for petitioner.\nDaniel T. Satterberg, Prosecuting Attorney, and Cindi S. Port, David J. Hackett, and John R. Zeldenrust, Deputies, for respondent.\nAndrew G. Cooley and Derek C. Chen on behalf of the Washington State Association of Municipal Attorneys and Association of Washington Cities, amici curiae.\nBryan P Harnetiaux and George M. Ahrend on behalf of Washington State Association for Justice Foundation, am-icus curiae."
+  },
+  "file_name": "0019-01",
+  "first_page_order": 73,
+  "last_page_order": 83
+}

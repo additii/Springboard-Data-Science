@@ -1,0 +1,908 @@
+{
+  "id": 6793688,
+  "name": "Rocio Trujillo, Petitioner, v. Northwest Trustee Services, Inc., Respondent",
+  "name_abbreviation": "Trujillo v. Northwest Trustee Services, Inc.",
+  "decision_date": "2015-08-20",
+  "docket_number": "No. 90509-6",
+  "first_page": "820",
+  "last_page": "841",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "183 Wash. 2d 820"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Wash.",
+    "id": 9029,
+    "name": "Washington Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 38,
+    "name_long": "Washington",
+    "name": "Wash."
+  },
+  "cites_to": [
+    {
+      "cite": "964 F.2d 193",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        42755
+      ],
+      "year": 1992,
+      "pin_cites": [
+        {
+          "page": "211"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/964/0193-01"
+      ]
+    },
+    {
+      "cite": "579 F. App'x 598",
+      "category": "reporters:federal",
+      "reporter": "F. App'x",
+      "case_ids": [
+        4229973
+      ],
+      "year": 2014,
+      "pin_cites": [
+        {
+          "page": "601",
+          "parenthetical": "beneficiary declaration stated that Chase Home Finance LLC is the actual holder or has requisite authority under RCW 62A.3-301 was sufficient"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-appx/579/0598-01"
+      ]
+    },
+    {
+      "cite": "2014 U.S. Dist. LEXIS 42682",
+      "category": "reporters:specialty_lexis",
+      "reporter": "U.S. Dist. LEXIS",
+      "year": 2014,
+      "pin_cites": [
+        {
+          "page": "*10",
+          "parenthetical": "declaration stating that Wells Fargo \" 'is the actual holder' \" or has requisite authority under RCW 62A.3-301 was sufficient"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "2014 WL 1320144",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "year": 2014,
+      "pin_cites": [
+        {
+          "page": "*4",
+          "parenthetical": "declaration stating that Wells Fargo \" 'is the actual holder' \" or has requisite authority under RCW 62A.3-301 was sufficient"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "512 B.R. 643",
+      "category": "reporters:specialty",
+      "reporter": "B.R.",
+      "case_ids": [
+        4319659
+      ],
+      "year": 2014,
+      "pin_cites": [
+        {
+          "page": "645, 655-56",
+          "parenthetical": "beneficiary declaration stating that OneWest Bank \" 'is the actual holder of the promissory note .. . or has requisite authority under RCW 62A.3-301 to enforce said obligation' ''was sufficient (quoting RCW 61.24.030(7)(a))"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/br/512/0643-01"
+      ]
+    },
+    {
+      "cite": "309 P.3d 636",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2013,
+      "opinion_index": 0
+    },
+    {
+      "cite": "176 Wn. App. 475",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        4271008
+      ],
+      "year": 2013,
+      "pin_cites": [
+        {
+          "page": "498"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/176/0475-01"
+      ]
+    },
+    {
+      "cite": "530 P.2d 635",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1975,
+      "opinion_index": 0
+    },
+    {
+      "cite": "85 Wn.2d 109",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1120405
+      ],
+      "year": 1975,
+      "pin_cites": [
+        {
+          "page": "111"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/85/0109-01"
+      ]
+    },
+    {
+      "cite": "189 P.3d 168",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2008,
+      "opinion_index": 0
+    },
+    {
+      "cite": "144 Wn. App. 709",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        5738386
+      ],
+      "year": 2008,
+      "pin_cites": [
+        {
+          "page": "726"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/144/0709-01"
+      ]
+    },
+    {
+      "cite": "59 P.3d 611",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2002,
+      "opinion_index": 0
+    },
+    {
+      "cite": "148 Wn.2d 35",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        609219
+      ],
+      "year": 2002,
+      "pin_cites": [
+        {
+          "page": "51"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/148/0035-01"
+      ]
+    },
+    {
+      "cite": "782 P.2d 1002",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "weight": 2,
+      "year": 1989,
+      "pin_cites": [
+        {
+          "parenthetical": "internal quotation marks omitted"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "113 Wn.2d 612",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1172044
+      ],
+      "year": 1989,
+      "pin_cites": [
+        {
+          "page": "630"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/113/0612-01"
+      ]
+    },
+    {
+      "cite": "66 P.3d 630",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "weight": 2,
+      "year": 2003,
+      "opinion_index": 0
+    },
+    {
+      "cite": "149 Wn.2d 192",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1292584
+      ],
+      "year": 2003,
+      "pin_cites": [
+        {
+          "page": "195"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/149/0192-01"
+      ]
+    },
+    {
+      "cite": "452 U.S. 576",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1313733
+      ],
+      "weight": 4,
+      "year": 1981,
+      "pin_cites": [
+        {
+          "page": "583"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/452/0576-01"
+      ]
+    },
+    {
+      "cite": "18 U.S.C. \u00a7 1964",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "pin_cites": [
+        {
+          "page": "(c)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "959 P.2d 1077",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "weight": 4,
+      "year": 1998,
+      "pin_cites": [
+        {
+          "parenthetical": "citing RCW 9A.82.100(l)(a)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "135 Wn.2d 835",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        812830
+      ],
+      "year": 1998,
+      "pin_cites": [
+        {
+          "page": "850",
+          "parenthetical": "citing RCW 9A.82.100(l)(a)"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/135/0835-01"
+      ]
+    },
+    {
+      "cite": "929 F. Supp. 2d 1079",
+      "category": "reporters:federal",
+      "reporter": "F. Supp. 2d",
+      "case_ids": [
+        4045062
+      ],
+      "year": 2013,
+      "pin_cites": [
+        {
+          "page": "1098",
+          "parenthetical": "citing Panag, 166 Wn.2d at 62-63"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp-2d/929/1079-01"
+      ]
+    },
+    {
+      "cite": "792 P.2d 142",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1990,
+      "opinion_index": 0
+    },
+    {
+      "cite": "114 Wn.2d 842",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1169922
+      ],
+      "year": 1990,
+      "pin_cites": [
+        {
+          "page": "854"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/114/0842-01"
+      ]
+    },
+    {
+      "cite": "200 P.3d 695",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "weight": 4,
+      "year": 2009,
+      "pin_cites": [
+        {
+          "parenthetical": "quoting Hangman Ridge, 105 Wn.2d at 790"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "165 Wn.2d 595",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        5751344
+      ],
+      "year": 2009,
+      "pin_cites": [
+        {
+          "page": "604-05",
+          "parenthetical": "quoting Hangman Ridge, 105 Wn.2d at 790"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/165/0595-01"
+      ]
+    },
+    {
+      "cite": "204 P.3d 885",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2009,
+      "pin_cites": [
+        {
+          "parenthetical": "citing Leingang, 131 Wn.2d at 150"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "166 Wn.2d 27",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4001497
+      ],
+      "year": 2009,
+      "pin_cites": [
+        {
+          "page": "47",
+          "parenthetical": "citing Leingang, 131 Wn.2d at 150"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/166/0027-01"
+      ]
+    },
+    {
+      "cite": "930 P.2d 288",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1997,
+      "opinion_index": 0
+    },
+    {
+      "cite": "131 Wn.2d 133",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1547167
+      ],
+      "year": 1997,
+      "pin_cites": [
+        {
+          "page": "150"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/131/0133-01"
+      ]
+    },
+    {
+      "cite": "719 P.2d 531",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1986,
+      "opinion_index": 0
+    },
+    {
+      "cite": "105 Wn.2d 778",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1199153
+      ],
+      "year": 1986,
+      "pin_cites": [
+        {
+          "page": "780"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/105/0778-01"
+      ]
+    },
+    {
+      "cite": "295 P.3d 1179",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2013,
+      "pin_cites": [
+        {
+          "parenthetical": "quoting Hangman Ridge Training Stables, Inc. v. Safeco Title Ins. Co., 105 Wn.2d 778, 780, 719 P.2d 531 (1986)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "176 Wn.2d 771",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4306431
+      ],
+      "year": 2013,
+      "pin_cites": [
+        {
+          "page": "782",
+          "parenthetical": "quoting Hangman Ridge Training Stables, Inc. v. Safeco Title Ins. Co., 105 Wn.2d 778, 780, 719 P.2d 531 (1986)"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/176/0771-01"
+      ]
+    },
+    {
+      "cite": "334 P.3d 529",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2014,
+      "opinion_index": 0
+    },
+    {
+      "cite": "181 Wn.2d 412",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4356140
+      ],
+      "year": 2014,
+      "pin_cites": [
+        {
+          "page": "428-30"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/181/0412-01"
+      ]
+    },
+    {
+      "cite": "2013 U.S. Dist. LEXIS 42806",
+      "category": "reporters:specialty_lexis",
+      "reporter": "U.S. Dist. LEXIS",
+      "weight": 2,
+      "year": 2013,
+      "pin_cites": [
+        {
+          "page": "*18",
+          "parenthetical": "court order"
+        },
+        {
+          "page": "*17"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "2013 WL 1282225",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "weight": 2,
+      "year": 2013,
+      "pin_cites": [
+        {
+          "page": "*5",
+          "parenthetical": "court order"
+        },
+        {
+          "page": "*5"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "285 P.3d 34",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2012,
+      "opinion_index": 0
+    },
+    {
+      "cite": "175 Wn.2d 83",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4024205
+      ],
+      "year": 2012,
+      "pin_cites": [
+        {
+          "page": "102, 111"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/175/0083-01"
+      ]
+    },
+    {
+      "cite": "308 P.3d 716",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2013,
+      "opinion_index": 0
+    },
+    {
+      "cite": "176 Wn. App. 294",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        4270755
+      ],
+      "year": 2013,
+      "pin_cites": [
+        {
+          "page": "309-10"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/176/0294-01"
+      ]
+    },
+    {
+      "cite": "118 P.3d 311",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "weight": 2,
+      "year": 2005,
+      "pin_cites": [
+        {
+          "parenthetical": "internal quotation marks omitted"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "155 Wn.2d 198",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        3765668
+      ],
+      "year": 2005,
+      "pin_cites": [
+        {
+          "page": "215"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/155/0198-01"
+      ]
+    },
+    {
+      "cite": "331 P.3d 29",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2014,
+      "pin_cites": [
+        {
+          "parenthetical": "alteration in original"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "180 Wn.2d 954",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4241822
+      ],
+      "year": 2014,
+      "pin_cites": [
+        {
+          "page": "963",
+          "parenthetical": "alteration in original"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/180/0954-01"
+      ]
+    },
+    {
+      "cite": "296 P.3d 860",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2013,
+      "opinion_index": 0
+    },
+    {
+      "cite": "176 Wn.2d 909",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4306464
+      ],
+      "year": 2013,
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/176/0909-01"
+      ]
+    },
+    {
+      "cite": "961 P.2d 333",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "weight": 2,
+      "year": 1998,
+      "opinion_index": 0
+    },
+    {
+      "cite": "136 Wn.2d 195",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        867947
+      ],
+      "weight": 2,
+      "year": 1998,
+      "pin_cites": [
+        {
+          "page": "201"
+        },
+        {
+          "page": "201"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/136/0195-01"
+      ]
+    },
+    {
+      "cite": "283 P.3d 1082",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2012,
+      "pin_cites": [
+        {
+          "parenthetical": "citing Reid v. Pierce County, 136 Wn.2d 195, 201, 961 P.2d 333 (1998)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "175 Wn.2d 68",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4024357
+      ],
+      "year": 2012,
+      "pin_cites": [
+        {
+          "page": "71",
+          "parenthetical": "citing Reid v. Pierce County, 136 Wn.2d 195, 201, 961 P.2d 333 (1998)"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/175/0068-01"
+      ]
+    },
+    {
+      "cite": "154 P.3d 206",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "weight": 2,
+      "year": 2007,
+      "opinion_index": 0
+    },
+    {
+      "cite": "159 Wn.2d 837",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        3592457
+      ],
+      "year": 2007,
+      "pin_cites": [
+        {
+          "page": "842"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/159/0837-01"
+      ]
+    },
+    {
+      "cite": "345 P.3d 784",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2015,
+      "opinion_index": 0
+    },
+    {
+      "cite": "182 Wn.2d 1020",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "year": 2015,
+      "opinion_index": 0
+    },
+    {
+      "cite": "326 P.3d 768",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2014,
+      "opinion_index": 0
+    },
+    {
+      "cite": "181 Wn. App. 484",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        4280724
+      ],
+      "weight": 3,
+      "year": 2014,
+      "pin_cites": [
+        {
+          "page": "487"
+        },
+        {
+          "page": "490"
+        },
+        {
+          "page": "492"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/181/0484-01"
+      ]
+    },
+    {
+      "cite": "336 P.3d 1142",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "weight": 6,
+      "year": 2014,
+      "opinion_index": 0
+    },
+    {
+      "cite": "181 Wn.2d 775",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4356477
+      ],
+      "year": 2014,
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/181/0775-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1334,
+    "char_count": 32583,
+    "ocr_confidence": 0.77,
+    "pagerank": {
+      "raw": 1.75119486235551e-07,
+      "percentile": 0.7085200720196428
+    },
+    "sha256": "1f13361dfb0e14ae6d3511b8092e461f2ee5bc56d84b5cd50d179fe16b372a32",
+    "simhash": "1:0d49a99ae15fa07f",
+    "word_count": 5371
+  },
+  "last_updated": "2024-02-27T22:09:01.011694+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Madsen, C.J., and Johnson, Owens, Fairhurst, Stephens, Wiggins, Gonz\u00e1lez, and Yu, JJ., concur."
+    ],
+    "parties": [
+      "Rocio Trujillo, Petitioner, v. Northwest Trustee Services, Inc., Respondent."
+    ],
+    "opinions": [
+      {
+        "text": "Gordon McCloud, J.\n\u00b61 Rocio Trujillo\u2019s home loan was secured by a deed of trust encumbering the home. She defaulted, and Northwest Trustee Services Inc. (NWTS), the successor trustee, sent a notice of default and scheduled a trustee\u2019s sale of her property. Under the deeds of trust act (DTA), a trustee may not initiate such a nonjudicial foreclosure without \u201cproof that the beneficiary [of the deed of trust] is the owner of any promissory note ... secured by the deed of trust.\u201d RCW 61.24.030(7)(a) (emphasis added). But the very next sentence of that statute says, \u201cA declaration by the beneficiary made under the penalty of perjury stating that the beneficiary is the actual holder of the promissory note or other obligation secured by the deed of trust shall be sufficient proof as required under this subsection.\u201d Id. (emphasis added).\n\u00b62 NWTS had a beneficiary declaration from Wells Fargo Bank. It did not contain that specific statutory language. Instead, it stated under penalty of perjury, \u201cWells Fargo Bank, NA is the actual holder of the promissory note ... or has requisite authority under RCW 62A.3-301 to enforce said [note].\u201d Clerk\u2019s Papers (CP) at 36 (emphasis added). This declaration language differs from the language of RCW 61.24.030(7)(a), quoted above, by adding the \u201cor\u201d alternative.\n\u00b63 Following our recent decision in Lyons v. U.S. Bank National Ass\u2019n, 181 Wn.2d 775, 336 P.3d 1142 (2014), we hold that a trustee cannot rely on a beneficiary declaration containing such ambiguous alternative language. Trujillo therefore alleged facts sufficient to show that NWTS breached the DTA and also to show that that breach could support the elements of a Consumer Protection Act (CPA) claim. Ch. 19.86 RCW. However, her allegations do not support a claim for intentional infliction of emotional distress or criminal profiteering. We therefore reverse in part and remand for trial.\nFACTUAL ALLEGATIONS\n\u00b64 In 2006, Trujillo took out a loan for $185,900 from Arboretum Mortgage Corporation to buy her home. This loan was evidenced by a promissory note secured by a deed of trust dated March 29, 2006 encumbering the home. CP at 17. The deed of trust was recorded in King County on March 31, 2006. Id.\n\u00b65 Arboretum sold this loan to Wells Fargo in 2006. CP at 86. Wells Fargo sold the loan to Federal National Mortgage Association (Fannie Mae) and retained the loan servicing rights. Id.\n\u00b66 In 2012, Arboretum assigned the deed of trust to Wells Fargo. CP at 35. The assignment was recorded in King County on February 2, 2012. Id.\n\u00b67 Trujillo admits that she defaulted on her loan on November 1, 2011. CP at 86.\n\u00b68 Then, in a beneficiary declaration dated March 14, 2012 and delivered to NWTS, Wells Fargo stated, \u201cWells Fargo Bank, NA is the actual holder of the promissory note or other obligation evidencing the above-referenced loan or has requisite authority under RCW 62A.3-301 to enforce said obligation.\u201d CP at 36.\n\u00b69 NWTS, the successor trustee, sent Trujillo a notice of default dated May 30, 2012, itemizing the amounts in arrears on the delinquent loan. CP at 37-39. This notice also gave Trujillo certain information about both Fannie Mae and Wells Fargo. CP at 38. Specifically, it stated, \u201cThe owner of the note is Federal National Mortgage Association (Fannie Mae),\u201d and it listed Fannie Mae\u2019s address. Id. This notice also stated, \u201cThe loan servicer for this loan is Wells Fargo Bank, N.A.,\u201d and it listed Wells Fargo\u2019s address. Id. Additionally, the notice of default identified NWTS as Wells Fargo\u2019s \u201cduly authorized agent.\u201d CP at 39.\n\u00b610 NWTS recorded the notice of trustee\u2019s sale on July 10, 2012, and it scheduled a sale date of November 9, 2012, for Trujillo\u2019s property. CP at 41-44.\nPROCEDURAL BACKGROUND\n\u00b611 On February 27, 2013, Trujillo, acting pro se, sued NWTS and Wells Fargo. CP at 84-94. She claimed that NWTS and Wells Fargo violated the DTA. CP at 88-91. Trujillo also claimed violations of the CPA and the Criminal Profiteering Act, as well as intentional infliction of emotional distress. CP at 91-94; ch. 9A.82 RCW. She sought an injunction to restrain the successor trustee\u2019s sale of her property, damages, and attorney fees. CP at 94.\n\u00b612 NWTS filed a CR 12(b)(6) motion to dismiss. CP at 1-16. NWTS argued that RCW 61.24.030(7) authorized it to rely on Wells Fargo\u2019s beneficiary declaration signed in March 2012 as the basis for asserting that Wells Fargo was the \u201cbeneficiary\u201d in its notice of default. The trial court granted this motion and dismissed Trujillo\u2019s claims against NWTS with prejudice. CP at 80-81.\n\u00b613 Trujillo appealed. CP at 95-98. The Court of Appeals affirmed, holding that NWTS could lawfully rely on Wells Fargo\u2019s beneficiary declaration for authority to initiate a trustee\u2019s sale of Trujillo\u2019s property and that NWTS did not breach its DTA duty of good faith. Trujillo v. Nw Tr. Servs., Inc., 181 Wn. App. 484, 487, 326 P.3d 768 (2014).\n\u00b614 We granted Trujillo\u2019s petition for review but deferred consideration pending our decision in Lyons. Trujillo v. Nw Tr. Servs., Inc., 182 Wn.2d 1020, 345 P.3d 784 (2015).\nANALYSIS\n\u00b615 Trujillo alleged three causes of action against NWTS: one under the CPA, one under the Criminal Profiteering Act, and one for intentional infliction of emotional distress. She bases all of these claims on NWTS\u2019s reliance on Wells Fargo\u2019s March 2012 beneficiary declaration as a basis for sending the notice of trustee\u2019s sale. Trujillo alleges that this conduct violates RCW 61.24.030(7), which requires a trustee to have proof that the beneficiary is the owner of the promissory note before issuing a notice of trustee sale, and RCW 61.24.010(4), which imposes a duty of good faith on the trustee. CP at 89. Because Trujillo\u2019s CPA, profiteering, and intentional infliction of emotional distress claims hinged on her theory that NWTS could not lawfully rely on the beneficiary declaration, the trial court dismissed all of her claims after determining that the declaration sufficed under the DTA.\nI. Standard of Review\n\u00b616 This court reviews CR 12(b)(6) dismissals de novo. Kinney v. Cook, 159 Wn.2d 837, 842, 154 P.3d 206 (2007). Dismissal is proper if the court concludes that the plaintiff can prove no set of facts that would justify recovery. Id. We presume that the plaintiff\u2019s factual allegations are true and draw all reasonable inferences from the factual allegations in the plaintiff\u2019s favor. Gorman v. City of Woodinville, 175 Wn.2d 68, 71, 283 P.3d 1082 (2012) (citing Reid v. Pierce County, 136 Wn.2d 195, 201, 961 P.2d 333 (1998)). We may even consider hypothetical facts to determine if dismissal is proper. Lakey v. Puget Sound Energy, Inc., 176 Wn.2d 909, 922 n.9, 296 P.3d 860 (2013). \u201cBut, \u2018[i]f a plaintiff\u2019s claim remains legally insufficient even under his or her proffered hypothetical facts, dismissal pursuant to CR 12(b)(6) is appropriate.\u2019 \u201d FutureSelect Portfolio Mgmt., Inc. v. Tremont Grp. Holdings, Inc., 180 Wn.2d 954, 963, 331 P.3d 29 (2014) (alteration in original) (quoting Gorman v. Garlock, Inc., 155 Wn.2d 198, 215, 118 P.3d 311 (2005)).\nII. Trujillo Alleges Facts Sufficient To Prove NWTS Violated the DTA\nA. DTA Statutory Framework\n\u00b617 The first statute at issue here is RCW 61.24.030. It provides a mandatory prerequisite to notice of a trustee\u2019s sale:\nIt shall be requisite to a trustee\u2019s sale:\n(7)(a) That, for residential real property, before the notice of trustee\u2019s sale is recorded, transmitted, or served, the trustee shall have proof that the beneficiary is the owner of any promissory note or other obligation secured by the deed of trust. A declaration by the beneficiary made under the penalty of perjury stating that the beneficiary is the actual holder of the promissory note or other obligation secured by the deed of trust shall be sufficient proof as required under this subsection.\n(b) Unless the trustee has violated his or her duty under RCW 61.24.010(4), the trustee is entitled to rely on the beneficiary\u2019s declaration as evidence of proof required under this subsection.\nRCW 61.24.030 (emphasis added).\n\u00b618 The DTA defines the key term \u201cbeneficiary\u201d elsewhere. RCW 61.24.005(2) provides that a \u201cbeneficiary\u201d is \u201cthe holder of the instrument or document evidencing the obligations secured by the deed of trust, excluding persons holding the same as security for a different obligation.\u201d The DTA does not define the term \u201cholder.\u201d\n\u00b619 RCW 61.24.010(4) then requires a foreclosure trustee to act in good faith toward the borrower, beneficiary, and grantor. This duty \u201crequires the trustee to remain impartial and protect the interests of all the parties.\u201d Lyons, 181 Wn.2d at 787. We described this duty in Lyons:\nA foreclosure trustee must \u201cadequately inform\u201d itself regarding the purported beneficiary\u2019s right to foreclose, including, at a minimum, a \u201ccursory investigation\u201d to adhere to its duty of good faith. ... [A] trustee must treat both sides equally and investigate possible issues using its independent judgment to adhere to its duty of good faith.\nId. (internal quotation marks omitted) (quoting Walker v. Quality Loan Serv. Corp. of Wash., 176 Wn. App. 294, 309-10, 308 P.3d 716 (2013)).\nB. DTA Analysis\n\u00b620 The first question that we must address is whether NWTS violated the DTA by relying on a beneficiary declaration stating that Wells Fargo \u201cis the actual holder of the promissory note or other obligation evidencing the above-referenced loan or has requisite authority under RCW 62A.3-301 to enforce said obligation.\u201d CP at 36. Trujillo claims that NWTS\u2019s decision to rely on this declaration was unlawful. Suppl. Br. of Pet\u2019r at 17-18; CP at 89-90. She argues that the trustee must have proof that the beneficiary is the \u201cowner\u201d of the note before sending a notice of trustee sale and that NWTS knew Wells Fargo did not own the note before sending that notice. Pet. for Review at 9; CP at 90. She also asserts that the beneficiary declaration here \u201cdid not authorize NWTS to record the notice of trustee\u2019s sale because it contained the unauthorized additional For\u2019] language,\u201d which is \u201cdifferent from the language of the second sentence of RCW 61.24.030(7)(a)\u201d and which this court declared improper in Lyons. Suppl. Br. of Pet\u2019r at 17; CP at 88.\n\u00b621 We agree with Trujillo for the most part. The DTA requires a trustee to have proof that the beneficiary actually owns the note on which the trustee is foreclosing. Lyons, 181 Wn.2d at 789 (citing Bain v. Metro. Mortg. Grp., Inc., 175 Wn.2d 83, 102, 111, 285 P.3d 34 (2012)). But the DTA also says, \u201c A declaration by the beneficiary made under the penalty of perjury stating that the beneficiary is the actual holder of the promissory note . . . shall be sufficient proof\u2019 \u201d of this requirement. Id. at 789-90 (emphasis added) (alteration in original) (quoting RCW 61.24-.030(7)(a)). Thus, a trustee is entitled to rely on such a beneficiary declaration when initiating a trustee\u2019s sale, unless the trustee violated its good faith duty. Id. at 790 (citing RCW 61.24.030(7)(b)). In this case, however, we don\u2019t have such a declaration. We have a declaration stating that Wells Fargo could be the \u201cactual holder\u201d \u201cor\u201d it could be something else. The question is whether reliance on that ambiguous declaration suffices.\n\u00b622 Our decision in Lyons \u2014 which did not issue until after the Court of Appeals resolved Trujillo\u2019s case \u2014 answers that question. In Lyons, a case decided on summary judgment, we considered the validity of a beneficiary declaration containing the same \u201cor\u201d language. We ruled that it did not satisfy RCW 61.24.030(7)(a). Lyons, 181 Wn.2d at 791. We explained, \u201cOn its face, it is ambiguous whether the declaration proves Wells Fargo is the holder or whether Wells Fargo is a nonholder in possession or person not in possession who is entitled to enforce the provision under RCW 62A.3-301.\u201d Id.\n\u00b623 Lyons controls the outcome in this case. Here, as in Lyons, the language in Wells Fargo\u2019s declaration is ambiguous about whether Wells Fargo actually held the note when it initiated the foreclosure. CP at 36. This ambiguity indicated that the declaration might be ineffective. Lyons, 181 Wn.2d at 790. Because this declaration fails to satisfy RCW 61.24.030(7)(a), NWTS could not lawfully rely on it to prove that Wells Fargo was an \u201cowner\u201d of the note. Under Lyons, because Trujillo alleges that NWTS deferred to this ambiguous declaration to initiate foreclosure on her home, she alleges facts sufficient to prove a violation of the DTA. Id,.; see also Beaton v. JPMorgan Chase Bank NA, No. C11-0872 RAJ, 2013 WL 1282225, at *5, 2013 U.S. Dist. LEXIS 42806, at *18 (W.D. Wash. Mar. 26, 2013) (court order).\n\u00b624 We therefore reverse the Court of Appeals decision that Trujillo failed to allege a violation of the DTA. On remand, Trujillo must have the opportunity to prove that NWTS actually relied on the impermissibly ambiguous declaration as a basis for issuing the notice of trustee\u2019s sale.\nIII. The Alleged Violation of the DTA Is Sufficient To Support Trujillo\u2019s CPA Claim\nA. CPA Statutory Framework\n\u00b625 Trujillo cannot bring a claim for damages under the DTA absent a completed trustee\u2019s sale of her property. Frias v. Asset Foreclosure Servs., Inc., 181 Wn.2d 412, 428-30, 334 P.3d 529 (2014); Lyons, 181 Wn.2d at 784. She may, however, bring a CPA claim based on a defendant\u2019s wrongful conduct during a nonjudicial foreclosure process, even without a completed sale. See Frias, 181 Wn.2d at 429-30; Bain, 175 Wn.2d at 119.\n\u00b626 The CPA prohibits i\u00a3[u]nfair methods of competition and unfair or deceptive acts or practices in the conduct of any trade or commerce.\u201d RCW 19.86.020. To succeed on a CPA claim, a plaintiff must establish (1) an unfair or deceptive act (2) in trade or commerce (3) that affects the public interest, (4) injury to the plaintiff in his or her business or property, and (5) a causal link between the unfair or deceptive act complained of and the injury suffered. Klem v. Wash. Mut. Bank, 176 Wn.2d 771, 782, 295 P.3d 1179 (2013) (quoting Hangman Ridge Training Stables, Inc. v. Safeco Title Ins. Co., 105 Wn.2d 778, 780, 719 P.2d 531 (1986)).\nB. Analysis\n\u00b627 Trujillo alleges that NWTS violated the CPA. Turning to the first element of a CPA claim, she alleges that NWTS\u2019s attempted foreclosure was unfair or deceptive. CP at 93. Whether an act is unfair or deceptive is a question of law. Leingang v. Pierce County Med. Bureau, Inc., 131 Wn.2d 133, 150, 930 P.2d 288 (1997). \u201cA plaintiff need not show the act in question was intended to deceive, only that it had the capacity to deceive a substantial portion of the public.\u201d Panag v. Farmers Ins. Co. of Wash., 166 Wn.2d 27, 47, 204 P.3d 885 (2009) (citing Leingang, 131 Wn.2d at 150).\n\u00b628 Following Lyons, NWTS\u2019s alleged conduct had the capacity to deceive. It therefore supports a CPA claim. See Lyons, 181 Wn.2d at 785.\n\u00b629 To satisfy the second and third elements of her CPA claim \u2014 that NWTS\u2019s acts occurred in trade or commerce and that they affected the public interest \u2014 Trujillo alleges, \u201cWells [Fargo] makes these unfounded claims to foreclose on defaulting borrowers as a routine part of its foreclosure activities on behalf of Fannie Mae. Its foreclosure activities are conducted in the course of trade and commerce and certainly impact the public interest.\u201d CP at 93. In a private action, a plaintiff can establish that the lawsuit would serve the public interest by showing a likelihood that other plaintiffs have been or will be injured in the same fashion. Michael v. Mosquera-Lacy, 165 Wn.2d 595, 604-05, 200 P.3d 695 (2009) (quoting Hangman Ridge, 105 Wn.2d at 790). The court considers four factors to assess the public interest element when a complaint involves a private dispute: (1) whether the defendant committed the alleged acts in the course of his/her business, (2) whether the defendant advertised to the public in general, (3) whether the defendant actively solicited this particular plaintiff, and (4) whether the plaintiff and defendant have unequal bargaining positions. Id. (citing Hangman Ridge, 105 Wn.2d at 791). The plaintiff need not establish all of these factors, and none is dispositive. Id. Trujillo\u2019s allegations satisfy the second and third elements because they relate to the sale of property, RCW 19.86.010(2), and they state that other plaintiffs have or will likely suffer injury in the same fashion. Id. (citing Hangman Ridge, 105 Wn.2d at 790).\n\u00b630 To meet the final two elements of her CPA claim\u2014 injury and causation \u2014 Trujillo alleges, \u201c[NWTS] is attempting to help Wells [Fargo] sell the Property on the basis that Wells [Fargo] is the Note Holder and beneficiary\u201d when \u201c[i]t has been shown, beyond reasonable dispute, that it was neither.\u201d CP at 93. In contrast, NWTS moved to dismiss, arguing, \u201cThe Plaintiff does not contend that any action by NWTS causes [sic] or induced her to default on the loan. Nor does Plaintiff assert that no party is entitled to foreclose on the property.\u201d CP at 14-15. NWTS concludes, \u201c[R]egardless of NWTS\u2019 role as successor trustee under the deed of trust, Plaintiff\u2019s property would still be foreclosed upon based on the failure to make payments on the loan.\u201d CP at 15.\n\u00b631 While emotional distress, embarrassment, and inconvenience are not compensable injuries under the CPA, Trujillo does not have to lose her property completely to prove injury. Frias, 181 Wn.2d at 430-31. Trujillo can satisfy the CPA\u2019s injury requirement with proof that her property interest or money is diminished as a result of NWTS\u2019s unlawful conduct, even if the expenses incurred by the statutory violation are minimal. Panag, 166 Wn.2d at 57 (quoting Mason v. Mortg. Am., Inc., 114 Wn.2d 842, 854, 792 P.2d 142 (1990)). Trujillo\u2019s investigation expenses and other costs associated with dispelling the uncertainty about who owns the note that NWTS\u2019s allegedly deceptive conduct created are therefore sufficient to constitute an injury under the CPA. Br. of Amicus Curiae of Att\u2019y Gen. of State of Wash, at 14-15; McDonald v. OneWest Bank, FSB, 929 F. Supp. 2d 1079, 1098 (W.D. Wash. 2013) (citing Panag, 166 Wn.2d at 62-63).\nIV. The Alleged DTA Violation Does Not Support a Criminal Profiteering Claim\nA. Criminal Profiteering Statutory Framework\n\u00b632 Trujillo also alleges that NWTS violated the Criminal Profiteering Act. CP at 91-92. \u201cCriminal profiteering\u201d is defined as commission of specific enumerated felonies for financial gain. RCW 9A.82.010(4). Trujillo alleges violations of RCW 9A.82.010(4)(e), which defines \u201ctheft\u201d as a predicate criminal profiteering act, and RCW 9A.82-.010(4)(s), which defines \u201cleading organized crime\u201d as a criminal profiteering act. CP at 91-92.\n\u00b633 But the definition of \u201cprofiteering,\u201d alone, is not actionable. Only a violation of RCW 9A.82.100(l)(a) can support a private profiteering action. Assuming that Trujillo actually intended to proceed under that statute, it provides that a person who sustains injury to his or her person, business, or property may sue to recover damages and costs, including reasonable investigative and attorney fees, if the injury is caused by an act of criminal profiteering that is part of a pattern of criminal profiteering activity or by a violation of RCW 9A.82.060, which involves leading organized crime. Winchester v. Stein, 135 Wn.2d 835, 850, 959 P.2d 1077 (1998) (citing RCW 9A.82.100(l)(a)). Trujillo never explains whether she is asserting a claim under the pattern-of-profiteering-acts prong of RCW 9A.82.100(1) or the leading-organized-crime portion of that statute.\nB. Analysis\n\u00b634 Assuming that Trujillo meant to allege a profiteering claim based on leading organized crime, Trujillo would have to establish that NWTS (1) intentionally organized, managed, directed, supervised, or financed (2) three or more persons (3) with the intent to engage in a pattern of criminal profiteering activity. RCW 9A.82.060(1)(a). Trujillo fails to allege such a claim because she does not allege the involvement of three or more persons. Id.\n\u00b635 Assuming instead that Trujillo intended to allege a profiteering claim based on a \u201cpattern\u201d of profiteering acts, she would have to establish that NWTS committed an enumerated felony that was part of a pattern of profiteering activity. The statute has a very detailed definition of \u201cpattern of criminal profiteering activity.\u201d It means, in very general terms, three or more acts of criminal profiteering within a five-year period that have specific similarities or are \u201cinterrelated\u201d with a \u201cnexus to the same enterprise.\u201d RCW 9A.82.010(12). \u201cEnterprise\u201d means \u201cany individual, sole proprietorship, partnership, corporation, business trust, or other profit or nonprofit legal entity, and includes any union, association, or group of individuals associated in fact although not a legal entity, and both illicit and licit enterprises and governmental and nongovernmental entities.\u201d RCW 9A.82.010(8).\n\u00b636 Even if we construe facts alleged throughout the pro se complaint liberally, they are still wanting. In her complaint, Trujillo alleges,\nWell[s Fargo\u2019s] attempt to obtain the Property at the trustee\u2019s sale by bidding the amount of Plaintiff\u2019s debt obligation when Wells [Fargo] knows it is neither the owner nor the holder of the Note is nothing short of attempted theft. Claiming that it is the Beneficiary and Note holder as the essence of its attempt to obtain the Property means that the attempted theft is an attempt to steal by employing deceptive means.\nCP at 91. She also alleges, \u201c[NWTS] has acted in concert with Wells [Fargo] in Wells [Fargo\u2019s] attempt to bring about the sale of the Property.\u201d CP at 92. She further alleges, \u201cAllowing the servicer to foreclose in its own name, where applicable law permits, is such a normal part of Freddie Mac\u2019s [(Federal Home Loan Mortgage Corporation)] foreclosure activity that Freddie Mac has developed standard procedures for using this method to foreclose.\u201d Id. And she alleges that Wells Fargo engaged in \u201cleading organized crime\u201d under RCW 9A.82.060 because \u201cWells [Fargo] has foreclosed on hundreds, if not thousands, of homes in the last five years. Scores of those homes, at least, have been Fannie Mae homes.\u201d Id.\n\u00b637 No Washington case has provided a test to determine whether an \u201centerprise\u201d exists. But the Supreme Court has indicated what is required to show an enterprise under the federal RICO statute (Racketeer Influenced and Corrupt Organizations Act), 18 U.S.C. \u00a7 1964(c). An enterprise is an entity or a group of people \u201cassociated together for a common purpose of engaging in a course of conduct.\u201d United States v. Turkette, 452 U.S. 576, 583, 101 S. Ct. 2524, 69 L. Ed. 2d 246 (1981). A plaintiff can prove the existence of an enterprise with \u201cevidence of an ongoing organization, formal or informal, and by evidence that the various associates function as a continuing unit.\u201d Id.\n\u00b638 Trujillo fails even to identify an enterprise in her complaint. Although she mentions NWTS, Wells Fargo, Freddie Mac, and Fannie Mae, CP at 92, she is not clear about which of these entities, or which combination of them, constitute the \u201centerprise.\u201d Given that defect alone, she fails to allege a profiteering claim.\nV. Trujillo Alleges Insufficient Facts To Prove Intentional Infliction of Emotional Distress\n\u00b639 Finally, Trujillo claims intentional infliction of emotional distress. CP at 93-94. This requires proof of the following elements: \u201c \u2018(1) extreme and outrageous conduct, (2) intentional or reckless infliction of emotional distress, and (3) actual result to plaintiff of severe emotional distress.\u2019 \u201d Lyons, 181 Wn.2d at 792 (quoting Kloepfel v. Bokor, 149 Wn.2d 192, 195, 66 P.3d 630 (2003)). Although a jury ultimately determines if conduct is sufficiently outrageous, the court makes the initial determination of whether reasonable minds could differ about \u201c \u2018whether the conduct was sufficiently extreme to result in liability.\u2019 \u201d Id. (quoting Dicomes v. State, 113 Wn.2d 612, 630, 782 P.2d 1002 (1989)). To establish extreme and outrageous conduct, a plaintiff must show that the conduct was \u201c \u2018so outrageous in character, and so extreme in degree, as to go beyond all possible bounds of decency, and to be regarded as atrocious, and utterly intolerable in a civilized community.\u2019 \u201d Id. (internal quotation marks omitted) (quoting Robel v. Roundup Corp., 148 Wn.2d 35, 51, 59 P.3d 611 (2002)).\n\u00b640 Once again, Lyons controls. It held that allegations identical to those in Trujillo\u2019s complaint fail to describe conduct sufficiently outrageous to support an intentional infliction of emotional distress claim. Id. at 793.\nCONCLUSION\n\u00b641 NWTS\u2019s decision to rely on Wells Fargo\u2019s ambiguous declaration violated the DTA. This violation, combined with Trujillo\u2019s additional allegations, supports a CPA claim. It does not, however, support a profiteering claim or a claim of intentional infliction of emotional distress. We therefore reverse the Court of Appeals in part and remand for further proceedings on the CPA claim.\nMadsen, C.J., and Johnson, Owens, Fairhurst, Stephens, Wiggins, Gonz\u00e1lez, and Yu, JJ., concur.\nWhen reviewing the denial of a CR 12(b)(6) motion, we presume that the complaint\u2019s factual allegations are true. Reid v. Pierce County, 136 Wn.2d 195, 201, 961 P.2d 333 (1998).\nSome of these allegations are taken from documents contained in the record that are not part of the complaint, but the complaint references these documents. \u201cDocuments whose contents are alleged in a complaint but which are not physically attached to the pleading may ... be considered in ruling on a CR 12(b)(6) motion to dismiss.\u201d Rodriguez v. Loudeye Corp., 144 Wn. App. 709, 726, 189 P.3d 168 (2008). Further, where the \u201cbasic operative facts are undisputed and the core issue is one of law,\u201d the motion to dismiss need not be treated as a motion for summary judgment. Ortblad v. State, 85 Wn.2d 109, 111, 530 P.2d 635 (1975). Here, the trial court entered an order granting NWTS\u2019s motion to dismiss under CR 12(b)(6). The supporting documents the trial court considered were alleged in the complaint, and the \u201cbasic operative facts are undisputed and the core issue is one of law.\u201d\nRCW 61.24.031 authorizes a trustee, a beneficiary, or an authorized agent to issue a notice of default.\nThe record indicates that no sale occurred. CP at 45-53. The record is unclear about whether Wells Fargo actually possessed the note when NWTS issued the notice of trustee sale. See CP at 87-88 (\u201cOn information and belief, as soon as Wells [Fargo] began the foreclosure process, Fannie Mae transferred possession of the Note to Wells [Fargo]\u201d; \u201c[s]hortly after obtaining [the note and the deed of trust], Wells [Fargo] commenced the foreclosure process.\u201d); Verbatim Report of Proceedings (May 31, 2013) (VRP) at 20 (\u201cAnd it\u2019s true that Wells Fargo has a copy of the Note, but that is just a copy.\u201d); Suppl. Br. of Pet\u2019r at 18-19 (arguing that allegations in her complaint did not constitute judicial admissions). Possession of a copy of the original note does not establish possession of the original note. See Bavand v. OneWest Bank, FSB, 176 Wn. App. 475, 498, 309 P.3d 636 (2013). Wells Fargo would constitute a \u201cholder,\u201d and therefore a valid beneficiary under the DTA, if it actually held the note when it made the declaration at issue.\nSpecifically, Trujillo alleged that Wells Fargo was not the beneficiary of the deed of trust and therefore could not initiate nonjudicial foreclosure. CP at 88-89. She also alleged that NWTS, as successor trustee, violated its duty of good faith under the DTA and initiated the foreclosure before it had authority to do so. CP at 89-90.\nIn granting NWTS\u2019s motion, the trial court told Trujillo, \u201c[lit could very well be that Wells [Fargo] doesn\u2019t have the authority to foreclose because it doesn\u2019t own the Note, but that\u2019s a different issue then [sic] whether [NWTS] could be separately liable for issuing the Notice of Default or the Notice of Trustee Sale.\u2019\u2019 VRP at 18. The court explained, \u201cToday, the only issue before me is whether you can recover monetary damages from [NWTS] for anything they did. . . . You still have your claim pending against Wells Fargo.\u201d VRP at 21.\nIn the Court of Appeals, the parties disputed whether the court should review the trial court\u2019s order as a CR 12(b)(6) dismissal or a CR 56(c) summary judgment order. Trujillo, 181 Wn. App. at 490. Noting that the trial court\u2019s order granted NWTS\u2019s motion to dismiss under CR 12(b)(6), the Court of Appeals concluded, \u201cBecause the supporting documents the trial court considered were alleged in the complaint and the \u2018basic operative facts are undisputed and the core issue is one of law,\u2019 we review the order under CR 12(b)(6), not as a summary judgment under CR 56(c).\u201d Id. at 492.\nThus, we do not address whether RCW 61.24.030(7)(a) allows a trustee to rely on an unambiguous declaration stating that the beneficiary is the actual holder of the note, even though the owner is a different party. That issue is raised in a pending case, and we express no opinion on it here.\nThe beneficiary declaration at issue in Lyons similarly stated, \u201c \u201cWells Fargo Bank, NA, is the actual holder of the promissory note or other obligation evidencing the above-referenced loan or has requisite authority under RCW 62A.3-301 to enforce said obligation.\u2019 \"Lyons, 181 Wn.2d at 780 (emphasis added).\nA trustee must have the requisite proof of the beneficiary\u2019s ownership of the note before recording, transmitting, or serving the notice of trustee\u2019s sale. See Br. of Amicus Curiae of Att\u2019y Gen. of State of Wash, at 10; RCW 61.24.030(7)(a) C[B]efore the notice of trustee\u2019s sale is recorded, transmitted, or served, the trustee shall have proof that the beneficiary is the owner of any promissory note or other obligation secured by the deed of trust.\u201d (emphasis added)). A court must assess the propriety of the trustee\u2019s conduct based on the trustee\u2019s evidence and investigation at that time.\nNone of the acts alleged in Trujillo\u2019s complaint constitute per se violations of the DTA that would automatically satisfy the first element of a CPA claim. ROW 61.24.135.\nAs Trujillo points out in support other argument on this element, numerous lawsuits have involved similar beneficiary declarations. See, e.g., Beaton, 2013 WL 1282225, at *5, 2013 U.S. Dist. LEXIS 42806, at *17 (beneficiary declaration stated that JPMorgan Chase Bank NA \u201c \u2018is the actual holder ... or has requisite authority under RCW 62A.3-301\u2019 \u201d was insufficient (emphasis omitted)); In re Butler, 512 B.R. 643, 645, 655-56 (Bankr. W.D. Wash. 2014) (beneficiary declaration stating that OneWest Bank \u201c \u2018is the actual holder of the promissory note .. . or has requisite authority under RCW 62A.3-301 to enforce said obligation\u2019 \u2019\u2019was sufficient (quoting RCW 61.24.030(7)(a))); Mulcahy v. Fed. Home Loan Mortg. Corp., No. C13-1227RSL, 2014 WL 1320144, at *4, 2014 U.S. Dist. LEXIS 42682, at *10 (W.D. Wash. Mar. 28, 2014) (declaration stating that Wells Fargo \u201c \u2018is the actual holder\u2019 \u201d or has requisite authority under RCW 62A.3-301 was sufficient); Mickelson v. Chase Home Fin. LLC, 579 F. App\u2019x 598, 601 (9th Cir. 2014) (beneficiary declaration stated that Chase Home Finance LLC is the actual holder or has requisite authority under RCW 62A.3-301 was sufficient).\nWe may apply federal case law in this area to interpret the Criminal Profiteering Act. Winchester, 135 Wn.2d at 848.\nSeveral United States Courts of Appeals have interpreted Turkette and expanded on what must be shown to prove an enterprise. E.g., United States v. Pelullo, 964 F.2d 193, 211 (3d Cir. 1992). We need not address the exact contours of that \u201centerprise\u201d element here, however, because Trujillo has not even alleged an enterprise at all.",
+        "type": "majority",
+        "author": "Gordon McCloud, J."
+      }
+    ],
+    "attorneys": [
+      "John M. Geyman (of Columbia Legal Services), for petitioner.",
+      "Joshua S. Schaer (of RCO Legal PS), for respondent.",
+      "Richard L. Jones and Ha Thu Dao on behalf of Coalition for Civil Justice, amicus curiae.",
+      "Sheila M. O\u2019Sullivan and Melissa A. Huelsman on behalf of Northwest Consumer Law Center, amicus curiae.",
+      "Lisa M. von Biela on behalf of Northwest Justice Project, amicus curiae.",
+      "Robert W. Ferguson, Attorney General, and Benjamin J. Roesch and Leilani N. Fisher, Assistants, on behalf of the Attorney General of Washington, amicus curiae.",
+      "John S. Devlin III, Andrew G. Yates, and Abraham K. Lorber on behalf of Federal Home Loan Mortgage Corporation, amicus curiae."
+    ],
+    "corrections": "",
+    "head_matter": "[No. 90509-6.\nEn Banc.]\nArgued June 23, 2015.\nDecided August 20, 2015.\nRocio Trujillo, Petitioner, v. Northwest Trustee Services, Inc., Respondent.\nJohn M. Geyman (of Columbia Legal Services), for petitioner.\nJoshua S. Schaer (of RCO Legal PS), for respondent.\nRichard L. Jones and Ha Thu Dao on behalf of Coalition for Civil Justice, amicus curiae.\nSheila M. O\u2019Sullivan and Melissa A. Huelsman on behalf of Northwest Consumer Law Center, amicus curiae.\nLisa M. von Biela on behalf of Northwest Justice Project, amicus curiae.\nRobert W. Ferguson, Attorney General, and Benjamin J. Roesch and Leilani N. Fisher, Assistants, on behalf of the Attorney General of Washington, amicus curiae.\nJohn S. Devlin III, Andrew G. Yates, and Abraham K. Lorber on behalf of Federal Home Loan Mortgage Corporation, amicus curiae."
+  },
+  "file_name": "0820-01",
+  "first_page_order": 874,
+  "last_page_order": 895
+}

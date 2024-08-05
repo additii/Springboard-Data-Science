@@ -1,0 +1,78 @@
+{
+  "id": 12462795,
+  "name": "State, Respondent, v. Graham, Petitioner",
+  "name_abbreviation": "State v. Graham",
+  "decision_date": "2016-08-31",
+  "docket_number": "No. 93114-3",
+  "first_page": "1006",
+  "last_page": "1006",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "186 Wash. 2d 1006"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Wash.",
+    "id": 9029,
+    "name": "Washington Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 38,
+    "name_long": "Washington",
+    "name": "Wash."
+  },
+  "cites_to": [
+    {
+      "cite": "193 Wn. App. 1033",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        12450056,
+        12450057,
+        12450054,
+        12450055
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/193/1033-03",
+        "/wash-app/193/1033-04",
+        "/wash-app/193/1033-01",
+        "/wash-app/193/1033-02"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 27,
+    "char_count": 188,
+    "ocr_confidence": 0.857,
+    "sha256": "55bf309bc139873ea5d19427ee71f93353c3b7e673f46dceedb77ff55032db13",
+    "simhash": "1:799a633939ad4465",
+    "word_count": 31
+  },
+  "last_updated": "2024-02-27T18:43:05.207238+00:00",
+  "provenance": {
+    "date_added": "2019-05-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "State, Respondent, v. Graham, Petitioner,"
+    ],
+    "opinions": [
+      {
+        "text": "Petition for review of a decision of the Court of Appeals, No. 73107-6-I, April 25, 2016, 193 Wn. App. 1033. Denied August 31, 2016.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "State, Respondent, v. Graham, Petitioner,\nNo. 93114-3."
+  },
+  "file_name": "1006-06",
+  "first_page_order": 992,
+  "last_page_order": 992
+}

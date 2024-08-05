@@ -1,0 +1,62 @@
+{
+  "id": 1428358,
+  "name": "Black v. Waddell",
+  "name_abbreviation": "Black v. Waddell",
+  "decision_date": "1934-02-19",
+  "docket_number": "4-3372",
+  "first_page": "872",
+  "last_page": "874",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "188 Ark. 872"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 273,
+    "char_count": 4451,
+    "ocr_confidence": 0.5,
+    "sha256": "e9a3fcbb11b7fcaa0290cdd048d2677daa17c74d23bde39afeb7fa6181980f00",
+    "simhash": "1:d30d27c47b2f0778",
+    "word_count": 788
+  },
+  "last_updated": "2023-07-14T22:44:11.517500+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Black v. Waddell."
+    ],
+    "opinions": [
+      {
+        "text": "Johnson, C. J.\nThe State of Arkansas, on relation of its Attorney General, procured to be entered in the Grant County Chancery Court on September 17, 1932, a decretal order and judgment, quieting and confirming its tax title to the northeast quarter of the northeast quarter of section 33, township 5 south, range 13 west, lying and being in Grant County. This proceeding was authorized by act 296 of 1929, and the proceedings had and done thereunder were in full compliance therewith.\nOn January 14, 1933, appellant intervened in said cause, and filed therein his verified motion, setting forth that he was the true and lawful owner of said tract of land, and had no knowledge of the pendency of said confirmation suit until subsequent to the decree; he further alleged, as a meritorious defense thereto, that the forfeiture and sale sought to be confirmed by the State was void or voidable for a number of reasons, and that said decree should be vacated, and he be permitted to redeem. On hearing of appellant\u2019s motion, it was stipulated, or tacitly admitted, that appellant was the true owner of the tract of land on the date of the forfeiture and sale to the State, and that the forfeiture and sale to the State was voidable for a number of reasons. Therefore it is not necessary to here set out these reasons in detail.\nOne J. E. Waddell responded to appellant\u2019s motion as follows: \u201cThat on September 29, 1932, respondent had donated the tract of land from the State and had received a deed thereto, which deed was exhibited with his response; respondent denied that appellant had no knowledge of the pendency of the confirmation suit prior to the rendition of the decree, and therefore prayed that his title be quieted and confirmed as against appellant.\u201d On hearing, the chancellor quieted and confirmed appellee\u2019s title as against appellant as follows:\n\u201cThe court finds that the said O. E. Black had knowledge of the pendency of the suit to confirm the northeast quarter, northeast quarter, section 33, township 5 south, range 13 west, and he is not entitled to recover on this tract, and his petition and complaint are hereby dismissed for want of equity, and the donation certificate of J. E. Waddell is upheld by the court and a writ of assistance is hereby ordered to dispossess the said O. E. Black and place the said J. E. Waddell in possession, to which decree and ruling of the court the said O. E. Black prayed an appeal to the Supreme 'Court, which is granted.\u201d\nThus It definitely appears that appellant\u2019s motion to redeem and vacate was denied by the chancellor because appellant, in fact, had knowledge of the pendency of the confirmation proceedings prior to the rendition of the decree. Section 9 of act 296 of 1929 provides: \u201cThe owner of any lands embraced in the decree may, within one year from its rendition, have the same set aside, in so far as it relates to the land of the petitioner, by filing a verified motion that such person had no knowledge of the pendency of the suit, and set up a meritorious defense, etc.\u201d\nAppellant\u2019s verified motion strictly complied with and conformed to, the letter and spirit of \u00a7 9 of act 296, and, whatever doubts which might arise in reference to his right to vacate the decree and redeem, are made to appear from appellee\u2019s response.\nWe think the clear intent and meaning of \u00a7 9 of act 296 is to grant to the true owner, one year from the date of the confirmation decree, in which to assert any defenses which might.have been available to him prior to the decree, and that this right is conditioned only upon his ability to show that- the tax sale or forfeiture to the State was void or voidable. Since \u00a7 9 of act 296 is construed to be an extension of one year of grace to the landowner, conditioned only upon his ability to show that the tax forfeiture or sale was void or voidable, it necessarily follows that it is immaterial whether or not he had actual or constructive notice of the pendency of such suit.\nIt follows, from what we have said, that appellant has the right under \u00a7 9 of act 296 of 1929 to redeem his lands upon paying the accrued taxes thereon.\nTo that end the case is reversed, and the cause remanded to the Grant County Chancery Court, with directions to enter a decree allowing appellant to redeem.",
+        "type": "majority",
+        "author": "Johnson, C. J."
+      }
+    ],
+    "attorneys": [
+      "Isaac McClellan and Woodrow H. McClellan, for appellant.",
+      "S. J. Reid and D. E. Waddell, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Black v. Waddell.\n4-3372\nOpinion delivered February 19, 1934.\nIsaac McClellan and Woodrow H. McClellan, for appellant.\nS. J. Reid and D. E. Waddell, for appellee."
+  },
+  "file_name": "0872-01",
+  "first_page_order": 890,
+  "last_page_order": 892
+}

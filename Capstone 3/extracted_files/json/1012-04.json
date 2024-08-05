@@ -1,0 +1,78 @@
+{
+  "id": 12462839,
+  "name": "In re Det. of Brogi",
+  "name_abbreviation": "In re Det. of Brogi",
+  "decision_date": "2016-09-28",
+  "docket_number": "No. 93195-0",
+  "first_page": "1012",
+  "last_page": "1012",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "186 Wash. 2d 1012"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Wash.",
+    "id": 9029,
+    "name": "Washington Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 38,
+    "name_long": "Washington",
+    "name": "Wash."
+  },
+  "cites_to": [
+    {
+      "cite": "193 Wn. App. 1003",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        12449939,
+        12449940,
+        12449941,
+        12449942
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/193/1003-01",
+        "/wash-app/193/1003-02",
+        "/wash-app/193/1003-03",
+        "/wash-app/193/1003-04"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 26,
+    "char_count": 170,
+    "ocr_confidence": 0.875,
+    "sha256": "41217e287555af5d0d7ab2d1d63e15444a16c9a7926737812ffae57cc6b482aa",
+    "simhash": "1:07c1673c6259047f",
+    "word_count": 31
+  },
+  "last_updated": "2024-02-27T18:43:05.207238+00:00",
+  "provenance": {
+    "date_added": "2019-05-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Det. of Brogi,"
+    ],
+    "opinions": [
+      {
+        "text": "Petition for review of a decision of the Court of Appeals, No. 72290-5-I, March 21, 2016, 193 Wn. App. 1003. Denied September 28, 2016.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "In re Det. of Brogi,\nNo. 93195-0."
+  },
+  "file_name": "1012-04",
+  "first_page_order": 998,
+  "last_page_order": 998
+}

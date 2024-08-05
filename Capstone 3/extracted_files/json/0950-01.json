@@ -1,0 +1,193 @@
+{
+  "id": 8725640,
+  "name": "Vaden v. State",
+  "name_abbreviation": "Vaden v. State",
+  "decision_date": "1927-10-03",
+  "docket_number": "",
+  "first_page": "950",
+  "last_page": "956",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "174 Ark. 950"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [
+    {
+      "cite": "14 S. W. 41",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "53 Ark. 387",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1911678
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/53/0387-01"
+      ]
+    },
+    {
+      "cite": "146 S. W. 477",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "103 Ark. 165",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1352043
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/103/0165-01"
+      ]
+    },
+    {
+      "cite": "131 S. W. 46",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "96 Ark. 52",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1541990
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/96/0052-01"
+      ]
+    },
+    {
+      "cite": "206 S. W. 152",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "136 Ark. 161",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1570000
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/136/0161-01"
+      ]
+    },
+    {
+      "cite": "235 S. W. 798",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "151 Ark. 221",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1366051
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/151/0221-01"
+      ]
+    },
+    {
+      "cite": "177 S. W. 398",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "119 Ark. 57",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        8717750
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/119/0057-01"
+      ]
+    },
+    {
+      "cite": "161 S. W. 1067",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "110 Ark. 402",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1337069
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/110/0402-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 560,
+    "char_count": 13231,
+    "ocr_confidence": 0.466,
+    "pagerank": {
+      "raw": 2.984046956809203e-07,
+      "percentile": 0.8512363075994006
+    },
+    "sha256": "d3d173e90fc0ce83384214f7efd17e685b6e1358de1c671a26b2347aa2a796f3",
+    "simhash": "1:171c7cd05aba4a88",
+    "word_count": 2355
+  },
+  "last_updated": "2024-02-27T16:23:40.975481+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Vaden v. State."
+    ],
+    "opinions": [
+      {
+        "text": "Wood, J.\nTlie appellant was convicted in the Miller Circuit Court on a valid indictment charging him with the murder of one Lawrence Harris \u201cby striking and beating him, the said Lawrence Harris, with an instrument, the exact description of said instrument being unknown to the grand jury.\u2019\u2019\nIt is unnecessary to set forth the testimony in detail. It suffices to say there was testimony from which the jury might have found that the appellant acted too hastily in killing the deceased. Appellant killed the deceased on Sunday night. On the Saturday night preceding appellant was in a car across the street from where the deceased had a store. Supposing that a negro woman by the name of Ada Lee Clark (who, the testimony tended to prove, was the paramour of deceased) was in the car with the '\u00a1appellant, the deceased went out to the car armed with a pistol, and asked whether Ada Lee Clark was in the oar, and, on learning that she was not, he abnsecl the appellant and the woman, and stated that if the woman had been in the ear he intended to kill her and any one else in the car. There was no one in the car with the appellant. Appellant said nothing. The following night the appellant, with three other parties, at the request of one of the parties, Tom Sims, drove by Ada Lee Clark\u2019s home. Sims stated to appellant that he owed the Clark woman $1.50. Sims got ont of the car and went upon the porch of Ada Lee Clark\u2019s house, and knocked at the front door. Another woman, living in the house with the Clark woman, answered, and told Tom Sims not to come in the house. She asked Sims who was in the car, and, upon being informed that the appellant was in the car, she told Sims to go back and tell the appellant to get away from there, as the deceased was in the kitchen talking to Ada Lee Clark. Sims left the house and went to the car, and, just as he got to the car, he heard a lick, and saw the deceased and appellant by the side of the car. Sims saw appellant strike deceased, and deceased fell.\" Sims helped the deceased to rise, and started with him to Ada Lee- Clark\u2019s house. She met them at the front steps, and requested Sims to take the deceased to his store. The deceased beckoned Ada Lee Clark with his hand to come to him. She went to him, and she and Sims started down the sidewalk with the deceased toward his store, and at this time the deceased gave Ada Lee Clark a pistol. She then called another negro man and asked him to help Sims take the deceased to his store, and she went back to her home with the deceased\u2019s pistol.\nAccording to the testimony of the appellant, while he was in his car on the night of the fatal rencounter in front of Ada Lee Clark\u2019s house, when Tom Sims was talking to the other woman at the front door of Ada Lee Clark\u2019s house, the deceased left the kitchen and went out of a south door and came to the ear where appellant was sitting, and, as he got near the car, appellant recognized him, and saw that he was coming to the car with Ms band in his pocket. Appellant jumped out, and, as he did so, his foot struck something. Appellant picked it up \u2014 it was a piece of oak picket. Appellant said, \u201cI don\u2019t want you to pull that gun on me,\u201d and hit the deceased on the head, and, when deceased raised his arm,. he hit him again. At that time Sims had arrived, and said to appellant, \u201cDon\u2019t do that \u2014 get in the car and get away,\u201d so appellant got in the car and left. Appellant was asked why he struck the deceased with the picket, and he stated that he was scared the deceased was g\u2019oing to shoot him. \u201cHe came there like he was g'oing to shoot me \u2014 had his hand like he was drawing a gun.\u201d Appellant saw something \u2014 he didn\u2019t know whether it was a gun or not, as the deceased never got it out of his pocket. Appellant further stated that he did not know what the deceased was coming out there with \u2014 deceased had his hand in his pocket \u2014 appellant didn\u2019t know whether he knocked him down on the bridge or not. When he last saw the deceased he was not flat on the bridge. It was shown that the deceased had an insurance policy on his life in favor of Ada Lee Clark. Appellant was asked if he had not been paying attention to Ada Lee Clark, and if he did not know that the deceased had $1,000 insurance on his life. Appellant stated he did not know that deceased had any insurance on his life in favor of Ada Lee Clark. Appellant, in answer to questions by counsel for the State, stated that the deceased pulled a gun on him the night before and threatened him, and that he (the appellant) did not feel good over it, but he didn\u2019t say anything to the deceased. Appellant\u2019s own testimony shows that he met the deceased on the bridge coming towards his car. \u201cThat\u2019s where they had the fight.\u201d Appellant stated that he met the deceased on the bridge, but he did not have anything* to do but get out of the car and straighten up. Appellant did not know when he jumped out of the ear that the stick was there. His foot just happened to strike it.\nThe State was permitted to prove by witness Ada Lee Clark, witness for the appellant, and also by Elzeta McKilliau, a witness for tlie State, tliat the deceased was paying their house rent.\nAfter all the testimony was adduced, the court instructed the jury that the testimony to the effect that the deceased was paying the house rent for Ada Lee Clark and Elzeta MeKillian could be considered by the jury only for the purpose of testing the credibility of these witnesses. The court gave certain instructions at the instance of the State, to which rulings counsel for the appellant objected and duly excepted. \u2022 The court also gave certain prayers for instructions at the instance of the appellant, and refused certain other prayers. The jury returned a verdict finding the appellant guilty of manslaughter and fixing his punishment at imprisonment in the State Penitentiary for a period of seven years. The court entered judgment sentencing the appellant in accordance with the verdict, from which judgment is this appeal.\nThe appellant contends that there is no evidence to sustain the verdict, and that the judgment is excessive. The punishment for voluntary manslaughter is not less than two nor more than seven years\u2019 imprisonment in the penitentiary. Section 2367, C. & M. Digest. There was evidence to sustain the verdict finding the appellant guilty of voluntary manslaughter. The jury might have found from the appellant\u2019s own testimony that he acted too hastily in taking the life of the deceased. The jury were warranted in finding that the appellant voluntarily and unnecessarily engaged in the rencounter with Lawrence Harris which resulted in the death of Harris. It was purely the province of the jury to determine under the evidence the guilt or innocence of the appellant. In Bruder v. State, 110 Ark. 402, 161 S. W. 1067, we said: \u2018 \u2018 This court has held that, where a jury believes that the defendant shot under the belief that he was about to be assaulted, but that he acted too hastily and without due care, and was therefore not justified in taking life under the circumstances, he is guilty of manslaughter.\u201d McGough v. State, 119 Ark. 57, 177 S. W. 398.\nSince tlie jury lias found the appellant guilty and fixed his punishment at the. maximum period of imprisonment provided by statute, we do not feel that the testimony is sufficient to justify our interference with the verdict of the jury in that respect. We therefore do not reduce the punishment.\nThe indictment charges that the appellant \u201cfeloniously did kill one Lawrence Harris, a human being, by striking and beating him, the said Lawrence Harris, with an instrument, the exact description of said instrument being unknown to the grand jury, against the peace and dignity of the State of Arkansas.\u201d\nThe appellant contends that the verdict was contrary to the evidence, because the State failed to prove the above allegation of the indictment. The undisputed evidence by the appellant shows that he struck the deceased with an oak picket, and the undisputed evidence shows that this blow resulted in the death of the deceased. The case is ruled on this point by the case of Wells v. State, 151 Ark. 221-227, 235 S. W. 798-800, where we said:\n\u201cThe indictment charged that the deceased was killed with a blunt instrument, the exact nature of which was unknown to the grand jurors. The contention that it was error not to require proof of this allegation cannot be sustained. The uncontradicted testimony at the trial showed that Trenz was killed with a blunt instrument. The testimony of appellant himself was to the effect that he struck Trenz with a stick. In view of the above undisputed evidence, it is manifest that the above allegation in the indictment was wholly immaterial, and should be treated as surplusage.\u201d See also Rogers v. State, 136 Ark. 161, 206 S. W. 152, and other eases cited on this point in brief of the Attorney General.\nLearned counsel for the appellant contend that the court erred in admitting the testimony of Ada Lee Clark and Elzeta McKillian to the effect that the deceased was paying rent on the house occupied by them. To this testimony of Elzeta McKillian, at the time it was admitted, counsel for the appellant made no objection and saved no exception to the ruling of the court in admitting\nthe same. Counsel for appellant objected to the testimony of Ada Lee Clark, which objection the court overruled, yet counsel for appellant did not except to the ruling of the court in overruling the objection. The ground of the motion for a new trial therefore, assigning as error the ruling of the court admitting the testimony of the above witnesses, cannot be sustained. In Clardy v. State, 96 Ark. 52-57, 131 S. W. 46-48, we said:\n\u2018 \u2018 The proper manner in which to make and preserve an objection to the introduction of testimony, is, first, to make the objection at the time the testimony is offered or to ask its exclusion at the time it is given, and to obtain a ruling of the court thereon, and then to except to an adverse ruling.\u201d See also Warren v. State, 103 Ark. 165, 146 S. W. 477, Ann. Cas. 1914B, 698.\nAt the time the court instructed the jury that the testimony of Ada Lee Clark and Elzeta McKillian, to the effect that the deceased paid their house rent, could only be considered in passing on the credibility of the witnesses, the appellant did not object and did not except to the ruling of the court in so instructing the jury. It follows therefore, from the above authorities, that the court did not err in overruling the grounds of the motion for a new trial assigning as error the admission of the above testimony; and neither did the court err in limit,-ing the consideration of such testimony \u201cfor the purpose only of testing the credibility of these witnesses.\u201d But, even if the objection and exception to the ruling of the court had been properly made and saved, still the testimony was proper for the consideration of 'the jury in determining the credibility of these two witnesses. Hollinsworth v. State, 53 Ark. 387, 14 S. W. 41.\nCounsel for the appellant do not point out in their brief any alleged errors in the rulings of the court in the granting and refusing prayers for instructions, but they say they would do so if the appellant had the means of printing a more elaborate brief. We have examined the instructions given at the instance of the State, and the prayers for instructions granted as well as those refused at- the instance of the appellant, to determine whether the court erred in the granting and refusing of prayers for instructions prejudicial to the rights of the appellant in the trial of the cause. It would serve no useful purpose, and would unduly extend this opinion, to set out and comment upon the charge of the court. We have examined it carefully, and it suffices to say that the charge was fair, full and correct. The charge was in conformity with the law in such cases, as same has been often announced by this court.\nThe judgment is correct, and it is therefore affirmed.",
+        "type": "majority",
+        "author": "Wood, J."
+      }
+    ],
+    "attorneys": [
+      "J. M. Carter and B. E. Carter, for appellant.",
+      "H. W. Applegate, Attorney General, and John L. Carter, Assistant, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Vaden v. State.\nOpinion delivered October 3, 1927.\n1. Homicide \u2014 sufficiency of evidence. \u2014 In a prosecution for murder, evidence held sufficient to sustain a conviction of voluntary manslaughter.\n2. Homicide \u2014 proof of instrument with which killing was done. \u2014 An allegation of indictment for murder, that deceased was killed with a blunt instrument, exact description of which was unknown to the grand jury, need not be proved where the undisputed evidence shows that death resulted from defendant\u2019s striking deceased with an oak picket.\n3. Criminal law \u2014 testimony not objected to. \u2014 Admission of testimony as to which there was no objection at the time, or exception saved to ruling of the court thereon, held not to constitute error.\n4. Witnesses \u2014 credibility.\" \u2014 In a prosecution for murder, testimony that deceased had paid the house rent for certain witnesses who testified for defendant, held properly admitted for the consideration of the jury in determining the credibility of such witnesses.\nAppeal from Miller Circuit Court,- J. E. McCollum, Judge;\naffirmed.\nJ. M. Carter and B. E. Carter, for appellant.\nH. W. Applegate, Attorney General, and John L. Carter, Assistant, for appellee."
+  },
+  "file_name": "0950-01",
+  "first_page_order": 968,
+  "last_page_order": 974
+}

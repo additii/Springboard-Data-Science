@@ -1,0 +1,85 @@
+{
+  "id": 1428233,
+  "name": "Turner v. Richardson",
+  "name_abbreviation": "Turner v. Richardson",
+  "decision_date": "1933-12-18",
+  "docket_number": "4-3263",
+  "first_page": "470",
+  "last_page": "471",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "188 Ark. 470"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [
+    {
+      "cite": "237 S. W. 438",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "152 Ark. 57",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1364158
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/152/0057-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 220,
+    "char_count": 3082,
+    "ocr_confidence": 0.488,
+    "pagerank": {
+      "raw": 8.904775379825973e-08,
+      "percentile": 0.5000808927470288
+    },
+    "sha256": "8518a013735aa37855e5acf9a85d0e33949bafd61cedf69e2a458f91a33d3350",
+    "simhash": "1:aada8e60e246785f",
+    "word_count": 552
+  },
+  "last_updated": "2024-02-27T23:51:14.545434+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Turner v. Richardson."
+    ],
+    "opinions": [
+      {
+        "text": "Humphreys, J.\nAppellee brought suit in replevin against appellant before a justice of the peace in Boas Township in Lawrence County to recover possession of a red Irish setter bitch. The case found its way by appeal to the eastern district of the circuit court of said county, where it was tried to a jury under proper instructions, resulting in a verdict and judgment against appellant, from which is this appeal.\nAccording to the evidence introduced by appellant, the bitch in controversy was given to him when she was about nine months old by Everett Webb, who had bought her early in December, 1931, from Tom Nokes, whose son had gotten her from Will Berry, who lived near the Less farm.\nAccording to the evidence introduced by appellee, the bitch in controversy was bought by him when she was about nine months old from Jim, Perkins for $10 the latter part of 1930, and that, after she had pups and weaned them, she disappeared in the fall of 1931, and that she was not seen by him until November, 1932, when he found her in the possession of appellant.\nAfter the trial, appellant filed a motion for a new trial on account of newly-discovered evidence, which was overruled by the trial court, over his objection and exception. Appellant insists that the court committed reversible error in overruling his motion.\nThe newly-discovered evidence was contained in the affidavits of Cecil Nokes, Will Berry and T. R. Jones.\nAffiant, Cecil Nokes, said he was the son of Tom Nokes, who got the bitch from Will Berry in May or June, 1931, and sold her to Everett Webb for $5, at which time she was six or seven months old.\nAffiant Will Berry, said the bitch in question came to his home in May or June, 1931, when she was about seven months old, and that he let Tom Nokes take her home, and that Nokes kept her until in the fall, when he said he sold her to Everett Webb for $5.\nAffiant J. R. Jones, who was related to Will Berry and Tom Nokes, said he visited them in June, and again in the fall of 1931, and that on both visits he remembers to have seen an Irish female red setter at Tom Nokes' that was about six months old.\nHad appellant gone to Tom Nokes, from whom Webb got the bitch, and made inquiry before the trial, he most probably could have obtained all the information the three affiants disclosed in their respective affidavits. Just to say he did not know what the affiants knew until they' voluntarily told him after the trial does not show diligence on his part in procuring the evidence. The law is that one who relies on newly-discovered evidence to obtain a new trial must show that he used due diligence in discovering the evidence before the trial. Medlock v. Jones, 152 Ark. 57, 237 S. W. 438.\nAppellant failed to show due diligence in procuring the evidence before the trial; so the court, in the exercise of a sound discretion, was justified in overruling his motion.\nNo error appearing, the judgment is affirmed.",
+        "type": "majority",
+        "author": "Humphreys, J."
+      }
+    ],
+    "attorneys": [
+      "W. A. Jackson and Beloate & Beloate, for appellant.",
+      "W. P. Smith, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Turner v. Richardson.\n4-3263\nOpinion delivered December 18, 1933.\nW. A. Jackson and Beloate & Beloate, for appellant.\nW. P. Smith, for appellee."
+  },
+  "file_name": "0470-01",
+  "first_page_order": 488,
+  "last_page_order": 489
+}

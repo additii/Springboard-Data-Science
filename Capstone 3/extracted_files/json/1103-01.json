@@ -1,0 +1,138 @@
+{
+  "id": 8726276,
+  "name": "Coe v. State",
+  "name_abbreviation": "Coe v. State",
+  "decision_date": "1927-10-10",
+  "docket_number": "",
+  "first_page": "1103",
+  "last_page": "1105",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "174 Ark. 1103"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [
+    {
+      "cite": "282 S. W. 680",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "170 Ark. 1073",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1371659
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/170/1073-01"
+      ]
+    },
+    {
+      "cite": "243 S. W. 963",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "155 Ark. 1",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1360528
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/155/0001-01"
+      ]
+    },
+    {
+      "cite": "56 S. W. 1072",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "68 Ark. 188",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1334077
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/68/0188-01"
+      ]
+    },
+    {
+      "cite": "276 S. W. 849",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "169 Ark. 717",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1373950
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/169/0717-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 251,
+    "char_count": 3389,
+    "ocr_confidence": 0.482,
+    "pagerank": {
+      "raw": 4.5828155114230504e-08,
+      "percentile": 0.28756541404537483
+    },
+    "sha256": "c73d3dde057e5937fb0278ea94d4a5937bef8dc0a68d9656488b4b2ed36c6f07",
+    "simhash": "1:c20787891e272e91",
+    "word_count": 576
+  },
+  "last_updated": "2024-02-27T16:23:40.975481+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Coe v. State."
+    ],
+    "opinions": [
+      {
+        "text": "McHaNby, J.\nAppellant was jointly indicted with three others, tried separately, convicted on a charge of manufacturing\u2019 liquor, and sentenced to one year in the penitentiary. From the judgment and sentence against him he has prosecuted an appeal'to this court, but has not favored us with a brief in his behalf.\nHe has assigned eleven errors in his motion for a new trial, the first being the refusal of the court to permit the defendants in the indictment to elect who should be tried first, after the court had granted a severance in this case. This was not error. The assignment is based on the provisions of \u00a7 3140 of C. & M. Digest. Construing that section, in the case of Clark v. State, 169 Ark. 717-736, 276 S. W. 849-856, this court said:\n\u201cThe provisions of the statute have been held to be directory merely. Where defendants jointly indicted sever, they stand in court as they would had they been indicted separately. If one is not ready for trial, or is not tried when his case is reached, the next in order of succession stands for trial like all other cases upon the criminal docket of the court.\u201d See also Sims v. State, 68 Ark. 188, 56 S. W. 1072; Burns v. State, 155 Ark. 1, 243 S. W. 963; Harris v. State, 170 Ark. 1073, 282 S. W. 680.\nAppellant here was the first named in the indictment, and was therefore rightfully placed on trial.\nThe next assignment of error is that the court erred in refusing to permit one Elmer Johnson to testify that he talked to two men, who told him they were operating the still at the place where appellant was found when arrested. This was purely hearsay testimony, and wholly incompetent.\nA number of errors are assigned because of the court\u2019s refusal to give requested instructions, and in modifying and giving instructions as modified over appellant\u2019s objections and exceptions. We have examined these assignments of error carefully, and find that the court committed no error in the refusal to give requested instructions, and in modifying and giving as modified other requested instructions. It would serve no useful purpose here to set out these instructions and comment on them separately. The court\u2019s charge, taken as a whole, was full, and fairly set forth the law applicable to the case.\nThe last assignment of error is that the verdict is contrary to the evidence. We have read the abstract of the evidence as prepared by the Attorney General, and have verified same from the transcript, and find it sufficient to go to the jury on the question of his guilt or innocence.\nNo error appearing, the judgment is affirmed.",
+        "type": "majority",
+        "author": "McHaNby, J."
+      }
+    ],
+    "attorneys": [
+      "II. W. Applegate, Attorney G-eneral, and John.L. Carter, Assistant, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Coe v. State.\nOpinion delivered October 10, 1927.\n1. Criminal law \u2014 severance of trial. \u2014 Refusal to permit defendants to elect who should be tried first after severance was granted held not error, under Crawford & Moses' Dig., \u00a7 3140.\n2. Criminal law \u2014 severance of defendants \u2014 order of trial.\u2014 The defendant first named in an indictment held rightfully tried first after court granted a severance.\n3. Criminal law \u2014 hearsay evidence. \u2014 In a trial for manufacturing liquor, testimony as to talking to two men, who told witness they were operating a still where defendant was found when arrested, held properly excluded as purely hearsay and incompetent.\nAppeal 'from Miller Circuit Court; James H. McCollum, Judge ;\naffirmed.\nII. W. Applegate, Attorney G-eneral, and John.L. Carter, Assistant, for appellee."
+  },
+  "file_name": "1103-01",
+  "first_page_order": 1121,
+  "last_page_order": 1123
+}

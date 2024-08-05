@@ -1,0 +1,1075 @@
+{
+  "id": 12456847,
+  "name": "The State of Washington, Petitioner, v. Michael Allen Budd, Respondent",
+  "name_abbreviation": "State v. Budd",
+  "decision_date": "2016-05-19",
+  "docket_number": "No. 91529-6",
+  "first_page": "566",
+  "last_page": "593",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "185 Wash. 2d 566"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Wash.",
+    "id": 9029,
+    "name": "Washington Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 38,
+    "name_long": "Washington",
+    "name": "Wash."
+  },
+  "cites_to": [
+    {
+      "cite": "615 P.2d 1279",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1980,
+      "pin_cites": [
+        {
+          "parenthetical": "\"[I]t is not the function of an appellate court to second-guess the trial court by reweighing evidence.''"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "94 Wn.2d 119",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1164073
+      ],
+      "year": 1980,
+      "pin_cites": [
+        {
+          "page": "127-28",
+          "parenthetical": "\"[I]t is not the function of an appellate court to second-guess the trial court by reweighing evidence.''"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/94/0119-01"
+      ]
+    },
+    {
+      "cite": "225 P.3d 237",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2010,
+      "pin_cites": [
+        {
+          "parenthetical": "\"[W]e defer to the fact finder on issues of witness credibility.''"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "168 Wn.2d 23",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4007503
+      ],
+      "year": 2010,
+      "pin_cites": [
+        {
+          "page": "35",
+          "parenthetical": "\"[W]e defer to the fact finder on issues of witness credibility.''"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/168/0023-01"
+      ]
+    },
+    {
+      "cite": "62 P.3d 489",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2003,
+      "pin_cites": [
+        {
+          "parenthetical": "stating that challenged findings that are supported by substantial evidence are binding on appeal"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "148 Wn.2d 564",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        609206
+      ],
+      "year": 2003,
+      "pin_cites": [
+        {
+          "page": "571",
+          "parenthetical": "stating that challenged findings that are supported by substantial evidence are binding on appeal"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/148/0564-01"
+      ]
+    },
+    {
+      "cite": "948 P.2d 1280",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1997,
+      "pin_cites": [
+        {
+          "parenthetical": "\"In the absence of a finding on a factual issue we must indulge the presumption that the party with the burden of proof failed to sustain their burden on [that] issue.''"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "134 Wn.2d 1",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        452312
+      ],
+      "year": 1997,
+      "pin_cites": [
+        {
+          "page": "14",
+          "parenthetical": "\"In the absence of a finding on a factual issue we must indulge the presumption that the party with the burden of proof failed to sustain their burden on [that] issue.''"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/134/0001-01"
+      ]
+    },
+    {
+      "cite": "136 Wn.2d 103",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        867946
+      ],
+      "year": 1998,
+      "pin_cites": [
+        {
+          "page": "118"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/136/0103-01"
+      ]
+    },
+    {
+      "cite": "265 P.2d 265",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "weight": 5,
+      "year": 1953,
+      "pin_cites": [
+        {
+          "page": "300"
+        },
+        {
+          "page": "302"
+        },
+        {
+          "page": "304"
+        },
+        {
+          "page": "339"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "44 Wn.2d 43",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        2422461
+      ],
+      "year": 1953,
+      "pin_cites": [
+        {
+          "page": "50"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/44/0043-01"
+      ]
+    },
+    {
+      "cite": "398 P.2d 167",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1965,
+      "opinion_index": 0
+    },
+    {
+      "cite": "65 Wn.2d 519",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1966265
+      ],
+      "year": 1965,
+      "pin_cites": [
+        {
+          "page": "523"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/65/0519-01"
+      ]
+    },
+    {
+      "cite": "290 P.3d 942",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2012,
+      "opinion_index": 0
+    },
+    {
+      "cite": "175 Wn.2d 607",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4024116
+      ],
+      "year": 2012,
+      "pin_cites": [
+        {
+          "page": "618"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/175/0607-01"
+      ]
+    },
+    {
+      "cite": "728 P.2d 138",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "weight": 2,
+      "year": 1986,
+      "opinion_index": 0
+    },
+    {
+      "cite": "107 Wn.2d 196",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1192366
+      ],
+      "year": 1986,
+      "pin_cites": [
+        {
+          "page": "218"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/107/0196-01"
+      ]
+    },
+    {
+      "cite": "10 A.L.R.3d 974",
+      "category": "reporters:specialty",
+      "reporter": "A.L.R. 3d",
+      "year": 1966,
+      "opinion_index": 0
+    },
+    {
+      "cite": "384 U.S. 436",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12046400
+      ],
+      "weight": 7,
+      "year": 1966,
+      "pin_cites": [
+        {
+          "page": "468"
+        },
+        {
+          "page": "468"
+        },
+        {
+          "page": "468-69",
+          "parenthetical": "footnote omitted"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/384/0436-01"
+      ]
+    },
+    {
+      "cite": "983 P.2d 590",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1999,
+      "opinion_index": 0
+    },
+    {
+      "cite": "138 Wn.2d 964",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        887385
+      ],
+      "year": 1999,
+      "pin_cites": [
+        {
+          "page": "980"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/138/0964-01"
+      ]
+    },
+    {
+      "cite": "917 P.2d 563",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1996,
+      "opinion_index": 0
+    },
+    {
+      "cite": "129 Wn.2d 61",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        904193
+      ],
+      "year": 1996,
+      "pin_cites": [
+        {
+          "page": "71"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/129/0061-01"
+      ]
+    },
+    {
+      "cite": "69 P.3d 862",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2003,
+      "pin_cites": [
+        {
+          "parenthetical": "citing State v. Hendrickson, 129 Wn.2d 61, 71, 917 P.2d 563 (1996)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "149 Wn.2d 557",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1292585
+      ],
+      "year": 2003,
+      "pin_cites": [
+        {
+          "page": "562",
+          "parenthetical": "citing State v. Hendrickson, 129 Wn.2d 61, 71, 917 P.2d 563 (1996)"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/149/0557-01"
+      ]
+    },
+    {
+      "cite": "132 P.3d 1089",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2006,
+      "opinion_index": 0
+    },
+    {
+      "cite": "156 Wn.2d 835",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        3892667
+      ],
+      "year": 2006,
+      "pin_cites": [
+        {
+          "page": "840"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/156/0835-01"
+      ]
+    },
+    {
+      "cite": "313 P.3d 1156",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2013,
+      "pin_cites": [
+        {
+          "parenthetical": "plurality opinion"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "179 Wn.2d 195",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4033354
+      ],
+      "year": 2013,
+      "pin_cites": [
+        {
+          "page": "200",
+          "parenthetical": "plurality opinion"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/179/0195-01"
+      ]
+    },
+    {
+      "cite": "868 P.2d 134",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1994,
+      "opinion_index": 0
+    },
+    {
+      "cite": "123 Wn.2d 260",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        812791
+      ],
+      "year": 1994,
+      "pin_cites": [
+        {
+          "page": "270"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/123/0260-01"
+      ]
+    },
+    {
+      "cite": "319 P.3d 9",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2014,
+      "pin_cites": [
+        {
+          "parenthetical": "quoting Myrick, 102 Wn.2d at 511"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "179 Wn.2d 862",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4033593
+      ],
+      "year": 2014,
+      "pin_cites": [
+        {
+          "page": "868",
+          "parenthetical": "quoting Myrick, 102 Wn.2d at 511"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/179/0862-01"
+      ]
+    },
+    {
+      "cite": "688 P.2d 151",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1984,
+      "opinion_index": 0
+    },
+    {
+      "cite": "102 Wn.2d 506",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1137157
+      ],
+      "year": 1984,
+      "pin_cites": [
+        {
+          "page": "510-11"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/102/0506-01"
+      ]
+    },
+    {
+      "cite": "220 P.3d 1226",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2009,
+      "opinion_index": 0
+    },
+    {
+      "cite": "167 Wn.2d 620",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4004632
+      ],
+      "year": 2009,
+      "pin_cites": [
+        {
+          "page": "628"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/167/0620-01"
+      ]
+    },
+    {
+      "cite": "269 P.3d 207",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2012,
+      "opinion_index": 0
+    },
+    {
+      "cite": "173 Wn.2d 405",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4020264
+      ],
+      "year": 2012,
+      "pin_cites": [
+        {
+          "page": "419"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/173/0405-01"
+      ]
+    },
+    {
+      "cite": "347 P.3d 49",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "weight": 2,
+      "year": 2015,
+      "pin_cites": [
+        {
+          "page": "199, 205-07"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "186 Wn. App. 184",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        4172091
+      ],
+      "weight": 2,
+      "year": 2015,
+      "pin_cites": [
+        {
+          "page": "207"
+        },
+        {
+          "page": "199"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/186/0184-01"
+      ]
+    },
+    {
+      "cite": "960 P.2d 927",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "weight": 2,
+      "year": 1998,
+      "opinion_index": 0
+    },
+    {
+      "cite": "823 P.2d 1068",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1992,
+      "opinion_index": 1
+    },
+    {
+      "cite": "118 Wn.2d 335",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1372162
+      ],
+      "year": 1992,
+      "pin_cites": [
+        {
+          "page": "342"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/118/0335-01"
+      ]
+    },
+    {
+      "cite": "904 P.2d 754",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1995,
+      "opinion_index": 1
+    },
+    {
+      "cite": "128 Wn.2d 1",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        518015
+      ],
+      "year": 1995,
+      "pin_cites": [
+        {
+          "page": "19"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/128/0001-01"
+      ]
+    },
+    {
+      "cite": "964 P.2d 1187",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1998,
+      "opinion_index": 1
+    },
+    {
+      "cite": "136 Wn.2d 619",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        867938
+      ],
+      "year": 1998,
+      "pin_cites": [
+        {
+          "page": "624"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/136/0619-01"
+      ]
+    },
+    {
+      "cite": "533 P.2d 123",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1975,
+      "opinion_index": 1
+    },
+    {
+      "cite": "85 Wn.2d 207",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1120406
+      ],
+      "year": 1975,
+      "pin_cites": [
+        {
+          "page": "210"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/85/0207-01"
+      ]
+    },
+    {
+      "cite": "232 P.3d 1104",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2010,
+      "opinion_index": 1
+    },
+    {
+      "cite": "168 Wn.2d 908",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4007333
+      ],
+      "year": 2010,
+      "pin_cites": [
+        {
+          "page": "927"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/168/0908-01"
+      ]
+    },
+    {
+      "cite": "868 P.3d 134",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 1994,
+      "opinion_index": 1
+    },
+    {
+      "cite": "209 P. 9",
+      "category": "reporters:state_regional",
+      "reporter": "P.",
+      "year": 1922,
+      "opinion_index": 1
+    },
+    {
+      "cite": "121 Wash. 153",
+      "category": "reporters:state",
+      "reporter": "Wash.",
+      "case_ids": [
+        757435
+      ],
+      "year": 1922,
+      "pin_cites": [
+        {
+          "page": "154"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash/121/0153-01"
+      ]
+    },
+    {
+      "cite": "41 P.3d 1159",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2002,
+      "opinion_index": 1
+    },
+    {
+      "cite": "145 Wn.2d 630",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        314609
+      ],
+      "year": 2002,
+      "pin_cites": [
+        {
+          "page": "637"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/145/0630-01"
+      ]
+    },
+    {
+      "cite": "313 P3d 1156",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2013,
+      "pin_cites": [
+        {
+          "parenthetical": "plurality opinion"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "11 P.3d 714",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2000,
+      "opinion_index": 1
+    },
+    {
+      "cite": "142 Wn.2d 17",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1361357
+      ],
+      "year": 2000,
+      "pin_cites": [
+        {
+          "page": "28"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/142/0017-01"
+      ]
+    },
+    {
+      "cite": "136 Wn.2d 103",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        867946
+      ],
+      "weight": 2,
+      "year": 1998,
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/136/0103-01"
+      ]
+    },
+    {
+      "cite": "728 P.2d 138",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1986,
+      "opinion_index": 1
+    },
+    {
+      "cite": "107 Wn.2d 196",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1192366
+      ],
+      "year": 1986,
+      "pin_cites": [
+        {
+          "page": "219"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/107/0196-01"
+      ]
+    },
+    {
+      "cite": "983 P.2d 590",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1999,
+      "opinion_index": 1
+    },
+    {
+      "cite": "138 Wn.2d 964",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        887385
+      ],
+      "year": 1999,
+      "pin_cites": [
+        {
+          "page": "980"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/138/0964-01"
+      ]
+    },
+    {
+      "cite": "69 P.3d 862",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2003,
+      "pin_cites": [
+        {
+          "parenthetical": "citing State v. Williams, 142 Wn.2d 17, 28, 11 P.3d 714 (2000)"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "149 Wn.2d 557",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1292585
+      ],
+      "year": 2003,
+      "pin_cites": [
+        {
+          "page": "563",
+          "parenthetical": "citing State v. Williams, 142 Wn.2d 17, 28, 11 P.3d 714 (2000)"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/149/0557-01"
+      ]
+    },
+    {
+      "cite": "179 Wn.2d 195",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4033354
+      ],
+      "year": 2013,
+      "pin_cites": [
+        {
+          "page": "205",
+          "parenthetical": "plurality opinion"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/179/0195-01"
+      ]
+    },
+    {
+      "cite": "123 Wn.2d 260",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        812791
+      ],
+      "year": 1994,
+      "pin_cites": [
+        {
+          "page": "270"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/123/0260-01"
+      ]
+    },
+    {
+      "cite": "347 P.3d 49",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2015,
+      "opinion_index": 1
+    },
+    {
+      "cite": "186 Wn. App. 184",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        4172091
+      ],
+      "weight": 4,
+      "year": 2015,
+      "pin_cites": [
+        {
+          "page": "208"
+        },
+        {
+          "page": "211",
+          "parenthetical": "Korsmo, J., dissenting"
+        },
+        {
+          "page": "210",
+          "parenthetical": "Korsmo, J., dissenting"
+        },
+        {
+          "page": "210",
+          "parenthetical": "Korsmo, J., dissenting"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-app/186/0184-01"
+      ]
+    },
+    {
+      "cite": "960 P.2d 927",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "weight": 2,
+      "year": 1998,
+      "opinion_index": 1
+    }
+  ],
+  "analysis": {
+    "cardinality": 1559,
+    "char_count": 49267,
+    "ocr_confidence": 0.891,
+    "pagerank": {
+      "raw": 5.6590484121652885e-08,
+      "percentile": 0.3527892938931961
+    },
+    "sha256": "4a06bfa2e17a43bb8d5eabbde28d3ad75b7b68eff791bf464e8ad454b5bc942e",
+    "simhash": "1:4ce8630cf6c738b5",
+    "word_count": 8240
+  },
+  "last_updated": "2024-02-28T00:06:59.447104+00:00",
+  "provenance": {
+    "date_added": "2019-05-22",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Johnson, Owens, Stephens, and Gordon McCloud, JJ., concur.",
+      "Madsen, C.J., and Fairhurst and Gonz\u00e1lez, JJ., concur with Yu, J."
+    ],
+    "parties": [
+      "The State of Washington, Petitioner, v. Michael Allen Budd, Respondent."
+    ],
+    "opinions": [
+      {
+        "text": "Wiggins, J.\n\u00b61 The issue before us is whether police officers must give a resident the Ferrier warnings before making a warrantless, consent-based entry into the resident\u2019s home in order to seize an item containing suspected contraband. We hold that the Ferrier warnings are required under such circumstances. In this case, the trial court found that the officers did not give Michael Budd the Ferrier warnings before making a warrantless, consent-based entry into Budd\u2019s home to seize his computer. Based on this finding, the Court of Appeals correctly ruled that Budd\u2019s consent was invalid. We therefore affirm the Court of Appeals.\nFACTS\n\u00b62 On January 15, 2009, the Washington State Patrol received an anonymous cybertip from the National Center for Missing and Exploited Children. The tip alleged that Budd possessed child pornography on his computer, used Internet messaging services to communicate with minors, and bragged about molesting his nine-and-a-half-year-old daughter. This tip also contained Budd\u2019s e-mail addresses and a copy of two sexually explicit chat conversations.\n\u00b63 With the information from the cybertip, Detective Kim Holmes obtained search warrants for information from Yahoo! Inc. and Google Inc. regarding Budd\u2019s online activities. However, these warrants did not lead to any relevant information regarding what was alleged in the cybertip. Detective Holmes did not obtain any other search warrants.\n\u00b64 Without a search warrant, Detective Holmes, accompanied by two other officers, went to Budd\u2019s home to ask for his permission to search his computer. The officers met Budd in his driveway, and the trial court found that the following series of events took place:\n[Detective Holmes] explained why she was there and [Budd] approached and admitted possessing hundreds of images depicting minors involved in \u201csexually explicit conduct.\u201d Detective Holmes asked [Budd] for consent to enter his home and search his computer. [Budd] asked if the detective had a warrant. The detective replied that she would apply for a warrant if he did not consent. [Budd] told the detective he did not want his computer previewed in front of his girlfriend. The troopers agreed not to view the computer\u2019s contents in view of [Budd\u2019s] girlfriend. The Defendant then gave consent to entry of his home for the purpose of searching his computer. Upon entering [Budd\u2019s] home and before searching the computer, the troopers went over a written consent form with [Budd,] which contained all the warnings associated with State v. Ferrier, 136 [Wn.]2d 103, 960 P.2d 927 (1998). [Budd] signed the document acknowledging he understood and reaffirming his consent. The troopers seized [Budd\u2019s] computer but did not arrest [Budd]. The computer was later forensically analyzed and found to contain images of child pornography.\nClerk\u2019s Papers (CP) at 405.\n\u00b65 Referencing the child pornography that the officers found on Budd\u2019s computer, the officers applied for, and received, a warrant to return to Budd\u2019s home and seize any additional computers and associated paraphernalia. When the officers executed this warrant, they seized several additional computers, some of which also contained child pornography. With this evidence, the State charged Budd with one count of possession of depictions of a minor engaged in sexually explicit conduct in violation of RCW 9.68A.070. Budd filed a motion to suppress the evidence from his computer, arguing in part that the search was illegal because the officers did not give him the Ferrier warnings before entering his home.\n\u00b66 After a hearing on the motion to suppress, which included testimony by Detective Holmes, the trial court denied Budd\u2019s motion. Focusing exclusively on the events that took place inside of Budd\u2019s home, the court concluded that\nthe troopers did not violate Ferrier by entering the home initially to go over [Budd\u2019s] rights before commencing the search. There appears to be no controlling authority on this question. But, the purpose of the Ferrier warnings is to prevent a search before advisement of rights. Here, no search was conducted before [Budd] was advised of his Ferrier rights, and the purpose of the Ferrier warnings was accomplished.\nCP at 407.\n\u00b67 Thereafter, the trial court found Budd guilty in a bench trial based on stipulated materials, including Detective Holmes\u2019s police report and testimony from the suppression hearing. Budd appealed his conviction on the ground that the evidence from his computer should have been suppressed because the officers did not give him the Ferrier warnings before entering his home. The Court of Appeals, Division Three, reversed in a split decision. State v. Budd, 186 Wn. App. 184, 207, 347 P.3d 49 (2015). The Court of Appeals reasoned that the trial court necessarily found that Budd was not given the Ferrier warnings before entering the home, and Ferrier mandates that Budd should have received the warnings before the officers entered his home. Id. at 199, 205-07. We granted the State\u2019s petition for review.\nANALYSIS\n\u00b68 We hold that Budd\u2019s consent was invalid because the officers did not give him the Ferrier warnings before entering his home. In Section II of this opinion, we reaffirm our Ferrier rule and hold that it applies to this case. In Section III, we hold Budd\u2019s consent was invalid based on the trial court\u2019s finding that the officers did not give Budd the Ferrier warnings before entering his home.\nI. Standard of review\n\u00b69 We review constitutional issues de novo. State v. Gresham, 173 Wn.2d 405, 419, 269 P.3d 207 (2012). When a trial court denies a motion to suppress, we also review that court\u2019s conclusions of law de novo. State v. Winterstein, 167 Wn.2d 620, 628, 220 P.3d 1226 (2009).\nII. Ferrier applies to this case\nA. Officers conducting a knock and talk must give the resident the Ferrier warnings before entering the home\n\u00b610 Washington\u2019s Constitution states that \u201c[n]o person shall be disturbed in his private affairs, or his home invaded, without authority of law.\u201d Wash. Const. art. I, \u00a7 7. Article I, section 7 encompasses the privacy expectations protected by the Fourth Amendment to the United States Constitution and in some cases may provide greater protection than the Fourth Amendment because the section 7 protections are not confined to the subjective privacy expectations of citizens. State v. Myrick, 102 Wn.2d 506, 510-11, 688 P.2d 151 (1984). A search under article I, section 7 \u201coccurs when the government disturbs \u2018those privacy interests which citizens of this state have held, and should be entitled to hold, safe from governmental trespass absent a warrant.\u2019 \u201d State v. Hinton, 179 Wn.2d 862, 868, 319 P.3d 9 (2014) (quoting Myrick, 102 Wn.2d at 511). \u201cThe expectation of privacy in the home is clearly \u2018one which a citizen of this state should be entitled to hold.\u2019 \u201d Ferrier, 136 Wn.2d at 118 (quoting City of Seattle v. McCready, 123 Wn.2d 260, 270, 868 P.2d 134 (1994)); see also State v. Ruem, 179 Wn.2d 195, 200, 313 P.3d 1156 (2013) (plurality opinion) (\u201cConstitutional protections of privacy are strongest in the home.\u201d). Therefore, a government search of a home is a search under article I, section 7 and must be supported by \u201cauthority of law.\u201d Const. art. I, \u00a7 7.\n\u00b611 When article I, section 7 attaches to a particular search, the \u201c \u2018authority of law\u2019 \u201d required is a valid warrant or a recognized exception to the warrant requirement. Hinton, 179 Wn.2d at 868-69. The State bears the burden of proof if it relies on an exception to the warrant requirement to justify a particular search. See State v. Potter, 156 Wn.2d 835, 840, 132 P.3d 1089 (2006).\n\u00b612 One recognized exception to the warrant requirement is voluntary consent. State v. Khounvichai, 149 Wn.2d 557, 562, 69 P.3d 862 (2003) (citing State v. Hendrickson, 129 Wn.2d 61, 71, 917 P.2d 563 (1996)). As it is an exception to the warrant requirement, the State bears the burden of proving voluntary consent when it obtains consent through a procedure known as a knock and talk. Id. at 561. During a knock and talk, officers go to a home without a warrant and ask for the resident\u2019s consent to search the premises. See id. When officers conduct a knock and talk, they must give the resident a prescribed set of warnings, informing the resident of his or her constitutional rights. See Ruem, 179 Wn.2d at 206; State v. Bustamante-Davila, 138 Wn.2d 964, 980, 983 P.2d 590 (1999).\n\u00b613 Specifically, officers must give the resident the \u201cFerrier warnings.\u201d Ruem, 179 Wn.2d at 205. Ferrier requires that police officers \u201cmust, prior to entering the home, inform the person from whom consent is sought that he or she may lawfully refuse to consent to the search and that they can revoke, at any time, the consent that they give, and can limit the scope of the consent to certain areas of the home.\u201d 136 Wn.2d at 118. Officers must give these warnings before entering the home because the resident\u2019s knowledge of the privilege is a \u201c \u2018threshold requirement for an intelligent decision as to its exercise.\u2019 \u201d Id. at 117 (quoting Miranda v. Arizona, 384 U.S. 436, 468, 86 S. Ct. 1602, 16 L. Ed. 2d 694 (1966)). \u201cThe failure to provide these warnings, prior to entering the home, vitiates any consent given thereafter.\u201d Id. at 118-19.\n\u00b614 Since Ferrier, we have consistently limited the Ferrier warnings to knock and talk procedures. See, e.g., Ruem, 179 Wn.2d at 206; Khounvichai, 149 Wn.2d at 562-64. In this case, the officers conducted a knock and talk because they sought Budd\u2019s consent to enter his home to search for and seize suspected contraband. Therefore, the officers were required to give Budd the Ferrier warnings before entering his home.\nB. We agree with the Court of Appeals and reaffirm that the Ferrier warnings must be given before entry of the home in knock and talk investigations\n\u00b615 The State makes two arguments, inviting us either not to apply the Ferrier warnings to Budd\u2019s case or to limit the requirements o\u00ed Ferrier. First, the State argues that the officers did not conduct a knock and talk because they entered the home only to seize an item, not to conduct a search. Second, the State argues that even if the officers did conduct a knock and talk, Ferrier should be read as to allow officers to enter the home first, give the warnings, and then begin their search. We reject both arguments because they are contrary to our reasoning in Ferrier.\n\u00b616 In Ferrier, officers received a tip that Ferrier was illegally growing marijuana in her home. 136 Wn.2d at 106. This tip came from Ferrier\u2019s son, whom the officers did not want to disclose as their informant. Id. at 107. Believing that they could not obtain a search warrant without disclosing the informant\u2019s identity, the officers decided to conduct a knock and talk to gain warrantless entry into Ferrier\u2019s home for the purpose of discovering the marijuana grow operation. Id.\n\u00b6 17 Carrying out the knock and talk, the officers went to Ferrier\u2019s home, and Ferrier opened the door in response to their knock. Id. The officers immediately identified themselves, and Ferrier invited them inside her home. Id. After the officers entered, they told Ferrier that they had information about a marijuana grow operation and asked for her consent to search her home. Id. at 108. Although the officers went over a \u201cconsent to search\u201d form with Ferrier, which she signed, the officers did not tell her that she had the right to refuse consent. Id. After signing the consent form, Ferrier led the officers through a locked door in her home, exposing her illegal marijuana grow operation. Id. at 108-09. The trial court denied Ferrier\u2019s motion to suppress the marijuana and found Ferrier guilty of manufacturing a controlled substance, and the Court of Appeals affirmed. See id. at 109.\n\u00b618 We reversed Ferrier\u2019s conviction, ruling that when officers conduct a knock and talk, they must inform residents of their right to refuse consent, revoke consent, and limit the scope of the search before entering the home. Id. at 118-19. We adopted this rule in recognition of the strong privacy interests that article I, section 7 of the Washington Constitution provides to the home. Id. at 118.\n\u00b619 \u201cCentral to our holding is our belief that any knock and talk is inherently coercive to some degree\u201d:\n[W]e believe that the great majority of home dwellers confronted by police officers on their doorstep or in their home would not question the absence of a search warrant because they either (1) would not know that a warrant is required; (2) would feel inhibited from requesting its production, even if they knew of the warrant requirement; or (3) would simply be too stunned by the circumstances to make a reasoned decision about whether or not to consent to a warrantless search.\nId. at 115.\n\u00b620 We specifically highlighted the fact that when confronted with a surprise show of government force and authority, most residents believe they have no choice but to consent to the search. See id. at 115-16 (noting that we were not surprised by an officer\u2019s testimony that virtually everyone confronted by a knock and talk accedes to the request to permit a search of their home). Therefore, we concluded that the constitutional privacy interests residents have in their homes and the coercive nature of knock and talks demand that officers give residents a specific set of warnings (the Ferrier warnings) before entering their homes. Id. at 118-19. In creating the Ferrier warnings for use in knock and talk methods of investigation, we recognized that without the Ferrier warnings, the State would never be able to prove voluntary consent:\nIf we were to reach any other conclusion, we would not be satisfied that a home dweller who consents to a warrantless search possessed the knowledge necessary to make an informed decision. That being the case, the State would be unable to meet its burden of proving that a knowing and voluntary waiver occurred. As the United States Supreme Court has noted in another context: \u201cFor those unaware of the privilege, the warning is needed simply to make them aware of it\u2014the threshold requirement for an intelligent decision as to its exercise\u201d Miranda v. Arizona, 384 U.S. 436, 468, 86 S. Ct. 1602, 16 L. Ed. 2d 694, 10 A.L.R.3d 974 (1966). After all, \u201c[assessments of the knowledge that the defendant possessed . . . can never be more than speculation; a warning is a clearcut fact.\u201d Miranda, 384 U.S. at 468-69 (footnote omitted).\nId. at 116-17 (alterations in original).\n\u00b621 Our reasoning in Ferrier applies equally in Budd\u2019s case. Therefore, we reject both of the State\u2019s arguments.\n\u00b622 First, the State\u2019s distinction between a search and a seizure in the context of a knock and talk is a distinction without a difference. Officers do not seize an item from inside a home without first entering and searching the home for that item. This principle was clear in Ferrier, where Ferrier led the officers directly to the marijuana. 136 Wn.2d at 108. That was a search even though the officers did not independently look around Ferrier\u2019s residence for contraband. See id. at 108, 119. In Budd\u2019s case, it makes no difference that the officers knew that Budd owned a computer\u2014their intent to \u201cseize\u201d Budd\u2019s computer still placed them inside his home with the intent of finding incriminating evidence.\n\u00b623 Second, the State contends that our concerns about the inherently coercive nature of knock and talks should be ameliorated when, as in this case, a resident gives some form of consent outside of the home and then invites the officers into the home to sit together and review the Ferrier warnings before starting the search. We reject this argument, as it presents the precise scenario that we rejected in Ferrier and ignores article I, section 7 protections of the home. We recognized in Ferrier that \u201cvirtually everyone confronted by a knock and talk accedes to the request to permit a search of their home.\u201d Id. at 116. The Ferrier warnings are intended to ensure that residents have a fair chance to reject the officers\u2019 requests and protect their privacy interests in their homes in the face of the inherently coercive nature of knock and talks. Id. at 115-16. Officers must give the Ferrier warnings before entering the home because once they are inside the home, the resident is much less likely to withdraw consent, even if the officers do subsequently give the Ferrier warnings. Further, once the officers are inside the home, the officers may seize any contraband within their plain view and may be able to use information gathered from inside the home to support a search warrant that they would not otherwise be able to obtain.\n\u00b624 Indeed, the officers\u2019 conduct in this case paralleled the conduct of the officers in Ferrier. In both cases, the officers arrived without announcement, surprising the resident. In both cases, the resident was not given time to reflect on the officers\u2019 presence before being asked to give his or her consent for the officers to enter the home and search for evidence of a crime. In both cases, the resident reacted to the knock and talk procedure as expected by being polite and cooperative, and allowing the officers inside the residence.\n\u00b625 Therefore, we hold that the officers were required to give Budd the Ferrier warnings before entering his home. We next consider the State\u2019s argument that remand to the trial court is necessary for further fact-finding on whether Budd actually received the Ferrier warnings before the officers entered his home.\nIII. We affirm the trial court\u2019s finding that the officers did not give Budd the Ferrier warnings before entering his home and hold that Budd\u2019s consent was therefore involuntary\n\u00b626 The trial court found that the officers did not give Budd the Ferrier warnings before entering his home. Because the officers did not give Budd the Ferrier warnings before entering his home, Budd\u2019s consent was involuntary. When a court enters written findings of fact and conclusions of law, those findings and conclusions \u201cmust be sufficiently specific to permit meaningful review.\u201d In re Det. of LaBelle, 107 Wn.2d 196, 218, 728 P.2d 138 (1986). \u201cWhile the degree of particularity required in findings of fact depends on the circumstances of the particular case, they should at least be sufficient to indicate the factual bases for the ultimate conclusions.\u201d Id. Findings may be sufficient even if they are implicit in the trial court\u2019s formal written findings of fact. See State v. Sisouvanh, 175 Wn.2d 607, 618, 290 P.3d 942 (2012); Woehler v. George, 65 Wn.2d 519, 523, 398 P.2d 167 (1965); Squires v. McLaughlin, 44 Wn.2d 43, 50, 265 P.2d 265 (1953).\n\u00b627 The State asserts that the trial court failed to make any findings of fact on whether the officers provided Budd the Ferrier warnings before entering his home and that remand is necessary for the trial court to make that finding. Reviewing the trial court\u2019s findings in the context of this hearing makes clear that a remand is unnecessary. The prosecutor and defense counsel both acknowledged at the outset of the hearing that the key issue was whether Budd was given the Ferrier warnings before or after the officers entered the home. The prosecutor stated, \u201c[W]e [are] arguing that the Defendant was advised of his Ferrier warnings prior to the officer going in there. And that he also \u2014 the Defendant waived his rights verbally before he went in and also [signed a] written waiver of rights once he was in the house.\u201d CP at 223. Detective Holmes testified that she could not recall \u201c[v]erbatim\u201d how Budd was told he could stop the search at any time, id. at 300, and when asked on redirect if she \u201cadvised him that he could stop you or stop the search at any time,\u201d Holmes answered, \u201cMaybe not in those words,\u201d id. at 302. She immediately added, \u201cBut once we went over the Ferrier it was exactly those words, yes.\u201d Id. at 304.\n\u00b628 The trial court then heard argument of counsel, which included this colloquy with defense counsel:\nJUDGE: The Ferrier case itself and I think the language is, before entering the house the warnings have to be given.\n[DEFENSE COUNSEL] DEYOUNG: Right.\nJUDGE: Mr. Owens [deputy prosecutor] thinks though that that doesn\u2019t really mean that. He thinks if there\u2019s \u2014 that if the officers go in for limited purposes of sitting down at the kitchen table and going over the written form prior to the search that that satisfies Ferrier.\nDEYOUNG: Well, we\u2019d have to leave out the part about Ferrier about before entering the house and I think Article I \u00a77,1 think that\u2019s what Ferrier relied on. That\u2019s what [it] hung its hat on so to speak.\nJUDGE: So, are you aware of any case where that specific issue has been brought up, where the officers went in and went over the warnings inside the house [inaudible]?\nDEYOUNG: If I had, we wouldn\u2019t be having this hearing or we would have tried to work out some kind of plea deal. No, I\u2019m not aware of any \u2014\nJUDGE: Okay.\nDEYOUNG: Type of case and I think that that\u2019s what makes this case so important and that\u2019s I think, if I\u2019m not mistaken, the parties kind of concede that we\u2019re not really concentrating on the signed warrant, we\u2019re concentrating on what happened before the entry into the house was accomplished because all of that has to be in order.\nId. at 339.\n\u00b629 The trial court heard Detective Holmes\u2019s testimony and considered the arguments of counsel, and the trial court\u2019s findings can be reasonably interpreted only as finding that the officers did not give Budd the Ferrier warnings before entering his home:\n[T]he troopers did not violate Ferrier by entering the home initially to go over [Budd\u2019s] rights before commencing the search. There appears to be no controlling authority on this question. But, the purpose of the Ferrier warnings is to prevent a search before advisement of the rights. Here, no search was conducted before [Budd] was advised of his Ferrier rights, and the purpose of the Ferrier warnings was accomplished.\nCP at 407.\n\u00b630 This experienced trial judge focused on the policy of Ferrier, and whether Ferrier allows officers to provide the warnings after entering the home but before beginning the search. The trial judge never found that the officers gave Budd the Ferrier warnings while outside. If the trial judge had believed that Budd actually received the Ferrier warnings outside, before the officers entered his home, Ferrier would have been satisfied at that point and the court would not have considered the adequacy of warnings that the officers provided inside Budd\u2019s home. Therefore, by failing to state that Budd actually received the Ferrier warnings while outside and focusing on the adequacy of the warnings inside of the home, the trial court implicitly found that Budd did not receive the Ferrier warnings before the officers entered his home.\n\u00b631 The State, rather than arguing to this court that the trial court\u2019s ruling was unsupported by substantial evidence, argues that the Court of Appeals improperly weighed Detective Holmes\u2019s testimony to support its decision that Budd\u2019s consent was involuntary. We reject this argument because the Court of Appeals correctly read the trial court\u2019s findings of fact to mean that the Ferrier warnings were not given until Budd admitted the officers into his home. Budd, 186 Wn. App. at 199. Moreover, the State argues that the Court of Appeals looked at Budd\u2019s suppression motion brief for extraneous evidence that Budd contested whether the officers gave him the Ferrier warnings before entering his home. It is entirely appropriate to consider a party\u2019s briefing in order to determine whether an argument was raised at the trial court. Moreover, the excerpts of the record of the suppression hearing quoted above make it quite clear that the major dispute between the parties was whether the officers gave Budd the Ferrier warnings before or after entering the house.\nCONCLUSION\n\u00b632 We affirm the Court of Appeals for the reasons expressed in this opinion and remand to the trial court with directions to dismiss the charge against Budd.\nJohnson, Owens, Stephens, and Gordon McCloud, JJ., concur.\nAs described later in this opinion, the rights contained within the Ferrier warnings are the rights to refuse consent to search the home without a warrant, withdraw consent, and limit the scope of the search. State v. Ferrier, 136 Wn.2d 103, 118, 960 P.2d 927 (1998).\nEven if we were to accept that the trial court did not make this finding, its absence would require us to hold that the State failed to meet its burden of proof. See State v. Armenta, 134 Wn.2d 1, 14, 948 P.2d 1280 (1997) (\u201cIn the absence of a finding on a factual issue we must indulge the presumption that the party with the burden of proof failed to sustain their burden on [that] issue.\u2019\u2019).\nGiven Detective Holmes\u2019s testimony, the trial court could have decided either way whether the officers gave Budd the Ferrier warnings before entering his home. Regardless, we would affirm the trial court\u2019s finding as being supported by substantial evidence. See State v. O\u2019Neill, 148 Wn.2d 564, 571, 62 P.3d 489 (2003) (stating that challenged findings that are supported by substantial evidence are binding on appeal). On cross-examination, after Detective Holmes admitted that she did not state in her report that she gave Budd the Ferrier warnings before entering his home, defense counsel asked if she advised Budd of his right to call off the search at any time before entering his home. Detective Holmes responded, \u201cVerbatim I don\u2019t recall. In general, he \u2014 we told him that . . . [we] were asking him for consent and he certainly had the right to deny that consent. He did not have to let us into the house, and he could stipulate his parameters, which he did.\u2019\u2019 CP at 300. On redirect, Detective Holmes affirmed that she perhaps did not tell Budd that he could stop the search at any time \u201cin those words.\u2019\u2019 Id. at 302.\nOf our various disagreements with the dissent, we highlight the dissent\u2019s assertion that \u201cnothing in the record supports the majority\u2019s implied finding that Ferrier warnings were not provided.\u2019\u2019 Dissent at 588. Arguing that Detective Holmes did provide Budd the Ferrier warnings before entering his home, the dissent recites portions of Detective Holmes\u2019 testimony and statements by the trial judge. Id. at 588-90. But Detective Holmes\u2019 testimony was equivocal. The dissent glosses over the trial court\u2019s finding that the troopers did not violate Ferrier by entering Budd\u2019s home to go over the warnings before commencing the search, which necessarily means that the troopers did not give Budd the warnings before entering his home. CP at 407. Rather, the dissent inappropriately substitutes its evaluation of Detective Holmes\u2019 testimony for that of the trial court and makes its own findings of fact where the trial court made none. See, e.g., State v. Drum, 168 Wn.2d 23, 35, 225 P.3d 237 (2010) (\u201c[W]e defer to the fact finder on issues of witness credibility.\u2019\u2019); Davis v. Dep\u2019t of Labor & Indus., 94 Wn.2d 119, 127-28, 615 P.2d 1279 (1980) (\u201c[I]t is not the function of an appellate court to second-guess the trial court by reweighing evidence.\u2019\u2019).",
+        "type": "majority",
+        "author": "Wiggins, J."
+      },
+      {
+        "text": "Yu, J.\n\u00b633 (dissenting) As Judge Korsmo wryly observed in his dissent below, \u201cNo good deed goes unpunished.\u201d State v. Budd, 186 Wn. App. 184, 208, 347 P.3d 49 (2015). Here, Detective Kim Holmes made the mistake of accepting respondent Michael Budd\u2019s invitation to enter his home for the purpose of reaffirming in writing the consent he had already given verbally in his driveway.\n\u00b634 This was not the kind of coercive and improper fishing expedition that we repudiated in State v. Ferrier, 136 Wn.2d 103, 960 P.2d 927 (1998), yet the majority insists that warnings were required and finds that they were not adequately provided here. This conclusion misinterprets the trial court\u2019s ruling, is contrary to Ferrier itself and its progeny, and is not supported by the evidence. I respectfully dissent.\nAnalysis\n\u00b635 In Ferrier, we adopted a narrow rule requiring adequate warnings \u201cwhen police officers conduct a knock and talk for the purpose of obtaining consent to search a home.\u201d Id. at 118 (emphasis added). We began articulating the boundaries of this rule almost as soon as it was adopted. See State v. Bustamante-Davila, 138 Wn.2d 964, 980, 983 P.2d 590 (1999). Subsequent cases have \u201cclarified that the Ferrier requirement is limited to situations where police request entry into a home for the purpose of obtaining consent to conduct a warrantless search.\u201d State v. Khounvichai, 149 Wn.2d 557, 563, 69 P.3d 862 (2003) (citing State v. Williams, 142 Wn.2d 17, 28, 11 P.3d 714 (2000)); see also State v. Ruem, 179 Wn.2d 195, 205, 313 P3d 1156 (2013) (plurality opinion); State v. Vy Thang, 145 Wn.2d 630, 637, 41 P.3d 1159 (2002).\n\u00b636 We have declined to adopt a bright-line rule requiring Ferrier warnings in every instance when the police enter someone\u2019s home. See Ruem, 179 Wn.2d at 206; Williams, 142 Wn.2d at 27. These decisions demonstrate that under Ferrier, \u201c[i]t is not mere entry into the home that is prohibited, absent informed consent, but entry for the specific purpose of obtaining consent to search the home.\u201d Budd, 186 Wn. App. at 211 (Korsmo, J., dissenting).\nA. Ferrier warnings were not required\n\u00b637 While I do not question the wisdom of Ferrier, I disagree that the rule applies in this case. We have stated that \u201cwhen police seek to conduct a warrantless search of the home, the Ferrier warnings achieve their purpose.\u201d Khounvichai, 149 Wn.2d at 564. Because the authorities did not seek to conduct a search of Budd\u2019s home, requiring warnings in these circumstances unnecessarily broadens Ferrier\u2019s reach without furthering its underlying policies.\n\u00b638 Detective Holmes\u2019 interaction with Budd does not resemble the \u201cknock and talk\u201d procedure that was at issue in Ferrier. In Ferrier, the police lacked probable cause and admitted to conducting the knock and talk procedure to circumvent the warrant requirement. Ferrier, 136 Wn.2d at 115. Well-armed police arrived at Debra Ferrier\u2019s house in black raid uniforms and surrounded her home in a \u201cgreat... show of force.\u201d Id. at 107, 115. We found it \u201csignificant to our analysis . . . that Ferrier was in her home when the police initiated contact with her.\u201d Id. at 115. The police did not explain why they were there or ask for consent to search until after gaining entry into Ferrier\u2019s home, nor did they advise Ferrier of her rights prior to entering the house. Id. at 107-09.\n\u00b639 Characterizing this case as analogous to Ferrier, the majority glosses over material factual differences. Here, Detective Holmes received an anonymous cybertip from the National Center for Missing and Exploited Children, Clerk\u2019s Papers (CP) at 137-51, indicating that Budd was communicating with underaged girls online, possessed child pornography on his computer, and had bragged about molesting his nine-year-old daughter. Id. at 134, 231-33. Detective Holmes decided to contact Budd in person out of concern for the welfare and safety of his young daughter. Id. at 134, 237. There is no evidence that this was merely a pretext for conducting a warrantless search. Accompanied by two plainclothes state troopers, Detective Holmes initiated contact with Budd outside of his home in the driveway. Id. at 245. While still in the driveway, Detective Holmes informed Budd of why she and the troopers were there. Id. at 134, 245. Budd expressed that he was not surprised because \u201c \u2018[y]ou do it long enough, you eventually get caught\u2019 \u201d and, without prompting, admitted to possessing hundreds of images of child pornography. Id. at 134. It was only after Budd\u2019s confession that Detective Holmes requested consent to enter the home to seize Budd\u2019s computer.\n\u00b640 We have stated that \u201cFerrier warnings target searches and not merely contacts between the police and individuals,\u201d and have repeatedly \u201cdeclined to broaden the rule to apply outside the context of a request to search.\u201d Khounvichai, 149 Wn.2d at 564, 563. Not only were the circumstances of the interaction here fundamentally different from Ferrier, the purpose of the troopers\u2019 actual entry into Budd\u2019s residence was different as well. In Ferrier, the police entered in order to request consent to search for contraband and/or evidence of a crime. 136 Wn.2d at 108. Here, having already obtained Budd\u2019s consent, the state troopers entered for the limited purpose of having Budd sign the Ferrier form and to seize his computer.\n\u00b641 The majority\u2019s assertion that the \u201cdistinction between a search and a seizure in the context of a knock and talk is a distinction without a difference,\u201d majority at 576, is contradicted by our case law. In fact, we rejected this very argument in Khounvichai, 149 Wn.2d at 564-66. The defendant in that case argued that Ferrier warnings were required when the police entered a home to question a resident \u201cbecause a police officer\u2019s request to enter a home to talk to an occupant about an alleged offense has the same result as a request to enter to search\u2014a warrantless \u2018search\u2019 for anything in plain view.\u201d Id. at 564. Observing that \u201c[i]t is well established that a discovery made in plain view is not a search,\u201d we dismissed the argument that \u201cevery entry potentially involves a plain view \u2018search\u2019 \u201d as unavailing. Id. at 565-66 (relying on State v. Miller, 121 Wash. 153, 154, 209 P. 9 (1922)). The argument should be equally unavailing here, where it is undisputed that the troopers entered in order to seize Budd\u2019s computer, not to conduct a search of his home. If the mere fact of entry constituted a search, then Ferrier warnings would be required whenever police enter a home. But, as discussed above, we have explicitly declined to adopt such a rule, see Ruem, 179 Wn.2d at 206; Williams, 142 Wn.2d at 27-28, and we have acknowledged that there are circumstances in which Ferrier warnings are not required prior to entry.\n\u00b642 What further distinguishes this case is the fact that unlike Ferrier, who was stunned into acquiescing to the unlawful search of her home, see Ferrier, 136 Wn.2d at 108-09, Budd actively negotiated the scope of his consent. Detective Holmes initially requested consent to preview Budd\u2019s computer but, at Budd\u2019s request, agreed to seize the computer instead. When confronted by the troopers outside in his driveway, Budd asked if they had a warrant. CP at 211-12, 405. In response to Detective Holmes\u2019 statement that she would obtain a warrant if he did not consent, Budd indicated that he did not want the troopers to search his house or his computer in front of his girlfriend. Id. at 251-53, 292. Apparently determining that a \u201clow-key\u201d seizure of his computer would be preferable to a full-blown search of his home pursuant to a warrant, Budd gave his consent for the troopers to enter his home for the limited purpose of seizing his computer. Id. at 197. This exchange indicates that Budd was not only aware of and understood his rights but, in fact, exercised them.\n\u00b643 Moreover, we have stated that \u201c[w]hen police obtain consent to search a home pursuant to a \u2018knock and talk\u2019 they go through private belongings and affairs without restriction. Such an intrusion into privacy is not present, however, when police seek consensual entry to question a resident.\u201d Khounvichai, 149 Wn.2d at 564. Similarly, we concluded in Williams that \u201c [considering the limited purpose of the police entry [to execute an arrest warrant,] . . . this case does not resemble a \u2018knock and talk\u2019 warrantless search that Ferrier intended to prevent.\u201d 142 Wn.2d at 27. The same is true where the purpose of entry is limited\u2014by the homeowner himself\u2014to the seizure of a specific piece of evidence. At Budd\u2019s direction, Detective Holmes and the troopers agreed \u201cnot to open \u2014 you know, go through his entire house opening up his drawers and you know, going through his girlfriend\u2019s stuff or whatever else that may be there. Not to ransack the house, so to speak. We just did go in, take the computer and other related media and leave.\u201d CP at 294.\n\u00b644 The facts in this case simply do not constitute the same unduly coercive circumstances that we were concerned with in Ferrier. Consequently, requiring warnings in this case \u201cdoes not further the constitutional reason for the warnings.\u201d Khounvichai, 149 Wn.2d at 566. We observed in Ferrier that the inherent coerciveness of knock and talk procedures can \u201cbe mitigated by requiring officers who conduct the procedure to warn home dwellers of their right to refuse consent to a warrantless search.\u201d Ferrier, 136 Wn.2d at 116. Thus, requiring warnings prior to entry into a defendant\u2019s home would protect the expectation of privacy in the home \u201c \u2018which a citizen of this state should be entitled to hold.\u2019 \u201d Id. at 118 (quoting City of Seattle v. McCready, 123 Wn.2d 260, 270, 868 P.3d 134 (1994)). Here, Budd was not in his home when he was contacted by the authorities and his actions demonstrate that he was informed of and exercised his rights.\nB. The majority misinterprets the trial court\u2019s ruling, and its implied finding is not supported by the evidence\n\u00b645 The bare facts of this case show that Budd was not confronted with the coercive circumstances that prompted us to adopt the Ferrier rule. By shoehorning Ferrier into a situation where it does not belong, the majority misinterprets the trial court\u2019s ruling as implicitly finding that Fenler warnings were not properly given. An appellate court should not make an implicit finding of an essential fact unless \u201cthe facts and circumstances clearly demonstrate that the finding was actually made by the trial court.\u201d In re Welfare of A.B., 168 Wn.2d 908, 927, 232 P.3d 1104 (2010). Reading the trial court\u2019s memorandum opinion in its entirety, and in conjunction with statements made at the suppression hearing, it is apparent that the trial court determined correctly that Ferrier did not apply.\n\u00b646 The majority focuses on the trial court\u2019s discussion of Ferrier\u2014a scant four sentences\u2014to the exclusion of the memorandum\u2019s broader context. The trial court never categorized the interaction as a knock and talk procedure and devoted the bulk of its analysis to determining the voluntariness of Budd\u2019s consent under the \u201ctotality of the circumstances\u201d standard rather than under Ferrier. CP at 406-07. We have held that the totality of the circumstances standard is used outside the context of knock and talk procedures. See Ruem, 179 Wn.2d at 207; Thang, 145 Wn.2d at 637; Bustamante-Davila, 138 Wn.2d at 981. It is reasonable to expect that the \u201cexperienced trial judge,\u201d majority at 580, who was certainly aware of Ferrier, see CP at 330-41, would have applied the Ferrier rule if it had determined that Ferrier was the proper standard. The trial judge\u2019s observation at the hearing that \u201cthe Court itself has seemed to retreat from the plain language rather consistently since the \u2014 since Ferrier was published,\u201d id. at 341, lends further credence to the argument that the trial court determined that Ferrier did not apply.\n\u00b647 That this was the court\u2019s conclusion is further indicated by the court\u2019s recitation of the facts:\nUpon entering the Defendant\u2019s home and before searching the computer, the troopers went over a written consent form with the Defendant which contained all the warnings associated with State v. Ferrier, 136 Wn. 2d 103, 960 P.2d 927 (1998). The Defendant signed the document acknowledging he understood and reaffirming his consent.\nId. at 405 (emphasis added). Characterizing the written consent form as \u201creaffirming\u201d Budd\u2019s consent comports with the trial court\u2019s conclusion that valid consent was obtained prior to entering Budd\u2019s home. Because Budd gave consent before the authorities entered his home, the Ferrier form was merely an additional assurance\u2014a \u201cstandard procedure,\u201d id. at 290, that simply memorialized Budd\u2019s prior consent in writing.\n\u00b648 Moreover, it cannot be said that \u201cthe facts and circumstances clearly demonstrate that the finding was actually made by the trial court,\u201d A.B., 168 Wn.2d at 927, since nothing in the record supports the majority\u2019s implied finding that Ferrier warnings were not provided. The majority itself concedes that \u201cthe trial court could have decided either way whether the officers gave Budd the Ferrier warnings before entering his home.\u201d Majority at 581 n.3. Detective Holmes consistently testified throughout the hearing that she had advised Budd of his rights in accordance with Ferrier\u2014that is, prior to entry into his home. No evidence to the contrary was presented.\n\u00b649 When asked, \u201c[D]id you advise [Budd] of anything before going into the house to search,\u201d Detective Holmes testified that \u201c[w]hen [Budd] agreed to give consent, I explained to him that I have a waiver that he would need to sign and it would give him rights as to how much we could search, that he could stop the search. I didn\u2019t go into great detail.\u201d CP at 253. Deputy Prosecutor Ed Owens then clarified:\nOWENS: Now, after you advised him of the rights with this Ferrier warning said, you know, the right that he could stop the search at any time, the right that you can allow him to do that, was this advised to him before you went into the house?\nHOLMES: Yes.\nOWENS: And then, did the Defendant still, after you advised him of those things, what this warning was, did he still allow you to go into the house?\nHOLMES: He did. He invited us into the house.\nId. at 255.\n\u00b650 Later, when the defense attorney objected to the form of a question, the judge clarified the testimony:\nJUDGE: Would you state your question again for me please?\nOWENS: Okay and I was gonna ask her when she advised him that he had that right to refuse, did he tell her no or he wanted to refuse.\nJUDGE: Well, apparently, my understanding of the testimony, she did that twice. She did. it once outside and once inside\nOWENS: Yes and now I\u2019m outside. I just took a step back outside and going to the part of if he refused at any time. That he understood that it was taking place.\nJUDGE: Okay, Detective, between the time that you told Mr. Budd outside the home that he had the right to refuse consent for entering the home and the time that you entered the home, during that time period at any time did Mr. Budd indicate [ ] that he wanted to exercise that right?\nHOLMES: No.\nId. at 264-66 (emphasis added).\n\u00b651 When asked during cross-examination how she communicated to Budd that he had the right to refuse, Detective Holmes testified, \u201cVerbatim I don\u2019t recall. In general, he \u2014 we told him that, you know, we were asking him for consent and he certainly had the right to deny that consent. He did not have to let us into the house and he could stipulate his parameters, which he did.\u201d Id. at 300. And again, on redirect:\nOWENS: Very well. Now, you just testified in regards to the Ferrier warnings, the talking prior to going into the house with the Defendant there. Now, you stated you advised [Budd] that he could deny entrance into the house?\nHOLMES: Yes.\nOWENS: And you advised him that he could stop you or stop the search at any time?\nHOLMES: Maybe not in those words\u2014\nOWENS: Right.\nHOLMES: But once we went over the Ferrier it was exactly those words, yes.\nOWENS: Okay, but I\u2019m talking before you go into the house what you were talking about in the driveway. Did you advise him about parameters?\nHOLMES: Yes.\nId. at 302-04.\n\u00b652 Nothing in the record contradicts Detective Holmes\u2019 testimony that she adequately apprised Budd of his rights in accordance with Ferrier. The majority suggests that Detective Holmes\u2019 inability to recall the verbatim language that she used supports the conclusion that Ferrier warnings were not provided. Majority at 581 n.3. Judge Korsmo astutely observed that \u201c[f]ailure to recall specific verbiage is not the same thing as failing to provide the information.\u201d Budd, 186 Wn. App. at 210 (Korsmo, J., dissenting). I agree. Ferrier warnings are not a shibboleth\u2014it is the extent of the warnings, not the exact language employed, that determines whether the rule has been satisfied.\n\u00b653 When considering the entirety of the record from the suppression hearing, the majority\u2019s implied finding that Ferrier warnings were not provided has no support in the facts or the circumstances. What the record does show is that even if Ferrier did apply, Detective Holmes provided Budd with adequate warnings prior to entering his home.\nC. The proper remedy for insufficiently specific findings is remand\n\u00b654 The trial court made no explicit findings as to whether or not Ferrier warnings were provided prior to entry into Budd\u2019s home. The majority asserts that if an implicit finding cannot be made, the appropriate remedy is not to remand but to hold that the State failed to meet its burden of proof. Majority at 580 n.2. This might be true if the trial court had determined the validity of Budd\u2019s consent under Ferrier rather than the totality of the circumstances standard. However, the majority\u2019s proffered approach is incorrect because the State satisfied its burden of proof under the applicable standard.\n\u00b655 The State\u2019s burden at the suppression hearing was to prove that Budd\u2019s consent was voluntary. See Bustamante-Davila, 138 Wn.2d at 981 (citing State v. Shoemaker, 85 Wn.2d 207, 210, 533 P.2d 123 (1975)). The trial court correctly concluded that Budd\u2019s consent was voluntary under the totality of the circumstances standard, and the evidence is sufficient to support this conclusion. Because the State met its burden under the applicable standard, the court did not need to reach the Ferrier question.\n\u00b656 While the court was not required to address Ferrier in order to arrive at its conclusion that Budd\u2019s consent was valid, the State correctly observed that \u201c[m]any of the serious Ferrier and constitutional issues raised in this petition for review might be rendered moot with clarified findings of fact from the trial court.\u201d Pet. for Review at 15. \u201c[A] trial court is not required to make findings of fact on all matters about which there is evidence in the record; only those which establish the existence or nonexistence of determinative factual matters need be made.\u201d In re Det. of LaBelle, 107 Wn.2d 196, 219, 728 P.2d 138 (1986). To the extent that the question of whether or not Ferrier warnings were, in fact, provided constitutes a \u201cdeterminative factual matter! ],\u201d id,., for which the trial court\u2019s findings were not sufficiently specific, I agree with Judge Korsmo that \u201c[w]hen the findings are not clear or fail to address an important point, the remedy is to remand for better findings,\u201d Budd, 186 Wn. App. at 210 (Korsmo, J., dissenting) (citing State v. Head, 136 Wn.2d 619, 624, 964 P.2d 1187 (1998); State v. Alvarez, 128 Wn.2d 1, 19, 904 P.2d 754 (1995); State v. Barber, 118 Wn.2d 335, 342, 823 P.2d 1068 (1992)). The more prudent course of action here would be to seek clarification from the trial court rather than imply findings that are not supported by the record.\nConclusion\n\u00b657 By broadening the application of Ferrier beyond what common sense and our cases allow, the majority\u2019s opinion leads to an \u201cextraordinary\u201d and troubling result: the suppression of physical evidence obtained from a cooperative defendant who freely offered a confession and gave voluntary and informed consent to enter his home for the limited purpose of seizing the physical evidence. See Br. of Resp\u2019t at 10. We have consistently limited Ferrier to its facts, and this case does not warrant veering away from our case law. I would hold that Ferrier does not apply and reinstate the trial court\u2019s decision to deny Budd\u2019s motion to suppress.\nMadsen, C.J., and Fairhurst and Gonz\u00e1lez, JJ., concur with Yu, J.\nThe trial court\u2019s conclusion that \u201cthe troopers did not violate Perrier by entering the home initially to go over the Defendant\u2019s rights before commencing the search,\u2019\u2019 CP at 407, does not necessitate a finding that proper Ferrier warnings were never given, as the majority contends. Majority at 581 n.4. The assessment that the detectives entered Budd\u2019s home \u201cinitially\u2019\u2019 to go over the consent form in no way precludes that proper warnings were given prior to entry. Furthermore, even assuming that Ferrier warnings were not given\u2014which is not supported by the evidence\u2014this statement is entirely consistent with the trial court\u2019s apparent and correct belief that Ferrier did not apply.\nIt appears that the trial judge would agree as well. When discussing Ferrier with the State during arguments at the suppression hearing, the trial judge asked, \u201cWell, isn\u2019t the testimony from Detective Holmes fairly clear on that point? I mean, didn\u2019t she testify that she advised, she didn\u2019t have the exact words, but had advised Mr. Budd of the substance of these three \u2014 three rights [inaudible] Perrier before they went in the house?\u2019\u2019 CP at 337.",
+        "type": "dissent",
+        "author": "Yu, J."
+      }
+    ],
+    "attorneys": [
+      "Garth L. Dano, Prosecuting Attorney, and Kevin J. McCrae and Kiel R. Willmore, Deputies, for petitioner.",
+      "Brent A. De Young (of De Young Law Office), for respondent.",
+      "Nancy L. Talner and Douglas B. Klunder on behalf of American Civil Liberties Union of Washington, amicus curiae."
+    ],
+    "corrections": "",
+    "head_matter": "[No. 91529-6.\nArgued October 29, 2015.\nDecided May 19, 2016.\nThe State of Washington, Petitioner, v. Michael Allen Budd, Respondent.\nGarth L. Dano, Prosecuting Attorney, and Kevin J. McCrae and Kiel R. Willmore, Deputies, for petitioner.\nBrent A. De Young (of De Young Law Office), for respondent.\nNancy L. Talner and Douglas B. Klunder on behalf of American Civil Liberties Union of Washington, amicus curiae."
+  },
+  "file_name": "0566-01",
+  "first_page_order": 620,
+  "last_page_order": 647
+}

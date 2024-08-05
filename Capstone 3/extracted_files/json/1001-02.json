@@ -1,0 +1,76 @@
+{
+  "id": 12462756,
+  "name": "In re Pers. Restraint of Mines, Petitioner",
+  "name_abbreviation": "In re Pers. Restraint of Mines",
+  "decision_date": "2016-06-13",
+  "docket_number": "No. 92459-7",
+  "first_page": "1001",
+  "last_page": "1001",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "186 Wash. 2d 1001"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Wash.",
+    "id": 9029,
+    "name": "Washington Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 38,
+    "name_long": "Washington",
+    "name": "Wash."
+  },
+  "cites_to": [
+    {
+      "cite": "190 Wn. App. 554",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        12453885
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/190/0554-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 30,
+    "char_count": 202,
+    "ocr_confidence": 0.853,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2576576858341934
+    },
+    "sha256": "7b787759cfbda2b176a87bb5ebb3d6cc2fea6b98517d319dabe4a51532be0ebe",
+    "simhash": "1:29f0686f443326dd",
+    "word_count": 34
+  },
+  "last_updated": "2024-02-27T18:43:05.207238+00:00",
+  "provenance": {
+    "date_added": "2019-05-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Pers. Restraint of Mines, Petitioner,"
+    ],
+    "opinions": [
+      {
+        "text": "Motion for discretionary review of a decision of the Court of Appeals, No. 25729-1-III, October 8, 2015, 190 Wn. App. 554. Denied June 13, 2016.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "In re Pers. Restraint of Mines, Petitioner,\nNo. 92459-7."
+  },
+  "file_name": "1001-02",
+  "first_page_order": 987,
+  "last_page_order": 987
+}

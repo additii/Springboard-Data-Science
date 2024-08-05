@@ -1,0 +1,85 @@
+{
+  "id": 8724916,
+  "name": "Buerkle v. Greenlee",
+  "name_abbreviation": "Buerkle v. Greenlee",
+  "decision_date": "1929-06-03",
+  "docket_number": "",
+  "first_page": "674",
+  "last_page": "678",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "179 Ark. 674"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [
+    {
+      "cite": "297 S. W. 1035",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "174 Ark. 547",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        8722929
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/174/0547-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 371,
+    "char_count": 7178,
+    "ocr_confidence": 0.485,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.20858050025310357
+    },
+    "sha256": "7386cf8d8d93ff766a77f79b0780e08e6bd58c145c3b9013f83535eca0f0f254",
+    "simhash": "1:6f8a194670181842",
+    "word_count": 1232
+  },
+  "last_updated": "2024-02-27T23:51:14.248945+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Buerkle v. Greenlee."
+    ],
+    "opinions": [
+      {
+        "text": "Humphreys, J.\nThis is an appeal from a decree rendered in the chancery court of Arkansas County, Northern District, foreclosing a mortgage and ordering a sale of the land therein described, to satisfy a note for $1,600, of even date therewith, and accumulated interest, and taxes which appellee had paid upon the land.\nAppellant had defaulted in the payment of the interest, which matured the note under a provisi\u00f3n in the mortgage to that effect. The note and mortgage were dated January 1,1921, and the note was made payable ten years after date, and bore interest at the rate of 7 percent, per annum from date until paid. There were ten interest coupon notes of $112 each attached to the note, evidencing the annual 'amount of interest due. The note and coupon notes were made payable to the order of Diekinson-Reed-Randerson Company of Oklahoma City, Oklahoma, at Hanover National Bank of New-York. The note and interest coupon notes and the mortgage securing same were duly assigned and transferred on the 29th day of January, 1921, to appellee, by said Diekinson-Reed-Randerson Company, which was incorporated under the laws of the State of Oklahoma for the purpose of doing a loan business, and .which maintained its general or main office in Oklahoma City. It qualified under the laws of Arkansas to do a loan business in this State, and appointed a general State agent, who resided at Little Rock, and local agents who resided in other localities in the State. On the 26th day of December, 1920, appellant applied to the local agent for a loan from the Oklahoma corporation, and appointed it his agent to procure a loan for him on the land described in the mortgage, and on January 1, 1921, executed to it the note and mortgage in question. The note with coupons attached and the mortgage were delivered to the Oklahoma corporation at its home office in Oklahoma City. Immediately after the application had been made for the loan, the State agent inspected the lands, and sent a written report of inspection thereof to the Oklahoma Corporation. All the papers, including an abstract, which had been favorably passed upon by the corporation\u2019s attorney, were submitted to appellee in order to obtain the money from her to make the loan, and, upon her acceptance thereof, duly assigned and transferred the note and mortgage to her. At the time appellant .executed the note and mortgage he also executed a receipt to the Oklahoma corporation for the loan he was to receive. It does not appear when the money was received by the Oklahoma corporation from appellee, but early in February it was paid in cash to appellant by the local agent in Stuttgart.\nAppellant filed an answer and cross-complaint in the foreclosure proceeding, pleading usury, and, for that reason, praying* for the cancellation of the note and mortgage as a cloud upon the title to his land. In support of the plea of usury he alleged that, at the time he executed the principal note of $1,600 and the mortgage securing same, he was required to execute three other notes of $160 each, payable to said Oklahoma corporation at Oklahoma City, Oklahoma, in one, two and three years, respectively, and to secure them by a second mortgage on said real estate, as additional interest for the loan; that it was all one transaction, wholly consummated in the State of Arkansas at one and the same time; further alleging* that the requirement to pay $480 of the interest in lump sums of $160 annually for three years, instead of spreading it out in equal annual payments of $48 each, covering* the ten-year term of the loan, was an exaction of more than 10 per cent, per annum, and rendered the contract usurious in both Arkansas and New York; further alleging that the place of payment designated in the original $1,600 note and interest coupon notes attached and that designated in the three $160 notes was inserted arbitrarily for the purpose of covering up the usurious transaction.\nAppellee filed a reply to the answer and cross-complaint of appellant, denying the affirmative defense of usury set out in them, as well as all material allegations in support of the plea.\nThe .testimony as reflected by the record is not materially different from the testimony as reflected by the records in the ease of Boston Mutual Life Insurance Co. v. Newton, 174 Ark. 547, 297 S. W. 1035. In the case mentioned the court found, on a trial de novo, that contracts similar to the one involved in this suit and executed under like circumstances were Oklahoma and not Arkansas and New' York contracts, and declared that such contracts were not usurious under the usury laws of Oklahoma, where the material parts of the transactions occurred.\nAppellant arg\u2019ues that in the Newton case the facts were materially different from the facts in the instant case, and points out that in that case the application for the loans was forwarded to the Oklahoma office and approved by it, and that the papers were all prepared in and the money finally paid from the main office of the corporation in Oklahoma City: whereas all these things were done by Mr. Weatherton, its Arkansas State agent, in the State of Arkansas, in the instant case.\nWe do not so understand the testimony. Appellant testified that the papers were prepared and presented to him and that he executed them in the State of Arkansas. R. S. Banderson, the secretary-treasurer and general manager of the Oklahoma corporation, testified that appellant applied to it for the loan and constituted it his agent to procure the loan for him; that the papers were prepared, and, after being executed by him in Arkansas, were sent to his company, and then submitted to appellee, who finally bought same; that his company had no money with which to make the loan, and simply acted as appellant\u2019s broker. Appellant testified that the money was not paid to him on the first day of January, 1921, at the time he signed the receipt, but was paid to him in cash by the local agent nearly a month after he executed the papers. We think the legitimate inference to be drawn from this testimony is that the application was approved in Oklahoma City by the company, and that the papers were either drawn by it at the home office' or by its State agent in Arkansas, and that, after the execution of same, they were returned to it. \u25a0This is clearly indicated by the fact that the note with coupons attached and the mortgage were afterwards duly assigned and transferred to appellee by said corporation. We also think it clearly inferable from the testimony that, after receiving the papers duly assigned to her, she sent the money to the Oklahoma corporation, and that in some way it was forwarded by the Oklahoma corporation to its local agent at Stuttgart, who paid it in cash to appellant. As stated above, the testimony, ' together with the legitimate inferences to be drawn therefrom, does not present a record materially different from the records in the case mentioned. This case is therefore ruled by the case referred to.\nNo error appearing, the decree is affirmed.",
+        "type": "majority",
+        "author": "Humphreys, J."
+      }
+    ],
+    "attorneys": [
+      "George C. Lewis, for appellant.",
+      "John L. Ingram, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Buerkle v. Greenlee.\nOpinion delivered June 3, 1929.\nGeorge C. Lewis, for appellant.\nJohn L. Ingram, for appellee."
+  },
+  "file_name": "0674-01",
+  "first_page_order": 692,
+  "last_page_order": 696
+}

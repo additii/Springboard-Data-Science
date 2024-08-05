@@ -1,0 +1,530 @@
+{
+  "id": 4241767,
+  "name": "The State of Washington, Respondent, v. K.L.B., Petitioner",
+  "name_abbreviation": "State v. K.L.B.",
+  "decision_date": "2014-06-26",
+  "docket_number": "No. 88270-3",
+  "first_page": "735",
+  "last_page": "753",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "180 Wash. 2d 735"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Wash.",
+    "id": 9029,
+    "name": "Washington Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 38,
+    "name_long": "Washington",
+    "name": "Wash."
+  },
+  "cites_to": [
+    {
+      "cite": "23 P.3d 455",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2001,
+      "opinion_index": 0
+    },
+    {
+      "cite": "143 Wn.2d 546",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        425279
+      ],
+      "year": 2001,
+      "pin_cites": [
+        {
+          "page": "555"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/143/0546-01"
+      ]
+    },
+    {
+      "cite": "278 P.3d 157",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "weight": 2,
+      "year": 2012,
+      "pin_cites": [
+        {
+          "parenthetical": "citing Svendsen v. Stock, 143 Wn.2d 546, 555, 23 P.3d 455 (2001)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "174 Wn.2d 586",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4021871
+      ],
+      "weight": 2,
+      "year": 2012,
+      "pin_cites": [
+        {
+          "page": "601",
+          "parenthetical": "citing Svendsen v. Stock, 143 Wn.2d 546, 555, 23 P.3d 455 (2001)"
+        },
+        {
+          "page": "617"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/174/0586-01"
+      ]
+    },
+    {
+      "cite": "106 P.3d 196",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2005,
+      "opinion_index": 0
+    },
+    {
+      "cite": "153 Wn.2d 614",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        875641
+      ],
+      "year": 2005,
+      "pin_cites": [
+        {
+          "page": "623"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/153/0614-01"
+      ]
+    },
+    {
+      "cite": "667 P.2d 1092",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1983,
+      "opinion_index": 0
+    },
+    {
+      "cite": "100 Wn.2d 109",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1142046
+      ],
+      "year": 1983,
+      "pin_cites": [
+        {
+          "page": "116"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/100/0109-01"
+      ]
+    },
+    {
+      "cite": "3 P.3d 741",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2000,
+      "opinion_index": 0
+    },
+    {
+      "cite": "141 Wn.2d 139",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1183457
+      ],
+      "year": 2000,
+      "pin_cites": [
+        {
+          "page": "151"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/141/0139-01"
+      ]
+    },
+    {
+      "cite": "318 P.3d 280",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2014,
+      "opinion_index": 0
+    },
+    {
+      "cite": "179 Wn.2d 1017",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "year": 2014,
+      "opinion_index": 0
+    },
+    {
+      "cite": "311 P.3d 41",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2013,
+      "opinion_index": 0
+    },
+    {
+      "cite": "177 Wn. App. 67",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        4318017
+      ],
+      "year": 2013,
+      "pin_cites": [
+        {
+          "page": "75"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/177/0067-01"
+      ]
+    },
+    {
+      "cite": "950 P.2d 38",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1998,
+      "pin_cites": [
+        {
+          "parenthetical": "judges"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "89 Wn. App. 794",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        394895
+      ],
+      "year": 1998,
+      "pin_cites": [
+        {
+          "page": "808-09",
+          "parenthetical": "judges"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/89/0794-01"
+      ]
+    },
+    {
+      "cite": "927 P.2d 227",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1996,
+      "pin_cites": [
+        {
+          "parenthetical": "police"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "130 Wn.2d 711",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        72853
+      ],
+      "year": 1996,
+      "pin_cites": [
+        {
+          "page": "719",
+          "parenthetical": "police"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/130/0711-01"
+      ]
+    },
+    {
+      "cite": "292 P.3d 92",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2013,
+      "opinion_index": 0
+    },
+    {
+      "cite": "176 Wn.2d 333",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4306731
+      ],
+      "year": 2013,
+      "pin_cites": [
+        {
+          "page": "336"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/176/0333-01"
+      ]
+    },
+    {
+      "cite": "177 Wn.2d 1004",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "year": 2013,
+      "opinion_index": 0
+    },
+    {
+      "cite": "2012 WL 3065326",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "weight": 2,
+      "year": 2013,
+      "pin_cites": [
+        {
+          "page": "*7"
+        },
+        {
+          "page": "*3"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "169 Wn. App. 1034",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        4027889,
+        4029562,
+        4030878,
+        4028590
+      ],
+      "year": 2013,
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/169/1034-01",
+        "/wash-app/169/1034-04",
+        "/wash-app/169/1034-03",
+        "/wash-app/169/1034-02"
+      ]
+    },
+    {
+      "cite": "9 A. 04",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "opinion_index": 2
+    },
+    {
+      "cite": "976 P.2d 1229",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1999,
+      "opinion_index": 2
+    },
+    {
+      "cite": "137 Wn.2d 712",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        179341
+      ],
+      "year": 1999,
+      "pin_cites": [
+        {
+          "page": "729"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/wash-2d/137/0712-01"
+      ]
+    },
+    {
+      "cite": "278 P.3d 157",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "weight": 2,
+      "year": 2012,
+      "opinion_index": 2
+    },
+    {
+      "cite": "174 Wn.2d 586",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4021871
+      ],
+      "year": 2012,
+      "pin_cites": [
+        {
+          "page": "617"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/wash-2d/174/0586-01"
+      ]
+    },
+    {
+      "cite": "106 P.3d 196",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2005,
+      "pin_cites": [
+        {
+          "parenthetical": "quoting State v. Jackson, 137 Wn.2d 712, 729, 976 P.2d 1229 (1999)"
+        }
+      ],
+      "opinion_index": 2
+    },
+    {
+      "cite": "153 Wn.2d 614",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        875641
+      ],
+      "year": 2005,
+      "pin_cites": [
+        {
+          "page": "623",
+          "parenthetical": "quoting State v. Jackson, 137 Wn.2d 712, 729, 976 P.2d 1229 (1999)"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/wash-2d/153/0614-01"
+      ]
+    },
+    {
+      "cite": "667 P.2d 1092",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1983,
+      "opinion_index": 2
+    },
+    {
+      "cite": "100 Wn.2d 109",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1142046
+      ],
+      "year": 1983,
+      "pin_cites": [
+        {
+          "page": "116"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/wash-2d/100/0109-01"
+      ]
+    },
+    {
+      "cite": "292 P.3d 92",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2013,
+      "pin_cites": [
+        {
+          "parenthetical": "\"related statutory provisions must be harmonized to effectuate a consistent statutory scheme that maintains the integrity of the respective statutes\""
+        }
+      ],
+      "opinion_index": 2
+    },
+    {
+      "cite": "176 Wn.2d 333",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4306731
+      ],
+      "year": 2013,
+      "pin_cites": [
+        {
+          "page": "336",
+          "parenthetical": "\"related statutory provisions must be harmonized to effectuate a consistent statutory scheme that maintains the integrity of the respective statutes\""
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/wash-2d/176/0333-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1170,
+    "char_count": 34531,
+    "ocr_confidence": 0.746,
+    "pagerank": {
+      "raw": 9.160487865286217e-08,
+      "percentile": 0.5084510718578573
+    },
+    "sha256": "81d7372325c39f206cf52d8bb7779aac129c03b22162430800ccd5ad52656f14",
+    "simhash": "1:745c8e6d882e34e8",
+    "word_count": 5452
+  },
+  "last_updated": "2024-02-27T18:26:29.759680+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Owens, Fairhurst, Gonz\u00e1lez, and Gordon McCloud, JJ., concur.",
+      "Stephens, J., concurs with Madsen, C.J.",
+      "Stephens and Wiggins, JJ., concur with J.M. Johnson, J. Pro Tem."
+    ],
+    "parties": [
+      "The State of Washington, Respondent, v. K.L.B., Petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "C. Johnson, J.\n\u00b61 The main issue in this case is whether a Sound Transit fare enforcement officer (FEO) is a \u201cpublic servant\u201d as defined in RCW 9A.04.110(23). Fifteen-year-old K.L.B. was charged with making a false or misleading statement to FEO Brett Willet under RCW 9A.76.175, which provides that it is a misdemeanor to knowingly make \u201ca false or misleading material statement to a public servant.\u201d The Court of Appeals affirmed the trial court\u2019s conclusion that under the statute, FEO Willet was a public servant at the time K.L.B. made the false statement. We hold that under these circumstances, because FEOs are not government employees, are not officers of government, and do not perform a governmental function, they are not \u201cpublic servants\u201d as defined by the statute. Therefore, we reverse the Court of Appeals.\nFacts and Procedural History\n\u00b62 Brett Willet and Ben Hill were working as Sound Transit FEOs on Seattle\u2019s Link light-rail train system (the Link). The position of an FEO is a limited-commission office authorized to issue citations for civil infractions on both light-rail and heavy-rail trains. Sound Transit contracts with Securitas Security Services to provide security and fare enforcement services for the Link. The FEOs wear a uniform with patches reading \u201cSound Transit,\u201d \u201csecurity,\u201d and \u201cfare enforcement.\u201d Verbatim Report of Proceedings (VRP) at 27-28. They also wear a tool belt, which includes a radio, handcuffs, and a key ring but does not include a weapon.\n\u00b63 On August 6, 2010, the two FEOs entered a train car at the Rainier Beach station and instructed all passengers to present proof of fare. When FEO Willet asked K.L.B. and his companions to present proof of fare payment, they gave him their bus transfers. FEO Willet informed them that while bus transfers used to be valid on the light-rail, they were no longer accepted. K.L.B. and his companions said that they were unaware of the change and unfamiliar with the current system. The three young males were instructed by FEO Willet to exit the train at the next station. The FEOs asked the three males for identification once they exited the train. All three were either unable or unwilling to provide identification. K.L.B. identified himself to FEO Willet as Kinds M. Marty. One of KL.B.\u2019s companions identified himself as James J. King, while the other identified himself as Jamal J. Johnson.\n\u00b64 K.L.B. was temporarily detained at the Othello station. The King County Sheriff\u2019s Office was called to assist in identifying K.L.B. and his companions so they could potentially be cited for fare evasion. Deputy Lee Adams spoke with K.L.B., and two other deputies spoke with his companions. K.L.B. gave his correct name and birth date to Deputy Adams after the deputy warned him that it was a crime to lie to a police officer. Deputy Adams then asked K.L.B. to identify one of his male companions. He responded that he did not know his companion\u2019s full name and that he knew him only as \u201c \u2018Marty.\u2019 \u201d Clerk\u2019s Papers at 43. FEO Willet informed all three individuals that they might receive citations for fare evasion in the mail. Deputy Adams returned to the station and used a computer database to identify the third companion whom K.L.B. identified as \u201cMarty.\u201d Deputy Adams was able to positively identify him within an hour. There was an assault warrant out for this individual\u2019s arrest.\n\u00b65 K.L.B. was then charged with two counts of making a false or misleading statement to a public servant under RCW 9A.76.175. K.L.B. was found guilty of making a false statement to FEO Willet (count II). He was found not guilty of making a false statement to Deputy Adams (count I). K.L.B. was obligated to pay a crime victim assessment penalty of $75 but received no further punishment.\n\u00b66 K.L.B. appealed to Division One of the Court of Appeals, which affirmed his conviction. State v. K.L.B., noted at 169 Wn. App. 1034, 2012 WL 3065326, at *7, 2012 Wash. App. LEXIS 1796, at *21, review granted, 177 Wn.2d 1004 (2013). Here, K.L.B. argues that a Sound Transit FEO is not a \u201cpublic servant\u201d as defined in RCW 9A.04.110(23). He also argues that the definition of \u201cpublic servant\u201d is unconstitutionally vague and that to convict a person of making a false or misleading statement to a public servant, the State must prove that the defendant knew the statement was made to a public servant.\nAnalysis\n\u00b67 K.L.B. was charged with making a false or misleading statement to FEO Willet under RCW 9A.76.175, which provides in relevant part that \u201c[a] person who knowingly makes a false or misleading material statement to a public servant is guilty of a gross misdemeanor.\u201d Under RCW 9A.04.110(23), the term \u201cpublic servant\u201d is defined as\nany person other than a witness who presently occupies the position of or has been elected, appointed, or designated to become any officer or employee of government, including a legislator, judge, judicial officer, juror, and any person participating as an advisor, consultant, or otherwise in performing a governmental function.\n\u00b68 This case involves statutory interpretation, which is an issue of law reviewed de novo. The first step in statutory interpretation is to consider the statute\u2019s plain language. If the statute is unambiguous, meaning it is subject to only one reasonable interpretation, our inquiry ends. State v. Velasquez, 176 Wn.2d 333, 336, 292 P.3d 92 (2013).\n\u00b69 Looking at the statutory language, the \u201clist\u201d is specific and express. Police officers and judges are public servants under RCW 9A.04.110(23), which has been recognized in cases. State v. Graham, 130 Wn.2d 711, 719, 927 P.2d 227 (1996) (police); State v. Stephenson, 89 Wn. App. 794, 808-09, 950 P.2d 38 (1998) (judges). The definition also applies to those who hold government office or employment or who have been selected to do so, but it does not include a candidate for election as a \u201cpublic servant.\u201d State v. Hendrickson, 177 Wn. App. 67, 75, 311 P.3d 41 (2013), review denied, 179 Wn.2d 1017, 318 P.3d 280 (2014). The definition of \u201cpublic servant\u201d also includes \u201clegislator [s], judge [s], judicial officer [s], [and] juror [s]\u201d who are public employees for purposes of wages, benefits, or liability. RCW 9A.04.110(23). The main dispute here is whether FEO Willet was \u201cotherwise . . . performing a governmental function\u201d or was an \u201cofficer\u201d under the statutory definition. RCW 9A.04.110(23).\na. FEO Willet was not \u201cotherwise . . . performing a governmental function\u201d under RCW 9A.04.110(23)\n\u00b610 K.L.B. claims that both the trial court and the Court of Appeals improperly found that FEO Willet was a public servant because this broad interpretation improperly renders superfluous the phrase \u201cadvisor, consultant, or otherwise\u201d as it appears in RCW 9A.04.110(23). According to KL.B.\u2019s interpretation, the term \u201cotherwise\u201d encompasses only positions that are similar in nature to advisors or consultants. We agree.\n\u00b611 Under settled principles of statutory construction, general words accompanied by specific words are to be construed to embrace only similar objects. Simpson Inv. Co. v. Dep\u2019t of Revenue, 141 Wn.2d 139, 151, 3 P.3d 741 (2000). This canon properly applies where there is a list of specific terms followed by a general term, i.e., \u201cspecific, specific, or general.\u201d See Sw. Wash. Chapter, Nat\u2019l Elec. Contractors Ass\u2019n v. Pierce County, 100 Wn.2d 109, 116, 667 P.2d 1092 (1983). Here, we are interpreting the phrase \u201cadvisor, consultant, or otherwise in performing a governmental function,\u201d in other words, \u201cspecific, specific, general.\u201d Therefore, under this canon of interpretation, a person qualifies as a public servant where they are acting as an advisor, a consultant, or something similar in performing a governmental function. FEO Willet was not acting as an advisor, a consultant, or something similar when K.L.B. made a false statement to him.\n\u00b612 Under another well-known canon of statutory construction, \u201ca single word in a statute should not be read in isolation.\u201d State v. Roggenkamp, 153 Wn.2d 614, 623, 106 P.3d 196 (2005). Applying this framework, \u201cotherwise\u201d must be read in conjunction with the other nouns \u2014 \u201cadvisor\u201d and \u201cconsultant.\u201d Because \u201cadvisor\u201d and \u201cconsultant\u201d modify \u201cin performing a governmental function,\u201d we can glean the legislature\u2019s intent that not every person performing a governmental function is to be considered a public servant under the statute. Only those who are participating as an advisor, consultant, or something similar in performing a governmental function are public servants.\n\u00b613 The State argued that FEO Willet was clearly performing a government function \u2014 fare enforcement \u2014 and that there is no meaningful argument that the legislature intended to define \u201cpublic servants\u201d narrowly. However, as K.L.B. points out, \u201ca court must not interpret a statute in any way that renders any portion meaningless or superfluous.\u201d Jongeward v. BNSF Ry., 174 Wn.2d 586, 601, 278 P.3d 157 (2012) (citing Svendsen v. Stock, 143 Wn.2d 546, 555, 23 P.3d 455 (2001)). The State\u2019s broad interpretation would render superfluous the phrase \u201cadvisor, consultant, or otherwise.\u201d If the legislature intended that everyone performing a governmental function be considered a public servant, the terms \u201cadvisor\u201d and \u201cconsultant\u201d would have no separate meaning.\n\u00b614 Under the State\u2019s logic, any private security officer or individual performing a police-like governmental function would be a public servant. For example, a private security guard checking bags before patrons enter a sports stadium would be a public servant. If a patron made a false statement to such a security guard, then they could have criminal charges filed against them. Going even further, a vigilante \u2014 a person who is not a police officer but who tries to catch and punish criminals \u2014 would be a \u201cpublic servant,\u201d and it would be a crime to make a false or misleading statement to such an individual. The State\u2019s argument that a \u201cpublic servant\u201d includes anyone \u201cperforming a governmental function\u201d would ignore modifying language in the statute. In addition, interpreting the statute this broadly would raise questions as to the statute\u2019s vagueness and overbreadth.\nb. FEO Willet was not an \u201cofficer\u201d under RCW 9A.04.110(23)\n\u00b615 The State separately argues that FEO Willet meets the definition of \u201cpublic servant\u201d as someone who occupies the position of an officer of government. Under RCW 9A.04.110(23), a \u201cpublic servant\u201d includes \u201cany person . . . who presently occupies the position of or has been elected, appointed, or designated to become any officer . . . of government.\u201d In turn, \u201cofficer\u201d is defined as\na person holding office under a city, county or state government, or the federal government who performs a public function and in so doing is vested with the exercise of some sovereign power of government, and includes all assistants, deputies, clerks, and employees of any public officer and all persons lawfully exercising or assuming to exercise any of the powers or functions of a public officer.\nRCW 9A.04.110(13) (emphasis added). The Court of Appeals agreed with the State and held that \u201c[t]he evidence supports that Willet was \u2018lawfully exercising or assuming to exercise any of the powers or functions of a public officer\u2019 when he was working as an FEO on August 6, 2010.\u201d K.L.B., 2012 WL 3065326, at *3, 2012 Wash. App. LEXIS 1796, at *9.\n\u00b616 It is true that Sound Transit contracted with Securitas to provide fare enforcement services in accordance with Sound Transit\u2019s statutory authority. It is also true that under RCW 81.112.210(2)(b), FEOs have the authority to (i) request proof of payment from passengers, (ii) request personal identification from a passenger who does not produce proof of payment when requested, (iii) issue a citation under RCW 7.80.070, and (iv) request that a passenger leave the facility when the passenger has not produced proof of payment. However, these statutory privileges do not transform Sound Transit FEOs (who in reality are Securitas employees) into public officers.\n\u00b617 Under the plain language of the statute, an \u201cofficer\u201d is a person holding office who performs a public function and who is vested with some sovereign power of government. As a private security officer, an FEO is not a public officer under this language of the statute, as they are not elected, appointed, or designated to hold office. Therefore, an FEO can possibly be an \u201cofficer\u201d only under the second part of the statute, which provides that an \u201cofficer\u201d can include someone \u201clawfully exercising or assuming to exercise any of the powers or functions of a public officer.\u201d RCW 9A.04.110(13) (emphasis added). While the State and the Court of Appeals have pointed out statutory powers granted to Sound Transit and to FEOs generally, neither has directed us to the person holding public office whose power the FEOs are lawfully exercising. As mentioned, FEOs do not exercise all powers police officers have. In essence, they can check riders to verify valid tickets exist and eject passengers who have not paid. Anything more and the FEO summons the police. Therefore, a Sound Transit FEO cannot be \u201cexercising or assuming to exercise any of the powers or functions\u201d of someone who does not exist.\n\u00b618 The State also argues that if FEO Willet and his colleagues were not public servants, passengers could lie to them without legal repercussions, which would make it nearly impossible to enforce the fare policy and issue infractions. FEOs monitor compliance with fare collection. If someone has not paid their fare, they can be removed from the train and under certain circumstances given a citation. Alternatively, no reason exists why police officers cannot be summoned when needed, as occurred in this case. Police officers certainly qualify as public servants under the statute. K.L.B. was charged with two counts of knowingly making a false or misleading material statement to a public servant: one count was for his statement to Deputy Adams, but he was found not guilty of that charge. These \u201clegal repercussions\u201d are sufficient to deter Sound Transit riders from evading their fares.\nConclusion\n\u00b619 Because we hold that FEOs are not \u201cpublic servants\u201d as defined by RCW 9A.04.110, we need not reach the other issues raised by K.L.B. The Court of Appeals is reversed, and KL.B.\u2019s charges are vacated.\nOwens, Fairhurst, Gonz\u00e1lez, and Gordon McCloud, JJ., concur.\nK.L.B. originally identified himself as Kinds M. Marty and later identified his companion by only the first name of Marty.\nIn Graham, two off-duty police officers were working as private security guards when they searched and arrested the defendant. We held that when the officers stopped the defendant, they stepped out of their roles as private security guards and into their roles as police officers. They were identified as police officers, and their status as police officers was known to the defendant. Therefore, we held that they were public servants.\nEjusdem generis.\nThe dissent argues that it if we apply ejusdem generis, we must apply it consistently to the larger list \u2014 i.e., the entire statute. The dissent then argues that such a reading would be nonsensical because \u201cthe phrase \u2018any person participating as an advisor, consultant, or otherwise in performing a governmental function\u2019 would be read to modify the list that includes legislators, judges, judicial officers, and jurors.\u201d Dissent at 748. However, the dissent misunderstands how this canon applies. Under ejusdem generis, general words accompanied by specific words are to be construed to embrace only similar objects; this cannon applies when a list of specific terms is followed by a general term. Here, the dissent has it backward; \u201cany person participating as an advisor, consultant, or otherwise in performing a governmental function\u201d would not modify the other lists but rather the more specific lists would modify who was an \u201cadvisor, consultant, or otherwise.\u201d Applying the canon correctly, \u201cany person participating as an advisor, consultant, or otherwise\u201d must be similar to a governmental employee, legislature, judge, judicial officer, or juror. As explained above, FEOs are not governmental employees and are not similar to an elected official, judicial officer, or juror.\nThe dissent also cites Jongeward v. BNSF Railway, 174 Wn.2d 586, 617, 278 P.3d 157 (2012), to argue that ejusdem generis does not apply when interpreting a phrase containing the word \u201cotherwise.\u201d However, this support is misplaced, as the clause at issue in Jongeward differs from the statutory clause in this case. In Jongeward, the dissent argued that the \u201ccanon properly applies where there is a list of specific terms followed by a general term, i.e., \u2018specific, specific, or general.\u2019 \u201d Jongeward, 174 Wn.2d at 614 (Wiggins, J., dissenting) (citing Sw. Wash. Chapter, Natl Elec. Contractors Ass\u2019n, 100 Wn.2d at 116). In Jongeward, we were interpreting the phrase \u201ccut down, girdle or otherwise injure, or carry off,\u201d in other words, \u201cspecific, specific or general, specific.\u201d Jongeward, 174 Wn.2d at 615 (Wiggins, J., dissenting). Therefore, the phrase \u201cotherwise injure\u201d was not to be construed to embrace only similar objects. In contrast, in this case we are interpreting the phrase \u201cadvisor, consultant, or otherwise in performing a governmental function,\u201d in other words, \u201cspecific, specific, or general.\u201d Therefore, the canon does apply and under the statute, a person qualifies as a public servant only if they were acting as an advisor, a consultant, or something similar in performing a governmental function.\nNoscitur a sociis.\nIn fact, while Deputy Adams works for the Eing Comity Sheriff\u2019s Office, he is specifically assigned to matters arising from the Link and the heavy-rail train. VRP at 87.",
+        "type": "majority",
+        "author": "C. Johnson, J."
+      },
+      {
+        "text": "Madsen, C.J.\n\u00b620 (concurring in dissent) \u2014 In a time of fiscal austerity, it is surprising that King County elected to use its resources to prosecute a young man for his apparent lack of candor with uniformed officers after being informed that Sound Transit no longer accepted bus transfers as legitimate fare. The use of considerable public resources to prosecute such a minor infraction, especially one that can easily be understood as a crime of poverty, is remarkable. It is more surprising, however, that the majority can find the Sound Transit fare enforcement officer was performing a government function, fare enforcement, but that this officer was not a \u201cpublic servant.\u201d The analysis presented by the majority would define the engineering consultant hired to design the light-rail as a \u201cpublic servant\u201d while excluding fare enforcement officer Brett Willet, interacting with the public and issuing citations on the light-rail, from the same titular description. I cannot subscribe to the majority\u2019s application of the rules of statutory construction because it leads to an untenable result. Therefore, I join and concur in the dissent.\nStephens, J., concurs with Madsen, C.J.",
+        "type": "concurring-in-part-and-dissenting-in-part",
+        "author": "Madsen, C.J."
+      },
+      {
+        "text": "J.M. Johnson, J.\n\u00b621 (dissenting) \u2014 The majority misapplies the canons of statutory construction in concluding that fare enforcement officers (FEOs) are not \u201cpublic servants\u201d as defined by RCW 9A.04.110(23) and dismisses the defendant\u2019s conviction for making a false or misleading statement to a public servant. Because FEOs fulfill a governmental function and are \u201cofficers\u201d within the meaning of the relevant statute, I dissent.\nAnalysis\nA Sound Transit Fare Enforcement Officer Whose Employment Is Contracted through a Private Security Firm Is a \u201cPublic Servant\u201d under RCW 9A.04.110(23)\n\u00b622 I agree that the first step in statutory interpretation is to consider the statute\u2019s plain language; often this is the only analysis needed. The majority accurately states the rules of statutory construction where application of the canons of construction is necessary. Majority at 739. I disagree with the manner in which the majority applies these rules to construe the statute.\n\u00b623 K.L.B. was convicted of making a false or misleading statement to a public servant, FEO Willet, under RCW 9A.76.175. Under RCW 9A.04.110(23), the term \u201cpublic servant\u201d\nmeans any person other than a witness who presently occupies the position of or has been elected, appointed, or designated to become any officer or employee of government, including a legislator, judge, judicial officer, juror, and any person participating as an advisor, consultant, or otherwise in performing a governmental function.\n(Emphasis added.) FEO Willet was both an \u201cofficer of government\u201d and \u201cperforming a governmental function.\u201d Accordingly, FEO Willet was a public servant and making a false or misleading statement to FEO Willet violated RCW 9A.76.175.\na. FEO Willet Was \u201cPerforming a Governmental Function\u201d under RCW 9A.04.110(23)\n\u00b624 The majority argues that a broad construction of \u201cperforming a governmental function\u201d improperly renders superfluous the phrase \u201cadvisor, consultant, or otherwise\u201d as it appears in RCW 9A.04.110(23). Majority at 740. According to the majority, the term \u201cotherwise\u201d encompasses only positions that are similar in nature to advisors or consultants. Id.\n\u00b625 Two principles historically expressed in Latin guide our analysis: noscitur a sociis and ejusdem generis. Under noscitur a sociis, \u201ca single word in a statute should not be read in isolation . . . . \u2018[T]he meaning of words may be indicated or controlled by those with which they are associated.\u2019 \u201d State v. Roggenkamp, 153 Wn.2d 614, 623, 106 P.3d 196 (2005) (quoting State v. Jackson, 137 Wn.2d 712, 729, 976 P.2d 1229 (1999)). Under ejusdem generis, general words accompanied by specific words are to be construed to embrace only similar objects. Sw. Wash. Chapter, Nat'l Elec. Contractors Ass\u2019n v. Pierce County, 100 Wn.2d 109, 116, 667 P.2d 1092 (1983). However, these rules do not, as the majority contends, lead to a narrow interpretation of \u201cpublic servant\u201d that excludes FEOs.\n\u00b626 The first phrase in the statute is intended to include anyone occupying the position of an officer or employee of government (regardless of how that person came to occupy the position, be it through election, appointment, or designation). Next, the statute provides a list of persons expressly intended to be included in the definition (legislators, judges, judicial officers, and jurors). The last item in the statutory definition\u2019s list is still another list (that is, \u201cany person participating as an advisor, consultant, or otherwise in performing a governmental function\u201d). The majority ignores that this is a list within a list in arguing against a broad interpretation. If ejusdem generis was applied consistently to the first, larger list, then the phrase \u201cany person participating as an advisor, consultant, or otherwise in performing a governmental function\u201d would be read to modify the list that includes legislators, judges, judicial officers, and jurors. However, such a reading is nonsensical. Consultants and advisors are not anything like legislators, judges, judicial officers, and jurors. Clearly, the legislature did not adopt this statute with the intent that ejusdem generis apply.\n\u00b627 This court has rejected similar improper ejusdem generis arguments before, as Justice Wiggins noted in his dissent in Jongeward v. BNSF Railway, 174 Wn.2d 586, 617, 278 P.3d 157 (2012):\nIt does not make sense to apply the rule where a general phrase is modified by \u201cotherwise.\u201d The word \u201cotherwise\u201d means \u201cdifferent\u201d or \u201cin a different way or manner.\u201d Webster\u2019s Third New International Dictionary 1598 (2002). This alone manifests a legislative intent not to limit the general phrase to things comparable to the specific phrases, and other courts have refused to apply ejusdem generis to \u201cotherwise\u201d phrases for this very reason.\nEjusdem generis is unhelpful in interpreting a phrase containing the word \u201cotherwise\u201d due to its plain language definition. Therefore, \u201cotherwise . . . performing a governmental function\u201d is not necessarily limited to categories of workers similar to advisors and consultants. RCW 9 A. 04-.110(23). In fact, the plain meaning of the word \u201cotherwise\u201d indicates that the term is intended to apply to those who are \u201cdifferent\u201d from advisors and consultants. Jongeward, 174 Wn.2d at 595.\n\u00b628 Even if the legislature did intend ejusdem generis to apply, the majority does not apply it correctly in this instance. The list is not the usual \u201cspecific, specific, general\u201d type of list, as the majority asserts. Rather, the list provides a large number of specific examples with a very broad catchall provision at the end. That is, the statute applies regardless of whether the person is a legislator, a judge, a juror, an advisor, a consultant, or anyone else who acts on behalf of the government.\n\u00b629 It is more consistent with other recognized canons of construction to consider an FEO as \u201cotherwise ... performing a governmental function,\u201d whether employed directly by the government or contracted through a private security firm. Knowing this term by the company it keeps indicates that \u201cotherwise . . . performing a governmental function\u201d should be interpreted consistently with the other examples in the statute. These specific examples include all employees of government, legislators, and jurors. RCW 9A.04-.110(23). Like these other categories of people, FEOs are ultimately compensated by the government, albeit indirectly through their private security firms. Moreover, FEOs are expressly charged by statute with providing a governmental function.\n\u00b630 The majority uses the examples of private security guards at sporting events and vigilantes as evidence that the legislature could not have intended the statute to apply so broadly. Both of these examples miss the mark because \u201csecurity\u201d is not always a governmental function. But, sporting event security guards and vigilantes perform decidedly nongovernmental functions of deterring or stopping crime without statutory authority.\n\u00b631 FEOs are different from both of these examples because FEOs are expressly empowered by statute to fulfill the governmental function of writing citations to enforce governmental policies and rules. No such statute authorizes Phoenix Jones or any other private citizen to perform any governmental function such as arresting, charging, or prosecuting criminals. Such private actors may call law enforcement officers and observe the situation until the officers arrive. The legislature has empowered neither Phoenix Jones nor private security guards with the same statutory authority it has FEOs.\n\u00b632 The plain language of the statute, informed by the canons of construction cited above, indicates that FEO Willet was, in fact, performing a governmental function. Moreover, it is improbable that the legislature would criminalize making a false statement to all government employees, such as elementary school teachers, but not FEOs expressly charged by statute with issuing civil infractions for fare evasion. Because FEO Willet was performing a governmental function under RCW 9A.04.110(23), I would hold that he was a \u201cpublic servant\u201d for the purposes of making a false or misleading statement to a public servant.\nb. FEO Willet Was an \u201cOfficer\u201d under RCW 9A.04.110(23)\n133 In addition to performing a governmental function, FEO Willet falls within the definition of \u201cofficer\u201d under RCW 9A.04.110(23). The Washington Criminal Code defines \u201cofficer\u201d as\na person holding office under a city, county, or state government, or the federal government who performs a public function and in so doing is vested with the exercise of some sovereign power of government, and includes all assistants, deputies, clerks, and employees of any public officer and all persons lawfully exercising or assuming to exercise any of the powers or functions of a public officer.\nRCW 9A.04.110(13). Under the plain language of RCW 9A.04.110(13), FEO Willet was \u201clawfully exercising or assuming to exercise . . . powers or functions of a public officer.\u201d As noted, transit agencies \u201cmay designate persons to monitor fare payment who are equivalent to and are authorized to exercise all the powers of an enforcement officer, defined in RCW 7.80.040. [A transit] authority is authorized to employ personnel to either monitor fare payment, or to contract for such services, or both.\u201d RCW 81.112.210(2)(a). An \u201cenforcement officer\u201d is defined as \u201ca person authorized to enforce the provisions of the title or ordinance in which the civil infraction is established.\u201d RCW 7.80.040. Through these provisions, Sound Transit is statutorily authorized to employ directly or contract for the services of officers who are charged with enforcing the provisions involving civil infractions.\n\u00b634 FEOs also fall under chapter 10.93 RCW, the Washington Mutual Aid Peace Officers Powers Act of 1985. RCW 10.93.020(4) defines \u201climited authority Washington peace officer\u201d as \u201cany full-time, fully compensated officer of a limited authority Washington law enforcement agency empowered by that agency to detect or apprehend violators of the laws in some or all of the limited subject areas for which that agency is responsible.\u201d See RCW 10.93.080 (such officers shall have no additional powers by virtue of chapter 10.93 RCW).\n\u00b635 I conclude that FEOs fall under several plain language statutory definitions of \u201cofficer\u201d relating to their fare enforcement duties. Interpreting these provisions consistently with RCW 9A.04.110(23) and RCW 9A.04.110(13) vindicates the legislature\u2019s intent to define FEOs as public servants, whether employed directly by the government or through private security firms. See State v. Velasquez, 176 Wn.2d 333, 336, 292 P.3d 92 (2013) (\u201crelated statutory provisions must be harmonized to effectuate a consistent statutory scheme that maintains the integrity of the respective statutes\u201d). FEO Willet satisfies the definition of \u201cofficer\u201d found in RCW 9A.04.110(13) and is, therefore, a public servant.\n\u00b636 Finally, it makes little sense for the legislature to create the fare enforcement system but fail to give its officers any workable enforcement mechanism. Because the majority holds that FEOs are not public servants, passengers can lie to them without legal repercussions, making it impossible to enforce the fare policy and issue infractions. Without a passenger\u2019s name and address, it is impossible to issue an infraction for fare evasion.\n\u00b637 Because the majority holds that FEOs are not public servants, they are not subject to the terms of various anticorruption statutes, including bribery (RCW 9A.68-.010), requesting unlawful compensation (RCW 9A.68.020), or official misconduct (RCW 9A.80.010). The legislature could not have intended such results when it authorized Sound Transit to designate FEOs.\n\u00b638 For these reasons, Sound Transit FEOs whose employment is contracted through private security firms are \u201cpublic servants\u201d under RCW 9A.04.110(23). The majority ignores the legislature\u2019s plain intent to criminalize making a false or misleading statement to FEOs under RCW 9A.76.175.\nConclusion\n\u00b639 We should hold that Sound Transit FEOs, including those whose employment is contracted through private security firms, are \u201cpublic servants\u201d under RCW 9A.04-.110(23). The nature of FEO Willet\u2019s employment on August 6, 2010, satisfies the definition in two ways: (1) he was performing a governmental function and (2) he was an officer of government. Accordingly, the Court of Appeals should be affirmed and the conviction enforced.\n\u00b640 Repayment of the substantial public investment in transit depends on enforcement of the rules and fares set for that purpose.\nStephens and Wiggins, JJ., concur with J.M. Johnson, J. Pro Tem.\nJustice James M. Johnson is serving as justice pro tempore of the Supreme Court pursuant to Washington Constitution article IV, section 2(a).\nThere is also an express exclusion of witnesses.\nIn Jongeward, both the majority and the dissent rejected the defendant\u2019s ejusdem generis argument. 174 Wn.2d at 595. The dissent discussed the argument in more depth, whereas the majority dismissed it out of hand.\nSee RCW 2.36.150 (specifying compensation for jurors).\nUnder RCW 81.112.210(1), regional transit agencies like Sound Transit may establish a schedule of fines and penalties for civil infractions under RCW 81.112.220. Failure to provide proof of fare is one such infraction. Transit agencies \u201cmay designate persons to monitor fare payment who are equivalent to and are authorized to exercise all the powers of an enforcement officer, defined in RCW 7.80.040. An authority is authorized to employ personnel to either monitor fare payment, or to contract for such services, or both.\u201d RCW 81.112.210(2)(a). Under these provisions, Sound Transit is statutorily authorized to contract with Securitas to provide fare enforcement services. These FEOs employed by Securitas are statutorily authorized to request proof of payment from passengers, request identification from those who do not have proof of payment, issue citations, and ask passengers to leave the facility. RCW 81.112.210(2)(b).\nPhoenix Jones is a notable Seattle resident who dons a superhero costume and \u201cfights crime\u201d as a vigilante.\nThese restraints actually make Phoenix Jones more closely resemble a witness, which is expressly excluded from the definition of a \u201cpublic servant.\u201d\nThe system is, in part, financed by bonds reliant on fare collection.\nThe majority\u2019s construction renders FEOs completely impotent in the face of a dishonest fare dodger because they can summon police officers \u201cwhen needed.\u201d Majority at 744-45. If this were the case, the entire statute authorizing FEOs is rendered superfluous because only police officers can effectively enforce the payment of fares.\nI take this opportunity to point out that the legislature may reverse the outcome of this case by amending RCW 9A.04.110(23) to expressly include FEOs in the definition of \u201cpublic servants\u201d or adjust the form of the sentence so that the catchall term \u201cotherwise ... performing a governmental function\u201d is at the end of the full list, rather than at the end of the list within a list. See supra p. 747.",
+        "type": "dissent",
+        "author": "J.M. Johnson, J."
+      }
+    ],
+    "attorneys": [
+      "Lila J. Silverstein, for petitioner.",
+      "Daniel T. Satterberg, Prosecuting Attorney, and Bridgette E. Maryman, Deputy, for respondent.",
+      "Sarah A. Dunne, Nancy L. Talner, and La Rond Baker on behalf of American Civil Liberties Union of Washington Foundation, amicus curiae."
+    ],
+    "corrections": "",
+    "head_matter": "[No. 88270-3.\nEn Banc.]\nArgued September 17, 2013.\nDecided June 26, 2014.\nThe State of Washington, Respondent, v. K.L.B., Petitioner.\nLila J. Silverstein, for petitioner.\nDaniel T. Satterberg, Prosecuting Attorney, and Bridgette E. Maryman, Deputy, for respondent.\nSarah A. Dunne, Nancy L. Talner, and La Rond Baker on behalf of American Civil Liberties Union of Washington Foundation, amicus curiae."
+  },
+  "file_name": "0735-01",
+  "first_page_order": 799,
+  "last_page_order": 817
+}

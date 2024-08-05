@@ -1,0 +1,139 @@
+{
+  "id": 1435101,
+  "name": "Missouri Pacific Railroad Company v. Harville",
+  "name_abbreviation": "Missouri Pacific Railroad v. Harville",
+  "decision_date": "1932-02-01",
+  "docket_number": "",
+  "first_page": "47",
+  "last_page": "50",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "185 Ark. 47"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [
+    {
+      "cite": "292 S. W. 986",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "173 Ark. 597",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        8723068
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/173/0597-01"
+      ]
+    },
+    {
+      "cite": "259 S. W. 739",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "162 Ark. 575",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1385585
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/162/0575-01"
+      ]
+    },
+    {
+      "cite": "255 S. W. 707",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "161 Ark. 122",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1388527
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/161/0122-01"
+      ]
+    },
+    {
+      "cite": "254 S. W. 671",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "160 Ark. 362",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        8722580
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/160/0362-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 366,
+    "char_count": 5511,
+    "ocr_confidence": 0.505,
+    "pagerank": {
+      "raw": 1.5991214336020063e-07,
+      "percentile": 0.6835522070977883
+    },
+    "sha256": "7f834f970f557246e96674e47c79d77b25c3594229a39281131987e57cdf93f2",
+    "simhash": "1:eef5c9c07bfc3e43",
+    "word_count": 997
+  },
+  "last_updated": "2024-02-27T17:51:09.396208+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Missouri Pacific Railroad Company v. Harville."
+    ],
+    "opinions": [
+      {
+        "text": "McHaney, J.\nAppellee sued appellant for personal injuries sustained by him while in its employ, and recovered a verdict and judgment for $7,500. The case was brought under the Federal Employers\u2019 Liability Act, and no question is raised as to its applicability.\nThe principal assignment of error relied on for a reversal is that the evidence is insufficient to support the verdict and judgment, and that the court should have directed a verdict in appellant\u2019s favor at its request.\nIn determining this question, we must view the evidence in the light most favorable to appellee, and, if there is any substantial evidence to support the verdict, when viewed in this light, it must be sustained. Briefly so stated, the evidence is to the effect that appellee was working as a section hand in an extra gang1 repairing the main line tracks of appellant some four or five miles north of Knobel, Arkansas. The foreman and crew had quit work for the day, and started back to Knobel where the foreman and a number of the crew desired to catch a train to Little Rock. The foreman was in a hurry. They were traveling on a motor car, sometimes referred to as a speeder, to which was attached a trailer. The motor car was operated by a two cylinder gasoline'engine, without a starter, and had to be pushed along the track a distance until the gas in the engine was ignited, and then the pushers would jump on. At the time appellee was injured, they had some trouble getting the engine started, and the foreman, who was in charge of the engine and operating it, directed appellee and others to get off the car and push, which they did. Appellee was pushing on the left side near the rear of the motor car and in front of the trailer, when the engine \u201ccaught\u201d or fired, it gave an unusual lurch or jump forward, because the foreman had given it too much gas, and appellee\u2019s leg was caught by the running\u2019 board on the side of the trailer which threw his foot under the wheel causing him severe, painful and permanent injuries to his foot and leg. The negligence relied on is the act of the foreman in giving the engine too much gas, causing the car to make an unusual and unexpected jump when the gas ignited, and but for such jump appellee would not have been injured. Appellant had a rule providing that such cars should be pushed and boarded from the rear, but appellee had no knowledge of the rule, and it was habitually violated by all the men and the foreman. There were thirteen men pushing, three from behind and the others on both sides. Appellee had been working for appellant about twenty years, and was familiar with the operation of such cars.\nOn the above facts appellant insists that it was guilty of no negligence, but that, if it were, appellee assumed the risk. It is conceded that, under the Federal Employers\u2019 Liability Act, contributory negligence is not a defense, except to reduce the damages. We think the evidence was sufficient to take the case to the jury on the question of the negligence of appellant through its foreman in giving the engine too much gas, causing it to make a sudden, unexpected and unusual jump forward. By its verdict the jury has found that appellant\u2019s foreman was negligent in the manner stated, and, this finding being supported by substantial evidence, under the settled rule of this court, it must be permitted to stand.\nOn the question of assumed risk, we can not say as a matter of law that appellee assumed the risk. We think it was a question to be submitted to the jury, which the court did under instructions that are not complained of. It is well settled that under the Federal Employers\u2019 Liability Act a servant is not deemed to have assumed the risk of the negligence of the master or that of a fellow-servant unless the consequent danger is so open and obvious that ail ordinarily careful and prudent, person in his situation would have observed the one and appreciated the other. Nor does he assume an extraordinary risk caused by the negligence of the master or of his fellow-servant. St. L.-S. F. R. Co. v. Blevins, 160 Ark. 362, 254 S. W. 671; Mo. Pac. Rd. Co. v. Hall, 161 Ark. 122, 255 S. W. 707; St. L. S. W. Ry. Co. v. Harrell, 162 Ark. 575, 259 S. W. 739; St. L.-S. F. R. Co. v. Miller, 173 Ark. 597, 292 S. W. 986. It was a question for the jury, therefore, as to whether appellee assumed the risk.\nIt is finally insisted that the court erred in refusing to give appellant\u2019s requested instruction No. 9, as follows: \u201cYou are instructed that appellee assumed the risk in pushing from the side and attempting to get on the motor car from the side in violation of a rule promulgated for his safety, and your verdict will be for the defendant.\u201d What we have already said disfioses of this contention adversely to appellant. Appellee and others testified that, if appellant had such a rule requiring them to push and get on the car from the rear, they knew nothing about it, had never heard of it, had not been instructed by the foreman or any one else not to push or board the car from the side, and that, if there were such a rule, it was constantly violated by all the men, including the- foreman. It is well settled that an employee cannot be held to have assumed the risk in violating a rule of which he had no knowledge. We find no error, and the judgment is affirmed.",
+        "type": "majority",
+        "author": "McHaney, J."
+      }
+    ],
+    "attorneys": [
+      "Thos. B. Pryor and PLarvey Q. Combs, for appellant.",
+      "R. W. Robms and Walter A. Isgrig, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Missouri Pacific Railroad Company v. Harville.\nOpinion delivered February 1, 1932.\nThos. B. Pryor and PLarvey Q. Combs, for appellant.\nR. W. Robms and Walter A. Isgrig, for appellee."
+  },
+  "file_name": "0047-01",
+  "first_page_order": 67,
+  "last_page_order": 70
+}

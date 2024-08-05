@@ -1,0 +1,403 @@
+{
+  "id": 8722408,
+  "name": "Starr v. City National Bank",
+  "name_abbreviation": "Starr v. City National Bank",
+  "decision_date": "1923-06-11",
+  "docket_number": "",
+  "first_page": "409",
+  "last_page": "416",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "159 Ark. 409"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [
+    {
+      "cite": "41 Ark. 261",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "73 Ark. 310",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1504072
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/73/0310-01"
+      ]
+    },
+    {
+      "cite": "84 Ark. 189",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1524489
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/84/0189-01"
+      ]
+    },
+    {
+      "cite": "51 Ark. 351",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        8723005
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/51/0351-01"
+      ]
+    },
+    {
+      "cite": "26 Ark. 24",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        8726101
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/26/0024-01"
+      ]
+    },
+    {
+      "cite": "55 Ark. 116",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1322222
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/55/0116-01"
+      ]
+    },
+    {
+      "cite": "65 Ark. 373",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        609408
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/65/0373-01"
+      ]
+    },
+    {
+      "cite": "33 Ark. 762",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        8726248
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/33/0762-01"
+      ]
+    },
+    {
+      "cite": "118 Ark. 146",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1562508
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/118/0146-01"
+      ]
+    },
+    {
+      "cite": "79 Ark. 164",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1495678
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/79/0164-01"
+      ]
+    },
+    {
+      "cite": "96 Ark. 281",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1541956
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/96/0281-01"
+      ]
+    },
+    {
+      "cite": "102 Ark. 309",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1353954
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/102/0309-01"
+      ]
+    },
+    {
+      "cite": "40 Ark. 62",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1897130
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/40/0062-01"
+      ]
+    },
+    {
+      "cite": "30 Ark. 230",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1881153
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/30/0230-01"
+      ]
+    },
+    {
+      "cite": "27 Ark. 77",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1885668
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/27/0077-01"
+      ]
+    },
+    {
+      "cite": "123 Ark. 360",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1556169
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/123/0360-01"
+      ]
+    },
+    {
+      "cite": "42 Ark. 503",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        8724907
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/42/0503-01"
+      ]
+    },
+    {
+      "cite": "102 Ark. 451",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1353990
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/102/0451-01"
+      ]
+    },
+    {
+      "cite": "114 Ark. 128",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1536258
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/114/0128-01"
+      ]
+    },
+    {
+      "cite": "103 Ark. 145",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1351950
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/103/0145-01"
+      ]
+    },
+    {
+      "cite": "56 Ark. 586",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "107 Ark. 535",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1344049
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/107/0535-01"
+      ]
+    },
+    {
+      "cite": "118 Ark. 229",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1562536
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/118/0229-01"
+      ]
+    },
+    {
+      "cite": "74 Ark. 592",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        8723900
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/74/0592-01"
+      ]
+    },
+    {
+      "cite": "66 Ark. 327",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1909749
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/66/0327-01"
+      ]
+    },
+    {
+      "cite": "99 Ark. 45",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1314493
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/99/0045-01"
+      ]
+    },
+    {
+      "cite": "114 Ark. 14",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1536306
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/114/0014-01"
+      ]
+    },
+    {
+      "cite": "66 Ark. 442",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1909802
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/66/0442-01"
+      ]
+    },
+    {
+      "cite": "70 Ark. 129",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1509554
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/70/0129-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 668,
+    "char_count": 14649,
+    "ocr_confidence": 0.495,
+    "pagerank": {
+      "raw": 2.0769299541866527e-07,
+      "percentile": 0.7585374668561757
+    },
+    "sha256": "da7a31ce4818e53b65ee527f871818175409430d5d4c002fbe37ee08b924c0a5",
+    "simhash": "1:ce8b894bb5a1c8b1",
+    "word_count": 2611
+  },
+  "last_updated": "2024-02-27T18:54:00.643605+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Starr v. City National Bank."
+    ],
+    "opinions": [
+      {
+        "text": "Humphreys, J.\nThis suit was instituted by appellee against appellants in the chancery court of Sebastian County to subject lots 7 and 8, block 560, Reserve Addition to the city of Fort Smith, to the payment of indebt-ednesses owing by F. C. Starr, an undischarged voluntary bankrupt, to appellee and other creditors. The bill is threefold in purpose, and first sought to subject both lots to the payment of said indebtedness, upon the ground that a large part of the money loaned by appel-lee to F; C. Starr to finance his business was fraudulently diverted to the payment of the purchase money of the lots and the cost of the improvement placed thereon; and, failing in the first purpose, next sought to set aside \u25a0certain conveyances made by F. C. Starr to Edith Starr to the undivided one-lialf.interest in the lots, and subject his interest therein to the payment of said indebtedness, on the ground that they were voluntary and made in fraud of the rights of creditors; failing in the second purpose, to set aside said conveyances as to the excess over one-quarter of an acre contained in said lots, and-to subject such excess to the payment of said indebtedness, on the ground that the lots were within the city and exceeded in value the sum of $2,500.\nThe material allegations of the bill were denied, and, as a further defense, appellants pleaded that each of them, at the time of the purchase of the lots and at all times thereafter, were citizens and residents of the State of Arkansas; that F. C. Starr was a married man and the head of a family; that both resided upon said property, as and for their homestead, after same was purchased, long prior to the adjudication of F. C. Starr in bankruptcy, and prior to the time the indebtednesses were incurred.\nTlie cause was submitted to the court upon the issues joined and the testimony adduced by the respective parties, which resulted in a decree setting aside the two deeds executed byr F. C. Starr to Edith N. Starr, his wife, conveying his interest in said lots to her, and subjecting said lots to the payment of said indebtednesses subject to a mortgage lien in favor of the Arkansas Building & Loan Association on lot 7, and a lien of $283.33 in favor of Mrs. W. S. Cochran on lot 8, from which is this appeal.\nAppellant\u2019s first insistence for reversal is that the court erred in subjecting so much of the property as constituted the homestead of appellants to the payment of said indebtedness. The record reflects by stipulation that, on December 3, 1917, Dennis Potts conveyed to appellants, as tenants by entirety, said lot 7 for a consideration of $850, the deed of conveyance being immediately placed of record; that on June 1, 1920, F. C. Starr conveyed to his wife, Edith N. Starr, a one-half interest in the lot for the recited consideration of $1, which deed was also recorded immediately thereafter; that on February 13, 1920, Adams & Boyle Realty Company conveyed to F. C. Starr and wife, as tenants by the entirety, said lot 8, for the consideration of $850, retaining a lien on same in deed for all of the purchase price except $283; that on May 10, 1921, F. C. Starr conveyed to his \u2019wife, Edith N. Starr, a one-half interest in said lot for' a recited consideration of $1, which deed of conveyance was also placed of record; that at the time lot 7 was purchased from Dennis Potts, F. C. Starr-and wife executed to the Arkansas Building & Loan Association of Little Rock, Ark., their mortgage thereon for $700, and that said mortgage was immediately recorded.\nThe record also reflects that on December 22, 1919, F. (1 Starr borrowed from appellee bank $500, and on the 21 st dav of February, 1921, $3000, on promissory notes, which were renewed from time to time and were existing\u2019 indebtednesses at the time Starr failed in business; that, immediately after the purchase of lot 7, appellants took actual possession of and occupied same thereafter, as their homstead; that lot 8 was purchased as an addition to their homestead and occupied and used by them in connection with lot 7; that a poultry house was built on the hack part of lot 8, which Starr used in connection with.his business. The fact that the poultry house was built on lot 8 and used by Starr in connection with his business is urged by appellees as proof conclusive that lot 8 was not intended or impressed as part of the homestead.\nOne does not lose his homestead for using part of it for 'business purposes. Berry v. Meir, 70 Ark. 129. The records fails to show that the money borrowed from appellee by Starr was loaned to him for the specific purpose or purchasing the lands in question.' The relationship of debtor and creditor, and not that of vendor and vendee, was created by the loans. This court is committed to the doctrine that borrowed money for the specific purpose of buying a home and so used is \u201cpurchase money\u201d within exception to article 9, section 3, of our Constitution, for which a lien may be declared on the property purchased (Acruman v. Barnes, 66 Ark. 442), but is not \u201cpurchase money,\u201d within the meaning of said section, for which a purchase money lien may be declared on the property purchased, if a general loan. Phillips v. Colvin, 114 Ark. 14. It is not and cannot be a fraud upon creditors for an insolvent debtor, who is a resident of this State and a head of a family, to purchase a home, within the constitutional area and value, out of his assets, upon which there is no existing lien. This court ruled in the case for Ferguson v. Little Rock Trust Company, 99 Ark. 45 (quoting syllabus 2): \u201cAn insolvent debtor may exchange lots which are subject to the claims of his creditors, but upon which they have no liens, for a homestead which is not subject to their claims.\u201d And in the case of McIlroy Banking Co. v. Dickson, 66 Ark. 327, ruled (quoting syllabus 4) : \u201cMoney borrowed of a bank by its casbier by means of an overdraft in the usual course of business, and used by him to build a house, cannot be followed into the building as an express trust fund, so as to subject the building to execution, under Constitution 1874, art. 9, sec. 3, providing that the homestead shall be subject to execution against \u201ctrustees of an express -trust for moneys due from them in their fiduciary capacity.\u201d And in the case of Pullen v. Simpson, 74 Ark. 592, in which it appears that a debtor was residing with his wife upon her homestead, ruled (quoting syllabus): '\u201cAn insolvent debtor may use his means, upon which his creditors have no lien, in improving his wife\u2019s homestead, if such homestead is within the maximum area and value permitted by the Constitution.\u201d Under the rule announced in the three cases last cited, the homestead of appellants, to the extent of on\u00e9-quarter of an acre, is exempt from the indebtednesses owed by F. C. Starr to appellee bank and his other creditors in bankruptcy.\nAppellants\u2019 next insistence for reversal is that the court erred in canceling the two deeds from-F. C. Starr to his wife conveying his interest in their homestead to her. We think it practically imdisputed, and quite clear, after a careful reading of the testimony, that appellants acquired, occupied, and used the lots as their homestead. According to the undisputed evidence the lots are urban property, exceeding in value $2,500 and in area one-quarter of an acre; that the conveyances sought to be canceled were voluntary. Under these facts the creditors had no interest in or right to that part of said property constituting the homestead of appellants. There are no creditors, as far as a homestead is concerned, save those entitled to liens thereon under the Constitution. For this reason creditors cannot attack, as fraudulent, the conveyance of a homestead made without consideration and in bad faith as to them. Fluke v. Sharum, 118 Ark. 229, and cases cited therein. The chancery court erred therefore in setting aside the deeds in question in so fai as they conveyed appellants\u2019 homestead and in subjecting that part of the property constituting the homestead of appellants to the payment of the creditors in bankruptcy.\nAppellants\u2019 last insistence for reversal is that the court erred in setting aside the two deeds from F. C. Starr to his wife and subjecting the excess over one-quarter of an acre contained in lots 7 and 8 to the payment of said debts. We cannot agree with learned counsel for appellants in this contention. It is true that F. C. Starr and Edith N. Starr testified that both lots were purchased with her individual money, and that none of his money was used in the purchase or improvement of them. We are convinced that this was the case in the purchase of lot 7, but are exceedingly doubtful whether lot 8 was purchased with her money. Mrs. Starr had an individual checking account in the First National Bank from the time they came to Fort Smith, some eight or nine years before she testified. It was her practice to pa}T her debts with checks on that bank. She made the two initial payments on lot 7 and a number of the payments to the Building & Loan Association with checks, as was her custom. Not so when she came to buy lot 8. According to the evidence of herself and husband, she called in her neighbor, Mrs. W. S. Cochran, to count her money (or \u201cboodle,\u201d as she denominated it), and, not having enough to make the first payment, borrowed the deficiency from her friend, Mrs. W. S. Cochran. She was unable to say whether she had $200 or $250, and' could not tell how much she borrowed from Mrs. Cochran. She testified that she gave Mr. Starr the money to go down and buy the lot for her. When pressed, she was unable to make a satisfactory explanation as to why he had the deed made to the two of them instead of to her. She could not satisfactorily explain why he deeded Ms interest in lot 8 to her on May 10, 1921, only a few months before he failed, and in attempting to do so made several contradictory statements. Her attempted explanation that lie deeded the lot to lier because it was paid for with her money was not plausible. He was not moved by an impulse of that kind at the time he bought the lot, else, when he paid her individual money for it, he would have taken the deed in her name. At the time he conveyed lot 8 to his wife his business was not prospering1, and, if not then insolvent, he was on the eve of bankruptcy. He conveyed lot 8 to her without consideration when indebted to the bank in the sum of $3,500. We are convinced that he made this conveyance with the purpose and intent of placing his property beyond the reach of his creditors. The chancellor found that said lot purchased by F. C. Starr was purchased with his own money, and, after a careful reading and consideration of the testimony, we are unable to say the finding was against a clear preponderance of evidence.\nThe decree is therefore affirmed as to the excess over one-quarter of an acre, but reversed and remanded as to that portion of the lots claimed as a homestead, with directions to allow appellant to select one-quarter of an acre as exempt from the claims of appellees.",
+        "type": "majority",
+        "author": "Humphreys, J."
+      }
+    ],
+    "attorneys": [
+      "Hill & Fitshugh, for appellant.",
+      "James B. McDonough, Cravens S Cravens and Joseph R. Brown, for appellees."
+    ],
+    "corrections": "",
+    "head_matter": "Starr v. City National Bank.\nOpinion delivered June 11, 1923.\n1. Homestead \u2014 use op PART for business purposes. \u2014 The fact that a debtor used part of a lot adjoining his dwelling- for a poultry house in connection with his business did not deprive him of the right to claim the lot as part of his homestead.\n2. Homestead \u2014 loans as purchase money. \u2014 While money loaned for the specific purpose of buying a home is \u201cpurchase money,\u201d for which the lender may claim a lien within the exception' in art. 9, \u00a7 3, of the Constitution, the rule.is otherwise in the case of a general loan.\n3. Homestead \u2014 purchase not fraudulent. \u2014 It is not a fraud upon \u25a0 creditors for an insolvent debtor who is a resident of this State and the head of a .family to purchase a home, within the constitutional area and value, out of his assets upon which there is no existing lien.\n4. Homestead \u2014 conveyance not fraudulent. \u2014 Creditors cannot attack as fraudulent the conveyance of a homestead as made without consideration and in bad faith as to them.\n5. Homestead \u2014 selection.\u2014Where an insolvent debtor conveyed urban lots on which his dwelling stood to his wife without consideration, and the lots exceeded in area one quarter of an acre, he will be allowed to select as exempt one quarter of an acre, and the remaining area will be subjected to the claims of his creditors.\nAppeal from Sebastian Chancery Court, Fort Smith District; J. V. Bourlcmd, Chancellor;\nreversed in part.\nHill & Fitshugh, for appellant.\nThe court erred in subjecting so much of the property as constituted the homestead of appellants to the payment of the debts; The bank cannot have a claim against Starr for money loaned him1 and at the same time claim a resulting trust in the property that he bought with the money. 107 Ark. 535; 56 Ark. 586; 103 Ark. 145; 114 Ark. 128; 102 Ark. 451; 42 Ark. 503. There could be no trust, nor specific lien, or any kind of lien upon the homestead under these facts. See also 123 Ark. 360; 27 Ark. 77; 30 Ark. 230; 40 Ark. 62; 102 Ark. 309; 96 Ark. 281; 79 Ark. 164. To establish a constructive trust the evidence must be clear and convincing. 118 Ark. 146. The two lots were used together, occupied as a homestead, and belonged to Mrs. Starr, and appellee had no claim against them.\nJames B. McDonough, Cravens S Cravens and Joseph R. Brown, for appellees.\nA portion of the bank\u2019s money went into the property, lots 7 and 8, which are situated in the city of Fort Smith, and constitute a larger area by 10 x 140 feet than is allowed for a homestead. By taking the money he procured from the bank under false representations and putting; it in this property, appellant Starr was fraudulently avoiding the payment of debts. 33 Ark. 762; 65 Ark. 373. During insolvency money was taken from Starr\u2019s assets and put in property claimed in his wife\u2019s name, which creates a resulting trust, and the property is subject to a lien of a judgment against the debtor. 55 Ark. 116. It is difficult to see how authorities cited by appellants are in point. A constructive trust arises on account of some fraud committed, and whenever the circumstances under which the property was acquired make it inequitable that it should be retained by him who holds the legal title. 26 Ark. 24; 39 Cyc. 169. Such trusts are called trusts ex maleficio, and are not within the statute of frauds. 51 Ark. 351; 84 Ark. 189; 73 Ark. 310; 41 Ark. 261. Under the law and findings of the court, the lots were subject to the payment of the hank\u2019s debt. Evidence also shows lot 8 not part of homestead."
+  },
+  "file_name": "0409-01",
+  "first_page_order": 435,
+  "last_page_order": 442
+}

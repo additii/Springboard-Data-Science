@@ -1,0 +1,91 @@
+{
+  "id": 8726313,
+  "name": "Saxon v. Barksdale",
+  "name_abbreviation": "Saxon v. Barksdale",
+  "decision_date": "1925-05-25",
+  "docket_number": "",
+  "first_page": "973",
+  "last_page": "976",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "168 Ark. 973"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [
+    {
+      "cite": "95 Ark. 588",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1543502
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/95/0588-01"
+      ]
+    },
+    {
+      "cite": "88 Ark. 292",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1517103
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/88/0292-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 363,
+    "char_count": 6142,
+    "ocr_confidence": 0.455,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.20860694967158316
+    },
+    "sha256": "d75a81f24cc94a1e90db351f50ab5003067bc8a5c91d00292ec7cacb7596bd6d",
+    "simhash": "1:a015c54f79cb6140",
+    "word_count": 1082
+  },
+  "last_updated": "2024-02-27T20:53:15.452133+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Saxon v. Barksdale."
+    ],
+    "opinions": [
+      {
+        "text": "Haht, J.,\n(after stating the facts). As a general rule, where a scaffold or staging is furnished by an employer as a completed structure, he is liable to an employee injured through his failing to furnish a reasonably safe structure as a place upon which to work. So in this case, if the defendants undertook to furnish the scaffold as a completed structure for the plaintiff and his fellow-workmen to work upon, it was their duty to see that it was reasonably safe for the purpose for which it was' intended. Murch Bros. Construction Co. v. Hays, 88 Ark. 292. On the other hand, if the defendants did not undertake to furnish the scaffold \u00e1s a completed structure, hut it was the duty of the plaintiff and the other carpenters employed with him to build the scaffold, then the only duty resting upon the defendants was that of using reasonable care in providing suitable materials for the object in view and employing suitable men to do the work. Vulcan Construction Co. v. Harrison, 95 Ark. 588. Numerous other decisions from the courts of last resort of the various States sustaining the general rule may be found in the case-notes to Studebaker v. Shelby Steel Tube Co. (Pa.), 18 Ann. Cas. 611, and Haakensen v. Burgess Sulphite Fibre Co. (N. H.), Ann. Cas. 1913B, 1122.\nBut, in this case, the scaffold was not a permanent platform furnished by the defendants on which the plaintiff and his fellow-workmen were invited to stand during their work. It was a temporary platform constructed by the workmen themselves, and to be lowered or raised any height by them as the work progressed and as their needs required.\nIt is true that the plaintiff did not actually help make the staging or scaffold upon which they worked, but he and the other two carpenters who did construct it were all engaged in carrying on the same general work, and no one of them performed duties which did not in some way relate to or affect the safety or the instrumentality with which, or places in which, the others worked. This was a case in which the three carpenters were working together upon the same part of the. building, and it was necessary, as a part of their work, to construct scaffolds to stand upon in doing their work. It does not appear that J. R. Lockhart, as foreman of Dr. R. L. Saxon, interfered in any way or gave any suggestion in the manner of selecting- or fastening the materials together to form the scaffold. This was left to the men engaged in doing the work of repairing the hotel, and the construction of the scaffold was a part of their work. The undisputed evidence shows that the fellow-workmen of the plaintiff were good carpenters and skillful workmen. For aught that appears in the record, there was plenty of good material on hand with which to. build the scaffold. Therefore the defendants were not answerable to the plaintiff for the negligence, if any, of his fellow-workmen in constructing the scaffold which fell and thereby caused his injury.\nIt follows that the judgment must he reversed, and, inasmuch as the case appears to.have been fully developed, the cause, of action will he dismissed.",
+        "type": "majority",
+        "author": "Haht, J.,"
+      }
+    ],
+    "attorneys": [
+      "H. E. Rouse and Saxon & Davidson, for appellant.",
+      "William F. Denmam, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Saxon v. Barksdale.\nOpinion delivered May 25, 1925.\n1. Master and servant \u2014 safe place to work. \u2014 An employer. furnishing- -completed scaffold for employees to work on must see that it is reasonably safe for the purpose intended.\n2, Master and servant \u2014 defective scaffold. \u2014 -Where plaintiff and two other employees were furnished suitable material to build a scaffold for their work, the fact that the others were negligent in constructing it, causing injury to plaintiff, did not render the employer liable.\nAppeal from Nevada Circuit Court; J. H. McGollmt, Judge;\nreversed.\nSTATEMENT OE EAOTS.\nThis was an action by E. J. Barksdale against R, L. Saxon and J. R. Lockhart to recover damages for injuries sustained by the plaintiff from the fall of a scaffold upon which he was working upon the premises of the defendant, R. L. Saxon.\nE. J. Barksdale was a witness for himself. According to his testimony, he is a carpenter, forty-six years of age, and was employed to work for Dr. R. L. Saxon in June, 1923. J. R. Lockhart was tire foreman of Dr. Saxon. \u00bfBarksdale, together with Stanley Burger and Ed Eaves, went to work for Dr. Saxon on Monday, and were injured on the following Wednesday by the falling of the scatfold on which they were standing at work. \u25a0 Barger and Eaves built the scaffold upon which they were working-. They first made what is called a liorse of 2 x 4 lumber. They placed 2x8 lumber on these wooden borses, and in this w\u00e1y built a scaffold upon which to work. They first commenced to work in the lobby of the hotel, which was owned by Dr. Saxon. They then removed their scaffold to the dining-room, and it became necessary to cut off the legs of the wooden horses, because the ceiling in the dining-room was six or eight inches lower than the lobby ceiling. After they got through in the dining-room, they carried their scaffold back in the lobby to work there again. It was necessary to build up the scaffold six or eight inches higher in order to work on the ceiling. This was done by nailing pieces on the legs of the wooden horses. The carpenters were engaged in- putting beaver boards on the ceiling- of the lobby at the time the scaffold fell and injured all three of the workmen. The plaintiff had nothing to do with building the ' scaffold upon which they worked, but he was working with the other two carpenters at the time it was built. The materials .for constructing- it were furnished by Dr. Saxon.\nA brother of the plaintiff testified that there was a knot in the plank which formed one of the legs of one of the wooden horses, and that this caused the leg to break and thereby let the scaffold fall. This happened unexpectedly, and the fall of the scaffold caused the injury to the plaintiff upon which he based his cause of action.\nThe case was tried before a jury, which returned a verdict for the plaintiff, and from the judgment rendered the defendants have duly prosecuted ah appeal to this court.\nH. E. Rouse and Saxon & Davidson, for appellant.\nWilliam F. Denmam, for appellee."
+  },
+  "file_name": "0973-01",
+  "first_page_order": 991,
+  "last_page_order": 994
+}

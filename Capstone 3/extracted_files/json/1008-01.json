@@ -1,0 +1,78 @@
+{
+  "id": 12462806,
+  "name": "Selene RMOF II REO Acquisitions II, LLC, Petitioner, v. Ward, Respondent",
+  "name_abbreviation": "Selene RMOF II REO Acquisitions II, LLC v. Ward",
+  "decision_date": "2016-09-01",
+  "docket_number": "No. 92967-0",
+  "first_page": "1008",
+  "last_page": "1008",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "186 Wash. 2d 1008"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Wash.",
+    "id": 9029,
+    "name": "Washington Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 38,
+    "name_long": "Washington",
+    "name": "Wash."
+  },
+  "cites_to": [
+    {
+      "cite": "192 Wn. App. 1050",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        12456281,
+        12456282,
+        12456283,
+        12456284
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/192/1050-01",
+        "/wash-app/192/1050-02",
+        "/wash-app/192/1050-03",
+        "/wash-app/192/1050-04"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 32,
+    "char_count": 226,
+    "ocr_confidence": 0.887,
+    "sha256": "564ba5a7284cfce3dfd2c28621d13cc430dcefee8d7e0a7313f114135bd198f0",
+    "simhash": "1:129b963d7b41603d",
+    "word_count": 37
+  },
+  "last_updated": "2024-02-27T18:43:05.207238+00:00",
+  "provenance": {
+    "date_added": "2019-05-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Selene RMOF II REO Acquisitions II, LLC, Petitioner, v. Ward, Respondent,"
+    ],
+    "opinions": [
+      {
+        "text": "Petition for review of a decision of the Court of Appeals, No. 72504-1-I, February 29, 2016, 192 Wn. App. 1050. Granted September 1, 2016.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Selene RMOF II REO Acquisitions II, LLC, Petitioner, v. Ward, Respondent,\nNo. 92967-0."
+  },
+  "file_name": "1008-01",
+  "first_page_order": 994,
+  "last_page_order": 994
+}

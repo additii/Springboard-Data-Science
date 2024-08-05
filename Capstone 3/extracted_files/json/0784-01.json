@@ -1,0 +1,115 @@
+{
+  "id": 1435119,
+  "name": "Hudson v. Allen",
+  "name_abbreviation": "Hudson v. Allen",
+  "decision_date": "1932-05-09",
+  "docket_number": "",
+  "first_page": "784",
+  "last_page": "788",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "185 Ark. 784"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [
+    {
+      "cite": "13 S. W. (2d) 826",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "178 Ark. 1184",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1397075
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/178/1184-01"
+      ]
+    },
+    {
+      "cite": "286 S. W. 865",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "171 Ark. 680",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "32 S. W. (2d) 818",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "182 Ark. 830",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1389938
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/182/0830-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 376,
+    "char_count": 6749,
+    "ocr_confidence": 0.515,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.05402168234518692
+    },
+    "sha256": "de87d55967983a76ad2220e0ba821b881584c39c6f29901486b65203e22ae029",
+    "simhash": "1:2a028679da748ed8",
+    "word_count": 1133
+  },
+  "last_updated": "2024-02-27T17:51:09.396208+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Hudson v. Allen."
+    ],
+    "opinions": [
+      {
+        "text": "McHaney, J.\nAppellant and appellee became partners in the general insurance business at Helena, Arkansas, under the name of the E. M. Allen Company, in May, 1919, and continued as such until July, 1927, when appellant purchased appellee\u2019s interest. On July 12,1927, they entered into a preliminary sale and purchase agreement in which it was stipulated that it was to be replaced with a formal contract of sale signed by both partners. Appellant owned a 45 per cent, interest in the partnership, and appellee, 55 per cent. The purchase price of appellee\u2019s interest was $13,500, of which $6,000 was paid in cash and $7,750 was evidenced by a promissory note due October 1, 1928, with 6 per cent, interest. The purchase price was fully paid, in accordance to the terms of the contract, and on October 17, 1928, 17 days after the payment of the $7,750 note representing the balance of the purchase price, appellee filed this suit against appellant to recover 55 per cent, of renewal commissions on premiums of life insurance which he alleged appellant had collected during the period of the partnership, and for which he had not accounted, which amount was alleged to be $4,800\u2019. Prior to the formation of the partnership appellant represented the Mutual Life Insurance Company of New York as its agent, and under his contract with it he was entitled to receive certain commissions on renewal premiums on policies written by his agency. On the formation of the partnership in 1919, it was agreed that all commissions on life insurance business, whether renewal or original commissions on policies thereafter to be written, should accrue to the partnership, but renewals on policies previously written Avere not to become an asset of the partnership. Appellant defended on two grounds: (1), that he had accounted to the partnership for all life insurance commissions on premiums, both original and renewals, collected from life insurance written during the life of the partnership; and (2), that, under his contract with appellee by which he purchased appellee\u2019s interest, he had acquired all the assets of the partnership of every kind and description, except the accounts and notes receivable that were due on or before July 1, 1927, and that the purchase price was not based on inventory, but was a lump sum offer including any differences that had arisen between them regarding life insurance commissions, and that both parties fully understood that the purchase price paid was a full and final settlement covering all disputes between them.\nThe co\u00fcrt found that appellant had failed to account for certain commissions and entered a judgment against appellant fdr $2,289.11, being 55 per cent, of the amount for which t\u00edre court found appellant had not accounted. Wherefore this appeal.\nWe do hot discuss the issue as to whether appellant had accounted to the partnership for the commissions on life insurance premiums, as, in view of the decision we make on the other defense of appellant, it becomes unnecessary to do so. The formal contract of sale between them was dated October 26, 1927. This was the agreement contemplated by the preliminary agreement of July 12, 1927. In the formal contract it is provided: \u201cIt is specifically hnderstood and agreed that Allen is selling all of his interest in the assets of the E. M. Allen Company of every Hnd and character, except the accounts and notes receivable that were due on or before July 1, 1927, and also his good will for a period of five years from the date of the signing of this instrument, and also agrees not to enter into the insurance business in Phillips County, Arkansas, indirectly or directly, for a period of five years.\u201d\nThe undisputed evidence shows that no inventory of the assets was made,.and that the purchase of appellee\u2019s interest by appellant was made on a lump sum basis. The undisputed evidence further shows that, at the time of the execution of said formal contract, and for some time prior thereto, he was contending that appellant had not properly accounted for renewal commissions on life insurance business. Several letters passed between them prior to the execution of the contract of October 26,1927, and in one of them, dated September 25, 1927, written by appellee from Chicago, Illinois, to appellant\u2019s attorney in Helena, he used this language: \u201cFurthermore, if we are to become technical, then I must insist upon adding to the agreement my proportion of the renewal commissions on life insurance business for the years 1919 to 1926, inclusive, which commissions have never been credited, although I frequently called the matter to Mr. Hudson\u2019s attention. I am not willing to believe that he intended to defraud me in connection with these commissions, but certain it is they have not been credited to my account, although statements sent me indicate that settlements were made regularly during that time. Reference to your copy of partnership agreement will convince you regarding these commissions.\u201d\nWe are therefore of the opinion that the final contract of sale of October '26, 1927, was a full and final settlement between the parties, including the claim now In question, and that appellee is in no position now to maintain such action. He signed the contract which specifically stated that he was selling \u201call of his interest in the assets of the E. M. Allen Company of every kind and character, except the accounts and notes receivable, \u2019 \u2019 etc. The commissions on life insurance business became an asset of the partnership, whether accounted for or not. He sold said assets, believing at the time that appellant had not accounted for same, and must be held to have included this asset in the purchase price received by him. Betts v. Brundidge, 182 Ark. 830, 32 S. W. (2d) 818; People\u2019s Savings Bank v. Howson, 171 Ark. 680, 286 S. W. 865. In this respect this case is unlike that of Wright v. Lake, 178 Ark. 1184, 13 S. W. (2d) 826, where one partner sued for profits fraudulently concealed and after-wards discovered. Other courts have had occasion to construe this same contract between the same parties. See Allen v. Hudson, 35 Fed. (2d) 330. This claim being an asset of the partnership, one which appellee thought he knew, at the time of signing the contract, had been concealed, if he desired to take action thereon, he should have reserved it in the contract, as he did the accounts and notes receivable. This not having been done, it must be held to have been included in the broad language of the contract and passed to appellant as the purchaser.\nThe decree of the chancery court is therefore reversed, and the cause dismissed.",
+        "type": "majority",
+        "author": "McHaney, J."
+      }
+    ],
+    "attorneys": [
+      "Brewer <& Gracraft, for appellant.",
+      "W. G. Dinning, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Hudson v. Allen.\nOpinion delivered May 9, 1932.\nBrewer <& Gracraft, for appellant.\nW. G. Dinning, for appellee."
+  },
+  "file_name": "0784-01",
+  "first_page_order": 804,
+  "last_page_order": 808
+}

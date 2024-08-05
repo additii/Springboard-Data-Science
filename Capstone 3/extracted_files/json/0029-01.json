@@ -1,0 +1,528 @@
+{
+  "id": 6791929,
+  "name": "The State of Washington, Petitioner, v. Benito Gomez, Respondent",
+  "name_abbreviation": "State v. Gomez",
+  "decision_date": "2015-04-09",
+  "docket_number": "No. 90329-8",
+  "first_page": "29",
+  "last_page": "37",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "183 Wash. 2d 29"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Wash.",
+    "id": 9029,
+    "name": "Washington Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 38,
+    "name_long": "Washington",
+    "name": "Wash."
+  },
+  "cites_to": [
+    {
+      "cite": "135 S. Ct. 880",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12594336,
+        12594337,
+        12594338,
+        12594334,
+        12594335
+      ],
+      "year": 2014,
+      "opinion_index": 0,
+      "case_paths": [
+        "/s-ct/135/0880-03",
+        "/s-ct/135/0880-04",
+        "/s-ct/135/0880-05",
+        "/s-ct/135/0880-01",
+        "/s-ct/135/0880-02"
+      ]
+    },
+    {
+      "cite": "334 P.3d 1042",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2014,
+      "opinion_index": 0
+    },
+    {
+      "cite": "181 Wn.2d 493",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4355808
+      ],
+      "year": 2014,
+      "pin_cites": [
+        {
+          "page": "501-02"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/181/0493-01"
+      ]
+    },
+    {
+      "cite": "257 P.3d 624",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2011,
+      "opinion_index": 0
+    },
+    {
+      "cite": "172 Wn.2d 85",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4018381
+      ],
+      "year": 2011,
+      "pin_cites": [
+        {
+          "page": "93"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/172/0085-01"
+      ]
+    },
+    {
+      "cite": "334 P.3d 1049",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2014,
+      "opinion_index": 0
+    },
+    {
+      "cite": "181 Wn.2d 508",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4356663
+      ],
+      "year": 2014,
+      "pin_cites": [
+        {
+          "page": "513-14"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/181/0508-01"
+      ]
+    },
+    {
+      "cite": "288 P.3d 1113",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2012,
+      "opinion_index": 0
+    },
+    {
+      "cite": "176 Wn.2d 1",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4306658
+      ],
+      "year": 2012,
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/176/0001-01"
+      ]
+    },
+    {
+      "cite": "332 P.3d 984",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2014,
+      "opinion_index": 0
+    },
+    {
+      "cite": "181 Wn.2d 1002",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "year": 2014,
+      "opinion_index": 0
+    },
+    {
+      "cite": "180 Wn. App. 1012",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        4186203,
+        4190180,
+        4187757,
+        4186460
+      ],
+      "year": 2014,
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/180/1012-04",
+        "/wash-app/180/1012-03",
+        "/wash-app/180/1012-01",
+        "/wash-app/180/1012-02"
+      ]
+    },
+    {
+      "cite": "906 P.2d 325",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1995,
+      "opinion_index": 0
+    },
+    {
+      "cite": "128 Wn.2d 254",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        518016
+      ],
+      "year": 1995,
+      "pin_cites": [
+        {
+          "page": "258-59"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/128/0254-01"
+      ]
+    },
+    {
+      "cite": "334 P.3d 1078",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2014,
+      "pin_cites": [
+        {
+          "parenthetical": "plurality opinion"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "181 Wn.2d 564",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4356699
+      ],
+      "year": 2014,
+      "pin_cites": [
+        {
+          "page": "573",
+          "parenthetical": "plurality opinion"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/181/0564-01"
+      ]
+    },
+    {
+      "cite": "292 P.3d 715",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2012,
+      "pin_cites": [
+        {
+          "parenthetical": "plurality opinion"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "176 Wn.2d 58",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4306367
+      ],
+      "year": 2012,
+      "pin_cites": [
+        {
+          "page": "72-73",
+          "parenthetical": "plurality opinion"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/176/0058-01"
+      ]
+    },
+    {
+      "cite": "288 P.3d 1126",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2012,
+      "pin_cites": [
+        {
+          "parenthetical": "jurors questioned in chambers, outside the view of any observers"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "176 Wn.2d 29",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4306856
+      ],
+      "year": 2012,
+      "pin_cites": [
+        {
+          "page": "32-33",
+          "parenthetical": "jurors questioned in chambers, outside the view of any observers"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/176/0029-01"
+      ]
+    },
+    {
+      "cite": "100 P.3d 291",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2004,
+      "opinion_index": 0
+    },
+    {
+      "cite": "152 Wn.2d 795",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1217463
+      ],
+      "year": 2004,
+      "pin_cites": [
+        {
+          "page": "807-08"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/152/0795-01"
+      ]
+    },
+    {
+      "cite": "122 P.3d 150",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2005,
+      "opinion_index": 0
+    },
+    {
+      "cite": "155 Wn.2d 506",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        3766216
+      ],
+      "year": 2005,
+      "pin_cites": [
+        {
+          "page": "514-15"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/155/0506-01"
+      ]
+    },
+    {
+      "cite": "137 P.3d 825",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2006,
+      "opinion_index": 0
+    },
+    {
+      "cite": "157 Wn.2d 167",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        3004470
+      ],
+      "year": 2006,
+      "pin_cites": [
+        {
+          "page": "173-74"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/157/0167-01"
+      ]
+    },
+    {
+      "cite": "334 P.3d 1196",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2014,
+      "pin_cites": [
+        {
+          "parenthetical": "plurality opinion"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "183 Wn. App. 893",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        4346245
+      ],
+      "year": 2014,
+      "pin_cites": [
+        {
+          "page": "903",
+          "parenthetical": "plurality opinion"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/183/0893-01"
+      ]
+    },
+    {
+      "cite": "334 P.3d 1068",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "181 Wn.2d 546",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4356103
+      ],
+      "pin_cites": [
+        {
+          "page": "550"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/181/0546-01"
+      ]
+    },
+    {
+      "cite": "47 P.2d 1",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1935,
+      "pin_cites": [
+        {
+          "parenthetical": "quoting 4 C.J. Appeal and Error \u00a7 2666, at 736 (1916)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "182 Wash. 384",
+      "category": "reporters:state",
+      "reporter": "Wash.",
+      "case_ids": [
+        872021
+      ],
+      "year": 1935,
+      "pin_cites": [
+        {
+          "page": "391",
+          "parenthetical": "quoting 4 C.J. Appeal and Error \u00a7 2666, at 736 (1916)"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash/182/0384-01"
+      ]
+    },
+    {
+      "cite": "271 P.3d 876",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2012,
+      "pin_cites": [
+        {
+          "parenthetical": "quoting Barker v. Weeks, 182 Wash. 384, 391, 47 P.2d 1 (1935) (quoting 4 C.J. Appeal and Error \u00a7 2666, at 736 (1916))"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "174 Wn.2d 96",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4021757
+      ],
+      "year": 2012,
+      "pin_cites": [
+        {
+          "page": "123-24",
+          "parenthetical": "quoting Barker v. Weeks, 182 Wash. 384, 391, 47 P.2d 1 (1935) (quoting 4 C.J. Appeal and Error \u00a7 2666, at 736 (1916))"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/174/0096-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 727,
+    "char_count": 13958,
+    "ocr_confidence": 0.769,
+    "pagerank": {
+      "raw": 4.9873252135790625e-08,
+      "percentile": 0.31302211055548024
+    },
+    "sha256": "64ce0d77098426df8f04f9c63883d2d61e1616ac8e9786bc08c685e8265c22b3",
+    "simhash": "1:bd2e860a66282bfa",
+    "word_count": 2333
+  },
+  "last_updated": "2024-02-27T22:09:01.011694+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Madsen, C.J., and Owens, Fairhurst, Stephens, Wiggins, Gonz\u00e1lez, Gordon McCloud, and Yu, JJ., concur."
+    ],
+    "parties": [
+      "The State of Washington, Petitioner, v. Benito Gomez, Respondent."
+    ],
+    "opinions": [
+      {
+        "text": "Johnson, J.\n\u00b61 This case involves whether the trial court closed the courtroom during trial in violation of the defendant\u2019s rights under article I, section 22 of the Washington Constitution. The Court of Appeals reversed Benito Gomez\u2019s convictions for second degree murder and six counts of first degree assault on the grounds that the trial judge effected an unconstitutional closure of the courtroom during trial by his pretrial comment that the public would not be permitted to enter the courtroom once the proceedings began. First, we disagree that the trial judge, by mere virtue of making this remark, fully excluded the public from entering the courtroom and, thus, we have no basis for finding a constitutional violation. Second, even if we could presume the brief comment was enforced, this limitation to courtroom entry does not constitute a closure. We reverse the Court of Appeals and reinstate Gomez\u2019s conviction.\nFacts\n\u00b62 Gomez was charged with first degree murder and six counts of first degree assault after he fatally shot a rival gang member and fired his handgun at fleeing rivals and residents of a nearby apartment building. Before swearing in the jury, the court considered Gomez\u2019s change of venue motion, in which Gomez argued that the heavy security in the courthouse would intimidate the jury and convey the impression that Gomez was dangerous. In denying the motion, the court made a few comments regarding the spectators of the proceedings: \u201cThis is a public courthouse. Everyone in the public is entitled to appear in this courthouse for appropriate matters, as either litigants or spectators or witnesses and in fact the courtroom is rather full today of spectators concerning this particular case.\u201d 2 Verbatim Report of Proceedings (VRP) at 150.\n\u00b63 The judge continued in a lengthy explanation of his ruling to deny the venue change, and couched within that ruling, the judge made the comment that Gomez contends closed the proceedings:\nWe continue to have rules of procedure where people have to be on time for proceedings here. We do not allow people to come into the courtroom after [it] is in session for not only security reasons but as well as the distraction that that causes when people come in.\n2 VRP at 153.\n\u00b64 Gomez did not object to the judge\u2019s comment, and the trial continued for the next three days. The record contains no indication as to whether the court took any action to enforce the policy or whether any observers were actually excluded as a result of the remark. The jury found Gomez guilty of the lesser-included crime of second degree murder and six counts of first degree assault. Gomez appealed, arguing for the first time that the trial court violated his public trial rights by not allowing the public to enter once the proceedings began. The Court of Appeals agreed, holding that the trial court improperly closed the courtroom without first considering the factors set forth in State v. Bone-Club, 128 Wn.2d 254, 258-59, 906 P.2d 325 (1995), and remanded for a new trial. State v. Gomez, noted at 180 Wn. App. 1012 (2014). We granted review. State v. Gomez, 181 Wn.2d 1002, 332 P.3d 984 (2014).\nAnalysis\n\u00b65 Under Washington Constitution article I, section 22, criminal defendants have the right to a public trial. Defendants can raise claims of public trial rights violations for the first time on direct appeal, which we review de novo. We consider these violations serious, falling into the category of constitutional error that entitles the defendant to reversal of his conviction and a new trial without requiring any showing of prejudice. State v. Wise, 176 Wn.2d 1, 288 P.3d 1113 (2012).\n\u00b66 In a recent decision, we adopted a three-step framework for analyzing whether a trial court violated the defendant\u2019s public trial right: we determine (1) whether the portion of the proceeding at issue implicates the public trial right, which we analyze using an \u201cexperience and logic\u201d analysis, (2) whether there was a closure of that proceeding, and (3) whether the closure was justified (did the court conduct a Bone-Club analysis on the record prior to closing the proceeding?). State v. Smith, 181 Wn.2d 508, 513-14, 334 P.3d 1049 (2014). In this case, neither party disputes that the public trial right attaches to the regular proceedings and that because the judge did not consider the Bone-Club factors, a closure of those proceedings would not be justified, so steps (1) and (3) need no analysis. Only the second step requires our review: whether the judge\u2019s comment alone effected an actual closure of the courtroom during the trial. Our cases have largely used a case-by-case approach in determining when a closure occurs, but we have established some general guidelines.\n\u00b67 A complete closure occurs \u201cwhen the courtroom is completely and purposefully closed to spectators so that no one may enter and no one may leave.\u201d State v. Lormor, 172 Wn.2d 85, 93, 257 P.3d 624 (2011). The requirement for a Bone-Club analysis \u201ccome[s] into play when the public is fully excluded from proceedings within a courtroom.\u201d Lor- mor, 172 Wn.2d at 92 (emphasis added) (citing Bone-Club, 128 Wn.2d at 257). For example, we found closures when the trial court fully excluded all spectators during the proceeding, when it fully closed voir dire to spectators, and when the judge privately questioned jurors in chambers.\n\u00b68 Once it is found a closure has occurred, the appellant has no further burden. However, the appellant does bear the burden of supplying a record that is sufficient to show that the proceeding in question was actually closed. State v. Koss, 181 Wn.2d 493, 501-02, 334 P.3d 1042 (2014). A violation of this magnitude must be evident from the record; \u201c [i] t is a well established principle that \u2018 \u201c. . . [we] will not, for the purpose of finding reversible error, presume the existence of facts as to which the record is silent.\u201d \u2019 \u201d State v. Jasper, 174 Wn.2d 96, 123-24, 271 P.3d 876 (2012) (quoting Barker v. Weeks, 182 Wash. 384, 391, 47 P.2d 1 (1935) (quoting 4 C.J. Appeal and Error \u00a7 2666, at 736 (1916))).\n\u00b69 We recently considered this issue in Njonge, in which the trial judge explained to spectators, \u201c \u2018Tomorrow when we have the jury selection, there will not be room for all of you. . . . The chance of all of you being able to be here and observe are slim to none during the jury selection process.\u2019 \u201d State v. Njonge, 181 Wn.2d 546, 550, 334 P.3d 1068 (quoting trial court record), cert. denied, 135 S. Ct. 880 (2014). We held that the comments did not effect a closure because there was \u201cno conclusive showing that spectators were totally excluded from the juror excus\u00e1is.\u201d Njonge, 181 Wn.2d at 556 (emphasis added). We clarified, \u201cWe have required a better factual record to find a violation of this magnitude.\u201d Njonge, 181 Wn.2d at 558.\n\u00b610 To be clear, the appellant does not generally have to show that spectators were in fact excluded as a result of the court\u2019s actions. Rather, the appellant must supply a record that reveals that the court took actions amounting to a closure, such as explicitly issuing an order completely closing the proceedings or moving the proceedings to chambers. In Njonge, we found that the record was deficient not because the defendant failed to show that anyone was in fact excluded, but because \u201cit [could not] be determined conclusively that observers were in the courtroom during the proceeding in question, neither [could] it be said that the public was excluded.\u201d Njonge, 181 Wn.2d at 558. In Koss, we similarly refused to infer that an alleged secret, closed meeting between the State\u2019s counsel and the trial judge had taken place when it was not reflected anywhere in the record. Koss, 181 Wn.2d at 502. Applying that approach here, we hold that the comment alone does not conclusively establish that the public was fully excluded from entry.\n\u00b611 In a factually similar case, the Court of Appeals correctly concluded that the trial judge\u2019s statement \u2014 that he did not like people coming and going during closing arguments and asked those who did not think they could last throughout the morning to rethink being in the courtroom \u2014 did not amount to a closure because \u201cthe court did not \u2018completely\u2019 or \u2018purposefully\u2019 close the proceedings.\u201d State v. Stark, 183 Wn. App. 893, 903, 334 P.3d 1196 (2014) (plurality opinion) (citing Lormor, 172 Wn.2d at 93). We agree with this analysis; short of an explicit order to close the courtroom, we do not presume that the entire public was effectively prohibited from entry. The record must establish that the courtroom and proceedings were closed by express direction of the judge.\n\u00b612 Based on the record here, we cannot determine whether a closure actually occurred. The only evidence in this record supportive of a possible closure is the judge\u2019s comment on the first day of trial, which Gomez contends amounted to a \u201cruling\u201d for \u201ca general prohibition for spectators and an exclusion of the public from the trial.\u201d Resp\u2019t\u2019s Suppl. Br. at 5. Far short of an actual ruling, the judge said, \u201cWe do not allow people to come into the courtroom after [it] is in session.\u201d 2 VRP at 153. The judge also commented, \u201cThis is a public courthouse. Everyone in the public is entitled to appear in this courthouse for appropriate matters, as either litigants or spectators or witnesses.\u201d 2 VRP at 150. The judge did not explicitly order a closure of the courtroom, such that we can conclusively determine that the statement itself was meant to prevent people from entering or to compel spectators to leave. Rather, the judge made the remark in the context of a lengthy ruling on venue, he mentioned it only once during the proceedings, and there is no other indication in the record that the court directed the exclusion of any spectators or that anyone else acted to close the trial to the public. The record shows the opposite here: that the courtroom was rather full of spectators and none were asked to leave. Given our existing definition of a \u201cclosure,\u201d something more must be shown from the record.\n\u00b613 Even if we presumed that the comment was enforced, the judge\u2019s rule does not constitute a closure. As we discussed in Lormor, the appellant must show that the judge acted to close the courtroom to the public, as opposed to acting to manage the in-court proceedings. As in Lormor, the exclusion of only one or a few individuals is a matter of courtroom operations, in which the trial judge possesses broad discretion \u201cto preserve and enforce order in the courtroom and to provide for the orderly conduct of its proceedings.\u201d Lormor, 172 Wn.2d at 93-94. Just as trial court judges are permitted to exclude distracting individuals, they are permitted to impose reasonable restrictions on the public\u2019s manner of entry so as to minimize the risk of distraction or impact on the proceedings.\nConclusion\n\u00b614 The record does not establish that the court closed the courtroom, and as such, no basis exists for finding that the trial court violated those public trial rights under article I, section 22. The record does not contain any indication that the trial court took action to enforce the brief comment made on the first day of trial. We have reiterated several times that we do not presume or infer a violation from a silent record. We reverse the Court of Appeals and reinstate Gomez\u2019s convictions.\nMadsen, C.J., and Owens, Fairhurst, Stephens, Wiggins, Gonz\u00e1lez, Gordon McCloud, and Yu, JJ., concur.\nSee State v. Easterling, 157 Wn.2d 167, 173-74, 137 P.3d 825 (2006); State v. Brightman, 155 Wn.2d 506, 514-15, 122 P.3d 150 (2005); In re Pers. Restraint of Orange, 152 Wn.2d 795, 807-08, 100 P.3d 291 (2004); Bone-Club, 128 Wn.2d at 257. In contrast, the exclusion of a single person is not considered a closure. Lormor, 172 Wn.2d at 93.\nSee State v. Paumier, 176 Wn.2d 29, 32-33, 288 P.3d 1126 (2012) (jurors questioned in chambers, outside the view of any observers); State v. Wise, 176 Wn.2d at 7 (same); Orange, 152 Wn.2d at 802 (record demonstrated that the trial court prohibited all spectators and family members from observing voir dire); Bone-Club, 128 Wn.2d at 256 (trial judge ordered all spectators to leave the courtroom).\nThe State makes two additional arguments in its briefing, neither of which warrants a detailed analysis. First, the State argues that using an experience and logic analysis, this court should find that the trial court did not effect a closure because, historically and logically, judges have possessed wide discretion in controlling the courtroom and maintaining decorum. Pet\u2019r\u2019s Suppl. Br. at 7. But the State\u2019s reliance on that analysis is misplaced: we employ the experience and logic analysis to determine whether the public trial right attaches to a particular proceeding or portion of the proceedings. State v. Sublett, 176 Wn.2d 58, 72-73, 292 P.3d 715 (2012) (plurality opinion). There is no question here that the right attaches to the regular trial proceedings.\nSecond, the State argues that if we do find that the comment effected a closure, the closure was de minimis in nature and does not warrant reversal. The State argues that our ruling in State v. Shearer, 181 Wn.2d 564, 573, 334 P.3d 1078 (2014) (plurality opinion), in which we said that the structural nature of the public trial violation \u201cforecloses the possibility of de minimis violations,\u201d should not apply here because unlike Shearer, the record reveals that the public was actually present during the proceedings. We do not reach that issue here.",
+        "type": "majority",
+        "author": "Johnson, J."
+      }
+    ],
+    "attorneys": [
+      "James L. Nagle, Prosecuting Attorney, and Teresa J. Chen, Deputy, for petitioner.",
+      "Janet G. Gemherling (of Janet Gemberling PS); and Jill Shumaker Reuter (of Nichols Law Firm PLLC), for respondent.",
+      "James M. Whisman on behalf of Washington Association of Prosecuting Attorneys, amicus curiae."
+    ],
+    "corrections": "",
+    "head_matter": "[No. 90329-8.\nEn Banc.]\nArgued January 15, 2015.\nDecided April 9, 2015.\nThe State of Washington, Petitioner, v. Benito Gomez, Respondent.\nJames L. Nagle, Prosecuting Attorney, and Teresa J. Chen, Deputy, for petitioner.\nJanet G. Gemherling (of Janet Gemberling PS); and Jill Shumaker Reuter (of Nichols Law Firm PLLC), for respondent.\nJames M. Whisman on behalf of Washington Association of Prosecuting Attorneys, amicus curiae."
+  },
+  "file_name": "0029-01",
+  "first_page_order": 83,
+  "last_page_order": 91
+}

@@ -1,0 +1,151 @@
+{
+  "id": 1355696,
+  "name": "Beeson-Moore Stave Company v. Brewer & Story",
+  "name_abbreviation": "Beeson-Moore Stave Co. v. Brewer & Story",
+  "decision_date": "1923-04-30",
+  "docket_number": "",
+  "first_page": "512",
+  "last_page": "518",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "158 Ark. 512"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [
+    {
+      "cite": "129 Ark. 82",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1580494
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/129/0082-01"
+      ]
+    },
+    {
+      "cite": "148 Ark. 658",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "121 S. W. 774",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "141 Mo. App. 5",
+      "category": "reporters:state",
+      "reporter": "Mo. App.",
+      "case_ids": [
+        8731727
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mo-app/141/0005-01"
+      ]
+    },
+    {
+      "cite": "148 Ark. 512",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        8721550
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/148/0512-01"
+      ]
+    },
+    {
+      "cite": "122 Ark. 212",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1558217
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/122/0212-01"
+      ]
+    },
+    {
+      "cite": "100 Ark. 251",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1312219
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/100/0251-01"
+      ]
+    },
+    {
+      "cite": "94 Ark. 158",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1545385
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/94/0158-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 587,
+    "char_count": 12581,
+    "ocr_confidence": 0.453,
+    "pagerank": {
+      "raw": 6.145693906116737e-08,
+      "percentile": 0.38212807001489274
+    },
+    "sha256": "d46d5458afd1d7d7d66ff4cbe5158fea8655737c635ad1ee393ad165fc4ded46",
+    "simhash": "1:2a8a5bb6190861fc",
+    "word_count": 2156
+  },
+  "last_updated": "2024-02-27T17:41:16.235499+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Beeson-Moore Stave Company v. Brewer & Story."
+    ],
+    "opinions": [
+      {
+        "text": "Humphreys, J.\nAppellees instituted .suit against appellant in the chancery court of Stone County to recover $10,550, growing out of alleged breaches of contract for the sale and purchase of 800,000 white oak staves. It was -charged in the bill that appellant failed to make advancements upon 35,000 staves manufactured in the woods, or to properly inspect -others a,t shipping points. The items of damage alleged were $6,150 profit on 205,000 staves, $1,400 cost of manufacturing 35,000 staves left in the woods, $2,000 on timber purchased to make 205,000 staves, and $1,000 resulting from wrongful inspection.\nAppellant filed an answer denying the material allegations of the bill, and pleaded the statute of frauds in defense of the contract existing between appellees and Mabry & Son on January 14, 1920.\nThe case was submitted to the court upon the pleadings and testimony, which resulted in a judgment in favor of appellees for $6,150, from which is this appeal. The record reflects the following summary of facts: On the 14th day of January, 1920, appellees entered into a written contract with H. S. Mabry & Son to make and deliver to them, before January 1, 1921, at designated points 300,000' white oak staves of certain dimensions at fixed prices. The contract contained a provision for an advance of $50 per 1,000 pieces, made, bucked and stacked on yard in the woods, and for inspection \u201cmill run, culls out,\u201d at shipping point, and for payment in full when on board cars ready for shipment. On the 7th day of February, 1920, H. S. Mabry & Son sold their entire stave mill business, including three mills, equipment and commissaries at different places on the Missouri Pacific and North Arkansas railroads. Among the assets transferred by Mabry & Son to appellant was an account of $1,200 \u25a0advanced by Mabry & Son to appellees on the stave contract of date January 14, 1920. After the sale of the Mabry stave business to appellant, advances were made by it to appellee, and a large number of staves were delivered and received under the stave contract aforesaid prior and up to July 10, 1920. On that date 153,000 staves had been delivered and paid for, and the balance were made up in the woods. Appellant had made advances on those in the woods. On July 10,1920, appellees entered into a written contract with appellant to make and deliver to it, at designated shipping points, 500,000 white oak staves of certain dimensions, at fixed prices. This contract contained the same clauses with reference to advances and inspection contained in the contract of January 14, 1920. The latter contract was a copy of the first contract, except names and amounts. The testimony is conflicting as to whether the last contract was for 500,000 additional staves or whether it included the 147,000 staves in the woods upon which appellant had already made advances. After the contract in July was executed, appellees delivered about 370,000 staves to appellant, making a total of about 595,000 delivered by them to it. Deliveries and shipments ceased in March, 1921. Disputes arose between the parties as to the manner of inspection and concerning advances upon staves in the woods. On January 28, 1921, appellant wrote appellees the following letter:\n\u201cLittle Rock, Arkansas, January 28, 1921.\n\u201cBrewer & Storey, Mountain View, Ark.\n\u2018 \u2018 G-entlemen: Our Mr. Hurt has just come and told us that you would not accept inspection that he put on the staves and load them out, which is quite a surprise to us. We are going to put an association man on these staves and s\u00e9e whether Mr. Hurt is right or wrong in regard to culls, and then, if you do not want to accept the association man\u2019s inspection, I suppose there is no other way to settle this except through legal proceedings. We are certainly going to have staves clear from this date on. In reg'ard to advance, your contract calls for $50 advance in the woods, which of course we have not given you, as I do not know that you particularly asked for it. We could not advance on these when you refused to take our inspection. Another thing, too, I do not see any use of making advance when stave\u00ae are on the R. R. We told you we would pay for them as fast as they were loaded in cars and the doors sealed, hut will not malte advances on the staves on the R. R. under the present conditions.\n\u201cYours very truly,\n\u201c Bbeson-Moore Stave Company,\n\u201cBy E. W. Beeson, President.\u201d\nBeeson and Storey met at Sylamore in February and had quite a wrangle over the inspection. Beeson insisted upon and enforced the letter of the contract relating' to inspection. It seems that Mabry and their inspectors had accepted the lots of staves theretofore delivered when they did not contain more than .six per \u00a9ent. culls. Beeson\u2019s claim, under the contract, was that the staves should he free from culls. Brewer and Storey both testified that they demanded advances on staves which they had manufactured in the woods, and, being unable to get the advances, shipped only about 100,000 staves after the meeting in February; that appellant refused to make further advances on staves, and failed to pay them the full 'amount on staves which it had inspected; that it did not pay the balance due on the staves accepted by it until October, 1921; that, on account of the refusal to make further advances on staves in the woods, they were compelled to shut down; that when they shut down there were 35,000 staves in the woods ready to be bucked and stacked in the yards. In October, 1921, appellant inclosed its check for $905.42 in the following letter:\n\u201cOctober 12, 1921.\n\u201cBrewer and Storey, Mountain View, Ark.\n\u201cGentlemen: Inclosed please find our check for $905.42, which is balance due you according' to our books. If this is not in line with your books, we will thank you to let us know at once.\n\u201cWe want to \u2018thank\u2019 you and want you to know that we certainly have appreciated your kindness to us in letting us just take our time to pay you this account, as we have seen some pretty hard places in the last year.\n\u201cAgain accept our thanks, and we hope to some day be able to do some more business with you. Best regards to you and your families.\n\u201cYours very truly,\n\u201cBeeson-Moore Stave Company,\n\u201cBy Cashier.\u201d\nAppellees made no reply to the letter, but accepted and cashed the check. Appellees testified that the check was accepted by them in settlement of the staves which had been delivered; that, in accepting it, they had no intention of waiving their claim of damages growing out of the alleged breach of contract on the part of appellant. Beeson testified that his purpose in sending the check was to settle in full all claims arising out of the contract.\nAppellant\u2019s first insistence for reversal is that the court erred in holding it liable\" to appellees upon the Mabry contract.. It is argued that the Mabry contract was in writing, and. that no indorsement appears thereon, showing a sale, transfer, or assignment thereof to appellant, and that it was not referred to and included in the written contract of sale and purchase between appellant and Mabry & Son. We deem it unnecessary to discuss the questions .suggested, because, according to the decided weight -of the evidence, the Mabry contract was completely carried out and executed by appellant. When Mabry & Son sold their stave business to appellant, Mabry was made general manager and left in charge thereof. He testified that the contract was taken over by appellant and fully and completely performed by it. He was corroborated in this statement by appellees and W. H. Thomas, the bookkeeper, both before and after Mabry & Son sold their business to appellant. Mr. Mabry testified that he made the contract on July 10, 1920, between appellant and appellees, at the request of Mr. Beeson, because the staves contracted for under the first contract had been made; that the second contract was for 500,000 additional staves, and wholly independent of the first contract. We are convinced that the delivery of staves to the number of 147,000 immediately after the execution of the second contract was in fulfillment of the first contract, and that the first contract was fully performed. The plea of the statute of frauds cannot avail against parol contracts which have been executed.\nAppellant\u2019s next insistence for reversal is that the court erred in finding that it breached the contract of July 10, 1920. It is shown conclusively by the evidence that appellant did not pay for the last staves received by it for ten months after being inspected and placed on board cars. The last delivery was in February o.r early in March, 1921, and payment in full for the staves delivered was not made until the following October. It is also certainly revealed by the evidence that appellees permitted appellant to take all the staves which had been placed in the yards at the shipping points upon appellant\u2019s inspection. No staves were withheld by the appellees on account of the inspection made by appellant. This being true, there is nothing in the record showing a breach by either party on account of the inspection. Appellant argues that, under the terms of the contract, it was not required to make advancements on the staves in the woods until they had been bucked and stacked in the yards. It is true that a provision to this effect is contained in the contract, and also true that 35,000 staves in the woods had not been bucked and stacked in the yards at the time appellees shut down the manufacture of staves. According to the weight of the evidence, appellant, through its president, E. W. Beeson, notified appellees that it would not make further advances under the contract.\nAppellant\u2019s last insistence for reversal is that the acceptance of the check for $905.42 was an accord and satisfaction. The letter, on its face, restricted the settlement to what was shown on the books. It did not pretend to include an adjustment of the disputed claim growing out the alleged breach of contract. Unless the settlement was intended to include all demands arising out of the transaction between the parties, the delivery and acceptance of the check could not be regarded as an accord and satisfaction. Barham v. Bank of Delight, 94 Ark. 158; Barham v. Kizzia, 100 Ark. 251; Longstreth v. Halter, 122 Ark. 212. No condition was imposed in the face of the check or the letter in which it was inclosed to the effect that the check was tendered in full settlement of the disputed claim growing out of a breach of the contract on the part of appellant. As stated above, the check was sent in full settlement of the amount due appellees for staves which had been delivered to appellant as shown by the book account.\nThe decree is affirmed.",
+        "type": "majority",
+        "author": "Humphreys, J."
+      }
+    ],
+    "attorneys": [
+      "Mehaffy, Donham S Mehaffy, for appellant.",
+      "Ben B. Williamson and Rogers, Barber $ Henry, for appellees."
+    ],
+    "corrections": "",
+    "head_matter": "Beeson-Moore Stave Company v. Brewer & Story.\nOpinion delivered April 30, 1923.\n1. Frauds, statute op \u2014 executed parol contract. \u2014 The plea of the statute of frauds cannot avail against parol contracts of sale of chattels which have \u2019been fully executed.\n2. Contracts \u2014 breach.\u2014Where a contract for the sale of staves required the buyer to make advancements on the staves in the woods, a breach by the buyer is shown where it is proved that the buyer refused to make further advances under the contract.\n3. Accord and satisfaction \u2014 acceptance of check. \u2014 Acceptance of a check, stated in an accompanying letter to be \u201cbalance due you according to -our books,\u201d is not conclusive as to a disputed claim growing out of an alleged breach of contract.\nAppeal from Stone Chancery Court; Lymcm F. Reeder, Chancellor;\n.affirmed.\nMehaffy, Donham S Mehaffy, for appellant.\nNo liability under contract between appellees and Mabry & Son, which was not included in sale -to appellant nor assigned to it. Sec. 481, C. & M. Digest; 2 R. C. L. 625. Nor was there a breach of contract by appellant. There was an accord and satisfaction of all claims of appellees. 148 Ark. 512. Appellees not entitled in any event to recover for staves left in the woods, $1,400. Nor for the 205,000 staves never manufactured, nor for loss on timber purchased for -but not made into staves, $2,000. There is no testimony whatever to show any loss by inspection. Decree should be reversed, and cause dismissed.\nBen B. Williamson and Rogers, Barber $ Henry, for appellees.\nThe evidence shows that the contract between appellees and Mabry & Son was fully performed by them and appellant. Contract was breached by appellant\u2019s failure to malee advances in accordance with its terms. There was no accord and satisfaction. 1 Words & Phrases, 44; 141 Mo. App. 5,121 S. W. 774; 148 Ark. 658; 129 Ark. 82."
+  },
+  "file_name": "0512-01",
+  "first_page_order": 536,
+  "last_page_order": 542
+}

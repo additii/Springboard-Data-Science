@@ -1,0 +1,78 @@
+{
+  "id": 12462900,
+  "name": "State, Respondent, v. Norman, Petitioner",
+  "name_abbreviation": "State v. Norman",
+  "decision_date": "2016-11-02",
+  "docket_number": "No. 93320-1",
+  "first_page": "1020",
+  "last_page": "1020",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "186 Wash. 2d 1020"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Wash.",
+    "id": 9029,
+    "name": "Washington Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 38,
+    "name_long": "Washington",
+    "name": "Wash."
+  },
+  "cites_to": [
+    {
+      "cite": "194 Wn. App. 1023",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        12451762,
+        12451763,
+        12451764,
+        12451765
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/194/1023-01",
+        "/wash-app/194/1023-02",
+        "/wash-app/194/1023-03",
+        "/wash-app/194/1023-04"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 27,
+    "char_count": 187,
+    "ocr_confidence": 0.876,
+    "sha256": "94dcf743633adb19a5fbf17bc16935ccc7b793b3003abe7de1069de963cb94a6",
+    "simhash": "1:0531626b3c614d51",
+    "word_count": 31
+  },
+  "last_updated": "2024-02-27T18:43:05.207238+00:00",
+  "provenance": {
+    "date_added": "2019-05-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "State, Respondent, v. Norman, Petitioner,"
+    ],
+    "opinions": [
+      {
+        "text": "Petition for review of a decision of the Court of Appeals, No. 75031-3-I, June 6, 2016, 194 Wn. App. 1023. Denied November 2, 2016.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "State, Respondent, v. Norman, Petitioner,\nNo. 93320-1."
+  },
+  "file_name": "1020-02",
+  "first_page_order": 1006,
+  "last_page_order": 1006
+}

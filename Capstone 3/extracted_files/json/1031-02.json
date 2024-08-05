@@ -1,0 +1,76 @@
+{
+  "id": 12462987,
+  "name": "Sims, Petitioner, v. Dep't of Labor & Indus., Respondent",
+  "name_abbreviation": "Sims v. Dep't of Labor & Indus.",
+  "decision_date": "2016-12-07",
+  "docket_number": "No. 93520-3",
+  "first_page": "1031",
+  "last_page": "1031",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "186 Wash. 2d 1031"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Wash.",
+    "id": 9029,
+    "name": "Washington Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 38,
+    "name_long": "Washington",
+    "name": "Wash."
+  },
+  "cites_to": [
+    {
+      "cite": "195 Wn. App. 273",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        12454226
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/195/0273-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 29,
+    "char_count": 204,
+    "ocr_confidence": 0.865,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.25766946258256757
+    },
+    "sha256": "de54e84f6a8114a1964a052ddd8fda97c09c0e8d28908a76b2059bb6403d45e7",
+    "simhash": "1:857006ba534ddc22",
+    "word_count": 34
+  },
+  "last_updated": "2024-02-27T18:43:05.207238+00:00",
+  "provenance": {
+    "date_added": "2019-05-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Sims, Petitioner, v. Dep\u2019t of Labor & Indus., Respondent,"
+    ],
+    "opinions": [
+      {
+        "text": "Petition for review of a decision of the Court of Appeals, No. 47604-5-II, July 26, 2016, 195 Wn. App. 273. Denied December 7, 2016.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Sims, Petitioner, v. Dep\u2019t of Labor & Indus., Respondent,\nNo. 93520-3."
+  },
+  "file_name": "1031-02",
+  "first_page_order": 1017,
+  "last_page_order": 1017
+}

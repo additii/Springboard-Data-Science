@@ -1,0 +1,385 @@
+{
+  "id": 8720128,
+  "name": "Smith v. State",
+  "name_abbreviation": "Smith v. State",
+  "decision_date": "1923-09-24",
+  "docket_number": "",
+  "first_page": "178",
+  "last_page": "181",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "160 Ark. 178"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [
+    {
+      "cite": "131 Ark. 312",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1578599
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/131/0312-01"
+      ]
+    },
+    {
+      "cite": "138 Ark. 594",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1566965
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/138/0594-01"
+      ]
+    },
+    {
+      "cite": "150 Ark. 27",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1367929
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/150/0027-01"
+      ]
+    },
+    {
+      "cite": "109 Ark.. 193",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1341201
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/109/0193-01"
+      ]
+    },
+    {
+      "cite": "102 Ark. 180",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1354021
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/102/0180-01"
+      ]
+    },
+    {
+      "cite": "60 Am. Rep. 673",
+      "category": "reporters:state_regional",
+      "reporter": "Am. Rep.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "111 Ind. 59",
+      "category": "reporters:state",
+      "reporter": "Ind.",
+      "case_ids": [
+        1353680
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ind/111/0059-01"
+      ]
+    },
+    {
+      "cite": "40 L. R. A., N.'S. 1213",
+      "category": "reporters:federal",
+      "reporter": "L.R.A.N.S.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "123 Pac.. 1076",
+      "category": "reporters:state_regional",
+      "reporter": "P.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "68 Wash. 654",
+      "category": "reporters:state",
+      "reporter": "Wash.",
+      "case_ids": [
+        563364
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/wash/68/0654-01"
+      ]
+    },
+    {
+      "cite": "227 S. W. 186",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "case_ids": [
+        10303374
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/sw/227/0186-01"
+      ]
+    },
+    {
+      "cite": "17 Ark. 332",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        8725914
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/17/0332-01"
+      ]
+    },
+    {
+      "cite": "154 Ark. 596",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1361193
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/154/0596-01"
+      ]
+    },
+    {
+      "cite": "50 Ark. 492",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        8723936
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/50/0492-01"
+      ]
+    },
+    {
+      "cite": "45 Ark. 143",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1892049
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/45/0143-01"
+      ]
+    },
+    {
+      "cite": "29 Ark. 248",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1882893
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/29/0248-01"
+      ]
+    },
+    {
+      "cite": "25 Ark. 83",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1864477
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "106"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/25/0083-01"
+      ]
+    },
+    {
+      "cite": "12 Ark. 65",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        8727687
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/12/0065-01"
+      ]
+    },
+    {
+      "cite": "11 Ark. 328",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        8727766
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "455"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/11/0328-01"
+      ]
+    },
+    {
+      "cite": "10 Ark. 536",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        8727900
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/10/0536-01"
+      ]
+    },
+    {
+      "cite": "7 Ark. 60",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "91 Ark. 497",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1511781
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/91/0497-01"
+      ]
+    },
+    {
+      "cite": "66 Ark. 264",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1909771
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/66/0264-01"
+      ]
+    },
+    {
+      "cite": "24 Am. Rep. 808",
+      "category": "reporters:state_regional",
+      "reporter": "Am. Rep.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "150 Ark. 32",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "144 Ind. 86",
+      "category": "reporters:state",
+      "reporter": "Ind.",
+      "case_ids": [
+        1633590
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ind/144/0086-01"
+      ]
+    },
+    {
+      "cite": "22 So. 138",
+      "category": "reporters:state_regional",
+      "reporter": "So.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "49 Ala. 396",
+      "category": "reporters:state",
+      "reporter": "Ala.",
+      "case_ids": [
+        5475073
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ala/49/0396-01"
+      ]
+    },
+    {
+      "cite": "150 Ark. 27",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1367929
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/150/0027-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 425,
+    "char_count": 7678,
+    "ocr_confidence": 0.494,
+    "pagerank": {
+      "raw": 1.2121381306667129e-07,
+      "percentile": 0.596205415836985
+    },
+    "sha256": "0dfbaea72efb6bc5bb0599f9133a88e6d2861841d675f3d97096c37b771df8c9",
+    "simhash": "1:83abc41c8ea4453a",
+    "word_count": 1377
+  },
+  "last_updated": "2024-02-27T17:41:07.582861+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Smith v. State."
+    ],
+    "opinions": [
+      {
+        "text": "Wood, J.\nThe appellant was indicted by the Lawrence Circuit Court for the crime of murder in the first degree in the killing of one Wash McCutcheon. He was tried, convicted of voluntary manslaughter, and sentenced by judgment of the court to imprisonment in the State Penitentiary for a period of seven years.\n1. The appellant contends that the evidence is not sufficient to sustain the verdict. It could serve no useful purpose as a precedent to set out and discuss the evidence in detail. Our conclusion is that the cause, is one that should have been submitted to the jury under the evidence, and, since there was testimony legally sufficient to sustain the verdict of the jury, the same is conclusive here as to the guilt of the appellant.\n2. The record shows that a \u201cjury of twelve men was selected, impaneled and sworn to try the case as provided by law.\u201d It further shows that only three of these jurors were sworn on their voir dire to answer such questions as might be asked them touching their qualifications as jurors in the cause. Our statute provides: \u201cIn a prosecution for a felony, the clerk, under the direction of the court, shall draw from the jury box the names of twelve petit jurors, who shall be sworn to make true and perfect answers to such questions as may be asked them touching their qualifications as jurors in the case on trial, and each juror may be examined by the State and cross-examined by the defendant touching his qualification.\u201d Section 3144, C. & M. Digest. The record shows that the appellant and his counsel were present the cause, and it does not appear that he objected because some of the jurors were selected, impaneled, and when the jury was selected, impaneled, and sworn to try sworn to try the cause without being sworn on their voir dire to answer questions touching their qualifications as jurors. The appellant therefore must be held to have waived this requirement of the statute. The statute is not mandatory in the sense that a. trial, if otherwise regular, will be vitiated because of the failure or oversight of the trial judge to have the jurors sworn on their voir dire. If the appellant had asked the trial court to have the jurors sworn and the court had refused, this would have been an error fatal to the proceedings; but, since appellant did not ask that the jurors be sworn on their voir dire, but permitted the jury to be \u25a0selected, impaneled, and sworn to try the cause without requesting the court to have them sworn on their voir dire touching their qualifications as jurors, he could not do so thereafter, and for the first time, on his motion for a new trial. The oversight on the part of the trial judge in not having the veniremen sworn on their voir dire was an irregularity which could be, and was, waived by the appellant.\n3. The eleventh ground of appellant\u2019s motion for a new trial is as follows: \u201cBecause the verdict of the jury was reached by lot and by chance, and was not the ver-diet of the jury, because the jury was divided, eight for manslaughter and four for murder in the second degree, and those who were in favor of manslaughter made the proposition to those who were in favor of murder in the second degree that if they would come down to manslaughter they' could fix the number of years in the penitentiary, and that this proposition was accepted by all the jurors, and the offense was fixed at manslaughter, and the four who were in favor of murder in the second degree fixed the penalty at seven years in the penitentiary.\u201d The appellant offered the affidavits of four of the trial jury to establish the above ground of his motion for a new trial. But the allegations, if established, do not prove that the verdict was arrived at by lot, and therefore the testimony of these jurors was not competent to prove the facts set up in the 11th ground of the motion. Arnold v. State, 150 Ark. 27-32.\n4. For the same reason the appellant would not be permitted to prove by certain jurors that they were influenced in their verdict because J. J. Baker, one of the jurors, said to the other jurors, while they were deliberating on their verdict, that his brother-in-law, Bill Teele, who was a juror at a former trial of the case, told him that the jury in the former trial was hung six to six; six in favor of murder in the first degree, and six in favor of acquittal.\nThe record presents no error prejudicial to the appellant. The judgment is therefore affirmed.",
+        "type": "majority",
+        "author": "Wood, J."
+      }
+    ],
+    "attorneys": [
+      "Ponder & Gibson, for appellant.",
+      "J. 8. Utley, Attorney General; John L. Carter, Wm. T. Hammoch and Darden Moose, Assistants, for ap-pellee."
+    ],
+    "corrections": "",
+    "head_matter": "Smith v. State.\nOpinion delivered September 24, 1923.\nCriminal law \u2014 conclusiveness of verdict. \u2014 Where a criminal cause was one that should have been submitted to the jury, and there was testimony legally sufficient to sustain the verdict, the same is conclusive on appeal.\nCriminal law \u2014 oath of jurors \u2014 waiver.\u2014Where defendant and his \u25a0 counsel were present when the jury was selected, impaneled and sworn, and did not object because all of them were not sworn on their voir dire, as required by Crawford & Moses\u2019 Dig., \u00a7 3144, the irregularity was waived.\nCriminal law \u2014 new trial \u2014 competency of juror\u2019s testimony. \u2014Under Crawford & Moses\u2019 Dig., \u00a7 3220, providing that a juror cannot be examined to establish a ground for new trial, except it be to establish, as a ground for a new trial, that the verdict was made by lot, held that where jurors in favor of conviction for manslaughter agreed that, if jurors in favor of conviction for murder would agree to convict for manslaughter, they 'might fix the punishment, the verdict was not' reached by lot, and hence testimony of jurors to show the mode of reaching the verdict was. incompetent.\nCriminal law \u2014 competency of juror\u2019s testimony. \u2014 Defendant, on \u00e1'motion for new trial, could not prove by the jurors that they were influenced by the statement of a juror that on a former trial the jury were equally divided in favor of acquittal and conviction for murder in the first degree.\nAppeal from Lawrence Circuit Court, Eastern District; Dene H. Coleman, Judge;\naffirmed;\nPonder & Gibson, for appellant.\n1. The verdict was arrived at by lot, \u201ca contrivance to determine a question by chance or without the action of man\u2019s choice.\u201d By the agreement and compromise of the jury, eight men divested themselves of any voice in the fixing of the punishment of the defendant. Webster\u2019s Diet.; 49 Ala. 396; 22 So. 138; 34 Id. 1019; 144 Ind. 86; 150 Ark. 32. The verdict was in the nature of a quotient verdict. 24 Am. Rep. 808 and not\u00e9; Thompson, Trials, \u00a7 2602; Thompson & Merr., Juries, \u00a7 409; 66 Ark. 264; 91 Ark. 497.\n2. Four of the jurors were not sworn on their voir dire examination as required by law. Constitution, Art. 2, \u00a7 10; C. & M. Dig. \u00a7 3144. Unless tlie record shows that the jury .were duly sworn to try the case, the judgment must be reversed. 7 Ark. 60; 10 Ark. 536; 11 Ark. 328; Id. 455; 12 Ark. 65; 25 Ark. 83; Id. 106; Id. 282; 29 Ark. 248; 45 Ark. 143; 50 Ark. 492; 154 Ark. 596; 17 Ark. 332; 227 S. W. 186; 68 Wash. 654; 123 Pac.. 1076; 40 L. R. A., N.'S. 1213; 111 Ind. 59 ; 60 Am. Rep. 673; 102 Ark. 180.\nJ. 8. Utley, Attorney General; John L. Carter, Wm. T. Hammoch and Darden Moose, Assistants, for ap-pellee.\n1. The facts show that this was neither a lot verdict nor a quotient verdict. The affidavits of juror's could not be taken to impeach the verdict. 0. & M. Dig; \u00a7 3220 and Ark. cases there cited; 109 Ark.. 193;' 150 \u00c1rk. 27; 138 Ark. 594; 131 Ark. 312.\n2. The record reflects that the jury was duly and regularly selected, impaneled and sworn. If, however, any of the jurors were not sworn on their voir dire, that was an irregularity only, to which objection should have been made at the time, and the failure to do so amounted to a waiver."
+  },
+  "file_name": "0178-01",
+  "first_page_order": 202,
+  "last_page_order": 205
+}

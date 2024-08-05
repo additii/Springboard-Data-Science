@@ -1,0 +1,150 @@
+{
+  "id": 8725193,
+  "name": "Munson v. Wade",
+  "name_abbreviation": "Munson v. Wade",
+  "decision_date": "1927-09-26",
+  "docket_number": "",
+  "first_page": "880",
+  "last_page": "886",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "174 Ark. 880"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [
+    {
+      "cite": "291 S. W. 807",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "172 Ark. 1096",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1407853
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/172/1096-01"
+      ]
+    },
+    {
+      "cite": "290 S. W. 929",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "172 Ark. 804",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1407989
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/172/0804-01"
+      ]
+    },
+    {
+      "cite": "281 S. W. 360",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "170 Ark. 729",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1371631
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/170/0729-01"
+      ]
+    },
+    {
+      "cite": "48 S. W. 56",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "pin_cites": [
+        {
+          "page": "59"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "48 Ark. 557",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1887763
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/48/0557-01"
+      ]
+    },
+    {
+      "cite": "22 Am. Dec. 236",
+      "category": "reporters:federal",
+      "reporter": "Am. Dec.",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 572,
+    "char_count": 12086,
+    "ocr_confidence": 0.509,
+    "pagerank": {
+      "raw": 6.390318350503573e-08,
+      "percentile": 0.3956670832932731
+    },
+    "sha256": "b52b2f87f3bb5246cd408b93090886b070fb147cdbac7489bff3147d6b5def26",
+    "simhash": "1:b6272d4cc7edac50",
+    "word_count": 2072
+  },
+  "last_updated": "2024-02-27T16:23:40.975481+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Munson v. Wade."
+    ],
+    "opinions": [
+      {
+        "text": "Wood, J.\nThe facts, as stated hy counsel for the appellant, are as follows:\nOn and prior to April 18, 1925, appellant was the owner and in possession of an unexpired lease on ten acres of land in Washington County, which was to continue so long as the strawberries growing thereon should produce a paying crop; on the 18th of April, 1925, this lease was sold under an execution levied out of the circuit court of Washington County upon a judgment against the appellant and in favor of the Mcllroy Banking Company. At this execution sal\u00e9 the appellee, H. K. Wade, became the purchaser of the unexpired lease; the sheriff executed to Wade a certificate of purchase.\nOn April 17, 1926, within a year from the date of the execution sale,.appellant paid into the office of the circuit clerk of Washington County the sale price of the lease, fifteen per cent, additional, and the cost of the action, for the purpose of redeeming the lease from the execution sale so made to Wade, .the clerk issued, a receipt for the money so paid, and appellant thereupon asserted his right to the possession of the leasehold.\nAfter the expiration of one year from the date of the execution sale, and after the redemption by the execution debtor, H. K. Wade, the purchaser, with knowledge of the redemption, demanded and received from the sheriff of Washington County a sheriff\u2019s deed conveying to him the leasehold involved. The exact date of this deed is uncertain, for the reason that the deed itself is not dated, but it was recorded, as shown by the transcript, on the 6th day of May, 1926; it does not appear to have been acknowledged. Thereupon the appellee brought this action for an injunction to restrain the appellant from interfering with the appellee in the possession of said leasehold. The chancery court in its decree held that a lease is a mere chattel and not subject to redemption, and granted the injunction prayed for.\nFor the purposes of our decision we accept the above as a correct and succinct statement of the facts. It thus appears that the only question for decision is whether or not an unexpired lease of land for agricultural purposes, when sold under execution, is subject to redemption under the laws of Arkansas. The statutes concerning the sale of real property under execution and the redemption from such sale are contained in \u00a7\u00a7 4223 to 4333 inclusive, chapter 59, of Crawford & Moses\u2019 Digest. In these sections the terms \u201creal property,\u2019\u2019\u2019 \u201creal estate,\u201d \u201cland,\u201d and \u201cpremises\u201d are all used interchangeably and mean the same thing. The particular section under which appellant claims the right to redeem reads as follows:\n\u201cSection 4329. When any real estate, or any interest therein/ is sold under execution, the same may be redeemed by the debtor from, the purchaser, or his vendees, or the personal representatives of either, within twelve months thereafter. \u2019 \u2019\nSection 6299, C. & M., declares that a judgment obtained in the courts therein named, including the circuit court, shall be a lien on the real estate owned'by the defendant in the county in which the judgment was rendered from the date of its rendition. We have no statute which, in specific terms, declares that a judgment lien on land or real estate includes, under these terms, likewise a leasehold interest in such land for any purpose, much less for agricultural purposes. Mr. Freeman says:\n\u201cA term of years in real estate was always, by the common law, regarded as a chattel. It was transferred as personal, and not \u2022 as real, estate. In this respect there was no difference between voluntary and involuntary transfers. Hence a leasehold interest in lands, for whatever term of years it may continue, must,. unless some statute directs otherwise, be levied upon and-sold as personal property. \u2019 \u2019 1 Freeman' on Executions, \u00a7 119.\nMany authorities are cited in note to sustain the text. \u25a0 Among them is Barr v. Doe, ex dem. Binford, 6 Blackford 335, 38 Amer. Dec. 146, where, among other things, it is said:\n- \u201cA term of years is a chattel interest. Upon the death of the tenant it does not descend to his heirs, but goes to his executor. In the division of property into real and personal, it is classed among, the latter. And in'England, upon a fieri facias against the goods and chattels of the debtor, it is liable to be seized-and sold.\u201d See also Coombs v. Jordan, 22 Am. Dec. 236.\nOur own court, in Lenow v. Fones, 48 Ark. 557, speaking through Chief Justice Cockrill, at piage 565, 48 S. W. 56, 59, says: \u2022 *\n\u201cNo proposition has been better settled, from the earliest days of the common law, than that a lease, of whatever duration, is but a chattel. It was at common law regarded within the definition of personal things, and, although it was denominated a chattel real to distinguish it from mere movables, it was not, when speaking with legal accuracy, considered as real estate. \u2019 \u2019\nNow, in the absence-of a statute changing this rule of the common law and declaring that a leasehold interest in lands is an estate or interest in the freehold or land itself, the rule of the common law must obtain, and such leasehold interest be considered as personal property. Therefore the question recurs whether the words \u201cor interest therein\u201d in the above statute are sufficient to embrace a leasehold interest in lands for a term of years for agricultural purposes. We do not believe that these words have that effect or that they were so intended by the Legislature.\nThe language of the statute clearly shows that it was only intended to include the freehold and any interest- or ownership in the freehold itself. A leasehold interest may be so worded as to give the lessee, during the time of his lease, an ownership or interest in the land itself; but the lease under consideration is not so phrased. \u201cAt common law, and generally in the United States, all annual crops which are raised by yearly mam urance and labor, and essentially owe their annual existence to cultivation by man, termed \u2018emblements,\u2019 and sometimes \u2018fructus industriales/ irrespective of their state of maturity, whether planted by the tenant or the owner of the soil, may be levied on as personal property. But, in several of the United States, execution levies are restricted to mature crops, and are not allowed as to unripe crops or as to growing crops not in a fit state to be gathered.\u201d \u201cPerennial plants and their ungath-ered products, such as trees, bushes, grasses, peaches, timber, fruit, etc., are incident to the soil and not subject to execution\u201d (as personal property). 17 Cyc. 941, \u00a7\u25a0\u00a7 3 and 4.\nA tenant under a lease of lands for the purpose of growing crops has no ownership or interest in the land itself on which the crops are grown. Therefore, from a sale of such lease under execution the tenant has no right to redeem under the above statute. To be sure, those leases which convey to the lessee an interest and easement in the land itself, such as gas and oil, and other mineral leases, and leases for the purpose of cutting and removing timber and other natural products which are a part of the land itself, would fall under a different rule; and we do not mean to hold that the statute under review would not be applicable to such leases. We are not called upon to decide and do not decide that question, but merely mention it to show the distinction between those leases and the lease under review. See Standard Oil Co. v. Oil Well Salvage Co., 170 Ark. 729, 281 S. W. 360; Shreveport Pipe Line Co., v. Bennett, 172 Ark. 804, 290 S. W. 929; Clark v. Dennis, 172 Ark. 1096, 291 S. W. 807.\nSection 4271, C. & M. Digest, provides: \u201cEvery unexpired lease of land shall be subject to execution and sale as real estate.\u201d Learned counsel for the appellant contend that, under this statute, the lease in controversy was real estate, but we do not concur in this view. The preceding section (4270) prescribes and classifies the property, real and personal, that may be sold under any execution upon any judgment, order or decree of a court of record, and, after specifying certain personal property, it mentions, in the sixth subdivision, all real estate whereof the defendant in the execution is seized in law or equity on the day of the rendition of the judgment order or decree whereon the execution issued, or at any time thereafter.\nSections 43'23 to 4328 inclusive prescribe the manner of sale of real property under execution, and \u00a7\u00a7 4341 et seq. prescribe the manner of sale for personal property under execution. The methods of procedure for the sale of real and personal property prescribed by these statutes are different. A consideration of these statutes convinces us that the purpose of \u00a7 4271, supra, was merely to declare that unexpired leases of land should he governed by the methods prescribed for the sale of real property, rather than the method prescribed for the sale of personal property mentioned in the statute. It was within the province of the Legislature to declare that unexpired leases of land, when subject to sale and execution, should be sold as real estate is sold, that is, after giving notice of the time, place, etc., the same as that required for the sale of real estate. But it will be observed that \u00a7 4271 does not declare that unexpired leases of land or real property are an interest in the real estate itself. It only provides that, in the execution and sale of such property, it should be governed by the same methods as are prescribed for real estate. Our conclusion with reference to this statute (\u00a7 4271) is that it is not sufficient to convert an unexpired lease of land for agricultural purposes (which, as we have seen, is a chattel real) into real estate or real property. We do not believe that such was the purpose of the Legislature, and therefore the redemption statute invoked by appellant in this case has no application.\nThe decree of the chancery court is in all things correct, and it must affirmed. It is so ordered.",
+        "type": "majority",
+        "author": "Wood, J."
+      }
+    ],
+    "attorneys": [
+      "B. J. Wilson and J. W. Grabiel, for appellant.",
+      "John Mayes and W. N. Ivie, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Munson v. Wade.\nOpinion delivered September 26, 1927.\nEXECUTION \u2014 right to Redemption.- \u2014 The terms, \u201creal property,\u201d \u201creal estate,\u201d \u201cland\u201d and \u201cpremises,\u201d in Crawford & M-oses-\u2019 Dig., \u00a7\u00a7 4253-4333, respecting execution sale and redemption therefrom, are used interchangeably and mean the same thing. i \u2014 I\nExecution \u2014 redemption of leasehold interest. \u2014 In the absence of a statute changing the common-law rule and declaring a leasehold interest ah estate o-r interest in freehold or land C-3 itself-, such interest must be considered as personal property, not subject to redemption from execution sale under Crawford & Moses\u2019 Dig., \u00a7 4329.\n3. Execution \u2014 redemption of real estate or interest therein.\u2014 Crawford & Moses\u2019 Dig., \u00a7 4329, authorizing redemption of real estate or interest therein, sold on execution, does not embrace a leasehold interest in land for a term of years for agricultural purposes.\n4. Landlord and tenant \u2014 interest in land.- \u2014 A leasehold interest may be so worded as to give the lessee an ownership or interest in land itself during the time of lease.\n5. Execution \u2014 right to levy on crops. \u2014 At common law all the annual crops may be levied on as personal property, irrespective of the state of maturity, whether planted by the tenant or by the owner of the soil.\n6. Execution \u2014 sale of leasehold interest \u2014 redemption. \u2014 A tenant under a lease of lands for the purpose of growing crops has no- ownership or lease in the land itself and no right to redeem from an execution sale of such lease under Crawford & Moses\u2019 Dig., \u00a7 4329.\n7. Execution- \u2014 sale of leasehold interest \u2014 redemption; \u2014 A lease of lands for agricultural purposes held not real estate under Crawford & Moses\u2019 Dig., \u00a7 4271, so as to authorize redemption from an execution sale thereof under \u00a7 4329, in view of \u00a7 4270, classifying property Subject to sale, and \u00a7\u00a7 4323-4328, 4341 et seq., describing different methods for the sale of real and personal . property. \u2019 \u2022\nAprpeal from Washington Chancery Court; Lee Seamster, Chancellor;\naffirmed.\nB. J. Wilson and J. W. Grabiel, for appellant.\nJohn Mayes and W. N. Ivie, for appellee."
+  },
+  "file_name": "0880-01",
+  "first_page_order": 898,
+  "last_page_order": 904
+}

@@ -1,0 +1,78 @@
+{
+  "id": 12457150,
+  "name": "State, Respondent, v. Dukes, Petitioner",
+  "name_abbreviation": "State v. Dukes",
+  "decision_date": "2016-06-29",
+  "docket_number": "No. 92895-9",
+  "first_page": "1038",
+  "last_page": "1038",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "185 Wash. 2d 1038"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Wash.",
+    "id": 9029,
+    "name": "Washington Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 38,
+    "name_long": "Washington",
+    "name": "Wash."
+  },
+  "cites_to": [
+    {
+      "cite": "192 Wn. App. 1044",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        12456259,
+        12456260,
+        12456261,
+        12456262
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/192/1044-01",
+        "/wash-app/192/1044-02",
+        "/wash-app/192/1044-03",
+        "/wash-app/192/1044-04"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 27,
+    "char_count": 189,
+    "ocr_confidence": 0.848,
+    "sha256": "63447653b38021d3c3fb0746d00f66f8bc983bf080c125d7a2c0bc8a99b6ca67",
+    "simhash": "1:24d9c2243d0d4c31",
+    "word_count": 31
+  },
+  "last_updated": "2024-02-28T00:06:59.447104+00:00",
+  "provenance": {
+    "date_added": "2019-05-22",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "State, Respondent, v. Dukes, Petitioner,"
+    ],
+    "opinions": [
+      {
+        "text": "Petition for review of a decision of the Court of Appeals, No. 46596-5-II, February 17, 2016, 192 Wn. App. 1044. Denied June 29, 2016.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "State, Respondent, v. Dukes, Petitioner,\nNo. 92895-9."
+  },
+  "file_name": "1038-06",
+  "first_page_order": 990,
+  "last_page_order": 990
+}

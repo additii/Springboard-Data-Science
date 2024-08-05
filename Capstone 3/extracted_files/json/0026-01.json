@@ -1,0 +1,87 @@
+{
+  "id": 1432060,
+  "name": "Cobb v. Franklin Fire Insurance Company of Philadelphia",
+  "name_abbreviation": "Cobb v. Franklin Fire Insurance",
+  "decision_date": "1933-03-20",
+  "docket_number": "4-2886",
+  "first_page": "26",
+  "last_page": "28",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "187 Ark. 26"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [
+    {
+      "cite": "22 S. W. (2d) 45",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "180 Ark. 500",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1393659
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/180/0500-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 239,
+    "char_count": 4017,
+    "ocr_confidence": 0.514,
+    "pagerank": {
+      "raw": 1.2240919645422112e-07,
+      "percentile": 0.6005572139534003
+    },
+    "sha256": "cdd9d314620ea1edc4089c40a97cd51399c15a7ea136d91e25152b76b7e66da8",
+    "simhash": "1:aa33b0cba804b42f",
+    "word_count": 651
+  },
+  "last_updated": "2024-02-27T21:18:50.990705+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "McHaney, J., dissents."
+    ],
+    "parties": [
+      "Cobb v. Franklin Fire Insurance Company of Philadelphia."
+    ],
+    "opinions": [
+      {
+        "text": "Humphreys, J.\nAppellant brought suit against appellee in the circuit court of Pulaski County, Second Division, to recover $1,580 on account of damage caused by fire to a building owned by C. W. Greenwood and insured by appellee.\nThe gist of the complaint was to the effect that C. W. Greenwood and wife executed notes and a mortgage to secure same on the property for $3,500 to the Exchange Trust Company, agent, which notes and mortgage were assigned to appellant for a valuable consideration on June 9, 1931, at which time the property was insured ag\u2019ainst loss by fire in favor of C. W. Greenwood and his mortgagee, as his interest might appear, in the sum of $3,000. The policy was obtained through the agency of Rightsell-Pearson-Collins-Barry-Donham, Inc., in the Southern Fire Insurance Company. When the policy expired on January 18,1932, said agency renewed the policy in appellee company, which it represented at the time, and charged the premium of $22.50 to C. W. Greenwood, who had a regular account with said agent. The renewal policy contained a mortgage clause providing that any loss thereunder should be paid.to Rightsell-Pearson-Collins-Barry-Donham, Inc., agents, and that appellee and said agency knew that appellant was the owner of the mortgage and placed the mortgage clause in the policy for appellant\u2019s benefit. The policy also contained a provision that, in the event the owner of the property failed to pay any premium due on the policy, the mortgagee, on demand, should pay same. Appellee reserved the right in the policy to cancel same as to the mortgagee (appellant) if he failed to pay the premium after ten days\u2019 notice of Greenwood\u2019s failure to pay same. C. W. Greenwood failed to pay the premium, and on February 6,1932, said agency, without notice to appellant, the mortgagee, of Greenwood\u2019s default, credited Greenwood\u2019s account with the amount of the premium and canceled and returned the policy to appellee. On March 29, 1932, the property was damaged by fire to the amount of $1,580, and appellee refused to pay appellant the loss sustained, under the mortgage clause, and the prayer of the complaint is for judgment for said amount.\nA demurrer was sustained to the complaint, and the complaint dismissed, from which is this appeal.\nIn sustaining the demurrer and dismissing the complaint, the trial court proceeded upon the theory that Rightsell-Pearson-Collins-Barry-Donham, Inc., was not only the agent of Greenwood and appellee for writing and canceling the policy, but was also the agent of appellant, mortgagee, for consenting to the cancellation.\nThis court ruled in Fireman\u2019s Insurance Company v. Simmons, 180 Ark. 500, 22 S. W. (2d) 45, that, if an insured authorizes a fire insurance agent to insure his.property in any company the agent represents, the general authority thus conferred authorizes the agent to waive a cancellation notice and renew the insurance in another company for the insured. This rule, however, has no application to a mortgagee who conferred no such authority on the agent of the owner of the property. Without such an understanding, express or implied, between the mortgagee and the agent, the agent would have no authority to waive notice of cancellation of a policy to the insured and leave the mortgagee unprotected. Under the terms of the policy, the mortgagee was entitled to ten days\u2019 notice of cancellation, so that he might pay the premium himself and continue the policy or obtain insurance elsewhere. According to the allegations of the complaint, he was not notified of the cancellation at all, although both the insured and its agent had knowledge that he (appellant) was the mortgagee.\nOn account of the error indicated, the judgment is reversed, and the cause is remanded with directions to overrule the demurrer and reinstate the complaint.\nMcHaney, J., dissents.",
+        "type": "majority",
+        "author": "Humphreys, J."
+      }
+    ],
+    "attorneys": [
+      "Horace Chamberlin, for appellant.",
+      "Verne McMillen, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Cobb v. Franklin Fire Insurance Company of Philadelphia.\n4-2886\nOpinion delivered March 20, 1933.\nHorace Chamberlin, for appellant.\nVerne McMillen, for appellee."
+  },
+  "file_name": "0026-01",
+  "first_page_order": 44,
+  "last_page_order": 46
+}

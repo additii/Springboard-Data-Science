@@ -1,0 +1,1970 @@
+{
+  "id": 12462718,
+  "name": "The State of Washington, Respondent, v. LG Electronics, Inc., et al., Petitioners",
+  "name_abbreviation": "State v. LG Electronics, Inc.",
+  "decision_date": "2016-07-14",
+  "docket_number": "No. 91263-7",
+  "first_page": "1",
+  "last_page": "31",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "186 Wash. 2d 1"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Wash.",
+    "id": 9029,
+    "name": "Washington Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 38,
+    "name_long": "Washington",
+    "name": "Wash."
+  },
+  "cites_to": [
+    {
+      "cite": "55 Me. L. Rev. 373",
+      "category": "journals:journal",
+      "reporter": "Me. L. Rev.",
+      "year": 2003,
+      "pin_cites": [
+        {
+          "page": "374"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "659 F.3d 842",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3839235
+      ],
+      "year": 2011,
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/659/0842-01"
+      ]
+    },
+    {
+      "cite": "28 U.S.C. \u00a7\u00a7 1711-1715",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "672 F.3d 661",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3736899
+      ],
+      "year": 2012,
+      "pin_cites": [
+        {
+          "page": "670-71"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/672/0661-01"
+      ]
+    },
+    {
+      "cite": "458 U.S. 592",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        636688
+      ],
+      "weight": 5,
+      "year": 1982,
+      "pin_cites": [
+        {
+          "page": "607"
+        },
+        {
+          "page": "3269"
+        },
+        {
+          "parenthetical": "citation omitted"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/458/0592-01"
+      ]
+    },
+    {
+      "cite": "324 U.S. 439",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6155729
+      ],
+      "weight": 3,
+      "year": 1945,
+      "pin_cites": [
+        {
+          "page": "450-51",
+          "parenthetical": "conspiracy in violation of antitrust laws is a wrong \"of grave public concern in which Georgia has an interest apart from that of particular individuals who may be affected.\""
+        },
+        {
+          "parenthetical": "conspiracy in violation of antitrust laws is a wrong \"of grave public concern in which Georgia has an interest apart from that of particular individuals who may be affected.\""
+        },
+        {
+          "parenthetical": "conspiracy in violation of antitrust laws is a wrong \"of grave public concern in which Georgia has an interest apart from that of particular individuals who may be affected.\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/324/0439-01"
+      ]
+    },
+    {
+      "cite": "938 F.2d 919",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10528834
+      ],
+      "year": 1991,
+      "pin_cites": [
+        {
+          "page": "927"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/938/0919-01"
+      ]
+    },
+    {
+      "cite": "474 F.2d 774",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1252132
+      ],
+      "year": 1973,
+      "pin_cites": [
+        {
+          "page": "777-78"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/474/0774-01"
+      ]
+    },
+    {
+      "cite": "504 P.2d 1139",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1973,
+      "opinion_index": 0
+    },
+    {
+      "cite": "81 Wn.2d 740",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1064050
+      ],
+      "year": 1973,
+      "pin_cites": [
+        {
+          "page": "746"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/81/0740-01"
+      ]
+    },
+    {
+      "cite": "544 P.2d 88",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1976,
+      "opinion_index": 0
+    },
+    {
+      "cite": "86 Wn.2d 331",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1117411
+      ],
+      "year": 1976,
+      "pin_cites": [
+        {
+          "page": "334"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/86/0331-01"
+      ]
+    },
+    {
+      "cite": "778 P.2d 1047",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1989,
+      "opinion_index": 0
+    },
+    {
+      "cite": "113 Wn.2d 288",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1172083
+      ],
+      "year": 1989,
+      "pin_cites": [
+        {
+          "page": "293"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/113/0288-01"
+      ]
+    },
+    {
+      "cite": "202 P.3d 924",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2009,
+      "opinion_index": 0
+    },
+    {
+      "cite": "165 Wn.2d 679",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        5751850
+      ],
+      "year": 2009,
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/165/0679-01"
+      ]
+    },
+    {
+      "cite": "51 N.E. 34",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.",
+      "year": 1898,
+      "opinion_index": 0
+    },
+    {
+      "cite": "58 Ohio St. 410",
+      "category": "reporters:state",
+      "reporter": "Ohio St.",
+      "case_ids": [
+        940934
+      ],
+      "year": 1898,
+      "pin_cites": [
+        {
+          "page": "415"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ohio-st/58/0410-01"
+      ]
+    },
+    {
+      "cite": "507 P.2d 144",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1973,
+      "pin_cites": [
+        {
+          "parenthetical": "quoting Wasteney v. Schott, 58 Ohio St. 410, 415, 51 N.E. 34 (1898)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "82 Wn.2d 1",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1130161
+      ],
+      "year": 1973,
+      "pin_cites": [
+        {
+          "page": "4-5",
+          "parenthetical": "quoting Wasteney v. Schott, 58 Ohio St. 410, 415, 51 N.E. 34 (1898)"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/82/0001-01"
+      ]
+    },
+    {
+      "cite": "127 U.S. 338",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3531500
+      ],
+      "weight": 3,
+      "year": 1888,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/127/0338-01"
+      ]
+    },
+    {
+      "cite": "29 P.2d 693",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1934,
+      "opinion_index": 0
+    },
+    {
+      "cite": "176 Wash. 391",
+      "category": "reporters:state",
+      "reporter": "Wash.",
+      "case_ids": [
+        862644
+      ],
+      "weight": 7,
+      "year": 1934,
+      "pin_cites": [
+        {
+          "page": "393"
+        },
+        {
+          "page": "393-96"
+        },
+        {
+          "page": "394-95"
+        },
+        {
+          "page": "394"
+        },
+        {
+          "page": "394-95"
+        },
+        {
+          "page": "393"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash/176/0391-01"
+      ]
+    },
+    {
+      "cite": "25 L. Ed. 194",
+      "category": "reporters:federal",
+      "reporter": "L. Ed.",
+      "case_ids": [
+        11283
+      ],
+      "weight": 2,
+      "year": 1878,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/98/0486-01"
+      ]
+    },
+    {
+      "cite": "691 P.2d 178",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1984,
+      "pin_cites": [
+        {
+          "parenthetical": "quoting United States v. Thompson, 98 U.S. (8 Otto) 486, 489-90, 25 L. Ed. 194 (1878)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "103 Wn.2d 111",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1134168
+      ],
+      "year": 1984,
+      "pin_cites": [
+        {
+          "page": "114",
+          "parenthetical": "quoting United States v. Thompson, 98 U.S. (8 Otto) 486, 489-90, 25 L. Ed. 194 (1878)"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/103/0111-01"
+      ]
+    },
+    {
+      "cite": "722 P.2d 1295",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1986,
+      "opinion_index": 0
+    },
+    {
+      "cite": "106 Wn.2d 466",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1195514
+      ],
+      "year": 1986,
+      "pin_cites": [
+        {
+          "page": "469"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/106/0466-01"
+      ]
+    },
+    {
+      "cite": "38 Stat. 730",
+      "category": "laws:leg_session",
+      "reporter": "Stat.",
+      "year": 1914,
+      "opinion_index": 0
+    },
+    {
+      "cite": "676 P.2d 963",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1984,
+      "opinion_index": 0
+    },
+    {
+      "cite": "100 Wn.2d 793",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1142094
+      ],
+      "year": 1984,
+      "pin_cites": [
+        {
+          "page": "799, 802-03"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/100/0793-01"
+      ]
+    },
+    {
+      "cite": "459 P.2d 633",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1969,
+      "opinion_index": 0
+    },
+    {
+      "cite": "77 Wn.2d 94",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1076407
+      ],
+      "year": 1969,
+      "pin_cites": [
+        {
+          "page": "98"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/77/0094-01"
+      ]
+    },
+    {
+      "cite": "682 P.2d 909",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1984,
+      "opinion_index": 0
+    },
+    {
+      "cite": "102 Wn.2d 1",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1137194
+      ],
+      "year": 1984,
+      "pin_cites": [
+        {
+          "page": "5"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/102/0001-01"
+      ]
+    },
+    {
+      "cite": "976 P.2d 616",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1999,
+      "pin_cites": [
+        {
+          "parenthetical": "alteration in original"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "137 Wn.2d 897",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        179355
+      ],
+      "year": 1999,
+      "pin_cites": [
+        {
+          "page": "901",
+          "parenthetical": "alteration in original"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/137/0897-01"
+      ]
+    },
+    {
+      "cite": "848 P.2d 1304",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1993,
+      "opinion_index": 0
+    },
+    {
+      "cite": "69 Wn. App. 369",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        1700404
+      ],
+      "year": 1993,
+      "pin_cites": [
+        {
+          "page": "372"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/69/0369-01"
+      ]
+    },
+    {
+      "cite": "86 P.3d 1166",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2004,
+      "pin_cites": [
+        {
+          "parenthetical": "interpretation of a statute"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "151 Wn.2d 221",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        428145
+      ],
+      "year": 2004,
+      "pin_cites": [
+        {
+          "page": "224",
+          "parenthetical": "interpretation of a statute"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/151/0221-01"
+      ]
+    },
+    {
+      "cite": "962 P.2d 104",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1998,
+      "opinion_index": 0
+    },
+    {
+      "cite": "136 Wn.2d 322",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        867945
+      ],
+      "year": 1998,
+      "pin_cites": [
+        {
+          "page": "329-30"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/136/0322-01"
+      ]
+    },
+    {
+      "cite": "103 P.3d 1230",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2005,
+      "pin_cites": [
+        {
+          "parenthetical": "CR 12(b)(6) rulings"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "153 Wn.2d 416",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        875639
+      ],
+      "year": 2005,
+      "pin_cites": [
+        {
+          "page": "422",
+          "parenthetical": "CR 12(b)(6) rulings"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/153/0416-01"
+      ]
+    },
+    {
+      "cite": "340 P.3d 915",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2014,
+      "pin_cites": [
+        {
+          "parenthetical": "footnotes omitted"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "185 Wn. App. 123",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        4359769
+      ],
+      "weight": 2,
+      "year": 2014,
+      "pin_cites": [
+        {
+          "page": "130",
+          "parenthetical": "footnotes omitted"
+        },
+        {
+          "page": "151"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/185/0123-01"
+      ]
+    },
+    {
+      "cite": "1983 WL 14950",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "year": 1983,
+      "pin_cites": [
+        {
+          "page": "*1-2",
+          "parenthetical": "unpublished"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "430 F. Supp. 2d 1164",
+      "category": "reporters:federal",
+      "reporter": "F. Supp. 2d",
+      "case_ids": [
+        5488447
+      ],
+      "year": 2006,
+      "pin_cites": [
+        {
+          "page": "1171-78"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/f-supp-2d/430/1164-01"
+      ]
+    },
+    {
+      "cite": "145 P. 458",
+      "category": "reporters:state_regional",
+      "reporter": "P.",
+      "year": 1915,
+      "opinion_index": 1
+    },
+    {
+      "cite": "83 Wash. 303",
+      "category": "reporters:state",
+      "reporter": "Wash.",
+      "case_ids": [
+        604105
+      ],
+      "year": 1915,
+      "pin_cites": [
+        {
+          "page": "304-06"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash/83/0303-01"
+      ]
+    },
+    {
+      "cite": "139 P. 194",
+      "category": "reporters:state_regional",
+      "reporter": "P.",
+      "year": 1914,
+      "pin_cites": [
+        {
+          "parenthetical": "same"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "78 Wash. 336",
+      "category": "reporters:state",
+      "reporter": "Wash.",
+      "case_ids": [
+        596582
+      ],
+      "year": 1914,
+      "pin_cites": [
+        {
+          "page": "337",
+          "parenthetical": "same"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash/78/0336-01"
+      ]
+    },
+    {
+      "cite": "117 P.2d 189",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1941,
+      "pin_cites": [
+        {
+          "parenthetical": "purchasing property as part of tax collecting duties"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "10 Wn.2d 474",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        2604706
+      ],
+      "year": 1941,
+      "pin_cites": [
+        {
+          "page": "478-80",
+          "parenthetical": "purchasing property as part of tax collecting duties"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/10/0474-01"
+      ]
+    },
+    {
+      "cite": "613 P.2d 784",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1980,
+      "pin_cites": [
+        {
+          "parenthetical": "same"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "93 Wn.2d 815",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1167764
+      ],
+      "year": 1980,
+      "pin_cites": [
+        {
+          "page": "821",
+          "parenthetical": "same"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/93/0815-01"
+      ]
+    },
+    {
+      "cite": "775 P.2d 953",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1989,
+      "pin_cites": [
+        {
+          "parenthetical": "collecting business and occupation taxes"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "113 Wn.2d 108",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1172092
+      ],
+      "year": 1989,
+      "pin_cites": [
+        {
+          "page": "112",
+          "parenthetical": "collecting business and occupation taxes"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/113/0108-01"
+      ]
+    },
+    {
+      "cite": "78 P.3d 1279",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2003,
+      "opinion_index": 1
+    },
+    {
+      "cite": "150 Wn.2d 540",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        9195051
+      ],
+      "year": 2003,
+      "pin_cites": [
+        {
+          "page": "550"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/150/0540-01"
+      ]
+    },
+    {
+      "cite": "980 P.2d 1234",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1999,
+      "opinion_index": 1
+    },
+    {
+      "cite": "138 Wn.2d 561",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        887416
+      ],
+      "year": 1999,
+      "pin_cites": [
+        {
+          "page": "571"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/138/0561-01"
+      ]
+    },
+    {
+      "cite": "317 P.3d 1037",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2014,
+      "pin_cites": [
+        {
+          "parenthetical": "internal quotation marks omitted"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "179 Wn.2d 737",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4033710
+      ],
+      "year": 2014,
+      "pin_cites": [
+        {
+          "page": "750",
+          "parenthetical": "internal quotation marks omitted"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/179/0737-01"
+      ]
+    },
+    {
+      "cite": "Ark. Code Ann. \u00a7 4-75-320",
+      "category": "laws:leg_statute",
+      "reporter": "Ark. Code Ann.",
+      "pin_cites": [
+        {
+          "parenthetical": "five years"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "W. Va. Code \u00a7 47-18-11",
+      "category": "laws:leg_statute",
+      "reporter": "W. Va. Code",
+      "opinion_index": 1
+    },
+    {
+      "cite": "Utah Code Ann. \u00a7 76-10-3117",
+      "category": "laws:leg_statute",
+      "reporter": "Utah Code Ann.",
+      "pin_cites": [
+        {
+          "page": "(1)"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "S.D. Codified Laws \u00a7 37-1-14.4",
+      "category": "laws:leg_statute",
+      "reporter": "S.D. Codified Laws",
+      "opinion_index": 1
+    },
+    {
+      "cite": "6 R.I. Gen. Laws \u00a7 6-36-23",
+      "category": "laws:leg_statute",
+      "reporter": "R.I. Gen. Laws",
+      "opinion_index": 1
+    },
+    {
+      "cite": "N.H. Rev. Stat. Ann. \u00a7 356:12",
+      "category": "laws:leg_statute",
+      "reporter": "N.H. Rev. Stat. Ann.",
+      "pin_cites": [
+        {
+          "page": "(I)"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "Mass. Gen. Laws ch. 93, \u00a7 13",
+      "category": "laws:leg_statute",
+      "reporter": "Mass. Gen. Laws",
+      "opinion_index": 1
+    },
+    {
+      "cite": "Idaho Code \u00a7 48-115",
+      "category": "laws:leg_statute",
+      "reporter": "Idaho Code",
+      "pin_cites": [
+        {
+          "page": "(1)"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "Fla. Stat. \u00a7 542.56",
+      "category": "laws:leg_statute",
+      "reporter": "Fla. Stat.",
+      "pin_cites": [
+        {
+          "page": "(1)"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "D.C. Code \u00a7 28-4511",
+      "category": "laws:leg_statute",
+      "reporter": "D.C. Code",
+      "pin_cites": [
+        {
+          "page": "(b)"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "Colo. Rev. Stat. \u00a7 6-4-118",
+      "category": "laws:leg_statute",
+      "reporter": "Colo. Rev. Stat.",
+      "pin_cites": [
+        {
+          "page": "(1)"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "Cal. Bus & Prof. Code \u00a7 16750.1",
+      "category": "laws:leg_statute",
+      "reporter": "Cal. Code",
+      "opinion_index": 1
+    },
+    {
+      "cite": "Alaska Stat. \u00a7 45.50.588",
+      "category": "laws:leg_statute",
+      "reporter": "Alaska Stat.",
+      "opinion_index": 1
+    },
+    {
+      "cite": "W. Va. Code \u00a7 47-18-17",
+      "category": "laws:leg_statute",
+      "reporter": "W. Va. Code",
+      "pin_cites": [
+        {
+          "page": "(a)"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "Va. Code Ann. \u00a7 59.1-9.15",
+      "category": "laws:leg_statute",
+      "reporter": "Va. Code Ann.",
+      "pin_cites": [
+        {
+          "page": "(d)"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "Utah Code Ann. \u00a7 76-10-3108",
+      "category": "laws:leg_statute",
+      "reporter": "Utah Code Ann.",
+      "pin_cites": [
+        {
+          "page": "(1)"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "S.D. Codified Laws \u00a7\u00a7 37-1-32",
+      "category": "laws:leg_statute",
+      "reporter": "S.D. Codified Laws",
+      "opinion_index": 1
+    },
+    {
+      "cite": "6 R.I. Gen. Laws \u00a7 6-36-12",
+      "category": "laws:leg_statute",
+      "reporter": "R.I. Gen. Laws",
+      "pin_cites": [
+        {
+          "page": "(a)"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "Or. Rev. Stat. \u00a7 646.775",
+      "category": "laws:leg_statute",
+      "reporter": "Or. Rev. Stat.",
+      "pin_cites": [
+        {
+          "page": "(1)(a)"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "Okla. Stat. tit. 79, \u00a7 205",
+      "category": "laws:leg_statute",
+      "reporter": "Okla. Stat.",
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "(A)(1)"
+        },
+        {
+          "page": "(C)"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "N.H. Rev. Stat. Ann. \u00a7 356:4",
+      "category": "laws:leg_statute",
+      "reporter": "N.H. Rev. Stat. Ann.",
+      "opinion_index": 1
+    },
+    {
+      "cite": "Mass. Gen. Laws ch. 93, \u00a7 9",
+      "category": "laws:leg_statute",
+      "reporter": "Mass. Gen. Laws",
+      "opinion_index": 1
+    },
+    {
+      "cite": "Md. Code Ann., Commercial Law \u00a7 11-209",
+      "category": "laws:leg_statute",
+      "reporter": "Md. Code Ann.",
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "(b)(5)"
+        },
+        {
+          "page": "(d)(1)"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "Idaho Code \u00a7 48-108",
+      "category": "laws:leg_statute",
+      "reporter": "Idaho Code",
+      "pin_cites": [
+        {
+          "page": "(2)"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "Haw. Rev. Stat. \u00a7 480-14",
+      "category": "laws:leg_statute",
+      "reporter": "Haw. Rev. Stat.",
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "(b)"
+        },
+        {
+          "page": "(b)",
+          "parenthetical": "eight years"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "Fla. Stat. \u00a7 542.22",
+      "category": "laws:leg_statute",
+      "reporter": "Fla. Stat.",
+      "pin_cites": [
+        {
+          "page": "(2)"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "D.C. Code \u00a7 28-4507",
+      "category": "laws:leg_statute",
+      "reporter": "D.C. Code",
+      "pin_cites": [
+        {
+          "page": "(b)"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "Del. Code Ann. tit. 6, \u00a7 2108",
+      "category": "laws:leg_statute",
+      "reporter": "Del. Code Ann.",
+      "pin_cites": [
+        {
+          "page": "(b)"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "Conn. Gen. Stat. \u00a7 35-32",
+      "category": "laws:leg_statute",
+      "reporter": "Conn. Gen. Stat.",
+      "opinion_index": 1
+    },
+    {
+      "cite": "Colo. Rev. Stat. \u00a7 6-4-111",
+      "category": "laws:leg_statute",
+      "reporter": "Colo. Rev. Stat.",
+      "pin_cites": [
+        {
+          "page": "(3)(a)"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "Cal. Bus. & Prof. Code \u00a7 16760",
+      "category": "laws:leg_statute",
+      "reporter": "Cal. Code",
+      "pin_cites": [
+        {
+          "page": "(a)(1)"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "Ark. Code Ann. \u00a7 4-75-315",
+      "category": "laws:leg_statute",
+      "reporter": "Ark. Code Ann.",
+      "pin_cites": [
+        {
+          "page": "(b)"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "Alaska Stat. \u00a7 45.50.577",
+      "category": "laws:leg_statute",
+      "reporter": "Alaska Stat.",
+      "pin_cites": [
+        {
+          "page": "(b)"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "694 P.2d 7",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1985,
+      "pin_cites": [
+        {
+          "parenthetical": "not exempting the State's escheat claim for abandoned utility deposits and dividends"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "103 Wn.2d 501",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1134131
+      ],
+      "year": 1985,
+      "pin_cites": [
+        {
+          "page": "507",
+          "parenthetical": "not exempting the State's escheat claim for abandoned utility deposits and dividends"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/103/0501-01"
+      ]
+    },
+    {
+      "cite": "510 P.2d 233",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1973,
+      "pin_cites": [
+        {
+          "parenthetical": "quoting same"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "82 Wn.2d 265",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1130202
+      ],
+      "year": 1973,
+      "pin_cites": [
+        {
+          "page": "276",
+          "parenthetical": "quoting same"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/82/0265-01"
+      ]
+    },
+    {
+      "cite": "481 P.2d 556",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1971,
+      "pin_cites": [
+        {
+          "parenthetical": "holding the defendant could assert a statute of limitations defense against the State, notwithstanding the exemptions of RCW 4.16.160, because the State's echeat claim was derivative of the underlying private individual's claim against the defendant"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "78 Wn.2d 961",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1072613
+      ],
+      "year": 1971,
+      "pin_cites": [
+        {
+          "page": "966",
+          "parenthetical": "holding the defendant could assert a statute of limitations defense against the State, notwithstanding the exemptions of RCW 4.16.160, because the State's echeat claim was derivative of the underlying private individual's claim against the defendant"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/78/0961-01"
+      ]
+    },
+    {
+      "cite": "74 P. 1022",
+      "category": "reporters:state_regional",
+      "reporter": "P.",
+      "year": 1904,
+      "pin_cites": [
+        {
+          "parenthetical": "collecting liquor license fees"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "34 Wash. 61",
+      "category": "reporters:state",
+      "reporter": "Wash.",
+      "case_ids": [
+        5212157
+      ],
+      "year": 1904,
+      "pin_cites": [
+        {
+          "page": "62-70",
+          "parenthetical": "collecting liquor license fees"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash/34/0061-01"
+      ]
+    },
+    {
+      "cite": "201 P.2d 136",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1948,
+      "pin_cites": [
+        {
+          "parenthetical": "preventing nepotism in governmental operations"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "32 Wn.2d 149",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        5304104
+      ],
+      "year": 1948,
+      "pin_cites": [
+        {
+          "page": "151-56",
+          "parenthetical": "preventing nepotism in governmental operations"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/32/0149-01"
+      ]
+    },
+    {
+      "cite": "403 P.2d 896",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1965,
+      "pin_cites": [
+        {
+          "parenthetical": "unraveling an invalidly incorporated municipality"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "66 Wn.2d 546",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1045417
+      ],
+      "year": 1965,
+      "pin_cites": [
+        {
+          "page": "546-49",
+          "parenthetical": "unraveling an invalidly incorporated municipality"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/66/0546-01"
+      ]
+    },
+    {
+      "cite": "633 P.2d 1329",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "weight": 2,
+      "year": 1981,
+      "pin_cites": [
+        {
+          "parenthetical": "holding RCW 4.16.160 inapplicable to a claim by the State for penalties/forfeitures because it is limited to remedial claims"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "96 Wn.2d 85",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1157677
+      ],
+      "year": 1981,
+      "pin_cites": [
+        {
+          "page": "89",
+          "parenthetical": "holding RCW 4.16.160 inapplicable to a claim by the State for penalties/forfeitures because it is limited to remedial claims"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/96/0085-01"
+      ]
+    },
+    {
+      "cite": "431 U.S. 720",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1590
+      ],
+      "weight": 3,
+      "year": 1977,
+      "pin_cites": [
+        {
+          "page": "728"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/431/0720-01"
+      ]
+    },
+    {
+      "cite": "531 F. Supp. 2d 1124",
+      "category": "reporters:federal",
+      "reporter": "F. Supp. 2d",
+      "case_ids": [
+        3127313
+      ],
+      "weight": 2,
+      "year": 2007,
+      "pin_cites": [
+        {
+          "page": "1140"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/f-supp-2d/531/1124-01"
+      ]
+    },
+    {
+      "cite": "359 P.3d 753",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2015,
+      "opinion_index": 1
+    },
+    {
+      "cite": "184 Wn.2d 428",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        12440921
+      ],
+      "year": 2015,
+      "pin_cites": [
+        {
+          "page": "440"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/184/0428-01"
+      ]
+    },
+    {
+      "cite": "164 P.3d 475",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2007,
+      "opinion_index": 1
+    },
+    {
+      "cite": "161 Wn.2d 129",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        3802111
+      ],
+      "year": 2007,
+      "pin_cites": [
+        {
+          "page": "146"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/161/0129-01"
+      ]
+    },
+    {
+      "cite": "328 P.3d 895",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2014,
+      "pin_cites": [
+        {
+          "parenthetical": "second and third alterations in original"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "180 Wn.2d 754",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4242206
+      ],
+      "year": 2014,
+      "pin_cites": [
+        {
+          "page": "766",
+          "parenthetical": "second and third alterations in original"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/180/0754-01"
+      ]
+    },
+    {
+      "cite": "730 P.2d 1327",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1986,
+      "opinion_index": 1
+    },
+    {
+      "cite": "107 Wn.2d 503",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1192350
+      ],
+      "year": 1986,
+      "pin_cites": [
+        {
+          "page": "509"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/107/0503-01"
+      ]
+    },
+    {
+      "cite": "317 P.3d 1003",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2014,
+      "opinion_index": 1
+    },
+    {
+      "cite": "179 Wn.2d 756",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4033548
+      ],
+      "year": 2014,
+      "pin_cites": [
+        {
+          "page": "761-62"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/179/0756-01"
+      ]
+    },
+    {
+      "cite": "504 P.2d 1139",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1973,
+      "opinion_index": 1
+    },
+    {
+      "cite": "81 Wn.2d 740",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1064050
+      ],
+      "year": 1973,
+      "pin_cites": [
+        {
+          "page": "746"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/81/0740-01"
+      ]
+    },
+    {
+      "cite": "544 P.2d 88",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1976,
+      "pin_cites": [
+        {
+          "parenthetical": "quoting Seaboard Surety for same description"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "86 Wn.2d 331",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1117411
+      ],
+      "year": 1976,
+      "pin_cites": [
+        {
+          "page": "334",
+          "parenthetical": "quoting Seaboard Surety for same description"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/86/0331-01"
+      ]
+    },
+    {
+      "cite": "778 P.2d 1047",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1989,
+      "pin_cites": [
+        {
+          "parenthetical": "citing Addleman v. Bd. of Prison Terms & Paroles, 107 Wn.2d 503, 509, 730 P.2d 1327 (1986)"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "113 Wn.2d 288",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1172083
+      ],
+      "year": 1989,
+      "pin_cites": [
+        {
+          "page": "292",
+          "parenthetical": "citing Addleman v. Bd. of Prison Terms & Paroles, 107 Wn.2d 503, 509, 730 P.2d 1327 (1986)"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/113/0288-01"
+      ]
+    },
+    {
+      "cite": "202 P.3d 924",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2009,
+      "pin_cites": [
+        {
+          "parenthetical": "citing Okeson v. City of Seattle, 150 Wn.2d 540, 550, 78 P.3d 1279 (2003)"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "165 Wn.2d 679",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        5751850
+      ],
+      "year": 2009,
+      "pin_cites": [
+        {
+          "page": "687",
+          "parenthetical": "citing Okeson v. City of Seattle, 150 Wn.2d 540, 550, 78 P.3d 1279 (2003)"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/165/0679-01"
+      ]
+    },
+    {
+      "cite": "507 P.2d 144",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1973,
+      "opinion_index": 1
+    },
+    {
+      "cite": "82 Wn.2d 1",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1130161
+      ],
+      "year": 1973,
+      "pin_cites": [
+        {
+          "page": "5"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/82/0001-01"
+      ]
+    },
+    {
+      "cite": "127 U.S. 338",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3531500
+      ],
+      "weight": 5,
+      "year": 1888,
+      "pin_cites": [
+        {
+          "page": "342",
+          "parenthetical": "recognizing that in some instances, an action by the government to set aside a land patent could involve a cognizable public interest"
+        },
+        {
+          "parenthetical": "recognizing that in some instances, an action by the government to set aside a land patent could involve a cognizable public interest"
+        },
+        {
+          "parenthetical": "recognizing that in some instances, an action by the government to set aside a land patent could involve a cognizable public interest"
+        },
+        {
+          "page": "346"
+        },
+        {
+          "page": "347"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/127/0338-01"
+      ]
+    },
+    {
+      "cite": "29 P.2d 693",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1934,
+      "opinion_index": 1
+    },
+    {
+      "cite": "176 Wash. 391",
+      "category": "reporters:state",
+      "reporter": "Wash.",
+      "case_ids": [
+        862644
+      ],
+      "weight": 6,
+      "year": 1934,
+      "pin_cites": [
+        {
+          "page": "393"
+        },
+        {
+          "page": "393"
+        },
+        {
+          "page": "394",
+          "parenthetical": "policy of protecting health of state workforce through workers compensation accident fund"
+        },
+        {
+          "page": "393"
+        },
+        {
+          "page": "393-95",
+          "parenthetical": "analyzing the legislative policy and statutory framework to determine whether the legislature intended actions brought by the State pursuant to the Workers' Compensation Act, Title 51 RCW, to be in furtherance of some public policy rather than for the benefit of private individuals"
+        },
+        {
+          "page": "393"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash/176/0391-01"
+      ]
+    },
+    {
+      "cite": "691 P.2d 178",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1984,
+      "pin_cites": [
+        {
+          "parenthetical": "building schools"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "103 Wn.2d 111",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1134168
+      ],
+      "year": 1984,
+      "pin_cites": [
+        {
+          "page": "115-16",
+          "parenthetical": "building schools"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/103/0111-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1978,
+    "char_count": 56497,
+    "ocr_confidence": 0.882,
+    "pagerank": {
+      "raw": 8.240703653463492e-08,
+      "percentile": 0.477569734760598
+    },
+    "sha256": "03ae675f99766aad2826eb650a0d03fd641f10deb061f11903c1ccfaa030286a",
+    "simhash": "1:98a0d25aeb761fbb",
+    "word_count": 9239
+  },
+  "last_updated": "2024-02-27T18:43:05.207238+00:00",
+  "provenance": {
+    "date_added": "2019-05-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Johnson, Owens, Fairhurst, Wiggins, and Yu, JJ., and Hunt, J. Pro Tem., concur.",
+      "Madsen, C.J., concurs with Gordon McCloud, J."
+    ],
+    "parties": [
+      "The State of Washington, Respondent, v. LG Electronics, Inc., et al., Petitioners."
+    ],
+    "opinions": [
+      {
+        "text": "Gonz\u00e1lez, J.\n\u00b61 Plaintiffs must file their lawsuits before the applicable statute of limitations runs or their suits will be dismissed as untimely. Historically, sovereigns were not subject to statutes of limitations without their explicit consent. Washington State has consented to some statutes of limitations but not to others. We are asked to decide whether our State has consented to a statute of limitations that would bar this antitrust suit filed by the Washington State attorney general on behalf of the State against more than 20 foreign electronics manufacturing companies. We find it has not and affirm.\nFacts\n\u00b62 On May 1, 2012, the State, through the attorney general, filed suit on behalf of itself and as parens patriae on behalf of persons residing in the state against a number of foreign electronics manufacturers. Clerk\u2019s Papers (CP) at 1-28. The State alleges that between at least March 1, 1995, through at least November 25, 2007, the defendants violated RCW 19.86.030, which prohibits any \u201ccontract, combination ... or conspiracy in restraint of trade or commerce,\" by agreeing to raise prices and agreeing on production levels in the market for CRTs (cathode ray tubes), the dominant display technology used in televisions and computer monitors before the advent of LCD (liquid crystal display) panels and plasma display technologies. Id. at 1, 2, 24, 27. Due to this unlawful conspiracy, the State alleges, Washington consumers and the State of Washington itself paid supracompetitive prices for CRT products. Id. at 14. The complaint seeks \u201cdamages, restitution, civil penalties, costs and fees, and injunctive relief.\u201d Id. at 2, 27-28.\n\u00b63 Ten of the defendants filed a motion to dismiss, arguing the claims were time barred because Washington\u2019s Consumer Protection Act (CPA), chapter 19.86 RCW, provides that actions for damages under RCW 19.86.090 must be brought within four years. CP at 29-59 (citing RCW 19.86.120). The State responded that RCW 19.86.120\u2019s statute of limitations did not apply to its claims under RCW 19.86.080. Id. at 46. The State also argued that it was exempt from the statute of limitations under RCW 4.16.160, which provides that \u201cthere shall be no limitation to actions brought in the name or for the benefit of the state.\u201d Id. at 48. The trial judge denied the motion to dismiss and certified the matter for discretionary review under RAP 2.3(b)(4). Id. at 95-96, 144. The Court of Appeals granted discretionary review of two questions:\n\u201c(1) Whether the four-year statute of limitations under RCW 19.86.120 applies to the Washington\u2019s Attorney General\u2019s Complaint brought pursuant to its parens patriae authority under RCW 19.86.080 that seeks actual damages for violations of RCW 19.86.030?\n\u201c(2) Whether RCW 4.16.160 should be applied to the Washington Attorney General\u2019s parens patriae antitrust lawsuit seeking actual damages and restitution for citizens of Washington?\u201d\nState v. LG Elecs., Inc., 185 Wn. App. 123, 130, 340 P.3d 915 (2014) (footnotes omitted).\n\u00b64 The Court of Appeals concluded that the CPA\u2019s four-year statute of limitations did not apply to actions for injunctive relief and restitution brought by the attorney general under RCW 19.86.080 (.080) because it expressly applies only to actions for damages under RCW 19.86.090. Id. at 139. It also concluded the State\u2019s .080 action was \u201cbrought for the benefit of the State\u201d and thus exempt from any general statute of limitations under RCW 4.16.160, and affirmed the trial court. Id. at 151. The defendants who moved to dismiss (collectively LG Electronics) successfully petitioned for our review.\nAnalysis\n\u00b65 Our review is de novo. Burton v. Lehman, 153 Wn.2d 416, 422, 103 P.3d 1230 (2005) (CR 12(b)(6) rulings) (citing Tenore v. AT&T Wireless Servs., 136 Wn.2d 322, 329-30, 962 P.2d 104 (1998)); Castro v. Stanwood Sch. Dist. No. 401, 151 Wn.2d 221, 224, 86 P.3d 1166 (2004) (interpretation of a statute) (citing State v. Karp, 69 Wn. App. 369, 372, 848 P.2d 1304 (1993)).\n\u00b66 The CPA authorizes both public and private enforcement of its provisions. RCW 19.86.080, .090. Under .080, the attorney general is authorized to bring an action \u201cin the name of the state, or as parens patriae on behalf of persons residing in the state\u201d for injunctive relief, and the court is authorized to make \u201cadditional orders ... as may be necessary to restore to any person in interest any moneys or property . . . which may have been acquired by means of [a prohibited] act.\u201d RCW 19.86.080(1), (2). RCW 19.86.080 directs the court to consider consolidating .080 actions with other related actions and to exclude from the amount of monetary relief awarded any amount that duplicates amounts already awarded for the same violation. RCW 19.86.080(3).\n\u00b67 RCW 19.86.090 (.090) authorizes private persons to sue for injunctive relief and \u201cactual damages,\u201d and it provides the court with discretion to increase the award of damages up to three times the actual damages sustained. It also authorizes the State, \u201c[w]henever [it] is injured, directly or indirectly,\u201d by a violation of the act to sue for its \u201cactual damages.\u201d The CPA\u2019s statute of limitations provision bars \u201cclaim[s] for damages under RCW 19.86.090\u201d if not commenced within four years. RCW 19.86.120.\n\u00b68 LG Electronics ask us to find that the State\u2019s .080 parens patriae claim for injunctive relief and restitution is barred by RCW 19.86.120, the CPA\u2019s statute of limitations for .090 damages claims. Alternatively, they contend that one of the general statutes of limitations in chapter 4.16 RCW applies: the catchall three-year statute of limitations for actions seeking recovery for \u201cany other injury to the person or rights of another,\u201d RCW 4.16.080(2), or the even broader catchall two-year limitations period for \u201c[a]n action for relief not hereinbefore provided,\u201d RCW 4.16.130. Suppl. Br. of Pet\u2019rs at 13-14. We find that by its plain language, RCW 19.86.120 does not apply to .080 claims. We also find that the State\u2019s action is not subject to the general statutes of limitation because RCW 4.16.160, which codifies the common law nullum tempus doctrine, applies. Under the nullum tempus doctrine, statutes of limitations do not run against the State unless the State expressly consents to the limitation on its sovereign powers.\nI. The CPA\u2019s Statute of Limitations Does Not Apply to the State\u2019s .080 Claims\n\u00b69 Reading the CPA as a whole, we conclude that the four-year statute of limitations of RCW 19.86.120 (.120) does not apply to .080 actions. First, by its plain language, .120 applies only to claims for damages under .090, which are distinct from claims under .080. Under the age old rule expressio unius est exclusio alterius, \u201c \u2018[w]here a statute specifically designates the things upon which it operates, there is an inference that the Legislature intended all omissions.\u2019 \u201d In re Pers. Restraint of Hopkins, 137 Wn.2d 897, 901, 976 P.2d 616 (1999) (alteration in original) (quoting Queets Band of Indians v. State, 102 Wn.2d 1, 5, 682 P.2d 909 (1984)); Wash. Nat. Gas Co. v. Pub. Util. Dist. No. 1 of Snohomish County, 77 Wn.2d 94, 98, 459 P.2d 633 (1969).\n\u00b610 Second, we note that legislative history supports the conclusion that the legislature intentionally excluded .080 claims from the limitations period in .120. In its original form, the CPA authorized the State to seek injunctive relief under .080 and authorized damages actions by both private parties and the State under .090. Laws of 1961, ch. 216, \u00a7\u00a7 8, 9. The act provided a statute of limitations for \u201cclaim [s] for damages under [.090],\u201d but did not reference .080 actions. Laws of 1961, ch. 216, \u00a7 12 (codified at RCW 19.86.120). In 1970, the legislature amended .080 to provide the court discretion to award monetary restitution pursuant to a state action for injunctive relief. Laws of 1970, 1st Ex. Sess., ch. 26, \u00a7 1. Again in 2007, the legislature amended .080 to add the language \u201cor as parens patriae on behalf of persons residing in the state\u201d and to expressly provide that for certain violations of the act, restitution may be awarded to persons in interest regardless of whether they were direct or indirect consumers of goods. Laws of 2007, ch. 66, \u00a7 1. Significantly, although the legislature also amended .120 in 1970 in other ways not relevant to this case, it has never amended it to encompass .080 claims. See Laws of 1970, 1st Ex. Sess., ch. 26, \u00a7 5. We decline to find that the legislature was absent minded, and instead we follow our long standing precedent that in such circumstances, \u201c \u2018the silence of the Legislature is telling\u2019 and must be given effect.\u201d Hopkins, 137 Wn.2d at 901 (quoting Queets Band of Indians, 102 Wn.2d at 5).\n\u00b611 LG Electronics argues that a four-year limitations period applies because the legislature explicitly directed courts to construe the CPA in harmony with federal antitrust statutes, and that under federal law, claims brought by state attorneys general are subject to a four-year limitations period. 15 U.S.C. \u00a7\u00a7 15b, 15c. While the CPA directs courts interpreting the act to \u201cbe guided by final decisions of the federal courts . . . interpreting the various federal statutes dealing with the same or similar matters,\u201d RCW 19.86.920, we have declined to follow federal law where the language and structure of the CPA departs from otherwise analogous federal provisions. See, e.g., State v. Black, 100 Wn.2d 793, 799, 802-03, 676 P.2d 963 (1984). While the CPA, like the Clayton Act, 38 Stat. 730 (1914), permits the state attorney general to bring a parens patriae action, the statutory parallel turns perpendicular at that point and so the federal statute dealing with limitations periods is not a helpful guide here. The federal Clayton Act authorizes state attorneys general to sue for treble damages for persons injured in their business or property under 15 U.S.C. \u00a7 15c. The Clayton Act\u2019s four-year statute of limitations provision expressly applies to actions brought pursuant to 15 U.S.C. \u00a7 15c. In contrast, the Washington Legislature authorized the attorney general to enjoin violations of the act and to recover money or property as restitution under .080, and in a separate statutory provision, .090, authorized treble damages claims by private persons for injuries to business and property and by the State for its direct and indirect injuries. The language of this statute of limitations includes only actions brought under .090.\n\u00b612 LG Electronics also urges us to find the four-year limitations period applies because there is \u201csignificant overlap\u201d between .080 and .090 claims. Suppl. Br. of Pet\u2019rs at 14-15. Petitioners posit that actions brought under .080 challenge \u201cidentical conduct by identical defendants as would an [.]090 damages claim expressly governed by the [.] 120 limitations period\u201d and so under Eastwood v. Cascade Broadcasting Co., 106 Wn.2d 466, 469, 722 P.2d 1295 (1986), \u201c[i]t is anomalous to treat those claims so differently for limitations purposes.\u201d Suppl. Br. of Pet\u2019rs at 15. But in Eastwood, we were asked to decide if the statute of limitations for \u201clibel\u201d and \u201cslander\u201d (defamation claims) encompassed false light invasion of privacy claims, which could be brought by the same plaintiff against the same defendant for the same conduct. 106 Wn.2d at 469. We analyzed the similarities between the elements of false light and defamation claims and concluded that \u201cthe theoretical difference between the two torts is that a defamation action is primarily concerned with compensating the injured party for damage to reputation, while an invasion of privacy action is primarily concerned with compensating for injured feelings or mental suffering[, but] [t]he two torts overlap ... when the statement complained of is both false and defamatory.\u201d Id. at 470-71. Thus, we concluded that where the facts in the false light case also give rise to a defamation claim, a plaintiff cannot avoid the two-year limitations period by characterizing it as a false light claim for statute of limitations purposes. Id. at 469. Here, however, RCW 19.86.120 expressly includes only .090 claims, which are qualitatively different from .080 claims, which can be brought only by the attorney general. The statute simply cannot be read to encompass .080 claims, and so Eastwood is not helpful.\n\u00b613 We cannot ignore the plain language of the statute or the relevant history that produced it. The legislature has expressly instructed that the State shall not be subject to the policies of preventing stale claims inherent in statutes of limitations because of competing policy considerations regarding the public welfare and the State\u2019s purse. RCW 4.16.160.\nII. The State\u2019s .080 Action Is Encompassed by RCW 4.16.160\n\u00b614 At common law, statutes of limitations did not run against the State under the old nullum tempus doctrine. Bellevue Sch. Dist. No. 405 v. Brazier Constr. Co., 103 Wn.2d 111, 114, 691 P.2d 178 (1984) (quoting United States v. Thompson, 98 U.S. (8 Otto) 486, 489-90, 25 L. Ed. 194 (1878)). The Washington Legislature codified the common law nullum tempus doctrine more than 100 years ago. Id. at 115 (citing Laws of 1903, ch. 24, \u00a7 1).\n\u00b615 RCW 4.16.160 provides:\nThe limitations prescribed in this chapter shall apply to actions brought in the name or for the benefit of any county or other municipality or quasimunicipality of the state, in the same manner as to actions brought by private parties: PROVIDED, That . . . there shall be no limitation to actions brought in the name or for the benefit of the state, and no claim of right predicated upon the lapse of time shall ever be asserted against the state.\n(Emphasis added.)\n\u00b616 The nullum tempus doctrine is related to the doctrine of sovereign immunity and the age-old principle that the sovereign\u2019s rules do not bind the sovereign itself unless the sovereign explicitly consented to be bound:\n\u201cThe common law fixed no time as to the bringing of actions. Limitations derive their authority from statutes. The king was held never to be included, unless expressly named. No laches was imputable to him. These exemptions were founded upon considerations of public policy. It was deemed important that, while the sovereign was engrossed by the cares and duties of his office, the public should not suffer by the negligence of his servants. \u2018In a representative government, where the people do not and cannot act in a body, where their power is delegated to others, and must of necessity be exercised by them, if exercised at all, the reason for applying these principles is equally cogent.\u2019\n\u201cWhen the colonies achieved their independence, each one took these prerogatives, which had belonged to the crown; and when the national Constitution was adopted, they were imparted to the new government as incidents of the sovereignty thus created. It is an exception equally applicable to all governments.\u201d\nBellevue Sch. Dist. No. 405, 103 Wn.2d at 114 (quoting Thompson, 98 U.S. at 489-90); see State v. Vinther, 176 Wash. 391, 393, 29 P.2d 693 (1934). Thus, unless there is an express provision to the contrary, no statute of limitations applies to actions in the name of or for the benefit of the State. Bellevue Sch. Dist. No. 405, 103 Wn.2d at 120. We find that the attorney general\u2019s .080 action is \u201cin the name of or for the benefit of... the state\u201d for the purposes of RCW 4.16.160.\n\u00b617 We have embraced the common law principle that where the State \u201cis a mere formal plaintiff in a suit, not for the purpose of asserting any public right or protecting any public interest, but merely to form a conduit through which one private person can conduct litigation against another private person,\u201d it is not immune from statutes of limitation under RCW 4.16.160. Vinther, 176 Wash. at 393 (citing United States v. Beebe, 127 U.S. 338, 8 S. Ct. 1083, 32 L. Ed. 121 (1888)); Herrmann v. Cissna, 82 Wn.2d 1, 4-5, 507 P.2d 144 (1973) (quoting Wasteney v. Schott, 58 Ohio St. 410, 415, 51 N.E. 34 (1898)). Thus, we have looked beyond simply whether the action is brought in the name of the State to the character and nature of the action, examining whether an action is for the purpose of protecting the public interest. Vinther, 176 Wash. at 393-96; Herrmann, 82 Wn.2d at 5-6; see Wash. State Major League Baseball Stadium Pub. Facilities Dist. v. Huber, Hunt, & Nichols-Kiewit Constr. Co., 165 Wn.2d 679, 202 P.3d 924 (2009).\n\u00b618 LG Electronics argues that the nature and character of the State\u2019s .080 action is not for the purpose of protecting the public\u2019s interest within the meaning of RCW 4.16.160. They characterize the action as one enforcing a private or individual right because the State seeks monetary restitution for Washington consumers. See Suppl. Br. of Pet\u2019rs at 11. But we have found state action may be exempt from limitations periods even when identifiable individuals may privately benefit from the state action. E.g., Vinther, 176 Wash. at 394-95; Herrmann, 82 Wn.2d at 5; see Wash. State Major League Baseball Stadium, 165 Wn.2d at 697 (\u201cThe ... language in RCW 4.16.160 is properly understood to refer to the character or nature of municipal conduct rather than its effect.\u201d (citing Wash. Pub. Power Supply Sys. v. Gen. Elec. Co., 113 Wn.2d 288, 293, 778 P.2d 1047 (1989))).\n\u00b619 In Vinther and Herrmann, we rejected arguments that state actions were subject to limitations periods merely because private individuals would benefit. Instead, we looked primarily to the statutory provisions that authorized the actions to determine whether they were for the benefit of the public generally, even if private individuals might benefit specifically. In Vinther, we considered whether the statute of limitations ran against the State in a suit to recover under workers\u2019 compensation laws. We turned to the workers\u2019 compensation act\u2019s declaration of purpose, which provided, \u201c \u2018The remedy of the workman has been uncertain, slow and inadequate. Injuries in such works, formerly occasional, have become frequent and inevitable. The welfare of the state depends upon its industries, and even more upon the welfare of its wage worker.\u2019 \u201d Vinther, 176 Wash. at 394 (quoting Rem. Rev. Stat. \u00a7 7673). We concluded that \u201cthe act, as a whole, is the exercise of a governmental function in the fullest sense of the word, having its support in the police power of the state.\u201d Id. at 394-95. Thus, the State was not \u201cmerely suing in its own name for the benefit of private individuals\u2014the contributors to the accident fund,\u201d but rather was \u201cacting in its sovereign capacity in furtherance of its public policy.\u201d Id. at 393.\n\u00b620 Subsequently, in Herrmann, we considered an action by the insurance commissioner in his capacity as statutory rehabilitator of an insurer against former officers and directors of the defunct insurer for losses due to negligence or fraud. 82 Wn.2d at 1. We found that although the proceeds of the commissioner\u2019s suit \u201cwill inure to the benefit of the company and its policyholders,\u201d it was \u201cobvious [ ] [that] the commissioner is not authorized to take over the rehabilitation of insurance companies solely for the benefit of such companies, their shareholders, or policyholders.\u201d Id. at 5. Because \u201c[t]he legislature clearly had in mind, in enacting the insurance code, that such actions on the part of the commissioner would benefit the public generally\u201d we rejected the contention that the suit was brought merely to enforce a private right. Id.\n\u00b621 Here, although consumers may benefit from restitution, the legislature clearly intended for the attorney general\u2019s enforcement under .080 to benefit the public generally. The CPA\u2019s purpose is to \u201cprotect the public and foster fair and honest competition,\u201d RCW 19.86.920, and when the attorney general brings a CPA action, \u201che acts for the benefit of the public,\u201d Lightfoot v. MacDonald, 86 Wn.2d 331, 334, 544 P.2d 88 (1976). \u201cThe Attorney General\u2019s responsibility in bringing cases of this kind is to protect the public from the kinds of business practices which are prohibited by the statute; it is not to seek redress for private individuals.\u201d Seaboard Sur. Co. v. Ralph Williams\u2019 Nw. Chrysler Plymouth, Inc., 81 Wn.2d 740, 746, 504 P.2d 1139 (1973). Just like administering workers\u2019 compensation and regulating insurance, safeguarding the public by prohibiting business practices that undermine fair and honest competition is well within the State\u2019s police power.\n\u00b622 Petitioners argue there is nothing inherently sovereign about the State\u2019s parens patriae action enforcing antitrust laws. Suppl. Br. of Pet\u2019rs at 8-12. Petitioners rely on a federal case, California v. Frito-Lay, Inc., where the Ninth Circuit concluded that the State of California did not meet federal parens patriae standing requirements (which permit a state to sue in federal court on behalf of its citizens to protect certain quasi-sovereign interests of the state) to sue for treble damages for its citizen-consumers under the federal Clayton Act. 474 F.2d 774, 777-78 (9th Cir. 1973). The petitioners do not argue that the analysis of federal courts under the parens patriae federal standing doctrine is coextensive with our inquiry about the character and nature of the State\u2019s action under state law. Moreover, it appears that federal law as it stands today recognizes that a \u201cstate\u2019s interest in preventing harm to its citizens by antitrust violations is, indeed, a prime instance of the interest that the parens patriae can vindicate by obtaining damages and/or an injunction.\u201d In re Ins. Antitrust Litig., 938 F.2d 919, 927 (9th Cir. 1991). In considering state claims brought for violations of the Sherman Act, post-Frito-Lay, the Ninth Circuit concluded it is well established\n[t]hat a state as parens patriae may sue to redress a violation of the antitrust laws .... Georgia v. Pennsylvania R.[R.] Co., 324 U.S. 439, 450-51, 65 S.Ct. 716, 89 L.Ed. 1051 (1945) (conspiracy in violation of antitrust laws is a wrong \u201cof grave public concern in which Georgia has an interest apart from that of particular individuals who may be affected.\u201d)[.] There must, of course, be antitrust injury for an injunction to be granted. Each state here asserts its \u201cquasi-sovereign interest in the health and well-being\u2014both physical and economic\u2014of its residents in general.\u201d Alfred L. Snapp & Son, Inc. v. Puerto Rico, 458 U.S. 592, 607, 102 S. Ct. 3260, 3269, 73 L. Ed. 2d 995 (1982). That interest makes each state \u201cmore than a nominal party.\u201d Id.\nId. (citation omitted); see Nevada v. Bank of Am. Corp., 672 F.3d 661, 670-71 (9th Cir. 2012) (finding that the State of Nevada\u2019s parens patriae consumer protection action was not removable from the state court under the federal Class Action Fairness Act of 2005, 28 U.S.C. \u00a7\u00a7 1711-1715, because the State of Nevada, rather than individual consumers, was the real party in interest, noting that \u201cNevada brought this suit pursuant to its statutory authority . . . because of its interest in protecting the integrity of mortgage loan servicing. . . . Nevada has been particularly hard-hit by the current mortgage crisis, and has a specific, concrete interest in eliminating any deceptive practices that may have contributed to its cause.\u201d (citing Washington v. Chimei Innolux Corp., 659 F.3d 842 (9th Cir. 2011))). Petitioners provide no support for their argument that the antitrust enforcement function must be exclusively delegated to the State in order for us to find the State\u2019s action arises from its sovereign powers.\n\u00b623 We are not persuaded that by amending .080 in 2007 to provide the attorney general may bring an action in the name of the State, \u201cor as parens patriae on behalf of persons residing in the state,\u201d the legislature intended to distinguish a parens patriae claim from one brought in the name of the State for the purposes of excluding it from RCW 4.16.160. Laws of 2007, ch. 66, \u00a7 1; Suppl. Br. of Pet\u2019rs at 4-5. Nor are we convinced that the legislature\u2019s use of the words \u201con behalf of persons residing in the state\u201d evinces the legislature\u2019s acknowledgment that parens patriae restitution claims benefit particular persons and not the state as a whole. RCW 19.86.080(1) (emphasis added). Not only does reading this intent into the legislature\u2019s word choice strain logic, but to resolve the case on such a basis would be at odds with our approach, which has been to probe the nature and character of the action.\n\u00b624 We find that under the specific provisions of RCW 4.16.160, in the absence of an express statute to the contrary, the attorney general\u2019s suit for injunctive relief and restitution pursuant to .080 is immune from limitations periods. Thus, none of the general statutes of limitations in chapter 4.16 RCW apply.\nConclusion\n\u00b625 We hold that when the attorney general enforces antitrust laws under RCW 19.86.080, he or she acts \u201cin the name of or for the benefit of . . . the state\u201d within the meaning of RCW 4.16.160. In the absence of an express statute to the contrary, the State\u2019s action for injunctive relief and restitution pursuant to .080 is exempt from the statute of limitations in RCW 19.86.120 and from the general statutes of limitations in chapter 4.16 RCW. We affirm the courts below and remand to the trial court for further proceedings consistent with this opinion.\nJohnson, Owens, Fairhurst, Wiggins, and Yu, JJ., and Hunt, J. Pro Tem., concur.\n\u201cParens patriae,\u2019\u2019 literally \u201c \u2018parent of his or her country,\u2019 \u2019\u2019 refers traditionally to the role of the state as sovereign. Black\u2019s Law Dictionary 1287 (10th ed. 2014).\nRAP 2.3(b)(4) provides discretionary review of a trial court decision may be accepted when\n[t]he superior court has certified, or all the parties to the litigation have stipulated, that the order involves a controlling question of law as to which there is substantial ground for a difference of opinion and that immediate review of the order may materially advance the ultimate termination of the litigation.\nThe common law doctrine \u201c \u2018nullum tempus occurrit reg\u00ed \u201d means \u201cno time runs against the King.\u2019\u2019 Sigmund D. Sch\u00fctz, Time to Reconsider Nullum Tempus Occurrit Regi\u2014The Applicability of Statutes of Limitations against the State of Maine in Civil Actions, 55 Me. L. Rev. 373, 374 (2003).\nWe stress that our opinion is limited to the attorney general\u2019s .080 claims. The attorney general\u2019s complaint broadly requested injunctive relief, damages, restitution, civil penalties, and attorney fees, and the State subsequently specified that it seeks damages on behalf of state agencies that were purchasers of CRT products under .090, restitution for state consumers under .080, and civil penalties under RCW 19.86.140. CP at 2, 27-28; State\u2019s Resp. at 2. The Court of Appeals addressed only whether the State\u2019s .080 claim for injunctive relief and restitution is subject to a statute of limitations and declined to consider whether the .090 and .140 claims were untimely, concluding those issues were beyond the scope of the certified questions it granted for review. LG Elecs., Inc., 185 Wn. App. at 151.",
+        "type": "majority",
+        "author": "Gonz\u00e1lez, J."
+      },
+      {
+        "text": "Gordon McCloud, J.\n\u00b626 (concurring in part and dissenting in part) \u2014 The Washington State attorney general filed this parens patriae action on May 1, 2012, over 17 years after the alleged CRT price-fixing conspiracy began and over four years after he learned about it. Clerk\u2019s Papers (CP) at 2, 26, 32 n.1, 58. He filed it for the benefit of certain private parties: the millions of Washington residents who indirectly purchased products (like televisions) with CRT components inside. The complaint also references a handful of residents who directly purchased CRTs unincorporated into a useable consumer product. CP at 1-2. The handful of direct purchasers for whose benefit the State filed could not have brought this action themselves: their claims for damages under RCW 19.86.090 were likely time barred by RCW 19.86.120\u2019s four-year statute of limitations. The main beneficiaries of this action\u2014the indirect purchasers\u2014could not have filed this action for themselves either: their claims would face not only RCW 19.86.120\u2019s four-year time bar but also the Consumer Protection Act\u2019s (CPA), chapter 19.86 RCW, bar on private indirect purchaser claims. In this case, we consider whether the State can circumvent this statutory framework by bringing these otherwise time barred and unauthorized indirect claims through a parens patriae action under RCW 19.86.080. The statutory scheme compels us to answer no. I therefore respectfully dissent.\nIntroduction\n\u00b627 Of the 24 jurisdictions that have authorized their attorneys general to bring parens patriae actions, 18 jurisdictions expressly require that these claims be commenced within four years of accrual. Washington, Connecticut, Oregon, and Virginia, however, lack such express time limits for parens patriae actions. The certified questions in this case ask us to determine whether parens patriae actions brought under RCW 19.86.080 are subject to the same four-year statute of limitations (of RCW 19.86.120) as private direct purchaser claims brought under RCW 19.86.090, or are instead exempt from general statutes of limitations by application of RCW 4.16.160. See CP at 145.\n\u00b628 I agree with the majority\u2019s conclusion that RCW 19.86.120\u2019s time bar is inapplicable to RCW 19.86.080 claims. But I disagree with the majority\u2019s conclusion that the legislature gave the attorney general the authority to circumvent all statutes of limitations by authorizing him or her to sue \u201cas parens patriae on behalf of persons residing in the state!\u2019 RCW 19.86.080(1) (emphasis added). On the contrary, it is well settled that the State cannot avoid statutory time bars by lending its name to otherwise time-barred private claims. RCW 4.16.160, which exempts the State from time limits on certain claims, is therefore limited to actions brought \u201cin the name or for the benefit of... the state.\u201d This parens patriae action does not fall into either category. It was brought under RCW 19.86.080, and that statute states that parens patriae actions are not brought \u201cin the name of the state\u201d or \u201cfor the benefit of the state,\u201d but to vindicate individual claims \u201con behalf of persons residing in the state.\u201d I therefore agree with the majority\u2019s answer to the first certified question: RCW 19.86.120\u2019s four-year time bar does not apply here. But I disagree with its answer to the second certified question. I would hold that RCW 4.16.160\u2019s exemption does not apply here, either.\nAnalysis\n\u00b629 Statutory interpretation is a question of law reviewed de novo. Jametsky v. Olsen, 179 Wn.2d 756, 761-62, 317 P.3d 1003 (2014). \u201cIn construing a statute, our paramount duty is to ascertain and give effect to the intent of the Legislature.\u201d Wash. Pub. Power Supply Sys. v. Gen. Elec. Co., 113 Wn.2d 288, 292, 778 P.2d 1047 (1989) (citing Addleman v. Bd. of Prison Terms & Paroles, 107 Wn.2d 503, 509, 730 P.2d 1327 (1986)).\n\u00b630 Where possible, we must give effect to the plain meaning of a statute as an expression of legislative intent. Jametsky, 179 Wn.2d at 762. \u201c[W]e do not look at [the] words alone, but \u2018all [of] the terms and provisions of the act in relation to the subject of the legislation, the nature of the act, [and] the general object to be accomplished and consequences that would result from construing the particular statute in one way or another.\u2019 \u201d BAC Home Loans Servicing, LP v. Fulbright, 180 Wn.2d 754, 766, 328 P.3d 895 (2014) (second and third alterations in original) (internal quotation marks omitted) (quoting Burns v. City of Seattle, 161 Wn.2d 129, 146, 164 P.3d 475 (2007)). We interpret a statute to give effect to all its language and to leave no portion meaningless or superfluous. Citizens All. for Prop. Rights Legal Fund v. San Juan County, 184 Wn.2d 428, 440, 359 P.3d 753 (2015). If we find after examination that a statute is subject to more than one reasonable interpretation, then we may use statutory construction, legislative history, and relevant case law to help discern legislative intent. Jametsky, 179 Wn.2d at 762.\nA. The Legislature Amended RCW 19.86.080 in 2007 To Allow the Attorney General To Bring Parens Patriae Claims \u201cOn Behalf of Persons Residing in the State\u201d\n\u00b631 The two certified questions before us involve the scope of the attorney general\u2019s authority to bring parens patriae actions \u201con behalf of\u201d others under RCW 19.86.080(1). Some background regarding the development of parens patriae claims is therefore necessary to interpret the key statutes at issue here.\n\u00b632 RCW 19.86.080 was originally enacted in 1961. It authorized the attorney general \u201cto bring an action in the name of the state against any person to restrain and prevent the doing of any act herein prohibited or declared to be unlawful\u201d under the CPA. Laws of 1961, ch. 216, \u00a7 8. Notably, at that time, the attorney general lacked statutory parens patriae authority.\n\u00b633 In 2007, the legislature amended the statute to allow the attorney general to bring actions \u201cin the name of the state, or as parens patriae on behalf of persons residing in the state.\u201d Laws of 2007, ch. 66, \u00a7 1(1) (underlined language added by 2007 amendment). The legislature also authorized the trial court to \u201cmake such additional orders or judgments as may be necessary to restore to any person in interest any moneys or property, real or personal, which may have been acquired, regardless of whether such person purchased or transacted for goods or services directly with the defendant or indirectly through resellers.\u201d Laws of 2007, ch. 66, \u00a7 1(3).\n\u00b634 The 2007 amendments served an important purpose. They were introduced in the legislature at the behest of the attorney general. History of Bill: SB 5228, http://app.leg.wa.gov/dlr/billsummary/default.aspx?year=2007&bill=5228 [https://perma.cc/9XB2-CHXQ]. That year, he was involved in a multistate action against manufacturers of dynamic random access memory (DRAM), seeking damages on behalf of indirect purchasers of DRAM products. State v. Infineon Techs. AG, 531 F. Supp. 2d 1124 (N.D. Cal. 2007). The defendants moved to dismiss these indirect purchaser claims on the ground that the statute precluded the attorney general from seeking relief on behalf of indirect purchasers. Id. at 1140, 1151-54 (citing as the basis for this argument the United States Supreme Court\u2019s decision in Illinois Brick Co. v. Illinois, 431 U.S. 720, 728, 97 S. Ct. 2061, 52 L. Ed. 2d 707 (1977), which held indirect purchaser claims were too attenuated to proceed under federal antitrust law). The 2007 amendments addressed this argument: for the first time, the legislature provided the attorney general with express statutory authority to pursue claims on behalf of indirect purchasers under Washington law. See, e.g., Wash. State House of Representatives, Office Program Research, Judiciary Comm., SSB 5228, at 2 (H.R. Rep. SSB 5228), http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bill%20Reports/House/5228-S.HBA%2007.pdf [https://perma.cc/7AD3-GMMF].\n\u00b635 Notably, the legislature did not authorize indirect purchasers to bring private claims under RCW 19.86.090 themselves. Private actions under RCW 19.86.090 therefore remained limited to direct purchasers only.\n\u00b636 The legislature also declined to amend RCW 19.86.120\u2019s four-year statute of limitations to include the attorney general\u2019s newly authorized indirect purchaser claims. This absence of an express statute of limitations for RCW 19.86.080(1) claims forms the basis of the two certified questions before us.\nB. Question 1\u2014Whether the four-year statute of limitations under RCW 19.86.120 applies to the Washington attorney general\u2019s complaint brought pursuant to its parens patriae authority under RCW 19.86.080 that seeks actual damages for violations of RCW 19.86.030?\n\u00b637 I agree with the majority\u2019s conclusion that RCW 19.86.120\u2019s plain language excludes RCW 19.86.080 claims. RCW 19.86.120 provides, in pertinent part, that \u201c[a]ny action to enforce a claim for damages under RCW 19.86.090 shall be forever barred unless commenced within four years after the cause of action accrues.\u201d RCW 19.86.120 is silent as to whether it applies to claims brought under RCW 19.86.080. \u201c \u2018Where a statute specifically designates the things or classes of things upon which it operates, an inference arises in law that all things or classes of things omitted from it were intentionally omitted by the legislature under the maxim expression unius est exclusio alterius\u2014specific inclusions exclude implication.\u2019\" The legislature\u2019s omission of RCW 19.86.080 claims from RCW 19.86.120 indicates its intent that RCW 19.86.120\u2019s time bar does not apply to RCW 19.86.080 claims.\nC. Question 2\u2014Whether RCW 4.16.160 should be applied to the Washington attorney general\u2019s parens patriae antitrust lawsuit seeking actual damages and restitution for citizens of Washington?\n\u00b638 Although I agree with the majority that RCW 19.86.120 does not apply to parens patriae actions brought under RCW 19.86.080, I do not agree that these actions are exempt from all other statutes of limitations by virtue of RCW 4.16.160.\ni. The Exemption from Statutory Time Limits in RCW 4.16.160 Is Limited to Actions \u201cBrought in the Name or for the Benefit of the State\u201d\n\u00b639 Chapter 4.16 RCW prescribes general time limits within which civil actions must be commenced. See RCW 4.16.005. Of particular interest here are two catchall provisions, RCW 4.16.080(2) and RCW 4.16.130. RCW 4.16.080(2) requires actions seeking recovery for \u201cany other injury to the person or rights\u201d to be filed within three years, and RCW 4.16.130 requires \u201c[a]n action for relief not [otherwise] provided for\u201d to be filed within two years. RCW 4.16.160, however, exempts from these time limits those \u201cactions brought in the name or for the benefit of the state.\u201d\n\u00b640 Notwithstanding that broad language, \u201cRCW 4.16.160 . . . has never been literally followed.\u201d U.S. Oil & Ref. Co. v. Dep\u2019t of Ecology, 96 Wn.2d 85, 89, 633 P.2d 1329 (1981) (holding RCW 4.16.160 inapplicable to a claim by the State for penalties/forfeitures because it is limited to remedial claims). Throughout the years, we have recognized many situations in which RCW 4.16.160\u2019s exemption from time bars does not apply. Id.\n\u00b641 Relevant to this case is the \u201cwell-founded\u201d rule that the State cannot use RCW 4.16.160 to revive time-barred private actions. State v. Vinther, 176 Wash. 391, 393, 29 P.2d 693 (1934). As we have repeatedly explained, RCW 4.16.160 does not apply \u201cwhen the state is a mere formal plaintiff in a suit, [acting] not for the purpose of asserting any public right or protecting any public interest, but merely to form a conduit through which one private person can conduct litigation against another private person.\u201d Id.; see also Herrmann v. Cissna, 82 Wn.2d 1, 5, 507 P.2d 144 (1973).\n\u00b642 For that reason, in actions brought by the State, our inquiry has focused on \u201cwhether the state ... is acting in its sovereign capacity in furtherance of its public policy, or merely suing in its own name for the benefit of private individuals.\u201d Vinther, 176 Wash. at 393. The State undoubtedly acts in its sovereign capacity in furtherance of public policy when it seeks to ensure the proper operation of the government or to collect taxes and fees. See State ex rel. Carroll v. Bastian, 66 Wn.2d 546, 546-49, 403 P.2d 896 (1965) (unraveling an invalidly incorporated municipality); State v. Miller, 32 Wn.2d 149, 151-56, 201 P.2d 136 (1948) (preventing nepotism in governmental operations); State v. City of Aberdeen, 34 Wash. 61, 62-70, 74 P. 1022 (1904) (collecting liquor license fees).\n\u00b643 However, when the State seeks to collect on private claims against private entities for the benefit of private parties, the result is less clear as to whether such cases are \u201cfor the benefit of the state\u201d under RCW 4.16.160. This is because there is always some conceivable public benefit (such as general deterrence) when the State enforces its laws, regardless of whether the lawsuit is brought on its own behalf or on behalf of others. Our decisions therefore look to the legislative intent concerning each statute to determine whether it was designed primarily to further a stated public policy or instead to secure private recovery. See Herrmann, 82 Wn.2d at 5-6 (policy of protecting public from deceptive insurance practices); Vinther, 176 Wash. at 394 (policy of protecting health of state workforce through workers compensation accident fund). Legislative intent is key.\nii. The Legislature Expressly Excluded Parens Pat-riae Actions from the Reach of RCW 4.16.160\u2019s Exemption\n\u00b644 We do not need to look any further than the plain language of RCW 19.86.080 to determine whether the legislature intended parens patriae actions primarily to further a public policy \u201cfor the benefit of the state,\u201d rather than primarily to secure private recovery. The legislature has said it is for the latter purpose, not the former.\n\u00b645 This is clear from the statute\u2019s language. RCW 19.86.080(1) authorizes the attorney general to bring actions \u201cin the name of the state, or as parens patriae.\u201d (Emphasis added.) The legislature thus clearly distinguished the first type of action\u2014one brought in the name of the State\u2014from the second type\u2014one brought by the State not in its own \u201cname\u201d but as \u201cparens patriae.\u201d The legislature also specified the beneficiaries of such parens patriae actions, and it\u2019s not the State: RCW 19.86.080(1) says that such parens patriae actions are brought \u201con behalf of persons residing in the state\u201d and that any recovery must go to these persons in interest whose money or property were unlawfully acquired. RCW 19.86.080(3).\n\u00b646 This distinctive language is more than just semantics. It reflects the legislature\u2019s intent, as expressed in bill reports, that the parens patriae vehicle would \u201callow! ] the state to bring legal actions or seek remedies on behalf of individuals in order to protect them from harm.\u201d H.R. Rep. SSB 5228, supra, at 2 (emphasis added). From this, it is clear that the legislature authorized the attorney general to bring parens patriae actions under RCW 19.86.080 to protect individuals, not the general public.\n\u00b647 Because these actions are brought on behalf of and for the protection of specific individuals, it logically follows that the legislature did not intend such actions to be exempt from any time bar under RCW 4.16.160, especially when this court has repeatedly said RCW 4.16.160 does not apply to actions where the State acts as a mere conduit for private claims. See Herrmann, 82 Wn.2d at 5; Vinther, 176 Wash. at 393; see also Pac. Nw. Bell Tel. Co. v. Dep\u2019t of Revenue, 78 Wn.2d 961, 966, 481 P.2d 556 (1971) (holding the defendant could assert a statute of limitations defense against the State, notwithstanding the exemptions of RCW 4.16.160, because the State\u2019s echeat claim was derivative of the underlying private individual\u2019s claim against the defendant).\n\u00b648 The majority relies on the CPA\u2019s general policy statement to support a contrary conclusion. Majority at 15. But we have explicit, plain statutory language in RCW 19.86.080 that applies specifically to parens patriae claims. That specific legislative directive controls over the more general policy statement. Of even more concern is the unlikely results the majority\u2019s opinion produces. Under that opinion, direct purchasers must bring their claims within four years; yet the attorney general can revive these dead claims and even bring the far more attenuated indirect purchaser claims at any time in perpetuity. The plain language of RCW 19.86.080 avoids this irrational result.\n\u00b649 Contrary to the majority\u2019s opinion, Herrmann and Vinther do not compel a different result. Majority at 14-15. They engaged in the same analysis that I use here, namely, they asked whether the claims brought by the State were primarily to benefit the State or primarily to benefit the individuals. Although they ruled that those actions were primarily to benefit the State, they did so based on the language and policies of the specific statutes at issue there. That language and those policies showed that the main point of those statutes was to benefit the State. See Herrmann, 82 Wn.2d at 5-7 (analyzing the legislative policy and statutory framework to determine whether the legislature intended actions by the insurance commissioner to be for the benefit of the general public); Vinther, 176 Wash. at 393-95 (analyzing the legislative policy and statutory framework to determine whether the legislature intended actions brought by the State pursuant to the Workers\u2019 Compensation Act, Title 51 RCW, to be in furtherance of some public policy rather than for the benefit of private individuals). Not so here. As discussed above, RCW 19.86.080(1) classifies parens patriae actions as brought \u201con behalf of persons residing in the state\u201d and distinguished them from actions brought \u201cin the name of the state\u201d or \u201cfor the benefit of. . . the state.\u201d RCW 4.16.160. This language resolves the issue addressed in Herrmann and Vinther, which was whether the legislature intended the action to be one \u201cfor the benefit of. . . the state\u201d under RCW 4.16.160.\n\u00b650 Thus, the legislative record and plain language of RCW 19.86.080 shows that the legislature did not intend to exempt parens patriae actions under RCW 19.86.080 from statutory time limitations. No further analysis is required.\niii. We Have Never Characterized Parens Patriae Actions under RCW 19.86.080 as Actions for the Benefit of the State\n\u00b651 The majority also quotes Seaboard Surety Co. v. Ralph Williams\u2019 Northwest Chrysler Plymouth, Inc., 81 Wn.2d 740, 746, 504 P.2d 1139 (1973), in support of its assertion that all RCW 19.86.080 claims are for the benefit of the state. Majority at 15. But that\u2019s not what Seaboard Surety said.\n\u00b652 Seaboard Surety was decided in 1973, well before the legislature amended RCW 19.86.080 in 2007 to include parens patriae actions. At that time, the attorney general could sue only \u201cin the name of the state\u201d for injunctive relief, and not as parens patriae for \u201cpersons residing in the state.\u201d Compare Laws of 1970, 1st Ex. Sess., ch. 26, \u00a7 1, with Laws of 2007, ch. 66, \u00a7 1. This distinction was critical to Seaboard Surety\u2019s reasoning. See Seaboard Sur., 81 Wn.2d at 746. The court concluded that injunctive relief was the main focus of the attorney general\u2019s action because at that time, the attorney general could bring only actions for injunctive relief. Although the statute allows the trial court to award individual damages, a claim for such damages could be sought only \u201cincidental\u201d to a suit for injunctive relief and an award for damages was uncertain because it was subject to the court\u2019s discretion. See id.; see also Lightfoot v. MacDonald, 86 Wn.2d 331, 334, 544 P.2d 88 (1976) (quoting Seaboard Surety for same description); State v. Ralph Williams\u2019 N.W. Chrysler Plymouth, Inc., 82 Wn.2d 265, 276, 510 P.2d 233 (1973) (quoting same).\n\u00b653 The statute is different now. The legislature altered this framework in 2007 when it authorized the attorney general to bring actions \u201cas parens patriae on behalf of persons residing in the state.\u201d Laws of 2007, ch. 66, \u00a7 1.\niv. The State Has Nothing To Gain from This Parens Patriae Action\n\u00b654 Finally, even if the majority were correct that the legislature intended parens patriae actions to further the CPA\u2019s goal \u201cto protect the public and foster fair and honest competition,\u201d RCW 19.86.920, it goes too far by concluding that this is the main goal of every parens patriae case. Majority at 17-18. I would still find RCW 4.16.160 does not apply to the State\u2019s parens patriae claims in this case.\n\u00b655 Just because a particular type of action can in some instances trigger the exemptions of RCW 4.16.160 does not mean that it always does. Whether it does in a particular case depends on the governmental interest at stake. See United States v. Beebe, 127 U.S. 338, 342, 8 S. Ct. 1083, 32 L. Ed. 121 (1888) (recognizing that in some instances, an action by the government to set aside a land patent could involve a cognizable public interest). Beebe is a good example of when the State\u2019s interest in a particular action is too attenuated to be considered for the benefit of the government. See Herrmann, 82 Wn.2d at 8; Vinther, 176 Wash. at 393.\n\u00b656 In Beebe, the Supreme Court held that the government\u2019s action to set aside a land patent was not exempt from the statutory time bar applicable to private claims, even though the action was brought by the government. The reason was that the government in that instance had no interest in the suit, had nothing to gain from the relief prayed for, and had nothing to lose if the relief were denied. 127 U.S. at 346. The government\u2019s lack of interest in the case was further shown by the fact that the government was not involved in the management of the case. Id. at 347.\n\u00b657 Here, as in Beebe, the State has no interest in the outcome of this case. There is no ongoing public harm to correct because the underlying conspiracy became technologically obsolete in 2007. The State has nothing to gain from the restitution sought and nothing to lose if such relief were denied because it sought relief solely \u201con behalf of persons residing in the state\u201d and any restitution award must go to the person in interest whose money or property was unlawfully acquired. RCW 19.86.080(1), (3).\n\u00b658 Even if the State were to retain some of the moneys awarded as a result of escheat, that would not alter the analysis: the State\u2019s escheat claim is derivative of the underlying private claims and therefore subject to the same statute of limitations as those private claims. See Dep\u2019t of Revenue v. Puget Sound Power & Light Co., 103 Wn.2d 501, 507, 694 P.2d 7 (1985) (not exempting the State\u2019s escheat claim for abandoned utility deposits and dividends); Pac. Nw. Bell Tel., 78 Wn.2d at 966 (not exempting the State\u2019s escheat claim for unclaimed property).\nConclusion\n\u00b659 RCW 19.86.080 expressly states that parens patriae actions brought under RCW 19.86.080 are commenced on \u201cbehalf of persons residing in the state\u201d to protect them from harm. They are not brought \u201cin the name of\u201d or \u201cfor the benefit of the state.\u201d The legislative reports concerning that statute\u2019s 2007 amendment support this conclusion. I would therefore answer the certified questions as follows: Neither RCW 19.86.120 nor RCW 4.16.160 apply to parens patriae actions brought pursuant to RCW 19.86.080.\nMadsen, C.J., concurs with Gordon McCloud, J.\nCRTs (cathode ray tubes) are a form of display technology that was widely used in televisions and computer monitors until the introduction of LCD (liquid crystal display) and LED (light-emitting diode) displays.\nCompare RCW 19.86.080(3) (permitting the State to file claims on behalf of private indirect purchasers), with RCW 19.86.090 (denying indirect purchasers the same private right of action).\nSee 15 U.S.C. \u00a7 15c(a)(1); Alaska Stat. \u00a7 45.50.577(b); Ark. Code Ann. \u00a7 4-75-315(b); Cal. Bus. & Prof. Code \u00a7 16760(a)(1); Colo. Rev. Stat. \u00a7 6-4-111(3)(a); Conn. Gen. Stat. \u00a7 35-32; Del. Code Ann. tit. 6, \u00a7 2108(b); D.C. Code \u00a7 28-4507(b); Fla. Stat. \u00a7 542.22(2); Haw. Rev. Stat. \u00a7 480-14(b); Idaho Code \u00a7 48-108(2); 740 Ill. Comp. Stat. 10/7; Md. Code Ann., Commercial Law \u00a7 11-209(b)(5); Mass. Gen. Laws ch. 93, \u00a7 9; Nev. Rev. Stat. \u00a7 598A.160(1); N.H. Rev. Stat. Ann. \u00a7 356:4-a(II); Okla. Stat. tit. 79, \u00a7 205(A)(1); Or. Rev. Stat. \u00a7 646.775(1)(a); 6 R.I. Gen. Laws \u00a7 6-36-12(a); S.D. Codified Laws \u00a7\u00a7 37-1-32, 37-1-14.2; Utah Code Ann. \u00a7 76-10-3108(1); Va. Code Ann. \u00a7 59.1-9.15(d); RCW 19.86.080; W. Va. Code \u00a7 47-18-17(a).\nSee 15 U.S.C. \u00a7 15b; Alaska Stat. \u00a7 45.50.588; Cal. Bus & Prof. Code \u00a7 16750.1; Colo. Rev. Stat. \u00a7 6-4-118(1); Del. Code Ann. tit. 6 \u00a7 2111; D.C. Code \u00a7 28-4511(b); Fla. Stat. \u00a7 542.56(1); Idaho Code \u00a7 48-115(1); 740 Ill. Comp. Stat. 10/7; Md. Code Ann., Commercial Law \u00a7 11-209(d)(1); Mass. Gen. Laws ch. 93, \u00a7 13; Nev. Rev. Stat. \u00a7 598A.220(2); N.H. Rev. Stat. Ann. \u00a7 356:12(I); Okla. Stat. tit. 79, \u00a7 205(C); 6 R.I. Gen. Laws \u00a7 6-36-23; S.D. Codified Laws \u00a7 37-1-14.4; Utah Code Ann. \u00a7 76-10-3117(1); W. Va. Code \u00a7 47-18-11. But see Ark. Code Ann. \u00a7 4-75-320 (five years); Haw. Rev. Stat. \u00a7 480-14(b) (eight years).\nThe trial court certified two questions: \u201c(1) Whether the four-year statute of limitations under RCW 19.86.120 applies to the Washington! 1 Attorney General\u2019s Complaint brought pursuant to its parens patriae authority under RCW 19.86.080 that seeks actual damages for violations of RCW 19.86.030? [and] (2) Whether RCW 4.16.160 should be applied to the Washington Attorney General\u2019s parens patriae antitrust lawsuit seeking actual damages and restitution for citizens of Washington?\u201d CP at 145. Notably, the certified questions do not ask us to determine what statute of limitations would apply in the instance we find, as I do, that neither RCW 19.86.120 nor RCW 4.16.160 apply.\nThis court\u2019s answers to the certified questions do not compel a trial court to award restitution. RCW 19.86.080(3) leaves that decision to the discretion of the trial court.\nEllensburg Cement Prods., Inc. v. Kittitas County, 179 Wn.2d 737, 750, 317 P.3d 1037 (2014) (internal quotation marks omitted) (quoting Landmark Dev., Inc. v. City of Roy, 138 Wn.2d 561, 571, 980 P.2d 1234 (1999)).\nIn contrast, when the action involves a municipal act, \u201c[t]he principal test for determining whether a municipal act involves a sovereign or proprietary function is whether the act is for the common good or whether it is for the specific benefit or profit of the corporate entity.\u201d Wash. State Major League Baseball Stadium Pub. Facilities Dist. v. Huber, Hunt & Nichols-Kiewit Constr. Co., 165 Wn.2d 679, 687, 202 P.3d 924 (2009) (citing Okeson v. City of Seattle, 150 Wn.2d 540, 550, 78 P.3d 1279 (2003)). We have applied the exemptions of RCW 4.16.160 in cases where the municipality engages in traditional state functions such as taxation, building schools, and maintaining public recreational spaces as opposed to engaging in conduct traditionally left to the private sector. Compare id. at 690-94 (constructing public baseball stadium), and Bellevue Sch. Dist. No. 405 v. Brazier Constr. Co., 103 Wn.2d 111, 115-16, 691 P.2d 178 (1984) (building schools), and Allis-Chalmers Corp. v. City of N. Bonneville, 113 Wn.2d 108, 112, 775 P.2d 953 (1989) (collecting business and occupation taxes), and City of Tacoma v. Hyster Co., 93 Wn.2d 815, 821, 613 P.2d 784 (1980) (same), and Commercial Waterway Dist. No. 1 of King County v. King County, 10 Wn.2d 474, 478-80, 117 P.2d 189 (1941) (purchasing property as part of tax collecting duties), and Gustaveson v. Dwyer, 78 Wash. 336, 337, 139 P. 194 (1914) (same), aff\u2019d on different grounds, 83 Wash. 303, 304-06, 145 P. 458 (1915), with Wash. Pub. Power Supply Sys., 113 Wn.2d at 299-300 (operating electricity plant), and Wash. State Major League Baseball, 165 Wn.2d at 688-89 (operating water system (citing City of Moses Lake v. United States, 430 F. Supp. 2d 1164, 1171-78 (E.D. Wash. 2006))).\nIn light of the limited number of jurisdictions without an express statute of limitation provision, the Superior Court of Connecticut\u2019s decision in Connecticut v. Mobilia, Inc., No. 65134, 1983 WL 14950, at *1-2 (Super. Ct. Conn. June 3, 1983) (unpublished) appears to be the only analogous case, and it suffers from the same interpretive flaw.\nAgain, Herrmann does not compel a different result. Unlike in Herrmann, where the State had an interest in protecting the integrity of the existing insurance system through deterrence of potentially repetitive behavior, 82 Wn.2d at 7, here, there is no potential for the alleged conspiracy to reoccur as CRTs are old technology.",
+        "type": "concurring-in-part-and-dissenting-in-part",
+        "author": "Gordon McCloud, J."
+      }
+    ],
+    "attorneys": [
+      "David C. Lundsgaard (of Miller Nash Graham & Dunn LLP); Robert D. Stewart (of Kipling Law Group PLLC); Bradford J. Axel and Mathew L. Harrington (of Stokes Lawrence PS); and Molly A. Terwilliger (of Yarmouth Wilsdon PLLC) (Aaron Streett and J. Mark Little of Baker Botts LLP, of counsel) (Dana E. Foster and Lucius B. Lau of White & Case LLP, of counsel) and (Eliot A. Adelson of Kirkland & Ellis, of counsel), for petitioners.",
+      "Robert W. Ferguson, Attorney General, Callie A. Castillo, Managing Assistant, and David M. Kerwin, Assistant, for respondent."
+    ],
+    "corrections": "",
+    "head_matter": "[No. 91263-7.\nArgued September 24, 2015.\nDecided July 14, 2016.\nThe State of Washington, Respondent, v. LG Electronics, Inc., et al., Petitioners.\nDavid C. Lundsgaard (of Miller Nash Graham & Dunn LLP); Robert D. Stewart (of Kipling Law Group PLLC); Bradford J. Axel and Mathew L. Harrington (of Stokes Lawrence PS); and Molly A. Terwilliger (of Yarmouth Wilsdon PLLC) (Aaron Streett and J. Mark Little of Baker Botts LLP, of counsel) (Dana E. Foster and Lucius B. Lau of White & Case LLP, of counsel) and (Eliot A. Adelson of Kirkland & Ellis, of counsel), for petitioners.\nRobert W. Ferguson, Attorney General, Callie A. Castillo, Managing Assistant, and David M. Kerwin, Assistant, for respondent."
+  },
+  "file_name": "0001-01",
+  "first_page_order": 39,
+  "last_page_order": 69
+}

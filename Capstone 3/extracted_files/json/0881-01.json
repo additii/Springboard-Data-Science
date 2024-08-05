@@ -1,0 +1,139 @@
+{
+  "id": 1407998,
+  "name": "H. Rouw Company v. St. Louis-San Francisco Railway Company",
+  "name_abbreviation": "H. Rouw Co. v. St. Louis-San Francisco Railway Co.",
+  "decision_date": "1927-02-14",
+  "docket_number": "",
+  "first_page": "881",
+  "last_page": "884",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "172 Ark. 881"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [
+    {
+      "cite": "46 S. C. 318",
+      "category": "reporters:state",
+      "reporter": "S.C.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "270 U. S. 416",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6140905
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/270/0416-01"
+      ]
+    },
+    {
+      "cite": "280 S. W. 18",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "170 Ark. 469",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1371544
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/170/0469-01"
+      ]
+    },
+    {
+      "cite": "259 S. W. 745",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "163 Ark. 284",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1383842
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/163/0284-01"
+      ]
+    },
+    {
+      "cite": "227 S. W. 12",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "147 Ark. 109",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1583321
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/147/0109-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 372,
+    "char_count": 6413,
+    "ocr_confidence": 0.522,
+    "pagerank": {
+      "raw": 1.1713448187212992e-07,
+      "percentile": 0.5864739604509761
+    },
+    "sha256": "89b8babb3e14de21f292f186f724876fa3c2c760020aa03b8f65552581452c28",
+    "simhash": "1:87fb7d2e1ec18f13",
+    "word_count": 1090
+  },
+  "last_updated": "2024-02-27T21:19:44.522172+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "H. Rouw Company v. St. Louis-San Francisco Railway Company."
+    ],
+    "opinions": [
+      {
+        "text": "I\u00edabt, C. J.\nIt is earnestly insisted by the plaintiff that the court erred in giving instruction No. 7, which is as follows:\n. \u201cThe court charges you that, before the plaintiff can recover herein, it must show by a preponderance of the testimony that the said berries were in good condition for shipment at the time they were delivered to the defendant, and that said defendant failed to exercise ordinary care to ice said car, while the same was in transit, at regular icing stations along the line of railroad over which said car was transported, and to keep the vents and drain-pipes open, and, further, that defendant negligently failed to furnish a car that would properly refrigerate, and negligently failed to transport said car from Lowell, Arkansas, to its destination within a reasonable time after said car was delivered to the defendant for shipment, and that said alleged negligent acts were the proximate cause of the damage, if any, to said berries; and, if plaintiff fails to establish these facts by a preponderance of the testimony, then it will be your duty to find for the defendant. \u2019 \u2019\nThe burden of establishing the carrier\u2019s negligence was upon the plaintiff. When it introduced evidence to show the delivery of the shipment of berries to the carrier at Lowell, Arkansas, in good condition, and its delivery to the consignee at Minneapolis, Minnesota, in bad condition, such evidence made out a prima facie case of negligence. C. R. I. & P. Ry. Co. v. Walker, 147 Ark. 109, 227 S. W. 12; Mo. Pac. Rd. Co. v. Bell, 163 Ark. 284, 259 S. W. 745; Mo. Pac. Bd. Co. v. Wellborn & Walls, 170 Ark. 469,. 280 S. W. 18; and C. & O. B. Thompson Mfg. Co., 270 U. S. 416, 46 S. C. 318, 70 L. ed. 659. In the application of the principle of law, instruction No. 7 was wrong and necessarily prejudicial to the plaintiff, because it placed upon it the burden of showing that the defendant failed to exercise ordinary care in keeping- the car in which the berries were shipped properly refrigerated during transit.\nCounsel for the defendant claim that the instruction was not erroneous because of a clause in the contract of shipment which provided that, if loss or damage to the berries was claimed to have occurred in transit by the negligence of the defendant, a notice to this effect should be required as a condition precedent to recovery, and that the plaintiff did not prove compliance with this provision of the contract. As bearing on this point, we quote from the record the following:\n\u201cMr. Wofford: You don\u2019t raise any question about us making demand for payment of this claim? Mr. Hardin: No sir. We don\u2019t deny that.\u201d\nMr. \"Wofford was attorney for the plaintiff and Mr. Hardin for the defendant. This agreement was made at the close of the testimony, and it is fairly inferable that it was intended to cover the point in question. We think the agreement is broad enough to show that the defendant waived compliance with this provision of the contract. Having\u2019 done so, no assignment of error can be based upon the failure to comply with the provision of the contract. It necessarily follows that the instruction as given is contrary to the principles of law decided in the cases above cited. Therefore the judgment must be reversed, for the error of the court in giving instruction No. 7, and the cause will be remanded for a new trial",
+        "type": "majority",
+        "author": "I\u00edabt, C. J."
+      }
+    ],
+    "attorneys": [
+      "C. M. Wofford, for appellant.",
+      "E. T. Miller and Warner, Ear din \u00e9 Warner, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "H. Rouw Company v. St. Louis-San Francisco Railway Company.\nOpinion delivered February 14, 1927.\n1. Carriers \u2014 burden op proof of negligence. \u2014 In a suit against a carrier for damage negligently caused to a shipment of strawberries, the shipper has the burden of proving the carrier\u2019s negligence, but a prima facie case is established by evidence that the strawberries were delivered to the carrier in good condition and were delivered by the latter to the consignee in bad condition.\n2. Carriers \u2014 negligence in shipment \u2014 instruction.\u2014In an action by a shipper against a railroad for damages to a shipment in transportation, an instruction which placed on the shipper the burden of proving the railroad\u2019s failure to exercise ordinary care in keeping a car properly refrigerated, instead of requiring merely proof c? delivery to- the railroad in good condition and to the consignee in bad condition, held prejudicial error.\n3. Carriers \u2014 notice op damage to shipment \u2014 waiver.\u2014In an action by a shipper against a carrier for damages to a shipment, where plaintiff\u2019s attorney at the trial asked if the railroad raised \u201cany question about us making demand for payment of this claim,\u201d and defendant\u2019s attorney answered in the negative, the defendant will be held to have waived compliance with a provision of the contract of shipment making notice of damages a condition precedent to recovery.\nAppeal from Crawford Circuit Court; James Cochran, Judge;\nreversed.\nSTATEMENT OE FACTS.\nThe H. Bouw Company brought this suit against the St. Louis-San Francisco Bailway Company to recover damages in the sum of $420 for damage to an interstate shipment of strawberries.\nAccording to the evidence for the plaintiff, on May 21,1924, it shipped a car of strawberries over the defendant\u2019s line of railroad from. Lowell, Arkansas, to Minneapolis, Minnesota. On the bill of lading appears the following notation: \u201cFrom the EL Rouw Company, the property described below in apparent good order, except as noted.\u201d The berries were bought by the plaintiff, from growers in the neighborhood, for shipment. They were inspected before they were loaded in the car, and were good, firm berries, graded as No. 1. They were ripe, smooth and clean. The car of berries was received by the consignee at St. Paul, Minnesota, on May 26,1924. The car contained 420 crates, and there was considerable decay in them. Other evidence for the plaintiff tended to show that the berries, if properly iced and refrigerated, should have arrived in sound condition. It was also shown that the berries were damaged in the amount sued for.\nAccording to the evidence for the defendant, the car in which the berries were shipped was properly iced when the berries were loaded in the car, and the car was kept properly refrigerated until it reached its destination and was delivered to the consignee.\nThere was a verdict and judgment for the defendant, and the plaintiff has duly prosecuted an appeal to this court.\nC. M. Wofford, for appellant.\nE. T. Miller and Warner, Ear din \u00e9 Warner, for appellee."
+  },
+  "file_name": "0881-01",
+  "first_page_order": 899,
+  "last_page_order": 902
+}

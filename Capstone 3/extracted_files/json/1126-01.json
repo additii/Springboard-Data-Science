@@ -1,0 +1,169 @@
+{
+  "id": 1403607,
+  "name": "Cheairs v. McDermott Motor Company",
+  "name_abbreviation": "Cheairs v. McDermott Motor Co.",
+  "decision_date": "1928-01-23",
+  "docket_number": "",
+  "first_page": "1126",
+  "last_page": "1130",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "175 Ark. 1126"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [
+    {
+      "cite": "293 S. W. 1026",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "173 Ark. 875",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        8724913
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/173/0875-01"
+      ]
+    },
+    {
+      "cite": "224 S. W. 978",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "145 Ark. 548",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1586113
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/145/0548-01"
+      ]
+    },
+    {
+      "cite": "166 S. W. 965",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "112 Ark. 514",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1538809
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/112/0514-01"
+      ]
+    },
+    {
+      "cite": "18 S. W. 126",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "55 Ark. 268",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1322286
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/55/0268-01"
+      ]
+    },
+    {
+      "cite": "15 S. W 190",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "55 Ark. 265",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1322300
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/55/0265-01"
+      ]
+    },
+    {
+      "cite": "36 Ark. 248",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1872394
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/36/0248-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 389,
+    "char_count": 7051,
+    "ocr_confidence": 0.484,
+    "pagerank": {
+      "raw": 2.9633952857138185e-07,
+      "percentile": 0.8497530164886061
+    },
+    "sha256": "38c85465ec032464d722f17776e5ec5fc08d757e9f745fe0c021800f82a156f7",
+    "simhash": "1:8c7844863be863c3",
+    "word_count": 1215
+  },
+  "last_updated": "2024-02-27T16:24:20.967461+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Cheairs v. McDermott Motor Company."
+    ],
+    "opinions": [
+      {
+        "text": "Hart, C. J.,\n(after stating the facts). The main reliance of the defendants for a reversal of the judgment is that the transaction was, in effect, a device to cover a loan and to exact a greater rate of interest than that allowed by law. We do not agree with counsel in this contention. The law is well settled in this State that usury can only attach to a loan of money or to the forbearance of a debt, and that, on a contract for the sale of property, the contracting parties may agree upon one price if cash be paid, and upon a large addition to the cash price, as may suit themselves, if credit be given. Where the facts show that the transaction is in reality a sale, and the agreement is not made in consideration of the loan or forbearance of money, the charge of usury is not sustained. Ford v. Hancock, 36 Ark. 248; Brakefield v. Halpern, 55 Ark. 265, 15 S. W 190; Ellenbogen v. Griffey, 55 Ark. 268, 18 S. W. 126; Blake Bros. v. Askew, 112 Ark. 514, 166 S. W. 965; Smith v. Kaufman, 145 Ark. 548, 224 S. W. 978; and Standard Motor Finance Co. v. Mitchell Auto Co., 173 Ark. 875, 293 S. W. 1026.\nThe cash price of the automobile was $600.31, and the credit price, including certain extra equipment, was $743.81. The added charge was not a mere device to evade the statute against usury, but it represented the credit price of the car as distinguished from its cash price, and the circuit court properly held that the sale was valid and free from any taint of usury. The facts did not show this to be a case where property was sold at a cash valuation and certain payments were deferred in consideration that a greater rate of interest than allowed by law be paid by the purchaser. The transaction was neither a loan nor a forbearance of a debt, but was simply a contract to pay a greater sum for the purchase price of the automobile on a credit than would have been paid had the sale been for cash.\nIt is next insisted that the contract is usurious because the memorandum on the face of the note and sales contract, as signed by Ima Mae Cheairs, was \u201cInsurance and interest,\u201d instead of \u201cInsurance and carrying charge,\u201d as it now appears. The sum under this item was $76, and, under the facts disclosed'by the record, though it was in the original contract called \u2018 \u2018 interest, \u2019 \u2019 if was not paid for a loan of money, but was a part of the purchase price which the defendant at the time agreed to pay for the automobile. There.is no evidence whatever that the transaction was intended as a cover for a loan. Parker v. Coburn, 10 Allen (Mass.) 82. Hence the alteration in the contract was an immaterial one, and there is no ground whatever for the suggestion of the defendants that the contract was usurious.\nTherefore the judgment will be affirmed.",
+        "type": "majority",
+        "author": "Hart, C. J.,"
+      }
+    ],
+    "attorneys": [
+      "John T. \u25a0Cheairs, for appellant.",
+      "Toff $ Smith and Williamson $ Williaxmson, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Cheairs v. McDermott Motor Company.\nOpinion delivered January 23, 1928.\n1. Usury \u2014 sale of article'on credit. \u2014 Usury can only attach to a loan of money or to the forbearance of a debt'.\n2. Usury \u2014 sale of chattel. \u2014 Adding to the cash price of an automobile what is termed \u201cinsurance and carrying charge,\u201d representing the credit price of the automobile as distinguished from the cash price, represented by a note bearing interest at 10 per cent., held not usury where the sale was made in good faith.\n3. Usury \u2014 evidence.'\u2014-A memorandum on the face of a note and sales contract, designating an addition to the cash price of an automobile as \u201cinsurance and interest,\u201d held not evidence that the sale of an automobile on credit was intended to cover a usurious loan, and hence its alteration to read \u201cinterest and carrying charge\u201d was immaterial.\nAppeal from Drew Circuit Court; Turner Butler, Judge;\naffirmed.\nSTATEMENT OP PACTS.\nThis is an action in replevin by the McDermott Motor Company against J. T. Cheairs and Ima Mae Cheairs to recover the possession of a Ford coupe, alleged to be of the value of $250.\nThe record shows that the McDermott Motor, Company is a corporation engaged in seling automobiles in the town of McGehee, Arkansas. On the 28th day of February, 1925, it sold to Ima Mae Cheairs and J. T. Cheairs a Ford coupe, and retained title in the vehicle until the purchase price was paid in full. The purchasers agreed to pay $743.81 for the coupe. One hundred and eighty-five dollars of this amount was paid in cash, and a note for $557.86, with interest from maturity until paid, at the rate of ten per cent, per annum. The note was payable in installments' of $46.48, and contained a provision that, if any installment was not paid when it became due, the entire amount of the purchase price should become due and payable at the option of the seller, and that the seller had a right immediately to take possession of the property and sell it for the unpaid balance of the purchase price. On the back of the note appears the following:\nCash price of car...............................................................$600.31\nExtra equipment, balloon tires........................ 35.00\nExtra equipment, lock wheel.............................. 10.00\nExtra equipment, bumpers.................................... 22.50\nTotal amount of sale..........................................$667.81\nInsurance and carrying charge.............................. 76.00\nTotal cost to buyer, on time....................................$743.81\nAfter Ima Mae Cheairs signed the note, and before it was signed by J. T. Cheairs, the note contained the following: \u201cInsurance and interest,\u201d which was changed to \u201cInsurance and carrying charge,\u201d as it now appears on the note. The purchasers paid the monthly installments on the note until there was a balance due of $232.18, when they ceased to make the monthly payments, and the seller declared the balance of the purchase price due, and demanded possession of the car. Possession was refused by the purchasers, hence this lawsuit. The above facts are undisputed.\nIn addition, according to the testimony of the witnesses for the plaintiff, the cash price of a Ford coupe was $600.31. The credit price of the car, together with the insurance and extra equipment, amounted to $743.81. The items called \u201cinsurance and carrying charge\u201d were not for the forbearance of a debt but were to cover the increased price of selling on a credit. The loan of money did not enter into the transaction at all. At the time of the filing of the suit the car was worth $250, and at the time of the trial it was only worth $150.\nOther facts wil be stated or referred to in the opinion.\nThe case was tried by the court sitting as a jury, and the court found the issues of fact and law in favor of the plaintiff. Judgment was rendered in accordance with the provisions of \u00a7 8654a of Crawford & Moses\u2019 Digest for the balance due on the purchase price of the automobile, or, in default of payment within the time prescribed by the statute, for the return of the automobile, and damages for its detention. To reverse that judgment the defendants have duly prosecuted this appeal.\nJohn T. \u25a0Cheairs, for appellant.\nToff $ Smith and Williamson $ Williaxmson, for appellee."
+  },
+  "file_name": "1126-01",
+  "first_page_order": 1142,
+  "last_page_order": 1146
+}

@@ -1,0 +1,271 @@
+{
+  "id": 1388499,
+  "name": "St. Louis-San Francisco Railway Company v. Solomon & Weinberg",
+  "name_abbreviation": "St. Louis-San Francisco Railway Co. v. Solomon & Weinberg",
+  "decision_date": "1923-12-24",
+  "docket_number": "",
+  "first_page": "552",
+  "last_page": "556",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "161 Ark. 552"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [
+    {
+      "cite": "64 Mich. 208",
+      "category": "reporters:state",
+      "reporter": "Mich.",
+      "case_ids": [
+        1458745
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mich/64/0208-01"
+      ]
+    },
+    {
+      "cite": "64 Ark. 150",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1907350
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/64/0150-01"
+      ]
+    },
+    {
+      "cite": "38 Ark. 102",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1900465
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/38/0102-01"
+      ]
+    },
+    {
+      "cite": "6 Ark. 552",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        8727716
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/6/0552-01"
+      ]
+    },
+    {
+      "cite": "95 Ark. 588",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1543502
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/95/0588-01"
+      ]
+    },
+    {
+      "cite": "28 S. W. 965",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "126 Mo. 69",
+      "category": "reporters:state",
+      "reporter": "Mo.",
+      "case_ids": [
+        469929
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mo/126/0069-01"
+      ]
+    },
+    {
+      "cite": "16 Pae. 442",
+      "category": "reporters:state_regional",
+      "reporter": "P.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "38 Kan. 299",
+      "category": "reporters:state",
+      "reporter": "Kan.",
+      "case_ids": [
+        1097229
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/kan/38/0299-01"
+      ]
+    },
+    {
+      "cite": "74 Am. Dec. 195",
+      "category": "reporters:federal",
+      "reporter": "Am. Dec.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "12 Ind. 3",
+      "category": "reporters:state",
+      "reporter": "Ind.",
+      "case_ids": [
+        1488971
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ind/12/0003-01"
+      ]
+    },
+    {
+      "cite": "9 Ind. 243",
+      "category": "reporters:state",
+      "reporter": "Ind.",
+      "case_ids": [
+        1466919
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ind/9/0243-01"
+      ]
+    },
+    {
+      "cite": "150 N. W. 168",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "118 N. W. 539",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "65 Pac. 539",
+      "category": "reporters:state_regional",
+      "reporter": "P.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "100 S. W. 57",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "100 Ark. 37",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1312236
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/100/0037-01"
+      ]
+    },
+    {
+      "cite": "163 N. Y. S. 114",
+      "category": "reporters:state",
+      "reporter": "N.Y.S.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "141 Ark. 71",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1593028
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/141/0071-01"
+      ]
+    },
+    {
+      "cite": "151 Ark. 377",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1366058
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/151/0377-01"
+      ]
+    },
+    {
+      "cite": "95 Ark. 588",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1543502
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/95/0588-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 441,
+    "char_count": 8128,
+    "ocr_confidence": 0.481,
+    "pagerank": {
+      "raw": 8.138363859351185e-08,
+      "percentile": 0.4701447845028803
+    },
+    "sha256": "87c21f6139ed9d91faeef3b119ba17623a7b073556efba48f4da9fcf90efda9c",
+    "simhash": "1:87b21181c1bbe076",
+    "word_count": 1437
+  },
+  "last_updated": "2024-02-27T21:32:42.656819+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "St. Louis-San Francisco Railway Company v. Solomon & Weinberg."
+    ],
+    "opinions": [
+      {
+        "text": "McCulloch, C. J.\nAppellees shipped a lot of merchandise over appellant\u2019s line of railroad \u25a0 under a through bill of lading from Walnut Eidge to Blytheville, and this action was subsequently iiistituted to recover damages on account of the alleged loss of a portion of the merchandise so shipped. The claim is that the car in which the merchandise was shipped was broken open and a portion of the goods taken therefrom. Appellees introduced testimony sufficient to show the loss of the goods and that the car had been broken into prior to its arrival at destination. The trial of the case resulted in a verdict in favor of appellees for the full value of the goods alleged to have been stolen. The action was instituted in Greene County, and the service of summons was on the conductor of a train passing through the county. Appellant filed a motion to quash the service, which motion was overruled.\nAppellant\u2019s line of railroad runs across the corner of Greene County for a distance of about one-fourth of a mile, but there is no station in that county, nor any place of business maintained by appellant. The statute regulating the service of summons provides that the summons shall be served \u201cin case of railroad corporations, upon any station agent, or upon any person who has control of any of the business of said corporation, either as clerk, agent or otherwise, who, as such agent or clerk, has to report to the corporation who employed them; and, in cases of railroad corporations, a service of a copy of the summons upon the clerk or agent of any station in the county where the same shall be issued shall be deemed and considered as a good, and valid service.\u201d Crawford & Moses\u2019 Digest, \u00a71147.\nCounsel for appellees defend the ruling of the court in upholding the service on the authority of decisions cited from other States, but we think those decisions are not applicable, for the reason that they arose under statutes not similar to our own. The language of our statute clearly means that the service must be upon some agent of the company at a fixed place of business of the company in the county, not a mere agent who happens to be in the county at the time of service. Appellant maintains no place of business in Greene County, and the operation of trains through the county does not constitute the maintenance of .a place of business there in the sense that a conductor in charge of a train has authority to receive service. It might as well be said that service could be had upon a section foreman passing along the track, because he had charge of the company\u2019s business of maintaining the track and was required to report to some superior. We do not think that the language is open to that interpretation, and it follows therefore that the service was not sufficient. Appellant waived the service, however, and made a general appearance by filing an answer and going to trial without preserving its right to insist upon the insufficiency of the service. Vulcan Construction Co. v. Harrison, 95 Ark. 588.\nThe statute provides that an action against a railroad company for injury to person or property upon the road, \u201cor upon a liability as a carrier, may be brought in any county through or into which the road or * * * coaches of the defendant upon which the cause of action arose passes.\u201d Crawford & Moses\u2019 Digest, \u00a7 1172. This was an action against the company upon its liability as a carrier, and the action could have been brought in Greene County if service could have been had there. The question involved therefore is not one as to the venue, but as to the sufficiency of the service, and, since the action is one in which the venue could properly be laid in Greene County, there could be a waiver of the sufficiencv of the service, and there was, in fact, a waiver bv nleading the merits without preserving the right to object.\nIt is insisted further that the action is barred by reason of the fact that it was not instituted within two years, as prescribed in the contract of shinment. The action was in fact commenced within two years, and summons was issued within that time, which constituted the commencement of the action. Even though the suit was brought in a county where service could not have been had and jurisdiction obtained other than by appearance of appellant, the waiver of the service by appearance related back to the commencement of the action. Sims v. Miller, 151 Ark. 377.\nIt is contended that the goods were lost while in the yards after arrival at destination, and that, under a clause in the bill of lading, the goods, under those circumstances, were held at the owner\u2019s risk. One of the an- ' swers to this contention is that the clause referred to relates only to property \u201cdestined to or taken from a station, wharf or landing at which there is no regularly appointed agent.\u201d This does not apply to the yards at Blytheville, where there is a station of appellant. A further answer is that there is proof sufficient to show that the damage occurred before arrival at Blytheville.'\nIt is argued that the evidence is not sufficient to sustain the verdict, but we are of the opinion that there is substantial evidence tending to show that the goods were lost from the possession of appellant, and that they were taken from the car before its arrival at Blytheville. One of the witnesses introduced by appellees testified that, on arrival of the car at Blytheville, one of the doors had been broken off and the place nailed up.\nOur conclusion is that the evidence was sufficient and that the issues were properly submitted in the court\u2019s charge.\nAffirmed.",
+        "type": "majority",
+        "author": "McCulloch, C. J."
+      }
+    ],
+    "attorneys": [
+      "W. F. Evans, W. J. Orr and E. L. Westbroohe, for appellants.",
+      "M. P. Huddleston, for appellees."
+    ],
+    "corrections": "",
+    "head_matter": "St. Louis-San Francisco Railway Company v. Solomon & Weinberg.\nOpinion delivered December 24, 1923.\n1. Railroads \u2014 service op summons. \u2014 Under Crawford & Moses\u2019 Dig.. \u00a7 1147. providine- that in case of railroad corporations service of a summons \u201cupon the clerk or agent of any station in the county where-the same shall he issued shall be deemed and considered as a good and valid service,\u201d held that service of a summons upon a conductor of a train passing through the county is insufficient.\n2. Railroads \u2014 service of summons \u2014 waiver.\u2014As an action against a railroad company upon a liability as carrier may be brought in any county through or into which the road passes, under Crawford & Moses\u2019 Dig., \u00a7 1172, objection to the sufficiency of service of summons in any such county may be waived by pleading the merits without preserving the right to object.\n3. Carriers \u2014 loss of freight. \u2014 limitation.\u2014Where an action against a railroad company for loss of freight was commenced within the statutory period of two years, but the summons was not properly served within that time, the subsequent waiver of objection .thereto by the company by entering its appearance will relate back to the commencement of the action.\nAppeal from Greene Circuit Court; W. W. Bundy, Judge;\naffirmed.\nW. F. Evans, W. J. Orr and E. L. Westbroohe, for appellants.\n1. The service of summons on the conductor of the appellant\u2019s train was not sufficient to bring the company into court. C. & M. Digest, \u00a7 8572; Id. \u00a7 1147. \u2022\n2. The merchandise in the cars after arrival at Blytheville remained in the oars at the owners \u2019 risk, as is provided by section 5 of the bill of lading. 141 Ark. 71; L. R. A., 1916-C, 608; 163 N. Y. S. Ill; 163 N. Y. S. 114; 100 Ark. 37; C. & M. Digest, \u00a7 905.\nM. P. Huddleston, for appellees.\n1. The suit was commenced when the complaint was filed and the summons was issued, and was in time. C. & M. Digest, \u00a7 1049.\n2. The service on the conductor was sufficient. 100 S. W. 57; Thompson on Corporations, vol. 3, \u00a7 3080; 65 Pac. 539; 118 N. W. 539; 150 N. W. 168; 9 Ind. 243; 12 Ind. 3; 74 Am. Dec. 195; 38 Kan. 299; 16 Pae. 442; 126 Mo. 69; 28 S. W. 965; C. & M. Digest, \u00a7 1147.\n3. Whether the service was sufficient or not, appellant entered its appearance by pleading to the merits \u25a0without preserving its objections to the service, and it therefore waived such objection. 95 Ark. 588-91; 6 Ark. 552; 38 Ark. 102; 32 Ark: 432; 64 Ark. 150; L. R. A., 1916-E, 1086, note; 64 Mich. 208;. 2 Standard Enc. of Proc. 534."
+  },
+  "file_name": "0552-01",
+  "first_page_order": 580,
+  "last_page_order": 584
+}

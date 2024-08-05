@@ -1,0 +1,559 @@
+{
+  "id": 1360566,
+  "name": "Bartlett v. Yochum",
+  "name_abbreviation": "Bartlett v. Yochum",
+  "decision_date": "1922-11-20",
+  "docket_number": "",
+  "first_page": "626",
+  "last_page": "632",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "155 Ark. 626"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [
+    {
+      "cite": "96 S. W. 1062",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "191 S. W. 873",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "105 Ark. 353",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1346994
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/105/0353-01"
+      ]
+    },
+    {
+      "cite": "104 Ark. 375",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1350597
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/104/0375-01"
+      ]
+    },
+    {
+      "cite": "103 Ark. 307",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1352041
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/103/0307-01"
+      ]
+    },
+    {
+      "cite": "103 Ark. 356",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1351988
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/103/0356-01"
+      ]
+    },
+    {
+      "cite": "102 Ark. 531",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1353979
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/102/0531-01"
+      ]
+    },
+    {
+      "cite": "126 Ark. 469",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1551707
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/126/0469-01"
+      ]
+    },
+    {
+      "cite": "123 Ark. 619",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "121 Ark. 266",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1559376
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/121/0266-01"
+      ]
+    },
+    {
+      "cite": "119 Ark. 629",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "117 Ark. 198",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1564919
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/117/0198-01"
+      ]
+    },
+    {
+      "cite": "170 S. W. 483",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "114 Ark. 415",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1536327
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/114/0415-01"
+      ]
+    },
+    {
+      "cite": "27 Ark. 506",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1885695
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/27/0506-01"
+      ]
+    },
+    {
+      "cite": "66 Ark. 646",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "101 Ark. 120",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1311114
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/101/0120-01"
+      ]
+    },
+    {
+      "cite": "59 Ark. 1",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1327669
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/59/0001-01"
+      ]
+    },
+    {
+      "cite": "57 Ark. 153",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1324639
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/57/0153-01"
+      ]
+    },
+    {
+      "cite": "177 S. W. 894",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "206 S. W. 145",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "161 S. W. 726",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "132 S. W. 221",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "114 Ark. 122",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "10 Ark. 492",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "34 Ark. 632",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1875679
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/34/0632-01"
+      ]
+    },
+    {
+      "cite": "70 Ark. 385",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1509516
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/70/0385-01"
+      ]
+    },
+    {
+      "cite": "78 Ark. 586",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1497306
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/78/0586-01"
+      ]
+    },
+    {
+      "cite": "95 Ark. 421",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1543617
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/95/0421-01"
+      ]
+    },
+    {
+      "cite": "95 Ark. 155",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1543543
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/95/0155-01"
+      ]
+    },
+    {
+      "cite": "90 Ark. 131",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1513875
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/90/0131-01"
+      ]
+    },
+    {
+      "cite": "69 Ark. 648",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        8725859
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/69/0648-01"
+      ]
+    },
+    {
+      "cite": "51 Ark. 513",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "23 Ark. 730",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1866094
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/23/0730-01"
+      ]
+    },
+    {
+      "cite": "91 Ark. 458",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1511800
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/91/0458-01"
+      ]
+    },
+    {
+      "cite": "54 Ark. 444",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1320416
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/54/0444-01"
+      ]
+    },
+    {
+      "cite": "122 Ark. 179",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1558220
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/122/0179-01"
+      ]
+    },
+    {
+      "cite": "62 Ark. 33",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1905631
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/62/0033-01"
+      ]
+    },
+    {
+      "cite": "23 Ark. 411",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1866076
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/23/0411-01"
+      ]
+    },
+    {
+      "cite": "105 Ark. 110",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1347110
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/105/0110-01"
+      ]
+    },
+    {
+      "cite": "28 Ark. 95",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1884362
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/28/0095-01"
+      ]
+    },
+    {
+      "cite": "10 Ark. 18",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        8727236
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/10/0018-01"
+      ]
+    },
+    {
+      "cite": "1 Ark. 552",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "88 Ark. 557",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1517109
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/88/0557-01"
+      ]
+    },
+    {
+      "cite": "107 Ark. 130",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1344008
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/107/0130-01"
+      ]
+    },
+    {
+      "cite": "89 Ark. 154",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1515263
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/89/0154-01"
+      ]
+    },
+    {
+      "cite": "142 Ark. 565",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1590538
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/142/0565-01"
+      ]
+    },
+    {
+      "cite": "137 Ark. 418",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1568024
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/137/0418-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 551,
+    "char_count": 11219,
+    "ocr_confidence": 0.439,
+    "pagerank": {
+      "raw": 1.1557160347743624e-07,
+      "percentile": 0.5825233440250763
+    },
+    "sha256": "af97510697dd2f31f3532028f4b4af4a1b76915c3c37daabd5bc66e29d66bfe8",
+    "simhash": "1:62bf68d80a0bed05",
+    "word_count": 2062
+  },
+  "last_updated": "2024-02-27T20:04:56.897085+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Bartlett v. Yochum."
+    ],
+    "opinions": [
+      {
+        "text": "Hart, J.,\n(after stating the facts). It is earnestly insisted by counsel for the defendant that the court should have directed a verdict in his favor. They point out that Dumm only had authority to enter into written contracts for the purchase of timber for the defendant, and that no contract in writing was ever made by him with Yochum. They insist that the only contract made with Yochum for getting out logs was the answer of Bartlett to the letter written by Landrum for Yochum of the date of August 31, 1920.\nIt is true that the letter only refers to the shortage on Moore\u2019s barge and asked permission to supply enough logs to fill out that barge; but this letter and the answer accepting does not restrict the plaintiff\u2019s right of recovery to that barge. \"While Dumm had authority from Bartlett only to make written contracts for the purchase of timber, yet his apparent authority in the matter covered a much wider field. Dumm had been the general purchasing agent for Bartlett for a number of years, and had purchased all of his timber in that part of the country. Bartlett himself wrote to Yochum that Dumm would be down in his vicinity soon, and that he trusted that he could make satisfactory arrangements with Moore and Yochum about their timber. He knew that Yochum was getting out logs for him under the contract which Dumm had made with Moore for him. It was inferable, from these facts and circumstances, that Dumm had at least apparent authority to make an oral contract with Yochum for the purchase of the logs got out by him. A person is bound, not only by all acts of his agent within the scope of actual authority, but also by those within the apparent scope of his authority, though beyond his actual authority. Crossett Lumber Co. v. Fowler, 137 Ark. 418, and Arkadelphia Milling Co. v. Green, 142 Ark. 565.\nIt will be seen that Bartlett knew that Yochum was getting out timber under Moore\u2019s contract, and Bartlett also gave Dumm express directions to adjust any differences with regard to the matter.\nAccording to the testimony of Yochum, he got out 59.000 feet of timber by the first of October, 1920. It will be noted that this was done before Bartlett wrote his letter of October 2, 1920, to Moore, restricting his right to getting ont but one barge of logs.\nIt also appears from the testimony of Yochum and Moore that Dumm came down about the middle of October, 1920, and scaled and accepted a barge of logs from Moore. At that time he also inspected, scaled, and accepted 59,000 feet of logs got out by Yochum. He told Moore and Yochum that he would first take Moore\u2019s barge of logs up the river and then come back and get another barge of logs, including those got out by Yochum. According to the testimony of Yochum, Dumm was told about the letter that Bartlett had written to Moore on October 2, 1920, telling, him that he would not accept but one barge of logs. Dumm. said that this did not make any difference, that he would take two barges of logs, and this included the 59,000 feet of logs got out by Yochum.\nThese facts warranted the jury in returning a verdict for Yochum after Bartlett refused to accept the 59.000 feet of logs got out by Yochum. The respective theories of the parties to this lawsuit were submitted to the jury under proper instructions. The jury returned a verdict for Yochum in the sum of $1,665. The undisputed evidence shows that Yochum got out 59,000 feet of timber and placed it on the river bank for Bartlett. Yochum testified in positive terms that he got out this amount by the first of October, 1920. His testimony is corroborated by other facts and circumstances. He was to receive $35 per 1,000 feet for all logs gotten out by him. This would amount to $2,065. 'Bartlett had already made an advancement of $400. This would leave a balance of $1,665, which was the amount of the verdict. This shows that the jury only allowed Yochum for the timber ydiich was scaled and accepted by Dumm on the riyer bank.\nThe verdict therefore eliminated an error which the court made in submitting the question of damages suffered by Yochum for a breach of contract in respect to logs which had not been scaled and accepted by Dumm. The reason is that, if the jury only allowed Yochum damages for the logs which were actually scaled and accepted by Dumm, no prejudice could have resulted to the defendant from submitting the question of damages, as to logs not delivered and accepted by Dumm, to the jury. St. L. S. W. Ry. Co. v. Grayson, 89 Ark. 154, and Hill v. Gibson, 107 Ark. 130.\nIt follows\u2019 that the judgment will be affirmed.",
+        "type": "majority",
+        "author": "Hart, J.,"
+      }
+    ],
+    "attorneys": [
+      "8. L. Gladish and George E. Martin, for appellee.",
+      "J. T. Coston, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Bartlett v. Yochum.\nOpinion delivered November 20, 1922.\n1. Principal and agent \u2014 apparent authority. \u2014 A person is bound, not only by all acts of his agent within the scope of actual authority, but also by those within the apparent scope of his authority, though beyond his actual authority.\n2. Principal and agent \u2014 apparent authority. \u2014 Evidence that an agent who had been employed by defendant for a number of years with authority to purchase timber by written contracts only made a verbal contract for logs with plaintiff, and that defendant, knowing that the agent had made a contract for logs with plaintiff, advanced money for certain logs and wrote plaintiff that the agent would be in the vicinity soon, and he trusted that the agent could make a satisfactory arrangement about the timber, held to justify a finding that the agent\u2019s acts were within the apparent scope of his authority.\n3. Appeal and error \u2014 harmless error \u2014 instruction.\u2014Where, in an action for breach of a contract for the sale of logs, the jury awarded damages only for the logs which were actually scaled and accepted by defendant\u2019s agent, the submission of the question of damages as to logs not delivered and accepted was not prejudicial.\nAppeal from Mississippi Circuit Court, Osceola District ; W. W. Bcmdy, Judge;\nreversed.\nSTATEMENT OE EACTS.\nJ. It. Yochum sued O. L. Bartlett in the circuit court to recover damages for an alleged breach of contract for the sale of logs by the former to the latter.\nIt appears from the record that 0. L. Bartlett of Mound City, 111., made a written contract with W. D. Moore, of Rosey, Ark., for the latter to get out certain elm logs for the former. The contract provided for one barge or more of elm timber to be put out at O\u2019Donnell\u2019s Bend, on the Mississippi River, in Mississippi County, Ark., in reach of a derrick boat. The contract was signed by W. D. Moore for himself and by Charley Dumm for 0. L. Bartlett. Dumm had been purchasing timber for Bartlett for ten years, and, according to their testimony, Dumm had only authority to make written contracts for the purchase of timber for Bartlett. Dumm had purchased timber generally for Bartlett for ten years, and had bought timber whenever he wished. A barge of timber consists of 100,000 feet. The contract in question was executed on the 24th day of July, 1920. Dumm returned in August to see how the work was progressing, and Moore told him that he did not think that he could get out enough timber for one barge, because his timber was not turning out like he thought it would. Dumm asked him if he could 'not buy timber from any one else around there. Moore replied that he could get some from Yoclium and another person. J. R. Yochum was the son-in-law of W. D. Moore. Dumm agreed that Moore might fill out his barge with Yochum\u2019s timber. On August 31,1920, Yochum got J. M. Landrum, a bank cashier, to write the following letter to Bartlett:\n\u201cDear Sir: I want to put out on \"W. D. Moore\u2019s contract with you, from 25 or 40 thousand feet of elm (he will be a little short on barge load) and, if agreeable to you, would like to have an advance of $500 on same. If you can do this, please send check care Lucora Banking Co., and very much oblige.\n\u201cYours truly.\u201d\nBartlett advanced Yochum $400 while he was getting out the timber, and also made an advance of money to W. D. Moore. On the 3rd of September, 1920, Bartlett wrote to Yochum that he had already advanced $1,000 on the barge that Moore was getting out, and that he did not feel like he could advance any more on any one barge. He stated in the letter that his log man, Charley Dumm, would be in Yochum\u2019s vicinity soon, and that he hoped, that he could make satisfactory arrangements with Yochum and Moore. On the 2nd day of October, 1920, Bartlett sent Moore a check for $800 and told him that he eould not take any more logs from him after the barge he was then loading had been filled. Sometime about the middle of October Dumm came down and accepted the logs which Moore had got out, and this amount was sufficient to fill one barge containing something over 100,000 feet. At the same time Dumm inspected, scaled and accepted the logs which had been put out by the plaintiff Yochum, to the amount of 59,000 feet, and at the time he accepted them he knew that Yochum had got out the logs under the contract with Moore. Dumm at the time told Moore and Yochum that he was going to take the barge containing Moore\u2019s timber up the river and come back and get Yochum\u2019s timber on another barge. W. D. Moore did not call Yochum\u2019s attention to the letter which he had' received from Bartlett dated October 2, 1920, telling him that he would take but one barge of logs from him. The contract price of the logs was $35 per 1,000 feet. According to the testimony of Diimm, he did not know how many feet of timber Yochnm had got out at the time he made the inspection of the timber and accepted it. He thought all of the timber was going in on the one barge of Moore.\nOther facts will be stated or referred to in the opinion.\nThe jury returned a verdict in favor of the plaintiff in the sum of $1,665. From the judgment rendered the defendant has duly prosecuted an appeal to this court.\n8. L. Gladish and George E. Martin, for appellee.\nAn agent has no power to delegate his authority to another. 88 Ark. 557; 1 Ark. 552; 10 Ark. 18; 28 Ark. 95. One dealing with an agent is at once put upon notice of his .authority. 105 Ark. 110; 23 Ark. 411; 62 Ark. 33; 122 Ark. 179. When a cheek is sent to another it must be applied -as directed. 54 Ark. 444; 91 Ark. 458. Incompetent evidence is cause for reversal if it was an element upon which the verdict was founded. 23 Ark. 730; 51 Ark. 513; 69 Ark. 648. A meeting of the minds of parties- is necessary to constitute a binding contract. 90 Ark. 131; 95 Ark. 155; 95 Ark. 421; 78 Ark. 586. The evidence was insufficient to sustain the verdict. 70 Ark. 385; 34 Ark. 632; 10 Ark. 492; 114 Ark. 122.\nJ. T. Coston, for appellee.\nA principal is bound by all the acts of his agent when acting in .the apparent scope of his authority. 132 S. W. 221. There was no error in permitting the plaintiff to introduce the contract in evidence. 161 S. W. 726; 206 S. W. 145; 177 S. W. 894; 57 Ark. 153; 59 Ark. 1; 101 Ark. 120; 66 Ark. 646; 27 Ark. 506; 114 Ark. 415; 170 S. W. 483; 117 Ark. 198; 119 Ark. 629; 121 Ark. 266'; 123 Ark. 619; 126 Ark. 469; 102 Ark. 531; 103 Ark. 356; 103 Ark. 307; 104 Ark. 375; 105 Ark. 353; 191 S. W. 873. The court did not err in refusing to direct a verdict for appellant. The question of negligence was for the jury. 96 S. W. 1062."
+  },
+  "file_name": "0626-01",
+  "first_page_order": 650,
+  "last_page_order": 656
+}

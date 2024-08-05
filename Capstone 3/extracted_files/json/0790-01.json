@@ -1,0 +1,225 @@
+{
+  "id": 1432031,
+  "name": "Massachusetts Mutual Life Insurance Company v. Brun",
+  "name_abbreviation": "Massachusetts Mutual Life Insurance v. Brun",
+  "decision_date": "1933-06-26",
+  "docket_number": "4-3052",
+  "first_page": "790",
+  "last_page": "796",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "187 Ark. 790"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [
+    {
+      "cite": "79 Pac. Rep. 850",
+      "category": "reporters:state_regional",
+      "reporter": "P.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "146 Cal. 191",
+      "category": "reporters:state",
+      "reporter": "Cal.",
+      "case_ids": [
+        2118059
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal/146/0191-01"
+      ]
+    },
+    {
+      "cite": "101 Pac. Rep. 461",
+      "category": "reporters:state_regional",
+      "reporter": "P.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "80 Kan. 22",
+      "category": "reporters:state",
+      "reporter": "Kan.",
+      "case_ids": [
+        1167561
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/kan/80/0022-01"
+      ]
+    },
+    {
+      "cite": "300 S. W. 390",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "175 Ark. 659",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1403411
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/175/0659-01"
+      ]
+    },
+    {
+      "cite": "32 S. W. (2d) 1064",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "182 Ark. 877",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1389812
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/182/0877-01"
+      ]
+    },
+    {
+      "cite": "9 S. W. (2d) 307",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "177 Ark. 926",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "47 S. W. (2d) 15",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "185 Ark. 260",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1435121
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/185/0260-01"
+      ]
+    },
+    {
+      "cite": "203 S. W. 844",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "134 Ark. 152",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1573285
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/134/0152-01"
+      ]
+    },
+    {
+      "cite": "205 S. W. 978",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "135 Ark. 607",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1571531
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/135/0607-01"
+      ]
+    },
+    {
+      "cite": "131 S. W. 955",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "96 Ark. 371",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1541992
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/96/0371-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 502,
+    "char_count": 10188,
+    "ocr_confidence": 0.492,
+    "pagerank": {
+      "raw": 1.5782770352247328e-07,
+      "percentile": 0.6798877077389454
+    },
+    "sha256": "8bf3ab1c3f707f57a903b9a65737944c0289c873ec985dbaf02e9f50808a8ee1",
+    "simhash": "1:031fa8c2ab7aee52",
+    "word_count": 1825
+  },
+  "last_updated": "2024-02-27T21:18:50.990705+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Kirby, J., dissents."
+    ],
+    "parties": [
+      "Massachusetts Mutual Life Insurance Company v. Brun."
+    ],
+    "opinions": [
+      {
+        "text": "Mehaffy, J.\nIn 1924 the Tancred-Browne Realty Company borrowed from the appellant, Massachusetts Mutual Life Insurance Company, $40,000 and executed and delivered to the appellant its promissory notes, and, to secure the payment of said notes, executed and delivered to appellant its deed of trust.\nThis loan was not paid, although a portion of it had been paid in 1929, but the borrower was unable to pay, and desired to renew this and borrow an additional sum, making the loan $45,000. The notes and a deed of trust were executed and delivered, the notes being signed by Fred Browne and Frank J. Brun as co-makers.\nThis loan was not paid, and on October 21,1932, the appellant filed its complaint in the chancery court against the Tancred-Browne Realty Company, Fred Browne and Frank J. Brun. The. realty company and Fred Browne made no defense, and a decree was entered against them for the amount of the notes, and for a foreclosure of the deed of trust.\nFrank J. Brun answered, alleging that he was not personally liable on the notes, and that he was induced to sign the same through fraud, perpetrated by Mr. Bailey, agent of the appellant.\nThe chancery court entered' a decree in favor of the plaintiff against the realty company and Fred Browne for the amount sued for, but found that Bailey was the agent of the insurance company, and Brun was induced to sign the notes through fraud and trickery, and entered a decree in favor of Brun. This appeal is by the insuranee company to reverse the decree of the lower court finding- in favor of Brun.\nThere are but two questions for our consideration: First, was Bailey the agent of the lender? Second, was Brun induced to sign the note through the fraud and trickery of Bailey?\nThe chancery court found that Bailey was the duly authorized agent and representative of the insurance company, and that Brun, in signing the note, was acting solely on behalf of the realty company, and did not become personally liable.\nThe insurance company contends that Bailey was its agent for the purpose of collecting rent, but he had no authority to represent it in connection with the loan; that, in making the representations that it was alleged he made to Brun, he did not represent the insurance company and had no authority to make the representations.\nThe first loan, in 1924, was made a long while before Brun had any connection with the Tanered-Browne Realty Company, and there was still $32,000 of that loan unpaid. The loan made in 1929 was this same $32,000 and something more than $12,000 in addition to the $32,000. The application for the loan in 1929 was made to Mr. Pinson, of Dallas, Texas, who was in charge of the insurance company\u2019s office at that place, and was not made to Bailey or through Bailey. The evidence shows that Bailey had said to the borrowers that they had better take it up with him because the insurance company would write to him about it anyway.\nThe notes and deed of trust were, sent by Pinson from the office at Dallas to Bailey at Fort Smith. \"When Bailey received the papers, he. took them to the realty company to be signed on August 14. The mortgage was executed, and the notes were signed by Browne as secretary, and the deed of trust and notes were then taken to Brun in his office. Brun and a number of other witnesses who were present testified that, when Bailey came in he told Brun in substance that he, Brun, was president of the company, and that he would have to sign the notes and deed of trust as president of the company. Brun told him he was very busy and asked him to come back. Bailey said it would only take a few minutes, and pointed out the places to sign. Brun told Bailey that he would sign it as president, but would not become personally liable, and Bailey told Brun that that was what he was to do to sign as president and not to become personally liable. Brun did not have time to read the papers, and did not read them, but signed at the place pointed out by Bailey.\nThe insurance company had given power of attorney to release the former deed of trust, and had also given Bailey power of attorney to satisfy or release other deeds of trust. Bailey had been connected with the insurance company for 7 or 8 years. When this suit was filed, Bailey made the affidavit attached to the complaint, as local agent of the insurance company. He testified that he made a mistake in signing the affidavit that way; that he was only their rental agent.\nThe. insurance company furnished Bailey with forms for application for loans. The insurance company had no other representative in Fort Smith except Bailey. It called on him to make appraisement of property. Whenever a loan was made by the insurance company, the papers were sent to Bailey in order that he might have them executed and recorded. In fact, everything Bailey did in connection with this loan is shown by the evidence to have been done as a representative of the insurance company, and not as a representative of the borrower.\nIt is unnecessary to set out the testimony in detail on the question of agency. The court found that Bailey was the agent and representative of the insurance company, and not of the borrower. We think there is ample evidence to support the finding by the court that Bailey had authority to represent the insurance company.\nIt is next contended by the appellant that it was error to admit oral testimony to vary or contradict the terms of a written contract. This evidence was competent. It was not introduced for the purpose of contradicting or varying the terms of the contract, but was introduced for the purpose of showing that no contract was ever made whereby Brun became personally liable.\nThe testimony is olear and convincing, that, when Bailey took the papers to he signed, Brun was busy; that he stated that he would not sign so as to be personally liable; that he asked Bailey to come back when he was not so busy; that Bailey told him he was simply to sign as president, and that he would not be personally liable, and pointed out the place for Brun to sign; that Brun did not have time to read the contracts, did not read them, relied entirely upon Bailey, and signed where Bailey told him to sign.\nThe general rule as to the effect of signing a contract without reading, where fraud is charged, is stated in C. J. as follows:\n\u201cOf course, if the other party induces the signer to sign the paper without reading it, and to rely on his statement as to the contents, this may give the signer a right, if the statement was fraudulent, to avoid the contract as against him on the ground of fraud.\u201d 13 C. J. 371; 6 R. C. L. 630, \u00a7 49.\nThis court has said: \u201cSo, in the present case, if the allegations of the answer are true, it does not lie in the mouth of the plaintiff to say that the defendant had no right to rely upon the representation that the contract contained the same terms as the former lease. Defendant alleges that he relied on the statement. If that is true, it caused him not to read the contract, and he is not estopped, under those circumstances, to plead his ignorance.\u201d Stewart v. Fleming, 96 Ark. 371, 131 S. W. 955; J. I. Case Threshing Machine Co. v. S. W. Veneer Co., 135 Ark. 607, 205 S. W. 978; Conn. Fire Ins. Co. v. Wigginton, 134 Ark. 152, 203 S. W. 844; Catlett v. Bradley, 185 Ark. 260, 47 S. W. (2d) 15; Inter-Southern Life Ins. Co. v. Holzhauer, 177 Ark. 926, 9 S. W. (2d) 307.\nIn another recent ease decided by this court the court held that parol evidence was inadmissible, but the court said: \u201cThere is no charge of fraud or trickery in obtaining his signature to the note, but the allegation simply means that, although he signed the note, there was a contemporaneous oral agreement that he should not be bound, but that he signed for reference merely.\u201d Randle v. Overland Texarhana Co., 182 Ark. 877, 32 S. W. (2d) 1064.\nIn the last case cited it was expressly stated that there was no allegation of fraud or trickery. In the instant ease there is the allegation of fraud, and the evidence was admissible.\nIn a recent case we said: \u201cLearned counsel for appellants invoke the doctrine which has always been, and still is, adhered to by this court, that one who signs a contract, after opportunity to examine it, cannot be heard to say that he did not know what it contained. \u2019 \u2019\nIn support of this, numerous authorities are cited, and the court continues: \u201cBut in these cases there was no circumstance, tending to show that the signature of one of the parties to the contract was procured through fraud, or trickery, or inequitable conduct upon the part of the other party to the contract. These cases are clearly differentiated from the case at bar by the facts, because here there were circumstances of fraud, trickery, or inequitable conduct on the part of one of the parties to the contract which caused the. other party to sign the same under a mistake of fact, without reading the contract.\u201d Galloway v. Russ, 175 Ark. 659, 300 S. W. 390.\n\u201cThere is. a well-recognized exception to the rule that, a party is bound to know the contents of a paper which he signs; and that is where one party procures another to sign a writing by fraudulently representing that it contains the stipulation agreed upon, when, in fact, it does not, and where the party signing relies on the faith of these, representations, and is thereby induced to omit the reading of the writing which he signs. It is well settled that a written contract which one party induced another to execute by false representations as to its contents is not enforceable, and the party so defrauded is not precluded from contesting the validity of the contract by the fact that he failed to read it before attaching his signature.\u201d Tanton v. Martin, 80 Kan. 22, 101 Pac. Rep. 461; Willey v. Clements, 146 Cal. 191, 79 Pac. Rep. 850.\nThe appellee Brun alleged fraud and trickery, and there was sufficient evidence to justify the chancery court in finding in favor of Brun.\nThe decree of the chancery court is affirmed.\nKirby, J., dissents.",
+        "type": "majority",
+        "author": "Mehaffy, J."
+      }
+    ],
+    "attorneys": [
+      "Ira D. Oglesby, for appellant.",
+      "Warner & Warner, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Massachusetts Mutual Life Insurance Company v. Brun.\n4-3052\nOpinion delivered June 26, 1933.\nIra D. Oglesby, for appellant.\nWarner & Warner, for appellee."
+  },
+  "file_name": "0790-01",
+  "first_page_order": 810,
+  "last_page_order": 816
+}

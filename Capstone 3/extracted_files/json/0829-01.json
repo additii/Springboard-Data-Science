@@ -1,0 +1,187 @@
+{
+  "id": 8725843,
+  "name": "H. G. Pugh & Company v. Ahrens",
+  "name_abbreviation": "H. G. Pugh & Co. v. Ahrens",
+  "decision_date": "1929-06-24",
+  "docket_number": "",
+  "first_page": "829",
+  "last_page": "830",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "179 Ark. 829"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [
+    {
+      "cite": "12 S. W. (2d) 14",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "178 Ark. 604",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1397021
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/178/0604-01"
+      ]
+    },
+    {
+      "cite": "14 S. W. (2d) 245",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "178 Ark. 1019",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1396970
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/178/1019-01"
+      ]
+    },
+    {
+      "cite": "177 S. W. 10",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "118 Ark. 449",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1562576
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/118/0449-01"
+      ]
+    },
+    {
+      "cite": "277 S. W. 535",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "169 Ark. 1151",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1374057
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/169/1151-01"
+      ]
+    },
+    {
+      "cite": "118 S. W. 250",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "90 Ark. 166",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1513868
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/90/0166-01"
+      ]
+    },
+    {
+      "cite": "98 U. S. 61",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11323
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/98/0061-01"
+      ]
+    },
+    {
+      "cite": "10 S. W. (2d) 873",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "178 Ark. 230",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1397111
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/178/0230-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 256,
+    "char_count": 3580,
+    "ocr_confidence": 0.508,
+    "pagerank": {
+      "raw": 9.141210829279633e-08,
+      "percentile": 0.5077128048778133
+    },
+    "sha256": "d1d2b23cea10643ae8dffbc14f50f31430e173f4c90f73aa980c31862995347c",
+    "simhash": "1:536267346c868e52",
+    "word_count": 652
+  },
+  "last_updated": "2024-02-27T23:51:14.248945+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "H. G. Pugh & Company v. Ahrens."
+    ],
+    "opinions": [
+      {
+        "text": "Hart, C. J.\nPI. G. Pugh & Company, a corporation, brought this suit in equity against J. D. Ahrens to enjoin him from enforcing- a judgment in the circuit court, on the ground that it was procured by fraud. The facts on which the relief is based may be briefly stated as follows:\nJ. D. Ahrens sued H. G. Pugh & Company, a corporation, of which H. G. Pugh is president, to recover an amount alleged to be due for premiums on two policies of insurance upon the life of its president. Ahrens recovered judgment in the circuit court, which was affirmed on appeal. H. G. Pugh & Co. v. Ahrens, 178 Ark. 230, 10 S. W. (2d) 873. Ahrens was a witness in his own behalf, and testified as to the contract of insurance and the circumstances attending the same. This court held that, in an action by an insurance agent to recover from the insured for premiums advanced by the agent, the insured having been in possession of the policies for several months before their cancellation, by retaining possession of the policies for so long a time after their delivery to him, must be held, as a matter of law, to have accepted the policies. It was alleged in the complaint in the present case that said J. D. Ahrens had sworn falsely in the case in the circuit court, and the particulars in reference to said false testimony are fully set forth.\nThe chancery icourt overruled a motion of the plaintiff to transfer the case to the circuit court, and sustained a plea treated by the court as a demurrer to the complaint. It was therefore decreed that the complaint should be dismissed for want of equity, and the plaintiff has appealed.\nWalter M. Purvis, 'for appellant.\nFred A. Isgrig and Philip McNemer, for appellee.\nHart, C. J.,\n(after stating the facts). The opinion' of the chancery court was correct. The complaint in the case at bar asks that a judgment between the parties in the circuit court be enjoined as having been procured by fraud. Ahrens sued Pugh & Company to recover judgment for an amount alleged to be due for premiums on two insurance policies, and recovered judgment. He was a witness for himself, and his testimony sustained his right to recover. In the present case it is alleged that his testimony was false, and the falsity of his testimony in the circuit court is made the 'basis of plaintiff\u2019s cause of action in the case at bar.\nIt is the settled law of this State that the fraud which will justify the setting aside of a judgment or decree of a court must be such as prevented the unsuccessful party from, fully presenting his case, or which operated as a fraud or imposition upon the jurisdiction of the court. Mere false testimony is not enough, if the disputed matter was an issue in the case in which it is claimed that it was given. The truth or falsity of the testimony of Ahrens was a material issue in the circuit court case.\nIt has been well said that the mischief of retrying every case in which the judgment or decree rendered on false testimony, given by perjured witnesses, would be greater, by reason of the endless nature of the strife, than any compensation from doing justice in individual oases. United States v. Throckmorton, 98 U. S. 61; Bank of Pine Bluff v. Levi, 90 Ark. 166, 118 S. W. 250; Johnson v. Johnson, 169 Ark. 1151, 277 S. W. 535; Gassady v. Norris, 118 Ark. 449, 177 S. W. 10; Lambie v. W. T. Raivleigh Co., 178 Ark. 1019, 14 S. W. (2d) 245; Gipson v. No Fence District No. 2 Lincoln County, 178 Ark. 604, 12 S. W. (2d) 14.\nIt follows that the decree must be affirmed.",
+        "type": "majority",
+        "author": "Hart, C. J. Hart, C. J.,"
+      }
+    ],
+    "attorneys": [
+      "Walter M. Purvis, 'for appellant.",
+      "Fred A. Isgrig and Philip McNemer, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "H. G. Pugh & Company v. Ahrens.\nOpinion delivered June 24, 1929."
+  },
+  "file_name": "0829-01",
+  "first_page_order": 847,
+  "last_page_order": 848
+}

@@ -1,0 +1,78 @@
+{
+  "id": 12462901,
+  "name": "JPMorgan Chase Bank, N.A., Respondent, v. Stehrenberger, Petitioner",
+  "name_abbreviation": "JPMorgan Chase Bank, N.A. v. Stehrenberger",
+  "decision_date": "2016-11-02",
+  "docket_number": "No. 93321-9",
+  "first_page": "1020",
+  "last_page": "1020",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "186 Wash. 2d 1020"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Wash.",
+    "id": 9029,
+    "name": "Washington Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 38,
+    "name_long": "Washington",
+    "name": "Wash."
+  },
+  "cites_to": [
+    {
+      "cite": "193 Wn. App. 1035",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        12450064,
+        12450065,
+        12450062,
+        12450063
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/193/1035-03",
+        "/wash-app/193/1035-04",
+        "/wash-app/193/1035-01",
+        "/wash-app/193/1035-02"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 30,
+    "char_count": 216,
+    "ocr_confidence": 0.883,
+    "sha256": "fffde6f777000361b5e3c976d98472307a4d5824f53461ec5e2e28b3f963f120",
+    "simhash": "1:a7b32c2d602d3c7f",
+    "word_count": 34
+  },
+  "last_updated": "2024-02-27T18:43:05.207238+00:00",
+  "provenance": {
+    "date_added": "2019-05-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "JPMorgan Chase Bank, N.A., Respondent, v. Stehrenberger, Petitioner,"
+    ],
+    "opinions": [
+      {
+        "text": "Petition for review of a decision of the Court of Appeals, No. 73493-8-I, April 25, 2016, 193 Wn. App. 1035. Denied November 2, 2016.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "JPMorgan Chase Bank, N.A., Respondent, v. Stehrenberger, Petitioner,\nNo. 93321-9."
+  },
+  "file_name": "1020-03",
+  "first_page_order": 1006,
+  "last_page_order": 1006
+}

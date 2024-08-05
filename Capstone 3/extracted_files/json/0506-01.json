@@ -1,0 +1,2049 @@
+{
+  "id": 12462740,
+  "name": "The State of Washington, Petitioner, v. Cody Ray Flores, Respondent",
+  "name_abbreviation": "State v. Flores",
+  "decision_date": "2016-09-15",
+  "docket_number": "No. 91986-1",
+  "first_page": "506",
+  "last_page": "536",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "186 Wash. 2d 506"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Wash.",
+    "id": 9029,
+    "name": "Washington Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 38,
+    "name_long": "Washington",
+    "name": "Wash."
+  },
+  "cites_to": [
+    {
+      "cite": "222 P.3d 92",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2009,
+      "pin_cites": [
+        {
+          "parenthetical": "\"Because searches and seizures incontrovertibly disturb private affairs, article I, section 7 envelops search and seizure.\""
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "167 Wn.2d 656",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4004749
+      ],
+      "weight": 2,
+      "year": 2009,
+      "pin_cites": [
+        {
+          "page": "663",
+          "parenthetical": "\"Because searches and seizures incontrovertibly disturb private affairs, article I, section 7 envelops search and seizure.\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/167/0656-01"
+      ]
+    },
+    {
+      "cite": "352 P.3d 796",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2015,
+      "opinion_index": 0
+    },
+    {
+      "cite": "183 Wn.2d 610",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        6793342
+      ],
+      "year": 2015,
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/183/0610-01"
+      ]
+    },
+    {
+      "cite": "181 P.3d 37",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2008,
+      "pin_cites": [
+        {
+          "parenthetical": "addressing a Terry search of a vehicle passenger"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "144 Wn. App. 100",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        5736158
+      ],
+      "year": 2008,
+      "pin_cites": [
+        {
+          "parenthetical": "addressing a Terry search of a vehicle passenger"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/144/0100-01"
+      ]
+    },
+    {
+      "cite": "128 Harv. L. Rev. 1003",
+      "category": "journals:journal",
+      "reporter": "Harv. L. Rev.",
+      "year": 2015,
+      "pin_cites": [
+        {
+          "page": "1009"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "95 A.3d 1081",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "year": 2014,
+      "opinion_index": 0
+    },
+    {
+      "cite": "519 U.S. 408",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11595747
+      ],
+      "weight": 6,
+      "year": 1997,
+      "pin_cites": [
+        {
+          "page": "413"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/519/0408-01"
+      ]
+    },
+    {
+      "cite": "434 U.S. 106",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6180104
+      ],
+      "weight": 3,
+      "year": 1977,
+      "pin_cites": [
+        {
+          "page": "110"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/434/0106-01"
+      ]
+    },
+    {
+      "cite": "843 N.W.2d 227",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.2d",
+      "case_ids": [
+        7329665
+      ],
+      "year": 2014,
+      "pin_cites": [
+        {
+          "page": "233",
+          "parenthetical": "rejecting the automatic companion rule in the Fourth Amendment context, finding that \"although being a companion to an arrestee is part of the totality of the circumstances, the Fourth Amendment does not provide for an automatic search of an arrestee's companion''"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nw2d/843/0227-01"
+      ]
+    },
+    {
+      "cite": "762 F.2d 495",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        366196
+      ],
+      "year": 1985,
+      "pin_cites": [
+        {
+          "page": "498-99"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/762/0495-01"
+      ]
+    },
+    {
+      "cite": "927 P.2d 1158",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "case_ids": [
+        10330974
+      ],
+      "year": 1996,
+      "pin_cites": [
+        {
+          "page": "1163-64",
+          "parenthetical": "describing and adopting automatic companion rule when there was a lawful arrest and a justifiable concern for officer safety"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/p2d/927/1158-01"
+      ]
+    },
+    {
+      "cite": "291 S.W.3d 704",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.3d",
+      "case_ids": [
+        7301318
+      ],
+      "year": 2009,
+      "pin_cites": [
+        {
+          "page": "709-12",
+          "parenthetical": "describing and adopting the automatic companion rule for vehicle passengers when the driver has been arrested and the passengers have been lawfully removed from the vehicle"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/sw3d/291/0704-01"
+      ]
+    },
+    {
+      "cite": "445 F.2d 1189",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        818101
+      ],
+      "year": 1971,
+      "pin_cites": [
+        {
+          "page": "1193"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/445/1189-01"
+      ]
+    },
+    {
+      "cite": "870 P.2d 313",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "weight": 2,
+      "year": 1994,
+      "opinion_index": 0
+    },
+    {
+      "cite": "123 Wn.2d 641",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        812823
+      ],
+      "year": 1994,
+      "pin_cites": [
+        {
+          "page": "644"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/123/0641-01"
+      ]
+    },
+    {
+      "cite": "392 U.S. 1",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6167798
+      ],
+      "weight": 4,
+      "year": 1968,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/392/0001-01"
+      ]
+    },
+    {
+      "cite": "949 P.2d 856",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1998,
+      "pin_cites": [
+        {
+          "parenthetical": "officer conducting a consensual search of a house could temporarily seize individual and gun for officer safety"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "89 Wn. App. 612",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        395268
+      ],
+      "year": 1998,
+      "pin_cites": [
+        {
+          "parenthetical": "officer conducting a consensual search of a house could temporarily seize individual and gun for officer safety"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/89/0612-01"
+      ]
+    },
+    {
+      "cite": "330 P.3d 151",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "weight": 2,
+      "year": 2014,
+      "pin_cites": [
+        {
+          "parenthetical": "\"We would undermine the purposes of Terry and create unjustifiable risks if we hold that an officer in the field must ignore specific facts that indicate potential danger.\""
+        },
+        {
+          "parenthetical": "holding that \"while the initial protective frisk was permissible, the officer violated Russell's constitutional rights when he removed a small container from his pocket and searched it without a warrant''"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "180 Wn.2d 860",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4241943
+      ],
+      "weight": 2,
+      "year": 2014,
+      "pin_cites": [
+        {
+          "page": "869",
+          "parenthetical": "\"We would undermine the purposes of Terry and create unjustifiable risks if we hold that an officer in the field must ignore specific facts that indicate potential danger.\""
+        },
+        {
+          "page": "872",
+          "parenthetical": "holding that \"while the initial protective frisk was permissible, the officer violated Russell's constitutional rights when he removed a small container from his pocket and searched it without a warrant''"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/180/0860-01"
+      ]
+    },
+    {
+      "cite": "773 P.2d 46",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1989,
+      "opinion_index": 0
+    },
+    {
+      "cite": "112 Wn.2d 587",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1175491
+      ],
+      "year": 1989,
+      "pin_cites": [
+        {
+          "page": "601-02"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/112/0587-01"
+      ]
+    },
+    {
+      "cite": "508 U.S. 366",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12205
+      ],
+      "weight": 3,
+      "year": 1993,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/508/0366-01"
+      ]
+    },
+    {
+      "cite": "654 P.2d 96",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1982,
+      "opinion_index": 0
+    },
+    {
+      "cite": "98 Wn.2d 289",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1151208
+      ],
+      "year": 1982,
+      "pin_cites": [
+        {
+          "page": "295"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/98/0289-01"
+      ]
+    },
+    {
+      "cite": "613 P.2d 525",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1980,
+      "opinion_index": 0
+    },
+    {
+      "cite": "93 Wn.2d 838",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1167784
+      ],
+      "year": 1980,
+      "pin_cites": [
+        {
+          "page": "841"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/93/0838-01"
+      ]
+    },
+    {
+      "cite": "290 P.3d 983",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2012,
+      "pin_cites": [
+        {
+          "parenthetical": "\"each ... investigative stop must be justified at its inception and must be reasonably limited in scope- based on whatever reasonable suspicions legally justified the stop in the first place\""
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "176 Wn.2d 284",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4306513
+      ],
+      "year": 2012,
+      "pin_cites": [
+        {
+          "page": "294",
+          "parenthetical": "\"each ... investigative stop must be justified at its inception and must be reasonably limited in scope- based on whatever reasonable suspicions legally justified the stop in the first place\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/176/0284-01"
+      ]
+    },
+    {
+      "cite": "855 P.2d 310",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1993,
+      "opinion_index": 0
+    },
+    {
+      "cite": "70 Wn. App. 721",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        1745524
+      ],
+      "year": 1993,
+      "pin_cites": [
+        {
+          "page": "724-25"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/70/0721-01"
+      ]
+    },
+    {
+      "cite": "191 P.3d 1278",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2008,
+      "pin_cites": [
+        {
+          "parenthetical": "quoting State v. Galbert, 70 Wn. App. 721, 724-25, 855 P.2d 310 (1993)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "164 Wn.2d 506",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        3996042
+      ],
+      "year": 2008,
+      "pin_cites": [
+        {
+          "page": "511",
+          "parenthetical": "quoting State v. Galbert, 70 Wn. App. 721, 724-25, 855 P.2d 310 (1993)"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/164/0506-01"
+      ]
+    },
+    {
+      "cite": "27 P.3d 200",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "weight": 4,
+      "year": 2001,
+      "pin_cites": [
+        {
+          "parenthetical": "the lead opinion in Parker \"recognized that the arrest of a vehicle occupant (a circumstance not present in Mendez) supplied an additional factor that an officer could consider when controlling the scene of a vehicle stop\" (emphasis added)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "144 Wn.2d 282",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        970382
+      ],
+      "year": 2001,
+      "pin_cites": [
+        {
+          "page": "288-89",
+          "parenthetical": "the lead opinion in Parker \"recognized that the arrest of a vehicle occupant (a circumstance not present in Mendez) supplied an additional factor that an officer could consider when controlling the scene of a vehicle stop\" (emphasis added)"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/144/0282-01"
+      ]
+    },
+    {
+      "cite": "957 P.2d 681",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1998,
+      "pin_cites": [
+        {
+          "parenthetical": "holding shining a spotlight on an individual \"did not amount to such a show of authority a reasonable person would have believed he or she was not free to leave\" and thus was not a seizure"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "135 Wn.2d 498",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        812858
+      ],
+      "year": 1998,
+      "pin_cites": [
+        {
+          "page": "513-14",
+          "parenthetical": "holding shining a spotlight on an individual \"did not amount to such a show of authority a reasonable person would have believed he or she was not free to leave\" and thus was not a seizure"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/135/0498-01"
+      ]
+    },
+    {
+      "cite": "356 P.2d 721",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1960,
+      "pin_cites": [
+        {
+          "parenthetical": "\"the issuance of the [arrest] warrant is authority to not only apprehend a defendant but to continue his custody as the case may be\""
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "57 Wn.2d 327",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1023832
+      ],
+      "year": 1960,
+      "pin_cites": [
+        {
+          "page": "329",
+          "parenthetical": "\"the issuance of the [arrest] warrant is authority to not only apprehend a defendant but to continue his custody as the case may be\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/57/0327-01"
+      ]
+    },
+    {
+      "cite": "411 P.2d 422",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1966,
+      "pin_cites": [
+        {
+          "parenthetical": "describing the general rules for a warrantless arrest"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "68 Wn.2d 88",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1052819
+      ],
+      "year": 1966,
+      "pin_cites": [
+        {
+          "page": "89",
+          "parenthetical": "describing the general rules for a warrantless arrest"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/68/0088-01"
+      ]
+    },
+    {
+      "cite": "352 P.3d 152",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2015,
+      "pin_cites": [
+        {
+          "parenthetical": "applying the Terry standard to determine whether officers had reasonable suspicion of criminal activity to engage in two investigative stops outside an apartment complex"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "183 Wn.2d 149",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        6792300
+      ],
+      "year": 2015,
+      "pin_cites": [
+        {
+          "parenthetical": "applying the Terry standard to determine whether officers had reasonable suspicion of criminal activity to engage in two investigative stops outside an apartment complex"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/183/0149-01"
+      ]
+    },
+    {
+      "cite": "726 P.2d 445",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1986,
+      "opinion_index": 0
+    },
+    {
+      "cite": "107 Wn.2d 1",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1192467
+      ],
+      "year": 1986,
+      "pin_cites": [
+        {
+          "page": "12"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/107/0001-01"
+      ]
+    },
+    {
+      "cite": "774 P.2d 10",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1989,
+      "pin_cites": [
+        {
+          "parenthetical": "recognizing a vehicle's potential mobility as one exigent circumstance, but holding there must be additional exigencies to justify a warrantless search of a parked, unoccupied vehicle"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "112 Wn.2d 731",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1175490
+      ],
+      "year": 1989,
+      "pin_cites": [
+        {
+          "parenthetical": "recognizing a vehicle's potential mobility as one exigent circumstance, but holding there must be additional exigencies to justify a warrantless search of a parked, unoccupied vehicle"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/112/0731-01"
+      ]
+    },
+    {
+      "cite": "909 P.2d 293",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1996,
+      "opinion_index": 0
+    },
+    {
+      "cite": "128 Wn.2d 431",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        518007
+      ],
+      "year": 1996,
+      "pin_cites": [
+        {
+          "page": "454"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/128/0431-01"
+      ]
+    },
+    {
+      "cite": "168 P.3d 1265",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2007,
+      "pin_cites": [
+        {
+          "parenthetical": "explaining that \"Terry has also been extended to traffic infractions, 'due to the law enforcement exigency created by the ready mobility of vehicles' \" (quoting State v. Johnson, 128 Wn.2d 431, 454, 909 P.2d 293 (1996)); State v. Patterson, 112 Wn.2d 731, 774 P.2d 10 (1989"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "161 Wn.2d 889",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        3802536
+      ],
+      "year": 2007,
+      "pin_cites": [
+        {
+          "page": "897",
+          "parenthetical": "explaining that \"Terry has also been extended to traffic infractions, 'due to the law enforcement exigency created by the ready mobility of vehicles' \" (quoting State v. Johnson, 128 Wn.2d 431, 454, 909 P.2d 293 (1996)"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/161/0889-01"
+      ]
+    },
+    {
+      "cite": "28 P.3d 753",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2001,
+      "pin_cites": [
+        {
+          "parenthetical": "describing Parker's holding"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "144 Wn.2d 386",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        970374
+      ],
+      "year": 2001,
+      "pin_cites": [
+        {
+          "page": "392",
+          "parenthetical": "describing Parker's holding"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/144/0386-01"
+      ]
+    },
+    {
+      "cite": "104 Nev. 398",
+      "category": "reporters:state",
+      "reporter": "Nev.",
+      "case_ids": [
+        8557333
+      ],
+      "weight": 2,
+      "year": 1988,
+      "pin_cites": [
+        {
+          "page": "126"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nev/104/0398-01"
+      ]
+    },
+    {
+      "cite": "987 P.2d 73",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1999,
+      "pin_cites": [
+        {
+          "parenthetical": "plurality opinion"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "139 Wn.2d 486",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        99010
+      ],
+      "year": 1999,
+      "pin_cites": [
+        {
+          "parenthetical": "plurality opinion"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/139/0486-01"
+      ]
+    },
+    {
+      "cite": "92 P.3d 202",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "weight": 2,
+      "year": 2004,
+      "opinion_index": 0
+    },
+    {
+      "cite": "151 Wn.2d 689",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        428152
+      ],
+      "year": 2004,
+      "pin_cites": [
+        {
+          "page": "695"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/151/0689-01"
+      ]
+    },
+    {
+      "cite": "43 P.3d 513",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2002,
+      "opinion_index": 0
+    },
+    {
+      "cite": "146 Wn.2d 166",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        960828
+      ],
+      "year": 2002,
+      "pin_cites": [
+        {
+          "page": "171"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/146/0166-01"
+      ]
+    },
+    {
+      "cite": "233 P.3d 879",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2010,
+      "opinion_index": 0
+    },
+    {
+      "cite": "169 Wn.2d 169",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4010392
+      ],
+      "year": 2010,
+      "pin_cites": [
+        {
+          "page": "179"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/169/0169-01"
+      ]
+    },
+    {
+      "cite": "958 P.2d 982",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1998,
+      "opinion_index": 0
+    },
+    {
+      "cite": "135 Wn.2d 761",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        812843
+      ],
+      "year": 1998,
+      "pin_cites": [
+        {
+          "page": "768"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/135/0761-01"
+      ]
+    },
+    {
+      "cite": "551 U.S. 249",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3573063
+      ],
+      "weight": 4,
+      "year": 2007,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/551/0249-01"
+      ]
+    },
+    {
+      "cite": "688 P.2d 151",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1984,
+      "opinion_index": 0
+    },
+    {
+      "cite": "102 Wn.2d 506",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1137157
+      ],
+      "year": 1984,
+      "pin_cites": [
+        {
+          "page": "510"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/102/0506-01"
+      ]
+    },
+    {
+      "cite": "970 P.2d 722",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1999,
+      "pin_cites": [
+        {
+          "parenthetical": "quoting State v. Myrick, 102 Wn.2d 506, 510, 688 P.2d 151 (1984)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "137 Wn.2d 208",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        179284
+      ],
+      "year": 1999,
+      "pin_cites": [
+        {
+          "page": "219",
+          "parenthetical": "quoting State v. Myrick, 102 Wn.2d 506, 510, 688 P.2d 151 (1984)"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/137/0208-01"
+      ]
+    },
+    {
+      "cite": "224 P.3d 751",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2009,
+      "opinion_index": 0
+    },
+    {
+      "cite": "167 Wn.2d 761",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4005168
+      ],
+      "year": 2009,
+      "pin_cites": [
+        {
+          "page": "773"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/167/0761-01"
+      ]
+    },
+    {
+      "cite": "361 P.3d 747",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2015,
+      "opinion_index": 0
+    },
+    {
+      "cite": "184 Wn.2d 1019",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        12441088,
+        12441089,
+        12441082,
+        12441083,
+        12441084,
+        12441085,
+        12441086,
+        12441087
+      ],
+      "year": 2015,
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/184/1019-07",
+        "/wash-2d/184/1019-08",
+        "/wash-2d/184/1019-01",
+        "/wash-2d/184/1019-02",
+        "/wash-2d/184/1019-03",
+        "/wash-2d/184/1019-04",
+        "/wash-2d/184/1019-05",
+        "/wash-2d/184/1019-06"
+      ]
+    },
+    {
+      "cite": "351 P.3d 189",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2015,
+      "opinion_index": 0
+    },
+    {
+      "cite": "188 Wn. App. 305",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        4281327
+      ],
+      "weight": 2,
+      "year": 2015,
+      "pin_cites": [
+        {
+          "page": "316-17"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/188/0305-01"
+      ]
+    },
+    {
+      "cite": "136 S. Ct. 2056",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12597903
+      ],
+      "weight": 2,
+      "year": 2016,
+      "pin_cites": [
+        {
+          "page": "2070",
+          "parenthetical": "Sotomayor, J., dissenting"
+        },
+        {
+          "parenthetical": "Sotomayor, J., dissenting"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/s-ct/136/2056-01"
+      ]
+    },
+    {
+      "cite": "726 P.2d 445",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1986,
+      "pin_cites": [
+        {
+          "parenthetical": "search of front seat of suspect's car was \"similar to a Terry[] frisk\" and therefore \"reasonable\" under article I, section 7"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "107 Wn.2d 1",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1192467
+      ],
+      "year": 1986,
+      "pin_cites": [
+        {
+          "page": "12-13",
+          "parenthetical": "search of front seat of suspect's car was \"similar to a Terry[] frisk\" and therefore \"reasonable\" under article I, section 7"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/107/0001-01"
+      ]
+    },
+    {
+      "cite": "834 F.2d 1179",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10551145
+      ],
+      "year": 1987,
+      "pin_cites": [
+        {
+          "page": "1184"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/f2d/834/1179-01"
+      ]
+    },
+    {
+      "cite": "536 F.2d 1098",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1056871
+      ],
+      "year": 1976,
+      "pin_cites": [
+        {
+          "page": "1101"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/f2d/536/1098-01"
+      ]
+    },
+    {
+      "cite": "951 F.2d 399",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10521288,
+        3494064
+      ],
+      "year": 1991,
+      "pin_cites": [
+        {
+          "parenthetical": "because stop was justified by reasonable suspicion consistent with Terry, \"[t]his [was] not ... a 'mere propinquity' case and [court] need not take a position on the 'automatic companion' rule to decide it''"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/f2d/951/0399-01",
+        "/us-app-dc/292/0419-01"
+      ]
+    },
+    {
+      "cite": "292 U.S. App. D.C. 419",
+      "category": "reporters:state",
+      "reporter": "U.S. App. D.C.",
+      "case_ids": [
+        3494064
+      ],
+      "year": 1991,
+      "pin_cites": [
+        {
+          "page": "422",
+          "parenthetical": "because stop was justified by reasonable suspicion consistent with Terry, \"[t]his [was] not ... a 'mere propinquity' case and [court] need not take a position on the 'automatic companion' rule to decide it''"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us-app-dc/292/0419-01"
+      ]
+    },
+    {
+      "cite": "649 N.E.2d 157",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.2d",
+      "year": 1995,
+      "pin_cites": [
+        {
+          "parenthetical": "\"There is language in opinions of the Supreme Court . . . that casts doubt on the propriety of the bright-line Berryhill rule.'' (citing Ybarra, 444 U.S. at 91)"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "420 Mass. 236",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        826231
+      ],
+      "year": 1995,
+      "pin_cites": [
+        {
+          "parenthetical": "\"There is language in opinions of the Supreme Court . . . that casts doubt on the propriety of the bright-line Berryhill rule.'' (citing Ybarra, 444 U.S. at 91)"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/mass/420/0236-01"
+      ]
+    },
+    {
+      "cite": "484 F.2d 919",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        238323
+      ],
+      "year": 1973,
+      "pin_cites": [
+        {
+          "page": "922",
+          "parenthetical": "per curiam"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/f2d/484/0919-01"
+      ]
+    },
+    {
+      "cite": "422 U.S. 873",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        9550
+      ],
+      "weight": 3,
+      "year": 1975,
+      "pin_cites": [
+        {
+          "page": "878"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/422/0873-01"
+      ]
+    },
+    {
+      "cite": "156 P.3d 893",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2007,
+      "pin_cites": [
+        {
+          "parenthetical": "article I, section 7 prohibits law enforcement from checking names in motel registry for outstanding warrants absent \"individualized or particularized suspicion\""
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "160 Wn.2d 121",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        3630816
+      ],
+      "year": 2007,
+      "pin_cites": [
+        {
+          "page": "130",
+          "parenthetical": "article I, section 7 prohibits law enforcement from checking names in motel registry for outstanding warrants absent \"individualized or particularized suspicion\""
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/160/0121-01"
+      ]
+    },
+    {
+      "cite": "531 U.S. 32",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        9505377
+      ],
+      "weight": 3,
+      "year": 2000,
+      "pin_cites": [
+        {
+          "page": "37",
+          "parenthetical": "\"[a] search or seizure is ordinarily unreasonable in the absence of individualized suspicion of wrongdoing\""
+        },
+        {
+          "parenthetical": "\"[a] search or seizure is ordinarily unreasonable in the absence of individualized suspicion of wrongdoing\""
+        },
+        {
+          "parenthetical": "\"[a] search or seizure is ordinarily unreasonable in the absence of individualized suspicion of wrongdoing\""
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/531/0032-01"
+      ]
+    },
+    {
+      "cite": "443 U.S. 47",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6179718
+      ],
+      "weight": 3,
+      "year": 1979,
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/443/0047-01"
+      ]
+    },
+    {
+      "cite": "528 U.S. 119",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        9476180
+      ],
+      "weight": 3,
+      "year": 2000,
+      "pin_cites": [
+        {
+          "page": "124",
+          "parenthetical": "individual's presence in high crime area is not independently sufficient to justify a Terry stop (citing Brown v. Texas, 443 U.S. 47, 99 S. Ct. 2637, 61 L. Ed. 2d 357 (1979))"
+        },
+        {
+          "parenthetical": "individual's presence in high crime area is not independently sufficient to justify a Terry stop (citing Brown v. Texas, 443 U.S. 47, 99 S. Ct. 2637, 61 L. Ed. 2d 357 (1979))"
+        },
+        {
+          "parenthetical": "individual's presence in high crime area is not independently sufficient to justify a Terry stop (citing Brown v. Texas, 443 U.S. 47, 99 S. Ct. 2637, 61 L. Ed. 2d 357 (1979))"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/528/0119-01"
+      ]
+    },
+    {
+      "cite": "806 F.2d 823",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1656063
+      ],
+      "weight": 3,
+      "year": 1986,
+      "pin_cites": [
+        {
+          "page": "827",
+          "parenthetical": "applying Terry's \"totality of the circumstances analysis\" to frisk of individual present at the scene of arrest (a private residence); rejecting a less protective standard as \"in direct opposition to the Supreme Court's directions in both Terry and Ybarra\""
+        },
+        {
+          "page": "827"
+        },
+        {
+          "page": "827",
+          "parenthetical": "companion search limited by Terry"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/f2d/806/0823-01"
+      ]
+    },
+    {
+      "cite": "494 U.S. 325",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        5456
+      ],
+      "weight": 5,
+      "year": 1990,
+      "pin_cites": [
+        {
+          "page": "334"
+        },
+        {
+          "page": "334",
+          "parenthetical": "outside arrestee's immediate grab area, Fourth Amendment protections at site of home arrest are \"no more and no less than was required in Terry\""
+        },
+        {
+          "page": "330",
+          "parenthetical": "\"[T]he State of Maryland! ] argues that, under a general reasonableness balancing test, police should be permitted to conduct a protective sweep whenever they make an in-home arrest for a violent crime.\""
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/494/0325-01"
+      ]
+    },
+    {
+      "cite": "444 U.S. 85",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11304934
+      ],
+      "weight": 9,
+      "year": 1979,
+      "pin_cites": [
+        {
+          "page": "92-94"
+        },
+        {
+          "page": "94",
+          "parenthetical": "\"the Terry exception does not permit a frisk for weapons on less than reasonable belief or suspicion directed at the person to be frisked, even though that person happens to be on premises where an authorized narcotics search is taking place\""
+        },
+        {
+          "page": "92-93"
+        },
+        {
+          "page": "91"
+        },
+        {
+          "page": "94",
+          "parenthetical": "\"The 'narrow scope' of the Terry exception does not permit a frisk for weapons on less than reasonable belief or suspicion directed at the person to be frisked, even though that person happens to be on premises where an authorized narcotics search is taking place.\""
+        },
+        {
+          "page": "94"
+        },
+        {
+          "page": "91"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/444/0085-01"
+      ]
+    },
+    {
+      "cite": "111 S.Ct. 2383",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 1991,
+      "opinion_index": 1
+    },
+    {
+      "cite": "501 U.S. 429",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1108039
+      ],
+      "weight": 2,
+      "year": 1991,
+      "pin_cites": [
+        {
+          "page": "438"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/501/0429-01"
+      ]
+    },
+    {
+      "cite": "310 P.3d 793",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2013,
+      "pin_cites": [
+        {
+          "parenthetical": "\"[article I, section 7 is more protective of individual privacy than the Fourth Amendment\""
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "178 Wn.2d 611",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4298740
+      ],
+      "year": 2013,
+      "pin_cites": [
+        {
+          "page": "616",
+          "parenthetical": "\"[article I, section 7 is more protective of individual privacy than the Fourth Amendment\""
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/178/0611-01"
+      ]
+    },
+    {
+      "cite": "449 U.S. 411",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11716341
+      ],
+      "weight": 3,
+      "year": 1981,
+      "pin_cites": [
+        {
+          "page": "417",
+          "parenthetical": "\"investigatory stop must be justified by some objective manifestation that the person stopped is, or is about to be, engaged in criminal activity\""
+        },
+        {
+          "parenthetical": "\"investigatory stop must be justified by some objective manifestation that the person stopped is, or is about to be, engaged in criminal activity\""
+        },
+        {
+          "parenthetical": "\"investigatory stop must be justified by some objective manifestation that the person stopped is, or is about to be, engaged in criminal activity\""
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/449/0411-01"
+      ]
+    },
+    {
+      "cite": "917 P.2d 563",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1996,
+      "opinion_index": 1
+    },
+    {
+      "cite": "129 Wn.2d 61",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        904193
+      ],
+      "year": 1996,
+      "pin_cites": [
+        {
+          "page": "70"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/129/0061-01"
+      ]
+    },
+    {
+      "cite": "979 P.2d 833",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1999,
+      "pin_cites": [
+        {
+          "parenthetical": "quoting State v. Hendrickson, 129 Wn.2d 61, 70, 917 P.2d 563 (1996)"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "138 Wn.2d 343",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        887355
+      ],
+      "year": 1999,
+      "pin_cites": [
+        {
+          "page": "349",
+          "parenthetical": "quoting State v. Hendrickson, 129 Wn.2d 61, 70, 917 P.2d 563 (1996)"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/138/0343-01"
+      ]
+    },
+    {
+      "cite": "182 P.3d 426",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2008,
+      "pin_cites": [
+        {
+          "parenthetical": "quoting State v. Ladson, 138 Wn.2d 343, 349, 979 P.2d 833 (1999) (quoting State v. Hendrickson, 129 Wn.2d 61, 70, 917 P.2d 563 (1996))"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "163 Wn.2d 534",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        5682455
+      ],
+      "year": 2008,
+      "pin_cites": [
+        {
+          "page": "539",
+          "parenthetical": "quoting State v. Ladson, 138 Wn.2d 343, 349, 979 P.2d 833 (1999) (quoting State v. Hendrickson, 129 Wn.2d 61, 70, 917 P.2d 563 (1996))"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/163/0534-01"
+      ]
+    },
+    {
+      "cite": "519 U.S. 408",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11595747
+      ],
+      "weight": 5,
+      "year": 1997,
+      "pin_cites": [
+        {
+          "page": "412-14"
+        },
+        {
+          "page": "412-14"
+        },
+        {
+          "page": "413"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/519/0408-01"
+      ]
+    },
+    {
+      "cite": "434 U.S. 106",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6180104
+      ],
+      "weight": 5,
+      "year": 1977,
+      "pin_cites": [
+        {
+          "page": "108-11",
+          "parenthetical": "per curiam"
+        },
+        {
+          "parenthetical": "per curiam"
+        },
+        {
+          "parenthetical": "per curiam"
+        },
+        {
+          "page": "111"
+        },
+        {
+          "page": "109"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/434/0106-01"
+      ]
+    },
+    {
+      "cite": "762 F.2d 495",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        366196
+      ],
+      "weight": 4,
+      "year": 1985,
+      "pin_cites": [
+        {
+          "page": "499",
+          "parenthetical": "holding Terry standard limited frisk of individual riding in car when officers arrested driver on felony warrant (quoting Ybarra, 444 U.S. at 92-93)"
+        },
+        {
+          "page": "499"
+        },
+        {
+          "page": "498",
+          "parenthetical": "\"We decline to adopt an 'automatic companion' rule, as we have serious reservations about the constitutionality of such a result under existing precedent.''"
+        },
+        {
+          "page": "499",
+          "parenthetical": "same"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/f2d/762/0495-01"
+      ]
+    },
+    {
+      "cite": "445 F.2d 1189",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        818101
+      ],
+      "year": 1971,
+      "pin_cites": [
+        {
+          "page": "1192-93"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/f2d/445/1189-01"
+      ]
+    },
+    {
+      "cite": "392 U.S. 1",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6167798
+      ],
+      "weight": 9,
+      "year": 1968,
+      "pin_cites": [
+        {
+          "page": "21"
+        },
+        {
+          "page": "21-22"
+        },
+        {
+          "page": "21"
+        },
+        {
+          "page": "21"
+        },
+        {
+          "page": "17"
+        },
+        {
+          "page": "21-22"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/392/0001-01"
+      ]
+    },
+    {
+      "cite": "352 P.3d 152",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2015,
+      "pin_cites": [
+        {
+          "parenthetical": "defendant's presence at suspected drug dealer's apartment \"late at night in a high-crime area\" did not justify Terry stop"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "183 Wn.2d 149",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        6792300
+      ],
+      "year": 2015,
+      "pin_cites": [
+        {
+          "page": "161",
+          "parenthetical": "defendant's presence at suspected drug dealer's apartment \"late at night in a high-crime area\" did not justify Terry stop"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/183/0149-01"
+      ]
+    },
+    {
+      "cite": "909 P.2d 293",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1996,
+      "opinion_index": 1
+    },
+    {
+      "cite": "128 Wn.2d 431",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        518007
+      ],
+      "year": 1996,
+      "pin_cites": [
+        {
+          "page": "454"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/128/0431-01"
+      ]
+    },
+    {
+      "cite": "28 P.3d 753",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2001,
+      "pin_cites": [
+        {
+          "parenthetical": "embracing its search analysis as consistent with article I, section 7 protections: \"to justify the intrusion of a limited pat-down search, 'the police officer must be able to point to specific facts which . . . reasonably warrant that intrusion' \" (quoting Terry, 392 U.S. at 21)"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "144 Wn.2d 386",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        970374
+      ],
+      "year": 2001,
+      "pin_cites": [
+        {
+          "page": "394"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/144/0386-01"
+      ]
+    },
+    {
+      "cite": "43 P.3d 513",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2002,
+      "pin_cites": [
+        {
+          "parenthetical": "under Fourth Amendment and article I, section 7, a seizure requires \"a reasonable, articulable suspicion, based on specific, objective facts, that the person seized has committed or is about to commit a crime\" (emphasis omitted) (citing Terry, 392 U.S. at 21)"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "146 Wn.2d 166",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        960828
+      ],
+      "year": 2002,
+      "pin_cites": [
+        {
+          "page": "172-73",
+          "parenthetical": "under Fourth Amendment and article I, section 7, a seizure requires \"a reasonable, articulable suspicion, based on specific, objective facts, that the person seized has committed or is about to commit a crime\" (emphasis omitted) (citing Terry, 392 U.S. at 21)"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/146/0166-01"
+      ]
+    },
+    {
+      "cite": "551 U.S. 249",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3573063
+      ],
+      "weight": 3,
+      "year": 2007,
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/551/0249-01"
+      ]
+    },
+    {
+      "cite": "970 P.2d 722",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1999,
+      "opinion_index": 1
+    },
+    {
+      "cite": "137 Wn.2d 208",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        179284
+      ],
+      "year": 1999,
+      "pin_cites": [
+        {
+          "page": "220"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/137/0208-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1944,
+    "char_count": 61290,
+    "ocr_confidence": 0.878,
+    "pagerank": {
+      "raw": 6.181271625670738e-08,
+      "percentile": 0.38351695407724545
+    },
+    "sha256": "7b928c000a12494ecf266d31db92e01c20f268628bc14cb19e7218c5bec5dc02",
+    "simhash": "1:7bd83e935b772f90",
+    "word_count": 10029
+  },
+  "last_updated": "2024-02-27T18:43:05.207238+00:00",
+  "provenance": {
+    "date_added": "2019-05-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Johnson, Owens, Fairhurst, Wiggins, Gonz\u00e1lez, and Yu, JJ., concur.",
+      "Madsen, C.J., concurs with Gordon McCloud, J."
+    ],
+    "parties": [
+      "The State of Washington, Petitioner, v. Cody Ray Flores, Respondent."
+    ],
+    "opinions": [
+      {
+        "text": "Stephens, J.\n\u00b61 This case requires us to decide under what circumstances officers making a lawful arrest may seize a companion of the arrestee in the absence of reasonable suspicion to independently justify a Terry stop of the companion. We hold that where officers have an objective rationale predicated on safety concerns to seize a companion to secure the scene of the arrest, article I, section 7 of the Washington State Constitution allows for the seizure, so long as it remains reasonable in scope and duration. Based on this holding, we reverse the Court of Appeals and hold that evidence of the gun taken from Cody Flores during his brief seizure should not have been suppressed.\nFACTS AND PROCEDURAL HISTORY\n\u00b62 On November 2, 2013, the Moses Lake Police Department dispatched all available patrol officers to an address in Moses Lake. An anonymous source had reported that Giovanni Powell was at that address and had pointed a gun at someone\u2019s head. Officer Kyle McCain was first to arrive at the scene. McCain was familiar with Powell, had seen pictures of him holding firearms, knew he was in a gang, and knew he was a material witness to a Spokane homicide. While en route, dispatch informed McCain (and other officers who were following him) that \u201cPowell had a warrant out for his arrest in the Spillman police information system. This warrant was later confirmed after Powell was stopped.\u201d Clerk\u2019s Papers (CP) at 60.\n\u00b63 Officer McCain arrived at the reported address less than five minutes from the time of the call, around 4:40 p.m. He observed Powell, whom he recognized, and another person (later identified as Flores) walking down the street together. McCain did not recognize Flores and did not have an individualized, articulable reason to suspect Flores of criminal activity. Officers testified they were concerned that Flores posed a threat to their safety because of \u201chis association and close proximity to Powell within a few minutes of a report of Powell pointing a gun at someone\u2019s head.\u201d Id.\n\u00b64 McCain \u201cparked across the street from Powell and Flores, got out of his car, drew his side arm, held it pointed at the ground, and ordered . . . Powell to stop.\u201d Id. Both Flores and Powell stopped. McCain ordered Powell and Flores to drop to their knees with their hands up, a position of disadvantage. Powell and Flores were talking, so \u201cMcCain ordered Powell to move away from Flores.\u201d Id. Powell complied, moving about six feet away. McCain then \u201cordered Powell to walk backwards towards him with his hands up.\u201d Id.\n\u00b65 As this was occurring, other officers arrived, including Officer Paul Oiumette. Id. In total, there were approximately five officers on the scene. All had their guns drawn and held at the \u201clow ready\u201d position. Id. \u201cWhile Officer McCain was securing Powell [,] Officer Oiumette ordered Flores to walk backwards towards him with his hands up.\u201d Id. at 61. \u201cAs he was walking backwards towards Officer Oiumette [,] Flores told the Officer he had a gun. This statement was not in response to a question from Officer Oiumette.\u201d Id. Oiumette told Flores to keep walking backward and they would deal with the gun in a minute. Once Flores got to Oiumette, Oiumette asked where the gun was. Flores responded that it was in his pants. Oiumette removed and secured the gun. Id. The State charged Flores with first degree unlawful possession of a firearm.\n\u00b66 Flores brought a CrR 3.6 motion to suppress all evidence of the gun, arguing that Oiumette\u2019s command to walk backward constituted a second seizure that was not predicated on articulable suspicion that Flores was involved in criminal activity. See id. at 12-17 (Flores\u2019s CrR 3.6 motion). Judge John Knodell granted the motion to suppress \u201cthe gun found on . . . Flores and his statements pertaining to it,\u201d concluding that \u201c[p]ursuant to RAP 2.2(b)(2)... the practical effect of this order is to terminate the case.\u201d Id. at 62. Judge Evan Sperline then dismissed the charges without prejudice. Id. at 67. The State appealed, and Division Three of the Court of Appeals affirmed. State v. Flores, 188 Wn. App. 305, 351 P.3d 189 (2015). The State petitioned this court for review, which we granted. State v. Flores, 184 Wn.2d 1019, 361 P.3d 747 (2015).\nANALYSIS\n\u00b67 The primary question in this case is whether it is always a violation of article I, section 7 of the Washington State Constitution for an officer to seize the nonarrested companion of an arrestee to secure the scene of an arrest. The Washington State Constitution protects individuals from unlawful searches and seizures. Wash. Const. art. I, \u00a7 7 (\u201cNo person shall be disturbed in his private affairs, or his home invaded, without authority of law.\u201d); see also State v. Harrington, 167 Wn.2d 656, 663, 222 P.3d 92 (2009) (\u201cBecause searches and seizures incontrovertibly disturb private affairs, article I, section 7 envelops search and seizure.\u201d). It is well established that article I, section 7 \u201cgrants greater protection to individual privacy rights than the Fourth Amendment.\u201d Harrington, 167 Wn.2d at 663 (citing U.S. Const. amend. IV). There is almost an absolute bar to warrantless seizures, with only limited, \u201cjealously guarded exceptions.\u201d State v. Valdez, 167 Wn.2d 761, 773, 224 P.3d 751 (2009).\n\u00b68 \u201cOur analysis under article I, section 7 requires us to determine \u2018whether the State unreasonably intruded into the defendant\u2019s \u201cprivate affairs.\u201d \u2019 \u201d State v. Mendez, 137 Wn.2d 208, 219, 970 P.2d 722 (1999) (quoting State v. Myrick, 102 Wn.2d 506, 510, 688 P.2d 151 (1984)), abrogated on other grounds by Brendlin v. California, 551 U.S. 249, 127 S. Ct. 2400, 168 L. Ed. 2d 132 (2007). The analysis focuses \u201c \u2018not on a defendant\u2019s actual or subjective expectation of privacy but, as we have previously established, on those privacy interests Washington citizens held in the past and are entitled to hold in the future.\u2019 \u201d Id. (quoting State v. White, 135 Wn.2d 761, 768, 958 P.2d 982 (1998)). \u201cThe violation of [an individual\u2019s] right of privacy under article I, section 7 automatically implies the exclusion of the evidence seized.\u201d State v. Afana, 169 Wn.2d 169, 179, 233 P.3d 879 (2010). We review \u201cconclusions of law from an order pertaining to the suppression of evidence de novo.\u201d State v. Duncan, 146 Wn.2d 166, 171, 43 P.3d 513 (2002).\n\u00b69 Under our state constitution, an individual is seized \u201cwhen considering all the circumstances, an individual\u2019s freedom of movement is restrained and the individual would not believe he ... is free to leave or decline a request due to an officer\u2019s use of force or display of authority.\u201d State v. Rankin, 151 Wn.2d 689, 695, 92 P.3d 202 (2004). \u201cThis determination is made by objectively looking at the actions of the law enforcement officer.\u201d Id. There is no doubt here that Flores was seized, and indeed, the State concedes that he was seized when McCain stopped him and Powell and ordered them into a position of disadvantage. See CP at 19 (State\u2019s Resp. to Def.\u2019s Mot. to Suppress under CrR 3.6).\n\u00b610 Flores challenges his seizure as an unlawful Terry stop. See Resp\u2019t\u2019s Br. at 27-46; Resp\u2019t\u2019s Answer to Pet. for Review at 13-16. Flores asserts that the seizure should be analyzed in two parts: the initial seizure when McCain first ordered Flores into a position of disadvantage, and a second seizure when Oiumette ordered Flores to move back toward him. Resp\u2019t\u2019s Answer to Pet. for Review at 12. Although Flores does not concede that McCain\u2019s initial detention of him was permissible, see Resp\u2019t\u2019s Br. at 33; Resp\u2019t\u2019s Answer to Pet. for Review at 12, he contends that even if the initial seizure by McCain was justified by the need to secure the scene of Powell\u2019s arrest, that justification \u201cevaporated the moment that Powell, having complied with officer\u2019s directives that he get down on his knees, continued to follow Officer McCain\u2019s orders .... At this point in time, the scene was secured, Powell was safely under control, and there was no need to further intrude on Flores\u2019 liberty by ordering him to walk backwards to the sound of Officer Oiumette\u2019s voice.\u201d Resp\u2019t\u2019s Br. at 33. Flores insists that the second seizure was investigatory and an unlawful Terry stop because the State failed to show it was reasonable and necessary. Resp\u2019t\u2019s Answer to Pet. for Review at 15-16. Finally, Flores argues that this court should hold that vehicle stop cases involving the rights of passengers do not control cases where the companion and arrestee are pedestrians. Id. at 17-20.\n\u00b611 The State counters that Terry is inapplicable because officers did not seize Flores for investigative purposes. Rather, the State argues that under State v. Parker, 139 Wn.2d 486, 987 P.2d 73 (1999) (plurality opinion), and Mendez, McCain and Oiumette acted within their authority to control the scene of an arrest when they directed Flores\u2019s movements. See Pet. for Review at 4-6; Pet\u2019r\u2019s Suppl. Br. to Pet. for Review at 3, 6-8. The State contends that the circumstances here are not materially different from when the driver of a car has been arrested and the police may order the passenger in or out of the car to secure the scene of the arrest. See Pet. for Review at 4-5. Under Mendez, the court should review the officer\u2019s actions for an \u201c \u2018objective rationale\u2019 \u201d for seizing the companion of an arrestee. Id. at 5-7. Under Parker, the fact of an arrest meets this test. Id. at 5-6. Here, the State asserts the officers had an objective rationale. See id. at 6. Furthermore, the court should apply a deferential standard when reviewing officers\u2019 actions that are taken in the interest of safety. Id.\n\u00b612 The American Civil Liberties Union of Washington (ACLU) filed an amicus brief arguing that while the Court of Appeals was correct in suppressing the evidence, it did not go far enough. The ACLU argues that under article I, section 7, there was no justification to seize Flores in the first place because the State \u201cfailed to provide an individualized objective rationale based on safety concerns.\u201d Br. of Amicus Curiae ACLU of Wash. at 7. The ACLU also argues Mendez and Parker should not apply to pedestrian cases. Id. at 2, 11-16.\n\u00b613 Our precedent favors the State\u2019s argument. The risks that companions pose to police attempting to arrest an individual are similar whether the companion and arrestee are in a car or on a sidewalk. The officer safety rationale that underlies our reasoning in Mendez and Parker applies with equal force whenever officers make an arrest. We therefore adopt the objective rationale test for when an officer may seize companions to control the scene of an arrest. When that test is met, it is not a violation of article I, section 7 for an officer to seize a nonarrested companion of an arrestee. The objective rationale test was met under the facts of this case. We therefore reverse the Court of Appeals and hold that the evidence of the gun should not have been suppressed.\nI. Officers May Order a Nonarrested Companion of an Arrestee to a Position Necessary To Secure the Scene of the Arrest\n\u00b614 The court\u2019s decisions in Mendez and Parker provide a useful framework for analyzing this case. In Mendez, the court addressed the scope of police officers\u2019 authority over passengers in an automobile when the officers have probable cause to detain the driver for a traffic infraction. In that case, two police officers stopped a car that ran a stop sign. Mendez, 137 Wn.2d at 212. As soon as the vehicle stopped, Mendez, a passenger who had been in the front seat, got out and began walking away. Approaching the vehicle, one of the officers told him to get back into the vehicle, but Mendez turned, fumbled with his shirt, and continued walking away. He then ran and was chased on foot by one of the officers. Mendez was arrested for obstructing a public servant, and in the search incident to arrest, the officers found a marijuana pipe. Mendez moved to suppress the evidence of the marijuana pipe.\n\u00b615 This court examined the question under article I, section 7, explaining that we must balance the privacy interests that Washingtonians held in the past and have a right to hold in the future \u201cagainst concerns for officer safety during traffic stops.\u201d Id. at 219. \u201cPlainly, in any traffic stop, concerns about officer safety and control of the situation are entirely relevant.\u201d Id.\n\u00b616 The court concluded, \u201cWashington\u2019s constitutional policy of greater protection to the privacy of individuals in automobiles than the Fourth Amendment provides must carry the day.\u201d Id. at 220. Although the court found that with regard to drivers, officers have authority to \u201ctake whatever steps [are] necessary to control the scene, including ordering the driver\u201d in or out of the vehicle, it declined to adopt a categorical rule with regard to passengers. Id. It explained,\nA police officer should be able to control the scene and ensure his or her own safety, but this must be done with due regard to the privacy interests of the passenger, who was not stopped on the basis of probable cause by the police. An officer must therefore be able to articulate an objective rationale predicated specifically on safety concerns, for officers, vehicle occupants, or other citizens, for ordering a passenger to stay in the vehicle or to exit the vehicle to satisfy article I, section 7. This articulated objective rationale prevents groundless police intrusions on passenger privacy. But to the extent such an objective rationale exists, the intrusion on the passenger is de minimis in light of the larger need to protect officers and to prevent the scene of a traffic stop from descending into a chaotic and dangerous situation for the officer, the vehicle occupants, and nearby citizens.\nId.\n\u00b617 To meet this objective rationale standard, an officer need not meet the standard required for a Terry stop. Id. \u201cTerry must be met if the purpose of the officer\u2019s interaction with the passenger is investigatory. For purposes of controlling the scene of the traffic stop and to preserve safety there, we apply the standard of an objective rationale.\u201d Id.\n\u00b618 The court provided a list of nonexclusive factors that may warrant an officer controlling the movement of a passenger. Id. at 220-21. These factors include \u201cthe number of officers, the number of vehicle occupants, the behavior of the occupants, the time of day, the location of the stop, traffic at the scene, affected citizens, or officer knowledge of the occupants.\u201d Id. at 221. Emphasizing the flexibility of this analysis, the court concluded that \u201c[t]he inquiry into the presence or absence of an objective rationale requires consideration of the circumstances present at the scene of the traffic stop.\u201d Id.\n\u00b619 Under the facts in Mendez, the officers did not satisfy the objective rationale test. Id. at 222-26. One of the officers testified that \u201che had no suspicions Mendez had engaged or was about to engage in criminal conduct.\u201d Id. at 224. \u201cNeither officer testified that Mendez\u2019s actions in reaching inside his clothing aroused any suspicion. Besides, Mendez did not reach inside his clothing until after he had been seized by [the officer\u2019s] command to return to the car.\u201d Id. \u201c \u2018Obviously, once an individual is \u201cseized,\u201d no subsequent events or circumstances can retroactively justify the \u201cseizure.\u201d \u2019 \u201d Id. (quoting State v. Stinnett, 104 Nev. 398, 760 P.2d 124, 126 (1988)). The officers were unable to clearly articulate a reason to order Mendez to stay in the car. Mendez \u201cwas already walking away when he was told to stop,\u201d the stop took place in broad daylight, there were no specific safety concerns at the scene, the officers \u201chad control of the situation as the driver remained where he was directed,\u201d and he had not committed any crime. Id. at 225-26. Thus, there was no objective rationale that the officers could articulate to justify Mendez\u2019s seizure. Although the officers were unable to meet the objective rationale test, the court was clear that the situation could have been different \u201chad Mendez remained standing by the passenger side door, had he behaved in any way the police viewed as threatening or potentially dangerous, or had the scene at the traffic stop required him to stay in the vehicle.\u201d Id. at 225.\n\u00b620 The same year the court decided Mendez, it also decided Parker. See id. at 214 n.2 (distinguishing Mendez from Parker). In Parker, the court considered \u201cwhether the personal belongings of nonarrested vehicle passengers are subject to search incident to the arrest of the driver.\u201d 139 Wn.2d at 489. In a plurality decision, the court held that \u201cthe arrest of one or more vehicle occupants does not, without more, provide the \u2018authority of law\u2019 under article I, section 7 of our state constitution to search other, non-arrested vehicle passengers, including personal belongings clearly associated with such nonarrested individuals.\u201d Id. at 502-03; see id. at 518 (Alexander, J., concurring in part, dissenting in part) (\u201cWhile I agree with the majority\u2019s conclusion that if officers of the law \u2018know\u2019 that a container belongs to a passenger it may not be searched incident to the arrest of the driver, I disagree that the officers should be similarly inhibited if they merely \u2018should know.\u2019 \u201d); see also State v. Horrace, 144 Wn.2d 386, 392, 28 P.3d 753 (2001) (describing Parker\u2019s holding).\n\u00b621 Both the lead and one of the concurring opinions in Parker recognized \u201cthat under certain circumstances non-arrested individuals may pose a threat to officer safety in an arrest situation.\u201d 139 Wn.2d at 501, 516-17 (Talmadge, J., concurring). To protect officer safety and individuals\u2019 article I, section 7 rights, the court \u201cengage [s] in a delicate balancing of interests, weighing safety and evidentiary concerns against the basic notion that the people of this state enjoy a measure of privacy that is, and will forever be, unassailable.\u201d Id. at 501. \u201cAs against the privacy interests of a nonarrested individual, the balance has already been struck.\u201d Id. Although companions may pose a danger to law enforcement, officers may not engage in a full search of a nonarrested companion; instead, any search of the companion \u201cis limited to ensure officer safety only and must be supported by objective suspicions that the person searched may be armed or dangerous.\u201d Id. at 501-02. The lead opinion concluded, however, that whether or not articulable suspicion exists sufficient to justify a pat down for weapons, the circumstance of an arrest falls squarely within the rule of Mendez. Thus, a vehicle stop and arrest in and of itself provides officers an objective basis to ensure their safety by \u201c \u2018controlling the scene,\u2019 \u201d including ordering passengers in or out of the vehicle as necessary. Id. at 502. A concurrence stated that the risks nonarrested passengers may pose to law enforcement \u201ccan be addressed under Mendez or pursuant to Terry.\u201d Id. at 516-17 (Talmadge, J., concurring).\n\u00b622 The situations presented in Mendez and Parker are analogous to the facts of this case. Flores argues that automobile cases are unique because we have developed a line of vehicle-specific jurisprudence. One of the primary justifications is the mobility of vehicles. See, e.g., State v. Day, 161 Wn.2d 889, 897, 168 P.3d 1265 (2007) (explaining that \u201cTerry has also been extended to traffic infractions, \u2018due to the law enforcement exigency created by the ready mobility of vehicles\u2019 \u201d (quoting State v. Johnson, 128 Wn.2d 431, 454, 909 P.2d 293 (1996)); State v. Patterson, 112 Wn.2d 731, 774 P.2d 10 (1989) (recognizing a vehicle\u2019s potential mobility as one exigent circumstance, but holding there must be additional exigencies to justify a warrantless search of a parked, unoccupied vehicle). However, the court in Mendez and Parker was not concerned with the mobility of the vehicle, but with the threat that companions in the vehicle\u2014those who are close in proximity to the subject of the stop\u2014pose to officers. In Mendez, we described our test as \u201cpredicated specifically on safety concerns,\u201d 137 Wn.2d at 220, and in Parker we noted that \u201cthe search incident to arrest exception functions primarily to achieve [officer safety],\u201d 139 Wn.2d at 499. Because the analysis in Mendez and Parker centered on safety concerns rather than the location of the stop, it should not be restricted to traffic stops, but is equally applicable in cases like this one where an arrestee is accompanied by companions at the time of the arrest.\n\u00b623 This conclusion is common sense, as the potential danger at an arrest scene does not turn on whether people are sitting together in a car or walking side by side on a sidewalk. Companions in either circumstance could, for example, be concealing a weapon that could be used against the arresting officer. Cf. Horrace, 144 Wn.2d at 395-98 (recognizing a vehicle passenger\u2019s close proximity to a driver making unexplained movements and the passenger\u2019s bulky jacket that the officer believed capable of concealing a weapon were factors that helped justify a frisk of the passenger). In both situations, when an officer is attempting to execute an arrest warrant, those close to the subject pose a potential safety risk. Cf. id.; State v. Kennedy, 107 Wn.2d 1, 12, 726 P.2d 445 (1986) (In an investigative vehicle stop, \u201cthe officer may search for weapons within the investi-gatee\u2019s immediate control. We also recognize that such a limited search applies to any companion in the car because that person presents a similar danger to the approaching officer. The front seat of the car is in the immediate control of a passenger seated next to the driver.\u201d); Verbatim Report of Proceedings (Jan. 15, 2014) (VRP) at 75 (McCain testified that he moved Powell away from Flores because he \u201cdidn\u2019t want them speaking to each other or passing anything from one person to the other\u201d).\n\u00b624 There is no sensible basis to compartmentalize Mendez and Parker as \u201cvehicle\u201d cases and to create a separate line of \u201cpedestrian\u201d cases. As explained, the fact that the seizures in Mendez and Parker occurred in the vehicle context was not central to the analysis. To determine which standard we use to evaluate the legality of a seizure, we do not focus on the seizure\u2019s location; rather, we focus on its purpose. See, e.g., Mendez, 137 Wn.2d at 220 (\u201cTerry must be met if the purpose of the officer\u2019s interaction with the passenger is investigatory. For purposes of controlling the scene of the traffic stop and to preserve safety there, we apply the standard of an objective rationale.\u201d). Where the stop is for investigative purposes, we require officers to meet the Terry standard of individualized, reasonable, articulable suspicion. See, e.g., State v. Fuentes, 183 Wn.2d 149, 352 P.3d 152 (2015) (applying the Terry standard to determine whether officers had reasonable suspicion of criminal activity to engage in two investigative stops outside an apartment complex); Horrace, 144 Wn.2d at 394 (applying Terry, a pedestrian case, to determine the validity of a stop-and-frisk of a vehicle passenger because the officer\u2019s conduct was \u201cinvestigatory\u201d). However, when a stop is conducted to effectuate an arrest, we require a valid arrest warrant or probable cause. See State v. Massey, 68 Wn.2d 88, 89, 411 P.2d 422 (1966) (describing the general rules for a warrantless arrest); State v. Manning, 57 Wn.2d 327, 329, 356 P.2d 721 (1960) (\u201cthe issuance of the [arrest] warrant is authority to not only apprehend a defendant but to continue his custody as the case may be\u201d). Yet another standard exists when an officer engages in a purported social contact. In those situations, we determine if the contact was in fact a seizure\u2014rather than merely a social contact\u2014based on whether a reasonable person would believe he was not free to leave. See, e.g., State v. Young, 135 Wn.2d 498, 513-14, 957 P.2d 681 (1998) (holding shining a spotlight on an individual \u201cdid not amount to such a show of authority a reasonable person would have believed he or she was not free to leave\u201d and thus was not a seizure). As these cases demonstrate, the standard we use to evaluate the legality of a seizure is determined by the purpose of the seizure. We therefore reject Flores\u2019s argument that we should ignore the objective rationale test established in Mendez and Parker because those were \u201cvehicle\u201d cases.\n\u00b625 Because the situations contemplated in Mendez and Parker are analogous to the one presented here, we follow the analysis developed in those cases. However, we reject the State\u2019s argument that Parker established a per se rule that the fact of an arrest is sufficient to satisfy Mendez\u2019s objective rationale test. See Pet. for Review at 5-6. The statement in the lead opinion that arguably supports this proposition was not joined by either of the concurring justices and, thus, is not binding law. See Parker, 139 Wn.2d at 502. Furthermore, this court has characterized that statement as supplying but one factor officers may consider as part of the objective rationale test, without suggesting that an arrest by itself satisfies the officers\u2019 burden. See Horrace, 144 Wn.2d at 393 (\u201c[t]he lead opinion in Parker noted that the arrest of another vehicle occupant supplied a significant factor\u201d in meeting the objective rationale test (emphasis added)); State v. Reynolds, 144 Wn.2d 282, 288-89, 27 P.3d 200 (2001) (the lead opinion in Parker \u201crecognized that the arrest of a vehicle occupant (a circumstance not present in Mendez) supplied an additional factor that an officer could consider when controlling the scene of a vehicle stop\u201d (emphasis added)). We therefore consider an arrest to be a factor officers may take into account when assessing whether they have an objective rationale for seizing companions to control the scene.\n\u00b626 We hold that when executing an arrest, officers may seize nonarrested companions to control the scene of the arrest if they can articulate an objective rationale predicated specifically on safety concerns for the officers, the arrestee, his or her companions, or other citizens. Factors that warrant an officer seizing companions include (but are not limited to) the arrest, the number of officers, the number of people present at the scene of the arrest, the time of day, the behavior of those present at the scene, the location of the arrest, the presence or suspected presence of a weapon, officer knowledge of the arrestee or the companions, and potentially affected citizens. See Mendez, 137 Wn.2d at 221. This is not an exhaustive list, and no one factor by itself justifies an officer\u2019s seizure of nonarrested companions. See id. When determining whether there is an objective rationale, the court should look at all the circumstances present at the scene of the arrest. See id.\n\u00b627 As this court discussed in Mendez, the objective rationale test is different from Terry\u2019s reasonable suspicion of criminal activity requirement. See id. Officers\u2019 authority to intrude into an individual\u2019s privacy is likewise limited in scope and duration; they may control the movements of nonarrested companions only to control the scene of the arrest. To further engage in an investigatory interaction such as a pat down, officers must meet the individualized Terry standard of \u201creasonable, articulable suspicion, based on specific, objective facts, that the person seized has committed or is about to commit a crime.\u201d Duncan, 146 Wn.2d at 172 (emphasis omitted); see Mendez, 137 Wn.2d at 220; Horrace, 144 Wn.2d at 393. Similarly, to engage in a protective pat down, officers must be able to point to particular facts that provide \u201c \u2018reasonable grounds to believe the person is armed and dangerous.\u2019 \u201d State v. Xiong, 164 Wn.2d 506, 511, 191 P.3d 1278 (2008) (quoting State v. Galbert, 70 Wn. App. 721, 724-25, 855 P.2d 310 (1993)); see also Horrace, 144 Wn.2d at 394. This, again, is a different, more individualized standard than the objective rationale test. Finally, officers may not create an exigency that would then give them reason to search or seize the companion. Cf. Terry, 392 U.S. at 32 (Harlan, J., concurring) (\u201cAny person, including a policeman, is at liberty to avoid a person he considers dangerous. If and when a policeman has a right instead to disarm such a person for his own protection, he must first have a right not to avoid him but to be in his presence.\u201d).\n\u00b628 Requiring officers to articulate an objective rationale for seizing nonarrested individuals to control the scene of an arrest strikes the proper balance between safety considerations and individual privacy rights under article I, section 7. Cf. Mendez, 137 Wn.2d at 219. First, an officer\u2019s seizure of nonarrested companions is limited to controlling the movement of those companions only insofar as is justified to control the scene of the arrest and ensure safety. Cf. State v. Chacon Arreola, 176 Wn.2d 284, 294, 290 P.3d 983 (2012) (\u201ceach ... investigative stop must be justified at its inception and must be reasonably limited in scope\u2014 based on whatever reasonable suspicions legally justified the stop in the first place\u201d). Any intrusion into the companions\u2019 privacy is therefore \u201cde minimis in light of the larger need to protect officers and to prevent the scene . . . from descending into a chaotic and dangerous situation for the officer,. . . nearby citizens,\u201d and those present at the scene of the arrest. Mendez, 137 Wn.2d at 220. Second, requiring officers to point to specific concerns at an arrest scene ensures that no person sacrifices constitutional privacy rights because of \u201cmere proximity to others independently suspected of criminal activity.\u201d State v. Thompson, 93 Wn.2d 838, 841, 613 P.2d 525 (1980); see also State v. Broadnax, 98 Wn.2d 289, 295, 654 P.2d 96 (1982), abrogated on other grounds by Minnesota v. Dickerson, 508 U.S. 366, 113 S. Ct. 2130, 124 L. Ed. 2d 334 (1993). Requiring an objective rationale allows the court to determine whether the detention was merely harassing or arbitrary. See State v. Belieu, 112 Wn.2d 587, 601-02, 773 P.2d 46 (1989).\nII. Applying the Objective Rationale Analysis, the Seizure of Flores Was Justified and the Evidence of the Gun Should Not Be Suppressed\n\u00b629 Applying the objective rationale test, we find that McCain justifiably seized Flores to secure the scene of Powell\u2019s arrest, and that Oiumette\u2019s actions were a justified continuation of that initial seizure. We reject Flores\u2019s contention, embraced by the Court of Appeals, that the seizure must be analyzed as two events: an initial seizure by McCain, and then a Terry stop beginning when Oiumette called Flores back. See Resp\u2019t\u2019s Answer to Pet. for Review at 12; Flores, 188 Wn. App. at 316-17. Although a permissible contact can ripen into an impermissible seizure, see Harrington, 167 Wn.2d at 670 (explaining a \u201cprogressive intrusion, culminating in seizure, runs afoul of the language, purpose, and protections of article I, section 7\u201d), we do not find that to be the case here. There was but one seizure, and both McCain\u2019s and Oiumette\u2019s actions were justified by the ongoing need to control the scene of Powell\u2019s arrest.\n\u00b630 Although an anonymous tip standing alone may not be sufficient to support a Terry stop (a determination we need not make), officers do not need to ignore information that implicates their safety when there is a lawful basis to arrest an individual. Cf. State v. Russell, 180 Wn.2d 860, 869, 330 P.3d 151 (2014) (\u201cWe would undermine the purposes of Terry and create unjustifiable risks if we hold that an officer in the field must ignore specific facts that indicate potential danger.\u201d). McCain and Oiumette could, therefore, consider the fact that there may have been a gun present when assessing what they needed to do to control the scene of Powell\u2019s arrest. Although dispatch did not indicate whether Powell was alone (the tip appears to have mentioned only Powell), when McCain arrived at the scene, Powell and Flores were walking down the street together in close proximity. CP at 59-60. McCain arrived at the scene less than five minutes after dispatch received the tip. Id. at 60. He was the only officer on the scene at that point. See id.; VRP at 72-73. McCain recognized Powell. VRP at 67-68. McCain had seen pictures of Powell or his friends holding firearms, and had information that he was at the scene of a fight in which one of his best friends was shot and killed. Id. at 69-70. The stop occurred after 4:30 p.m. in November. Id. at 66. When McCain ordered Powell to stop, both he and Flores halted, and they remained together. CP at 60. Based on these facts, McCain had an objective rationale to seize Flores to secure the scene of Powell\u2019s arrest.\n\u00b631 Oiumette, who received the same dispatch information as McCain, arrived on the scene after Flores was put in a position of disadvantage away from Powell. See VRP at 86-87; CP at 60. When Oiumette arrived, McCain was calling Powell back toward him. See VRP at 87, 91; CP at 61. McCain\u2019s focus was on Powell. See VRP at 78. There is no evidence that Powell was already secured when Oiumette focused on Flores and told him to begin walking toward Oiumette. CP at 61 (\u201cWhile Officer McCain was securing Powell[,] Officer Oiumette ordered Flores to walk backwards towards him with his hands up.\u201d)- Oiumette testified that he told Flores to walk back because he did not know what McCain had observed when he got there, and because he was concerned there was a firearm. See VRP at 88. Although Oiumette also stated, \u201cIt appeared to me [Flores] was involved in [the firearm incident] somehow,\u201d id., this statement alone does not turn his legitimate control of Flores\u2019s movements to secure the scene of the arrest into an investigatory stop.\n\u00b632 While Flores was walking back toward Oiumette, he volunteered that he had a gun. CP at 61. This admission was not made in response to any questioning or prompting by Oiumette. See id. Once Flores volunteered that he had a gun, Oiumette had reasonable suspicion to further detain Flores and seize the gun. See, e.g., State v. King, 89 Wn. App. 612, 949 P.2d 856 (1998) (officer conducting a consensual search of a house could temporarily seize individual and gun for officer safety).\n\u00b633 Officers McCain and Oiumette had an objective rationale predicated on safety concerns that justified temporarily seizing Flores to control the scene of Powell\u2019s arrest. Because Flores was not unlawfully seized, we reverse the Court of Appeals and hold that evidence of the gun should not have been suppressed.\nCONCLUSION\n\u00b634 We reverse the Court of Appeals. Flores was seized as part of the officers\u2019 attempt to control the scene of Powell\u2019s arrest. Because the officers had an objective rationale predicated specifically on safety concerns, the seizure was lawful. The evidence of the gun should not have been suppressed.\nJohnson, Owens, Fairhurst, Wiggins, Gonz\u00e1lez, and Yu, JJ., concur.\nTerry v. Ohio, 392 U.S. 1, 88 S. Ct. 1868, 20 L. Ed. 2d 889 (1968).\nExcept where indicated, the facts established by the trial court are unchallenged and thus are verities on appeal. See State v. Hill, 123 Wn.2d 641, 644, 870 P.2d 313 (1994).\nFlores assigned error to the trial court\u2019s finding of fact 2.1, which referred to the source as \u201cshe.\u201d See Resp\u2019t\u2019s Br. at 16; Clerk\u2019s Papers (CP) at 59. Flores argues \u201c[t]here was nothing in the record to support the finding that the caller was a female who stated that she wished to remain anonymous.\u201d Resp\u2019t\u2019s Br. at 16. Testimony supports the statement that the caller wanted to remain anonymous. See Verbatim Report of Proceedings (Jan. 15, 2014) (VRP) at 67, 87. However, Flores is correct that there is nothing in the record to support a finding that the caller was female. This aspect of finding of fact 2.1 is not binding on appeal. See Hill, 123 Wn.2d at 647.\nFlores also challenged finding of fact 2.2, arguing that the language is misleading. Resp\u2019t\u2019s Br. at 20. McCain testified that he is familiar with Powell, has \u201cseen pictures of him holding firearms or friends of his holding firearms,\u201d and had \u201cknowledge that [Powell is] in a gang called the Base Block.\u201d VRP at 69. McCain stated he \u201cbelieve [d] that [Powell] was a material witness\u2019\u2019 to a shooting incident in Spokane. Id. There is sufficient evidence to support a finding that McCain was familiar with Powell and knew that Powell was in pictures holding firearms, was associated with gang members, and was a material witness to a homicide in Spokane. There is not sufficient evidence to support that Powell was involved in a gang homicide. See CP at 60 (finding of fact 2.2 states Powell \u201cwas a material witness in a gang homicide in Spokane\u2019\u2019). This aspect of finding of fact 2.2 is not binding on appeal. See Hill, 123 Wn.2d at 647.\nWere we to agree with the State, we would, in effect, be adopting a variation of the \u201cautomatic companion rule.\u2019\u2019 Under the automatic companion rule, \u201c[a] 11 companions of the arrestee within the immediate vicinity, capable of accomplishing a harmful assault on the officer, are constitutionally subjected to the cursory \u2018pat-down\u2019 reasonably necessary to give assurance that they are unarmed.\u2019\u2019 United States v. Berryhill, 445 F.2d 1189, 1193 (9th Cir. 1971). Under this rule, an officer may conduct a frisk for weapons of an arrestee\u2019s companions without individualized, articulable suspicion of criminal activity or dangerousness. See, e.g., Owens v. Commonwealth, 291 S.W.3d 704, 709-12 (Ky. 2009) (describing and adopting the automatic companion rule for vehicle passengers when the driver has been arrested and the passengers have been lawfully removed from the vehicle); Perry v. State, 927 P.2d 1158, 1163-64 (Wyo. 1996) (describing and adopting automatic companion rule when there was a lawful arrest and a justifiable concern for officer safety). We reject the automatic companion rule as inconsistent with our precedent and with the rule we announce today. See, e.g., Mendez, 137 Wn.2d at 220; cf., e.g., United States v. Bell, 762 F.2d 495, 498-99 (6th Cir. 1985) (rejecting the automatic companion rule because \u201cwe have serious reservations about the constitutionality of such a result under existing precedent\u2019\u2019 and noting that \u201cwe do not believe that the Terry requirement of reasonable suspicion under the circumstances has been eroded to the point that an individual may be frisked based upon nothing more than an unfortunate choice of associates\u2019\u2019 (citation omitted)); State v. Lemert, 843 N.W.2d 227, 233 (Minn. 2014) (rejecting the automatic companion rule in the Fourth Amendment context, finding that \u201calthough being a companion to an arrestee is part of the totality of the circumstances, the Fourth Amendment does not provide for an automatic search of an arrestee\u2019s companion\u2019\u2019). Contrary to the dissent\u2019s characterization, our holding does not create any new \u201cexception\u201d to the Fourth Amendment or article I, section 7.\nIn Terry, the United States Supreme Court considered statistics showing the danger police officers face. 392 U.S. at 23-24 & n.21. It considered similar statistics when it held that a police officer may order the driver out of a lawfully stopped vehicle, Pennsylvania v. Mimms, 434 U.S. 106, 110, 98 S. Ct. 330, 54 L. Ed. 2d 331 (1977), and when it extended this rule to vehicle passengers, Maryland v. Wilson, 519 U.S. 408, 413, 117 S. Ct. 882, 137 L. Ed. 2d 41 (1997). We therefore find it appropriate to note that officers face serious risks not only during traffic stops/pursuits, but also in arrest situations. Between 2005 and 2014, a total of 505 officers were feloniously killed. See 2014 Law Enforcement Officers Killed & Assaulted tbl.21, Fed. Bureau of Investigation, https://www.fbi.gov/about-us/cjis/ucr/leoka/2014/tables/table_21_leos_fk_circumstance_at_scene_of_incident_2005-2014.xls [https://perma.cc/S64R-V9CE]. Of those, 95 were killed in an arrest situation and 93 were killed during a traffic pursuit/stop. Id. In 2014 alone, 48,315 officers were assaulted. Id. at tbl.74, https://www.fbi.gov/about-us/cjis/ucr/leoka/2014/tables/table_ 74_leos_asltd_circum_at_scene_of_incident_by_population_group_and_percent_cleared_2014.xls [https://perma.cc/X6KH-2J52]. Of those, 7,343 were assaulted while attempting other arrests and 4,022 were assaulted during a traffic pursuit/stop. Id. While we consider police deaths and injuries, we are also cognizant of the fact that police practices may be biased against a particular community and that \u201cno shortage of seemingly routine stops . . . end[ ] in physical harm or even death.\u201d Recent case, State v. Kelly, 95 A.3d 1081 (Conn. 2014), 128 Harv. L. Rev. 1003, 1009 (2015). As noted, courts must carefully consider the circumstances of each case.\nNotably, the trial court relied on cases involving investigatory searches or pat downs. See, e.g., State v. Adams, 144 Wn. App. 100, 181 P.3d 37 (2008) (addressing a Terry search of a vehicle passenger). The trial court did not address the objective rationale analysis of Mendez and Parker in either its letter ruling or its CrR 3.6 order. See CP at 55-57, 61-62.\nWe emphasize that courts must review an officer\u2019s actions under the totality of the circumstances to determine if a seizure is made with the authority of law and is of reasonable scope and duration. See Mendez, 137 Wn.2d at 221. Depending on the facts of the case, this may require an examination of the circumstances as a sequence or an examination of specific actions each officer takes. Compare Harrington, 167 Wn.2d 656 (holding that cumulatively police action resulted in an unlawful seizure although the initial encounter was a social contact), with State v. Russell, 180 Wn.2d 860, 872, 330 P.3d 151 (2014) (holding that \u201cwhile the initial protective frisk was permissible, the officer violated Russell\u2019s constitutional rights when he removed a small container from his pocket and searched it without a warrant\u2019\u2019).\nPor a thorough discussion of when an informant\u2019s tip may be the basis for a Terry stop, see State v. Z.U.E., 183 Wn.2d 610, 352 P.3d 796 (2015). As noted, the State does not rely on the anonymous tip to justify the seizure of Powell and Flores.",
+        "type": "majority",
+        "author": "Stephens, J."
+      },
+      {
+        "text": "Gordon McCloud, J.\n\u00b635 (dissenting) \u2014 \u201cGenerally, war-rantless searches and seizures are unconstitutional,\u201d though there are \u201c \u2018 \u201ca few jealously and carefully drawn exceptions.\u201d \u2019 \u201d State v. Gatewood, 163 Wn.2d 534, 539, 182 P.3d 426 (2008) (quoting State v. Ladson, 138 Wn.2d 343, 349, 979 P.2d 833 (1999) (quoting State v. Hendrickson, 129 Wn.2d 61, 70, 917 P.2d 563 (1996))).\n\u00b636 Before today, these exceptions were all based on good, previously recognized, objective reasons for detaining an individual. This was the case under the Fourth Amendment to the United States Constitution. E.g., United States v. Cortez, 449 U.S. 411, 417, 101 S. Ct. 690, 66 L. Ed. 2d 621 (1981) (\u201cinvestigatory stop must be justified by some objective manifestation that the person stopped is, or is about to be, engaged in criminal activity\u201d). It was also the case under article I, section 7 of the Washington State Constitution. State v. Kennedy, 107 Wn.2d 1, 12-13, 726 P.2d 445 (1986) (search of front seat of suspect\u2019s car was \u201csimilar to a Terry[] frisk\u201d and therefore \u201creasonable\u201d under article I, section 7); State v. Horrace, 144 Wn.2d 386, 394, 28 P.3d 753 (2001) (embracing its search analysis as consistent with article I, section 7 protections: \u201cto justify the intrusion of a limited pat-down search, \u2018the police officer must be able to point to specific facts which . . . reasonably warrant that intrusion\u2019 \u201d (quoting Terry, 392 U.S. at 21)).\n\u00b637 Even Terry, which recognized a new exception to the warrant requirement in 1968, required objective reasons for detaining or frisking a specific individual: Terry limited its new \u201creasonable suspicion\u201d of criminal activity exception to situations where the officer\u2019s suspicion about an individual was objectively reasonable. 392 U.S. at 21-22 (In determining whether a search or seizure is reasonable, \u201cit is imperative that the facts be judged against an objective standard: would the facts available to the officer at the moment of the seizure or the search \u2018warrant a man of reasonable caution in the belief\u2019 that the action taken was appropriate?\u201d). In Washington, we have always applied that Terry exception the same way; we have limited it to situations where the officer possesses objectively reasonable suspicion that the suspect has committed or is about to commit a crime. State v. Duncan, 146 Wn.2d 166, 172-73, 43 P.3d 513 (2002) (under Fourth Amendment and article I, section 7, a seizure requires \u201ca reasonable, articulable suspicion, based on specific, objective facts, that the person seized has committed or is about to commit a crime\u201d (emphasis omitted) (citing Terry, 392 U.S. at 21)).\n\u00b638 It is therefore not surprising that our court has also limited the Terry exception to objectively reasonable, particularized suspicion about an individual. Our state constitution has always been interpreted to provide more protections for an individual\u2019s right to privacy, not less. State v. Byrd, 178 Wn.2d 611, 616, 310 P.3d 793 (2013) (\u201c[article I, section 7 is more protective of individual privacy than the Fourth Amendment\u201d).\n\u00b639 Today, however, the majority holds for the first time that law enforcement officers can seize an individual just like John Terry\u2014an individual on a city sidewalk\u2014without \u201cindividualized\u201d suspicion and without \u201carticulable facts\u201d supporting individualized suspicion, based on that officer\u2019s subjective statement of purpose rather than on objectively reasonable facts. Majority at 521-23. This holding creates a new exception to the Fourth Amendment\u2019s warrant requirement, and we don\u2019t have the power to create it\u2014only the Supreme Court does. It\u2019s also a new exception to our court\u2019s consistent statements, for decades, that article I, section 7 provides more protection for individual privacy rights than the Fourth Amendment. I therefore respectfully dissent.\nANALYSIS\nI. The Terry Exception Requires an Objective Analysis and Individualized Suspicion\n\u00b640 In Terry, the United States Supreme Court created a new exception to the warrant requirement. It held that law enforcement officers may briefly stop an individual if they have \u201c \u2018reasonable, articulable suspicion, based on specific, objective facts, that the person seized has committed or is about to commit a crime.\u2019 \u201d Gatewood, 163 Wn.2d at 539 (emphasis omitted) (quoting Duncan, 146 Wn.2d at 172 (citing Terry, 392 U.S. at 21)).\n\u00b641 As the majority correctly explains, this court in Mendez did adopt a rule that provides less privacy protection, but only in certain limited circumstances. Under the Mendez rule, police may detain an individual during a traffic stop just because he or she is present at a scene where officers have \u201csafety concerns for [themselves], the arrestee, his or her companions, or other citizens.\u201d Majority at 522. The Mendez rule relieves officers of the duty to articulate individualized suspicion before detaining those present at the scene of a traffic stop. It thus carves out a narrow exception to the warrant requirement. The question in this case is whether we should expand the narrow Mendez exception quite a bit further, to the factual situation presented in Terry\u2014the city streets\u2014and do so because of the officer\u2019s subjective statement of purpose for the stop rather than because of objective facts.\nII. The Majority Overturns the Most Important Prerequisites To Applying the Terry Exception: Objectively Reasonable Facts and Individualized Suspicion\n\u00b642 When this court adopted the Mendez rule, the only United States Supreme Court cases it cited were those addressing traffic stops. Mendez, 137 Wn.2d at 214-21 (citing Maryland v. Wilson, 519 U.S. 408, 412-14, 117 S. Ct. 882, 137 L. Ed. 2d 41 (1997); Pennsylvania v. Mimms, 434 U.S. 106, 108-11, 98 S. Ct. 330, 54 L. Ed. 2d 331 (1977) (per curiam)). While these cases cite to some common Fourth Amendment principles, their reasoning primarily reflects concerns unique to the traffic stop context. In particular, they identify two entirely car-specific reasons that officers may order drivers or passengers out of a validly stopped vehicle without meeting the Terry standard: (1) the order is a \u201c \u2018de minimis\u2019 \u201d additional intrusion relative to the stop itself and (2) weapons are easily concealed in car passenger compartments. Wilson, 519 U.S. at 412-14 (quoting Mimms, 434 U.S. at 111).\n\u00b643 The majority\u2019s decision to apply the Mendez rule to pedestrians ignores this reasoning and the limits it implies. First, a Terry-like stop is far from a de minimis intrusion. See Utah v. Strieff, _ U.S. _, 136 S. Ct. 2056, 2070, 195 L. Ed. 2d 400 (2016) (Sotomayor, J., dissenting) (\u201cThe indignity of the stop is not limited to an officer telling you that you look like a criminal. The officer may next ask for your \u2018consent\u2019 to inspect your bag or purse without telling you that you can decline. See Florida v. Bostick, 501 U.S. 429, 438, 111 S.Ct. 2383, 115 L.Ed.2d 389 (1991). Regardless of your answer, he may order you to stand \u2018helpless, perhaps facing a wall with [your] hands raised.\u2019 Terry, 392 U.S., at 17, 88 S.Ct. 1868. If the officer thinks you may be dangerous, he may then \u2018frisk\u2019 you for weapons.\u201d (alteration in original) (citation omitted)). Second, weapons are less easy to conceal without a glove compartment.\n\u00b644 The majority\u2019s decision to apply the Mendez rule to the Terry situation also ignores United States Supreme Court precedent in more relevant contexts. While that Court has never directly answered the question presented here\u2014whether officers may detain an arrestee\u2019s companion on a public street, absent the reasonable suspicion of criminal activity required under Terry\u2014it has addressed two closely related questions. In Ybarra v. Illinois, 444 U.S. 85, 92-94, 100 S. Ct. 338, 62 L. Ed. 2d 238 (1979), the Court held that police may not search or seize individuals merely because they are present at a public location subject to a search warrant. And in Maryland v. Buie, 494 U.S. 325, 334, 110 S. Ct. 1093, 108 L. Ed. 2d 276 (1990), the Court held that officers conducting an in-home arrest may do a protective sweep of the home only if articulable facts suggest that other people are present and pose a safety threat. In each of these cases, the State argued just what our State argues in this case: that when officers conduct a valid search and seizure (in those cases, pursuant to a warrant), Terry\u2019s standard of reasonable, articulable, and individualized suspicion should not apply to protect nearby people or places. And in each of these cases, the Court rejected that argument. Buie, 494 U.S. at 334 (outside arrestee\u2019s immediate grab area, Fourth Amendment protections at site of home arrest are \u201cno more and no less than was required in Terry\u201d); Ybarra, 444 U.S. at 94 (\u201cthe Terry exception does not permit a frisk for weapons on less than reasonable belief or suspicion directed at the person to be frisked, even though that person happens to be on premises where an authorized narcotics search is taking place\u201d).\n\u00b645 This Fourth Amendment precedent is highly relevant to the question presented here, yet neither the State nor the majority acknowledges it. By contrast, federal circuit courts have applied Ybarra to hold that Terry\u2014 requiring reasonable, articulable, and individualized suspicion\u2014is a constitutional minimum protecting an arrestee\u2019s companion. E.g., United States v. Flett, 806 F.2d 823, 827 (8th Cir. 1986) (applying Terry\u2019s \u201ctotality of the circumstances analysis\u201d to frisk of individual present at the scene of arrest (a private residence); rejecting a less protective standard as \u201cin direct opposition to the Supreme Court\u2019s directions in both Terry and Ybarra\u201d); United States v. Bell, 762 F.2d 495, 499 (6th Cir. 1985) (holding Terry standard limited frisk of individual riding in car when officers arrested driver on felony warrant (quoting Ybarra, 444 U.S. at 92-93)). While some federal cases have adopted the \u201cautomatic companion rule,\u201d permitting officers to frisk an arrestee\u2019s companion without any particularized safety justification whatsoever, these cases predate Ybarra and have been called into question on that basis. The majority of federal cases addressing the automatic companion rule have applied the Terry standard instead.\n\u00b646 These cases, not cases addressing traffic stops, should guide our analysis here. The majority\u2019s contrary conclusion, that officers may detain an arrestee\u2019s companion about whom they have no individualized suspicion, conflicts in principle with Ybarra\u2019s holding that the State may not justify an invasion of individual privacy on the basis of \u201ca person\u2019s mere propinquity to others independently suspected of criminal activity.\u201d 444 U.S. at 91.\n\u00b647 The majority implicitly recognizes this conflict by declining to adopt an automatic companion rule. See majority at 521-22 & n.5 (rejecting the State\u2019s argument that \u201cthe fact of an arrest is sufficient to satisfy Mendez\u2019s objective rationale test\u201d as \u201ca variation of the \u2018automatic companion rule\u2019 \u201d). As the majority acknowledges, such a rule would assign guilt by association. Majority at 522 n.5. Neither the state nor federal constitution permits this. See State v. Fuentes, 183 Wn.2d 149, 161, 352 P.3d 152 (2015) (defendant\u2019s presence at suspected drug dealer\u2019s apartment \u201clate at night in a high-crime area\u201d did not justify Terry stop); Illinois v. Wardlow, 528 U.S. 119, 124, 120 S. Ct. 673, 145 L. Ed. 2d 570 (2000) (individual\u2019s presence in high crime area is not independently sufficient to justify a Terry stop (citing Brown v. Texas, 443 U.S. 47, 99 S. Ct. 2637, 61 L. Ed. 2d 357 (1979))); Ybarra, 444 U.S. at 94 (\u201cThe \u2018narrow scope\u2019 of the Terry exception does not permit a frisk for weapons on less than reasonable belief or suspicion directed at the person to be frisked, even though that person happens to be on premises where an authorized narcotics search is taking place.\u201d).\n\u00b648 But the majority refuses to do what other courts rejecting the automatic companion rule have done: apply the Terry standard. While I agree that officers need not \u201cignore information that implicates their safety\u201d at the scene of an arrest, majority at 526, I also agree with the federal courts in Flett, 806 F.2d at 827, and Bell, 762 F.2d at 499, that the Terry standard strikes the proper balance between safety and individual privacy at the scene of an arrest outside the car context. The standard that the majority applies instead poses significant logical and practical problems.\n\u00b649 The source of these problems is that the majority replaces Terry\u2019s (and Ybarra\u2019s and Buie\u2019s) objective analysis with total deference to the officer\u2019s subjective belief. It does so by mischaracterizing all of our previous article I, section 7 cases as focusing on the officer\u2019s stated \u201cpurpose\u201d for the stop (rather than on the location of the stop). Majority at 520 (contrasting what officers may do \u201c \u2018[f ]or purposes of controlling the scene of the traffic stop\u2019 \u201d with what they may do when \u201cengagfing] in . . . investigative stops\u201d (quoting Mendez, 137 Wn.2d at 220)), 521 (\u201cthese cases demonstrate! ] the standard we use to evaluate the legality of a seizure is determined by the purpose of the seizure\u201d).\n\u00b650 But these cases never allowed exceptions to the Fourth Amendment\u2019s warrant requirement or article I, section 7\u2019s \u201cauthority of law\u201d requirement based on the officer\u2019s subjective \u201cpurpose.\u201d Instead, they based their analysis on an objective analysis of the intrusiveness of the stop.\n\u00b651 How intrusive was the stop in this case? As discussed above, it was highly intrusive\u2014as intrusive as the stop in Terry itself, which led to the Terry prerequisites to such a stop.\n\u00b652 The majority\u2019s footnote explaining the dangers generally faced by law enforcement does not change this. That footnote\u2019s statistics certainly show that law enforcement in general is a dangerous profession. But a Terry stop must be justified by objectively reasonable facts supporting individualized suspicion, not by generalities. City of Indianapolis v. Edmond, 531 U.S. 32, 37, 121 S. Ct. 447, 148 L. Ed. 2d 333 (2000) (\u201c[a] search or seizure is ordinarily unreasonable in the absence of individualized suspicion of wrongdoing\u201d); State v. Jorden, 160 Wn.2d 121, 130, 156 P.3d 893 (2007) (article I, section 7 prohibits law enforcement from checking names in motel registry for outstanding warrants absent \u201cindividualized or particularized suspicion\u201d).\nIII. The State Conceded That Terry Was Not Satisfied\n\u00b653 I would therefore apply Terry\u2019s analysis to this stop. The trial court found the anonymous tip insufficient to justify a Terry stop; the State did not assign error to that finding on appeal. Pet\u2019r\u2019s Suppl. Br. at 5 (\u201cThe State never argued this case as a valid Terry stop, instead arguing Mendez/Parker\u201d).\nCONCLUSION\n\u00b654 Instead of adopting the majority\u2019s rule\u2014which creates a new exception to the Fourth Amendment\u2019s warrant requirement and article I, section 7\u2019s privacy protections\u2014I would follow the analysis applied in Bell and Flett. Under this analysis, officers must comply with Terry at the scene of an arrest. Because the State conceded in the trial court that Flores\u2019 detention did not satisfy Terry\u2019s standard, I would affirm the Court of Appeals\u2019 decision to uphold dismissal. I therefore respectfully dissent.\nMadsen, C.J., concurs with Gordon McCloud, J.\nTerry v. Ohio, 392 U.S. 1, 21-22, 88 S. Ct. 1868, 20 L. Ed. 2d 889 (1968).\nState v. Mendez, 137 Wn.2d 208, 220, 970 P.2d 722 (1999), abrogated on other grounds by Brendlin v. California, 551 U.S. 249, 127 S. Ct. 2400, 168 L. Ed. 2d 132 (2007).\nFor example, the United States Supreme Court\u2019s cases on traffic stops cite the general Fourth Amendment principle that individual privacy protections must be balanced against \u201cthe public interest.\u2019\u2019 Wilson, 519 U.S. at 413; Mimms, 434 U.S. at 109 (quoting United States v. Brignoni-Ponce, 422 U.S. 873, 878, 95 S. Ct. 2574, 45 L. Ed. 2d 607 (1975)).\nIn this way, the majority\u2019s analysis conflicts in principle with at least one previous decision. See Duncan, 146 Wn.2d at 173-74 (declining to extend the Teny stop exception to the warrant requirement beyond traffic violations to other civil infractions because \u201c[t]raffic violations create a unique set of circumstances that may justify this extension of Terry, but which may not be appropriate for other civil infractions\u2019\u2019; noting \u201cthe diminishment of privacy interests\u2019\u2019 in vehicles \u201c \u2018due to the law enforcement exigency created by the ready mobility of vehicles\u2019 \u2019\u2019 (quoting State v. Johnson, 128 Wn.2d 431, 454, 909 P.2d 293 (1996))).\nBuie, 494 U.S. at 330 (\u201c[T]he State of Maryland! ] argues that, under a general reasonableness balancing test, police should be permitted to conduct a protective sweep whenever they make an in-home arrest for a violent crime.\u201d); Ybarra, 444 U.S. at 94 (\u201cthe State contends that the Terry \u2018reasonable belief or suspicion\u2019 standard should be made applicable to aid the evidence-gathering function of the search warrant ... to permit evidence searches of persons who, at the commencement of the search, are on \u2018compact\u2019 premises subject to a search warrant, at least where the police have a \u2018reasonable belief\u2019 that such persons \u2018are connected with\u2019 drug trafficking and \u2018may be concealing or carrying away the contraband\u2019 \u201d).\nE.g., United States v. Poms, 484 F.2d 919, 922 (4th Cir. 1973) (per curiam); United States v. Berryhill, 445 F.2d 1189, 1192-93 (9th Cir. 1971).\nSee Commonwealth v. Wing Ng, 420 Mass. 236, 238 n.2, 649 N.E.2d 157 (1995) (\u201cThere is language in opinions of the Supreme Court . . . that casts doubt on the propriety of the bright-line Berryhill rule.\u2019\u2019 (citing Ybarra, 444 U.S. at 91)); Bell, 762 F.2d at 498 (\u201cWe decline to adopt an \u2018automatic companion\u2019 rule, as we have serious reservations about the constitutionality of such a result under existing precedent.\u2019\u2019).\nE.g., United States v. McKie, 292 U.S. App. D.C. 419, 422, 951 F.2d 399 (1991) (because stop was justified by reasonable suspicion consistent with Terry, \u201c[t]his [was] not ... a \u2018mere propinquity\u2019 case and [court] need not take a position on the \u2018automatic companion\u2019 rule to decide it\u2019\u2019); Flett, 806 F.2d at 827 (companion search limited by Terry); Bell, 762 F.2d at 499 (same); United States v. Tharpe, 536 F.2d 1098, 1101 (5th Cir. 1976) (\u201cWe need not go so far as the Ninth Circuit\u2019s rule of general justification conferring categorical reasonableness upon searches of all companions of the arrestee .... We simply hold that where there was good reason for an officer to apprehend that he was in a position of real danger from companions . . . that officer\u2019s pat-down search is compatible with Terry.\"), overruled on other grounds by United States v. Causey, 834 F.2d 1179, 1184 (5th Cir. 1987).",
+        "type": "dissent",
+        "author": "Gordon McCloud, J."
+      }
+    ],
+    "attorneys": [
+      "Garth A. Dano, Prosecuting Attorney, and Kevin J. McCrae, Deputy, for petitioner.",
+      "David Bustamante, for respondent.",
+      "Russell M. Aoki, Isham M. Reavis, Helen D. Ling, and Douglas B. Klunder on behalf of American Civil Liberties Union of Washington, amicus curiae."
+    ],
+    "corrections": "",
+    "head_matter": "[No. 91986-1.\nArgued March 10, 2016.\nDecided September 15, 2016.\nThe State of Washington, Petitioner, v. Cody Ray Flores, Respondent.\nGarth A. Dano, Prosecuting Attorney, and Kevin J. McCrae, Deputy, for petitioner.\nDavid Bustamante, for respondent.\nRussell M. Aoki, Isham M. Reavis, Helen D. Ling, and Douglas B. Klunder on behalf of American Civil Liberties Union of Washington, amicus curiae."
+  },
+  "file_name": "0506-01",
+  "first_page_order": 544,
+  "last_page_order": 574
+}

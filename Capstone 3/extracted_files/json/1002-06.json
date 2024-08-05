@@ -1,0 +1,76 @@
+{
+  "id": 12462765,
+  "name": "State, Respondent, v. Kirby, Petitioner",
+  "name_abbreviation": "State v. Kirby",
+  "decision_date": "2016-08-31",
+  "docket_number": "No. 93000-7",
+  "first_page": "1002",
+  "last_page": "1002",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "186 Wash. 2d 1002"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Wash.",
+    "id": 9029,
+    "name": "Washington Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 38,
+    "name_long": "Washington",
+    "name": "Wash."
+  },
+  "cites_to": [
+    {
+      "cite": "192 Wn. App. 1068",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        12456352,
+        12456353,
+        12456351
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/192/1068-02",
+        "/wash-app/192/1068-03",
+        "/wash-app/192/1068-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 27,
+    "char_count": 187,
+    "ocr_confidence": 0.855,
+    "sha256": "7a2f6492f84a9d2aaa9a074244338bf750393c81360bf36295da063029455d39",
+    "simhash": "1:51dd6f3cd0d5657d",
+    "word_count": 31
+  },
+  "last_updated": "2024-02-27T18:43:05.207238+00:00",
+  "provenance": {
+    "date_added": "2019-05-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "State, Respondent, v. Kirby, Petitioner,"
+    ],
+    "opinions": [
+      {
+        "text": "Petition for review of a decision of the Court of Appeals, No. 46787-9-II, March 8, 2016, 192 Wn. App. 1068. Denied August 31, 2016.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "State, Respondent, v. Kirby, Petitioner,\nNo. 93000-7."
+  },
+  "file_name": "1002-06",
+  "first_page_order": 988,
+  "last_page_order": 988
+}

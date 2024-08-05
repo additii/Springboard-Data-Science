@@ -1,0 +1,85 @@
+{
+  "id": 1435068,
+  "name": "Vineyard v. Storm",
+  "name_abbreviation": "Vineyard v. Storm",
+  "decision_date": "1932-06-27",
+  "docket_number": "4-2611",
+  "first_page": "1148",
+  "last_page": "1150",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "185 Ark. 1148"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [
+    {
+      "cite": "190 S. W. 560",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "126 Ark. 449",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1551799
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/126/0449-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 298,
+    "char_count": 4204,
+    "ocr_confidence": 0.508,
+    "pagerank": {
+      "raw": 5.061447019797991e-08,
+      "percentile": 0.3173316282146179
+    },
+    "sha256": "28e3a8739a190173fd8e8e881828149027ebbdc8ec72fde6dd242b956a2ad6b8",
+    "simhash": "1:ae898eb2f968ae16",
+    "word_count": 735
+  },
+  "last_updated": "2024-02-27T17:51:09.396208+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Vineyard v. Storm."
+    ],
+    "opinions": [
+      {
+        "text": "Smith, J.\nThree separate suits were brought in the Phillips Circuit Court - against Gr. H. Vineyard, doing business as Vineyard Transfer Company, to recover damages occasioned by the collision between an automobile driven by one Laurens Whipple Milner, Jr., and a truck driven by an employee of Vineyard. One suit was by the executrix of the estate of Milner, Jr., the latter having been killed in the collision. Manual Lupkin, who was in the car, sued also to recover compensation for his personal injury. The third suit was brought on beh\u00e1lf of the owner of the car, who was not in it at the time of the collision. Judgment was rendered in favor of the plaintiff in each case, in the first for $5,000, in the second for $250, and in the third for $250 also, and. this appeal is from those judgments.\nThe negligence alleged as constituting the causes of action was that the truck driver \u2018 \u2018 did negligently, carelessly and recklessly, Awhile operating said truck at a high rate of speed, Avithout regard for the safety of others, and while on the wrong side of said road, did run said truck against and caused it to collide with a Pontiac roadster driATen hy the deceased, wTho was at the time as far over as he could possibly be on the right side of the road, going to the toAvn of Marianna, and Avhile he Avas driving said ear carefully and AA\u00dath due regard for his OAvn safety and the safety of others.\u201d\nThe ansAver put the truth of these allegations in issue in each case, and the cases Avere heard on conflicting testimony, that on the part of the plaintiffs being sufficient to support the finding that the collision resulted from the negligence of the driA7er of the truck in the particulars stated. The issue of fact was submitted under instructions which are not questioned as correct declara^ tions of laAV.\nWe think, no useful purpose Avould be served by a detailed statement of the conflicting testimony, and for that reason we do not set it out. It must suffice to say that the testimony on the part of the plaintiff is legally sufficient to support the finding that the collision was the result of the negligence of the driver of the truck.\nIn the argument of the case before the jury counsel for plaintiff, replying to the argument of counsel for defendant, said: \u201cThey say Mr. Vineyard will have to pay it (the judgment). I say the insurance company will have to pay it. \u2019 \u2019 Upon objection being made to that statement, the court said: \u201cThat is an improper argument. The attorney for the plaintiff stated that he Avas undertaking to say that the money comes out of Mr. Vineyard, and he says it will come out of the insurance company, to AAdiich remark the defendant excepts, and the attorney for the plaintiff offers to withdraw the argument, and the court admonishes the jury not to consider that statement in any respect, which the attorney for the plaintiff made. It is highly improper, and the attorney for the plaintiff is instructed to refrain from any such argument.\u201d\nThis was an improper argument, hut it appears to have been made in response to an argument equally improper. In a sense, it was invited error, and that fact cannot be' overlooked in determining the sufficiency of the ruling of the court in removing its prejudice. Caddo River Lbr. Co. v. Grover, 126 Ark. 449, 190 S. W. 560.\nHowever, we think the admonition of the court to the jury was sufficient to remove any prejudice that might otherwise have resulted. Numerous cases have settled the practice that a large discretion must be exercised by the trial court in determining the action to be taken when counsel have gone beyond the bounds of legitimate argument, the action in each case being such as is deemed appropriate to eliminate the prejudicial effect of the improper argument, and judgments are not reversed because of the argument where that action was taken. We think in the instant case that the ruling of the court was sufficient to remove the prejudice.\nUpon the whole case we find no prejudicial error, and the judgment must be affirmed. It is so ordered.",
+        "type": "majority",
+        "author": "Smith, J."
+      }
+    ],
+    "attorneys": [
+      "Verne McMillen and W. G. Dinning, for appellant.",
+      "Bretuer $ Cracraft, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Vineyard v. Storm.\n4-2611\nOpinion delivered June 27, 1932.\nVerne McMillen and W. G. Dinning, for appellant.\nBretuer $ Cracraft, for appellee."
+  },
+  "file_name": "1148-01",
+  "first_page_order": 1168,
+  "last_page_order": 1170
+}

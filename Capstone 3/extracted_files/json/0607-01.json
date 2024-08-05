@@ -1,0 +1,85 @@
+{
+  "id": 8724550,
+  "name": "Long v. State",
+  "name_abbreviation": "Long v. State",
+  "decision_date": "1923-11-05",
+  "docket_number": "",
+  "first_page": "607",
+  "last_page": "611",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "160 Ark. 607"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [
+    {
+      "cite": "117 Ark. 108",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1564875
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/117/0108-01"
+      ]
+    },
+    {
+      "cite": "85 Ark. 500",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 456,
+    "char_count": 9883,
+    "ocr_confidence": 0.481,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.20857355004094832
+    },
+    "sha256": "e4c4a8b9122b21d1afc530bc1ce1f424729db5cdfecf60082a1402c103ae12b7",
+    "simhash": "1:b10d726858cd929a",
+    "word_count": 1741
+  },
+  "last_updated": "2024-02-27T17:41:07.582861+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Long v. State."
+    ],
+    "opinions": [
+      {
+        "text": "Wood, J.\nThis is an appeal from a judgment of the Pope Circuit Court sentencing the appellant to imprisonment in the State Penitentiary for a period of two years. The indictment on which appellant was tried and convicted, omitting the formal parts, is as follows: \u201cThe said Robert Long, in the county and State aforesaid, on the 10 th day of May, 1922, then and there intending to cheat and defraud one Ed Templeton, did wilfully, unlawfully* fraudulently, falsely and feloniously represent and pretend to the said Ed. Templeton that he, the said Robert Long, was the representative of a large and prosperous oil company, an active member thereof, and was the owner of a large number of oil leases in Pope County, Arkansas, and that plans had been completed for the immediate drilling of an oil well, and by reason of said wilful, unlawful, false, felonious and frauduent pretense, in manner and form as aforesaid, did then and there wilfully, unlawfully, feloniously, fraudulently induce tire said Ed Templeton to purchase and trade for $300 of alleged stock in said company and to part with the possession of and deliver to him, the said Robert Long, $300, in gold, silver and paper money of the value of $300, the property of the said Ed Templeton, with the wilful, unlawful, fraudulent and felonious intent then and there and thereby to deprive the said Ed Templeton of his said money as aforesaid, and cause him to be injured in his lawful rights and. estate; when in truth and in fact the said Robert Long was not the representative of a large and prosperous oil company; was not an active member thereof, and was not the owner of a large number of oil leases in Pope County, Arkansas, and that plans had not been completed for the immediate drilling of an oil well in Pope County, Arkansas; all of which said false pretense and representations, in manner and form aforesaid, were then and there well known' to him, the said Robert Long, to be wilfully, unlawfully, feloniously, falsely and corruptly untrue, * * * against the peace and dignity of the State of Arkansas.\u201d\nEd Templeton, the prosecuting witness, testified that the appellant came out in witness\u2019 neighborhood, taking leases for oil, at a meeting he had called, representing that he had oil stock for sale. He stated that he was going to dig a well, and wanted to lease land; that he had made preparations to dig; had $50,000 already, the big money in the bank at Little Rock and his personal money in the England bank. Witness could not read or write. Witness saw appellant the next morning after the meeting that night, and paid.him.$300. Appellant said that Zeke\u2019s wife had given him a thousand dollars to sink the first well on his place. Appellant told witness that he had paid some white men $200 to show Mm where the oil. was, and that they had piled up some rocks at the place. Witness described the trip he made with appellant endeavoring to find the place. They piled up rocks all about at different places, and had witness and others to drive down sticks there. Witness didn\u2019t see any white folks there. The next time witness saw appellant he wanted witness to go to Little Book and join the company down there. Witness went down there with appellant, and paid him $250 again. Appellant told witness that this was for promotership. He gave witness another share in the promoter, and witness paid him $250 for that. The next money witness let him have was about the land. He got to persuading witness to help him out in taking care of his father and two sisters, who were destitute of a home, and he was to secure witness, and stated that, as soon as he got home and got the land fixed up, he would turn over to witness all the papers necessary to secure it \u2014 would turn over the deed. He stated that the place was a large farm of 380 acres, and had renters on it. He never turned over the deed to witness. Appellant next told witness he was getting up a bond for protection, and wanted witness to pay some on it, and witness paid him $25 on that. Witness paid him as much as $3,500 in all, and never got anything for it. The reason witness let him have the money was because he said he had all this money, and one thing and another, and witness did it because he really thought he could get his money back. Appellant said he was going to dig a well if he didn\u2019t get but forty acres or twenty-five acres. The reason witness paid him the $300 was that he promised to drill the first well on witness\u2019 land. He gave witness a receipt for the $300. The $300 was not for the purpose of buying stock in any concern. Witness was not buving stock with the $300 \u2014 just gave him the $300 for the purpose of getting him to drill the first well on witness\u2019 land. Appellant never drilled the well. Witness further testified that, after he paid the $300 in order to sret appellant to drill the first hole on witness\u2019 land, he then paid appellant $250 to.join a comoauv, and after-wards boug'ht an interest in the leases. $1,000 worth, and then loaned appellant $250 and took his note for it.\nOther witnesses testified that the appellant represented, at a meeting, that he was agent for the Block Oil & Gas Company of El Dorado, and that, at another meeting afterwards, be said that be was operating for himself. He represented that be had made arrangements with white men at Morrilton to- drill a well. He stated, among other things, that he had money to drill the well, and that $18,000 was in the Rainwater Bank at Morrilton. He positively represented that he was going to dig a well. Appellant came among them representing that he was selling share of stock for the Block Oil & Gas Company, and on another trip he came representing that he was operating for himself and was taking leases. It was shown that appellant disappeared from Pope County, and was finally located in Atlanta, Georgia, and arrested there and afterward brought back to Arkansas.\nWood Rainwater, the president of the Rainwater Bank at Morrilton, testified that appellant never had any money in his bank in 1922.\nThe testimony was substantially as set forth above, and at the conclusion of the introduction thereof the appellant asked the court to instruct the jury, in its prayer No. 1, to return a verdict of not guilty because the allegations of the indictment had not been sustained by the proof, and further asked the court to instruct the jury, in its prayer ,No. 2, as follows: \u201cThat the ownership and description of the money alleged to have been obtained by false pretenses are material allegations in the indictment, and, before you would be justified in convicting the defendant, -the State must prove that the defendant procured from Ed Templeton the sum of $300 of the kind of money alleged in the indictment, and that said money must have belonged to Ed Templeton, and the proof that other moneys were obtained from Ed Templeton would not justify a conviction under the allegations in this indictment, but is only admitted for the purpose of showing defendant\u2019s general method of transacting business.\u201d\n1. The court did not err in refusing appellant\u2019s prayer for instruction No. 1 set out above. There is no testimony in the record to show that the appellant was not the representative of a large and prosperous oil company, and that appellant was not an active member thereof, and there was no testimony to prove that the appellant was not the owner of a large number of oil leases in Pope County. But there was testimony from which the jury might have found that the appellant had not completed plans for the immediate drilling of an oil well. It could serve no useful purpose to discuss in detail the facts on this issue which the testimony tended to prove. Suffice it to say it was an issue for the jury.\n2. The court erred in refusing appellant\u2019s prayer for instruction No. 2. In Maxey v. State, 85 Ark. 500, we said: \u201cIt has been held by this court that, in an indictment for receiving money under false pretenses, the money must he described with the same particularity and certaintv as is required in an indictment for larceny. It has also been held that the allegations of the indictment must be sustained by proof as to the kind of money described therein.\u201d See also Silvia v. State, 117 Ark. 108, and cases cited in the above cases. The allegations of the indictment, according to the above cases, met the requirements of the statute in describing the money as \u201cgold, silver and paper money of the value of $300.\u201d But there was no proof in the record showing the kind of money that appellant obtained. It was essential that the allegations of the indictment in this respect be established by the evidence.\nFor the error indicated, the judgment is reversed and the cause remanded for a new trial.",
+        "type": "majority",
+        "author": "Wood, J."
+      }
+    ],
+    "attorneys": [
+      "Ward & Caudle, for appellant.",
+      "J. 8. Utley, Attorney General, Jno. L. Carter, Wm. T. Hammock and Barden Moose, Assistants, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Long v. State.\nOpinion delivered November 5, 1923.\n1. False pretenses \u2014 sufficiency of proof. \u2014 An indictment for procuring money under false pretenses which alleged that defendant falsely stated that he was the representative of a large and prosperous oil company, and was the owner of a large number of oil leases in a certain county, and that he had completed plans for the immediate drilling of an oil well, is sustained by proof that defendant falsely alleged that he had completed plans for the drilling of a well, though there was no proof of the falsity of the other statements.\n2. False pretenses \u2014 description of money \u2014 allegations ano \u2022 PROOF. \u2014 In an indictment for receiving money under false pretenses, the money must be described with the same particularity and certainty as is required in an indictment for larceny, and such allegation must he sustained by proof as to the kind of money described therein.\nAppeal from Pope Circuit Court; J. T. Bulloch, Judge;\nreversed.\nWard & Caudle, for appellant.\nJ. 8. Utley, Attorney General, Jno. L. Carter, Wm. T. Hammock and Barden Moose, Assistants, for appellee."
+  },
+  "file_name": "0607-01",
+  "first_page_order": 631,
+  "last_page_order": 635
+}

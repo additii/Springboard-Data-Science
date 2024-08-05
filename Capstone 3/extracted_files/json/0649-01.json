@@ -1,0 +1,412 @@
+{
+  "id": 6793408,
+  "name": "Certification From the United States District Court for the Western District of Washington in Ana Lopez Demetrio et al., Plaintiffs, v. Sakuma Brothers Farms, Inc., Defendant",
+  "name_abbreviation": "Lopez Demetrio v. Sakuma Bros. Farms",
+  "decision_date": "2015-07-16",
+  "docket_number": "No. 90932-6",
+  "first_page": "649",
+  "last_page": "664",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "183 Wash. 2d 649"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Wash.",
+    "id": 9029,
+    "name": "Washington Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 38,
+    "name_long": "Washington",
+    "name": "Wash."
+  },
+  "cites_to": [
+    {
+      "cite": "1 P.3d 578",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2000,
+      "pin_cites": [
+        {
+          "parenthetical": "SPEEA"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "991 P.2d 1126",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 2000,
+      "pin_cites": [
+        {
+          "parenthetical": "SPEEA"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "139 Wn.2d 824",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        99111
+      ],
+      "year": 2000,
+      "pin_cites": [
+        {
+          "page": "835",
+          "parenthetical": "SPEEA"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/139/0824-01"
+      ]
+    },
+    {
+      "cite": "7 P.3d 795",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2000,
+      "pin_cites": [
+        {
+          "parenthetical": "\"In answering federal certified questions, we do not seek to make broad statements outside of the narrow questions and record before us.\""
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "141 Wn.2d 493",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1183450
+      ],
+      "year": 2000,
+      "pin_cites": [
+        {
+          "page": "508",
+          "parenthetical": "\"In answering federal certified questions, we do not seek to make broad statements outside of the narrow questions and record before us.\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/141/0493-01"
+      ]
+    },
+    {
+      "cite": "75 P.3d 990",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2003,
+      "opinion_index": 0
+    },
+    {
+      "cite": "118 Wn. App. 272",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        1352725
+      ],
+      "year": 2003,
+      "pin_cites": [
+        {
+          "page": "283"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/118/0272-01"
+      ]
+    },
+    {
+      "cite": "267 P.3d 383",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2011,
+      "pin_cites": [
+        {
+          "parenthetical": "quoting WAC 296-126-092(4)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "164 Wn. App. 668",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        4023322
+      ],
+      "weight": 2,
+      "year": 2011,
+      "pin_cites": [
+        {
+          "page": "688",
+          "parenthetical": "quoting WAC 296-126-092(4)"
+        },
+        {
+          "page": "679"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/164/0668-01"
+      ]
+    },
+    {
+      "cite": "287 P.3d 516",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2012,
+      "opinion_index": 0
+    },
+    {
+      "cite": "175 Wn.2d 822",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4024173
+      ],
+      "year": 2012,
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/175/0822-01"
+      ]
+    },
+    {
+      "cite": "50 P.3d 256",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2002,
+      "opinion_index": 0
+    },
+    {
+      "cite": "146 Wn.2d 841",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        960826
+      ],
+      "year": 2002,
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/146/0841-01"
+      ]
+    },
+    {
+      "cite": "864 P.2d 937",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1994,
+      "opinion_index": 0
+    },
+    {
+      "cite": "123 Wn.2d 93",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        812817
+      ],
+      "year": 1994,
+      "pin_cites": [
+        {
+          "page": "99"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/123/0093-01"
+      ]
+    },
+    {
+      "cite": "153 P.3d 846",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2007,
+      "pin_cites": [
+        {
+          "parenthetical": "quoting Burnside v. Simpson Paper Co., 123 Wn.2d 93, 99, 864 P.2d 937 (1994)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "159 Wn.2d 700",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        3592816
+      ],
+      "year": 2007,
+      "pin_cites": [
+        {
+          "page": "712",
+          "parenthetical": "quoting Burnside v. Simpson Paper Co., 123 Wn.2d 93, 99, 864 P.2d 937 (1994)"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/159/0700-01"
+      ]
+    },
+    {
+      "cite": "103 P.3d 1226",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2005,
+      "opinion_index": 0
+    },
+    {
+      "cite": "153 Wn.2d 392",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        875631
+      ],
+      "year": 2005,
+      "pin_cites": [
+        {
+          "page": "396"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/153/0392-01"
+      ]
+    },
+    {
+      "cite": "142 P.3d 155",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2006,
+      "opinion_index": 0
+    },
+    {
+      "cite": "158 Wn.2d 194",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        3086237
+      ],
+      "year": 2006,
+      "pin_cites": [
+        {
+          "page": "201"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/158/0194-01"
+      ]
+    },
+    {
+      "cite": "154 P.3d 891",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2007,
+      "pin_cites": [
+        {
+          "parenthetical": "plurality opinion"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "159 Wn.2d 868",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        3592562
+      ],
+      "year": 2007,
+      "pin_cites": [
+        {
+          "page": "881",
+          "parenthetical": "plurality opinion"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/159/0868-01"
+      ]
+    },
+    {
+      "cite": "334 P.3d 529",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2014,
+      "opinion_index": 0
+    },
+    {
+      "cite": "181 Wn.2d 412",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4356140
+      ],
+      "year": 2014,
+      "pin_cites": [
+        {
+          "page": "420"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/181/0412-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1098,
+    "char_count": 25815,
+    "ocr_confidence": 0.748,
+    "pagerank": {
+      "raw": 8.387901024790425e-08,
+      "percentile": 0.4822066846368263
+    },
+    "sha256": "39f2a006df032f202204b8dad215e23643f76c3fa36200fa9306f8d3c0addce1",
+    "simhash": "1:0b31bec705206feb",
+    "word_count": 4161
+  },
+  "last_updated": "2024-02-27T22:09:01.011694+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Madsen, C.J., and Johnson, Owens, Fairhurst, Stephens, Wiggins, Gonz\u00e1lez, and Gordon McCloud, JJ., concur."
+    ],
+    "parties": [
+      "Certification From the United States District Court for the Western District of Washington in Ana Lopez Demetrio et al., Plaintiffs, v. Sakuma Brothers Farms, Inc., Defendant."
+    ],
+    "opinions": [
+      {
+        "text": "Yu, J.\n\u00b61 We have been asked to answer two certified questions arising from a class action employment lawsuit pending in federal district court. Washington labor regulations allow employees to take short rest breaks \u201con the employer\u2019s time.\u201d When applied to employees paid by the hour, that means employers must pay employees their regular hourly rate during these brief periods of inactivity. Hourly employees, in other words, remain \u201con the clock\u201d during breaks under undisputed Washington law.\n\u00b62 To answer the certified questions here, we must interpret \u201con the employer\u2019s time\u201d and apply the language to agricultural employees who are not paid by the hour but rather by the piece. A piece rate is tied to the employee\u2019s output (for example, per pound of fruit harvested) and is earned only when the employee is actively producing. Thus for employees paid a piece rate, the clock stops during periods of inactivity, however brief. The central issue is whether employers can fold payment for rest breaks, when the clock is stopped, into the piece rate consistently with the mandate that breaks be paid \u201con the employer\u2019s time.\u201d This phrase appears in the regulation applicable to agricultural employees:\nEvery employee shall be allowed a rest period of at least ten minutes, on the employer\u2019s time, in each four-hour period of employment. For purposes of computing the minimum wage on a piecework basis, the time allotted an employee for rest periods shall be included in the number of hours for which the minimum wage must be paid.\nWAC 296-131-020(2) (emphasis added).\n\u00b63 We rely on the plain language of that regulation to conclude that employers must pay employees for rest breaks separate and apart from the piece rate. An all-inclusive piece rate compensates employees for rest breaks by deducting pay from the wages the employee has accumulated that day. Hourly employees do not finance their own rest breaks in this way, and requiring pieceworkers to do so strips the phrase \u201con the employer\u2019s time\u201d of any practical meaning. That same language requires that rest breaks for pieceworkers be paid at least at the applicable minimum wage or the employee\u2019s regular rate, whichever is greater.\nBACKGROUND\n\u00b64 This case began in 2013 when two workers sued Sakuma Brothers Farms Inc. in federal district court on behalf of all seasonal and migrant agricultural workers Sakuma employs (Workers). Sakuma operates a berry farm in Skagit County and hires hundreds of migrant and seasonal workers to harvest its crop each year. These Workers, many of whom speak little English, travel to the Skagit Valley to handpick Sakuma\u2019s strawberries, blackberries, and blueberries. For that work, Sakuma pays a \u201cpiece rate\u201d wage based on the Workers\u2019 productivity \u2014 e.g., an amount per pound or per box of fruit harvested. The piece rate is the only compensation the Workers receive. As a Sakuma representative testified, \u201c [I]f the picker is not picking . . . , the picker is not earning money.\u201d Doc. 33, at 7 (Decl. of Marc C. Cote in Supp. of Mot. To Certify Legal Questions to Wash. Supreme Ct.).\n\u00b65 The Workers\u2019 class action lawsuit asserted several state and federal claims arising from Sakuma\u2019s use of piece rate wages. In the only claim relevant here, the Workers allege that Sakuma deprived them of paid rest breaks required by WAC 296-131-020(2), which provides that \u201c[e]very employee shall be allowed a rest period of at least ten minutes, on the employer\u2019s time, in each four-hour period of employment.\u201d (Emphasis added.) The Workers contend \u201con the employer\u2019s time\u201d means that Sakuma must pay a wage separate from the piece rate for the 10-minute period they are on break, since no piece rate wages accumulate during that time. Sakuma responds that it sets the piece rate with rest periods in mind and that breaks are therefore \u201con the employer\u2019s time,\u201d as regulated.\n\u00b66 While the case was pending in federal court and after some discovery, Sakuma agreed to settle each of the Workers\u2019 retroactive claims. But Sakuma denied liability and expressly preserved its challenge to the Workers\u2019 prospective claim that \u201cSakuma must pay for the time piece rate workers spend in rest breaks under WAC 296-131-020(2).\u201d Doc. 27, at 17 (Stipulation of Settlement & Release between Pis. & Def.). Thus the settlement does not affect the Workers\u2019 claim for declaratory relief requiring pay separate and apart from the piece rate for these brief rest periods going forward. The federal district court granted the Workers\u2019 motion to certify to us two questions related to that claim.\nCERTIFIED QUESTIONS\n\u00b67\n1. Does a Washington agricultural employer have an obligation under WAC 296-131-020(2) and/or the Washington Minimum Wage Act [(MWA), ch. 49.46 R.CWJ to separately pay piece-rate workers for the rest breaks to which they are entitled?\n2. If the answer is \u201cyes,\u201d how must Washington agricultural employers calculate the rate of pay for the rest break time to which piece-rate workers are entitled?\nDoc. 44, at 1-2 (Order Granting in Part Stipulated Mot. regarding Certified Questions to Wash. Supreme Ct.).\nANALYSIS\n\u00b68 We answer certified questions de novo and in light of the federal court record. Frias v. Asset Foreclosure Servs., Inc., 181 Wn.2d 412, 420, 334 P.3d 529 (2014).\nFirst Certified Question\n\u00b69 Though Sakuma and the Workers dispute the resolution of the first certified question \u2014 whether pay separate from the piece rate is owed to pieceworkers for rest breaks\u2014 they agree on several points. They agree that employers must provide rest breaks to agricultural employees. They agree that agricultural employees are entitled to some form of payment for those breaks. And, guiding the analysis here, they agree that to answer the question we must interpret WAC 296-131-020. The Department of Labor and Industries (Department) adopted that regulation in 1990, yet in 25 years no Washington court has defined its scope or applied it to workers paid by piece rate.\n\u00b610 We interpret regulations using the same rules we use to interpret statutes. First, we examine the plain language of the regulation; if that language is unambiguous, it controls. Silverstreak, Inc. v. Dep\u2019t of Labor & Indus., 159 Wn.2d 868, 881, 154 P.3d 891 (2007) (plurality opinion). Language is unambiguous if it has only one reasonable interpretation. Cerrillo v. Esparza, 158 Wn.2d 194, 201, 142 P.3d 155 (2006). The regulation at issue, WAC 296-131-020(2), applies only to agricultural employees and provides:\nEvery employee shall be allowed a rest period of at least ten minutes, on the employer\u2019s time, in each four-hour period of employment. For purposes of computing the minimum wage on a piecework basis, the time allotted an employee for rest periods shall be included in the number of hours for which the minimum wage must be paid.\n\u00b611 The focus of most of the parties\u2019 and amici\u2019s attention is on the meaning of \u201con the employer\u2019s time.\u201d The plain and ordinary meaning of this phrase is clear: employers must pay agricultural employees during their 10-minute breaks. And when applied to pieceworkers, the only reasonable interpretation is that \u201con the employer\u2019s time\u201d requires pay separate from the piece rate. Since the piece rate is earned only while the employee is working (i.e., no pay accrues during rest breaks), the Workers\u2019 rest breaks cannot reasonably be said to be \u201con the employer\u2019s time\u201d if paid by the piece. The only way to give meaning to the phrase in this context is to require compensation separate from the piece rate for rest breaks. While Sakuma\u2019s suggestion that WAC 296-131-020(2) allows an all-inclusive piece rate is perhaps a conceivable interpretation of the regulation, it is not a reasonable one. Cerrillo, 158 Wn.2d at 201 (holding, \u201c \u2018a statute is not ambiguous merely because different interpretations are conceivable\u2019 \u201d (internal quotation marks omitted) (quoting Agrilink Foods, Inc. v. Dep\u2019t of Revenue, 153 Wn.2d 392, 396, 103 P.3d 1226 (2005))).\n\u00b612 Yet even if WAC 296-131-020(2) were ambiguous, we resolve ambiguities in ways that \u201c \u2018further, not frustrate, the[ ] intended purpose\u2019 \u201d of the regulation. Bostain v. Food Express, Inc., 159 Wn.2d 700, 712, 153 P.3d 846 (2007) (quoting Burnside v. Simpson Paper Co., 123 Wn.2d 93, 99, 864 P.2d 937 (1994)). Sakuma\u2019s interpretation permitting an all-inclusive piece rate conflicts with over a decade of case law interpreting a similar rest break regulation.\n\u00b613 We have previously considered the phrase \u201con the employer\u2019s time\u201d as it appears in a different regulation. Rest breaks for nonagricultural employees are governed by WAC 296-126-092, which also \u201callow[s] a rest period of not less than ten minutes, on the employer\u2019s time, for each four hours of working time.\u201d WAC 296-126-092(4). The Department expressly patterned WAC 296-131-020(2)\u2019s rest break provision for agricultural employees on WAC 296-126-092(4).\nf 14 Since WAC 296-131-020(2) was patterned on WAC 296-126-092(4), our previous interpretations of the latter regulation are useful. We first interpreted WAC 296-126--092(4) and \u201con the employer\u2019s time\u201d in Wingert v. Yellow Freight Systems, Inc., 146 Wn.2d 841, 50 P.3d 256 (2002). There, we applied the regulation to a collective bargaining agreement that provided a 15-minute break after two hours of overtime work. If employees worked less than two hours of overtime, they received no break. At issue was the employer\u2019s practice of excusing employees just before two hours of overtime, requiring those employees to work continuously for nearly four hours between their afternoon break and the end of their workday. Id. at 845-46.\n\u00b615 We held WAC 296-126-092 prohibited employees from working three hours uninterrupted without a break, even if the employee was receiving overtime pay and notwithstanding a conflicting break provision in the employees\u2019 collective bargaining agreement. The employer\u2019s alternate accommodation \u2014 overtime pay and a different break schedule \u2014 was not a substitute for the policy advanced by the rest break regulation, namely that \u201cemployees [are] afforded healthy working conditions and adequate wages.\u201d Id. at 852. Any practice that \u201cdecreased] the frequency of workers\u2019 rest periods . . . thwart [s] that fundamental purpose.\u201d Id.\n\u00b616 Ten years after Wingert, we again interpreted WAC 296-126-092(4) in a way that protected workers\u2019 rights. Wash. State Nurses Ass\u2019n v. Sacred Heart Med. Ctr., 175 Wn.2d 822, 287 P.3d 516 (2012). The employer in that case often required employees to work through rest breaks during their eight-hour shifts. Although the employer would pay employees for missed rest breaks, it did not pay overtime, since the employees were never on the employer\u2019s premises for more than eight hours. Citing WAC 296-126--092(4), the MWA, and \u201cconsiderations of employee health,\u201d we required the employer to compensate missed rest breaks at the overtime rate. Id. at 832. We reasoned that any other interpretation created an economic incentive for employers to encourage employees to skip breaks, a result contrary to the intent of WAC 296-126-092 and the MWA. Id.\n\u00b617 The Court of Appeals has similarly interpreted WAC 296-126-092(4) to protect the effectiveness of rest breaks. Specifically, Division One held that the regulation \u201cimposes a mandatory obligation on the employer\u201d to provide a paid rest break \u201c \u2018on the employer\u2019s time.\u2019 \u201d Pellino v. Brink\u2019s, Inc., 164 Wn. App. 668, 688, 267 P.3d 383 (2011) (quoting WAC 296-126-092(4)). It is not enough for an employer to simply schedule time throughout the day during which an employee can take a break if he or she chooses. Instead, employers must affirmatively promote meaningful break time. Id. at 691 (quoting White v. Salvation Army, 118 Wn. App. 272, 283, 75 P.3d 990 (2003)). A workplace culture that encourages employees to skip breaks violates WAC 296--126-092 because it deprives employees of the benefit of a rest break \u201con the employer\u2019s time.\u201d Id. at 679.\n\u00b618 Although these three cases \u2014 Wingert, Sacred Heart, and Pellino \u2014 applied rest breaks paid \u201con the employer\u2019s time\u201d to hourly workers, they guide our analysis. More than establishing blanket rules, each of those courts looked to the purpose rest breaks serve in light of how rest breaks were used (or not) by the employees in context. Both parties here agree that rest breaks are critical to the health and effectiveness of employees, especially those working long hours outside. Amicus reports that agriculture is one of the most dangerous industries in America, inflicting its workers with high rates of repetitive and environmental injuries. Rest breaks mitigate these dangers by allowing employees to sit, cool down, and rehydrate, and we interpret rest break regulations to further that recuperative purpose. Wingert, for example, held that employees cannot bargain away time for rest, even in exchange for additional pay. And Sacred Heart and Pellino reject payment schemes that incentivize missed rest breaks at the expense of the employee\u2019s health.\n\u00b619 Those principles support interpreting \u201con the employer\u2019s time\u201d in WAC 296-131-020(2) to require rest break pay separate from the piece rate. Sakuma argues WAC 296-131-020(2) permits an all-inclusive piece rate because \u201cthe system incentivizes employees by awarding harder-working and more productive workers with greater earnings.\u201d Sakuma Bros. Farms, Inc.\u2019s Resp. Br. on Certified Questions at 25-26. This appears a tacit admission that the current piece rate scheme encourages employees to \u201cwork harder\u201d by skipping breaks. That result conflicts with all three of the cases discussed above: it effectively decreases the frequency of employees\u2019 rest periods; it incentivizes Sakuma to employ fewer employees; and it fosters a culture of working through breaks. See Wingert, 146 Wn.2d at 852; Sacred Heart, 175 Wn.2d at 832; Pellino, 164 Wn. App. at 679. Sakuma\u2019s interpretation is not only inconsistent with. the plain language of WAC 296-131-020(2), it is contrary to the regulation\u2019s basic purpose.\n\u00b620 In sum, we answer the first certified question yes. Following from the plain language of WAC 296-131-020(2), and consistent with case law interpreting Washington\u2019s long-standing labor policy, employers must pay a wage separate from the piece rate for time spent on rest breaks. Given the posture of this case and the settlement agreement releasing the Workers\u2019 claims for retrospective relief, we take no position on the retroactivity of this rule. See Ruiz-Guzman v. Amvac Chem. Corp., 141 Wn.2d 493, 508, 7 P.3d 795 (2000) (\u201cIn answering federal certified questions, we do not seek to make broad statements outside of the narrow questions and record before us.\u201d).\nSecond Certified Question\n\u00b621 Next the federal district court asks us how \u201cWashington agricultural employers calculate the rate of pay for the rest break time\u201d for pieceworkers. Doc. 44, at 2 (Order Granting in Part Stipulated Mot. regarding Certified Questions to Wash. Supreme Ct.). The parties differ in their proposed answers to this question. The Workers argue for the employee\u2019s average piece rate earnings. They would have employers convert the piece rate by dividing the employee\u2019s weekly piece rate earnings by the number of hours the employee worked, exclusive of rest break time, and pay rest breaks at that de facto hourly rate (the employee\u2019s \u201cregular rate\u201d). Sakuma argues Washington law requires only the minimum wage per hour for pieceworkers, though it admits paying rest breaks for its hourly employees at the employees\u2019 hourly rate.\n\u00b622 WAC 296-131-020(2) is silent about the rate of pay required for employee rest breaks, whether paid by the piece or otherwise. Of course, the starting point for the calculation is the applicable minimum wage. The MWA \u201csets the floor below which the agreed rate cannot fall without violating the statute.\u201d Seattle Prof'l Eng\u2019g Emps. Ass\u2019n v. Boeing Co., 139 Wn.2d 824, 835, 991 P.2d 1126, 1 P.3d 578 (2000) (SPEEA) (citing ch. 49.46 RCW). The second sentence of WAC 296-131-020(2) references the MWA\u2019s floor by ensuring the quotient of an employee\u2019s piece rate earnings by the number of hours he or she worked, inclusive of the time spent on rest breaks, is at least the minimum wage. If this de facto hourly rate falls below the minimum wage, the employer must bring up the employee\u2019s pay to the minimum. Like every employer of piece rate workers, Sakuma already performs this minimum wage calculation.\n\u00b623 As discussed earlier, however, a pieceworker\u2019s right to separate pay for rest breaks springs not from the MWA but rather from WAC 296-131-020(2)\u2019s mandate that rest breaks be paid \u201con the employer\u2019s time.\u201d That phrase also appears in the nonagricultural rest break regulation, which we have consistently found to require equal treatment of every hour worked. For instance, we found no distinction \u201cbetween regular and overtime hours worked\u201d and held employees were entitled to rest breaks \u201con the employer\u2019s time\u201d if they worked \u201cregular hours, overtime hours, or a combination of both.\u201d Wingert, 146 Wn.2d at 848 (citing WAC 296-126-092(4)). We also recognized that \u201crest periods constitute \u2018hours worked\u2019 \u201d and held that for the purposes of computing overtime, hours spent resting are treated the same as hours spent working. Sacred Heart, 175 Wn.2d at 831. In other words, under WAC 296-126-092(4) all hours worked contribute equally to the employee\u2019s right to a rest break and there is no basis to treat the rate paid for rest breaks \u201con the employer\u2019s time\u201d differently from the rate paid for other hours worked.\n\u00b624 Nothing in WAC 296-131-020(2) suggests \u201con the employer\u2019s time\u201d means something different to agricultural workers generally or to pieceworkers specifically. In fact, the regulation is entirely consistent with our prior interpretations of \u201con the employer\u2019s time\u201d when a pieceworker\u2019s average earnings are less than or equal to the minimum wage. Time spent on rest breaks and time spent in active work are both hours worked for the employer and, under the second sentence of WAC 296-131-020(2), are paid at the same rate (the minimum wage). We find no reason to depart from this interpretation when a pieceworker\u2019s average earnings are more than the minimum wage. Paying pieceworkers only the minimum wage for rest breaks and a higher rate for active labor results in the same parsing of hours worked \u201con the employer\u2019s time\u201d that we rejected in Wingert and Sacred Heart.\n\u00b625 Because all hours worked \u201con the employer\u2019s time\u201d are treated equally, we hold that WAC 296-131-020(2) entitles pieceworkers to their regular rate of pay for rest break time. To calculate a pieceworker\u2019s regular rate, employers again tally the total piece rate earnings and divide those earnings by the hours the pieceworker worked, but here the divisor excludes time spent resting. This formula results in the average rate of pay pieceworkers earn during active production (i.e., their regular rate) and prevents rest break time from being double counted. It is also the formula that Sakuma uses to pay pieceworkers for missed rest breaks, since \u201cit is time [the employees] have already spent\u201d working. Wash. Supreme Court oral argument, Demetrio v. Sakuma Bros. Farms, No. 90932-6 (Mar. 17, 2015), at 34 min., 26 sec., audio recording by TVW, Washington State\u2019s Public Affairs Network, http://www.tvw.org.\n\u00b626 We agree with Sakuma that missed breaks must be compensated at the pieceworker\u2019s regular rate. And we see no reason to treat missed rest breaks differently from rest breaks provided. The pieceworker\u2019s right to a paid break\u2014 whether taken or not \u2014 follows from the same regulatory language: \u201con the employer\u2019s time.\u201d It would be inconsistent to interpret that phrase to mean payment at the employee\u2019s regular rate in one instance and merely the minimum wage in another. Consistency is especially important here to ensure efficient employees are not penalized for taking rest breaks. If rest breaks are compensated at a lower wage than the pieceworker\u2019s regular rate, there is a strong incentive to miss rest breaks. That result frustrates the entire purpose of WAC 296-131-020(2). See Sacred Heart, 175 Wn.2d at 832.\n\u00b627 Thus, we answer the second certified question: WAC 296-131-020(2) requires that rest break time be compensated at the pieceworker\u2019s regular rate of pay.\nCONCLUSION\n\u00b628 We answer the first certified question yes. Pay for rest breaks separate from the piece rate follows from the plain language of WAC 296-131-020(2) and is consistent with Washington case law interpreting rest break regulations. We answer the second certified question: in the absence of a separate agreement, pay separate from the piece rate must equal at least the applicable minimum wage or the pieceworker\u2019s regular rate of pay, whichever is greater. The Workers\u2019 attorney fee request should be directed to the federal district court if that court enters a judgment in their favor, and therefore the request is denied without prejudice.\nMadsen, C.J., and Johnson, Owens, Fairhurst, Stephens, Wiggins, Gonz\u00e1lez, and Gordon McCloud, JJ., concur.\nWAC 296-126-092(4) provides, \u201cEmployees shall be allowed a rest period of not less than ten minutes, on the employer\u2019s time, for each four hours of working time.... No employee shall be required to work more than three hours without a rest period.\u201d\nSakuma cites SPEEA to argue that separate pay for rest breaks is capped at the minimum wage. But SPEEA is a case about contracts, not regulatory interpretation, and it has little application here. There an employer required new employees to attend unpaid preemployment orientation sessions. This practice was embodied in written employment contracts in which employees agreed (1) that their attendance at orientation would be unpaid and (2) that the terms of employment, including salary, would begin after orientation. The employees sued, arguing they were owed wages for attending these orientations, paid as a pro rata portion of their contractual salary. SPEEA, 139 Wn.2d at 833-34.\nWe agreed wages were due but limited the employees\u2019 recovery to the minimum wage based on the employment contracts they signed. Those contracts \u201ccontain[ed] fixed starting dates for employment that excluded the mandatory preemployment orientation sessions,\u201d and under their terms the employees were owed their salaries only after orientation. Id. at 833. Since we lack authority to rewrite contracts, we held the contracts expressly prohibited the remedy the employees sought. Id. at 833-34. We therefore fell back to the MWA as the measure of damages.\nThere are no contradictory written contracts in the record before us. Thus SPEEA applies in this instance only for the uncontested proposition that employers must pay at least the minimum wage. The minimum wage is a floor, not a ceiling. That is why the minimum wage is only a starting point when construing what WAC 296-131-020(2) requires.\nAn example demonstrates this calculation in practice. Suppose an employee is paid 50 cents per pound of fruit picked (the piece rate). The employee works 5 8-hour days and takes 20 minutes of rest breaks each day, as provided by WAC 296-131-020(2). The employee has spent 38.6 hours producing and 1.4 hours on breaks, for 40 hours of total work. If the employee produces 750 pounds of fruit, he or she earns $375.00 that week. Thus, the employer divides the employee\u2019s total piece rate earnings ($375.00) by 40 hours, which equals only $9.38 per hour. The employer must increase the worker\u2019s total piece rate earnings to meet the $9.47 state minimum wage, if that is the highest applicable minimum wage in the locality.\nIn the previous example, the employee\u2019s regular rate is $9.72 per hour that pay period. This results from dividing $375.00 (total piece rate earnings) by 38.6 hours (total hours in active production, exclusive of break time).\nWe recognize that the rate at which rest breaks are paid might be the subject of voluntary bargaining between an employer and employee, and this opinion does not impair the ability of parties to contract within the scope of the law. For example, it is conceivable that an employer and employee could agree to rest break pay at a higher rate than the employee\u2019s regular rate.",
+        "type": "majority",
+        "author": "Yu, J."
+      }
+    ],
+    "attorneys": [
+      "Daniel G. Ford and Sarah Leyrer (of Columbia Legal Services); and Marc C. Cote and Toby M. Marshall (o\u00ed Terrell Marshall Daudt & Willie PLLC), for plaintiffs.",
+      "Adam S. Belzberg, Elena C. Bundy, and Timothy J. O\u2019Connell (of Stoel Rives LLP), for defendant.",
+      "Noah G. Purcell, Managing Assistant Attorney General, and Peter B. Gonick, Assistant Attorney General, on behalf of the Attorney General of Washington, amicus curiae.",
+      "James P. Mills, Assistant Attorney General, on behalf of the Department of Labor and Industries, amicus curiae.",
+      "Robert A. Battles on behalf of Association of Washington Business, Washington Farm Bureau Federation, and Western Growers Association, amici curiae.",
+      "Kristin M. Ferrera, Brendan V. Monahan, and Sarah L. Wixson on behalf of Washington Farm Labor Association, Washington State Tree Fruit Association, and Washington Growers League, amici curiae.",
+      "Daniel F. Johnson and Stephen K. Festor on behalf of Washington Employment Lawyers Association and Washington State Labor Council, AFL-CIO, amici curiae.",
+      "Mario Martinez and Sean M. Phelan on behalf of United Farm Workers of America, amicus curiae.",
+      "Rebecca A. Smith, Ali Beydoun, and Dave Mauch on behalf of National Employment Law Project, Farmworker Justice, Migrant Clinicians Network, and Sea Mar Community Health Centers, amici curiae."
+    ],
+    "corrections": "",
+    "head_matter": "[No. 90932-6.\nEn Banc.]\nArgued March 17, 2015.\nDecided July 16, 2015.\nCertification From the United States District Court for the Western District of Washington in Ana Lopez Demetrio et al., Plaintiffs, v. Sakuma Brothers Farms, Inc., Defendant.\nDaniel G. Ford and Sarah Leyrer (of Columbia Legal Services); and Marc C. Cote and Toby M. Marshall (o\u00ed Terrell Marshall Daudt & Willie PLLC), for plaintiffs.\nAdam S. Belzberg, Elena C. Bundy, and Timothy J. O\u2019Connell (of Stoel Rives LLP), for defendant.\nNoah G. Purcell, Managing Assistant Attorney General, and Peter B. Gonick, Assistant Attorney General, on behalf of the Attorney General of Washington, amicus curiae.\nJames P. Mills, Assistant Attorney General, on behalf of the Department of Labor and Industries, amicus curiae.\nRobert A. Battles on behalf of Association of Washington Business, Washington Farm Bureau Federation, and Western Growers Association, amici curiae.\nKristin M. Ferrera, Brendan V. Monahan, and Sarah L. Wixson on behalf of Washington Farm Labor Association, Washington State Tree Fruit Association, and Washington Growers League, amici curiae.\nDaniel F. Johnson and Stephen K. Festor on behalf of Washington Employment Lawyers Association and Washington State Labor Council, AFL-CIO, amici curiae.\nMario Martinez and Sean M. Phelan on behalf of United Farm Workers of America, amicus curiae.\nRebecca A. Smith, Ali Beydoun, and Dave Mauch on behalf of National Employment Law Project, Farmworker Justice, Migrant Clinicians Network, and Sea Mar Community Health Centers, amici curiae."
+  },
+  "file_name": "0649-01",
+  "first_page_order": 703,
+  "last_page_order": 718
+}

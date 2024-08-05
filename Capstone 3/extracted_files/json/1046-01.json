@@ -1,0 +1,81 @@
+{
+  "id": 8726866,
+  "name": "Raley v. Grayson",
+  "name_abbreviation": "Raley v. Grayson",
+  "decision_date": "1932-12-05",
+  "docket_number": "4-2759",
+  "first_page": "1046",
+  "last_page": "1047",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "186 Ark. 1046"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [
+    {
+      "cite": "74 Ark. 168",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        8718953
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/74/0168-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 252,
+    "char_count": 3586,
+    "ocr_confidence": 0.503,
+    "pagerank": {
+      "raw": 7.317852702137001e-08,
+      "percentile": 0.43600457015061495
+    },
+    "sha256": "a44e30ee294bbafd7fa133d0d64ab5bae64ba38101ef145ab1dc692b5f366570",
+    "simhash": "1:e30db628b5d9389e",
+    "word_count": 615
+  },
+  "last_updated": "2024-02-27T17:52:01.123529+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Kibby, J., dissents."
+    ],
+    "parties": [
+      "Raley v. Grayson."
+    ],
+    "opinions": [
+      {
+        "text": "McHaNey, J.\nOn the 10th day of January, 1925, J. T. Grayson and his son, H. P. Grayson, executed and delivered their promissory note to C. \u00a1Bauschlicher in the sum of $225 for money borrowed by H. P. Grayson from the latter, with interest at 10 per cent, from date, payable annually, and due one year after date. J. T. Grayson died before the maturity date of the note, and early in 1929 said note was placed in the hands of Mr. C. 0. Raley for collection. After trying\u2019 to collect the note from the heirs without success, he proceeded to take out letters of administration in his own name, probated the claim and allowed it, and took the necessary statutory steps in order to sell certain land owned by J. T. Grayson at the time of his death, there being no personal property out of which to pay same. Thereafter, on August 17, 1929, the land was sold by the administrator to the creditor. Thereafter the appellees filed exceptions to the procedure and sale, objected to the appointment of Raley as administrator, asked that his letters of administration be revoked, and that all of his proceedings in the premises be declared* void. The probate court overruled his exceptions, and an appeal was prosecuted to the circuit court, with the result that the court held that the administration was void and that the sale of the land and all proceedings had and done by the administrator were likewise void. The administrator has appealed.\nWe think the court correctly so held. Mr. Bau-schlicher testified as follows: \u201cAfter Mr. Grayson\u2019s\u2014 J. T. Grayson\u2019s \u2014 death, I told them it was all right with me that they should take charge of the place and the personal property of Mr. Grayson. I didn\u2019t want no letters taken out. I tried to collect the money from Perry. I agreed to let the heirs take control and manage the property, without administrator.\u201d This clearly shows an agreement that the heirs might handle the estate of their father without administration. The proof conclusively shows that the heirs were all of age, and that Bauschlicher was the only creditor of the estate. In such cases \u00a7 1, Crawford & Moses\u2019 Digest, is controlling. It reads as follows: \u201cWhen all the heirs of any deceased intestate and all persons interested as distributees in the estate of such intestate are of full age, it shall be lawful for them to sue for, recover and collect all demands and property left by the intestate, and to manage, control and dispose of such estate without any administration being had thereon in all cases where the creditors of such estate consent or agree for them to do so, * * *; and in every such case, after they have taken such control and management of the estate, no letter of administration shall be granted thereon, or, if granted, the same shall, on their application, be revoked.\u201d\nMr. Bauschlicher\u2019s own testimony shows that he agreed for the heirs \u201cto manage, control and dispose of such estate without any administration being had thereon,\u201d and, he being the only creditor, had the right to make the binding agreement to this effect, and the statute is very clear that thereafter no letter of administration shall be granted, and, if granted, shall be revoked upon petition of the heirs.\nThe circuit court correctly revoked the letters of administration, and canceled as void all proceedings of the administrator, and the .judgment must accordingly be affirmed. It is so ordered.\nKibby, J., dissents.\nSee Adamson v. Parker, 74 Ark. 168 (Rep.).",
+        "type": "majority",
+        "author": "McHaNey, J."
+      }
+    ],
+    "attorneys": [
+      "F. G. Taylor, for appellant.",
+      "E. L. Holloway, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Raley v. Grayson.\n4-2759\nOpinion delivered December 5, 1932.\nF. G. Taylor, for appellant.\nE. L. Holloway, for appellee."
+  },
+  "file_name": "1046-01",
+  "first_page_order": 1066,
+  "last_page_order": 1067
+}

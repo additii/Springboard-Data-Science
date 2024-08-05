@@ -1,0 +1,109 @@
+{
+  "id": 1355737,
+  "name": "Neal v. Bethea",
+  "name_abbreviation": "Neal v. Bethea",
+  "decision_date": "1923-04-23",
+  "docket_number": "",
+  "first_page": "403",
+  "last_page": "407",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "158 Ark. 403"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [
+    {
+      "cite": "134 Ark. 64",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "64 Ark. 489",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1907354
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/64/0489-01"
+      ]
+    },
+    {
+      "cite": "109 Ark. 125",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1341236
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/109/0125-01"
+      ]
+    },
+    {
+      "cite": "105 Ark. 106",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1347103
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/105/0106-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 441,
+    "char_count": 9715,
+    "ocr_confidence": 0.495,
+    "pagerank": {
+      "raw": 9.63020232701334e-08,
+      "percentile": 0.5271834381077816
+    },
+    "sha256": "1093116d7f1cf77c93f1f4e66a94d1e957c2b9d22298991bde9b05387a341f4d",
+    "simhash": "1:a8afd1d3a0435636",
+    "word_count": 1692
+  },
+  "last_updated": "2024-02-27T17:41:16.235499+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Neal v. Bethea."
+    ],
+    "opinions": [
+      {
+        "text": "Wood, J.\nThis is an action by the appellant against the appellees, directors of School District No. 36, Bradley County, Arkansas, and George and Ruth Rice, as teachers, and J. R. Quinney as \u25a0 county treasurer. The purpose of the action was to enjoin the issuing and payment of warrants against School District No. 36. The complaint, among other things, alleged that the contract made by M. M. Bethea and W. M. Gorman with George and Ruth Rice, as teachers for the fall and winter term of 1921, was void, because the appellant, who was also a member of the board of directors, had no notice of the meeting of the board when the alleged contract by the other two directors with the Rices was entered into, and because the Rices were related to one of the directors of the district in a prohibitive degree.\nThe answer denied all the material allegations of the complaint. The testimony was directed to these issues :\n1. On the issue as to whether or not notice was given, the appellant testified that he was one of the directors of S'chool District No. 36 of Bradley County, Arkansas; that he received a notice about the 28th of October to the effect that the directors would meet at the school building at Hilo for- the purpose of electing a teacher for the winter term 1921-1922. The notice spec ified that the meeting would be had at two o\u2019clock. The notice was made an exhibit to his deposition and introduced in evidence. It was dated October 26, 1921, directed to O. F. Neal, and provides as follows: \u201cThere will be a call meeting of the school board District No. 36, Bradley County, Arkansas, for the purpose of electing school teachers to teach our winter term of school, 1921 and 1922, meeting to be at Hilo schoolhouse, October 31, 1921, at 2 o\u2019clock.\n\u201cM. M. Bethea, Sec.\u201d\nNeal testified that the notice introduced was just like it was when he received it.\nM. M. Bethea, one of the appellees, testified that he was one of the directors of School District No. 36, and was secretary of the school board. He wrote the notice introduced in evidence and read it to the other director, Mr. Gorman. There were others present at the time. The notice introduced is the same as the notice he wrote, except the figure \u201c2\u201d. In the notice witness wrote it specified 8 o\u2019clock. Witness and Gorman met at the time and place specified in the notice, and entered into a contract with Bice and his daughter, about 9 o\u2019clock, to teach the winter term beginning on the 31st of October, 1921. They waited until the afternoon looking for Mr. Neal, the other director, but he didn\u2019t come, and they left before 2 o \u2019clock.\nGorman testified that the notice filed in evidence was the notice that he served on Neal in the county judge\u2019s office, except the figure \u201c8\u201d instead of \u201c2.\u201d Witness didn\u2019t see Bethea write the notice, but he handed the same to witness, and witness read it, and it specified that the meeting was to be at 8 o\u2019clock. Witness didn\u2019t make any changes in it, but handed it to Neal just like it was when Bethea gave it to witness. Witness and Bethea met about 8 o\u2019clock at the time and place specified in the notice, and entered into the contract with Bice and his daughter about 9 o\u2019clock.\nFrank Andrews testified that he was in town and in the sheriff\u2019s office when Bethea was writing the notice that was handed to Mr. Neal. The notice stated the school meeting was to be at 8 o\u2019clock in the morning. Witness was positive of that fact. He was standing at the desk when Bethea wrote it, and was reading it as he wrote-it.\nJ. JL. McNab testified that he was present one day when Mr. Gorman and Mr. Neal had a conversation about the school. Among other things he heard Neal say to Gorman: \u201cYou can go ahead with the school meeting Monday morning. I will not be there.\u201d Gorman stated that the meeting was to be at 8 o\u2019clock. Neal understood it, and stated he would not be there. Three witnesses, including the one who prepared the notice and two others who saw and read it, testified that it specified 8 o\u2019clock instead of 2 o\u2019clock, and one of these witnesses testified to hearing Gorman tell Neal that the meeting would be at 8 o\u2019clock, that Neal understood it, and replied, \u201cYou can go ahead with, the school meeting Monday morning \u2014 I will not he there. \u2019 \u2019\nIt thus appears that a decided preponderance of the evidence shows that the appellant had notice of the meeting at which the contract was entered into by the other directors with the Rices, and that this notice was in writing. The evidence shows that the two directors met pursuant to the notice, and their contract with the Rices was therefore valid so far as the issue of notice was concerned. Bice v. School District No. 20, 109 Ark. 125M29.\n2. On the issue as to whether or not the contract-was void because the directors employed a teacher related within the degree prohibited by statute, the undisputed testimony shows that a .petition was circulated in the district requesting the school board to employ Rice and his daughter to teach the summer and winter terms of school. Without setting out the evidence in detail on this issue, which is voluminous, we have reached the conclusion that a preponderance of the evidence shows that the petition was signed by thirty-eight names, and that this number constituted a two-thirds majority of the patrons of the district. While there is some conflict in the evidence as to whether this number would constitute a majority of the taxpayers in the district, there is virtually no conflict in the testimony that the thirty-eight names constituted practically the entire citizenship of the district who were qualified electors therein, and decidedly more than the necessary majority of those who actually patronized the school in the sense of sending pupils thereto.\nWitnesses for the appellee testified to the effect that the petition contained every patron of the district who sent pupils to the school, except a man by the name of Measles, and negroes who patronized a negro school in the district. The word \u201cpatron\u201d, as used in the statute, means something more than a mere taxpayer in the district. It contemplates those who are not only taxpayers hut who also send children to the school.\nThe statute provides as follows: \u201cHereafter all school directors * * * are hereby prohibited from employing any person as teacher in the public schools related to any of them by consanguinity or affinity within the fourth degree, unless two-thirds of the patrons of said school shall petition them to do so.\u201d Sec. 9029, C. & M. Digest.\nIn School District v. Perrymore, 143 Art. 64-66, we said: \u201cIn view of the fact that the citizenship of a school district is constantly changing and that patrons might change their minds from time to time, it is not probable that the Legislature had the purpose and intent in enacting the statute to allow one expression of opinion on the part of the patrons to govern all subsequent employments. We think the purpose and intent of the act was to malee each employment of a relative of any member of a board of directors, within the prohibited degrees, dependent upon the consent of two-thirds of the existing patrons of the school. In other words, that a petition, bearing the requisite number of names can justify an employment for one .period of time only.\u201d\nIn that case the .petition was to authorize the directors to employ a teacher for the summer school for 1917 and any succeeding school they might see fit to employ him. We held that the petition for 1917 or \u201cany succeeding school they might see fit to employ him to teach\u201d would not authorize the employment to teach the school in 1918-1919. The petition in the case at bar was for the summer and winter term, and contemplated only one contract of employment for a definite term. It did not vest the board, as in the case above cited, with a \u201croving commission\u201d to employ a teacher for an indefinite term.\n. There is no error in the record. The decree is therefore affirmed.",
+        "type": "majority",
+        "author": "Wood, J."
+      }
+    ],
+    "attorneys": [
+      "B. L. Beasley, for appellant.",
+      "Clary $ Ball and D. A. Braclham, for 'appellees."
+    ],
+    "corrections": "",
+    "head_matter": "Neal v. Bethea.\nOpinion delivered April 23, 1923.\n1. Schools and school districts \u2014 employment of teachers\u2014 notice of meeting. \u2014 The preponderance of the evidence held to establish that a school director had notice in writing of a meeting of the board of directors at which certain teachers were employed to teach school, and that their contract was valid, so far as the issue of notice was concerned.\n2. Schools and school districts \u2014 employment of relatives as teachers. \u2014 TJ-nder \u25a0 Crawford & Moses\u2019 Dig., \u00a7 9029, prohibiting school directors from employing their relatives \u201cunless two-thirds of the patrons of said school shall petition them to do so,\u201d held that the intent was to make each employment of a relative of any member of the school board for each term dependent upon the consent of two-thirds of the existing patrons of the school.\nAppeal from Bradley Chancery Court; E. G. Hammock, Chancellor;\n\u00a1affirmed.\nB. L. Beasley, for appellant.\nAppellant, \u00a1one of the directors of the school district, not having been notified of the special meeting at which the teachers were employed, the contract of employment is void. School Hist. v. Casteel, 105 Ark. 106 ; Rice v. School Dist., 109 Ark. 125; Burns v. Thompson, 64 Ark. 489. The teachers were also within the prohibited degree of relationship to one \u00a1of the directors. 134 Ark. 64.\nClary $ Ball and D. A. Braclham, for 'appellees.\nThe chancellor found, on conflicting evidence, both that the appellant director had proper notice cf the meeting at which the teachers were employed, and that the patrons \u00a1of the school had petitioned their employment, relieving from the prohibition of law against employment of teachers related to school directors. The decree \u2022should be affirmed."
+  },
+  "file_name": "0403-01",
+  "first_page_order": 427,
+  "last_page_order": 431
+}

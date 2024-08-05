@@ -1,0 +1,59 @@
+{
+  "id": 12457111,
+  "name": "In the Matter of the Personal Restraint of Jackson, Petitioner",
+  "name_abbreviation": "In re the Personal Restraint of Jackson",
+  "decision_date": "2016-06-29",
+  "docket_number": "No. 92125-3",
+  "first_page": "1033",
+  "last_page": "1033",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "185 Wash. 2d 1033"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Wash.",
+    "id": 9029,
+    "name": "Washington Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 38,
+    "name_long": "Washington",
+    "name": "Wash."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 31,
+    "char_count": 245,
+    "ocr_confidence": 0.899,
+    "sha256": "7c8a40d6b44c20f7e6429854ea1c4b9b435edece12618bf9585bc173e4b690e4",
+    "simhash": "1:643972e263d125c9",
+    "word_count": 40
+  },
+  "last_updated": "2023-07-14T23:00:48.670033+00:00",
+  "provenance": {
+    "date_added": "2019-05-22",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In the Matter of the Personal Restraint of Jackson, Petitioner,"
+    ],
+    "opinions": [
+      {
+        "text": "Motion for discretionary review of a decision of the Court of Appeals, No. 73980-8-1, July 29, 2015. Granted June 29, 2016. Review dismissed as moot December 20, 2016.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "In the Matter of the Personal Restraint of Jackson, Petitioner,\nNo. 92125-3."
+  },
+  "file_name": "1033-06",
+  "first_page_order": 985,
+  "last_page_order": 985
+}

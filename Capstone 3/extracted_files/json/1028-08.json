@@ -1,0 +1,76 @@
+{
+  "id": 12462969,
+  "name": "Marin, Petitioner, v. King County, Respondent",
+  "name_abbreviation": "Marin v. King County",
+  "decision_date": "2016-12-07",
+  "docket_number": "No. 93479-7",
+  "first_page": "1028",
+  "last_page": "1028",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "186 Wash. 2d 1028"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Wash.",
+    "id": 9029,
+    "name": "Washington Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 38,
+    "name_long": "Washington",
+    "name": "Wash."
+  },
+  "cites_to": [
+    {
+      "cite": "194 Wn. App. 795",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        12451671
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/194/0795-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 28,
+    "char_count": 191,
+    "ocr_confidence": 0.861,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.25766849727532376
+    },
+    "sha256": "923af5c72108ffb8cbb5c7061a71216bcb0c8128e5782e98f76e60cfd5654609",
+    "simhash": "1:25f1833e2ddf5ab5",
+    "word_count": 32
+  },
+  "last_updated": "2024-02-27T18:43:05.207238+00:00",
+  "provenance": {
+    "date_added": "2019-05-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Marin, Petitioner, v. King County, Respondent,"
+    ],
+    "opinions": [
+      {
+        "text": "Petition for review of a decision of the Court of Appeals, No. 72666-8-I, June 6, 2016, 194 Wn. App. 795. Denied December 7, 2016.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Marin, Petitioner, v. King County, Respondent,\nNo. 93479-7."
+  },
+  "file_name": "1028-08",
+  "first_page_order": 1014,
+  "last_page_order": 1014
+}

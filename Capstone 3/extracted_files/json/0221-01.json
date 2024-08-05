@@ -1,0 +1,151 @@
+{
+  "id": 1428250,
+  "name": "Missouri Pacific Railroad Company v. Harding",
+  "name_abbreviation": "Missouri Pacific Railroad v. Harding",
+  "decision_date": "1933-11-27",
+  "docket_number": "4-3216",
+  "first_page": "221",
+  "last_page": "223",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "188 Ark. 221"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [
+    {
+      "cite": "155 S. W. 510",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "107 Ark. 431",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1344009
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/107/0431-01"
+      ]
+    },
+    {
+      "cite": "280 S. W. 363",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "170 Ark. 576",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1371766
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/170/0576-01"
+      ]
+    },
+    {
+      "cite": "278 S. W. 648",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "170 Ark. 1193",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "277 S. W. 39",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "169 Ark. 920",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1374004
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/169/0920-01"
+      ]
+    },
+    {
+      "cite": "19 S. W. (2d) 1018",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "179 Ark. 766",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        8725502
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/179/0766-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 347,
+    "char_count": 4052,
+    "ocr_confidence": 0.512,
+    "pagerank": {
+      "raw": 1.715083664476734e-07,
+      "percentile": 0.7029695553678998
+    },
+    "sha256": "b8b2cc2a56260bf708583f6a5792518d88da1b8ded2e16944f8d6e7a6f234c89",
+    "simhash": "1:2024298801879d2a",
+    "word_count": 697
+  },
+  "last_updated": "2024-02-27T23:51:14.545434+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Missouri Pacific Railroad Company v. Harding."
+    ],
+    "opinions": [
+      {
+        "text": "Johnson, C. J.\nIn briefs but one ground is argued and insisted upon by appellant for reversal. Under settled rules of this court all other alleged errors are abandoned. Stevens v. Shull, 179 Ark. 766, 19 S. W. (2d) 1018.\nThe ground insisted upon and argued in briefs is that the trial court erred in refusing to direct the jury to return a verdict in favor of appellant; or that the testimony is insufficient to support the verdict.\nIn testing the legal sufficiency of the testimony, we must view it in the light most favorable to appellee. McGehee & Co. v. Fuller, 169 Ark. 920, 277 S. W. 39; Missouri Pacific Rd. Co. v. Nichols, 170 Ark. 1193, 278 S. W. 648; Wisconsin & Arkansas Lbr. Co. v. Hall, 170 Ark. 576, 280 S. W. 363.\nThe testimony, when viewed in the light most favorable to appellee in the instant case, is to the following effect:\nAppellee, R. H. Harding, is the father, administrator and next of kin of Willard Harding, deceased. On November 25, 1931, Willard Harding, deceased, a boy about 17 years of age, was riding upon one of appellant\u2019s freight trains, which he had boarded at Hoxie in this State. On the train with the deceased was one Oliver Jobe. The freight train was going from Hoxie to North Little Rock and passed through Austin, a station on appellant\u2019s line of railroad, about 9. p. m. When the train begun pulling out of Austin, a brakeman approached deceased and Oliver Jobe and demanded that they get off the train. At this time the train was running about 15 miles per hour. Oliver Jobe, instead of obeying the demand of the brakeman, proceeded down the moving train of cars toward the engine, but the deceased, when last seen by Jobe, remained at the place where he was when first approached by the brakeman. Oliver Jobe testified that Willard Harding stated to the brakeman that he did not want to get off the train because it was running too fast. Just before 11 p. m. of the same night, appellant operated a passenger train over and upon its tracks upon Avhich deceased was found a few minutes later. Deceased Avas found immediately after 11 p. mv having attracted the attention of people who resided in the vicinity by his cries, lying upon the south track of appellant\u2019s railroad; both his legs and one arm were severed. In response to questions asked by attendants, deceased stated that he was knocked off the train. This declaration of deceased Avas elicited by attorneys for appellant on cross-examination of witnesses. One witness testified, upon examination, he found imprints, made by one\u2019s feet, knees or his head, at or near the ends of the cross ties and near the point where deceased was found.\nThis testimony was amply sufficient to make out a prima facie case in behalf of appellee, and against appellant. St. Louis, Iron Mountain Railroad Co. v. Gibson, 107 Ark. 431, 155 S. W. 510.\nIn addition to what has been said, the jury was fully Avarranted in finding that the deceased was knocked off the freight train by an employee of appellant, or that he was forced by such employee to disembark from the freight train while it was moving at a dangerous rate of speed. Either of these conclusions would be amply sufficient to support a finding of negligence.\nThe declarations of deceased as to the cause of his injury were elicited by attorneys for appellant, therefore such declarations became competent and relevant testimony, notAvithstanding such declarations were neither dying declarations nor a part of the res gestae. The rule is stated thus in 64 C. J., \u00a7 242 (2d), page 230: \u201cHearsay evidence, admitted without objection, should be considered and given its natural probative effect, subject to any infirmative suggestion due to its inherent weakness, and may establish a material .fact in issue, and sustain a verdict or judgment.\u201d\nNo reversible error appearing, the judgment is affirmed.",
+        "type": "majority",
+        "author": "Johnson, C. J."
+      }
+    ],
+    "attorneys": [
+      "Thos. B. Pryor and Harvey G. Combs, for appellant.",
+      "John R. Thompson and Trimble, Trimble & McCrary, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Missouri Pacific Railroad Company v. Harding.\n4-3216\nOpinion delivered November 27, 1933.\nThos. B. Pryor and Harvey G. Combs, for appellant.\nJohn R. Thompson and Trimble, Trimble & McCrary, for appellee."
+  },
+  "file_name": "0221-01",
+  "first_page_order": 239,
+  "last_page_order": 241
+}

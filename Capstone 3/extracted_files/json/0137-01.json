@@ -1,0 +1,121 @@
+{
+  "id": 1428236,
+  "name": "Williams v. Priddy",
+  "name_abbreviation": "Williams v. Priddy",
+  "decision_date": "1933-11-13",
+  "docket_number": "4-3304",
+  "first_page": "137",
+  "last_page": "139",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "188 Ark. 137"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [
+    {
+      "cite": "58 S. W. (2d) 430",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "187 Ark. 75",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1432037
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/187/0075-01"
+      ]
+    },
+    {
+      "cite": "27 S. W. (2d) 988",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "181 Ark. 804",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        8725441
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/181/0804-01"
+      ]
+    },
+    {
+      "cite": "2 S. W. (2d) 44",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "176 Ark. 107",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1400045
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/176/0107-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 247,
+    "char_count": 3435,
+    "ocr_confidence": 0.493,
+    "pagerank": {
+      "raw": 1.1507489921029675e-07,
+      "percentile": 0.5813321548862501
+    },
+    "sha256": "7309908f1fc740ad41d567b5047ba7e569d3abff1ce22f58a0fbabccc34a02d5",
+    "simhash": "1:df45b553f9239b1c",
+    "word_count": 598
+  },
+  "last_updated": "2024-02-27T23:51:14.545434+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Williams v. Priddy."
+    ],
+    "opinions": [
+      {
+        "text": "Humphreys, J.\nThis is a petition for a writ of prohibition by petitioner to prevent the judge of the circuit court of Conway County from proceeding in a suit for damages by Bishop Luie against petitioner, his deputy, J. S. McCuen, and his official bondsmen for injuries received by Bishop Luie through the negligent driving by his deputy of a stolen automobile with his prisoner, on highway No. 64 near Blackwell, in said county. The petitioner herein resided in Sebastian County, and the negligent act alleged against the deputy was that he turned off the accustomed rig\u2019ht-hand side of the highway onto the left-hand side thereof and ran into a wagon in which Bishop Luie was riding. All the defendants in the damage suit, including petitioner herein, resided in and were served with process in some other county than Conway County, where the suit was brought and is pending.\nPetitioner herein appeared specially and moved to quash service upon him on the ground that the suit should have been brought in the county of his residence, and that, by reason of the failure to do so, the circuit court of Conway County was without jurisdiction to entertain and try the cause.\nThe motion was overruled over the objection and exception of plaintiff herein, and this suit for a writ of prohibition followed.\nIt is provided by \u00a7 1175 of Crawford & Moses\u2019 Digest that a suit against an officer shall be brought in the county of his residence, and petitioner contends that this suit falls within said section of the statute and should have been brought in Sebastian County, where he resides.\nRespondent\u2019s position is that the suit for damages on account of the injury received at the hand .of plaintiff\u2019s deputy was properly instituted in Conway County under the second subdivision of \u00a7 1165 of Crawford & Moses\u2019 Digest, which is as follows:\n\u201cAn action against a public officer for an act done by him in virtue or under color of his office or neglect of official duty must be brought in the county where the cause or some part thereof arose.\u201d\nIn support of respondent\u2019s position, the case of Edwards v. Jackson, 176 Ark. 107, 2 S. W. (2d) 44, was cited. In the Edwards case, the allegations of the complaint disclose that the sheriff was .acting in his official capacity directly with Edwards when Edwards was killed. Not so in the instant case. Petitioner\u2019s deputy was simply traveling along the highway taking a stolen car and a prisoner to Ft. Smith on highway No. 64 in Conway County and negligently ran into a wagon in which a third party was riding who was wholly disconnected from the duties the deputy was engaged in performing. The proper construction of the second subdivision of \u00a7 1165 of Crawford & Moses\u2019 Digest is that the official act complained of must be official conduct resulting in or causing the injury. Unless the official act itself results in the wrong or bears some relation to the injury inflicted, the venue is governed by said \u00a7 1175 and not by the second subdivision of said \u00a7 1165. Ussery v. Yarnell, 181 Ark. 804, 27 S. W. (2d) 988; Leonard v. Henry, 187 Ark. 75, 58 S. W. (2d) 430. The instant case is ruled by the Leonard and Yarnell cases, supra, and not by the case of Edwards v. Jackson, supra, cited by and relied upon by the respondent herein.\nThe writ is therefore granted.",
+        "type": "majority",
+        "author": "Humphreys, J."
+      }
+    ],
+    "attorneys": [
+      "A. M. Dobbs, for petitioner,",
+      "Dean, Moore & Brazil, for respondent."
+    ],
+    "corrections": "",
+    "head_matter": "Williams v. Priddy.\n4-3304\nOpinion delivered November 13, 1933.\nA. M. Dobbs, for petitioner,\nDean, Moore & Brazil, for respondent."
+  },
+  "file_name": "0137-01",
+  "first_page_order": 155,
+  "last_page_order": 157
+}

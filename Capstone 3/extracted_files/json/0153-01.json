@@ -1,0 +1,205 @@
+{
+  "id": 1432097,
+  "name": "National Life & Accident Insurance Company v. Davison",
+  "name_abbreviation": "National Life & Accident Insurance v. Davison",
+  "decision_date": "1933-04-03",
+  "docket_number": "4-2848",
+  "first_page": "153",
+  "last_page": "160",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "187 Ark. 153"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [
+    {
+      "cite": "56 S. W. 44",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "67 Ark. 585",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "9 S. W. (2d) 26",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "177 Ark. 927",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        8725727
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/177/0927-01"
+      ]
+    },
+    {
+      "cite": "14 S. W. 1092",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "54 Ark. 75",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1320439
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/54/0075-01"
+      ]
+    },
+    {
+      "cite": "47 S. W. (2d) 1086",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "185 Ark. 480",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1435070
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/185/0480-01"
+      ]
+    },
+    {
+      "cite": "256 S. W. 378",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "161 Ark. 297",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "170 N. E. 62",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "270 Mass. 189",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        862541
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/270/0189-01"
+      ]
+    },
+    {
+      "cite": "7 S. W. (2d) 32",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "177 Ark. 576",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "232 S. W. 3",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "149 Ark. 265",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "34 S. W. (2d) 757",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "182 Ark. 1158",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1389971
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/182/1158-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 308,
+    "char_count": 4961,
+    "ocr_confidence": 0.491,
+    "pagerank": {
+      "raw": 1.4239600669405384e-07,
+      "percentile": 0.6495772533456584
+    },
+    "sha256": "d8e7d185c8ec1a4b7be3d80854c8c1880678fad98504ea9cae76cd78928f8dbe",
+    "simhash": "1:be670927f229bce5",
+    "word_count": 886
+  },
+  "last_updated": "2024-02-27T21:18:50.990705+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "National Life & Accident Insurance Company v. Davison."
+    ],
+    "opinions": [
+      {
+        "text": "Kirby, J.,\n(after stating the facts). It is undisputed that Sadie Davison was in no way related to the insured, nor did she have an insurable interest in her life as the court told the jury. It is likewise undisputed that the insured, Lucy Mitchell, was suffering from heart disease and dropsy and not in sound health on the day of the application, nor on the date of the-issuance of the policy, and that the policy was never delivered to Lucy Mitchell.\nIt is insisted that, because of the provision in the application that \u201cno obligation shall exist against the company unless the policy of insurance issued in pursuance thereof shall be delivered to the insured,\u201d the policy was void for want of delivery. An insurance' company may limit its liability to recovery of premiums paid if an insured was not in sound health on the date of the policy, and a condition that the policy shall not take effect unless delivered during the lifetime and good health of the insured is a valid condition precedent to the liability of the company. 37 C. J. 405; American National Ins. Co. v. Lacey, 182 Ark. 1158, 34 S. W. (2d) 757; Jenkins v. International Life Ins. Co., 149 Ark. 265, 232 S. W. 3; Pyramid Life Ins. Co. v. Belmont, 177 Ark. 576, 7 S. W. (2d) 32; 37 C. J. 400.\nAlthough a provision in the policy that there should be no liability of the insurance company unless the insured was in sound health at the time the delivery was made can be waived, this policy limited the liability of the company to the return of the premiums paid, the company having the right to declare the policy void at any time within the contestable period if it discovered that the insured suffered with certain kinds of diseases, heart disease, etc., and was a provision that could not be waived merely by a soliciting agent having no authority to issue policies or pass upon applications; and under the terms of the policy it was stipulated that there could be no waiver thereof except \u201cby being specifically recited in the \u2018Space for Indorsements\u2019,\u201d which was not done in this case. Souza v. Metropolitan Life Ins. Co., 270 Mass. 189, 170 N. E. 62.\nThe undisputed testimony here shows that the insured was afflicted with both heart disease and dropsy when the application for the policy was made, wherein it was stated that she had had neither disease, and that she died of said diseases within two weeks from the date of the application, and on the afternoon of the day the policy of insurance was delivered, not to the insured but to the beneficiary who had no insurable interest in the life of the insured. Under these circumstances the clause in the policy limiting the liability to the return of the premiums, etc., and giving the company the right to declare the policy void would be binding, and was such a condition as could not be waived by the agent delivering the policy. National Life Ins. Co. v. Jackson, 161 Ark. 297, 256 S. W. 378.\nThe soliciting agent and the superintendent of the company, respectively, had no authority to waive any provisions of the policy or to pass on the application for the insurance, it being necessary for it to be submitted to the home office. Sadler v. Fireman\u2019s Fund, 185 Ark. 480, 47 S. W. (2d) 1086; American Ins. Co. v. Hampton, 54 Ark. 75, 14 S. W. 1092; Inter-Southern Life Ins. Co. v. Holzhauer, 177 Ark. 927, 9 S. W. (2d) 26.\nThe contention that there was a waiver of the provision of the policy relative to Bright\u2019s disease and diseases of the heart, kidneys and liver, etc., by the statement, conceding it to be true, of appellee that she notified the agent delivering the policy on the day of its delivery that the insured was sick and he should go to see her, is not warranted, since it could not have given knowledge to the company that the insured was suffering from heart disease and dropsy, both of which diseases she stated she had never had at the time of her application for the policy two weeks before. In other words, it would not be notice that the sickness of the insured resulted from any of the diseases mentioned in the said warranty or representation in the application. 14 R. C. L. 1172-73.\nAs said in Planters\u2019 Mutual Ins. Co. v. Loyd, 67 Ark. 585, 56 S. W. 44: \u201cNor will an act which impliedly waives one ground of forfeiture affect another forfeiture of which the company and its agent were ignorant. \u2019 \u2019\nThe undisputed testimony shows that appellee had no insurable interest in the life of the insured, and the jury could have found that the suggestion was made by her that she would furnish the money to pay the premium if the insured would make the policy payable to her. The court should have instructed the verdict on the ground that the policy had not been delivered to the insured during her lifetime.\nThe judgment is reversed, and the cause dismissed",
+        "type": "majority",
+        "author": "Kirby, J.,"
+      }
+    ],
+    "attorneys": [
+      "Roy Penix, for appellant.",
+      "Giles Dearing, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "National Life & Accident Insurance Company v. Davison.\n4-2848\nOpinion delivered April 3, 1933.\nRoy Penix, for appellant.\nGiles Dearing, for appellee."
+  },
+  "file_name": "0153-01",
+  "first_page_order": 171,
+  "last_page_order": 178
+}

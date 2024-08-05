@@ -1,0 +1,121 @@
+{
+  "id": 1396993,
+  "name": "Western Union Telegraph Company v. Downs",
+  "name_abbreviation": "Western Union Telegraph Co. v. Downs",
+  "decision_date": "1929-01-21",
+  "docket_number": "",
+  "first_page": "933",
+  "last_page": "937",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "178 Ark. 933"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [
+    {
+      "cite": "207 S. W. 226",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "136 Ark. 554",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1569954
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/136/0554-01"
+      ]
+    },
+    {
+      "cite": "161 S. W. 168",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "110 Ark. 144",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1337073
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/110/0144-01"
+      ]
+    },
+    {
+      "cite": "122 S. W. 107",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "92 Ark. 133",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1548637
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/92/0133-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 247,
+    "char_count": 3306,
+    "ocr_confidence": 0.465,
+    "pagerank": {
+      "raw": 8.617442269227878e-08,
+      "percentile": 0.4904784024087891
+    },
+    "sha256": "39baa34ed77debe96dee82ba5b9fddebf537c505b4b1443b718d8457307de044",
+    "simhash": "1:ed1097896a1d0dbf",
+    "word_count": 573
+  },
+  "last_updated": "2024-02-27T17:49:07.238160+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Western Union Telegraph Company v. Downs."
+    ],
+    "opinions": [
+      {
+        "text": "Kirby, J.,\n(after stating the facts). It is contended for reversal that the court should have directed a verdict in appellant\u2019s favor, and that, in any event, the evidence failed to show that the delay in the delivery of the telegram was the proximate cause of the damage, which appellant does not deny was sustained by appellee.\nIt is. undisputed that the telegram was sent on the date mentioned and not delivered until August 19 at 4:23 in the afternoon. The testimony on appellee\u2019s part showed it was not delivered until a second telegram had been sent him on the 19th, inquiring if the 50 bales would be shipped out this week, and also that appellee\u2019s agent immediately began inquiry of the compress company when it would be in operation again and the cotton could be compressed and shipped, and, finding it doubtful whether it could be done at all, the compress running* at irregular intervals in the summer, attempted to get an agreement from the railroad company to date the bills of lading back, which the company refused to do.\nThe testimony is conflicting, that on the part of appellee conducing to show that the cotton could not be sampled and compressed after the delivery of the telegram in time to ship it out on the date specified in the telegram and contract for its sale, and some of the testimony for appellant tending to show that it might have been done. This question was \u25a0 submitted to the jury, however, upon proper instruction, and it determined that the negligent delay in the delivery of the telegram was the proximate cause of the damage resulting from the failure to ship the cotton on time according to the contract and the directions of the telegrams. This concludes, the matter, the verdict being supported by substantial testimony, so far as the appellant is concerned.\nCertainly no error was committed in refusing to give the .appellant\u2019s requested peremptory instruction upon the case as made. The message upon its face shows it related to the sale of 50 bales of cotton, the sender and the addressee being cotton buyers residing in Pine Bluff, and well known to be such by the agent of the appellant company receiving the message for delivery. It disclosed on its face that it related to a business transaction of importance and value to the sender, and the company had notice of any direct or actual damages, resulting or that might result from' its negligence in the transmission and delivery of the message,; and was liable therefor. Western Union Telegraph Co. v. Askew, 92 Ark. 133, 122 S. W. 107; Fulkerson v. Western Union Telegraph Co., 110 Ark. 144, 161 S. W. 168, Ann. Cas. 1916D, 221.\nWe do not find the instructions complained of open to the objections made against them, nor that any error was committed in the exclusion of the testimony of the witness Chaplin from the record, which he did not claim to have made from information furnished him, nor that it was a correct record of the dates of operation of the compress which he was required by his duties to keep*. Bush v. Taylor, 136 Ark. 554, 207 S. W. 226.\nWe find no error in the record, and the judgment is accordingly affirmed.",
+        "type": "majority",
+        "author": "Kirby, J.,"
+      }
+    ],
+    "attorneys": [
+      "Francis R. Stark and Wooldridge & Wooldridge, for appellant.",
+      "Danaher & Danaher, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Western Union Telegraph Company v. Downs.\nOpinion delivered January 21, 1929.\nFrancis R. Stark and Wooldridge & Wooldridge, for appellant.\nDanaher & Danaher, for appellee."
+  },
+  "file_name": "0933-01",
+  "first_page_order": 951,
+  "last_page_order": 955
+}

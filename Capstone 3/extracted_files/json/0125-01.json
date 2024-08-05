@@ -1,0 +1,191 @@
+{
+  "id": 8719697,
+  "name": "Scott v. State",
+  "name_abbreviation": "Scott v. State",
+  "decision_date": "1923-07-09",
+  "docket_number": "",
+  "first_page": "125",
+  "last_page": "129",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "160 Ark. 125"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [
+    {
+      "cite": "133 Ark. 261",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1575104
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/133/0261-01"
+      ]
+    },
+    {
+      "cite": "29 Ark. 17",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1882905
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/29/0017-01"
+      ]
+    },
+    {
+      "cite": "60 Ark. 400",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1903723
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/60/0400-01"
+      ]
+    },
+    {
+      "cite": "95 Ark. 176",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "136 Ark. 161",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1570000
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/136/0161-01"
+      ]
+    },
+    {
+      "cite": "90 N. Y. 675",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2186256,
+        2186307,
+        2186246
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/90/0675-01",
+        "/ny/90/0675-03",
+        "/ny/90/0675-02"
+      ]
+    },
+    {
+      "cite": "35 Md. 531",
+      "category": "reporters:state",
+      "reporter": "Md.",
+      "case_ids": [
+        1023778
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/md/35/0531-01"
+      ]
+    },
+    {
+      "cite": "17 So. 512",
+      "category": "reporters:state_regional",
+      "reporter": "So.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "66 Ark. 546",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "58 Ark. 378",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "135 Ark. 261",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "60 Ark. 400",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1903723
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/60/0400-01"
+      ]
+    },
+    {
+      "cite": "95 Ark. 176",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 445,
+    "char_count": 7766,
+    "ocr_confidence": 0.428,
+    "pagerank": {
+      "raw": 1.6343475431493036e-07,
+      "percentile": 0.6896083516838241
+    },
+    "sha256": "d90aabf8365da620a849d9a637eb36b82baa0933876aad3c0c2d21f252ed0da7",
+    "simhash": "1:ae09019d22fea516",
+    "word_count": 1384
+  },
+  "last_updated": "2024-02-27T17:41:07.582861+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Scott v. State."
+    ],
+    "opinions": [
+      {
+        "text": "Wood, J.\nThis was an appeal from a judgment sentencing appellant to the penitentiary for one year. The appellant was tried and convicted on an indictment which, in apt words, charged 'him with the crime of selling intoxicating liquors.\nPink Shaw, a witness for the State, testified that he was the sheriff of' Sebastian County, Arkansas. As such sheriff a subpoena was placed in his hands to \u2018be served on Laura Green, Herman Isaacs and Rufus Kelly, witnesses for the State. The subpoena was not served. Witness had information that Laura Green had left. Witness did not receive any information as to where she had gone. He understood she had gone to Oklahoma. Witness had information that Herman Isaacs had left the city and State, and could not be found. Witness \u2019 information in regard to Rufus Kelly was that he had been gone about two months. Witness didn\u2019t know how long Laura Green had lived in Fort Smith and didn\u2019t know where she had gone. His information was that she had left recently. Witness never heard of Bufus Belly until he tried to get service on him, and didn\u2019t know where he had gone.\nA witness for the State, L. F. Fishback, testified that he was municipal judge of the city of Fort Smith, and held the preliminary trial of the appellant on a charge of selling intoxicating liquor, for which he was after-wards indicted. He took down the testimony of the witness, Laura Green, in that case, and it was correctly done. Over the objection of the appellant the testimony of Laura Green, thus taken by Judge Fishback, was read to the jury, as follows: \u201cI live near the mouth of Poteau. I know defendant when I see him. I got half pint of liquor from him Sunday morning, December 17, 1922. He came to my house, and I asked him if he knew where I could get any whiskey. He replied he could get it for me. He had it with him, and I bought it. Paid him $1.50 for it, and Herman Isaacs, Floyd Chat of 205 Garrison, and Clara Brown helped me drink it, that is, Clara Brown was there but would not drink it. I got a pint from him also the day before. He came to the house that time. The first time I asked if he knew where I could get any whiskey, and he said he did. I told him1 I did not want it if he couldn\u2019t get it in thirty minutes. He said he could get it in thirty minutes, so I gave 'him $3, and he and Chat went off together, and Chat brought it back.\u201d\nJudge Fishback further testified that the above statement of the witness was not read over to or signed by her, after he took it down.\nThe testimony of Herman Isaacs was also read, and it was to the effect that he had bought whiskey from the defendant. His testimony was taken down in the same manner by Judge Fishback, who stated, after reading the same to the jury, that the statement was not read .to Isaacs or signed by him, hut it was the evidence of Isaacs as given at the trial, and was correctly taken down.\nThe testimony of Rufus Kelly, Taken in the same examining trial and reduced to writing in the same way, was read, and showed that he had also purchased \u2019liquor from the appellant. The testimony of witness Laura Brown was to the effect that she saw appellant sell whiskey in Sebastian County, Arkansas, in December, 1922.\nCounsel for appellant contend, first, that the court erred in permitting the State to read the testimony of the witnesses taken before Judge Fishback at the preliminary hearing and reduced to writing by him. They urge that a proper foundation was not laid for the introduction of this secondary evidence.\nIn McNamara v. State, 60 Ark. 400-406, we quoted with approval from Mr. Greenleaf. as follows: \u201cThe chief reasons for the exclusion of hearsay evidence are the want of the sanction of an oath and of any opportunity to cross-examine the- witness. But where the testimony was given under oath, in a judicial proceeding, in which the adverse litigant was a party, and where he had the power to cross-examine, and'was legally called upon to do so, the great and ordinary test of truth being no longer wanting, .the testimony so given is admitted, after the decease of the witness, in any subsequent suit between the parties. It is also received if the witness, though not dead, is out of the jurisdiction, or cannot be found after diligent search, or is insane, or sick and unable to testify, or has been summoned, but appears to have been kept away by the adverse party.\u201d Greenleaf on Evidence, \u00a7 163. In that case we said: \u201cThis rule has never been changed by statute in this State, and, whatever rule may have been approved in other States, our own court has recognized the doctrine, as thus announced by Mr. Greenleaf, in such phases of it as it has had occasion to pass upon.\u201d (Citing several former cases of this court). In addition, see Poe v. State, 95 Ark. 176; Kelly v. State, 135 Ark. 261.\nEvery requirement of the law as announced in the above oases was complied with in the introduction of the testimony of which the \u00a1appellant complains. The testimony of Judge Fishback shows that the testimony of the witnesses, taken before him at the preliminary trial, was correctly reduced to writing. Their testimony, as thus reduced to writing, was read before the jury. This testimony was something more than the mere notes of the judge purporting to set forth the substance of the testimony taken before him. It was the actual testimony of the witnesses as they gave it. The judge took it down in the language of the witness as the testimony was delivered. The personal pronoun I is used, and the manner of reducing it to writing shows that the judge, in taking it down, was not using his own language, but the language of the witnesses. The return of the sheriff shows that the witnesses could not be found, and his testimony showed that he had made inquiry and was inf ormed that the witnesses were gone to,parts unknown. His testimony was sufficient to justify the court in concluding that the sheriff had made 'diligent inquiry, and that the witnesses were beyond the jurisdiction of the court, and that there was no reasonable probability that their testimony could be obtained.\nThe appellant also contends that the testimony was not sufficient to sustain the verdict, 'but it is obvious that he is mistaken in this contention. The record presents no error, and the judgment is therefore affirmed.",
+        "type": "majority",
+        "author": "Wood, J."
+      }
+    ],
+    "attorneys": [
+      "J. E. London, for appellant.",
+      "J. S. TJtley, Attorney General, JoJm L. Garter and ' Wm. T. Hammock, Assistants, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Scott v. State.\nOpinion delivered July 9, 1923.\n1. Criminal law \u2014 former testimony of absent witnesses. \u2014 Testimony of absent witnesses, as taken and correctly reduced to writing at a preliminary trial, when accused had an opportunity to cross-examine' them, is admissible where the witnesses are beyond the court\u2019s jurisdiction.\n2. Intoxicating LIQUORS \u2014 sufficiency of evidence. \u2014 Evidence held sufficient to sustain a conviction of selling intoxicating liquors.\nAppeal from. Sebastian Circuit Court, Fort Smith District; J. E. Tatum, Judge;\naffirmed.\nJ. E. London, for appellant.\nIt was error to permit to be read in evidence statements purporting to be tbe testimony given by tbe three absent witnesses in a trial bad in tbe municipal court, with no showing as to when subpoenas were issued for them, and upon tbe testimony of the sheriff alone that tbe witnesses were absent. 1 Greenleaf on Evidence, 16th ed., p. 248, \u00a7 163-g; Id. \u00a7 166; 58 Ark. 378; 66 Ark. 546; Underhill, Crim. Evidence, 326; 17 So. 512, 35 Md. 531; 90 N. Y. 675.\nJ. S. TJtley, Attorney General, JoJm L. Garter and ' Wm. T. Hammock, Assistants, for appellee.\nThere was a sufficient showing made to entitle the State to introduce the testimony given by the absent witnesses in the municipal court, and its admission was in accordance with the weight of authority on the subject. 8 R. C. L. 214, par. 211; 136 Ark. 161; 95 Ark. 176; 60 Ark. 400; 29 Ark. 17; 133 Ark. 261."
+  },
+  "file_name": "0125-01",
+  "first_page_order": 149,
+  "last_page_order": 153
+}

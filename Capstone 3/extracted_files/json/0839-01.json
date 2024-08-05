@@ -1,0 +1,85 @@
+{
+  "id": 1396906,
+  "name": "Southern National Insurance Company v. Lofton",
+  "name_abbreviation": "Southern National Insurance v. Lofton",
+  "decision_date": "1929-01-07",
+  "docket_number": "",
+  "first_page": "839",
+  "last_page": "841",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "178 Ark. 839"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [
+    {
+      "cite": "13 S. W. (2d) 20",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "176 Ark. 525",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1400046
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/176/0525-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 224,
+    "char_count": 3045,
+    "ocr_confidence": 0.487,
+    "pagerank": {
+      "raw": 1.0417561518279476e-07,
+      "percentile": 0.5509494955111283
+    },
+    "sha256": "95a11a50252b2b05ccfbd3f01c798188995e0c70853b5d8ffdf4c65e89b3b2b6",
+    "simhash": "1:775978a9fce83dba",
+    "word_count": 513
+  },
+  "last_updated": "2024-02-27T17:49:07.238160+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Southern National Insurance Company v. Lofton."
+    ],
+    "opinions": [
+      {
+        "text": "McHaney, J.\nAppellee brought this action to recover on an accident insurance policy issued by appellant to her husband, Ira Lofton, deceased, in which she was named as, the beneficiary. The policy provided protection against accidental death in the sum of $500 \u201cby violent, external and accidental means.\u201d The insured was an employee of the Dixie Cotton Oil Company, and, on November 18, 1926, while he was asleep, one Son Lewis, a foreman in the employ of the Dixie Cotton Oil Company, applied to the insured\u2019s body and over his heart, an electrical shocking machine, which so severely shocked him that he died a few minutes thereafter. Son Lewis did not intend to injure him, but only intended to wake him up'or to play a joke on him. There was a verdict and judgment for appellee.\nThe only contention made for a reversal of this case is made under clause \u201cT (1) \u201d which is as follows: \u2018 \u2018 The company\u2019s liability for death or disability, due directly or indirectly, wholly or in part, to * * *; (b) injuries intentionally inflicted upon the insured for private or personal reasons; * . * * then in all such cases benefits shall be ten per cent, of the amount otherwise payable under this contract. \u2019 \u2019\nIt is the contention of appellant that, under this clause in the policy, its liability should be limited to $50, for which amount appellant offered to confess judgment, and which it asked be entered here. This contention is based upon the fact that Son Lewis intentionally applied the device to the body of the insured, which shocked him, and from which shock he died, and that, under the \u201climited coverage\u201d clause above quoted, the company is only liable for ten per cent, of the full amount, where he received the injury at the hands of another, which was intentionally inflicted upon him for private or personal reasons.\nWe cannot agree with, appellant in this contention. Numerous cases are cited by counsel for appellant from other jurisdictions, which he insists tend to support this contention, but this court has held directly to the contrary in the recent case of Mutual Benefit Health & Accident Assn. v. Tilley, 176 Ark. 525, 13 S. W. (2d) 20. In that case the administrator of the insured was permitted to recover on an accident policy for the insured\u2019s death, who was shot by his wife, and who was the beneficiary under the policy, where the jury found that the killing was intentional but not justified, and that such killing was accidental within the meaning of the policy. In this case it is true that the device was intentionally applied to the body of the insured by Son Lewis, but the result was wholly unintentional. His death therefore was accidental within the meaning\u2019 of the policy. The injuries inflicted upon the insured by Son Lewis were not intentional injuries, therefore, within the meaning of the limited coverage clause.\nWe find no error, and the judgment is affirmed.",
+        "type": "majority",
+        "author": "McHaney, J."
+      }
+    ],
+    "attorneys": [
+      "Martin K. Fulk, for appellant.",
+      "Oscar Winn, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Southern National Insurance Company v. Lofton.\nOpinion delivered January 7, 1929.\nMartin K. Fulk, for appellant.\nOscar Winn, for appellee."
+  },
+  "file_name": "0839-01",
+  "first_page_order": 857,
+  "last_page_order": 859
+}

@@ -1,0 +1,259 @@
+{
+  "id": 8724736,
+  "name": "Witherspoon v. State",
+  "name_abbreviation": "Witherspoon v. State",
+  "decision_date": "1929-05-27",
+  "docket_number": "",
+  "first_page": "647",
+  "last_page": "651",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "179 Ark. 647"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [
+    {
+      "cite": "255 S. W. 878",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "161 Ark. 253",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1388501
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/161/0253-01"
+      ]
+    },
+    {
+      "cite": "255 S. W. 319",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "161 Ark. 46",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1388537
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/161/0046-01"
+      ]
+    },
+    {
+      "cite": "254 S. W. 532",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "160 Ark. 257",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        8721247
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/160/0257-01"
+      ]
+    },
+    {
+      "cite": "216 S. W. 497",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "141 Ark. 102",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1593016
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/141/0102-01"
+      ]
+    },
+    {
+      "cite": "215 S. W. 497",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "140 Ark. 46",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1594448
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/140/0046-01"
+      ]
+    },
+    {
+      "cite": "203 S. W. 703",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "135 Ark. 303",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "202 S. W. 702",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "133 Ark. 540",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1575081
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/133/0540-01"
+      ]
+    },
+    {
+      "cite": "120 S. W. 389",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "90 Ark. 579",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1513869
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/90/0579-01"
+      ]
+    },
+    {
+      "cite": "45 Ark. 361",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1892005
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/45/0361-01"
+      ]
+    },
+    {
+      "cite": "77 S. W. 598",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "72 Ark. 14",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1505498
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/72/0014-01"
+      ]
+    },
+    {
+      "cite": "153 S. W. 1104",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "151 S. W. 1000",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "105 Ark. 462",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1347004
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/105/0462-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 445,
+    "char_count": 7828,
+    "ocr_confidence": 0.5,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.20857702514702595
+    },
+    "sha256": "416430092f365740e1a25c68731be716f8d7850bbbf6ffaea0b679331d7df151",
+    "simhash": "1:9e5b50b791b71692",
+    "word_count": 1392
+  },
+  "last_updated": "2024-02-27T23:51:14.248945+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Witherspoon v. State."
+    ],
+    "opinions": [
+      {
+        "text": "McHaney, J.\nAppellant, a 'colored barber of Mal-vern, Arkansas, was convicted of selling intoxicating liquor, and sentenced to a year in the penitentiary.\n1. He first insists that the evidence is insufficient to support the verdict and judgment against him. He admits procuring the whiskey for the witness, Tommie Kelly, a white youth about 21 years of age, but says that he did so only as a matter of accommodation to the boy, not as a sale to him, and that he did not receive anything therefrom, or have any interest therein whatsoever.\nKelly testified that lie went to appellant\u2019s barber shop in December, 1928, with Ralph Langham, gave appellant $1.50 for a pint of liquor, and that appellant went out the 'back door of the shop, and in a few minutes delivered the pint of liquor to them in the back room of the barber shop. He further testified that he went baisk on the same day with another person and purchased a quart of liquor from appellant, who left the barber shop and returned in a few minutes with the liquor. The testimony of the witnesses Langham and Head corroborates the testimony of Kelly in these regards.\nAt the request of appellant, the court instructed the jury that it was not against the law to purchase liquor, and that, if they believed from the evidence that appellant did not sell the prosecuting witness liquor, had no interest in the sale, and received nothing for purchasing it, but merely bought the whiskey to accommodate the 'witness, the defendant would not be guilty of the charge, and they should acquit him.\nIn Bolo v. State, 105 Ark. 462, 151 S. W. 1000, 153 S. W. 1104, after setting out the facts, which are substantially the same as in the case at bar, and after distinguishing that case from Whitmore v. State, 72 Ark. 14, 77 S. W. 598, the court said:\n\u201cThe facts in this case are essentially different (referring to Whitmore v. State), and we think the present case is controlled by the principles of law announced in the case of Foster v. State, 45 Ark. 361. In that case Foster was indicted for selling liquor to a minor. The proof was that Foster took the money of the minor and purchased the liquor for him at a saloon in which he was not interested, and delivered the liquor to the minor. The court said that Foster was not the actor in making the sale to the minor, and to this extent was not within the language of the statute which prohibited the sale of whiskey to minors. The court held, however, that, following the rule of the common law, all persons concerned in the commission of a crime less than a felony. if guilty at all, are principals, and that Foster was guilty because he aided- and abetted the liquor seller, which was the offense prohibited by the statute.\u201d\nQuoting* again from the same case, it is said: \u201cUnder the facts of the present case the defendant Bobo aided Bussell in making the sale of the whiskey to Mul-key, and thereby became a principal in the offense. Mulkey did not kn.ow that Bussell was engaged in the illegal sale of whiskey. He came into the restaurant where Bo'bo was working and asked him if. he could get him any whiskey, and gave him money to pay for it with. Bobo went out and got the whiskey from Bussell, and came back and delivered it to Mulkey. * * * This shows that Bobo was a necessary factor in making the sale, and that he acted for the seller as well as the buyer, and, as such intermediary, he was interested in the sale of the liquor within the rule announced in the case of Dale v. State, 90 Ark. 579, 120 S. W. 389, and became thereby a principal offender.\u201d\nHere appellant says that he procured the whiskey for Kelly from a person whom he called \u201cMississippi Bed,\u201d that he received no benefit from the sale, and did it purely as an accommodation to the young man. But. there was sufficient evidence to submit the question to the jury as to whether he was acting as an intermediary and not solely as agent for the buyer. We held in the case of Ellis v. State, 133 Ark. 540, 202 S. W. 702, that a person who acts as an intermediary in the unlawful sale of intoxicating liquors and thereby induces the transaction, is guilty, even though he received no pecuniary benefit from the sale, and that, in order to escape criminal liability, he must act solely for the purchaser. And it was further held in this same case that, under such circumstances, it is a question for the jury to determine whether he was the agent of the buyer, or whether his claim of agency was merely a cloak to conceal an unlawful sale by himself. The court correctly instructed the jury, as already stated, touching on this question, and the jury has found, on evidence that was sufficient to take the question to it, against him, and this court cannot disturb the verdict of the jury under such circumstances. See also Snead v. State, 135 Ark. 303, 203 S. W. 703; Harris v. State, 140 Ark. 46, 215 S. W. 497; Beck v. State, 141 Ark. 102, 216 S. W. 497; Whittington v. State, 160 Ark. 257, 254 S. W. 532; Anderson v. State, 161 Ark. 46, 255 S. W. 319; and Brown v. State, 161 Ark. 253, 255 S. W. 878.\n2. It is next insisted that the court erred in overruling appellant\u2019s objection to a statement made by the prosecuting attorney in argument regarding the law of the case. The prosecuting attorney stated that \u201cwhen the State proves'that he took the money and delivered the whiskey, that, under the law, constitutes a sale.\u201d When .counsel for appellant objected to this statement, the prosecuting attorney added the' words, \u201cunless he went and procured it.\u201d When the entire statement is considered, the prosecuting\u2019 attorney correctly stated the law; but, even if it had been a misstatement, any possible prejudice resulting to appellant by the overruling of the objection was removed 'by the court in its instruction, after counsel had concluded their arguments, to the effect that the jury was not to consider any argument of counsel which was not based upon the evidence and the law as submitted to the jury by the court; that all the instructions given by the court constituted the law in the case, and that they should consider those instructions in applying the law to the facts; and that the instructions should be considered as a whole. Appellant therefore suffered no prejudice in this regard.\n3. It is next said that the court erred in permitting one of the witnesses to testify, over appellant\u2019s objections, that bootleggers usually tell you they will go and get the liquor for you. The witness had testified that he had frequently bought liquor from bootleggers, and he was evidently in a position to know their custom in this regard. We do not think appellant could have been prejudiced 'by this testimony, in view of the instruction given by the court at appellant\u2019s request, heretofore mentioned, that appellant would not be guilty if he merely procured the liquor for the witness.\n4. It is finally insisted that the court erred in giving the State\u2019s instruction No. 2, charging, in the language of the statute, that \u201call persons being present, aiding and abetting, or ready and consenting to aid and abet, in any felony, shall be deemed principal offenders, and punished as such.\u201d This instruction is substantially in the language of \u00a7 2311, C. & M. Digest. We think this a proper instruction, under the facts in this case. Appellant was being tried for selling liquor as a principal, and his defense was that he only procured the liquor for the buyer. It can readily be seen therefore, if the jury should find that he was acting as an intermediary, and not merely as the agent for the buyer, this instruction was proper.\nNo error appearing, the judgment must be affirmed.",
+        "type": "majority",
+        "author": "McHaney, J."
+      }
+    ],
+    "attorneys": [
+      "Glover & Glover, for appellant.",
+      "Eal L. Norwood, Attorney General, and Pat Mehaffy, Assistant, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Witherspoon v. State.\nOpinion delivered May 27, 1929.\nGlover & Glover, for appellant.\nEal L. Norwood, Attorney General, and Pat Mehaffy, Assistant, for appellee."
+  },
+  "file_name": "0647-01",
+  "first_page_order": 665,
+  "last_page_order": 669
+}

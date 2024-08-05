@@ -1,0 +1,184 @@
+{
+  "id": 1432122,
+  "name": "Tapley v. Futrell",
+  "name_abbreviation": "Tapley v. Futrell",
+  "decision_date": "1933-07-10",
+  "docket_number": "4-3176",
+  "first_page": "844",
+  "last_page": "850",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "187 Ark. 844"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [
+    {
+      "cite": "17 Am. Rep. 738",
+      "category": "reporters:state_regional",
+      "reporter": "Am. Rep.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "48 Ind. 327",
+      "category": "reporters:state",
+      "reporter": "Ind.",
+      "case_ids": [
+        1414812
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ind/48/0327-01"
+      ]
+    },
+    {
+      "cite": "19 How. 393",
+      "category": "reporters:scotus_early",
+      "reporter": "How.",
+      "case_ids": [
+        6142640,
+        6142949
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/60/0393-01",
+        "/us/60/0393-02"
+      ]
+    },
+    {
+      "cite": "199 U. S. 437",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3643116
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/199/0437-01"
+      ]
+    },
+    {
+      "cite": "14 S. W. (2d) 250",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "179 Ark. 79",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        8718955
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/179/0079-01"
+      ]
+    },
+    {
+      "cite": "51 S. W. (2d) 863",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "185 Ark. 1105",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1435384
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/185/1105-01"
+      ]
+    },
+    {
+      "cite": "295 S. W. 9",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "174 Ark. 214",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        8719649
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/174/0214-01"
+      ]
+    },
+    {
+      "cite": "196 S. W. 934",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "130 Ark. 52",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        8717691
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/130/0052-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 584,
+    "char_count": 11560,
+    "ocr_confidence": 0.508,
+    "pagerank": {
+      "raw": 6.831424862786988e-08,
+      "percentile": 0.4168503646351583
+    },
+    "sha256": "6a16e741a1739b66554bee2ce0f490f519460f76f7dcc1ef355003bd179a6e26",
+    "simhash": "1:a7c1f7703c7ea240",
+    "word_count": 1931
+  },
+  "last_updated": "2024-02-27T21:18:50.990705+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Tapley v. Futrell."
+    ],
+    "opinions": [
+      {
+        "text": "Mehaffy, J.\nThe Legislature of 1933 \u2019 passed act 167. The title of the act is: \u201cAn Act to Refund All State Highway Obligations.\u201d Section 1 of the act reads as follows:\n\u201cThe issuance of Arkansas State Bonds, hereinafter called State Bonds, is hereby authorized in a total sum equal to the aggregate of the entire outstanding indebtedness of the State on account of the construction and maintenance of the State Highway System, including all State Highway Notes or Bonds, Toll-Bridge Bonds, Revenue Bonds, valid outstanding Road District Bonds on which the State has been paying interest under act No. 11 of the- Acts of 1927 and act No. 65 of the Acts of 1929, hereinafter called Road District Bonds, Certificates of Indebtedness issued or authorized under act No. 8, approved October 3, 1928, and act No. 85 of 1931, Short Term Notes issued under act No. 15, approved April 14, 1932, all valid claims against the State Highway \u2022 Commission, and all warrants and vouchers issued by the State Highway Commission prior to February 1, 1933, together with the-interest on the respective obligations and claims. Such bonds shall be the direct obligation of the State, for the payment of which, principal and interest, the full faith and credit of the State, and all its resources are hereby pledged. They shall be dated May 1, 1933, shall be payable in twenty-five years, and shall bear interest at the rate of three per cent, per annum, the interest to be payable semi-\u00e1nnually, and to be evidenced by attached interest coupons.\u201d\nThe appellant, O. E. Tapley, tlie owner of a State Highway Bond issued under act No. 11 of 1927, brought this suit as a citizen and taxpayer, alleging that act 167 was in violation of \u00a7 1, article 16, of the Constitution of the State, which reads as follows:\n\u201cNeither the State nor any city, county, town or other municipality in this State shall ever loan its credit for any purpose whatever; nor shall any county, city, town or municipality ever issue any interest-bearing evidences of indebtedness, except such bonds as may be authorized by law to provide for and secure the payment of the present existing indebtedness, and the State shall never issue any interest-bearing treasury warrants or scrip.\u201d\nAppellant also alleged that the act violated \u00a7 12 of article 12, which reads as follows:\n\u201cExcept as herein otherwise provided, the State shall never assume or pay the debt or liability of any county, town, citjr or other corporation whatever, unless such debt or liability shall have been created to repel invasion, suppress insurrection or to provide for the public welfare and defense. Nor shall the indebtedness of any corporation to the -State ever be released or in any manner discharged save by payment into the public treasury. \u2019 \u2019\nHe prayed for an order restraining J. M. Futrell, as Governor, Roy V. Leonard, as Treasurer, and Griffin Smith, as State Comptroller, composing the Refunding-Board, from exchanging Arkansas State Bonds issued under act No. 167 of 1933 for any Road District Bonds on which the State has been paying interest under act No. 11 of the Acts of 1927, and act No. 65 of 1929.\nThe appellees filed a demurrer to the complaint on the ground that it does not state facts sufficient to constitute a cause of action. The trial court sustained the demurrer with leave to amend. The appellant elected to stand on his complaint, refused to amend, and his complaint was dismissed for want of equity. The ease is here on appeal.\nThis suit challenges the constitutionality of act 167 of 1933 in so far as the act authorizes the Refunding Board to exchange'Arkansas State Bonds for Road District Bonds, the payment of which the State has assumed under act No. 11 of 1927 and act No. 65 of 1929.\nSection 5 of act 167 provides that the holder of valid Road District Bonds and other bonds may deposit the same with the State Treasurer for exchange for a State Bond of equal face value.\nSection 8 of the act provides that the Governor, State Treasurer and State Comptroller shall constitute a Refunding Board with powers necessary to carry out the provisions of the act.\nThe only question for our consideration in this case is whether act 167 violates the Constitution in authorizing the Refunding Board to exchange State Bonds for Road Improvement District Bonds.\nIt is first contended that the act violates \u00a7 1 of article 16 of the Constitution and \u00a7 12 of article 12 of the Constitution. The appellant calls attention to numerous authorities of other courts. We do not discuss them for the reason that the questions argued by appellant have been definitely settled by decisions of this court.\nSection 1 of article 16 prohibits the State, city, county, town or municipality loaning its credit for any purpose, and also prohibits the county, town or municipality issuing interest-bearing evidences of indebtedness.\nIn the case of Hays v. McDaniel, 130 Ark. 52, 196 S. W. 934, we said: \u201cIt is said that the word \u2018municipality\u2019 here employed, includes the State. But we do not agree with counsel in this contention. If it be conceded that the word \u2018municipality\u2019 has sometimes been used by courts and textwriters as of sufficient breadth to include a sovereign State, it does not follow that it was so employed here. The framers of the Constitution were dealing with a subject of the highest importance, and evidently chose their- language with great discrimination, and we can not assume that they intended the word \u2018municipality\u2019 to embrace the State. To do so would render meaningless and wholly unnecessary the third clause of this section, which provides that the State shall never issue any interest-bearing treasury warrants or scrip. This second clause inhibits the issuance of any interest-bearing evidences of indebtedness. Treasury warrants and scrip are evidences of indebtedness, and it would have been an idle thing to do to prohibit the State, along with the counties, cities and towns therein, from issuing any interest-bearing evidences of indebtedness, and then, in the following clause of the same section, to repeat the. inhibition against the issuance of a form of indebtedness which was inhibited under the preceding clause. # *\n\u201cThe State, acting through its Legislature, may borrow money for its own uses unless that right is denied to it by the Constitution, and the only inhibition against the State there contained, in this respect, is that it shall not issue any interest-bearing treasury warrants or scrip.\u201d\nThe above case definitely settles the proposition against the contention of the appellant. This question was also discussed and decided in the case of Bush v. Martineau, 174 Ark. 214, 295 S. W. 9. We there said: \u201cThe General Assembly has plenary powers to contract for and create interest-bearing evidences of indebtedness on the part of the State, except to issue interest-bearing warrants or scrip.\u201d We also held in the Bush-Martineau case, supra, that a road improvement district was not a corporation within the meaning of this section of the Constitution.\nMany of these road improvement districts were created by the Legislature. Section 2 of article 12 of the Constitution provides: \u201cThe General Assembly shall pass no special act conferring corporate powers, except for charitable, educational, penal or\u2018reformatory purposes, where the corporations created are to be and remain under the patronage of the State.\u201d The Legislature therefore could not, by a special act, create a corporation.\nSection 6 of article 12 provides that corporations may be formed under general laws. It is clear that, under the Constitution, road improvement districts, either created by the Legislature itself or created under the authority of the Legislature, are not corporations within the meaning of \u00a7 12 of article 12 of the Constitution.\nThe appellant discusses at length the history of public roads as internal improvements, and the story of the disasters which follow the enactment by the Legislatures of laws for the building of public roads.\nThe disasters came largely, if not altogether, from undertaking to build public roads which were really internal improvements, by local improvement districts, to be paid for by the property owners of the locality, instead of making the improvements directly by the State.\nThis system of road building had been tried and abandoned by other nations more than 100 years before we adopted the system here. Instead of profiting by their experience, we made the experiment ourselves, and the disasters discussed by the appellant followed.\nIt was to relieve this intolerable condition brought about by these local improvement districts that the State finally took over the road system itself, including the roads constructed by local improvement districts. These roads, while not constructed directly by the State, were constructed under the authority of the State, and, whether intended at the time to be so or not, they are for the benefit of the entire State.\nAfter the decisions by this court above referred to, this question was before the court again in the case of Williams v. Parnell, 185 Ark. 1105, 51 S. W. (2d) 863. The court in that case approved the cases formerly decided by this court, and held that not only could the State borrow money and issue notes therefor, but that highways might be constructed by the State itself or by governmental agencies; that public highways are for public use, and there is no reason why the power of taxation by the State may not be exercised in their behalf.\nWe therefore hold that the questions argued by the appellant have been definitely settled by the decisions of this court. Act No. 167 is not in violation of any provision of our Constitution, and is therefore a valid enactment.\nEvery question raised has been settled by the former decisions- of this court against the contentions of the-appellant.\nWhen a provision of the Constitution has been construed by the court, it should be followed by the court, because if we hold that the Constitution means one thing at one time- and a different thing at another time, no one would know what might happen in future decisions.\n\"A cardinal rule in dealing with written instruments is that they are to receive an unvarying interpretation and that their practical construction is to be uniform. A constitution is not to be made to mean one thing at one time and another at some subsequent time, when the circumstances may be so chang\u2019ed as perhaps to make a different rule in the case- seem desirable.\u201d Cooley\u2019s Constitutional Limitations, (8th ed.) vol. 1, 123; Carter v. Cain, 179 Ark. 79, 14 S. W. (2d) 250; South Carolina v. U. S., 199 U. S. 437, 26 S. Ct. 110; Dred Scott v. Sanford, 19 How. 393; Cory v. Carter, 48 Ind. 327, 17 Am. Rep. 738.\nIt is contended also by the appellant that the act provides for loaning credit and issuing interest-bearing evidences of indebtedness of the State, contrary to our Constitution. This question is completely answered against the contention of the appellant in the cases already cited. It is also contended that State purposes, within the meaning of the rule of Hays v. McDaniel, supra, do not include public roads. The other cases cited in this opinion, especially the case of Williams v. Parnell, supra, do include public roads.\nWe therefore conclude that the act in question does not violate any provision of the Constitution. The decree of the chancery court is therefore, affirmed.",
+        "type": "majority",
+        "author": "Mehaffy, J."
+      }
+    ],
+    "attorneys": [
+      "R. E. Wiley, for appellant.",
+      "Coleman & Riddick, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Tapley v. Futrell.\n4-3176\nOpinion delivered July 10, 1933.\nR. E. Wiley, for appellant.\nColeman & Riddick, for appellee."
+  },
+  "file_name": "0844-01",
+  "first_page_order": 864,
+  "last_page_order": 870
+}

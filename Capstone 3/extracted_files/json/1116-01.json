@@ -1,0 +1,244 @@
+{
+  "id": 1428432,
+  "name": "Missouri State Life Insurance Company v. Foster",
+  "name_abbreviation": "Missouri State Life Insurance v. Foster",
+  "decision_date": "1934-03-26",
+  "docket_number": "4-3399",
+  "first_page": "1116",
+  "last_page": "1121",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "188 Ark. 1116"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [
+    {
+      "cite": "284 U. S. 489",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        5717592
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/284/0489-01"
+      ]
+    },
+    {
+      "cite": "297 S. W. 847",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "174 Ark. 783",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        8724680
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/174/0783-01"
+      ]
+    },
+    {
+      "cite": "295 S. W. 25",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "174 Ark. 279",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        8720226
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/174/0279-01"
+      ]
+    },
+    {
+      "cite": "260 S. W. 705",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "163 Ark. 480",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1383845
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/163/0480-01"
+      ]
+    },
+    {
+      "cite": "164 S. W. 276",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "111 Ark. 514",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1540357
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/111/0514-01"
+      ]
+    },
+    {
+      "cite": "12 S. W. (2d) 865",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "178 Ark. 775",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1396988
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/178/0775-01"
+      ]
+    },
+    {
+      "cite": "59 S. W. (2d) 1046",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "187 Ark. 337",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1432102
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/187/0337-01"
+      ]
+    },
+    {
+      "cite": "60 S. W. (2d) 912",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "187 Ark. 398",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1432029
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/187/0398-01"
+      ]
+    },
+    {
+      "cite": "143 S. W. 85",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "102 Ark. 1",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1354038
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/102/0001-01"
+      ]
+    },
+    {
+      "cite": "54 S. W. (2d) 407",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "186 Ark. 519",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        8723445
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/186/0519-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 533,
+    "char_count": 10236,
+    "ocr_confidence": 0.516,
+    "pagerank": {
+      "raw": 6.162098454473157e-07,
+      "percentile": 0.9564609751379327
+    },
+    "sha256": "b4822972e1b71be2937c8a46541981f71143aed6bba988e9f5f364eb85997c24",
+    "simhash": "1:05de04ccd824ad0a",
+    "word_count": 1691
+  },
+  "last_updated": "2024-02-27T23:51:14.545434+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Justices Smith and McHaney dissent."
+    ],
+    "parties": [
+      "Missouri State Life Insurance Company v. Foster."
+    ],
+    "opinions": [
+      {
+        "text": "Johnson, C. J.\nSeeking recovery upon two certificates of insurance theretofore issued by appellant to appellee, this suit was instituted. A trial to a .jury was had which resulted in a verdict in favor of appellee upon each of these certificates, and judgments were accordingly entered, and this appeal is therefrom.\nCertificate No. 24,414, issued under master policy No. SAH-534, provides indemnity of $10 per week for a period not exceeding twenty-six weeks against injuries effected through external, violent and accidental means, or the same amount per week for disability resulting from bodily disease which prevents performance of every kind of duty pertaining to the insured\u2019s occupation, provided no payment shall be made for the first seven days of disability, etc. The master policy No. SAH-534, just referred to, is an industrial insurance contract effected between appellant as insurer in favor of the Missouri Pacific Railroad Company as employer and for the use and benefit of the employees of the railroad company.\nCertificate No. 24,314 was issued under master policy G--2377, an industrial insurance contract effected between appellant and the same railroad company, and this certificate provides indemnity of $1,000 to be paid to the beneficiary of the insured in the event of death or to the insured in the event of total and permanent disability resulting-from bodily injury or disease before attaining the age of sixty years. This certificate provides:\n\u201cTotal and permanent disability benefits.\n\u201cIf tbe employee shall furnish the company with due proof that, before having attained the age of sixty years, he or she has become totally and permanently disabled by bodily injury or disease, and that he or she is then, and will be at all times thereafter, wholly prevented thereby from engaging in any gainful occupation, and that he or she has been so permanently and totally disabled for a period of six months, the company will immediately pay to the employee in full settlement of all obligations hereunder, the amount of insurance in force hereunder on the employee at the time of the approval by the company of the proofs as aforesaid.\u201d\nThis certificate No. 24,314 has the following instructions indorsed thereon:\n\u201cIt is not necessary for the employee or the beneficiary to employ any individual firm or corporation to secure any benefits under this certificate. Communicate directly with either the employer or the Missouri State Life Insurance Company, Fifteenth and Locust Streets, St. Louis, Missouri.\n\u201cMissouri State Life Insurance Company,\n\u201cSt. Louis, Missouri.\u201d\nDuring the progress of the trial, the parties stipulated that master policies No. SAH-534 and G--2377 and the certificates issued thereunder were in full force and effect during the month of August, 1931. Hereafter, we shall deal with master policies and certificates issued thereunder separately.\nMaster policy SAH-534, which provides weekly indemnity for sick disability, contains the following clause:\n\u2018 \u2018 Immediate written notice, with full particulars and full name and address of the insured employee, shall be given by the employer to the company of any accident, injury or sickness for which claim shall be made.\u201d\nThis master policy was never in the possession of the insured. Appellee testified that he gave notice to his employer, the Missouri Pacific Railroad Company, of his disability under policy No. SAH-534 in October, 1931, but that he ivas denied blanks upon which to make his proof of disability.\nIt is especially noticeable that the certificate of insurance delivered to the insured contained no requirement of notice of disability. As we understand appellant\u2019s contention, it is to the effect that the insured was bound to take notice of the provisions of the master policy and give to appellant the notice required to be given by the employer.\nWe think the facts and circumstances in reference to liability under policy SAH-534 has been determined adversely to appellant\u2019s contention in the case of Missouri State Life Insurance Co. v. Johnson, 186 Ark. 519, 54 S. W. (2d) 407; in which we held:\n\u201cIt is true, as argued here, that he did not notify \u00e1ppellant of the accident and consequent injuries for about nineteen months, but he testified that his failure was due to the fact that the major policy requiring notice be given was not in his possession or subject to his inspection. The requirement for notice and proof of the injuries was not in the certificate delivered to him. When he obtained information that notice was required, he notified appellant.\u201d\nMoreover, the policy and certificate of insurance here under consideration does not by express terms or by necessary implication make the giving of notice a condition precedent to the right of recovery. Hope Spoke Company v. Maryland Casualty Co., 102 Ark. 1, 143 S. W. 85.\nIn addition to what we have just said, we are definitely committed to the doctrine under policies of insurance wherein the provision for notice is not made a condition precedent to the right of recovery that it is immaterial how and when the proof of disability is made, if within the statutory period of limitations. \u00c6tna Life Ins. Co. v. Davis, 187 Ark. 398, 60 S. W. (2d) 912.\nThe necessity for such rule of construction is made to appear more definitely when we consider that the class of risks usually insured under industrial contracts of insurance are people of little learning.\nAppellant also contends that the certificate of insurance was forfeited on September 1, 1931, because of nonpayment of premiums.\nThe rule is stated thus in 31 C. J. 967: \u201cIn view of the nature of industrial insurance and the class of people with whom the company mostly deals, the policy is liberally construed in favor of insured, and the courts give effect to slight circumstances in order to prevent a forfeiture based on provisions of the policy inserted for the company\u2019s benefit.\u201d\nWe are definitely committed to the doctrine that liability attaches under contracts of insurance similar to the one under consideration upon causation of the injury, and it necessarily follows from this that no subsequent act or acts of the parties can destroy the liability thus created. Notice was not made a condition precedent to the right of recovery under the certificate and policy here under consideration therefore a suit may be brought and maintained within the statutory period of limitations. Forfeitures cannot and should not be declared when the rights of parties have become vested, therefore the payment or nonpayment of premiums subsequent to causation of the injury is immaterial. We conclude therefore that the judgment in favor of appellee under policy S API-534 is right, and should be affirmed.\nAppellant contends that no liability attached under certificate No. 24,314 issued under master policy G--2377 until proof of disability was filed with the company, and approved by it showing appellee to have been disabled for a period of six consecutive months. In other words, the contention is, that liability did not attach on this certificate until six consecutive months\u2019 disability had elapsed, and that the payment of premiums during this six months \u2019 period was a condition precedent to the right of recovery. The jury has found under proper instruction, and, appellant tacitly admits, upon sufficient evidence that appellee was totally and permanently disabled prior to August 31,1931.\nConceding without deciding that the payment of premiums for six months subsequent to the causation of total and permanent disability is a condition precedent to the right of recovery, it avails appellant nothing here. The monthly premium on certificate 24,314 was sixty cents per month, and on September 1, 1931, when the premium should have been paid, appellant had in its possession sufficient funds belonging to appellee under policy SAH-534 to have paid this premium. We are committed to the doctrine that, as long as the insurer has funds in its possession belonging to the insured, such funds must be used to avoid a forfeiture. Illinois Bankers\u2019 Life Ins. Co. v. Wilken, 187 Ark. 337, 59 S. W. (2d) 1046; Security Life Ins. Co. v. Matthews, 178 Ark. 775, 12 S. W. (2d) 865; American Nat. Ins. Co. v. Mooney, 111 Ark. 514, 164 S. W. 276; Missouri State Life Ins. Co. v. Miller, 163 Ark. 480, 260 S. W. 705; Knights of Pythias of N. Amer. v. Sanders, 174 Ark. 279, 295 S. W. 25; Pfeiffer v. Mo. State Life Ins. Co., 174 Ark. 783, 297 S. W. 847.\nIt is earnestly contended on behalf of appellant that liability did not attach under policy G-2377 until proof of disability had been filed and approved by the company showing a total disability to have existed for six consecutive months. In support of this contention we are cited the recent case of Kingsland v. Mo. State Life Ins. Co., by the Kansas City Court of Appeals, wherein the court held, in effect, that six months total and permanent disability must exist during the lifetime of the master policy, and that this was a condition precedent to liability.\nThe case referred to is in direct conflict with the previous decisions of this court on this subject. We are irrevocably committed to the doctrine that, when liability attaches, no subsequent act of the parties will effect a forfeiture of the policy, unless the contract of insurance by definite and explicit terms so provides. We are unwilling to impair our previous decisions in deference to this opinion.\nWe are also cited in the case of Bergholm v. Peoria Life Ins. Co., 284 U. S. 489, 52 S. Ct. 230, in support of this contention. In the case referred to by plain and definite language the payment of premiums up to the filing of the proof of disability was made a condition precedent to the right of recovery. Such is not the effect of the language employed in the instant case.\nWe therefore conclude that no reversible error appears, and the judgment will be affirmed.\nJustices Smith and McHaney dissent.",
+        "type": "majority",
+        "author": "Johnson, C. J."
+      }
+    ],
+    "attorneys": [
+      "Allen May, Rose, Hemingway, Cantrell & Loughborough and A. D. DuLaney, for appellant.",
+      "Shaver, Shaver & Williams, Malcolm T. Garner, Sam T. Poe, Tom Poe and McDonald Poe, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Missouri State Life Insurance Company v. Foster.\n4-3399\nOpinion delivered March 26, 1934.\nAllen May, Rose, Hemingway, Cantrell & Loughborough and A. D. DuLaney, for appellant.\nShaver, Shaver & Williams, Malcolm T. Garner, Sam T. Poe, Tom Poe and McDonald Poe, for appellee."
+  },
+  "file_name": "1116-01",
+  "first_page_order": 1134,
+  "last_page_order": 1139
+}

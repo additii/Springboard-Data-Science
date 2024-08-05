@@ -1,0 +1,76 @@
+{
+  "id": 12462808,
+  "name": "King County, Respondent, v. Vinci Constr. Grands Projets et al., First Petitioners, Liberty Mut. Ins. Co. et al., Second Petitioners",
+  "name_abbreviation": "King County v. Vinci Constr. Grands Projets",
+  "decision_date": "2016-09-07",
+  "docket_number": "No. 92744-8",
+  "first_page": "1008",
+  "last_page": "1008",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "186 Wash. 2d 1008"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Wash.",
+    "id": 9029,
+    "name": "Washington Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 38,
+    "name_long": "Washington",
+    "name": "Wash."
+  },
+  "cites_to": [
+    {
+      "cite": "191 Wn. App. 142",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        12460945
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/191/0142-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 43,
+    "char_count": 377,
+    "ocr_confidence": 0.88,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.25765942338723224
+    },
+    "sha256": "49e00f9fb89062d84c09c527d9f6f279ae47c135a54863ece9a4131a75a33357",
+    "simhash": "1:40516a2c6f0bf1ad",
+    "word_count": 59
+  },
+  "last_updated": "2024-02-27T18:43:05.207238+00:00",
+  "provenance": {
+    "date_added": "2019-05-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "King County, Respondent, v. Vinci Constr. Grands Projets et al., First Petitioners, Liberty Mut. Ins. Co. et al., Second Petitioners,"
+    ],
+    "opinions": [
+      {
+        "text": "Petition for review of a decision of the Court of Appeals, No. 70432-0-I, November 9, 2015, 191 Wn. App. 142. First petitioners\u2019 petition for review denied and Second petitioners\u2019 petition for review granted on September 7, 2016.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "King County, Respondent, v. Vinci Constr. Grands Projets et al., First Petitioners, Liberty Mut. Ins. Co. et al., Second Petitioners,\nNo. 92744-8."
+  },
+  "file_name": "1008-03",
+  "first_page_order": 994,
+  "last_page_order": 994
+}

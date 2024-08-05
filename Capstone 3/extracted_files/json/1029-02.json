@@ -1,0 +1,76 @@
+{
+  "id": 12462971,
+  "name": "State, Respondent, v. Roussel, Petitioner",
+  "name_abbreviation": "State v. Roussel",
+  "decision_date": "2016-12-07",
+  "docket_number": "No. 93484-3",
+  "first_page": "1029",
+  "last_page": "1029",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "186 Wash. 2d 1029"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Wash.",
+    "id": 9029,
+    "name": "Washington Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 38,
+    "name_long": "Washington",
+    "name": "Wash."
+  },
+  "cites_to": [
+    {
+      "cite": "195 Wn. App. 1006",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        12454284,
+        12454285,
+        12454286
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/195/1006-01",
+        "/wash-app/195/1006-02",
+        "/wash-app/195/1006-03"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 30,
+    "char_count": 206,
+    "ocr_confidence": 0.858,
+    "sha256": "cc685c8287e446751e68cb3d2b0edecf02e2f4bdd0df166adad2e5ae7f9d9559",
+    "simhash": "1:33415ab371858df8",
+    "word_count": 33
+  },
+  "last_updated": "2024-02-27T18:43:05.207238+00:00",
+  "provenance": {
+    "date_added": "2019-05-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "State, Respondent, v. Roussel, Petitioner,"
+    ],
+    "opinions": [
+      {
+        "text": "Petition for review of a decision of the Court of Appeals, Nos. 46657-1-II and 48067-1-II, July 19, 2016, 195 Wn. App. 1006. Denied December 7, 2016.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "State, Respondent, v. Roussel, Petitioner,\nNo. 93484-3."
+  },
+  "file_name": "1029-02",
+  "first_page_order": 1015,
+  "last_page_order": 1015
+}

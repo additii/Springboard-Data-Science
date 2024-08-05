@@ -1,0 +1,74 @@
+{
+  "id": 1362252,
+  "name": "Caruthers v. Davis",
+  "name_abbreviation": "Caruthers v. Davis",
+  "decision_date": "1922-04-17",
+  "docket_number": "",
+  "first_page": "200",
+  "last_page": "202",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "153 Ark. 200"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [
+    {
+      "cite": "147 Ark. 605",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "weight": 2,
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 240,
+    "char_count": 3908,
+    "ocr_confidence": 0.477,
+    "pagerank": {
+      "raw": 4.89950402824256e-08,
+      "percentile": 0.30787103804121396
+    },
+    "sha256": "ed454b0d0f36cc3c392f80b0b384bdd7b9cae7c889686f42ba1c9ec574eadbb9",
+    "simhash": "1:226b49a52c4f8ae0",
+    "word_count": 670
+  },
+  "last_updated": "2024-02-27T17:45:17.236697+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Caruthers v. Davis."
+    ],
+    "opinions": [
+      {
+        "text": "Wood, J.\nThis action was brought by the appellant against James C. Davis, agent of the United States Government, and the Missouri Pacific Railroad Company to recover damages in connection with the shipment of certain household goods. It was alleged that James C. Davis as the agent of the United States government was in control and was operating the Missouri Pacific Railroad Company and the Yazoo & Mississippi Railroad Company, railroad corporations, and that, through the negligence of the defendants\u2019 agents and employees in a manner which is specifically set forth in the complaint, the damage was caused for which appellant seeks to recover.\nSummons was issued only against the Missouri Pacific Railroad'Company and was served, as shown by the return of the sheriff, as follows: \u201cI have this third day of October, 1921, duly served the within by delivering a true copy of the same to the within named Missouri Pacific Railroad Company through its agent, E. J. Wyeth, as herein commanded.\u201d\nThe following motion was filed: \u201cComes the Missouri Pacific Railroad Company and moves the court to dismiss this cause of action as to it, and shows the court that the cause of action set out in plaintiff\u2019s complaint occurred and accrued on the 12th day of December, 1919, at which time the Missouri Pacific Railroad Company was under the control of and was being operated by the Federal Government, and therefore plaintiff\u2019s cause of action, if any he has, is against the agent of the United States, as provided in the act of 1920, known as the Tiller Transportation Act.\u201d\nThe record contains the following order: \u201cNow on this day comes the defendant by attorney C. E. Daggett, Esq., and by leave of the court files motion to dismiss the cause, which said motion coming on to be heard and the court, being well and sufficiently advised, doth grant said motion, to which ruling of the court in dismissing said cause the plaintiff at the time excepted and asked that his exceptions be noted of record, which was done.\u201d\nThe appellant prosecutes his appeal from this order.\nIt will be observed that there is no final judgment dismissing the cause of action either against the Missouri Pacific Railroad Company or against the Director General, James C. Davis. The record entry of the final order from which the appeal is taken only shows that the motion to dismiss was granted. The motion itself shows that it was a motion made by the Missouri Pacific Railroad Company \u201cto dismiss this cause of action as to it.\u201d So, if the order of dismissal could be treated as a final judgment, it at most would be but a final judgment dismissing the cause as to the Missouri Pacific Railroad Company. That was all that was asked. in the motion and all that could be granted within the pleading.\nIt is not contended that the court erred in dismissing the complaint as to the Missouri Pacific Railroad Company. There is no other issue before us in any possible view of the record. The judgment therefore is correct, and it is affirmed.",
+        "type": "majority",
+        "author": "Wood, J."
+      }
+    ],
+    "attorneys": [
+      "A. D. Whitehead, for appellant.",
+      "Thos. B. Pryor and Daggett & Daggett, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Caruthers v. Davis.\nOpinion delivered April 17, 1922.\nDismissal and nonsuit \u2014 effect of order. \u2014 Where, in an action against a railroad company and a Federal agent, which accrued while the road was operated by the United States, an order sustaining a motion to dismiss as to the railroad company because the cause of action was against the Federal agent alone was no broader than the motion and operated as a dismissal as to the railroad company alone.\nAppeal from Phillips Circuit Court; J. M. Jackson, Judge;\naffirmed.\nA. D. Whitehead, for appellant.\nThe court erred in dismissing appellant\u2019s complaint as to Jas. C. Davis, agent, sec. 206, act of Congress 1920; 147 Ark. 605. Appellant\u2019s vested rights were not destroyed. 147 Ark. 605.\nThos. B. Pryor and Daggett & Daggett, for appellee.\nThe complaint should have been dismissed as to Jas. C. Davis. Mo. Pac. Bd. Co. v. Ault, 256 IT. S. 554."
+  },
+  "file_name": "0200-01",
+  "first_page_order": 228,
+  "last_page_order": 230
+}

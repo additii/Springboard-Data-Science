@@ -1,0 +1,76 @@
+{
+  "id": 12457114,
+  "name": "Kozol, Petitioner, v. Dep't of Corr., Respondent",
+  "name_abbreviation": "Kozol v. Dep't of Corr.",
+  "decision_date": "2016-06-29",
+  "docket_number": "No. 92792-8",
+  "first_page": "1034",
+  "last_page": "1034",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "185 Wash. 2d 1034"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Wash.",
+    "id": 9029,
+    "name": "Washington Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 38,
+    "name_long": "Washington",
+    "name": "Wash."
+  },
+  "cites_to": [
+    {
+      "cite": "192 Wn. App. 1",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        12456047
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/192/0001-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 28,
+    "char_count": 195,
+    "ocr_confidence": 0.896,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2574236953583008
+    },
+    "sha256": "ee0406210a49d946a3a469e8023b758c8e5a9687992c950a1b233c58308ae564",
+    "simhash": "1:95f9ce3a754d7f1b",
+    "word_count": 33
+  },
+  "last_updated": "2024-02-28T00:06:59.447104+00:00",
+  "provenance": {
+    "date_added": "2019-05-22",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Kozol, Petitioner, v. Dep\u2019t of Corr., Respondent,"
+    ],
+    "opinions": [
+      {
+        "text": "Petition for review of a decision of the Court of Appeals, No. 33163-6-III, December 1, 2015, 192 Wn. App. 1. Denied June 29, 2016.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Kozol, Petitioner, v. Dep\u2019t of Corr., Respondent,\nNo. 92792-8."
+  },
+  "file_name": "1034-02",
+  "first_page_order": 986,
+  "last_page_order": 986
+}

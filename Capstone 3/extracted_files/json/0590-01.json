@@ -1,0 +1,430 @@
+{
+  "id": 6793286,
+  "name": "Washington State Hospital Association, Respondent, v. The Department of Health, Appellant",
+  "name_abbreviation": "Washington State Hospital Ass'n v. Department of Health",
+  "decision_date": "2015-07-09",
+  "docket_number": "No. 90486-3",
+  "first_page": "590",
+  "last_page": "597",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "183 Wash. 2d 590"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Wash.",
+    "id": 9029,
+    "name": "Washington Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 38,
+    "name_long": "Washington",
+    "name": "Wash."
+  },
+  "cites_to": [
+    {
+      "cite": "239 P.3d 1095",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2010,
+      "pin_cites": [
+        {
+          "parenthetical": "second alteration in original"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "170 Wn.2d 43",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4012857
+      ],
+      "year": 2010,
+      "pin_cites": [
+        {
+          "page": "55",
+          "parenthetical": "second alteration in original"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/170/0043-01"
+      ]
+    },
+    {
+      "cite": "311 P.3d 6",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2013,
+      "pin_cites": [
+        {
+          "parenthetical": "alterations in original"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "178 Wn.2d 571",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4298466
+      ],
+      "year": 2013,
+      "pin_cites": [
+        {
+          "page": "580-81",
+          "parenthetical": "alterations in original"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/178/0571-01"
+      ]
+    },
+    {
+      "cite": "153 P.3d 846",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2007,
+      "opinion_index": 0
+    },
+    {
+      "cite": "159 Wn.2d 700",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        3592816
+      ],
+      "year": 2007,
+      "pin_cites": [
+        {
+          "page": "715"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/159/0700-01"
+      ]
+    },
+    {
+      "cite": "957 P.2d 1241",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1998,
+      "opinion_index": 0
+    },
+    {
+      "cite": "135 Wn.2d 582",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        812837
+      ],
+      "year": 1998,
+      "pin_cites": [
+        {
+          "page": "600"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/135/0582-01"
+      ]
+    },
+    {
+      "cite": "43 P.3d 4",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2002,
+      "pin_cites": [
+        {
+          "parenthetical": "quoting Dep't of Ecology v. Theodoratus, 135 Wn.2d 582, 600, 957 P.2d 1241 (1998)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "146 Wn.2d 1",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        960829
+      ],
+      "year": 2002,
+      "pin_cites": [
+        {
+          "page": "19",
+          "parenthetical": "quoting Dep't of Ecology v. Theodoratus, 135 Wn.2d 582, 600, 957 P.2d 1241 (1998)"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/146/0001-01"
+      ]
+    },
+    {
+      "cite": "62 P.3d 462",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2003,
+      "opinion_index": 0
+    },
+    {
+      "cite": "148 Wn.2d 637",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        609198
+      ],
+      "year": 2003,
+      "pin_cites": [
+        {
+          "page": "646"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/148/0637-01"
+      ]
+    },
+    {
+      "cite": "109 P.3d 816",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2005,
+      "opinion_index": 0
+    },
+    {
+      "cite": "154 Wn.2d 38",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        5629642
+      ],
+      "year": 2005,
+      "pin_cites": [
+        {
+          "page": "50"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/154/0038-01"
+      ]
+    },
+    {
+      "cite": "801 P.2d 212",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1990,
+      "opinion_index": 0
+    },
+    {
+      "cite": "115 Wn.2d 690",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1379093
+      ],
+      "year": 1990,
+      "pin_cites": [
+        {
+          "page": "702"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/115/0690-01"
+      ]
+    },
+    {
+      "cite": "833 P.2d 381",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1992,
+      "opinion_index": 0
+    },
+    {
+      "cite": "119 Wn.2d 504",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1370272
+      ],
+      "year": 1992,
+      "pin_cites": [
+        {
+          "page": "507"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/119/0504-01"
+      ]
+    },
+    {
+      "cite": "68 P.3d 282",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2003,
+      "pin_cites": [
+        {
+          "parenthetical": "citing City of Pasco v. Pub. Emp't Relations Comm'n, 119 Wn.2d 504, 507, 833 P.2d 381 (1992)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "149 Wn.2d 342",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1292581
+      ],
+      "year": 2003,
+      "pin_cites": [
+        {
+          "page": "346",
+          "parenthetical": "citing City of Pasco v. Pub. Emp't Relations Comm'n, 119 Wn.2d 504, 507, 833 P.2d 381 (1992)"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/149/0342-01"
+      ]
+    },
+    {
+      "cite": "752 P.2d 372",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1988,
+      "opinion_index": 0
+    },
+    {
+      "cite": "110 Wn.2d 308",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1182910
+      ],
+      "year": 1988,
+      "pin_cites": [
+        {
+          "page": "312"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/110/0308-01"
+      ]
+    },
+    {
+      "cite": "858 P.2d 494",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1993,
+      "pin_cites": [
+        {
+          "parenthetical": "citing Macey v. Dep't of Emp't Sec., 110 Wn.2d 308, 312, 752 P.2d 372 (1988)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "122 Wn.2d 397",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1363513
+      ],
+      "year": 1993,
+      "pin_cites": [
+        {
+          "page": "402",
+          "parenthetical": "citing Macey v. Dep't of Emp't Sec., 110 Wn.2d 308, 312, 752 P.2d 372 (1988)"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/122/0397-01"
+      ]
+    },
+    {
+      "cite": "187 P.3d 243",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2008,
+      "opinion_index": 0
+    },
+    {
+      "cite": "164 Wn.2d 95",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        3996579
+      ],
+      "year": 2008,
+      "pin_cites": [
+        {
+          "page": "100"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/164/0095-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 733,
+    "char_count": 12423,
+    "ocr_confidence": 0.752,
+    "pagerank": {
+      "raw": 7.110140323364945e-08,
+      "percentile": 0.4270080997000211
+    },
+    "sha256": "2e993a22ae1c83bd85afbca04402c3b9e8615017564f9cd38bba09e80e3d54ad",
+    "simhash": "1:39f0ae9ed9d689a8",
+    "word_count": 1975
+  },
+  "last_updated": "2024-02-27T22:09:01.011694+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Madsen, C.J., and Johnson, Owens, Faikhurst, Stephens, Wiggins, Gordon McCloud, and Yu, JJ., concur."
+    ],
+    "parties": [
+      "Washington State Hospital Association, Respondent, v. The Department of Health, Appellant."
+    ],
+    "opinions": [
+      {
+        "text": "Gonz\u00e1lez, J.\n\u00b61 Under Washington law, Department of Health approval is required for certain types of hospital ownership changes. We are asked today whether the department exceeded its authority when it, by rule, significantly expanded the types of ownership changes that require department approval. Finding that it did, we affirm.\nFacts\n\u00b62 The Washington Legislature enacted the certificate of need program in 1979 to \u201cpromote, maintain, and assure the health of all citizens in the state, provide accessible health services, health manpower, health facilities, and other resources while controlling increases in costs.\u201d RCW 70.38-.015(1). Under this program, those seeking to enter the health care market have long been required to establish there is a need for their services. See Univ. of Wash. Med. Ctr. v. Dep\u2019t of Health, 164 Wn.2d 95, 100, 187 P.3d 243 (2008). The department administers the certificate of need program and is authorized to adopt rules to implement the certificate of need statute. RCW 70.38.105(1), .135(3)(c).\n\u00b63 In 1984, the legislature adopted RCW 70.38.105(4)(b), which, in its current form, provides that certificate of need review is also triggered by\n[t]he sale, purchase, or lease of part or all of any existing hospital as defined in RCW 70.38.025 including, but not limited to, a hospital sold, purchased, or leased by a health maintenance organization or by a combination of health maintenance organizations except as provided in subsection (7)(b) of this section.\nThe terms \u201csale ,\u201d \u201cpurchase,\u201d and \u201clease\u201d are not defined in the statute.\n\u00b64 To assist parties in determining whether a certificate of need is required for a transaction, parties may \u201csubmit a written request to the certificate of need program requesting a formal determination of applicability of the certificate of need requirements to the action.\u201d WAC 246-310-050(1). The department\u2019s responses to those requests are \u201cbinding upon the department\u201d for that transaction. WAC 246-310--050(5). Since 1984, the department often ruled that a certificate of need is required for only \u201csale, purchase, or lease\u201d transactions, not other forms of changes of control. In one such ruling, the department stated certificate of need review is required for the sale, purchase, or lease of a hospital. The terms\n\u201cpurchase\u201d and \u201csale\u201d are not defined in either the [certificate of need] statute or rule. However in RCW 70.37 ... \u201cacquisition\u201d is defined to include acquiring by \u201cpurchase, merger, lease, joint venture, or otherwise.\u201d Therefore, its [sic] reasonable to assume that had the [certificate of need] law been intended to apply to mergers it would have specifically so stated. The department concludes that the [certificate of need] law was not intended to apply to merger transactions.\nClerk\u2019s Papers at 87. The department\u2019s interpretation of \u201csale, purchase, or lease,\u201d however, has not been uniform: the department issued several binding opinions that concluded \u201csale, purchase, or lease\u201d did not extend to other forms of change of control, but the department also reviewed six hospital related mergers through the certificate of need process between 1979 and 1989.\n\u00b65 On June 28, 2013, Governor Inslee, noting that the certificate of need process \u201chas not kept current with the changes in the health care delivery system,\u201d directed the department to\nconsider how the structure of affiliations, corporate restructuring, mergers, and other arrangements among health care facilities results in outcomes similar to the traditional methods of sales, purchasing, and leasing of hospitals, particularly when control of part or all of an existing hospital changes from one party to another.\nAdmin. Record (AR) at 1. The department initiated rule making on July 3, 2013. The department proposed an expansive rule defining \u201csale, purchase, or lease\u201d of part or all of any existing hospital as \u201cany transaction in which the control, either directly or indirectly, of part or all of any existing hospital changes to a different person including, but not limited to, by contract, affiliation, corporate membership restructuring, or any other transaction.\u201d Id. at 154 (underline omitted) (now codified at WAC 246-310-010(54)) (hereinafter New Rule). The department received over 1,000 comments on its proposal. In its response to the comments, the department explained that certificate of need review should be performed in relation to hospital transactions \u201cregardless of the terms used in the transactional documents.\u201d Id. at 1188. After considering the comments, the department adopted the New Rule as proposed.\n\u00b66 The Washington State Hospital Association (Association) is a not-for-profit corporation that advocates for its members on issues that affect health care. Its members include 98 Washington hospitals. The Association challenged the New Rule in Thurston County Superior Court, arguing, among other things, that the department exceeded its statutory authority in promulgating the New Rule. The trial court found that the department exceeded its statutory authority in promulgating the New Rule and invalidated it on that basis without reaching the Association\u2019s other arguments. The department appealed directly to this court. We granted review. Order, Wash. State Hosp. Ass\u2019n v. Dep\u2019t of Health, No. 90486-3 (Dec. 3, 2014).\nAnalysis\n\u00b67 Our review is de novo because \u201c[i]n reviewing administrative action, this court sits in the same position as the superior court.\u201d Tapper v. Emp\u2019t Sec. Dep\u2019t, 122 Wn.2d 397, 402, 858 P.2d 494 (1993) (citing Macey v. Dep\u2019t of Emp\u2019t Sec., 110 Wn.2d 308, 312, 752 P.2d 372 (1988)). We also review questions of statutory interpretation de novo. State v. Wentz, 149 Wn.2d 342, 346, 68 P.3d 282 (2003) (citing City of Pasco v. Pub. Emp\u2019t Relations Comm\u2019n, 119 Wn.2d 504, 507, 833 P.2d 381 (1992)).\n\u00b68 An agency\u2019s rules are presumed valid. St. Francis Extended Health Care v. Dep\u2019t of Soc. & Health Servs., 115 Wn.2d 690, 702, 801 P.2d 212 (1990). The Association bears the burden of proving that the New Rule is invalid. RCW 34.05.570(1)(a). The court may declare the New Rule invalid \u201conly if it finds that: The rule violates constitutional provisions; the rule exceeds the statutory authority of the agency; the rule was adopted without compliance with statutory rule-making procedures; or the rule is arbitrary and capricious.\u201d RCW 34.05.570(2)(c).\n\u00b69 We conclude the New Rule is invalid because it interprets terms in RCW 70.38.105(4)(b) in a manner that is too broad to be consistent with the statute. As we have recently summarized,\nAdministrative \u201c[r]ules must be written within the framework and policy of the applicable statutes,\u201d Dep\u2019t of Labor & Indus. v. Gongyin, 154 Wn.2d 38, 50, 109 P.3d 816 (2005), and so long as the rule is \u201creasonably consistent with the controlling statute [s],\u201d an agency does not exceed its statutory authority. Wash. Pub. Ports Ass\u2019n v. Dep\u2019t of Revenue, 148 Wn.2d 637, 646, 62 P.3d 462 (2003). However, \u201c \u2018[administrative rules or regulations cannot amend or change legislative enactments.\u2019 \u2019\u2019 Dep\u2019t of Ecology v. Campbell & Gwinn, LLC, 146 Wn.2d 1, 19, 43 P.3d 4 (2002) (quoting Dep\u2019t of Ecology v. Theodoratus, 135 Wn.2d 582, 600, 957 P.2d 1241 (1998)). Rules that are not consistent with the statutes that they implement are invalid. Bostain v. Food Express, Inc., 159 Wn.2d 700, 715, 153 P.3d 846 (2007).\nSwinomish Indian Tribal Cmty. v. Dep\u2019t of Ecology, 178 Wn.2d 571, 580-81, 311 P.3d 6 (2013) (alterations in original). The overriding purpose of the certificate of need program is to \u201c \u2018promote, maintain, and assure the health of all citizens in the state, [and] provide accessible health services, health manpower, [and] health facilities.\u2019 \u201d Overlake Hosp. Ass\u2019n v. Dep\u2019t of Health, 170 Wn.2d 43, 55, 239 P.3d 1095 (2010) (second alteration in original) (quoting RCW 70.38.015(1)). We acknowledge that the New Rule may further the purpose of the certificate of need program and that broad dictionary definitions of \u201csale\u201d and \u201cpurchase\u201d support the department\u2019s review of transactions beyond those that are described in the transactional documents as \u201csales,\u201d \u201cpurchases,\u201d or \u201cleases,\u201d such as mergers. The New Rule, however, interprets \u201csale, purchase, or lease\u201d in RCW 70.38.105(4)(b) to mean \u201cany transaction in which the control, either directly or indirectly, of part or all of any existing hospital changes to a different person,\u201d which encompasses much more than just mergers. WAC 246-310--010(54). As the Association correctly points out, the New Rule applies to any change of control because \u201c[a]n indirect change of control would include things like changes in the stock ownership of a publicly-held corporation, or a simple change in the composition of a board of directors managing the affairs of an entity.\u201d Corrected Answering Br. of Resp\u2019t Wash. State Hospital Ass\u2019n at 21. Hence, as one example of why the New Rule\u2019s interpretation of \u201csale, purchase, or lease\u201d is too broad, the New Rule requires that any change in the board of directors of a hospital is subject to certificate of need review, which is not consistent with RCW 70.38-,105(4)(b)\u2019s requirement that a \u201csale, purchase, or lease\u201d of part or all of a hospital is subject to certificate of need review. Accordingly, the New Rule interprets \u201csale, purchase, or lease\u201d in RCW 70.38.105(4)(b) in a manner that departs too far from the plain meaning of those terms. See Swinomish, 178 Wn.2d at 586-87; Bostain, 159 Wn.2d at 713, 715-16. Therefore, the department exceeded its scope of authority by promulgating the New Rule because the New Rule expands the meaning of terms in RCW 70.38.105(4)(b) in a manner that is not consistent with the statute.\nConclusion\n\u00b610 We hold that the department exceeded its statutory authority in promulgating the New Rule and the New Rule is consequentially invalid. Accordingly, we affirm.\nMadsen, C.J., and Johnson, Owens, Faikhurst, Stephens, Wiggins, Gordon McCloud, and Yu, JJ., concur.\n\u201cSale\u201d has been defined to mean \u201cthe act of selling: a contract transferring the absolute or general ownership of property from one person or corporate body to another for a price (as a sum of money or any other consideration).\u201d Webster\u2019s Third New International Dictionary 2003 (2002). \u201cPurchase\u201d has been defined to mean \u201cto get into one\u2019s possession ... by any means other than descent or inheritance,\u201d id. at 1844, and \u201c[t]he act or an instance of buying,\u201d Black\u2019s Law Dictionary 1429 (10th ed. 2014).\nThe department contends that the New Rule is not \u201cintended to reach these ancillary aspects of hospital administration.\u201d Reply Br. of Appellant at 8. Nonetheless, the New Rule does reach such aspects because, by its plain language, it applies to \u201cany transaction in which the control, either directly or indirectly, of part or all of any existing hospital changes to a different person.\u201d WAC 246-310-010(54).",
+        "type": "majority",
+        "author": "Gonz\u00e1lez, J."
+      }
+    ],
+    "attorneys": [
+      "Robert W. Ferguson, Attorney General, and Joyce A. Roper, Richard A. McCartan, and Laura J. Watson, Assistants, for appellant.",
+      "Douglas C. Ross, Bradley L. Fisher, and Rebecca J. Francis (of Davis Wright Tremaine LLP); and Barbara A. Shickich (of Riddell Williams PS), for respondent.",
+      "Michael F. Madden and Daniel A. Valladao on behalf of Washington Rural Health Association and Northwest Association of Nurse Executives, amici curiae.",
+      "Sarah M. Kwiatkowski and Daniel S. Gross on behalf of Northwest Health Law Advocates, Northwest Justice Project, Puget Sound Advocates for Retirement Action, and Washington Community Action Network, amici curiae.",
+      "Carson Flora and Dmitri L. Iglitzin on behalf of Washington State Nurses Association, UFCW 21, and SEIU Healthcare 1199NW, amici curiae.",
+      "Molly A. Terwilliger and Nancy L. Talner on behalf of American Civil Liberties Union of Washington, Legal Voice, Mergerwatch, Planned Parenthood Votes Northwest, and Compassion & Choices of Washington, amici curiae.",
+      "Bradley J. Berg, Lori Nomura, and Lee R. Marchisio on behalf of Association of Washington Public Hospital Districts, amicus curiae.",
+      "Gregory M. Miller, Justin P. Wade, and Melissa J. Cunningham on behalf of Washington State Medical Association, Washington Chapter of American College of Emergency Physicians, and Washington State Radiological Society, amici curiae."
+    ],
+    "corrections": "",
+    "head_matter": "[No. 90486-3.\nEn Banc.]\nArgued May 26, 2015.\nDecided July 9, 2015.\nWashington State Hospital Association, Respondent, v. The Department of Health, Appellant.\nRobert W. Ferguson, Attorney General, and Joyce A. Roper, Richard A. McCartan, and Laura J. Watson, Assistants, for appellant.\nDouglas C. Ross, Bradley L. Fisher, and Rebecca J. Francis (of Davis Wright Tremaine LLP); and Barbara A. Shickich (of Riddell Williams PS), for respondent.\nMichael F. Madden and Daniel A. Valladao on behalf of Washington Rural Health Association and Northwest Association of Nurse Executives, amici curiae.\nSarah M. Kwiatkowski and Daniel S. Gross on behalf of Northwest Health Law Advocates, Northwest Justice Project, Puget Sound Advocates for Retirement Action, and Washington Community Action Network, amici curiae.\nCarson Flora and Dmitri L. Iglitzin on behalf of Washington State Nurses Association, UFCW 21, and SEIU Healthcare 1199NW, amici curiae.\nMolly A. Terwilliger and Nancy L. Talner on behalf of American Civil Liberties Union of Washington, Legal Voice, Mergerwatch, Planned Parenthood Votes Northwest, and Compassion & Choices of Washington, amici curiae.\nBradley J. Berg, Lori Nomura, and Lee R. Marchisio on behalf of Association of Washington Public Hospital Districts, amicus curiae.\nGregory M. Miller, Justin P. Wade, and Melissa J. Cunningham on behalf of Washington State Medical Association, Washington Chapter of American College of Emergency Physicians, and Washington State Radiological Society, amici curiae."
+  },
+  "file_name": "0590-01",
+  "first_page_order": 644,
+  "last_page_order": 651
+}

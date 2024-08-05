@@ -1,0 +1,76 @@
+{
+  "id": 12462963,
+  "name": "State, Respondent, v. Gaines, Petitioner",
+  "name_abbreviation": "State v. Gaines",
+  "decision_date": "2016-12-07",
+  "docket_number": "No. 93464-9",
+  "first_page": "1028",
+  "last_page": "1028",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "186 Wash. 2d 1028"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Wash.",
+    "id": 9029,
+    "name": "Washington Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 38,
+    "name_long": "Washington",
+    "name": "Wash."
+  },
+  "cites_to": [
+    {
+      "cite": "194 Wn. App. 892",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        12451676
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/194/0892-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 27,
+    "char_count": 187,
+    "ocr_confidence": 0.846,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.25766811115242627
+    },
+    "sha256": "9dcdd7e21c9bff62df4f18fe5334927b52d846fb9715de804ae0db6c4e9fe11a",
+    "simhash": "1:09798c3313097d11",
+    "word_count": 31
+  },
+  "last_updated": "2024-02-27T18:43:05.207238+00:00",
+  "provenance": {
+    "date_added": "2019-05-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "State, Respondent, v. Gaines, Petitioner,"
+    ],
+    "opinions": [
+      {
+        "text": "Petition for review of a decision of the Court of Appeals, No. 46352-1-II, July 6, 2016, 194 Wn. App. 892. Denied December 7, 2016.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "State, Respondent, v. Gaines, Petitioner,\nNo. 93464-9."
+  },
+  "file_name": "1028-02",
+  "first_page_order": 1014,
+  "last_page_order": 1014
+}

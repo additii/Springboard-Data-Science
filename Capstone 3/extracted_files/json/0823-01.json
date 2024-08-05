@@ -1,0 +1,64 @@
+{
+  "id": 1432056,
+  "name": "Wasson v. Evans",
+  "name_abbreviation": "Wasson v. Evans",
+  "decision_date": "1933-07-03",
+  "docket_number": "4-3060",
+  "first_page": "823",
+  "last_page": "824",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "187 Ark. 823"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 183,
+    "char_count": 2158,
+    "ocr_confidence": 0.485,
+    "sha256": "8bf69b0c79eae8118d14e60efe4ad5d818ecbfffb025624ad64df3465afdd61d",
+    "simhash": "1:96ca9c835eafaced",
+    "word_count": 374
+  },
+  "last_updated": "2023-07-14T19:49:01.606684+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Kirby, J., dissents."
+    ],
+    "parties": [
+      "Wasson v. Evans."
+    ],
+    "opinions": [
+      {
+        "text": "McHaney, J.\nOn October 30 and 31, 1930, appellee deposited the proceeds of 'certain insurance policies on the life of her husband in the North Arkansas Bank at Batesville, either for collection and remittance, as contended by her, or as a general deposit. Said bank was found to be insolvent, and was taken over for liquidation by the State Bank Commissioner on November 15, 1930. On or about February 27, 1931, appellee filed her claim as a common creditor of the bank, and same was allowed. On October 28, 1932, she filed this action to have her claim classified and allowed as a prior or preferred one. The Bank Commissioner interposed the plea, among others, that the claim for preference was barred by the statute of limitations \u00a7 5, act 627, of the Acts of 1923, which is as follows: \u201cNo claim shall be allowed unless proof thereof has been presented to the Commissioner within one year from date on which Commissioner takes over the assets of the liquidated bank. * * # If the Commissioner doubts the justice or the validity of any claim, he may reject the same and serve notice of such, rejection upon the claimant either by depositing the same in the mail or personally. * * * An action upon a claim so rejected must be brought within six months after such notice.\u2019\u2019 \u2019 The trial court allowed the claim as a preferred one, and the Bank Commissioner has appealed.\nWe agree with appellant that the statute constitutes a bar to the reclassification of the claim. The allowanee of the claim on February 27, 1931, as a common one was tantamount to its disallowance as a preferred one. Appellee was advised by the Bank Commissioner that he could not allow it as a prior or preferred claim. Clearly she was required under the above statute to bring her action to establish it within six months from its dis-allowance. She did not do so, but waited for more than a year after the six months had expired to file her action thereon.\nReversed and remanded with directions to dismiss the action on the claim for preference.\nKirby, J., dissents.",
+        "type": "majority",
+        "author": "McHaney, J."
+      }
+    ],
+    "attorneys": [
+      "J. Paul Ward, for appellant",
+      "Coleman & Reeder, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Wasson v. Evans.\n4-3060\nOpinion delivered July 3, 1933.\nJ. Paul Ward, for appellant\nColeman & Reeder, for appellee."
+  },
+  "file_name": "0823-01",
+  "first_page_order": 843,
+  "last_page_order": 844
+}

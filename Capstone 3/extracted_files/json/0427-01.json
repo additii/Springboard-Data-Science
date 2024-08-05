@@ -1,0 +1,85 @@
+{
+  "id": 8722371,
+  "name": "Nelson v. Parrish",
+  "name_abbreviation": "Nelson v. Parrish",
+  "decision_date": "1932-10-31",
+  "docket_number": "4-2843",
+  "first_page": "427",
+  "last_page": "428",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "186 Ark. 427"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [
+    {
+      "cite": "206 S. W. 131",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "136 Ark. 217",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1569985
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/136/0217-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 237,
+    "char_count": 3213,
+    "ocr_confidence": 0.539,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.20854459082363488
+    },
+    "sha256": "e841d0dfe6bf361f65f283561c4e88f89834b0b7726f6221f7e95e5d24cc6458",
+    "simhash": "1:90ff556aa00d1f67",
+    "word_count": 548
+  },
+  "last_updated": "2024-02-27T17:52:01.123529+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Nelson v. Parrish."
+    ],
+    "opinions": [
+      {
+        "text": "Humphreys, J.\nOn August 31, 1932, appellant brought suit in the circuit court of Poinsett County contesting the certificate of nomination of appellee by the Democratic party for the office of senator for the 29th senatorial district, composed of the counties of Poinsett, Mississippi and Jackson, alleging that the entire vote of Poinsett County was void because there was no certified list of voters .prepared according to law, and that more than 2,236 people were permitted to vote without having purchased a poll tax receipt, and whose names did not appear upon any kind of list, and that no poll tax receipts or certified copies thereof were attached to the ballots, and no separate list kept by judges and clerks as required by law; and also alleging that there were certain illegal votes cast in Mississippi and Jackson counties, and that, if the illegal votes in the several counties were cast out, the result would be changed, so that appellant would receive a plurality of all legal votes cast in the district.\nAppellant offered to amend his complaint so as to set out the names of the voters in Mississippi and Jackson counties that be alleged voted illegally, which request was refused hy the court.\nSeveral motions and special demurrers were filed by appellee, which it is unnecessary to set out or refer to in this opinion as the trial court sustained the general demurrer to the complaint, and dismissed it on the sole ground that the contest should have been filed within ten days after appellee was certified as the nominee of the Democratic party.\nThe trial court was in error in thus construing \u00a7 3772' of Crawford & Moses\u2019 Digest, specifying the time in which contests in primary elections must he commenced. Said section provides, in part, that: \u2018 \u2018 The complaint * * * shall he filed within ten days of the certification complained of, if the complaint is against the certification in one county, and within twenty days if against the certification in more than one county.\u201d The contest in the instant case is against the total vote of the entire district, composed of three counties, and not against the total vote cast in one county. The purport and gist of the complaint was to change the total vote in the entire district so that the contestant might receive a plurality of the entire vote in senatorial district 29, composed of three counties. Under the rule of liberal construction applied to the primary election laws in this State, set out in the case of Logan v. Russell, 136 Ark. 217, 206 S. W. 131, the correct interpretation is to allow a contestant for an office in a district composed of more than one county 20 days from the date of certification in which to file his complaint.\nThe trial court should have permitted appellant to amend his complaint. Wilson v. Cardwell, ante p. 261.\nOn account of the errors indicated, the judgment is reversed, and the cause is remanded with directions to allow the requested amendment, and to proceed with the trial of the cause upon its merits.",
+        "type": "majority",
+        "author": "Humphreys, J."
+      }
+    ],
+    "attorneys": [
+      "Boy Nelson, J. J. Mardis and Harrison, Smith & Taylor, for appellant.",
+      "I. M. Greer, A. B. Gaplinger and June P. Wooten, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Nelson v. Parrish.\n4-2843\nOpinion delivered October 31, 1932.\nBoy Nelson, J. J. Mardis and Harrison, Smith & Taylor, for appellant.\nI. M. Greer, A. B. Gaplinger and June P. Wooten, for appellee."
+  },
+  "file_name": "0427-01",
+  "first_page_order": 447,
+  "last_page_order": 448
+}

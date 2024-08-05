@@ -1,0 +1,176 @@
+{
+  "id": 1432116,
+  "name": "Futrall v. McKennon",
+  "name_abbreviation": "Futrall v. McKennon",
+  "decision_date": "1933-05-08",
+  "docket_number": "4-2945",
+  "first_page": "374",
+  "last_page": "379",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "187 Ark. 374"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [
+    {
+      "cite": "70 A. L. R. 241",
+      "category": "reporters:specialty",
+      "reporter": "A.L.R.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "55 S. Dak. 538",
+      "category": "reporters:state",
+      "reporter": "S.D.",
+      "case_ids": [
+        4655846
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/sd/55/0538-01"
+      ]
+    },
+    {
+      "cite": "32 S. W. (2d) 177",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "182 Ark. 569",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1389734
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/182/0569-01"
+      ]
+    },
+    {
+      "cite": "261 S. W. 913",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "164 Ark. 371",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1382173
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/164/0371-01"
+      ]
+    },
+    {
+      "cite": "150 S. W. 117",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "115 Ark. 44",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1533796
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/115/0044-01"
+      ]
+    },
+    {
+      "cite": "210 S. W. 43",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "138 Ark. 38",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1566941
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/138/0038-01"
+      ]
+    },
+    {
+      "cite": "154 S. W. 512",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "107 Ark. 232",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1344047
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/107/0232-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 536,
+    "char_count": 10549,
+    "ocr_confidence": 0.512,
+    "pagerank": {
+      "raw": 9.694955265294465e-08,
+      "percentile": 0.5296339670768451
+    },
+    "sha256": "aa4f4dfc666a8c24c5234ba89fee2339e641a64babdcc4f24259b80876778eff",
+    "simhash": "1:715f9affc2609d24",
+    "word_count": 1861
+  },
+  "last_updated": "2024-02-27T21:18:50.990705+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Futrall v. McKennon."
+    ],
+    "opinions": [
+      {
+        "text": "Smith, J.\nWhen the receiver, appointed for that purpose, took over the National Bank of Arkansas, of Pine Bluff, for liquidation, he found, among its assets, a note dated February 14, 1930, executed by C. R. McKennon & Son to the order of Walter C. Hudson, who had been president of the- bank. Hudson had sold the note to the bank for its face value, less a discount of six per cent, to its due date, and had received credit on his deposit for the proceeds of the note. The receiver demanded payment of the note, but the makers refused to pay unless a certain credit was allowed, which, being refused, resulted in this suit.\nTwo defenses were interposed, the first being that, the president of the bank having full knowledge of the circumstances under which and the consideration for which the note had been executed, the bank was bound by his knowledge. This defense passed out of the case under the authority of Bank of Hartford v. McDonald, 107 Ark. 232, 154 S. W. 512, where it was held that, when an officer of a bank is individually interested in a note, his knowledge concerning it is not to be imputed to the bank, when his acts conflict with the interests of the bank.\nThe note was transferred by Hudson to the bank by delivery and without indorsement, and the second defense, which was predicated upon that fact, is this: Hudson rented his farm to McKennon & Son for the year 1930 for $1,500. Under the rental contract, which constituted the consideration for the note, it was agreed that the tenants should have credit for necessary repairs, including damage done by fire. Hudson advised his tenants that the buildings on the farm were insured against loss by fire, and directed that he be notified if such loss occurred. Two buildings burned, and Hudson was advised of that fact, and directed his tenants to rebuild them. This was done, and the cost thereof, with certain smaller items for repairs, constitute the credits which the makers of the note demanded be allowed before paying the balance due on the note.\nThere was a finding for defendants, and judgment accordingly, and for the reversal thereof it is insisted that this defense is not available against a transferee of the note. No other question is presented for decision.\nIt was held in the case of Funk v. Young, 138 Ark. 38, 210 S. W. 43, that a receiver of an insolvent bank is not an innocent purchaser of its notes, and takes them subject to any equities that could be asserted against the baiik itself.\nTo decide the question stated, it is necessary to consider certain sections of the Uniform Negotiable Instruments Act, approved February 21, 1913 (Acts 1913, page 260), appearing as parts of the chapter on Negotiable Instruments in Crawford & Moses' Digest.\nBy \u00a7 7796 of this chapter, it is provided that an instrument, if payable to order, is negotiated by the indorsement of the holder completed by delivery; and $ 7797 of the same chapter provides that the indorsement must be written on the instrument itself or upon a paper attached thereto.\nSection 7815 of this chapter reads as follows: \u201cWhere the holder of an instrument payable to his order transfers it for value without indorsing it, the transfer vests in the transferee such title as the transferor had therein, and the transferee acquires, in addition, the right to have the indorsement of the transferor. But for the purpose of determining whether the transferee' is a holder in due course, the negotiation takes effect as of the time when the indorsement is actually made.\u201d\nSection 7824 of the same chapter reads as follows: \u201cIn the hands of any holder other than a holder in due course, a negotiable instrument is subject to the same defenses as if it were non.-negotiable. But a holder who derives his title through a holder in due course, and who is not himself a party to any fraud or illegality affecting the instrument, has all the rights of such former holder in respect of all parties prior to the latter.\u201d\nIt was held in the case of Harrison v. Morgan-Curry Co., 115 Ark. 44, 150 S. W. 117, that one who takes a negotiable note payable to order by delivery merely, but without written indorsement, is not an innocent purchaser, and takes the note subject to all equities existing between the original parties. This holding was reaffirmed in the case of Johnson v. T. M. Dover Merc. Co., 164 Ark. 371, 261 S. W. 913, and the later case of Shultz Construction Co. v. Crawford County Bank, 182 Ark. 569, 32 S. W. (2d) 177.\nAppellant argues, for the reversal of the judgment appealed from, that the doctrine of set-off was unknown to the common law, and that no provision is made therefor in the Negotiable Instruments Law in effect in this State, and that our set-off statute has no relation to suits on promissory notes except where there exists some inherent defect in the note itself, and that, as the makers could not maintain an independent action by separate suit against a transferee of the note for their claim for the expenditures for the repairs, they cannot, in a suit on the note against them by the transferee, set np these expenditures by way of a set-off.\nWe do not concur in this view. Act 267 of the Acts of 1917 (vol. 2, Acts 1917, page 1441) is the most comprehensive legislation on the subject of counterclaim and set-off of which we have any knowledge. It is there provided that a counterclaim \u201cmay be any cause of action in favor of the defendants, or some of them, against the plaintiffs, or some of them,\u201d and that \u201cA set-off may be pleaded in any action for the recovery of money, and may be a cause of action arising either upon contract or tort.\u201d\nWe think this statute is sufficiently broad to admit a defense against one, not being the holder of a note in due course, that there were credits which should be applied against the note.\nAppellant cites as sustaining his position the case of Harris v. Esterbrook, decided by the Supreme Court of South Dakota and reported in 55 S. Dak. 538, 226 N. W. 751, and which, he says, is on all fours with the instant case. This is a well-considered case, and is followed by an extensive annotation in 70 A. L. R. 241.\nIn the case just cited a bank sold the note of a depositor, payable to its order, to the purchaser by delivery and without written indorsement. After the bank had been taken over by the State Superintendent of Banks for liquidation, its transferee sued the maker of the note, who sought to set off against the note the amount of his deposit in the bank on the day it closed its doors. The opinion refers to several sections of the Uniform Negotiable Instruments Act of that.State which are identical with our own, but it quotes also \u00a7 2307, Rev. Code 1919, of that State, which reads as follows: \u201cIn case of an assignment of a thing in action, the action by the assignee shall be without prejudice to any set-off or other defense existing at the time of, or before notice of, the assignment; but this section shall not apply to a negotiable promissory note, or bill of exchange, transferred in good faith, and upon good consideration, before due.\u201d We have no statute containing any such limitation on set-offs or counterclaims.\nReferring to the manner in which the note had 'been transferred, the court there said: \u201cIt is also well established that such a transferee, whether his title be legal or equitable, takes title subject to equities and defenses. The apparent unanimity on this point is as marked as the lack of unanimity as to the time when such equities and defenses may accrue.\u201d\nThe opinion recites that on the day the note matured the maker had on deposit with the bank more than sufficient funds to pay the note, 'but it is recited also that he did not use the deposit for that purpose. The opinion recites that the maker\u2019s balance on the date the bank sold the note was only $7.94, but it was said: \u201cIt is not necessary therefore to decide whether the $7.94 was a valid set-off between appellant [purchaser] and respondent [maker]; because the deposit balance on the day of transfer was entirely withdrawn.\u201d The- opinion had quoted cases holding that \u201cthe defense of set-off or counterclaim which is available to a debtor as against an assignee of a creditor must have existed as a present right when the assignment was made,\u201d and construed \u00a7 49 of the Negotiable Instruments Law of that State, which is identical with \u00a7 7815, Crawford & Moses\u2019 Digest, as meaning that \u201c* * * the set-off that may be interposed against a negotiable promissory note transferred without indorsement, in good faith, and for value, must be a set-off which existed as a present right when the transfer was made.\u201d\nThe effect of the decision in that case is that, there being no right of set-off at the time of the transfer, that right could not subsequently be acquired.\nCertain cases are cited by appellant which apparently support his contention, but a careful analysis of them discloses the fact that they originated in States having statutes which impose limitations on the right of counterclaim and set-off somewhat similar to those at common law, which do not prevail in this State, and for this reason we do not review them.\nThe annotator\u2019s note to this South Dakota case contains a declaration of law, in support of which many cases are cited, reading as follows: '\u201c The cases seem to be unanimous in holding that a set-off or counterclaim between the maker and the payee of a negotiable instrument is available against one not a holder in due course, where the set-off or counterclaim arose out of the same transaction as the instrument itself and existed at the time of the transfer by the payee.\u201d\nThis declaration of the law is itself decisive of this case. The consideration for the note here in suit was.the rental contract between Hudson and C. R. McKennon & Son, and this contract was that the McKennons should pay, as rent, the sum of $1,500, less the cost of repairs. It is true these repairs had not been made when the note was executed, but- it is true also that it was executed in contemplation that such repairs would be made and that the cost thereof would be credited on the note. The credit claimed arose out of the same transaction as the note itself, and the right thereto, when the repairs had been made, existed at the time of the transfer of the note to the bank.\nThe credit was therefore properly allowed, and the judgment allowing it is affirmed.",
+        "type": "majority",
+        "author": "Smith, J."
+      }
+    ],
+    "attorneys": [
+      "Harry T. Wooldridge, for appellant.",
+      "I. N. Moore and Henry W. Smith, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Futrall v. McKennon.\n4-2945\nOpinion delivered May 8, 1933.\nHarry T. Wooldridge, for appellant.\nI. N. Moore and Henry W. Smith, for appellee."
+  },
+  "file_name": "0374-01",
+  "first_page_order": 394,
+  "last_page_order": 399
+}

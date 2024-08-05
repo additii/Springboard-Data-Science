@@ -1,0 +1,187 @@
+{
+  "id": 1432073,
+  "name": "Whitted v. State",
+  "name_abbreviation": "Whitted v. State",
+  "decision_date": "1933-04-10",
+  "docket_number": "Crim. 3833",
+  "first_page": "285",
+  "last_page": "288",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "187 Ark. 285"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [
+    {
+      "cite": "196 S. W. 477",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "130 Ark. 48",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        8717658
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/130/0048-01"
+      ]
+    },
+    {
+      "cite": "15 S. W. 360",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "54 Ark. 227",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1320361
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/54/0227-01"
+      ]
+    },
+    {
+      "cite": "2 S. W. 190",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "48 Ark. 34",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1887781
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/48/0034-01"
+      ]
+    },
+    {
+      "cite": "241 Pac. 913",
+      "category": "reporters:state_regional",
+      "reporter": "P.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "75 Cal. App. 109",
+      "category": "reporters:state",
+      "reporter": "Cal. App.",
+      "case_ids": [
+        2163780
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app/75/0109-01"
+      ]
+    },
+    {
+      "cite": "239 Pac. 705",
+      "category": "reporters:state_regional",
+      "reporter": "P.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "74 Cal. App. 138",
+      "category": "reporters:state",
+      "reporter": "Cal. App.",
+      "case_ids": [
+        2165297
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app/74/0138-01"
+      ]
+    },
+    {
+      "cite": "15 Ga. 264",
+      "category": "reporters:state",
+      "reporter": "Ga.",
+      "case_ids": [
+        1377947
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ga/15/0264-01"
+      ]
+    },
+    {
+      "cite": "8 S. W. 836",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "50 Ark. 528",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        8724155
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/50/0528-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 334,
+    "char_count": 5034,
+    "ocr_confidence": 0.527,
+    "pagerank": {
+      "raw": 1.0591449339671072e-07,
+      "percentile": 0.5560924594445468
+    },
+    "sha256": "6bb300fe9f7db0f91d929b541cd63aae57e55b38e1f5f64b15f07fc63a839a50",
+    "simhash": "1:8145a97fc847b836",
+    "word_count": 877
+  },
+  "last_updated": "2024-02-27T21:18:50.990705+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Whitted v. State."
+    ],
+    "opinions": [
+      {
+        "text": "McHaney, J.\nAppellants were indicted charged with robbery of the Eice Growers\u2019 Bank, of Wheatley, Arkansas, and in a separate indictment were charged with burglary in that, on the same day they were charged with the robbery, \u201ca certain house there situated and being used and possessed by the Eice Growers\u2019 Bank, a corporation, feloniously did break and enter, with the felonious and burglarious intent then and there to commit the crime of robbery, \u2019 \u2019 etc. They were tried and acquitted of the crime of robbery. Later they were put on trial'under the indictment for burglary, whereupon they filed a plea of former acquittal on the charge of robbery in bar of the action. The State demurred to the plea, which was sustained by the court, and they went to trial on a plea of not guilty, were convicted and sentenced to two years in the penitentiary.\nThe only question presented by this appeal is one of law, whether the plea of former acquittal, or former jeopardy, should have been sustained.\nUnder \u00a7 3016, Crawford & Moses\u2019 Digest, the offenses of robbery and burglary may be charged in one indictment, and the pleader in this case might have drawn one indictment of two counts so charging appellants. Burglary is defined by act 67, Acts 1927, p. 69, \u00a7 2, as follows: \u201cBurglary is the unlawful entering a house, tenement, railway car or other building, boat, vessel or water craft with the intent to commit a felony.\u201d Whereas \u201crobbery is the felonious and violent taking of any goods, money or other valuable thing from the person of another by force or intimidation; the manner of the force or the mode of intimidation is not material, further than it may show the intent of the offender.\u201d Section 2410, Crawford & Moses\u2019 Digest. It will be seen from these definitions that the offenses are entirely distinct and separate. A person might be guilty of robbing a bank without being guilty of burglary, and also he might unlawfully enter a bank building with the intent to rob the bank, and still not be guilty of robbery. The rule is thus stated in 16 C. J. 272: \u201cOn the other hand, there are many adjudications to the effect that, if two offenses grow out of the same transaction, and such offenses are severable and distinct, a prosecution for one will not bar a prosecution for the other. Thus a single act may be an offense against two statutes; and if each statute requires proof of an additional fact which the other does not, an acquittal or a conviction under either statute does not exempt defendant from prosecution and punishment under the other. \u201d Our own case of Fox v. State, 50 Ark. 528, 8 S. W. 836, is cited to support the text. In that case the court held that a plea of an acquittal on a charge of robbing one Everidge was a bar to a prosecution on another indictment for the false imprisonment of Everidge, for the reason that both indictments referred to the same assault on Everidge, and, having been acquitted of robbery, he could not be convicted of false imprisonment, which is a species of aggravated assault without again being tried for the simple assault of which he was acquitted, and which .was embraced in the charge of robbery. In that case, Judge Cockrill, speaking for the court, said: \u201cWhere one unlawful act operates on several objects, there may be several offenses committed and so several prosecutions for the same criminal transaction, and an acquittal or conviction for one such offense will not bar a prosecution for the other\u201d \u2014 citing cases. \u201cBut where there is but one object, and each offense charged is a degree or an essential ingredient of the other, as in this case, there can be but one prosecution.\u201d Also in 16 C. J. 273, it is said: \u201cAmong other illustrations, in the following cases a conviction or an acquittal of the crime first enumerated was held no bar to a prosecution for that coupled with it, although both were involved in the same transaction; robbery and burglary in the same transaction; burglary and receiving stolen goods; embezzlement and false pretenses.\u201d See also Copenhave v. State, 15 Ga. 264; People v. Snyder, 74 Cal. App. 138, 239 Pac. 705; People v. Brain, 75 Cal. App. 109, 241 Pac. 913.\nThis court has many times held that a plea of former acquittal will be denied unless- it affirmatively appears that the -charge in the case where the plea is interposed is the same offense as that for which the defendant has already been acquitted. State v. Blahut, 48 Ark. 34, 2 S. W. 190; Evans v. State, 54 Ark. 227, 15 S. W. 360; Turner v. State, 130 Ark. 48, 196 S. W. 477. Since, as we have already seen, the offenses charged against appellants were separate and distinct offenses, defined by separate and distinct statutes, and not dependent upon the same evidence to support conviction, the plea of former acquittal is not good, and was properly denied.\nAffirmed.",
+        "type": "majority",
+        "author": "McHaney, J."
+      }
+    ],
+    "attorneys": [
+      "A. M. Bradford and S. S. Hargraves, for appellant.",
+      "Hal L. Norwood, Attorney General, and Robert F. Smith, Assistant, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Whitted v. State.\nCrim. 3833\nOpinion delivered April 10, 1933.\nA. M. Bradford and S. S. Hargraves, for appellant.\nHal L. Norwood, Attorney General, and Robert F. Smith, Assistant, for appellee."
+  },
+  "file_name": "0285-01",
+  "first_page_order": 305,
+  "last_page_order": 308
+}

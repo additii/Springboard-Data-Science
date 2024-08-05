@@ -1,0 +1,78 @@
+{
+  "id": 12462905,
+  "name": "Woolcott, Petitioner, v. City of Seattle, Respondent",
+  "name_abbreviation": "Woolcott v. City of Seattle",
+  "decision_date": "2016-11-02",
+  "docket_number": "No. 93332-4",
+  "first_page": "1020",
+  "last_page": "1020",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "186 Wash. 2d 1020"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Wash.",
+    "id": 9029,
+    "name": "Washington Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 38,
+    "name_long": "Washington",
+    "name": "Wash."
+  },
+  "cites_to": [
+    {
+      "cite": "194 Wn. App. 1009",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        12451712,
+        12451709,
+        12451710,
+        12451711
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/194/1009-04",
+        "/wash-app/194/1009-01",
+        "/wash-app/194/1009-02",
+        "/wash-app/194/1009-03"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 28,
+    "char_count": 199,
+    "ocr_confidence": 0.867,
+    "sha256": "1748b922aba9143f4cfb01a01a0d73b7b970a68a20d99607ebb8ddfa070c0ec0",
+    "simhash": "1:5531890a98616461",
+    "word_count": 33
+  },
+  "last_updated": "2024-02-27T18:43:05.207238+00:00",
+  "provenance": {
+    "date_added": "2019-05-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Woolcott, Petitioner, v. City of Seattle, Respondent,"
+    ],
+    "opinions": [
+      {
+        "text": "Petition for review of a decision of the Court of Appeals, No. 73514-4-I, May 23, 2016, 194 Wn. App. 1009. Denied November 2, 2016.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Woolcott, Petitioner, v. City of Seattle, Respondent,\nNo. 93332-4."
+  },
+  "file_name": "1020-07",
+  "first_page_order": 1006,
+  "last_page_order": 1006
+}

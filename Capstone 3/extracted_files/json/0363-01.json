@@ -1,0 +1,1218 @@
+{
+  "id": 12456836,
+  "name": "John Doe A et al., Respondents, v. The Washington State Patrol et al., Appellants; John Doe C et al., Respondents, v. The Washington Association of Sheriffs and Police Chiefs, Defendant, Donna Zink, Appellant",
+  "name_abbreviation": "Doe v. Washington State Patrol",
+  "decision_date": "2016-04-07",
+  "docket_number": "No. 90413-8",
+  "first_page": "363",
+  "last_page": "404",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "185 Wash. 2d 363"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Wash.",
+    "id": 9029,
+    "name": "Washington Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 38,
+    "name_long": "Washington",
+    "name": "Wash."
+  },
+  "cites_to": [
+    {
+      "cite": "329 P.2d 841",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1958,
+      "pin_cites": [
+        {
+          "parenthetical": "holding that a statute calling the bar association an \"agency of the state\" did not use \"agency\" in the same sense as in a separate unrelated statute regarding audits of state agencies"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "52 Wn.2d 856",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1008384
+      ],
+      "year": 1958,
+      "pin_cites": [
+        {
+          "page": "863",
+          "parenthetical": "holding that a statute calling the bar association an \"agency of the state\" did not use \"agency\" in the same sense as in a separate unrelated statute regarding audits of state agencies"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/52/0856-01"
+      ]
+    },
+    {
+      "cite": "548 P.2d 310",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1976,
+      "pin_cites": [
+        {
+          "parenthetical": "quoting State ex rel. Tattersall v. Yelle, 52 Wn.2d 856, 863, 329 P.2d 841 (1958) (holding that a statute calling the bar association an \"agency of the state\" did not use \"agency\" in the same sense as in a separate unrelated statute regarding audits of state agencies)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "86 Wn.2d 624",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1117383
+      ],
+      "year": 1976,
+      "pin_cites": [
+        {
+          "page": "626",
+          "parenthetical": "quoting State ex rel. Tattersall v. Yelle, 52 Wn.2d 856, 863, 329 P.2d 841 (1958) (holding that a statute calling the bar association an \"agency of the state\" did not use \"agency\" in the same sense as in a separate unrelated statute regarding audits of state agencies)"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/86/0624-01"
+      ]
+    },
+    {
+      "cite": "640 P.2d 716",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1982,
+      "opinion_index": 0
+    },
+    {
+      "cite": "97 Wn.2d 30",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1154995
+      ],
+      "year": 1982,
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/97/0030-01"
+      ]
+    },
+    {
+      "cite": "Alaska Stat. \u00a7 18.65.087",
+      "category": "laws:leg_statute",
+      "reporter": "Alaska Stat.",
+      "weight": 14,
+      "pin_cites": [
+        {
+          "page": "(b)"
+        },
+        {
+          "page": "105-06"
+        },
+        {
+          "page": "19-22"
+        },
+        {
+          "page": "742"
+        },
+        {
+          "page": "743"
+        },
+        {
+          "page": "742"
+        },
+        {
+          "page": "739"
+        },
+        {
+          "page": "757"
+        },
+        {
+          "page": "1646"
+        },
+        {
+          "page": "1608"
+        },
+        {
+          "page": "1619"
+        },
+        {
+          "page": "1591-93",
+          "parenthetical": "Ex. G"
+        },
+        {
+          "page": "262"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "1994 Alaska Sess. Laws 41",
+      "category": "laws:leg_session",
+      "reporter": "Alaska Sess. Laws",
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "89"
+        },
+        {
+          "page": "90"
+        },
+        {
+          "page": "91",
+          "parenthetical": "some alterations in original"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "538 U.S. 84",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        9030411
+      ],
+      "weight": 3,
+      "year": 2003,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/538/0084-01"
+      ]
+    },
+    {
+      "cite": "869 P.2d 1062",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1994,
+      "opinion_index": 0
+    },
+    {
+      "cite": "123 Wn.2d 488",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        812777
+      ],
+      "year": 1994,
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/123/0488-01"
+      ]
+    },
+    {
+      "cite": "156 P.3d 185",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2007,
+      "opinion_index": 0
+    },
+    {
+      "cite": "160 Wn.2d 32",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        3631153
+      ],
+      "year": 2007,
+      "pin_cites": [
+        {
+          "page": "41"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/160/0032-01"
+      ]
+    },
+    {
+      "cite": "963 P.2d 869",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1998,
+      "pin_cites": [
+        {
+          "parenthetical": "\"The general purpose of the exemptions to the Act's broad mandate of disclosure is to exempt from public inspection those categories of public records most capable of causing substantial damage to the privacy rights of citizens . . . .\""
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "136 Wn.2d 595",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        867944
+      ],
+      "year": 1998,
+      "pin_cites": [
+        {
+          "page": "607",
+          "parenthetical": "\"The general purpose of the exemptions to the Act's broad mandate of disclosure is to exempt from public inspection those categories of public records most capable of causing substantial damage to the privacy rights of citizens . . . .\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/136/0595-01"
+      ]
+    },
+    {
+      "cite": "47 C.F.R. \u00a7 0.459",
+      "category": "laws:admin_compilation",
+      "reporter": "C.F.R.",
+      "weight": 5,
+      "pin_cites": [
+        {
+          "page": "(a)(1)"
+        },
+        {
+          "page": "660"
+        },
+        {
+          "page": "660-61"
+        },
+        {
+          "page": "(a)(1)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "343 P.3d 370",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2014,
+      "opinion_index": 0
+    },
+    {
+      "cite": "184 Wn. App. 649",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        4364953
+      ],
+      "year": 2014,
+      "pin_cites": [
+        {
+          "page": "653-54"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/184/0649-01"
+      ]
+    },
+    {
+      "cite": "326 P.3d 688",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2014,
+      "opinion_index": 0
+    },
+    {
+      "cite": "180 Wn.2d 515",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4241750
+      ],
+      "year": 2014,
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/180/0515-01"
+      ]
+    },
+    {
+      "cite": "15 U.S.C. \u00a7 6802",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "pin_cites": [
+        {
+          "page": "(c)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "16 C.F.R. \u00a7 313.11",
+      "category": "laws:admin_compilation",
+      "reporter": "C.F.R.",
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "(c)"
+        },
+        {
+          "page": "429-30"
+        },
+        {
+          "page": "426"
+        },
+        {
+          "page": "(c)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "93 P.3d 195",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2004,
+      "pin_cites": [
+        {
+          "parenthetical": "\"chapter 13.50 RCW is an 'other statute' that 'exempts or prohibits' disclosure of particular documents to particular people\""
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "122 Wn. App. 84",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        499798
+      ],
+      "year": 2004,
+      "pin_cites": [
+        {
+          "page": "92",
+          "parenthetical": "\"chapter 13.50 RCW is an 'other statute' that 'exempts or prohibits' disclosure of particular documents to particular people\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/122/0084-01"
+      ]
+    },
+    {
+      "cite": "309 P.3d 662",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2013,
+      "opinion_index": 0
+    },
+    {
+      "cite": "176 Wn. App. 585",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        4271051
+      ],
+      "weight": 2,
+      "year": 2013,
+      "pin_cites": [
+        {
+          "page": "597"
+        },
+        {
+          "page": "595"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/176/0585-01"
+      ]
+    },
+    {
+      "cite": "350 P.3d 660",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2015,
+      "opinion_index": 0
+    },
+    {
+      "cite": "187 Wn. App. 606",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        4235658
+      ],
+      "weight": 2,
+      "year": 2015,
+      "pin_cites": [
+        {
+          "page": "623"
+        },
+        {
+          "page": "624-25"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/187/0606-01"
+      ]
+    },
+    {
+      "cite": "717 P.2d 1353",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "weight": 3,
+      "year": 1986,
+      "opinion_index": 0
+    },
+    {
+      "cite": "105 Wn.2d 606",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1199216
+      ],
+      "year": 1986,
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/105/0606-01"
+      ]
+    },
+    {
+      "cite": "791 P.2d 526",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1990,
+      "opinion_index": 0
+    },
+    {
+      "cite": "114 Wn.2d 788",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1169954
+      ],
+      "year": 1990,
+      "pin_cites": [
+        {
+          "page": "800"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/114/0788-01"
+      ]
+    },
+    {
+      "cite": "90 P.3d 26",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2004,
+      "pin_cites": [
+        {
+          "parenthetical": "attorney-client privilege is an \"other statute\" under what is now RCW 42.56.070(1) (formerly RCW 42.17.260 (1997))"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "151 Wn.2d 439",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        428166
+      ],
+      "year": 2004,
+      "pin_cites": [
+        {
+          "page": "453",
+          "parenthetical": "attorney-client privilege is an \"other statute\" under what is now RCW 42.56.070(1) (formerly RCW 42.17.260 (1997))"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/151/0439-01"
+      ]
+    },
+    {
+      "cite": "15 U.S.C. \u00a7\u00a7 6801-6809",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "weight": 2,
+      "opinion_index": 0
+    },
+    {
+      "cite": "241 P.3d 1245",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2010,
+      "pin_cites": [
+        {
+          "parenthetical": "Ameriquest I"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "170 Wn.2d 418",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4012912
+      ],
+      "year": 2010,
+      "pin_cites": [
+        {
+          "page": "439-40",
+          "parenthetical": "Ameriquest I"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/170/0418-01"
+      ]
+    },
+    {
+      "cite": "343 P.3d 335",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2014,
+      "opinion_index": 0
+    },
+    {
+      "cite": "182 Wn.2d 87",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4076172
+      ],
+      "year": 2014,
+      "pin_cites": [
+        {
+          "page": "93"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/182/0087-01"
+      ]
+    },
+    {
+      "cite": "580 P.2d 246",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1978,
+      "opinion_index": 0
+    },
+    {
+      "cite": "90 Wn.2d 123",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1104348
+      ],
+      "year": 1978,
+      "pin_cites": [
+        {
+          "page": "127"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/90/0123-01"
+      ]
+    },
+    {
+      "cite": "845 P.2d 995",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1993,
+      "opinion_index": 0
+    },
+    {
+      "cite": "120 Wn.2d 782",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1368172
+      ],
+      "year": 1993,
+      "pin_cites": [
+        {
+          "page": "788"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/120/0782-01"
+      ]
+    },
+    {
+      "cite": "341 P.3d 284",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2015,
+      "pin_cites": [
+        {
+          "parenthetical": "questions of statutory interpretation reviewed de novo"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "182 Wn.2d 447",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4075871
+      ],
+      "year": 2015,
+      "pin_cites": [
+        {
+          "page": "453",
+          "parenthetical": "questions of statutory interpretation reviewed de novo"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/182/0447-01"
+      ]
+    },
+    {
+      "cite": "884 P.2d 592",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1994,
+      "pin_cites": [
+        {
+          "parenthetical": "PAWS II"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "125 Wn.2d 243",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        437224
+      ],
+      "year": 1994,
+      "pin_cites": [
+        {
+          "page": "252-53",
+          "parenthetical": "PAWS II"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/125/0243-01"
+      ]
+    },
+    {
+      "cite": "161 P.3d 428",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2007,
+      "pin_cites": [
+        {
+          "parenthetical": "citing Progressive Animal Welfare Soc'y v. Univ. of Wash., 125 Wn.2d 243, 252-53, 884 P.2d 592 (1994) (PAWS II) (plurality opinion)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "139 Wn. App. 433",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        3833078
+      ],
+      "year": 2007,
+      "pin_cites": [
+        {
+          "page": "441-42",
+          "parenthetical": "citing Progressive Animal Welfare Soc'y v. Univ. of Wash., 125 Wn.2d 243, 252-53, 884 P.2d 592 (1994) (PAWS II) (plurality opinion)"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/139/0433-01"
+      ]
+    },
+    {
+      "cite": "300 P.3d 799",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2013,
+      "pin_cites": [
+        {
+          "parenthetical": "Ameriquest II"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "177 Wn.2d 467",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4131636
+      ],
+      "year": 2013,
+      "pin_cites": [
+        {
+          "page": "486-87",
+          "parenthetical": "Ameriquest II"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/177/0467-01"
+      ]
+    },
+    {
+      "cite": "769 P.2d 283",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1989,
+      "opinion_index": 0
+    },
+    {
+      "cite": "112 Wn.2d 30",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1175495
+      ],
+      "year": 1989,
+      "pin_cites": [
+        {
+          "page": "34-35"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/112/0030-01"
+      ]
+    },
+    {
+      "cite": "958 P.2d 260",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1998,
+      "opinion_index": 0
+    },
+    {
+      "cite": "135 Wn.2d 734",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        812838
+      ],
+      "year": 1998,
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/135/0734-01"
+      ]
+    },
+    {
+      "cite": "239 P.3d 354",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "weight": 3,
+      "year": 2010,
+      "pin_cites": [
+        {
+          "parenthetical": "\"Had [the Sex Offender Policy Board's] recommendations been adopted, our decision on whether RCW 4.24.550 is an 'other statute' under the PRA would likely be different.''"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "169 Wn.2d 815",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4010698
+      ],
+      "year": 2010,
+      "pin_cites": [
+        {
+          "page": "823"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/169/0815-01"
+      ]
+    },
+    {
+      "cite": "272 P.3d 816",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2012,
+      "opinion_index": 1
+    },
+    {
+      "cite": "173 Wn.2d 727",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4019836
+      ],
+      "year": 2012,
+      "pin_cites": [
+        {
+          "page": "733"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/173/0727-01"
+      ]
+    },
+    {
+      "cite": "749 P.2d 154",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1988,
+      "opinion_index": 1
+    },
+    {
+      "cite": "109 Wn.2d 913",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1186032
+      ],
+      "year": 1988,
+      "pin_cites": [
+        {
+          "page": "918"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/109/0913-01"
+      ]
+    },
+    {
+      "cite": "111 P.3d 1173",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2005,
+      "opinion_index": 1
+    },
+    {
+      "cite": "154 Wn.2d 345",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        5629475
+      ],
+      "year": 2005,
+      "pin_cites": [
+        {
+          "page": "350"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/154/0345-01"
+      ]
+    },
+    {
+      "cite": "951 P.2d 770",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1998,
+      "opinion_index": 1
+    },
+    {
+      "cite": "134 Wn.2d 523",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        452291
+      ],
+      "year": 1998,
+      "pin_cites": [
+        {
+          "page": "542"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/134/0523-01"
+      ]
+    },
+    {
+      "cite": "93 P.3d 195",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2004,
+      "opinion_index": 1
+    },
+    {
+      "cite": "122 Wn. App. 84",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        499798
+      ],
+      "weight": 2,
+      "year": 2004,
+      "pin_cites": [
+        {
+          "page": "92"
+        },
+        {
+          "page": "92",
+          "parenthetical": "\"[b]ecause [the 'other statute' at issue] contains an alternative means of requesting and seeking... records that balances and protects the privacy needs of the [affected persons], we find no conflict\""
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-app/122/0084-01"
+      ]
+    },
+    {
+      "cite": "309 P.3d 662",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2013,
+      "opinion_index": 1
+    },
+    {
+      "cite": "176 Wn. App. 585",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        4271051
+      ],
+      "year": 2013,
+      "pin_cites": [
+        {
+          "page": "597"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-app/176/0585-01"
+      ]
+    },
+    {
+      "cite": "350 P.3d 660",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2015,
+      "opinion_index": 1
+    },
+    {
+      "cite": "187 Wn. App. 606",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        4235658
+      ],
+      "year": 2015,
+      "pin_cites": [
+        {
+          "page": "623"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-app/187/0606-01"
+      ]
+    },
+    {
+      "cite": "90 P.3d 26",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2004,
+      "opinion_index": 1
+    },
+    {
+      "cite": "151 Wn.2d 439",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        428166
+      ],
+      "year": 2004,
+      "pin_cites": [
+        {
+          "page": "452-53"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/151/0439-01"
+      ]
+    },
+    {
+      "cite": "241 P.3d 1245",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2010,
+      "pin_cites": [
+        {
+          "parenthetical": "Ameriquest I"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "170 Wn.2d 418",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4012912
+      ],
+      "year": 2010,
+      "pin_cites": [
+        {
+          "page": "424",
+          "parenthetical": "Ameriquest I"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/170/0418-01"
+      ]
+    },
+    {
+      "cite": "884 P.2d 592",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1994,
+      "pin_cites": [
+        {
+          "parenthetical": "PAWS"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "125 Wn.2d 243",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        437224
+      ],
+      "year": 1994,
+      "pin_cites": [
+        {
+          "page": "258",
+          "parenthetical": "PAWS"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/125/0243-01"
+      ]
+    },
+    {
+      "cite": "300 P.3d 799",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "weight": 2,
+      "year": 2013,
+      "pin_cites": [
+        {
+          "parenthetical": "Ameriquest II"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "177 Wn.2d 467",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4131636
+      ],
+      "year": 2013,
+      "pin_cites": [
+        {
+          "page": "486-87",
+          "parenthetical": "Ameriquest II"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/177/0467-01"
+      ]
+    },
+    {
+      "cite": "769 P.2d 283",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1989,
+      "opinion_index": 1
+    },
+    {
+      "cite": "112 Wn.2d 30",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1175495
+      ],
+      "year": 1989,
+      "pin_cites": [
+        {
+          "page": "36"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/112/0030-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 2139,
+    "char_count": 78169,
+    "ocr_confidence": 0.885,
+    "pagerank": {
+      "raw": 1.6756991129269433e-07,
+      "percentile": 0.696678261937279
+    },
+    "sha256": "0a3b83168728821f942285334427f5e55842f25b8ab9a273b6faa2827b5d6f51",
+    "simhash": "1:16b2c1b08c32fd8e",
+    "word_count": 12470
+  },
+  "last_updated": "2024-02-28T00:06:59.447104+00:00",
+  "provenance": {
+    "date_added": "2019-05-22",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Johnson, Owens, Fairhurst, Stephens, Gonz\u00e1lez, and Yu, JJ., concur.",
+      "Wiggins, J., concurs with Gordon McCloud, J."
+    ],
+    "parties": [
+      "John Doe A et al., Respondents, v. The Washington State Patrol et al., Appellants. John Doe C et al., Respondents, v. The Washington Association of Sheriffs and Police Chiefs, Defendant, Donna Zink, Appellant."
+    ],
+    "opinions": [
+      {
+        "text": "Madsen, C.J.\n\u00b61 At issue is whether RCW 4.24.550, a community notification statute relating to registered sex offenders, constitutes an \u201cother statute\u201d under the Public Records Act (PRA), chapter 42.56 RCW, that would exempt the blanket release of level I sex offender registration information from a PRA request. Appellant Donna Zink made several public records requests with the Washington State Patrol (WSP) and the Washington Association of Sheriffs and Police Chiefs (WASPC) for documents pertaining to level I registered sex offenders. Both the WSP and WASPC intended to grant her request, but the WASPC notified several of the John Does that their records had been requested. The John Does in turn filed suit to enjoin production of the records. The trial court granted the injunction. We granted direct review and now reverse the trial court. We hold that RCW 4.24.550, and specifically RCW 4.24.550(3)(a), is not an \u201cother statute\u201d exemption under RCW 42.56.070(1) of the PRA.\nFACTS\n\u00b62 Appellant Zink, a Washington resident, submitted three public records requests relating to sex offender registration information. The first request sought a copy of the WSP\u2019s \u201cSex and Kidnapping Offender Database.\u201d The second request sought e-mail correspondence between the WSP and Benton County for a specific period. The responsive records included an extract of the Sex and Kidnapping Offender Database. The third request was to the WASPC for sex offender registration forms pertaining to offenders with a last name beginning with the letter \u201cA\u201d and sex offender registration files pertaining to offenders with a last name beginning with the letter \u201cB.\u201d Both the WSP and WASPC were prepared to release the records to Zink. However, before doing so, the WASPC notified affected level I sex offenders\u2014those classified as the least likely to reoffend\u2014that their records had been requested and that it intended to fulfill the request absent a court order enjoining it from doing so.\n\u00b63 These level I offenders, the John Does, filed two different class action lawsuits seeking to enjoin disclosure of their records to Zink. One lawsuit named the WSP and Zink as defendants. The other named the WASPC as the defendant and Zink as the \u201cRequestor.\u201d Clerk\u2019s Papers at 1641. The trial court consolidated the lawsuits.\n\u00b64 The John Does sought a declaratory ruling that level I sex offender registration records are exempt from disclosure under the PRA because an \u201cother statute\u201d governs such requests. They also sought a permanent injunction to bar the blanket release of level I sex offender registration information. The John Does argued that RCW 4.24.550, the community protection act, which authorizes an agency\u2019s public dissemination of information regarding registered sex offenders, was an \u201cother statute\u201d under the PRA, thus exempting the records from production. The trial court granted the John Does\u2019 motion for summary judgment and permanent injunction. The court issued a declaratory ruling stating that \u201clevel I sex offender registration records are exempt from disclosure under [the PRA because] . . . RCW 4.24.550 provides the exclusive mechanism for public disclosure of sex offender registration records.\u201d Id. at 568. It further ruled that the\nWSP and WASPC may disclose \u201crelevant and necessary\u201d level I sex offender records in response to a request under RCW 4.24.550 by a member of the general public, after considering in good faith the offender\u2019s risk classification, the places where the offender resides or is expected to be found, and the need of the requestor to protect individual and community safety.\nId. at 568-69. The trial court clarified its injunctive order and ruled that \u201csex offender records\u201d are\nthe source documents submitted by local law enforcement agencies to the WSP, the WSP\u2019s Sex and Kidnapping Offender Registration Database (database), any extracts from the database, and names of the class members in emails, to or from employees of the WSP\u2019s Criminal Records Division, that relate to a source document or the database.\nId. at 628.\n\u00b65 Zink and the WSP appealed directly to this court. The WASPC filed a brief supporting direct review. This court granted direct review, and we now reverse the trial court. We hold that RCW 4.24.550 is not an \u201cother statute\u201d under the PRA and that the records should have been released to Zink. We also hold that under the PRA and Confederated Tribes of Chehalis Reservation v. Johnson, 135 Wn.2d 734, 958 P.2d 260 (1998), Zink is not entitled to attorney fees, costs, or penalties.\nANALYSIS\nStandard of Review\n\u00b66 When an agency intends to release records to a requester under the PRA, an interested third party\u2014to whom the records specifically pertain\u2014may seek to enjoin disclosure. RCW 42.56.540; Spokane Police Guild v. Liquor Control Bd., 112 Wn.2d 30, 34-35, 769 P.2d 283 (1989). In an action brought under the injunction statute, RCW 42.56-.540, the party seeking to prevent disclosure, here the John Does, bears the burden of proof. Ameriquest Mortg. Co. v. Office of Att\u2019y Gen., 177 Wn.2d 467, 486-87, 300 P.3d 799 (2013) (Ameriquest II). We review actions under the PRA and the injunction statute de novo. RCW 42.56.550(3); Spokane Police Guild, 112 Wn.2d at 35. \u201cWhere the record consists only of affidavits, memoranda of law, other documentary evidence, and where the trial court has not seen or heard testimony requiring it to assess the witnesses\u2019 credibility or competency, we . . . stand in the same position as the trial court.\u201d Dragonslayer, Inc. v. Wash. State Gambling Comm\u2019n, 139 Wn. App. 433, 441-42, 161 P.3d 428 (2007) (citing Progressive Animal Welfare Soc\u2019y v. Univ. of Wash., 125 Wn.2d 243, 252-53, 884 P.2d 592 (1994) (PAWS II) (plurality opinion)). Furthermore, whether RCW 4.24.550 is an \u201cother statute\u201d for purposes of the PRA is a question of law that this court reviews de novo. See Henne v. City of Yakima, 182 Wn.2d 447, 453, 341 P.3d 284 (2015) (questions of statutory interpretation reviewed de novo).\nThe PRA and RCW 4.24.550\n\u00b67 In 1972, the people enacted the PRA, formerly chapter 42.17 RCW, by initiative. Dawson v. Daly, 120 Wn.2d 782, 788, 845 P.2d 995 (1993). The public records portion was recodified at chapter 42.56 RCW. It is a \u201cstrongly worded mandate for broad disclosure of public records.\u201d Hearst Corp. v. Hoppe, 90 Wn.2d 123, 127, 580 P.2d 246 (1978). The PRA\u2019s primary purpose is to foster governmental transparency and accountability by making public records available to Washington\u2019s citizens. See City of Lakewood v. Koenig, 182 Wn.2d 87, 93, 343 P.3d 335 (2014). The text of the PRA directs that it be \u201cliberally construed and its exemptions narrowly construed ... to assure that the public interest will be fully protected.\u201d RCW 42.56.030. We therefore start from the presumption that a state agency has \u201can affirmative duty to disclose public records.\u201d Spokane Police Guild, 112 Wn.2d at 36.\n\u00b68 Despite the PRA\u2019s presumption of openness and transparency, the legislature has made certain public records exempt from production. Some of these exemptions are contained within the PRA itself. See, e.g., RCW 42.56-.210-.480 (listing specific exemptions). RCW 42.56.070(1) addresses exemptions contained elsewhere. In relevant part, it states that each agency \u201cshall make available for public inspection and copying all public records, unless the record falls within the specific exemptions of . . . this chapter, or other statute which exempts or prohibits disclosure of specific information or records.\u201d RCW 42.56.070(1). An \u201cother statute\u201d that exempts disclosure does not need to expressly address the PRA, but it must expressly prohibit or exempt the release of records. See, e.g., Ameriquest Mortg. Co. v. Office of Att\u2019y Gen., 170 Wn.2d 418, 439-40, 241 P.3d 1245 (2010) (Ameriquest I) (federal Gramm-Leach-Bliley Act, 15 U.S.C. \u00a7\u00a7 6801-6809, an \u201cother statute\u201d exempting covered information from PRA disclosure); Hangartner v. City of Seattle, 151 Wn.2d 439, 453, 90 P.3d 26 (2004) (attorney-client privilege is an \u201cother statute\u201d under what is now RCW 42.56.070(1) (formerly RCW 42.17.260 (1997))).\n\u00b69 The \u201cother statute\u201d exemption \u201capplies only to those exemptions explicitly identified in other statutes; its language does not allow a court \u2018to imply exemptions but only allows specific exemptions to stand\u2019.\u201d PAWS II, 125 Wn.2d at 262 (quoting Brouillet v. Cowles Publ\u2019g Co., 114 Wn.2d 788, 800, 791 P.2d 526 (1990)). In PAWS II, we noted that the legislature made it very clear, following our holding in In re Rosier, 105 Wn.2d 606, 717 P.2d 1353 (1986), that it did not want this court creating exemptions where there were none. PAWS II, 125 Wn.2d at 258-59.\n\u00b6 10 In Rosier, this court interpreted a portion of the PRA to imply a general personal privacy exemption. 105 Wn.2d at 611-14. The legislature responded swiftly by explicitly overruling Rosier and amending what is now RCW 42.56-.070 to include the \u201cother statute\u201d exemption. PAWS II, 125 Wn.2d at 258-59; Laws of 1987, ch. 403, \u00a7\u00a7 1, 3. In rejecting a broad reading of the PRA\u2019s injunction statute, former RCW 42.17.330 (2005) (now RCW 42.56.540), in PAWS II, we said that it did not\nmake sense to imagine the legislature believed judges would be better custodians of open-ended exemptions because they lack the self-interest of agencies. The legislature\u2019s response to our opinion in Rosier makes clear that it does not want judges any more than agencies to be wielding broad and mal[l]eable exemptions. The legislature did not intend to entrust to . . . judges the [power to imply] extremely broad and protean exemptions ....\n125 Wn.2d at 259-60. Therefore, if the exemption is not found within the PRA itself, we will find an \u201cother statute\u201d exemption only when the legislature has made it explicitly clear that a specific record, or portions of it, is exempt or otherwise prohibited from production in response to a public records request. The primary issue here is whether RCW 4.24.550, specifically RCW 4.24.550(3)(a), is an \u201cother statute\u201d under the PRA, which would exempt the blanket release of level I sex offender registration information in response to a public records request.\n\u00b611 From its inception, RCW 4.24.550 has promoted the release of information. In 1990, the legislature found that \u201c[o]verly restrictive confidentiality and liability laws governing the release of information about sexual predators [had] reduced willingness to release information that could be appropriately released under the public disclosure laws, and [had] increased risks to public safety,\u201d and passed the community protection act. Laws of 1990, ch. 3, \u00a7 116 (finding attached to RCW 4.24.550; see Code Reviser\u2019s notes). The legislature titled the first part of the act \u201cCommunity Notification.\u201d Laws of 1990, ch. 3. Section 117 of that chapter became codified as RCW 4.24.550. The statute provides authorization, guidance, and immunity to law enforcement agencies when proactively disseminating information about felony sex and kidnapping offenders to the public. Subsection (1) of the statute identifies the type of offender to whom the statute applies, and authorizes agencies to proactively disseminate information to the public regarding these offenders \u201cwhen the agency determines that disclosure of the information is relevant and necessary to protect the public and counteract the danger created by the particular offender.\u201d RCW 4.24.550(1). The extent of what is \u201crelevant and necessary\u201d is \u201crelated to: (a) The level of risk posed by the offender to the community; (b) the locations where the offender resides, expects to reside, or is regularly found; and (c) the needs of the affected community members for information to enhance their individual and collective safety.\u201d RCW 4.24.550(2). Subsection (5) addresses what must be posted to a public website created and maintained by the WASPC. RCW 4.24.550(5). For offenders classified at risk levels II and III, and level I when they are out of compliance with registration requirements, \u201cthe web site shall contain, but is not limited to, the registered sex offender\u2019s name, relevant criminal convictions, address by hundred block, physical description, and photograph.\u201d Id. The website will be searchable by county, name, zip code, and address by hundred block; it will also provide mapping capabilities. Id. The statute also provides immunity for officials and agencies \u201cfor any discretionary risk level classification decisions or release of relevant and necessary information\u201d unless bad faith is shown, and \u201cfor failing to release information authorized under this section.\u201d RCW 4.24.550(7), (8). Especially relevant to this case, subsection (9) states that \u201c[n]othing in this section implies that information regarding [sex offenders] is confidential except as may otherwise be provided by law.\u201d\n\u00b612 Subsection (3) sets forth guidelines an agency shall consider in determining the extent of what it chooses to disclose. RCW 4.24.550(3)(a), in particular, brings us to the core of this case. It reads:\nFor offenders classified as risk level I, the agency shall share information with other appropriate law enforcement agencies and, if the offender is a student, the public or private school regulated under Title 28A RCW or chapter 72.40 RCW which the offender is attending, or planning to attend. The agency may disclose, upon request, relevant, necessary, and accurate information to any victim or witness to the offense and to any individual community member who lives near the residence where the offender resides, expects to reside, or is regularly found.[]\nRCW 4.24.550(3)(a). The John Does urge this court to read the \u201cupon request\u201d language of the statute to apply to a public records request, and by implication make RCW 4.24.550 the exclusive mechanism for producing sex offender records, exempting level I sex offender registration records from disclosure. We must now decide whether the \u201cupon request\u201d language, taken within the context of the statute as a whole, demonstrates a legislative intent to explicitly exempt certain sex offender records from production.\n\u00b613 Our review of Washington case law shows that courts consistently find a statute to be an \u201cother statute\u201d when the plain language of the statute makes it clear that a record, or portions thereof, is exempt from production. Recently, in Planned Parenthood of Great Northwest v. Bloedow, 187 Wn. App. 606, 623, 350 P.3d 660 (2015), the Court of Appeals held that RCW 43.70.050(2) was an \u201cother statute\u201d exempting the disclosure of Department of Health records of induced abortions for named health care providers because it was health care data in which the patient or provider could be identified. The statute expressly states that health care \u201cdata in any form where the patient or provider of health care can be identified shall not be disclosed, subject to disclosure according to chapter 42.56 RCW, discoverable or admissible in judicial or administrative proceedings.\u201d RCW 43.70.050(2).\n\u00b614 In Wright v. Department of Social & Health Services, the Court of Appeals found that the PRA did not apply to a request for juvenile justice records because chapter 13.50 RCW provided the \u201csole method for obtaining juvenile records maintained under that chapter.\u201d 176 Wn. App. 585, 597, 309 P.3d 662 (2013); see also Deer v. Dep\u2019t of Soc. & Health Servs., 122 Wn. App. 84, 92, 93 P.3d 195 (2004) (\u201cchapter 13.50 RCW is an \u2018other statute\u2019 that \u2018exempts or prohibits\u2019 disclosure of particular documents to particular people\u201d). That statute expressly provides that \u201c[r]ecords covered by this section shall be confidential and shall be released only pursuant to this section and RCW 13.50.010.\u201d RCW 13.50.100(2).\n\u00b615 In Hangartner, this court held that RCW 5.60-.060(2)(a), which provides that \u201c[a]n attorney or counselor shall not, without the consent of his or her client, be examined as to any communication made by the client to him or her, or his or her advice given thereon in the course of professional employment,\u201d was an \u201cother statute.\u201d 151 Wn.2d at 458.\n\u00b616 In Ameriquest I, 170 Wn.2d at 424, a lawyer requested documents from the Attorney General\u2019s Office that it had received from Ameriquest pursuant to an investigation. There, this court examined the Gramm-Leach-Bliley Act, 15 U.S.C. \u00a7\u00a7 6801-6809, and the relevant Federal Trade Commission rule, 16 C.F.R. \u00a7 313.11(c)-(d). Id. at 429-30. The statute provided that \u201cthe receiving nonaffiliated third party may not reuse or redisclose the nonpublic personal information to another nonaffiliated third party unless an exception applies or the reuse or redisclosure would be lawful if done by the financial institution.\u201d Id. at 426; 15 U.S.C. \u00a7 6802(c); 16 C.F.R. \u00a7 313.11(c)-(d). We held this was an explicit \u201cother statute\u201d and that the documents were not subject to a PRA request. Ameriquest I, 170 Wn.2d at 439-40.\n\u00b617 This court last addressed the \u201cother statute\u201d exemption in Fisher Broadcasting-Seattle TV LLC v. City of Seattle, 180 Wn.2d 515, 326 P.3d 688 (2014). There, we considered whether RCW 9.73.090(1)(c), which directs that \u201c[n]o sound or video recording [made by a dashboard camera] may be duplicated and made available to the public ... until final disposition of any criminal or civil litigation which arises from the event or events which were recorded,\u201d was an \u201cother statute.\u201d Id. at 525. We held that it was and that dashboard camera videos were exempt from production until the litigation ended. Id. at 528.\n\u00b618 In contrast, when a statute is not explicit, courts will not find an \u201cother statute\u201d exemption. In Belo Management Services, Inc. v. Click! Network, 184 Wn. App. 649, 653-54, 343 P.3d 370 (2014), five broadcasters sought to enjoin the disclosure of unredacted retransmission consent agreements (RCAs) between themselves and Click!, a cable system owned by the city of Tacoma. The broadcasters claimed that federal regulation 47 C.F.R. \u00a7 0.459(a)(1) was an \u201cother statute\u201d under the PRA and exempted the RCAs from disclosure. Id. at 660. The Court of Appeals held that the regulations were not an \u201cother statute\u201d because they did not \u201cspecifically state that RCAs are confidential and protected from disclosure .... Rather, they allow a party to request that information submitted to the [Federal Communications Commission] \u2018not be made routinely available for public inspection.\u2019 \u201d Id. at 660-61 (quoting 47 C.F.R. \u00a7 0.459(a)(1)).\n\u00b619 Rather than being prohibitory, the language of RCW 4.24.550, as it pertains to sex offender records, is framed in terms of what an agency is permitted to, or must, do. See generally RCW 4.24.550. There is no language in the statute that prohibits an agency from producing records. Id. Even the language of RCW 4.24.550(3)(a)\u2014which the John Does argue is the portion of the statute that exempts sex offender registration information from production\u2014is permissive. An agency \u201cmay disclose\u201d records; it \u201cshall consider the following guidelines.\u201d RCW 4.24.550(3)(a). The plain language of RCW 4.24.550 does not explicitly exempt any records from production.\n\u00b620 We also note that when courts have found an \u201cother statute\u201d exemption, they have also identified a legislative intent to protect a particular interest or value. See, e.g., Limstrom v. Ladenburg, 136 Wn.2d 595, 607, 963 P.2d 869 (1998) (\u201cThe general purpose of the exemptions to the Act\u2019s broad mandate of disclosure is to exempt from public inspection those categories of public records most capable of causing substantial damage to the privacy rights of citizens . . . .\u201d). For example, in Fisher Broadcasting, we found it was the legislature\u2019s intent to \u201cprotect the integrity of law enforcement investigations and court proceedings.\u201d 180 Wn.2d at 527. In Planned Parenthood, the statute was designed to protect the identity of patients who receive abortion services and the facilities that provide them. 187 Wn. App. at 624-25. And in Wright, the statute\u2019s purpose was to \u201cprotect children.\u201d 176 Wn. App. at 595.\n\u00b621 Nothing in RCW 4.24.550 indicates a legislative intent to protect level I sex offenders or their victims. RCW 4.24.550(1) and (2) guide an agency in deciding to proactively publish sex offender information. Subsection (5) directs mandatory disclosure. Subsections (7) and (8) provide immunity for both disclosing and not disclosing sex offender information. Subsection (9) explicitly states that sex offender information is not confidential. And subsection (3), the relevant portion of the statute at issue here, provides nonmandatory guidelines for dissemination in particular circumstances.\n\u00b622 The John Does fear harassment from both Zink and others. We offer no opinion about Zink\u2019s purpose, but if the legislature wanted to protect level I sex offenders from harassment\u2014as it protected animal researchers from harassment in PAWS II and abortion service providers from harassment in Planned Parenthood\u2014it would have done so expressly, either through explicit language or by making RCW 4.24.550(3)(a) the exclusive means for obtaining such records.\n\u00b623 The John Does also urge the court to imply an exemption based on the terms \u201cpublic disclosure\u201d and \u201cconfidential\u201d within the statute. RCW 4.24.550(2), (3), (9). Subsection (2) provides that \u201cthe extent of the public disclosure of relevant and necessary information shall be rationally related to\u201d certain factors. RCW 4.24.550(2). Subsection (3) discusses guidelines so that agencies may determine \u201cthe extent of a public disclosure.\u201d RCW 4.24-.550(3). And subsection (9) states that \u201c[n]othing in this section implies that information regarding [sex offenders] is confidential.\u201d RCW 4.24.550(9).\n\u00b624 The John Does argue that \u201cpublic disclosure\u201d refers to producing documents or information in response to a PRA request. By including this language, they argue, the legislature made RCW 4.24.550 the exclusive mechanism for obtaining sex offender records. This is too far a stretch. At the time Zink made her request, the statute did not mention the PRA or a public records request. While this court tries to harmonize the language of statutes, the same term used in different statutory schemes without definition may carry different meanings \u201c \u2018according to the context in which it is used.\u2019 \u201d Graham v. State Bar Ass\u2019n, 86 Wn.2d 624, 626, 548 P.2d 310 (1976) (quoting State ex rel. Tattersall v. Yelle, 52 Wn.2d 856, 863, 329 P.2d 841 (1958) (holding that a statute calling the bar association an \u201cagency of the state\u201d did not use \u201cagency\u201d in the same sense as in a separate unrelated statute regarding audits of state agencies)). Here, the context is that of a state agency proactively disseminating information to the public regarding sex and kidnapping offenders as directed by the community protection act. Accordingly, we reject the contention that the phrase \u201cpublic disclosure,\u201d as used in RCW 4.24.550, is a term of art referring to an agency\u2019s production of records under the PRA. Rather, it is used in a general sense, referring to a state agency\u2019s mandatory and discretionary dissemination of sex offender information to the public. The use of the term \u201cpublic disclosure\u201d in RCW 4.24.550(2) and (3) does not render the statute an \u201cother statute\u201d providing the exclusive mechanism for responding to PRA requests for sex offender records.\n\u00b625 Similarly, the John Does urge this court to interpret \u201cconfidential\u201d as a term of art under the PRA, which would allow the records to be exempt from a PRA request, yet still give effect to subsection (9). RCW 4.24-.550(9) states that \u201c[n]othing in this section implies that information regarding [convicted sex offenders] is confidential except as may otherwise be provided by law.\u201d No other law limits the production of sex offender registration forms or the WSP\u2019s sex offender database. Accepting the John Does\u2019 interpretation would require this court to distinguish between a record that is \u201cexempt\u201d and one that is \u201cconfidential.\u201d\n\u00b626 Under the model rules of the PRA, \u201c[exemptions are \u2018permissive rather than mandatory.\u2019 Therefore, an agency has the discretion to provide an exempt record. However, in contrast to a waivable \u2018exemption,\u2019 an agency cannot provide a record when a statute makes it \u2018confidential\u2019 or otherwise prohibits disclosure.\u201d WAC 44-14-06002(1) (citation omitted) (quoting 1980 Op. Att\u2019y Gen. No. 1, at 5). In other words, a record could be classified as nonconfidential but still be exempt from production.\n\u00b627 Zink and the WSP argue that we should read \u201cconfidential\u201d in the general sense. Under their reading, the plain language of the statute specifically disclaims the confidentiality of sex offender records, making them subject to disclosure under a PRA request. We agree with Zink and the WSP. Subsection (9) was part of the original bill in 1990 and remains unchanged. Laws of 1990, ch. 3, \u00a7 117(4). The only reference to the PRA in RCW 4.24.550 came after the initiation of this lawsuit. We therefore decline to read \u201cconfidential\u201d as a term of art under the PRA. Rather, we read it within the context of RCW 4.24.550\u2014the focus of which is to increase community notification and awareness\u2014and give \u201cconfidential\u201d a general meaning. Nothing in RCW 4.24.550 is intended to restrict the public\u2019s access to sex offender registration information.\n\u00b628 The bill history of the recent amendments supports this reading. In the 2015 regular session, the legislature rejected an amendment that would have deleted subsection (9) in its entirety and replaced it with \u201c[s]ex offender . . . registration information is exempt from public disclosure under chapter 42.56 RCW.\u201d Compare S.B. 5154, at 5, 64th Leg., Reg. Sess. (Wash. 2015), with Substitute S.B. 5154, at 6, 64th Leg., Reg. Sess. (Wash. 2015) (Laws of 2015, ch. 261, \u00a7 1). Although a failed amendment means little, it does show that the legislature knows how to exempt sex offender records under the \u201cother statute\u201d provision of RCW 42.56-.070(1) if it wishes to do so. If there were any doubt as to whether or not RCW 4.24.550(3)(a) exempts sex offender registration records from PRA requests, subsection (9) resolves it. If not dispositive of this case on its own, subsection (9) at the very least confirms our conclusion that RCW 4.24.550(3)(a) is not an \u201cother statute\u201d exempting sex offender records.\n\u00b629 The John Does next argue that if RCW 4.24.550 is not an \u201cother statute,\u201d it \u201cwould be eviscerated.\u201d Br. of Resp\u2019ts John Does at 9 (boldface omitted). They argue that the distinction between levels of sex offenders would disappear and that RCW 4.24.550(3)(a), specifically the \u201cupon request\u201d language, would become meaningless. We disagree. When interpreting a statute, we strive to avoid a construction that would render a portion of a statute meaningless. Ford Motor Co. v. City of Seattle, 160 Wn.2d 32, 41, 156 P.3d 185 (2007). RCW 4.24.550 was intended to deal with the proactive release of information to the public by a state agency. The division of sex offenders into three levels, based on their likelihood to reoffend, still functions as a guide to what information law enforcement agencies may or must make known to the public. Likewise, within the context of RCW 4.24.550 as a whole, subsection (3)(a) operates to guide agencies in choosing what to disclose sua sponte. Furthermore, even if RCW 4.24.550(3)(a) were rendered meaningless by this decision, \u201c[i]n the event of conflict between the provisions of this chapter and any other act, the provisions of this chapter shall govern.\u201d RCW 42.56.030.\n\u00b630 The John Does and amicus Washington Association of Criminal Defense Lawyers (WACDL) also argue that holding RCW 4.24.550 is not an \u201cother statute\u201d will essentially overrule State v. Ward, 123 Wn.2d 488, 869 P.2d 1062 (1994), and possibly call the constitutionality of the sex offender registration statute into question once again. In Ward, we considered whether the sex offender registration statute constituted ex post facto punishment. Id. at 492. We held that it did not, reasoning \u201cthat because the Legislature has limited the disclosure of registration information to the public [in RCW4.24.550], the statutory registration scheme does not impose additional punishment on registrants.\u201d Id. at 502.\n\u00b631 To support their argument, the John Does and the WACDL interpret our holding to refer to disclosure of registration information to the public in response to a PRA request. However, that was not the issue addressed in Ward. The \u201cdisclosure\u201d repeatedly referenced in Ward dealt with an agency\u2019s proactive dissemination of sex offender registration information under the scheme set forth in RCW 4.24.550. In other words, because the statute limited what an agency could disseminate on its own, i.e., it could not publish sex offender information simply because it wanted to or because it wanted to punish a particular offender, the statute did not constitute ex post facto punishment. Id. at 502-03. Nothing in Ward dealt with an agency\u2019s response to a public records request. Ward remains good law, as does its reasoning.\n\u00b632 We also note that the Supreme Court recently rejected this concern in Smith v. John Doe, 538 U.S. 84, 123 S. Ct. 1140, 155 L. Ed. 2d 164 (2003). In Smith, the Court determined whether Alaska\u2019s Sex Offender Registration Act, 1994 Alaska Sess. Laws 41, requiring convicted sex offenders to register with law enforcement authorities, constituted ex post facto punishment. Id. at 89. Alaska\u2019s Department of Public Safety maintains a central registry of sex offenders. Id. at 90. The information from that registry\u2014including \u201cthe sex offender\u2019s . . . name, aliases, address, photograph, physical description, description!,] license [plate numbers], place of employment, date of birth, crime for which convicted, date of conviction . . . and . . . whether the offender ... is in compliance ... or cannot be located\u201d\u2014is published by the state online. Id. at 91 (some alterations in original) (quoting Alaska Stat. \u00a7 18.65.087(b)). The Court held the act was nonpunitive and did not violate the ex post facto clause. Id. at 105-06. Because \u201cthere is no suggestion that [an ex post facto] analysis under both [the federal and state] constitutions should not be the same,\u201d an abrogation of Ward would have no legal effect. Ward, 123 Wn.2d at 496.\n\u00b633 Finally, we address the findings and recommendations of the Sex Offender Policy Board (SOPB). Recently, the legislature tasked the SOPB with making findings and recommendations regarding, among other things, the \u201c[d]is-closure to the public of information compiled and submitted for the purposes of sex offender and kidnapping offender registries that is currently held by public agencies, including the relationship between chapter 42.56 RCW and RCW 4.24.550.\u201d Laws of 2015, ch. 261 \u00a7 16(l)(a). After oral argument, the John Does submitted the report as additional authority to support interpreting RCW 4.24.550 as an \u201cother statute.\u201d Of particular interest, we note the SOPB recommended that:\nA) RCW 4.24.550 be amended to include the following sentence:\nSex offender and kidnapping offender registration information is exempt from public disclosure under chapter 42.56 RCW.\nB) RCW 42.56.240 be amended to include the following sentence: The following investigative, law enforcement, and crime victim information is exempt from public inspection and copying under this chapter:\nInformation compiled and submitted for the purposes of sex offender and kidnapping offender registration pursuant to RCW 4.24.550 and 9A.44.130, or the statewide registered kidnapping and sex offender website pursuant to RCW 4.24.550, regardless of whether the information is held by a law enforcement agency, the statewide unified sex offender notification and registration program under RCW 36.28A.040, the central registry of sex offenders and kidnapping offenders under RCW 43.43.540, or another public agency.\nResp\u2019ts John Does\u2019 Notice of Suppl. Auth., Ex. A at 23. Had these recommendations been adopted, our decision on whether RCW 4.24.550 is an \u201cother statute\u201d under the PRA would likely be different.\n\u00b634 Finally, the SOPB report includes policy arguments to exempt the blanket release of level I sex offender registration records. See id. at 19-22. However, policy decisions are best left to the legislature and do not absolve us of our responsibility to follow the PRA\u2019s \u201cstrongly worded mandate for broad disclosure of public records.\u201d Hearst Corp., 90 Wn.2d at 127.\n\u00b635 The PRA, and our case law surrounding it, demands that an \u201cother statute\u201d exemption be explicit. Where the legislature has not made a PRA exemption in an \u201cother statute\u201d explicit, we will not. Because of the presumption of disclosure under the PRA, the lack of any prohibitory language\u2014save for a mandate against confidentiality\u2014or explicit exemption in RCW 4.24.550 and this state\u2019s precedent in \u201cother statute\u201d cases, we hold that RCW 4.24.550, specifically RCW 4.24.550(3)(a), is not an \u201cother statute\u201d under RCW 42.56.070(1) and that level I sex offender registration information is subject to disclosure under a PRA request.\n\u00b636 Because we find that these records are available, it is unnecessary to consider whether the trial court abused its discretion by allowing the plaintiffs to proceed in pseudonym. The issue is moot; Zink will receive the records\u2014and the names of the parties\u2014and even if this court were to hold that proceeding in pseudonym was in error, we would be unable to offer any further relief, as it has already been granted. It is also unnecessary for this court to consider whether the permanent injunction was overbroad because we reverse the injunction as ordered. Finally, we do not need to address whether the class was properly certified. Although we express no opinion on it here, even if the class were improperly certified, a decision decertifying the class or remanding to the trial would serve no purpose and would cost the litigants time and money, as the issue on which the class members brought suit has been decided.\nPenalties and Attorney Fees\n\u00b637 Next, we address whether Zink is entitled to attorney fees, costs, and per diem penalties. We hold that she is not.\n\u00b638 Zink argues that if RCW 4.24.550 is not an \u201cother statute,\u201d then she is entitled to per diem penalties and attorney fees and costs. She requests that either this court assess penalties and fees or remand to the trial court. We decline both requests.\n\u00b639 The plain language of the PRA governs this issue. RCW 42.56.550(4) provides that\n[a]ny person who prevails against an agency in any action in the courts seeking the right to inspect or copy any public record or the right to receive a response to a public record request within a reasonable amount of time shall be awarded all costs, including reasonable attorney fees, incurred in connection with such legal action. In addition, it shall be within the discretion of the court to award such person an amount not to exceed one hundred dollars for each day that he or she was denied the right to inspect or copy said public record.\n(Emphasis added.) Although Zink prevailed in the sense that RCW 4.24.550 is not an \u201cother statute\u201d under the PRA, she did not prevail against an agency. Both the WSP and WASPC took the position that the records were subject to disclosure. Therefore, Zink did not \u201cprevail against an agency\u201d but rather prevailed against a private party seeking to enjoin disclosure.\n\u00b640 Confederated Tribes interpreted RCW 42.56.550(4) in a nearly identical scenario and is on point. 135 Wn.2d at 757. In Confederated Tribes, our state Gambling Commission received a request for public records and notified several interested parties to whom the records pertained rather than immediately provide the records. Id. at 742. The notified tribes filed actions to enjoin disclosure. Id. at 743. The Gambling Commission took the position that the records were subject to disclosure. Id. at 742. We agreed with the Gambling Commission and requester; the records were subject to disclosure under the PRA. Id. at 739. However, we held that the requester was not entitled to attorney fees, costs, or penalties under the PRA because the requester \u201cprevailed against the Tribes, not against the agency.\u201d Id. at 757.\n\u00b641 The same is true here. The WASPC notified the John Does of its intent to disclose the records absent a court order. The WSP and WASPC advocated for the release of the records. And the records were withheld not because of agency action, but because of a court order enjoining their release. Just as the PRA in Confederated Tribes did not \u201cauthorize an award of attorney fees in an action brought by a private party ... to prevent disclosure of public records held by an agency where the agency has agreed to release the records but is prevented from doing so by court order,\u201d id., so too does RCW 42.56.550(4) operate to deny Zink\u2019s request for attorney fees and penalties.\n\u00b642 Zink further argues that because WASPC \u201cwrongfully delayed the release of records ... by notifying [the John Does],\u201d she is entitled to an award of penalties. Reply Br. of Appellants Zink at 16. Again, the PRA controls. RCW 42.56.540 states that \u201c[a]n agency has the option of notifying persons named in the record or to whom a record specifically pertains, that release of a record has been requested. However, this option does not exist where the agency is required by law to provide such notice.\u201d Nothing about the WASPC\u2019s conduct was wrongful. Therefore Zink\u2019s request for an award of attorney fees, costs, and per diem penalties is denied.\nCONCLUSION\n\u00b643 An \u201cother statute\u201d exemption must be explicit, this court may not imply one. Because the legislature did not make it explicit, we hold that RCW 4.24.550 is not an \u201cother statute\u201d under the PRA and reverse the trial court. We further hold that under the PRA and Confederated Tribes, Zink is not entitled to attorney fees, costs, or penalties, as she prevailed against a private party, not an agency.\n\u00b644 The trial court is reversed, and the request for fees and penalties is denied.\nJohnson, Owens, Fairhurst, Stephens, Gonz\u00e1lez, and Yu, JJ., concur.\nIn the action against Zink and the WSP, the John Does sought certification of a \u201cClass defined as . . . [a]ll individuals who are named in the [WSP\u2019s] Sex and Kidnapping Offender Database, classified at risk level I, and in compliance with the conditions of registry.\u2019\u2019 Clerk\u2019s Papers at 1015. In the action against Zink and the WASPC, the John Does sought certification of a \u201cClass defined as . . . [a]ll individuals who are named in sex offender registration forms or files prepared, owned, used or retained by the [WASPC] who have names that begin with the letters \u2018A\u2019 or \u2018B\u2019, who are classified at risk level I, and who are in compliance with the conditions of registration.\u2019\u2019 Id. at 1646.\nIn the first action (against Zink and the WSP), the trial court certified a class defined as \u201c[a] 11 individuals who are named in the December 6, 2013 extract from the [WSP\u2019s] Sex and Kidnapping Offender Registry Database, classified at risk level I, and not designated in the status of\u2018fail to verify address\u2019 or \u2018fail to register upon release.\u2019 \u2019\u2019 Id. at 1608. In the second action (against the WASPC), the trial court certified a class defined as \u201c[a] 11 individuals with last names beginning with the letters \u2018A\u2019 or \u2018B\u2019 who are named in the March 25, 2014 extract from the [WASPC] database, classified at risk level I, and not designated in the status of \u2018fail to verify address\u2019 or \u2018fail to register upon release.\u2019 \u2019\u2019 Id. at 1619. It specifically noted in each order that \u201c[t]he Defendant\u2019s ability to easily identify members of the Class would be enhanced if the Class were defined with reference to a particular date relative to the request at issue.\u2019\u2019Id. at 1607-08, 1619. On March 5, 2014, the trial court consolidated those lawsuits. Id. at 1591-93 (Ex. G).\nAfter the records request was made, and prior to oral argument, the legislature amended RCW 4.24.550(3)(a) to add \u201cand any individual who requests information regarding a specific offender.\u2019\u2019 Laws of 2015, ch. 261, \u00a7 1(3). Because this section was not made retroactive, we consider the statute as it existed at the time the request was made. However, the new language would not change our result.\nAs noted by the John Does, amicus Washington Association of Criminal Defense Lawyers, and the Sex Offender Policy Board, the majority of sex offenses are committed against someone known, and victims may suffer additional trauma as their identities may be ascertained once the identity of the offender is released. They also provide evidence that the blanket release of level I sex offender registration information may not increase community safety, and may actually increase recidivism. Whatever the merits of these policy arguments may be, nothing in the language of RCW 4.24.550 gives them force or creates an exemption. Further, policy issues are not the province of this court and are best left to the legislature.\nAs discussed infra note 2, the 2015 amendments also modified subsection (5)(c), directing the WASPC to refer a request made under chapter 42.56 RCW to the appropriate law enforcement agency. Laws of 2015, ch. 261, \u00a7 l(5)(c)(i). While this amendment was made retroactive, its effect is to relieve the WASPC of production responsibilities under the PRA; it does not retroactively change the meaning of \u201cpublic disclosure\u2019\u2019 and thus does not affect our analysis.\nThe dissent claims that under our holding, both Hangartner and PAWS II would have a different result. Dissent at 395. Not so. In Hangartner, the attorney-client privilege statute used broad prohibitive language to prevent the disclosure of privileged documents in particular situations. 151 Wn.2d at 453. In PAWS II, we held that both the Uniform Trade Secrets Act (UTSA), chapter 19.108 RCW, and the antiharassment statute, RCW 4.24.580, were \u201cother statutes.\u2019\u2019 125 Wn.2d at 262-63. The UTSA authorized an injunction to protect trade secrets where a showing was made that such protection was necessary. Id. at 262; RCW 19.108.020(3). Additionally, PAWS II cited to legislative history in which the legislature declared \u201c \u2018it a matter of public policy that the confidentiality of such information be protected and its unnecessaiy disclosure be prevented.' \" 125 Wn.2d at 263 (quoting Laws of 1994, ch. 42, \u00a7 1). The same is true of the antiharassment statute.\nZink asks that we reverse the trial court\u2019s ruling, Br. of Appellants Zink at 27, but specifically requests that we not remand for consideration of the factors laid out in Seattle Times Co. v. Ishikawa, 97 Wn.2d 30, 640 P.2d 716 (1982). Reply Br. of Appellants Zink at 23. Were we to find that Ishikawa applied to proceeding in pseudonym\u2014an issue on which we express no opinion\u2014the remedy would be to remand to the trial court to apply the Ishikawa factors, a remedy Zink rejects.\nThis case actually interpreted the PRA\u2019s predecessor, the public disclosure act, former RCW 42.17.340 (1997), but its interpretation applies to the PRA, which recodified the relevant provisions without amendment. Our reference to the PRA in discussing this case is to avoid confusion.",
+        "type": "majority",
+        "author": "Madsen, C.J."
+      },
+      {
+        "text": "Gordon McCloud, J.\n\u00b645 (dissenting) The Public Records Act (PRA), ch. 42.56 RCW, requires agencies to disclose information to requesters unless an \u201cother statute,\u201d RCW 42.56.070(1), exempts that information from blanket disclosure. The question here is whether the community protection act (CPA), RCW 4.24.550\u2014particularly its provisions governing the disclosure of information about registry-compliant level I sex offenders\u2014constitutes such an \u201cother statute.\u201d RCW 42.56.070(1). The majority holds that the CPA does not because it does not expressly and absolutely prohibit disclosure of any particular sex offender registry record. Majority at 375. But this holding conflicts with both our precedent and our legislature\u2019s intent. Those sources compel the opposite conclusion: that the CPA is an \u201cother statute\u201d under RCW 42.56.070(1). Because the CPA bars blanket disclosure of the requested information and instead requires agencies to conduct a carefully crafted, specific, and individualized inquiry, and because the John Does have met the other prerequisites for an injunction barring blanket PRA disclosure, I respectfully dissent.\nThe Trial Court Correctly Concluded That the CPA (RCW 4.24.550) Bars the Blanket Disclosure of Level I Sex Offender Registry Information and Entered a Properly Tailored Injunction\n\u00b646 When reviewing a trial court order enjoining disclosure under the PRA, \u201c \u2018[w]e start with the proposition that the act establishes an affirmative duty to disclose public records unless the records fall within specific statutory exemptions.\u201d Progressive Animal Welfare Soc\u2019y v. Univ. of Wash., 125 Wn.2d 243, 258, 884 P.2d 592 (1994) (PAWS) (plurality opinion) (emphasis omitted) (quoting Spokane Police Guild v. Wash. State Liquor Control Bd., 112 Wn.2d 30, 36, 769 P.2d 283 (1989)). The party resisting disclosure bears the burden of proving that an exemption applies. Ameriquest Mortg. Co. v. Office of Att\u2019y Gen., 177 Wn.2d 467, 486-87, 300 P.3d 799 (2013) (Ameriquest II). When (as in this case) the party resisting disclosure is not a state agency, that party must also prove two factual prerequisites to an injunction: \u201c(1) that the record in question specifically pertains to that party [and (2)] that the disclosure would not be in the public interest and would substantially and irreparably harm that party or a vital government function.\u201d Id. at 487 (citing RCW 42.56.540).\n\u00b647 In this case, the John Does have met both the legal and factual prerequisites to an injunction barring the blanket release of records in response to Zink\u2019s request. They have shown that the PRA\u2019s \u201cother statute\u201d exemption applies (the legal prerequisite), that the records at issue pertain specifically to them (the first factual prerequisite), and that blanket disclosure would cause substantial and irreparable harm rather than serving the public interest (the second factual prerequisite). The trial court\u2019s injunction was also properly tailored and not overbroad.\nA. The CPA constitutes an \u201cother statute\u201d within the meaning of RCW 42.56.070(1), exempting level I sex offender registry information from blanket disclosure under the PRA\n\u00b648 As the majority acknowledges, the CPA codifies various requirements related to agencies\u2019 maintenance and publication of information about registered sex and kidnapping offenders, RCW 4.24.550, and these requirements vary according to an offender\u2019s \u201crisk level,\u201d RCW 4.24.550(3). See majority at 374. Of particular significance here, the CPA expressly limits the information that law enforcement agencies may disclose in response to citizen requests. RCW 4.24.550(3). Presumably because of these limits, the CPA appears on a list of \u201cExemption and Prohibition Statutes Not Listed in [the PRA]\u201d accessible through the Washington State Patrol\u2019s (WSP) website.\n\u00b649 I agree with the majority on several basic points related to the CPA\u2019s history and purpose. First, I agree that the CPA, RCW 4.24.550, has always afforded the public fairly broad access to information about registered sex offenders. See majority at 373. Indeed, that fundamental aspect of the CPA is not in dispute here: the John Does agree that the legislature first enacted RCW 4.24.550 to combat agencies\u2019 \u201c \u2018reduced willingness to release information.\u2019 \u201d Br. of Resp\u2019ts John Does at 7 (quoting Laws of 1990, ch. 3, \u00a7 116). To that end, the CPA still shields officials and agencies from liability for the discretionary \u201crelease of relevant and necessary information,\u201d provided the release is not grossly negligent or in bad faith. RCW 4.24.550(7). I also agree that the disclosures authorized under RCW 4.24.550 vary according to an offender\u2019s risk level. See majority at 374-75. Again, this aspect of the CPA is not in dispute. Finally, I agree with the majority that the CPA limits the disclosure of registry information by telling agencies what they \u201c \u2018may disclose\u2019 \u201d about level I offenders \u201c \u2018upon request.\u2019 \u201d Id. at 374 (quoting RCW 4.24.550(3)(a)).\n\u00b650 But I disagree with the majority\u2019s conclusion that an individual may completely circumvent these disclosure limits just by filing a PRA request. The majority reaches this conclusion only by adopting the appellants\u2019 strained interpretation of the CPA: that it governs only \u201cproactive\u201d community notification, as opposed to reactive disclosures in response to citizen requests. In adopting this interpretation, the majority ignores the CPA\u2019s plain language, which governs both agencies\u2019 \u201cproactive! ]\u201d disclosures (e.g., the publication of offender information on the Washington Association of Sheriffs and Police Chiefs (WASPC) website, RCW 4.25.550(5)) and their responses to citizen requests (RCW 4.24.550(3)(a)). Id. at 373-74. It also articulates a brand new and extremely rigid interpretation of the PRA\u2019s \u201cother statute\u201d exemption. RCW 42.56.070(1).\n1. The majority\u2019s new rule frustrates the legislative intent expressed in the CPA\u2019s plain language; it is therefore contrary to our precedent interpreting the PRA\u2019s \u201cother statute\u201d exemption, RCW 42.56.070(1)\n\u00b651 When faced with a question of statutory interpretation, our duty is to identify and give effect to the legislature\u2019s intent, beginning with the statute\u2019s plain language and avoiding, where possible, an interpretation that renders any portion of the statute meaningless or superfluous. These basic rules of statutory interpretation compel the conclusion that, contrary to the majority\u2019s holding, the CPA governs both \u201cproactive! ]\u201d and reactive disclosures of registry information. Majority at 373-74.\n\u00b652 When Zink submitted the PRA requests at issue in this case, the CPA provided that an agency \u201cmay disclose, upon request, relevant, necessary, and accurate information [about a level I offender] to any victim or witness to the offense and to any individual community member who lives near the residence where the offender resides, expects to reside, or is regularly found.\u201d Former RCW 4.24.550(3)(a) (2014). In keeping with the plain language of this provision, the trial court in this case concluded that our legislature intended to prohibit law enforcement agencies from making \u201c \u2018blanket\u2019 or generalized production of sex offender records.\u201d Clerk\u2019s Papers (CP) at 567-68 (Order Granting Pis.\u2019 Mot. for Summ. J. & Prelim. Inj.) (\u201cThe legislature has carefully created a statute that ties the level of public disclosure [to] the level of risk posed by an individual offender [and] [t]he Legislature\u2019s intent was clearly to limit disclosure to the general public to those circumstances presenting a threat to public safety.\u201d).\n\u00b653 The trial court was correct. The CPA\u2014particularly subsection (3)(a)\u2014contains both mandatory and permissive language: it tells agencies what registry information they \u201cshall\u201d share with specific institutions (for level I offenders, \u201cappropriate law enforcement agencies\u201d and the offender\u2019s school) and what registry information they \u201cmay\u201d disclose in response to citizen requests. RCW 4.24.550(3)(a). For this permissive language to have any meaning whatsoever, it must describe and therefore limit the scope of permissible \u201cdisclosures] upon request.\u201d Id. Thus, at least with respect to level I offenders, the CPA\u2019s plain language contemplates\u2014and limits\u2014the release of information in response to citizen requests.\n\u00b654 Under the majority\u2019s holding, any individual may now completely circumvent those limits by issuing a blanket PRA request for all level I offender registry information. This is because, under the new rule the majority adopts, no statute can be an \u201cother statute\u201d for purposes of the PRA unless it prohibits disclosure expressly and absolutely. Majority at 375. This is a significant departure from precedent; we have never before interpreted the PRA to nullify another statute in this manner.\n\u00b655 It is true that Washington courts have held statutes with express nondisclosure or confidentiality provisions to be \u201c \u2018other statute [s]\u2019 \u201d under the PRA. Id. (quoting Planned Parenthood of Great Nw. v. Bloedow, 187 Wn. App. 606, 623, 350 P.3d 660 (2015); Wright v. Dep\u2019t of Soc. & Health Servs., 176 Wn. App. 585, 597, 309 P.3d 662 (2013); Deer v. Dep\u2019t of Soc. & Health Servs., 122 Wn. App. 84, 92, 93 P.3d 195 (2004); Ameriquest Mortg. Co. v. Office of Att\u2019y Gen., 170 Wn.2d 418, 424, 241 P.3d 1245 (2010) (Ameriquest I)).\n\u00b656 But our courts have also reached this conclusion in the absence of such a provision. In Hangartner v. City of Seattle, 151 Wn.2d 439, 452-53, 90 P.3d 26 (2004), for example, this court held that the attorney-client privilege codified at RCW 5.60.060(2)(a) was an \u201cother statute\u201d under the PRA\u2019s predecessor (the public disclosure act (PDA), former ch. 42.17 RCW (2000). Four justices dissented, arguing\u2014just as the majority does in this case\u2014that the alleged \u201cother statute\u201d at issue did not expressly prohibit agency disclosure. Id. at 458 (Johnson, J., dissenting) (because \u201cthe attorney-client privilege statute is directed at the attorney, not the agency,\u201d the majority\u2019s decision to \u201cincorporate! ] [it] into the \u2018other statute\u2019 exemption . . . renders ineffectual the PDA\u2019s strong mandate to agencies that they must disclose public information\u201d). Like the CPA, the attorney-client privilege statute contains no express confidentiality or nondisclosure provisions; it provides only that \u201c[a]n attorney or counselor shall not, without the consent of his or her client, be examined as to any communication made by the client to him or her, or his advice given thereon in the course of any professional employment.\u201d RCW 5.60.060(2)(a). Nevertheless, in Hangartner, we held that it was \u201cunquestionably a statute ... that prohibits the disclosure of certain records\u201d and was therefore an \u201cother statute\u201d under the PDA. 151 Wn.2d at 453. The majority now essentially adopts the Hangartner dissent, without saying so explicitly.\n\u00b657 Similarly, in PAWS, we held that the state Uniform Trade Secrets Act (UTSA), ch. 19.108 RCW, was an \u201cother statute.\u201d 125 Wn.2d at 262 (plurality), 272-73 (Andersen, C.J., concurring) (agreeing with the plurality\u2019s analysis in its entirety). We did so not because the UTSA contained any express or absolute exemption provisions, but because it provided that \u201c \u2018[i]n appropriate circumstances, affirmative acts to protect a trade secret may be compelled by court order.\u2019 \u201d Id. at 262 (alteration in original) (quoting RCW 19.108.020(3)). On the basis of this permissive and conditional language, this court concluded that \u201c[t]he [PRA] is simply an improper means to acquire knowledge of a trade secret.\u201d Id.\n\u00b658 Neither the statute at issue in Hangartner nor the statute at issue in PAWS would have satisfied the test the majority adopts today. Neither statute contained any express exemption or confidentiality provision. Nevertheless, this court found each statute was an \u201cother statute\u201d because a contrary conclusion would have frustrated our legislature\u2019s intent to protect certain information from unfettered disclosure. See Hangartner, 151 Wn.2d at 453 (\u201c[w]hen the legislature amended the PDA to include the \u2018other statute\u2019 exemption, it could have easily trumped the attorney-client privilege by excluding it from consideration as an \u2018other statute\u2019 \u201d (citing Laws of 1987, ch. 403, \u00a7 3)); PAWS, 125 Wn.2d at 262-63 (concluding that the UTSA is an \u201cother statute\u201d in part because our legislature has declared the protection of trade secrets a matter of public policy (quoting Laws of 1994, ch. 42, \u00a7 1, at 130)).\n\u00b659 The same reasoning should control the outcome in this case. The majority\u2019s conclusion that RCW 4.24.550 governs only \u201cproactive! ]\u201d disclosures is directly contradicted by the statute\u2019s plain language. That plain language also governs and expressly limits agencies\u2019 responses to citizen requests. By concluding that the PRA trumps and nullifies these limits, the majority contradicts our precedent interpreting the PRA\u2019s \u201cother statute\u201d exemption, RCW 42.56.070(1).\n\u00b660 The majority\u2019s new rule also frustrates the legislative intent expressed in the CPA. This is most evident in the majority\u2019s discussion of the CPA\u2019s nonconfidentiality provision (RCW 4.24.550(9)). That provision states, in its entirety, \u201cNothing in this section implies that information regarding persons designated in [RCW 4.24.550(1)] is confidential except as may otherwise be provided by law.\u201d RCW 4.24.550(9). The commonsense interpretation of this provision is that it reinforces agency discretion to release information about individual offenders. It clarifies, for example, that agencies remain free to disseminate \u201c[c]onviction records . . . without restriction\u201d pursuant to RCW 10.97-.050(1), even if some of the information in these records is also contained in the registry. But the majority rejects this commonsense interpretation in favor of one that gives RCW 4.24.550(9) much greater significance.\n\u00b661 Having held that a statute must expressly and absolutely prohibit disclosure in order to constitute an \u201cother statute\u201d under RCW 42.56.070(1), the majority concludes that the CPA\u2019s nonconfidentiality provision has the opposite effect: by \u201cspecifically disclaim[ing\\ the confidentiality of sex offender records, [RCW 4.24.550(9)] mak[es] them subject to disclosure under a PRA request.\u201d Majority at 380-81 (emphasis added). In other words, the majority concludes that RCW 4.24.550(9) renders meaningless all of the disclosure limits codified at RCW 4.24.550(3). That, of course, conflicts with the rules that a statute is interpreted in context, to give effect to all of its provisions and render no portion superfluous.\n\u00b662 Despite its evisceration of the CPA, the majority also concludes that even after today\u2019s holding, RCW 4.24.550 \u201cstill functions as a guide to what information law enforcement agencies may . . . make known to the public.\u201d Id. at 382. But it won\u2019t guide them very much. Specifically, it won\u2019t guide an agency responding to a request for the blanket, nondiscretionary disclosure of compliant level I offender information\u2014disclosure that RCW 4.24.550(3)(a) prohibits by its plain terms. Of course, that request has already been filed. Id. at 385 (\u201cZink will receive the records\u201d). When the WSP and WASPC fulfill this request, as today\u2019s holding requires, they will necessarily ignore every limitation in the CPA.\n2. The legislative history supports the conclusion that the CPA is an \u201cother statute\u201d under RCW 42.56.070(1)\n\u00b663 Thus, the CPA\u2019s plain language alone makes it an \u201cother statute\u201d under RCW 42.56.070(1). Nevertheless, I address the CPA\u2019s legislative history because the majority devotes a substantial portion of its analysis to that subject. See id. at 381, 383. Contrary to the majority\u2019s conclusion, the legislative history contains ample evidence that the CPA was intended to protect sex offender registry information\u2014particularly information about compliant level I offenders\u2014from blanket, nondiscretionary disclosure in response to citizen requests.\n\u00b664 When the legislature first enacted the CPA in 1990, it included a statement of findings endorsing the \u201c[r]elease of information about sexual predators to public agencies and under limited circumstances, the general public.\u201d Laws of 1990, ch. 3, \u00a7 116 (emphasis added). Thus, the law was originally envisioned as authorizing limited, not blanket disclosures. That fundamental aspect of the CPA has never changed: the bill report accompanying the amendment most relevant to this case\u2014the 1997 amendment introducing risk level classification into the statutory scheme\u2014 describes that amendment as identifying \u201c[t]he nature and scope of permissible public notifications\u201d for each risk level. Final B. Rep. on Engrossed Substitute S.B. 5759, at 2, 55th Leg., Reg. Sess. (Wash. 1997) (emphasis added). And as the trial record in this case makes clear, the law enforcement agencies tasked with implementing the CPA have always understood the statute to strictly limit public disclosure of information about level I offenders. For all of these reasons, the trial court concluded that \u201c[t]he legislative history of RCW 4.24.550 clearly sets forth a legislative intention to limit release or disclosure of sex offender information to the general public.\u201d CP at 566 (Conclusion of Law 21).\n\u00b665 Instead of addressing this legislative history, the majority focuses on one failed 2015 amendment, which would have replaced RCW 4.24.550(9) (the nonconfiden-tiality provision) with a section providing that \u2018\u201c[s]ex offender [and kidnapping offender] registration information is exempt from public disclosure under chapter 42.56 RCW,\u2019 \u201d and on a report containing a similar recommendation, which the Sex Offender Policy Board (SOPB) completed at the legislature\u2019s direction in December 2015. The majority concludes that the legislature\u2019s failure to codify this language \u201cconfirms .. . that RCW 4.24.550(3)(a) is not an \u2018other statute\u2019 exempting sex offender records.\u201d Majority at 381.\n\u00b666 There are three problems with this conclusion.\n\u00b667 First, the proposed amendment refers to all sex and kidnapping offender registry information, not just the lowest level offender information\u2014it would even exempt information subject to mandatory publication on the WASPC website. See id. at 374 (describing website publication requirement in RCW 4.24.550(5)). Thus, it would expressly exempt a much broader range of registry records than those at issue in this case. It is not logical to conclude that by rejecting such a broad exemption, the legislature impliedly nullified all the disclosure restrictions that RCW 4.24.550 already codifies with respect to compliant level I offenders.\n\u00b668 Second, with respect to registry-compliant level I offenders in particular, the SOPB report actually shows that the legislature may yet expressly clarify its intent to exempt registry information from disclosure under the PRA. As a practical matter, the PRA\u2019s stiff monetary penalties, combined with the CPA\u2019s grant of immunity for \u201cthe release of relevant and necessary information,\u201d RCW 4.24.550(7), create an incentive for agencies to ignore the CPA\u2019s limits on the disclosure of level I offender information when responding to PRA requests. The legislature recognizes this problem: it was highlighted in the SOPB\u2019s December 2015 report. Resp\u2019ts John Does\u2019 Notice of Suppl. Auth., Ex. A at 17 (\u201cIf an agency is asked to comply with the disclosure requirements of both [the PRA] and [the CPA], it is clear that the most prudent route for an agency to take is to liberally disclose records because there is a strict monetary penalty for non-disclosure under the PRA, and immunity [for] disclosure or non-disclosure . . . under [the CPA]. [Thus,] [t\\here is little incentive to adhere to the guidelines of RCW 4.24.550.\u201d (emphasis added)). But contrary to the majority\u2019s conclusion, these compliance problems\u2014and the fact that the legislature is still considering how best to address them\u2014do not mean that the CPA isn\u2019t an \u201cother statute,\u201d RCW 42.56.070(1), as a matter of law. Indeed, the SOPB report concludes both that the CPA is an \u201cother statute\u201d and that the legislature should amend RCW 4.24-.550 to make this clear. Resp\u2019ts John Does\u2019 Notice of Suppl. Auth., Ex. A at 17-18, 23.\n\u00b669 The final problem with the majority\u2019s reliance on the failed (and reproposed) amendment is that it is completely irrelevant under the rule the majority adopts in this case. The majority reasons that the failed 2015 amendment \u201cshow[s] that the legislature knows how to exempt sex offender records [from PRA requests] ... if it wishes to do so,\u201d and concludes therefore that the legislature must have wanted level I sex offender records to be accessible through blanket PRA requests. Majority at 381. But the majority\u2019s rule would compel the same conclusion even if the legislature had rejected an amendment with the opposite language\u2014expressly making all registry information available through blanket PRA requests. In that scenario, the CPA would still lack the language the majority deems necessary to trigger the PRA\u2019s \u201cother statute\u201d exemption: \u201cexplicit language\u201d making the CPA \u201cthe exclusive means for obtaining [registry] records\u201d or explaining that the CPA\u2019s restrictions on \u201c \u2018public disclosure\u2019 \u201d do not evaporate in the context of a PRA request. Id. at 379 (quoting RCW 4.24.550(2)).\nB. The trial court\u2019s ruling on the factual prerequisites to an injunction was correct and certainly supported by substantial evidence\n\u00b670 As noted above, in order to obtain an injunction barring the blanket release of level I offender records in response to Zink\u2019s PRA request, the John Does had to prove two factual prerequisites: (1) that the records at issue specifically pertain to them and (2) that blanket disclosure \u201cwould not be in the public interest and would substantially and irreparably harm that party or a vital government function.\u201d Ameriquest II, 177 Wn.2d at 486-87 (citing RCW 42.56.540). There is no legitimate dispute that the first of these prerequisites is satisfied.\n\u00b671 The trial court also found that the second factual prerequisite was satisfied: blanket disclosure would not be in the public interest and would substantially and irreparably harm the John Does. Specifically, the trial court found that the evidence submitted\u2014declarations by individual class members, class members\u2019 parents, and several experts\u2014\u201cestablishes that sex offenders who are identified by public disclosure face an increased risk of physical violence, stigmatization, mental and emotional distress, and loss of economic opportunity,\u201d and that \u201c \u2018[b]lanket\u2019 or generalized disclosure [of information on level I offenders] . . . undermines the carefully crafted legislative scheme\u201d requiring \u201ctargeted and limited disclosure of sex offender registration information.\u201d CP at 564-65 (Finding of Fact 14-15).\n\u00b672 There is overwhelming evidence in the record supporting this conclusion. The trial record contains numerous declarations by members of the plaintiff class that describe fears of unemployment, vigilantism, and stigmatization, and from the parents of juvenile level I offenders and their victims that describe fears that public exposure will thwart efforts to rehabilitate and reunify their families. These fears are not just speculative; many are based on the declarants\u2019 personal experiences. The record also contains declarations from several experts in the field of sex crime prevention that describe the negative impact that blanket disclosure of level I offender information would have on victims\u2019 recovery and offenders\u2019 incentive and ability to comply with treatment.\n\u00b673 Neither the WSP nor the WASPC assigns error to the trial court\u2019s factual findings. Zink assigns several errors to these findings, but she does not point to anything in the record that rebuts the trial court\u2019s conclusions.\n\u00b674 The trial court correctly concluded that the John Does satisfied both the legal and factual prerequisites to an injunction barring blanket PRA disclosure of level I sex offender registry records.\nC. The trial court\u2019s ruling was properly limited\n\u00b675 The WSP argues that even if the trial court\u2019s declaratory judgment was correct (and RCW 4.24.550 does, as a matter of law, exempt the John Does\u2019 registry information from PRA disclosure), the court erred by refusing to expressly limit the scope of its injunction. First, the WSP argues that the court should have expressly limited the scope of the injunction to the records that specifically pertain to the class members. Second, it argues that the court should have limited the scope of the injunction to Zink. These arguments fail.\n\u00b676 The court\u2019s order is divided into three paragraphs, as follows:\n1) Declaratory judgment is entered providing that level I sex offender registration records are exempt from disclosure under RCW 42.56.070 pursuant to RCW 4.24.550. RCW 4.24.550 provides the exclusive mechanism for public disclosure of sex offender registration records.\n2) The WSP and WASPC shall not make a \u201cblanket\u201d or generalized production of sex offender records of Class members in response to Ms. Zink\u2019s requests for public records (whether pending or made during the duration of this litigation (including any appeals)).\n3) The WSP and WASPC may disclose relevant and necessary level I sex offender records in response to a request under RCW 4.24.550 by a member of the general public, after considering in good faith the offender\u2019s risk classification, the places where the offender resides or is expected to be found, and the need of the requestor to protect individual and community safety.\nCP at 568-69.\n\u00b677 The first paragraph does not create or modify an injunction; it is the requested declaratory judgment. The second paragraph does enjoin WSP and WASPC from producing records, but this paragraph is explicitly limited to Zink\u2019s records request and the records that the John Does sought to protect. Finally, the third paragraph does not enjoin WSP or WASPC from taking any action. Instead, it permits WSP and WASPC to produce records in response to Zink\u2019s request, provided that they conform their release of information to the requirements of RCW 4.24.550.\n\u00b678 The WSP argues that the court exceeded its authority in the third paragraph and that the court\u2019s order in that paragraph is not consistent with court rules governing injunctions. But the third paragraph of the order is not an injunction; it is permissive and explanatory. It describes the method by which WSP and WASPC may produce documents pertaining to the class in response to any PRA request\u2014including Zink\u2019s.\n\u00b679 The trial court\u2019s ruling is not overbroad.\nCONCLUSION\n\u00b680 I agree completely with the majority\u2019s assertion that the legislature, rather than this court, determines what records are exempt from PRA disclosure. Majority at 372. We have the same goal in a PRA case as in any case involving a question of statutory interpretation: to set aside our own policy views and identify the legislature\u2019s intent. Id. at 378 n.3 (\u201cpolicy issues are not the province of this court and are best left to the legislature\u201d). But the rule the majority crafts frustrates this goal rather than furthering it. The legislature recognizes the policy problems inherent in the intersection of CPA and PRA requirements\u2014and it is working to resolve those problems. See supra Section A.2. But by no stretch of the imagination is it reasonable to interpret these policy problems as an irreconcilable conflict between the two statutes. Contra majority at 382 (\u201ceven if RCW 4.24.550(3)(a) were rendered meaningless by [our] decision, \u2018[i]n the event of conflict between the provisions of [the PRA] and any other act, the provisions of [the PRA] shall govern\u2019 \u201d (second alteration in original) (quoting RCW 42.56.030)). On the contrary, we can easily harmonize the statutes by recognizing that the CPA provides the exclusive method for obtaining sex offender registry information and is therefore an \u201cother statute\u201d under the PRA. See Deer, 122 Wn. App. at 92 (\u201c[b]ecause [the \u2018other statute\u2019 at issue] contains an alternative means of requesting and seeking... records that balances and protects the privacy needs of the [affected persons], we find no conflict\u201d). Indeed, it is our duty to harmonize statutes whenever possible. Harmon v. Dep\u2019t of Social & Health Servs., 134 Wn.2d 523, 542, 951 P.2d 770 (1998). By ignoring this duty and the plain language of the CPA, the majority preempts the legislature\u2019s policy making authority.\nWiggins, J., concurs with Gordon McCloud, J.\nExemption and Prohibition Statutes Not Listed in Chapter 42.56 RCW, http://www.wsp.wa.gov/publications/reports/exemption_statutes_not_listed_in _RCW-42.56.pdf.\nBr. of Appellant WSP at 15 (\u201cRisk classification determines, in part, the level of community notification for the sex offender.\u2019\u2019); Br. of Resp\u2019ts John Does at 8 (\u201cthe law identifies \u2018the nature and scope of permissible public notifications ... for each risk level classification\u2019 \u2019\u2019 (alteration in original) (quoting Pinal B. Rep. on Engrossed Substitute S.B. 5759 (Wash. 1997))). While RCW 4.24.550 began as a brief statute authorizing agencies to release \u201crelevant and necessary information regarding sex offenders to the public when . . . necessary,\u2019\u2019 Laws of 1990, ch. 3, \u00a7 117(1), it has evolved into a significantly more complex scheme distinguishing between offenders posing different levels of risk to the community, see majority at 373-74.\nMajority at 378 (\u201cRCW 4.24.550(1) and (2) guide an agency in deciding to proactively publish sex offender information\u2019\u2019 (emphasis added)); Br. of Appellant WSP at 10 (arguing that RCW 4.24.550 just tells law enforcement agencies \u201chow to proactively disseminate information about sex offenders to schools, neighbors, and the media\u2019\u2019 (emphasis added)); Wash. Ass\u2019n of Sheriffs & Police Chiefs Br. in Resp. at 10 (the CPA\u2019s \u201cproactive instruction contains no provision that exempts disclosure under the PRA\u2019\u2019); Br. of Appellants Zink at 30 (the CPA \u201crequires proactive action by law enforcement and is not dependent on whether a request for information has been made\u2019\u2019).\nTroxell v. Rainier Pub. Sch. Dist. No. 307, 154 Wn.2d 345, 350, 111 P.3d 1173 (2005).\nIn re Estate of O\u2019Brien, 109 Wn.2d 913, 918, 749 P.2d 154 (1988).\nAs the majority explains, this statute was amended in 2015 to permit disclosures to \u201cany individual who requests information regarding a specific offender.\u2019\u2019 Laws of 2015, ch. 261, \u00a7 1(3); majority at 375 n.2.\nMajority at 373, 378.\nState v. Budik, 173 Wn.2d 727, 733, 272 P.3d 816 (2012).\nState v. Ervin, 169 Wn.2d 815, 823, 239 P.3d 354 (2010).\nCP at 297-98 (Decl. of John Clayton, Assistant Secretary of the Juvenile Justice and Rehabilitation Administration (JJ&RA) (\u201c[t]he JJ&RA has played a lead role in the Juvenile Sex Offender Management System since the passage of the [CPA] in 1990 [,] . . . has worked closely with the Department of Corrections and local law enforcement agencies to ensure effective implementation of the Act, . . . [and] has understood from the beginnings of our involvement in the . . . risk level process that . . . community notification of any kind has been limited to those youth that have been assessed as either a level 2 or level 3\u201d).\nMajority at 381 (first alteration in original) (quoting S.B. 5154, at 5, 64th Leg., Reg. Sess. (Wash. 2015)).\nId. at 384 (citing Resp\u2019ts John Does\u2019 Notice of Suppl. Auth., Ex. A at 23).\nSee id. (\u201cHad [the Sex Offender Policy Board\u2019s] recommendations been adopted, our decision on whether RCW 4.24.550 is an \u2018other statute\u2019 under the PRA would likely be different.\u2019\u2019).\nZink implies that it is impossible to know whether any record at issue in this case \u201cspecifically pertains\u2019\u2019 to any plaintiff, since the plaintiffs were allowed to proceed as a class. Br. of Appellants Zink at 32-33. This is incorrect: the class is defined as consisting only of individuals \u201cnamed\u201d in the records that Zink requested. CP at 1608, 1619.\nE.g., CP at 202-11.\nE.g., CP at 238-50.\nE.g., CP at 211 (John Doe declaration stating that declarant was fired after telling his employer that he was a registered level I offender), 283-84 (father of juvenile John Doe and his victims describing family\u2019s experience when son was briefly listed on state registry website).\nE.g., CP at 252-79, 297-302, 325-27.\nE.g., Br. of Appellants Zink at 15 (assigning error to trial court\u2019s finding that \u201cthe evidence submitted clearly showed that sex offenders identified by public disclosure face physical violence, stigmatization, mental and emotional distress, and loss of economic opportunity\u2019\u2019; assigning error to trial court\u2019s finding that \u201cdeclarations filed anonymously by convicted felons are credible\u2019\u2019).\nIn note 1 to her reply brief, Zink asserts that she \u201cprovided evidence of the relevance and need for public knowledge of all Level I sex offenders.\u2019\u2019 Reply Br. of Appellants Zink at 2 n.l. But the evidence she cites all relates to individual offenders and to information that affected individuals could obtain through specific requests. E.g., CP at 378-79 (article describing level I offender\u2019s arrest and charge in the death of a baby girl whose mother allowed him to live in her home), 381 (article quoting baby girl\u2019s mother stating that she checked Washington\u2019s online sex offender registry to find out whether defendant was listed, but found no information because he was a level I offender). None of this evidence explains why blanket as opposed to targeted disclosure of information on level I offenders would be in the public interest. In her \u201cMemorandum\u2019\u2019 opposing the permanent injunction, Zink argued that this \u201cevidence clearly shows the consequences to the public when sex offenders are secreted by law enforcement.\u2019\u2019 CP at 346. But the trial court did not rule that law enforcement agencies must hide the identities and locations of level I offenders, nor do the John Does argue that this is what RCW 4.24.550 requires. Instead, the trial court determined that law enforcement agencies have discretion to disclose all of the information in the sex offender registry pertaining to level I offenders, provided they do so only after considering the three factors in RCW 4.24.550(5). CP at 566.",
+        "type": "dissent",
+        "author": "Gordon McCloud, J."
+      }
+    ],
+    "attorneys": [
+      "Donna Zink, pro se.",
+      "Robert W. Ferguson, Attorney General, Shelley A. Williams, Managing Assistant, and John C. Hillman and Rebecca R. Glasgow, Assistants, for appellant Washington State Patrol.",
+      "Vanessa T. Hernandez (o\u00edAmerican Civil Liberties Union of Washington)-, and Steven W. Fogg and David B. Edwards (of Corr Cronin Michelson Baumgardner Fogg & Moore LLP), for respondents.",
+      "Amy I. Muth on behalf of Washington Association of Criminal Defense Lawyers, amicus curiae."
+    ],
+    "corrections": "",
+    "head_matter": "[No. 90413-8.\nArgued September 17, 2015.\nDecided April 7, 2016.\nJohn Doe A et al., Respondents, v. The Washington State Patrol et al., Appellants. John Doe C et al., Respondents, v. The Washington Association of Sheriffs and Police Chiefs, Defendant, Donna Zink, Appellant.\nDonna Zink, pro se.\nRobert W. Ferguson, Attorney General, Shelley A. Williams, Managing Assistant, and John C. Hillman and Rebecca R. Glasgow, Assistants, for appellant Washington State Patrol.\nVanessa T. Hernandez (o\u00edAmerican Civil Liberties Union of Washington)-, and Steven W. Fogg and David B. Edwards (of Corr Cronin Michelson Baumgardner Fogg & Moore LLP), for respondents.\nAmy I. Muth on behalf of Washington Association of Criminal Defense Lawyers, amicus curiae."
+  },
+  "file_name": "0363-01",
+  "first_page_order": 417,
+  "last_page_order": 458
+}

@@ -1,0 +1,78 @@
+{
+  "id": 12462985,
+  "name": "State, Respondent, v. Williams, Petitioner",
+  "name_abbreviation": "State v. Williams",
+  "decision_date": "2016-12-07",
+  "docket_number": "No. 93518-1",
+  "first_page": "1030",
+  "last_page": "1030",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "186 Wash. 2d 1030"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Wash.",
+    "id": 9029,
+    "name": "Washington Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 38,
+    "name_long": "Washington",
+    "name": "Wash."
+  },
+  "cites_to": [
+    {
+      "cite": "194 Wn. App. 1027",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        12451777,
+        12451778,
+        12451779,
+        12451780
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/194/1027-01",
+        "/wash-app/194/1027-02",
+        "/wash-app/194/1027-03",
+        "/wash-app/194/1027-04"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 27,
+    "char_count": 190,
+    "ocr_confidence": 0.86,
+    "sha256": "79902207a4b6a12baefcde93cdf1686d87247bc9e78175d59b15d69323b2fa9c",
+    "simhash": "1:81e948321d5956d5",
+    "word_count": 31
+  },
+  "last_updated": "2024-02-27T18:43:05.207238+00:00",
+  "provenance": {
+    "date_added": "2019-05-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "State, Respondent, v. Williams, Petitioner,"
+    ],
+    "opinions": [
+      {
+        "text": "Petition for review of a decision of the Court of Appeals, No. 72812-1-I, June 13, 2016, 194 Wn. App. 1027. Denied December 7, 2016.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "State, Respondent, v. Williams, Petitioner,\nNo. 93518-1."
+  },
+  "file_name": "1030-08",
+  "first_page_order": 1016,
+  "last_page_order": 1016
+}

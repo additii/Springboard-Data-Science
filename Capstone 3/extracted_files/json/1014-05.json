@@ -1,0 +1,78 @@
+{
+  "id": 12462856,
+  "name": "State, Respondent, v. Scott, Petitioner",
+  "name_abbreviation": "State v. Scott",
+  "decision_date": "2016-09-28",
+  "docket_number": "No. 93248-4",
+  "first_page": "1014",
+  "last_page": "1014",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "186 Wash. 2d 1014"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Wash.",
+    "id": 9029,
+    "name": "Washington Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 38,
+    "name_long": "Washington",
+    "name": "Wash."
+  },
+  "cites_to": [
+    {
+      "cite": "193 Wn. App. 1025",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        12450024,
+        12450025,
+        12450026,
+        12450027
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/193/1025-01",
+        "/wash-app/193/1025-02",
+        "/wash-app/193/1025-03",
+        "/wash-app/193/1025-04"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 27,
+    "char_count": 190,
+    "ocr_confidence": 0.869,
+    "sha256": "3c7bd15162c96bc8fbf39a61e2a73e463c612186cfe12e4bf58cef5fa38624c1",
+    "simhash": "1:0089c23b092989f9",
+    "word_count": 31
+  },
+  "last_updated": "2024-02-27T18:43:05.207238+00:00",
+  "provenance": {
+    "date_added": "2019-05-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "State, Respondent, v. Scott, Petitioner,"
+    ],
+    "opinions": [
+      {
+        "text": "Petition for review of a decision of the Court of Appeals, No. 73364-8-I, April 18, 2016, 193 Wn. App. 1025. Denied September 28, 2016.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "State, Respondent, v. Scott, Petitioner,\nNo. 93248-4."
+  },
+  "file_name": "1014-05",
+  "first_page_order": 1000,
+  "last_page_order": 1000
+}

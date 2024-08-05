@@ -1,0 +1,359 @@
+{
+  "id": 12456826,
+  "name": "The State of Washington, Petitioner, v. Cory A. Sundberg, Respondent",
+  "name_abbreviation": "State v. Sundberg",
+  "decision_date": "2016-03-03",
+  "docket_number": "No. 91660-8",
+  "first_page": "147",
+  "last_page": "157",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "185 Wash. 2d 147"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Wash.",
+    "id": 9029,
+    "name": "Washington Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 38,
+    "name_long": "Washington",
+    "name": "Wash."
+  },
+  "cites_to": [
+    {
+      "cite": "809 P.2d 209",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1991,
+      "opinion_index": 0
+    },
+    {
+      "cite": "60 Wn. App. 869",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        1719065
+      ],
+      "weight": 5,
+      "year": 1991,
+      "pin_cites": [
+        {
+          "page": "871"
+        },
+        {
+          "page": "871"
+        },
+        {
+          "page": "872"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/60/0869-01"
+      ]
+    },
+    {
+      "cite": "788 P.2d 1114",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1990,
+      "opinion_index": 0
+    },
+    {
+      "cite": "57 Wn. App. 471",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        1757088
+      ],
+      "weight": 2,
+      "year": 1990,
+      "pin_cites": [
+        {
+          "page": "476"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/57/0471-01"
+      ]
+    },
+    {
+      "cite": "183 P.3d 267",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2008,
+      "pin_cites": [
+        {
+          "parenthetical": "reversing defendant's conviction finding the instruction was erroneously given to the jury"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "163 Wn.2d 577",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        5682631
+      ],
+      "year": 2008,
+      "pin_cites": [
+        {
+          "page": "596-601",
+          "parenthetical": "reversing defendant's conviction finding the instruction was erroneously given to the jury"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/163/0577-01"
+      ]
+    },
+    {
+      "cite": "438 P.2d 185",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1968,
+      "opinion_index": 0
+    },
+    {
+      "cite": "73 Wn.2d 271",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1088506
+      ],
+      "year": 1968,
+      "pin_cites": [
+        {
+          "page": "276"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/73/0271-01"
+      ]
+    },
+    {
+      "cite": "816 P.2d 718",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1991,
+      "opinion_index": 0
+    },
+    {
+      "cite": "117 Wn.2d 479",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1373859
+      ],
+      "year": 1991,
+      "pin_cites": [
+        {
+          "page": "481"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/117/0479-01"
+      ]
+    },
+    {
+      "cite": "81 P.3d 830",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2003,
+      "opinion_index": 0
+    },
+    {
+      "cite": "150 Wn.2d 626",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        9195254
+      ],
+      "year": 2003,
+      "pin_cites": [
+        {
+          "page": "652"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/150/0626-01"
+      ]
+    },
+    {
+      "cite": "397 U.S. 358",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12054393
+      ],
+      "weight": 4,
+      "year": 1970,
+      "pin_cites": [
+        {
+          "page": "364"
+        },
+        {
+          "page": "364"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/397/0358-01"
+      ]
+    },
+    {
+      "cite": "336 P.3d 1134",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2014,
+      "pin_cites": [
+        {
+          "parenthetical": "alterations in original"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "181 Wn.2d 757",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4356270
+      ],
+      "year": 2014,
+      "pin_cites": [
+        {
+          "page": "762",
+          "parenthetical": "alterations in original"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/181/0757-01"
+      ]
+    },
+    {
+      "cite": "258 P.3d 43",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2011,
+      "opinion_index": 0
+    },
+    {
+      "cite": "172 Wn.2d 438",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4018144
+      ],
+      "year": 2011,
+      "pin_cites": [
+        {
+          "page": "442"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/172/0438-01"
+      ]
+    },
+    {
+      "cite": "357 P.3d 666",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2015,
+      "opinion_index": 0
+    },
+    {
+      "cite": "184 Wn.2d 1001",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        12440946,
+        12440947,
+        12440948,
+        12440949,
+        12440950
+      ],
+      "year": 2015,
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/184/1001-01",
+        "/wash-2d/184/1001-02",
+        "/wash-2d/184/1001-03",
+        "/wash-2d/184/1001-04",
+        "/wash-2d/184/1001-05"
+      ]
+    },
+    {
+      "cite": "185 Wn. App. 1051",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        4357544,
+        4357928,
+        4358520,
+        4361695
+      ],
+      "year": 2015,
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/185/1051-01",
+        "/wash-app/185/1051-04",
+        "/wash-app/185/1051-02",
+        "/wash-app/185/1051-03"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 870,
+    "char_count": 18649,
+    "ocr_confidence": 0.888,
+    "pagerank": {
+      "raw": 5.8591662004228935e-08,
+      "percentile": 0.3676650646427649
+    },
+    "sha256": "bec8e7a8dfef27a4859457543e7481767c1e809f6b89a5c513893262767e696a",
+    "simhash": "1:e3f36416f1ad12a2",
+    "word_count": 3022
+  },
+  "last_updated": "2024-02-28T00:06:59.447104+00:00",
+  "provenance": {
+    "date_added": "2019-05-22",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Madsen, C.J., and Owens, Fairhurst, Stephens, Wiggins, Gonz\u00e1lez, Gordon McCloud, and Yu, JJ., concur."
+    ],
+    "parties": [
+      "The State of Washington, Petitioner, v. Cory A. Sundberg, Respondent."
+    ],
+    "opinions": [
+      {
+        "text": "Johnson, J.\n\u00b61 This case asks us to determine whether a prosecutor commits error when, during closing rebuttal argument, he comments that the defendant failed to call a witness to corroborate his affirmative defense of unwitting possession of a controlled substance. We hold that in a criminal prosecution where the defendant has the burden to establish an affirmative defense, no error occurs where the prosecutor comments on the defendant\u2019s failure to present evidence or testimony in support of the defense. Thus, we find no error in this case and reverse the Court of Appeals.\nFacts and Procedural History\n\u00b62 Cory Sundberg was charged with and convicted of unlawful possession of a controlled substance (methamphetamine) under RCW 69.50.4013(1). This statute sets forth a strict liability crime in that knowledge of the possession is not an element of the offense that the State has to prove. To reduce the harshness of this offense, courts have created an unwitting possession defense and placed the burden on the defendant to establish the defense by a preponderance of the evidence. At trial, the thrust of Sundberg\u201ds argument was to assert an unwitting possession defense, assuming this burden of proof.\n\u00b63 Sundberg was arrested on an outstanding warrant while working on his foster father\u2019s property, where he also resided. Sundberg was performing maintenance on a shed and cleaning the outside of their mobile home on the day he was arrested. Before being taken into custody, Sundberg asked the arresting officer\u2019s permission to change out of his work overalls because they were wet from pressure washing the roof and sides of the house. Despite his request, Sundberg was transported to jail while wearing the overalls.\n\u00b64 Sundberg was taken to the county jail and given a set of jail clothing. The clothes Sundberg was wearing were given to a corrections officer for an inventory search. In a front bib pocket of the overalls, the corrections officer found a clear plastic bag containing a white substance. At trial, Sundberg stipulated to the fact that the bag found in the front bib pocket of the overalls contained 0.1 grams of methamphetamine.\n\u00b65 In his testimony, Sundberg argued unwitting possession, claiming he had no idea there were drugs in the front bib pocket of his overalls or that he knew the small plastic bag was even there.\n\u00b66 Sundberg testified that a man named Paul Wood\u2014a name the defense brought up for the first time during Sund-berg\u2019s trial testimony\u2014helped with work on the house and shed for roughly six days just prior to the arrest. Sundberg had put out word that he needed some help and learned about Wood, who was looking for work, through his neighbors. Sundberg claimed that he occasionally lent Wood overalls to work underneath Sundberg\u2019s house and shed to prevent Wood from ruining his own clothes, which were not suited for this type of work. Sundberg estimated that Wood borrowed the overalls four of the six days Wood helped with work. Sundberg testified that prior to the day of his arrest, he wore the overalls only once during the period of time he employed Wood. Sundberg testified that Wood was not present on the day he was arrested either because Sund-berg dismissed him or because Wood failed to show up that day.\n\u00b67 The prosecutor cross-examined both Sundberg and his foster father about the existence, duties, and details of Paul Wood as a hired laborer. The prosecutor inquired into why Sundberg lent Wood his coveralls, why Wood needed to borrow coveralls, how well Sundberg knew Wood, how close the two lived to each other, how often Sundberg saw Wood, and if Sundberg could get ahold of Wood if needed.\n\u00b68 In closing argument, Sundberg\u2019s attorney asserted it was reasonable to believe Sundberg did not know the bag with methamphetamine was in the front bib pocket of his overalls. Sundberg\u2019s attorney acknowledged that to successfully raise an affirmative defense of unwitting possession of the drugs, he had \u201cto present enough evidence to show by a preponderance that he didn\u2019t know [the methamphetamine] was there.\u201d 1 Verbatim Report of Proceedings (VRP) at 187. His attorney also asserted that \u201c[t]he only evidence we have that [Sundberg] did not know that the methamphetamine was in his pocket was his own words.\u201d 1 VRP at 187. Additionally, despite the extensive cross-examination concerning Wood, Sundberg\u2019s attorney explained in closing argument that very little was known about Paul Wood\u2014 only that he was hired as a laborer to help Sundberg for roughly a week, that he borrowed Sundberg\u2019s overalls to protect his clothes, and that Wood was not present on the day Sundberg was arrested.\n\u00b69 The claimed error on appeal occurred where, in the State\u2019s rebuttal closing argument, the prosecutor attacked Sundberg\u2019s affirmative defense. The State argued, \u201c[T]his enigmas [sic], mysterious man named Paul Wood\u2014he might as well be called John Doe.\u201d 1 VRP at 195. The State focused on what little was known about Wood:\nI asked [Sundberg] okay, tell us about Paul Wood; describe him for us, do you know him, how do you know him. [Sundberg] says he sees him about twice a week. He says he can get a hold of him. Why isn\u2019t he here testifying? It\u2019s their burden. He\u2019s not here. There\u2019s no evidence . . . that he . . . even exists.\n1 VRP at 195 (emphasis added). Sundberg objected to the prosecutor\u2019s argument, and the court overruled the objection. The prosecutor continued by saying Sundberg\u2019s testimony \u201cwas obviously designed to tell a story to corroborate his defense. And again, it was his burden. He didn\u2019t bring in Paul Wood.\u201d 1 VRP at 196 (emphasis added).\n\u00b610 Out of the presence of the jury, Sundberg asked the court to instruct the jury to disregard the State\u2019s argument that Sundberg failed to call Wood to testify. Sundberg argued the State\u2019s comments were improper unless the prosecutor asked for a missing witness instruction. The State did not propose such an instruction. The court denied Sundberg\u2019s request to disregard the State\u2019s argument for two reasons. First, the court found no misconduct in the State\u2019s closing argument, and second, Sundberg failed to identify case law to warrant such an instruction. Sundberg was convicted.\n\u00b611 Sundberg moved for a new trial, arguing prosecu-torial misconduct pursuant to CrR 7.5(a)(2). The court denied Sundberg\u2019s motion, ruling that there was no pro-secutorial misconduct concerning the missing witness, Paul Wood. The court also ruled that the defense did not meet its burden of showing, to a substantial likelihood, that the jury verdict would have been affected.\n\u00b612 In an unpublished opinion, the Court of Appeals reversed Sundberg\u2019s conviction, holding that while the prosecutor\u2019s comments did not improperly shift the burden of proof, they did impermissibly invoke the missing witness doctrine. State v. Sundberg, noted at 185 Wn. App. 1051 (2015). The court held that the prosecutor\u2019s comments on the defense\u2019s failure to call Wood to testify did not improperly shift the burden of proof from the State to Sundberg because an attack on Sundberg\u2019s evidence was proper where he had the burden to prove his affirmative defense of unwitting possession by a preponderance of the evidence. Nonetheless, the court held that the prosecutor committed misconduct by improperly invoking the missing witness doctrine, which created a substantial likelihood the jury verdict was affected. We granted the State\u2019s petition for review. State v. Sundberg, 184 Wn.2d 1001, 357 P.3d 666 (2015).\nAnalysis\n\u00b613 For a prosecutor\u2019s comments to rise to the level of misconduct, they must be both improper and prejudicial. State v. Thorgerson, 172 Wn.2d 438, 442, 258 P.3d 43 (2011). Improper comments become prejudicial if there is a substantial likelihood that the prosecutor\u2019s comments affected the jury\u2019s verdict. Thorgerson, 172 Wn.2d at 442-43.\n\u00b614 In a criminal prosecution, the State must prove \u201c \u2018beyond a reasonable doubt . . . every fact necessary to constitute the crime with which [a defendant] is charged.\u2019 \u201d State v. W.R., 181 Wn.2d 757, 762, 336 P.3d 1134 (2014) (alterations in original) (quoting In re Winship, 397 U.S. 358, 364, 90 S. Ct. 1068, 25 L. Ed. 2d 368 (1970)). A corollary rule founded on the concern for a defendant\u2019s right to due process under the Sixth Amendment to the federal constitution is that a prosecutor may not comment on a defendant\u2019s lack of evidence because the defendant has no duty to present evidence. State v. Cheatam, 150 Wn.2d 626, 652, 81 P.3d 830 (2003); see Winship, 397 U.S. at 364.\n\u00b6 15 One exception to this rule is that if the defendant testifies about an exculpatory theory or defense that could have been corroborated by an available witness, then, in limited circumstances, the State may call attention to the defendant\u2019s failure to offer corroborating evidence. State v. Blair, 117 Wn.2d 479, 481, 816 P.2d 718 (1991). In the case before us, the State\u2019s actions fall into exactly this classification.\n\u00b616 Here, the defendant testified and was cross-examined, so no concerns under the Fifth Amendment to the federal constitution exist, as may arise where comments are made concerning a defendant\u2019s exercise of the right to remain silent or the choice not to testify. Similarly, as the Court of Appeals correctly recognized, the Sixth Amendment concerns implicated\u2014which can arise where the State improperly shifts its burden to the defendant\u2014are not applicable here. A defendant who asserts an unwitting possession defense bears the burden to present evidence in support of the defense. The Court of Appeals, however, concluded that the prosecutor\u2019s comments improperly (and inferentially) invoked the missing witness doctrine, requiring reversal. We disagree.\n\u00b617 The missing witness doctrine is a well-established rule that permits the jury to infer that evidence or testimony would be unfavorable to a party if that \u201c \u2018evidence which would properly be part of a case is within the control of the party whose interest it would naturally be to produce it, and[ that party] fails to do so.\u2019\u201d Blair, 117 Wn.2d at 485-86 (quoting State v. Davis, 73 Wn.2d 271, 276, 438 P.2d 185 (1968)). Where the missing witness instruction is requested by a party and given by the court, the judge informs the jury that if a person who could have been a witness at the trial is not called to testify, the jury may infer that the person\u2019s testimony would have been unfavorable to the party who would naturally have called that witness.\n\u00b618 It should be noted that the constitutional principles underlying the Fifth and Sixth Amendments, along with other concerns, significantly limit the circumstances where the missing witness instruction may be used. These limitations are expressed in Blair and Washington Practice and were analyzed in State v. Montgomery, 163 Wn.2d 577, 596-601, 183 P.3d 267 (2008) (reversing defendant\u2019s conviction finding the instruction was erroneously given to the jury). Here, unlike Montgomery, no missing witness instruction was given and Sundberg testified at trial.\n\u00b619 In Blair, a case similar to the facts here\u2014where the jury was not given the missing witness instruction and the prosecutor\u2019s arguments were challenged as being improper\u2014the missing witness doctrine was analyzed and no error was found. Although that case did not involve an affirmative defense, the defendant testified and we held that it was proper for the prosecutor in challenging the defendant\u2019s testimony to comment on the defendant\u2019s failure to produce testimonial evidence to support a defense theory. In Blair, the defendant challenged his conviction of unlawful delivery of a controlled substance, arguing that the prosecutor committed reversible error by commenting during closing argument on the defendant\u2019s failure to call certain witnesses. The defendant in that case was arrested in his apartment, where sheets of paper with handwritten notes on them were seized by the police. During trial, the prosecution witnesses described the sheets of paper as \u201c \u2018crib\u2019 notes or sheets, of a kind commonly found at locations where drugs are sold and constituting a \u2018crude business ledger.\u2019 \u201d Blair, 117 Wn.2d at 482. The sheets contained lists of people, generally by first name only, with corresponding numbers across from the names. The defendant testified, claiming most of the names and numbers on the sheets of paper indicated personal loans and amounts owed to him for card games, travel arrangements, rent, and a medical appointment. In closing argument, the prosecutor referred to the sheets, saying:\n\u201c[T]hose people weren\u2019t brought in to tell you those were gambling debts for you to evaluate the contents of their testimony or their demeanor.\u201d\n\u201c. . . [A]sk yourselves that if this were true that these were gambling debts and you were in the defendant\u2019s shoes and you knew who all these people were ... wouldn\u2019t the first thing that would cross your mind be to bring in the friends that he says he loaned money to, say, \u2018Joe, I need you to come in\u2019?\n\u201cAnd if Joe doesn\u2019t want to come in, he\u2019d want to subpoena him and Sam and Fred and Paul and everybody else that\u2019s on that list and say, \u2018Well, what\u2019s this for?\u2019 \u2018Well, it\u2019s a gambling debt.\u2019 And if he didn\u2019t do that, couldn\u2019t you infer that their answer wouldn\u2019t have been, \u2018It was a loan. It\u2019s a gambling debt\u2019?\u201d\nBlair, 117 Wn.2d at 483-84. In closing rebuttal argument, the prosecutor continued, \u201c \u2018Why not put or bring them all in and settle the matter? There\u2019s a reason for that, and the reason is simple. He couldn\u2019t bring those people in to say what he wanted them to say.\u2019 \u201d Blair, 117 Wn.2d at 484.\n\u00b620 We held in Blair that \u201c[t]he prosecutor was entitled to argue the reasonable inference from the evidence presented\u201d because the defendant specifically testified about the notations on the sheets of paper. Blair, 117 Wn.2d at 491. Notably, we found no error occurred and no constitutional concerns were implicated. Our reasoning in Blair relied on Court of Appeals\u2019 decisions (State v. Contreras, 57 Wn. App. 471, 788 P.2d 1114 (1990), and State v. Barrow, 60 Wn. App. 869, 809 P.2d 209 (1991)) to conclude that\u2014in limited situations where a defendant actually testifies\u2014 prosecutors are permitted to comment on a defendant\u2019s failure to produce corroborative evidence to support their testimony and that such comments do not improperly shift the burden of proof. The same reasoning applies equally here, where Sundberg testified about Woods and was cross-examined.\n\u00b621 A defendant bears the responsibility of proving an affirmative defense by a preponderance of the evidence, and no error occurs where the prosecutor attacks such evidence or a lack thereof. This distinction is especially pertinent here, where the prosecutor\u2019s arguments related directly to the cross-examination of the defendant concerning Paul Wood. The missing witness doctrine plays no part in such circumstances. Additionally, while Blair recognized and discussed limitations applicable to the missing witness doctrine when the State would commit error in commenting on the defendant\u2019s evidence, those limitations are irrelevant here. Significantly, Blair found no constitutional error occurred. This conclusion is supported by the reasoning in other cases.\n\u00b622 In Contreras, the Court of Appeals correctly held that it is permissible for a prosecutor to inquire into a defendant\u2019s failure to present evidence that would corroborate defense testimony:\nWhen a defendant advances a theory exculpating him, the theory is not immunized from attack. On the contrary, the evidence supporting a defendant\u2019s theory of the case is subject to the same searching examination as the State\u2019s evidence. The prosecutor may comment on the defendant\u2019s failure to call a witness so long as it is clear the defendant was able to produce the witness and the defendant\u2019s testimony unequivocally implies the uncalled witness\u2019s ability to corroborate his theory of the case.\nContreras, 57 Wn. App. at 476. While Contreras differs in that it involves a defendant who failed to call an alibi witness to testify, the rationale applies to our case nonetheless. Here, Sundberg\u2014by tacitly pointing the finger at Paul Wood\u2014was in the unique situation specified in Contreras. Sundberg was the only party able to produce Woods, and Woods, if called, could at least to some degree corroborate Sundberg\u201ds theory of unwitting possession.\n\u00b623 In another case factually and procedurally similar to the one here, the Court of Appeals reaffirmed a prosecutor\u2019s argument challenging a defendant\u2019s lack of corroborative testimony evidence. Barrow, 60 Wn. App. 869. This case involved a defendant charged with unlawful possession of a controlled substance (a narcotics pipe that contained cocaine residue). Like our case, Barrow raised an affirmative defense of unwitting possession. Barrow testified that the pipe was his brother\u2019s, that he \u201chad surreptitiously taken the pipe from his brother in hopes of using it to get high with somebody, and that he therefore had not known the pipe contained cocaine residue.\u201d Barrow, 60 Wn. App. at 871. During closing argument, the prosecutor questioned whether Barrow\u2019s testimony was believable and repeatedly asked \u201c\u2018[w]here is his brother\u2019\u201d who could corroborate Barrow\u2019s defense. Barrow, 60 Wn. App. at 871. The court held that such comments were acceptable, reasoning that \u201ca prosecutor can question a defendant\u2019s failure to provide corroborative evidence if the defendant testified about an exculpatory theory that could have been corroborated by an available witness.\u201d Barrow, 60 Wn. App. at 872. Here, Sund-berg testified asserting an affirmative defense and was questioned extensively about Paul Wood during cross-examination. We hold no error occurred.\n\u00b624 We reverse the Court of Appeals.\nMadsen, C.J., and Owens, Fairhurst, Stephens, Wiggins, Gonz\u00e1lez, Gordon McCloud, and Yu, JJ., concur.\nCrR 7.5(a)(2) provides, \u201cGrounds for New Trial. The court on motion of a defendant may grant a new trial for any one of the following causes when it affirmatively appears that a substantial right of the defendant was materially affected: ... (2) Misconduct of the prosecution or jury.\u201d\n11 Washington Practice: Washington Pattern Jury Instructions: Criminal 5.20, at 177 (3d ed. 2008).",
+        "type": "majority",
+        "author": "Johnson, J."
+      }
+    ],
+    "attorneys": [
+      "Michael K. Dorcy, Prosecuting Attorney, and Timothy J. Higgs, Deputy, for petitioner.",
+      "Peter B. Tiller (of The Tiller Law Firm), for respondent.",
+      "Pamela B. Loginsky on behalf of Washington Association of Prosecuting Attorneys, amicus curiae."
+    ],
+    "corrections": "",
+    "head_matter": "[No. 91660-8.\nArgued January 19, 2016.\nDecided March 3, 2016.\nThe State of Washington, Petitioner, v. Cory A. Sundberg, Respondent.\nMichael K. Dorcy, Prosecuting Attorney, and Timothy J. Higgs, Deputy, for petitioner.\nPeter B. Tiller (of The Tiller Law Firm), for respondent.\nPamela B. Loginsky on behalf of Washington Association of Prosecuting Attorneys, amicus curiae."
+  },
+  "file_name": "0147-01",
+  "first_page_order": 201,
+  "last_page_order": 211
+}

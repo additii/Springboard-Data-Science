@@ -1,0 +1,78 @@
+{
+  "id": 12462804,
+  "name": "State, Respondent, v. Alden, Petitioner",
+  "name_abbreviation": "State v. Alden",
+  "decision_date": "2016-08-31",
+  "docket_number": "No. 93133-0",
+  "first_page": "1007",
+  "last_page": "1007",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "186 Wash. 2d 1007"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Wash.",
+    "id": 9029,
+    "name": "Washington Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 38,
+    "name_long": "Washington",
+    "name": "Wash."
+  },
+  "cites_to": [
+    {
+      "cite": "192 Wn. App. 1070",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        12456360,
+        12456361,
+        12456358,
+        12456359
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/192/1070-03",
+        "/wash-app/192/1070-04",
+        "/wash-app/192/1070-01",
+        "/wash-app/192/1070-02"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 27,
+    "char_count": 188,
+    "ocr_confidence": 0.849,
+    "sha256": "92b8a0486184186de8b88b983d120d81209afdddf8f11c4e8438f86427a75600",
+    "simhash": "1:04917c1b0451e478",
+    "word_count": 31
+  },
+  "last_updated": "2024-02-27T18:43:05.207238+00:00",
+  "provenance": {
+    "date_added": "2019-05-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "State, Respondent, v. Alden, Petitioner,"
+    ],
+    "opinions": [
+      {
+        "text": "Petition for review of a decision of the Court of Appeals, No. 32695-1-III, March 8, 2016, 192 Wn. App. 1070. Denied August 31, 2016.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "State, Respondent, v. Alden, Petitioner,\nNo. 93133-0."
+  },
+  "file_name": "1007-07",
+  "first_page_order": 993,
+  "last_page_order": 993
+}

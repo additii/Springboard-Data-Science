@@ -1,0 +1,76 @@
+{
+  "id": 12457151,
+  "name": "State, Respondent, v. Castillo-Lopez, Petitioner",
+  "name_abbreviation": "State v. Castillo-Lopez",
+  "decision_date": "2016-06-29",
+  "docket_number": "No. 92899-1",
+  "first_page": "1038",
+  "last_page": "1038",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "185 Wash. 2d 1038"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Wash.",
+    "id": 9029,
+    "name": "Washington Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 38,
+    "name_long": "Washington",
+    "name": "Wash."
+  },
+  "cites_to": [
+    {
+      "cite": "192 Wn. App. 741",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        12456090
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/192/0741-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 27,
+    "char_count": 196,
+    "ocr_confidence": 0.873,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.25742523984989085
+    },
+    "sha256": "7d96862b8b415474fb8ef384aa327bf48dcf9fa2a39ed9f2d921f4904fc27269",
+    "simhash": "1:81f9536771474dfd",
+    "word_count": 31
+  },
+  "last_updated": "2024-02-28T00:06:59.447104+00:00",
+  "provenance": {
+    "date_added": "2019-05-22",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "State, Respondent, v. Castillo-Lopez, Petitioner,"
+    ],
+    "opinions": [
+      {
+        "text": "Petition for review of a decision of the Court of Appeals, No. 46717-8-II, February 9, 2016, 192 Wn. App. 741. Denied June 29, 2016.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "State, Respondent, v. Castillo-Lopez, Petitioner,\nNo. 92899-1."
+  },
+  "file_name": "1038-07",
+  "first_page_order": 990,
+  "last_page_order": 990
+}

@@ -1,0 +1,296 @@
+{
+  "id": 1357232,
+  "name": "Scoles v. Weaver",
+  "name_abbreviation": "Scoles v. Weaver",
+  "decision_date": "1923-02-12",
+  "docket_number": "",
+  "first_page": "167",
+  "last_page": "170",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "157 Ark. 167"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [
+    {
+      "cite": "145 S. W. 532",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "142 Ark. 100",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1590568
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/142/0100-01"
+      ]
+    },
+    {
+      "cite": "97 Ark. 290",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1318814
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/97/0290-01"
+      ]
+    },
+    {
+      "cite": "42 Ark. 200",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        8722764
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/42/0200-01"
+      ]
+    },
+    {
+      "cite": "103 Ark. 12",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1351956
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/103/0012-01"
+      ]
+    },
+    {
+      "cite": "52 Ark. 564",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "23 Ark. 61",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1866040
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/23/0061-01"
+      ]
+    },
+    {
+      "cite": "144 Ark. 146",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1588034
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/144/0146-01"
+      ]
+    },
+    {
+      "cite": "20 Ark. 583",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1869253
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/20/0583-01"
+      ]
+    },
+    {
+      "cite": "16 Ark. 104",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        8724152
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/16/0104-01"
+      ]
+    },
+    {
+      "cite": "52 Ark. 364",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1913422
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/52/0364-01"
+      ]
+    },
+    {
+      "cite": "60 Ark. 62",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1903657
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/60/0062-01"
+      ]
+    },
+    {
+      "cite": "74 Ark. 277",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        8720314
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/74/0277-01"
+      ]
+    },
+    {
+      "cite": "67 Ark. 284",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1152582
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/67/0284-01"
+      ]
+    },
+    {
+      "cite": "150 Ark. 43",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1367945
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/150/0043-01"
+      ]
+    },
+    {
+      "cite": "145 Ark. 466",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1586193
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/145/0466-01"
+      ]
+    },
+    {
+      "cite": "111 Ark. 190",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1540388
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/111/0190-01"
+      ]
+    },
+    {
+      "cite": "142 Ark. 100",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1590568
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/142/0100-01"
+      ]
+    },
+    {
+      "cite": "103 Ark. 12",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1351956
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/103/0012-01"
+      ]
+    },
+    {
+      "cite": "144 Ark. 146",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1588034
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/144/0146-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 368,
+    "char_count": 6806,
+    "ocr_confidence": 0.492,
+    "pagerank": {
+      "raw": 1.236523951772729e-07,
+      "percentile": 0.6068610563781904
+    },
+    "sha256": "b09bd9de856be22f3509b51502e677fff4d7b773cf1c1bed94a9fe2146542bd2",
+    "simhash": "1:7db0af95b15624aa",
+    "word_count": 1226
+  },
+  "last_updated": "2024-02-27T20:13:54.858580+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Scoles v. Weaver."
+    ],
+    "opinions": [
+      {
+        "text": "Hart, J.,\n(after stating the facts). Where a cause is tried before the court, the finding of a court sitting as a jury will not be disturbed on appeal if there is any substantial legal evidence to support it. Greenspan v. Miller, 111 Ark. 190; Youngblood v. Thorn, 145 Ark. 466; and Thomas v. Thomas, 150 Ark. 43.\nAccording to the testimony of the defendant, he was a gratuitous bailee, and, under the rule just announced, the finding of the circuit court to that effect will not be disturbed on appeal. A gratuitous bailee is only bound to use slight care in the protection of the property intrusted to him, and is responsible for its loss only-in case of gross negligence. Baker v. Bailey, 103 Ark. 12; Strange v. Planters\u2019 Gin Co., 142 Ark. 100, and Rollins v. East St. Louis Cotton Co., 144 Ark. 146.\nAccording to the cases cited, gross negligence is nothing more than a failure to bestow that care which the property in its situation demands; and whether this existed was a question of fact for the court sitting as a jury to determine.\nAccording to the testimony of the defendant, he had no control whatever over the cotton stored in his warehouse.- The persons owning the cotton placed it in there and tagged it themselves. When the defendant got ready to use his warehouse he notified them, and they came and took away their cotton. The defendant had no control whatever over it, and it cannot be said, under the facts and circumstances, as viewed from his standpoint, that he was guilty of gross negligence in the premises. The court having found in his favor on this point, we are not at liberty to disturb the finding on appeal.\nIt follows that the judgment must be affirmed.",
+        "type": "majority",
+        "author": "Hart, J.,"
+      }
+    ],
+    "attorneys": [
+      "David L. King, for appellant.",
+      "Arthur Sullivan and C. E. Elmore, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Scoles v. Weaver.\nOpinion delivered February 12, 1923.\n1. Appeal and error \u2014 conclusiveness of finding of court. \u2014 The finding of the circuit court sitting as a jury will not be disturbed on appeal if supported by substantial evidence.\n2. Bailment \u2014 liability of gratuitous bailee. \u2014 A gratuitous bailee is bound to use only slight care in the protection of property intrusted to him, and is responsible for its loss only in case of gross negligence.\n3. Negligence \u2014 gross negligence defined. \u2014 Gross negligence by a bailee is nothing more than a failure to bestow that care which the property in its situation demands.\nAppeal from Sharp Circuit Court, Northern District; J. B. Baker, Judge;\naffirmed.\nSTATEMENT OF FACTS.\nJ. S. Scoles sued Lee Weaver to recover the sum of $109, alleged to be the value of a bale of cotton placed by the plaintiff in the hands of the defendant as a bailee, and lost through his negligence.\nAccording to the testimony of J. B. Scoles and his son, they carried a bale of cotton weighing 545 pounds from the gin and deposited it in the warehouse of the defendant, Lee Weaver. Before putting the cotton in the defendant\u2019s warehouse, they asked his permission to place it there, and received the key of the warehouse for that purpose. After putting the bale of cotton in the warehouse, they put a tag with the name of the plaintiff on it. They then locked the door and carried the key back to Weaver. This was about the last of January, 1921. During the first part of October, 3921, the plaintiff went to get his cotton for the purpose of selling it, and found that it was not in the warehouse of the defendant. He went to see the defendant about it, and offered to pay him the customary price for storage, but the defendant refused to receive the money, and denied that the cotton had ever been placed in his warehouse.\nOther witnesses for the plaintiff testified that they put their cotton in the defendant\u2019s warehouse during the month of January, 1921, and that they considered it an accommodation to do so, because it was the only place in town where they could store the cotton and keep it out of the weather. They had no special agreement with the defendant to pay him for keeping the cotton. After it had been in the defendant\u2019s warehouse about two months, he notified them to take the cotton out, and they did so: They paid him twenty-five cents storage per month on each bale. ' They tagged the cotton so as to identify it when they put it in the warehouse, and went and.got it out themselves. Most of the witnesses said that the defendant had no control over the cotton, except that he let them store it in his warehouse. One- of them said that it was his understanding that they were to pay for storing the cotton in the defendant\u2019s warehouse; but that he did not get this impression from any agreement with the defendant. Quite- a number of people were storing cotton in the defendant\u2019s warehouse about the same time, and it was generally understood among them that they were to pay the defendant for storing the cotton with him.\nAccording to the testimony of the defendant, he let a number of people store their cotton in his barn in January, 1921, simply as a matter of accommodation. He told the people that they might put their cotton in there until he got ready to use his barn. About two months thereafter the defendant notified the people that he would need his barn, and they came and got their cotton out of it. Some of them paid him storage charges, and some did not pay him. He made no storage charges to any one, and only received payment as it was voluntarily made. The defendant had no control over the cotton whatever, and it was placed in his warehouse and was taken out of it without his ever exercising any control whatever over it. The defendant did not have any recollection whatever of the plaintiff storing a bale of cotton in his warehouse, and did not know what became of it, if the plaintiff did store it with him. The bale of cotton was not in the warehouse when the plaintiff came for it in October, 1921, and no trace of it could be found.\nThe case was tried before the court without a jury. The court found that the plaintiff had stored the cotton in the defendant\u2019s warehouse, and that it had been lost. The court further found that the defendant was a gratuitous bailee, and had not been guilty of gross negligence in the premises. Therefore judgment was rendered in favor of the defendant, and the plaintiff has appealed.\nDavid L. King, for appellant.\nAppellee was not a gratuitous bailee, but a bailee .for hire, as appears by his own testimony. The bailment being reciprocally beneficial, appellee is answerable for want of \u2018ordinary care. 67 Ark. 284; 74 Ark. 277; 137 Ark; 79; 101 Ark; 75; Ann. Cases, 1912-B, 430; 21 Ann. Cas. 96; Id. 842; 60 Ark. 62; 52 Ark. 364; 16 Ark. 104; 20 Ark. 583.\nArthur Sullivan and C. E. Elmore, for appellee.\nAppellee was a gratutious bailee, and answerable only for gross negligence. 144 Ark. 146; 23 Ark. 61; 52 Ark. 564; 103 Ark. 12; 42 Ark. 200; 97 Ark. 290; 142 Ark. 100; 67 Ark. 284; 145 S. W. 532 (Ark.)."
+  },
+  "file_name": "0167-01",
+  "first_page_order": 189,
+  "last_page_order": 192
+}

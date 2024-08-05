@@ -1,0 +1,76 @@
+{
+  "id": 12457177,
+  "name": "State, Respondent, v. Brinkley, Petitioner",
+  "name_abbreviation": "State v. Brinkley",
+  "decision_date": "2016-08-03",
+  "docket_number": "No. 92979-3",
+  "first_page": "1042",
+  "last_page": "1042",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "185 Wash. 2d 1042"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Wash.",
+    "id": 9029,
+    "name": "Washington Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 38,
+    "name_long": "Washington",
+    "name": "Wash."
+  },
+  "cites_to": [
+    {
+      "cite": "192 Wn. App. 456",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        12456069
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/192/0456-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 27,
+    "char_count": 190,
+    "ocr_confidence": 0.844,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.25742659128003215
+    },
+    "sha256": "e08aee14a24dcaa56e66aa4b89de9f58c2baa728d7d25ea761ceebd16e117a08",
+    "simhash": "1:18117ab37945423f",
+    "word_count": 31
+  },
+  "last_updated": "2024-02-28T00:06:59.447104+00:00",
+  "provenance": {
+    "date_added": "2019-05-22",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "State, Respondent, v. Brinkley, Petitioner,"
+    ],
+    "opinions": [
+      {
+        "text": "Petition for review of a decision of the Court of Appeals, No. 72852-1-I, February 1, 2016, 192 Wn. App. 456. Denied August 3, 2016.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "State, Respondent, v. Brinkley, Petitioner,\nNo. 92979-3."
+  },
+  "file_name": "1042-01",
+  "first_page_order": 994,
+  "last_page_order": 994
+}

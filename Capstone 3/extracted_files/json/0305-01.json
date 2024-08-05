@@ -1,0 +1,553 @@
+{
+  "id": 8721382,
+  "name": "Caddo Central Oil & Refining Corporation v. Boat-Right & Cheesman",
+  "name_abbreviation": "Caddo Central Oil & Refining Corp. v. Boat-Right & Cheesman",
+  "decision_date": "1923-06-04",
+  "docket_number": "",
+  "first_page": "305",
+  "last_page": "310",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "159 Ark. 305"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [
+    {
+      "cite": "144 Ark. 402",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "145 Ark. 273",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1586144
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/145/0273-01"
+      ]
+    },
+    {
+      "cite": "139 S. W. 543",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "99 Ark. 648",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "116 S. W. 660",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "89 Ark. 321",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1515255
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/89/0321-01"
+      ]
+    },
+    {
+      "cite": "84 S. W. 469",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "73 Ark. 377",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1504005
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/73/0377-01"
+      ]
+    },
+    {
+      "cite": "3 S. W. 58",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "78 Ark. 19",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "86 S. W. 1001",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "143 S. W. 92",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "102 Ark. 200",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1354063
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/102/0200-01"
+      ]
+    },
+    {
+      "cite": "82 Ark. 372",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1529066
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/82/0372-01"
+      ]
+    },
+    {
+      "cite": "74 Ark. 16",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        8717702
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/74/0016-01"
+      ]
+    },
+    {
+      "cite": "115 S. W. 950",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "113 S. W. 639",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "87 Ark. 65",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1519106
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/87/0065-01"
+      ]
+    },
+    {
+      "cite": "123 S. W. 781",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "92 Ark. 569",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1548562
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/92/0569-01"
+      ]
+    },
+    {
+      "cite": "17 Ark. 478",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        8726530
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/17/0478-01"
+      ]
+    },
+    {
+      "cite": "131 S. W. 878",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "96 Ark. 405",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1541935
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/96/0405-01"
+      ]
+    },
+    {
+      "cite": "9 L. R. A. (N. S.) 1007",
+      "category": "reporters:federal",
+      "reporter": "L.R.A.N.S.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "142 Ark. 584",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1590569
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/142/0584-01"
+      ]
+    },
+    {
+      "cite": "98 Ark. 583",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1316075
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/98/0583-01"
+      ]
+    },
+    {
+      "cite": "85 Ark 30",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1523354
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/85/0030-01"
+      ]
+    },
+    {
+      "cite": "15 L. R. A (N. S.) 1162",
+      "category": "reporters:federal",
+      "reporter": "L.R.A.N.S.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "145 Ark. 303",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1586148
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/145/0303-01"
+      ]
+    },
+    {
+      "cite": "151 Ark. 35",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "144 Ark. 58",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1587938
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/144/0058-01"
+      ]
+    },
+    {
+      "cite": "142 Ark. 223",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1590541
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/142/0223-01"
+      ]
+    },
+    {
+      "cite": "2 Ark. 346",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1848198
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/2/0346-01"
+      ]
+    },
+    {
+      "cite": "2 Ark. 133",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1848261
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/2/0133-01"
+      ]
+    },
+    {
+      "cite": "84 S. W. 728",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "73 Ark. 528",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1504038
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/73/0528-01"
+      ]
+    },
+    {
+      "cite": "106 S. W. 203",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "85 Ark. 33",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1523370
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/85/0033-01"
+      ]
+    },
+    {
+      "cite": "23 N. E. 35",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "118 N. Y. 77",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2227320
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/118/0077-01"
+      ]
+    },
+    {
+      "cite": "91 Ark. 179",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "135 Ark. 342",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1571593
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/135/0342-01"
+      ]
+    },
+    {
+      "cite": "103 N. Y. 487",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2205013
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/103/0487-01"
+      ]
+    },
+    {
+      "cite": "31 Wis. 512",
+      "category": "reporters:state",
+      "reporter": "Wis.",
+      "case_ids": [
+        8708357
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wis/31/0512-01"
+      ]
+    },
+    {
+      "cite": "118 Mass. 420",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        2154103
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/118/0420-01"
+      ]
+    },
+    {
+      "cite": "103 Ark. 589",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1352037
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/103/0589-01"
+      ]
+    },
+    {
+      "cite": "144 Ark. 58",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1587938
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/144/0058-01"
+      ]
+    },
+    {
+      "cite": "142 Ark. 223",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1590541
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/142/0223-01"
+      ]
+    },
+    {
+      "cite": "73 Ark. 528",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1504038
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/73/0528-01"
+      ]
+    },
+    {
+      "cite": "85 Ark. 33",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1523370
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/85/0033-01"
+      ]
+    },
+    {
+      "cite": "91 Ark. 179",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 631,
+    "char_count": 10770,
+    "ocr_confidence": 0.476,
+    "pagerank": {
+      "raw": 8.704233622947174e-08,
+      "percentile": 0.49321234558462673
+    },
+    "sha256": "0ad93e4fe4d72a93f24a1612a2686ee2e30ab043c8410eada3015b54dbbab429",
+    "simhash": "1:f279ab1728943366",
+    "word_count": 1888
+  },
+  "last_updated": "2024-02-27T18:54:00.643605+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Caddo Central Oil & Refining Corporation v. Boat-Right & Cheesman."
+    ],
+    "opinions": [
+      {
+        "text": "Smith, J-.\nAppellees, plaintiffs below, compose a partnership doing business as Boatright & Cheesman, and for their cause of action alleged that in July, 1921, they were engaged in Union County in drilling for oil under a contract with an oil company on a lease known as the Pratt lease. That at the same time appellant, a corporation, the defendant below, was preparing \u2019to operate on an adjoining lease known as the Fitzgerald lease. That in drilling operations great care must be exercised to prevent disasters from fire, the character of the work making necessary the presence of inflammable material, a fact known to defendant and to all' other persons in the drilling business; yet, notwithstanding this knowledge which the defendant possessed, it did,- on ,1 uly 23,1921, permit its employees to build and maintain a large fire on the Fitzgerald lease, presumably for tire purpose of destroying underbrush, and it negligently permitted the fire to spread to the Pratt lease, and there ignited and partially destroyed plaintiffs\u2019 drilling rig, equipment and accessories, and so badly damaged the remainder as to render their practical use impossible. There was a prayer for the damages done the drilling outfit and for the loss of its use pending its repair.\nPlaintiffs offered testimony which supported the allegation of negligence in allowing the fire to spread, and this notwithstanding the fact that notice was given by plaintiffs to the employees of defendant, having ' charge of the fire, of its danger. Plaintiffs also offered testimony as to the extent of the damages, the testimony being sufficient to sustain the verdict returned.\nDefendant answered and denied negligence or responsibility for the fire, and denied the damages.\nA verdict for $14,000 was returned in favor of the plaintiffs, and from the judgment pronounced thereon is this appeal.\nThe first assignment of error argued is that the trial court erred in refusing to grant a new trial on account of newly discovered evidence. This newly discovered evidence was to the effect that the employees of another oil company had set fire to the brush on a tract of land known as the Caddo Central lease, and that the fire which damaged plaintiffs originated there.\nThe record shows that the suit was commenced February 4, and that at the February term in March defendant was given sixty days in which to file answer, and this resulted in giving the defendant six months to prepare for trial, which occurred at the following term of court. Moreover, testimony was offered at the trial tending to show that the fire had originated in this manner/ so that the newly-discovered testimony was merely cumulative, and we cannot therefore say the trial court abused its discretion in refusing to grant'a new trial on this account. St. Louis S. W. Ry. Co. v. Goodwin, 73 Ark. 528; Arkansas Mut. Fire Ins. Co. v. Stuckey, 85 Ark. 33; McDonald v. Daniel, 103 Ark. 589; Hinkle v. Lassiter, 142 Ark. 223; New Coronado Coal Co. v. Jasper, 144 Ark. 58.\nAs tending to show that the fire which damaged plaintiffs did not originate on the Fitzgerald lease, defendant offered in evidence a photograph which had been taken by a Mr. Taylor. The witness who offered the photograph in evidence was a Mr. Doyle, who did not take it, but who did testify that it represented the appearance of the Fitzgerald lease on the morning after the fire when the picture was taken. Objection was made to the introduction of the photograph upon the ground that it had not been properly identified. In ruling upon the objection made, the court said there was no testimony to show that the picture was taken from the negative prepared by the photographer, and that the photograph was hearsay evidence, but that, as the witness had testified that the photograph resembled the place of the fire, he would allow the picture to be offered in evidence and be considered by the jury for what it was worth. Objection was made to this comment, whereupon the court said: \u201cI want to make myself clear on that, gentlemen. The witness testified that this picture resembles the condition down there at the time ho saw it on the evening of the 23rd, and the picture may go, and it goes as the testimony of this witness \u2014 simply as a picture which he says resembles the condition there at the time, but there is no legal testimony here that the jury could consider as to who made that picture or where it came from.\u201d After this remark, defendant refused to offer the photograph in evidence-, and now insists that the comment of the court destroyed its value as testimony and constituted a charge on the weight of the testimony.\nThe court might have permitted the introduction of the photograph without comment, but we do not think the court\u2019s comment is open to the objection made. ' The fact, stated by the court was undisputed. The witness liad not taken the picture, and did not know that it had been properly developed. He did testify that the photograph resembled the place of the fire, and the court ordered it admitted as explanatory of the witness\u2019 testimony.\nIn the case of Sellers v. State, 91 Ark. 179, we quoted from 1 Wigmore on Evidence, \u00a7\u00a7 790-792, as follows: \u201cAs a general rule, photographs are admissible in evidence when they are shown to have been accurately taken, and to be correct repres\u00e9ntations of the subject in controversy, and are of such a nature as to throw light upon it.\u201d 9 Enc. of Ev., 771; Wharton\u2019s Crim. Ev., \u00a7 544; Blair v. Pelham, 118 Mass. 420; Church v. Milwaukee, 31 Wis. 512; Underhill on Criminal Ev., 551. The general objection to the photographs as evidence was sufficient to raise the question of their relevancy. Photographs are admissible as primary evidence upon the same grounds for the same purposes as diagrams, maps and plats. Underhill\u2019s Crim. Ev., \u00a7 50; 1 Wig. Ev. 792. They aid the jury to understand the evidence of the witnesses by illustrating the situation of the persons, places or things connected with the subject-matter of the inquiry. People v. Buddensieck, 103 N. Y. 487.\u201d See also Zinn and Cheney v. State, 135 Ark. 342.\nThe ruling of the court conformed to the statement of the law quoted above. The photograph was admissible only as a map or a plat would have been admissible, to enable the jury to comprehend, to visualize, the testimony of the witness.\nIt is insisted that the testimony does not support the verdict. On that question, it may be said that piles of brush were fired on the Fitzgerald lease on July 22; and there was also testimony that there were no other fires on that day except the ones on this lease, and that the persons who had set the fires 'were warned of the danger, but, notwithstanding this warning, these employees left the fires burning, unattended, on the afternoon of the 22d.\nObjection is made that the-verdict is excessive. Two instructions were given on the measure of damages, one on the court\u2019s own motion, the other at the request of the defendant, and, while they cover the same ground, there appears to be no conflict between them. The testimony shows tliat plaintiffs were drilling in a -producing field, and expedition was highly desirable, and this fire not only involved a suspension of drilling operations, which the testimony .shows were highly profitable to the plaintiffs, but required them to practically rebuild their outfit by way of repairing. The jury has awarded what appears to be full compensation, but we cannot say the testimony does not support the verdict returned. Indeed, the testimony on the part of appellees would have supported an even larger verdict under the instruction on the measure of damages which was given at appellant\u2019s request.\nWe find no prejudicial error, and the judgment is affirmed.",
+        "type": "majority",
+        "author": "Smith, J-."
+      }
+    ],
+    "attorneys": [
+      "Mahoney & Yocum and Searcy & Searcy, for appellants.",
+      "W: W. McDonald and King & Whatley, for appel-lees."
+    ],
+    "corrections": "",
+    "head_matter": "Caddo Central Oil & Refining Corporation v. Boat-Right & Cheesman.\nOpinion delivered June 4, 1923.\n1. New trial \u2014 newly discovered evidence. \u2014 It was not an abuse of discretion to refuse a new trial for newly discovered evidence, in the absence of a showing of diligence and where such evidence was merely cumulative.\n2. Evidence \u2014 photograph.\u2014Where a photograph of the scene of a fire was not identified 'by the person who took it as a correct representation of the place of the fire, but a witness testified that it represented the appearance of the place on the morning after the fire, it was not error to permit its introduction with the explanation by the court that it might be considered by the jury as explanatory of the testimony of such witness.\n3. Negligence \u2014 fire\u2014evidence.\u2014Evidence held to support a finding that a fire which destroyed plaintiff's property was negligently set out by defendant\u2019s employees.\nAppeal from Lafayette Circuit Court; George B. Haynie, Judge;\naffirmed.\nMahoney & Yocum and Searcy & Searcy, for appellants.\nThe court erred in refusing to grant a new trial on account of newly discovered evidence. The court erred in not allowing the introduction of the photograph showing the condition, the brush heaps, from which the fire originated, and in making the comment on it, which indicated that court\u2019s opinion of its weight. Note 114, A. S. B>. 440; 1 Greenleaf on Evidence, \u00a7 439-h; 91 Ark. 179; general rule for admission, 106 S. W. (Ky.) 795; 118 N. Y. 77, 23 N. E. 35; 68 L. B. A. (Ore.) 477; 58 S. W. (Tenn.) 270; 26 L. E. A. (Mass.) 430, 48 S. E. (S. C.) 591; 41 Atl. (Pa.) 617. The evidence is insufficient to support the verdict. The verdict is excessive, is for $3,923.06 in excess of the maximum damage based on appellee\u2019s evidence.\nW: W. McDonald and King & Whatley, for appel-lees.\nNo abuse- of discretion in denying motion for new trial on ground of newly discovered testimony. 148 S. W. (Ark.) 271; 85 Ark. 33, 106 S. W. 203; 73 Ark. 528, 84 S. W. 728; 2 Ark. 133; 2 Ark. 346; Hinhlc v. Lassiter, 142 Ark. 223; 144 Ark. 58. No error in allowing tlie introduction of the pliotograpli by witness who had not made them, and telling the jury that they could be considered for what they were worth. Appellant voluntarily withdrew the picture and refused to offer in evidence the others. If there was error, it was invited. 151 Ark. 35; 145 Ark. 303. Case in point 15 L. R. A (N. S.) 1162. See also 85 Ark 30; 98 Ark. 583; 142 Ark. 584; 9 L. R. A. (N. S.) 1007. The verdict is supported by the evidence. 96 Ark. 405,131 S. W. 878; 17 Ark. 478; 92 Ark. 569, 123 S. W. 781; 87 Ark. 65, 113 S. W. 639; 89 Ark. Ill, 115 S. W. 950; 74 Ark. 16; 82 Ark. 372, 101 S; W. 738. Verdict conclusive on appeal if there is any evidence legally sufficient to support it. 102 Ark. 200, 143 S. W. 92; 75 Ark. Ill, 86 S. W. 1001; 78 Ark. 19, 3 S. W. 58; 73 Ark. 377; 84 S. W. 469; 89 Ark. 321, 116 S. W. 660; 99 Ark. 648, 139 S. W. 543; 145 Ark. 273; 144 Ark. 402. The verdict is not excessive."
+  },
+  "file_name": "0305-01",
+  "first_page_order": 331,
+  "last_page_order": 336
+}

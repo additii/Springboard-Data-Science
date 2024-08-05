@@ -1,0 +1,66 @@
+{
+  "id": 8725626,
+  "name": "Parrish v. Nelson",
+  "name_abbreviation": "Parrish v. Nelson",
+  "decision_date": "1933-01-09",
+  "docket_number": "4-2957",
+  "first_page": "786",
+  "last_page": "787",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "186 Ark. 786"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 174,
+    "char_count": 2827,
+    "ocr_confidence": 0.517,
+    "pagerank": {
+      "raw": 6.515575126194241e-08,
+      "percentile": 0.40037971325741384
+    },
+    "sha256": "adf3e0858737d7dc65073f55497fc9495501135ba8a50e2f60c67a245abcedc1",
+    "simhash": "1:1eeafd40baa394b0",
+    "word_count": 510
+  },
+  "last_updated": "2023-07-14T16:45:47.259153+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Parrish v. Nelson."
+    ],
+    "opinions": [
+      {
+        "text": "Per Curiam.\nThis is a proceeding contesting the nomination of appellant for the office of State Senator. The case was tried in the circuit court, judgment rendered, and an appeal prosecuted to this court.\nThe appellant seeks to supersede the judgment of the circuit court until the case can he heard here on its merits.\nThis is not a contest for the office of State Senator, and is not a proceeding to contest the election of a State Senator, but it is a proceeding to contest the nomination in the Democratic primary.\nThis court would have no jurisdiction to try a contest for the office of State Senator, nor to determine who is elected to the Senate.\nSection 11 of article 5 of the Constitution provides: \u201cEach House shall appoint its own officers, and shall be the sole judge of the qualifications, returns, and elections of its own members.\u201d\nIt will therefore be seen that under the Constitution the Senate is the sole judge of the election of its members. What we are to determine, and what we have a right to determine, is whether the appellant or appellee was entitled to the nomination.\nIf we determine that the appellee was entitled to the nomination, nnder the law the judgment operates as an ouster from office. This does not mean however that we decide who was elected, but it means only that we hold that the election is void.\nThe statute provides that when the judgment operates as an ouster, there will he a vacancy which must he filled according to law.\nThe Senate alone can determine who has been elected, and who may sit as a member of the Senate.\nA supersedeas could therefore serve no purpose because we do not and cannot decide who is entitled to the office of State Senator. We simply decide the contest for the nomination, and, under the law, if a person is given a certificate of nomination, his name placed on the ticket, and he is elected, we have the jurisdiction to decide whether he was or was not entitled to the nomination, and if the court decides that he was not, and there has already been an election, the judgment of the court operates as an ouster. That is, it decides that his election was void because of a violation of the Primary Election Law.\nWhether we issue a supersedeas or deny it, we cannot say who shall serve in the Senate, but the Senate itself is the sole judge of the election and qualification of its members.\nThe Senate may seat either the contestant or the contestee, or it may decline to seat either until the case is tried, but in no event could the court\u2019s order deter- \u2022 mine who is entitled to the office of State Senator.\nA supersedeas would be useless, and it is therefore denied.",
+        "type": "majority",
+        "author": "Per Curiam."
+      }
+    ],
+    "attorneys": [
+      "I. M. Greer, A. B. Caplinger and June P. Wooten, for appellant.",
+      "Boy Nelson, J. J. Mardis and W. Leon Smith, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Parrish v. Nelson.\n4-2957\nOpinion delivered January 9, 1933.\nI. M. Greer, A. B. Caplinger and June P. Wooten, for appellant.\nBoy Nelson, J. J. Mardis and W. Leon Smith, for appellee."
+  },
+  "file_name": "0786-01",
+  "first_page_order": 806,
+  "last_page_order": 807
+}

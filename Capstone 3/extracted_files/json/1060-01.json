@@ -1,0 +1,66 @@
+{
+  "id": 8726910,
+  "name": "Pine Woods Lumber Company, Ltd., v. Cheatham",
+  "name_abbreviation": "Pine Woods Lumber Co. v. Cheatham",
+  "decision_date": "1933-02-27",
+  "docket_number": "4-2878",
+  "first_page": "1060",
+  "last_page": "1063",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "186 Ark. 1060"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 293,
+    "char_count": 4643,
+    "ocr_confidence": 0.5,
+    "pagerank": {
+      "raw": 9.547190647572679e-08,
+      "percentile": 0.5250313821384953
+    },
+    "sha256": "49910efdad1c6e2aa57b1874cf677fe1c7afdea23f406dcbf6d6543fe93aecd9",
+    "simhash": "1:be6d885ee67f5e37",
+    "word_count": 780
+  },
+  "last_updated": "2023-07-14T16:45:47.259153+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Pine Woods Lumber Company, Ltd., v. Cheatham."
+    ],
+    "opinions": [
+      {
+        "text": "Humphreys, J.\nThis is an appeal from a judgment of $1,'250 obtained by appellee against appellant in the circuit court of Columbia County for an injury received through the negligence of a fellow-servant. A reversal of the judgment is sought upon the ground that the undisputed testimony reflects that both appellee and his fellow^servant were employees at the time of the injury of J. M. Deckard and not employees of appellant.\nAppellant introduced three witnesses, J. M. Deckard, J. C. Donnegan, its foreman and logging superintendent, and D. Gr. Tyler, its bookkeeper, who testified concerning the kind of contract existing between appellant and J. M. Deckard at the time appellee received his injury. J. M. Deckard testified that appellant was the owner of certain timber, which he agreed to cut and haul for it from the land to its logging road for $4 per thousand, he to furnish the teams, equipment and men necessary to do the work; that he cut and sawed the trees into logs of lengths directed by appellant\u2019s woods foreman ; that he employed and discharged his own men and paid them without instruction, direction or supervision of any of appellant\u2019s employees, and, at the time appel-lee was injured, both appellee and the driver who caused the injury were his employees and on his payroll; that his employees traded at appellant\u2019s commissary, and that what they bought was charged to him and paid for by him and deducted from the wages of said employees when he made up his payroll; that when he made up and presented his payroll, the company would issue him a check for the total amount, and that he would cash the check and take the money to Mr. Tyler, appellant\u2019s bookkeeper, and ask him to put each employee\u2019s wages in an envelope and hand it to him when he called for it; that Mr.- Tyler used appellant\u2019s pay envelopes in doing this because he had no others; that appellant had no teams in Arkansas; that he requested Mr. Tyler to procure insurance for him on employees and deducted premiums from amounts due him on settlements; that, when appellee was injured, he made the proofs to the insurance company and directed him to go to Tyler and collect same, which he did.\nDeckard was corroborated in all essential particulars by the testimony of J. C. Donnegan, the woods foreman and log superintendent of appellant, who made the contract with Mr. Deckard. The testimony of Deckard was also corroborated by that of D. Gf. Tyler, who was appellant\u2019s bookkeeper. Tyler stated that they settled with Deckard once or twice, a month, and, in doing so, figured up what was coming to him on the basis of $4 per thousand on scale showing how many feet he put on the track, and deducted therefrom his feed bills, any advances he might have received, and his payroll check; that he handled two of the payrolls upon which appellee\u2019s name appeared and that he was paid at Deckard\u2019s request; that the payrolls showed that they were Deckard\u2019s payrolls.\nIt was admitted by appellee and one of his co-employees, who testified in his behalf, that Deckard1 employed and directed them in their work, and that no other employee of appellant gave them any directions or instructions in the performance of their work. They both claimed to be employees of appellant because they were handed their wages by appellant\u2019s bookkeeper in appellant\u2019s pay envelopes and because appellee received his insurance money from appellant\u2019s bookkeeper, and that on one occasion appellee asked Deckard to get his wages, and that Deckard asked him to give him an order for same.\nWe do not think these circumstances in themselves sufficient to warrant the court in submitting the question to the jury of whether appellee and the fellow-servant who caused his injury were in the employment of appellant, or in the employment of Deckard as an independent contractor. The first two circumstances were satisfactorily explained as matters of convenience, and the third circumstance was so slight and unimportant that it cannot be regarded as sufficient substantial testimony to support a verdict.\nThe testimony, in all essential parts, reflected, without substantial dispute, that Deckard was an independent contractor and that appellee and his felloe-servant, who was responsible for Ms injury, were in tbe employment of Deckard and not appellant.\nTbe court erred, under tbe evidence adduced,- in not instructing \u00e1 verdict for appellant, so tbe judgment is reversed, and tbe cause is remanded for a new trial.",
+        "type": "majority",
+        "author": "Humphreys, J."
+      }
+    ],
+    "attorneys": [
+      "A. L. Burford and B. E. Carter, for appellant.",
+      "McKdy & Smith, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Pine Woods Lumber Company, Ltd., v. Cheatham.\n4-2878\nOpinion delivered February 27, 1933.\nA. L. Burford and B. E. Carter, for appellant.\nMcKdy & Smith, for appellee."
+  },
+  "file_name": "1060-01",
+  "first_page_order": 1080,
+  "last_page_order": 1083
+}

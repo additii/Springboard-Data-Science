@@ -1,0 +1,542 @@
+{
+  "id": 6793586,
+  "name": "The State of Washington, Respondent, v. Jerry Allen Herron, Petitioner",
+  "name_abbreviation": "State v. Herron",
+  "decision_date": "2015-08-20",
+  "docket_number": "No. 89571-6",
+  "first_page": "737",
+  "last_page": "748",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "183 Wash. 2d 737"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Wash.",
+    "id": 9029,
+    "name": "Washington Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 38,
+    "name_long": "Washington",
+    "name": "Wash."
+  },
+  "cites_to": [
+    {
+      "cite": "334 P.3d 1049",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2014,
+      "opinion_index": 0
+    },
+    {
+      "cite": "181 Wn.2d 508",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4356663
+      ],
+      "year": 2014,
+      "pin_cites": [
+        {
+          "page": "513"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/181/0508-01"
+      ]
+    },
+    {
+      "cite": "291 P.3d 886",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2013,
+      "pin_cites": [
+        {
+          "parenthetical": "plurality opinion"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "176 Wn.2d 303",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4306902
+      ],
+      "year": 2013,
+      "pin_cites": [
+        {
+          "page": "307",
+          "parenthetical": "plurality opinion"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/176/0303-01"
+      ]
+    },
+    {
+      "cite": "302 P.3d 156",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2013,
+      "opinion_index": 0
+    },
+    {
+      "cite": "177 Wn.2d 351",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4131332
+      ],
+      "year": 2013,
+      "pin_cites": [
+        {
+          "page": "357"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/177/0351-01"
+      ]
+    },
+    {
+      "cite": "483 P.2d 608",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1971,
+      "opinion_index": 0
+    },
+    {
+      "cite": "79 Wn.2d 69",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1070641
+      ],
+      "year": 1971,
+      "pin_cites": [
+        {
+          "page": "72-73"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/79/0069-01"
+      ]
+    },
+    {
+      "cite": "615 P.2d 440",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1980,
+      "opinion_index": 0
+    },
+    {
+      "cite": "94 Wn.2d 51",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1164044
+      ],
+      "year": 1980,
+      "pin_cites": [
+        {
+          "page": "52-53"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/94/0051-01"
+      ]
+    },
+    {
+      "cite": "428 U.S. 106",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6176317
+      ],
+      "weight": 5,
+      "year": 1976,
+      "pin_cites": [
+        {
+          "page": "112"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/428/0106-01"
+      ]
+    },
+    {
+      "cite": "499 U.S. 400",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11319062
+      ],
+      "weight": 5,
+      "year": 1991,
+      "pin_cites": [
+        {
+          "page": "411"
+        },
+        {
+          "page": "414"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/499/0400-01"
+      ]
+    },
+    {
+      "cite": "535 P.2d 801",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1975,
+      "opinion_index": 0
+    },
+    {
+      "cite": "85 Wn.2d 385",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1120407
+      ],
+      "year": 1975,
+      "pin_cites": [
+        {
+          "page": "388"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/85/0385-01"
+      ]
+    },
+    {
+      "cite": "334 P.3d 1022",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2014,
+      "pin_cites": [
+        {
+          "parenthetical": "plurality opinion"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "181 Wn.2d 452",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4356388
+      ],
+      "year": 2014,
+      "pin_cites": [
+        {
+          "page": "461-62",
+          "parenthetical": "plurality opinion"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/181/0452-01"
+      ]
+    },
+    {
+      "cite": "137 P.3d 825",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2006,
+      "opinion_index": 0
+    },
+    {
+      "cite": "157 Wn.2d 167",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        3004470
+      ],
+      "year": 2006,
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/157/0167-01"
+      ]
+    },
+    {
+      "cite": "640 P.2d 716",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1982,
+      "opinion_index": 0
+    },
+    {
+      "cite": "97 Wn.2d 30",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1154995
+      ],
+      "year": 1982,
+      "pin_cites": [
+        {
+          "page": "39"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/97/0030-01"
+      ]
+    },
+    {
+      "cite": "288 P.3d 1113",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2012,
+      "pin_cites": [
+        {
+          "parenthetical": "defendant does not waive right to a public trial by failing to object"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "176 Wn.2d 1",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4306658
+      ],
+      "year": 2012,
+      "pin_cites": [
+        {
+          "page": "15",
+          "parenthetical": "defendant does not waive right to a public trial by failing to object"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/176/0001-01"
+      ]
+    },
+    {
+      "cite": "881 P.2d 979",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1994,
+      "opinion_index": 0
+    },
+    {
+      "cite": "124 Wn.2d 719",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        507076
+      ],
+      "year": 1994,
+      "pin_cites": [
+        {
+          "page": "725"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/124/0719-01"
+      ]
+    },
+    {
+      "cite": "910 P.2d 475",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1996,
+      "opinion_index": 0
+    },
+    {
+      "cite": "128 Wn.2d 553",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        517983
+      ],
+      "year": 1996,
+      "pin_cites": [
+        {
+          "page": "558"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/128/0553-01"
+      ]
+    },
+    {
+      "cite": "253 P.3d 84",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2011,
+      "opinion_index": 0
+    },
+    {
+      "cite": "171 Wn.2d 292",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4015425
+      ],
+      "year": 2011,
+      "pin_cites": [
+        {
+          "page": "301"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/171/0292-01"
+      ]
+    },
+    {
+      "cite": "906 P.2d 325",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1995,
+      "opinion_index": 0
+    },
+    {
+      "cite": "128 Wn.2d 254",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        518016
+      ],
+      "year": 1995,
+      "pin_cites": [
+        {
+          "page": "259-60"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/128/0254-01"
+      ]
+    },
+    {
+      "cite": "217 P.3d 321",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2009,
+      "opinion_index": 0
+    },
+    {
+      "cite": "167 Wn.2d 140",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4005246
+      ],
+      "year": 2009,
+      "pin_cites": [
+        {
+          "page": "151-52"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/167/0140-01"
+      ]
+    },
+    {
+      "cite": "342 P.3d 326",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2015,
+      "opinion_index": 0
+    },
+    {
+      "cite": "182 Wn.2d 1001",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "year": 2015,
+      "opinion_index": 0
+    },
+    {
+      "cite": "318 P.3d 281",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2013,
+      "opinion_index": 0
+    },
+    {
+      "cite": "177 Wn. App. 96",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        4318066
+      ],
+      "weight": 4,
+      "year": 2013,
+      "pin_cites": [
+        {
+          "page": "107-08"
+        },
+        {
+          "page": "107"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/177/0096-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 904,
+    "char_count": 18676,
+    "ocr_confidence": 0.74,
+    "pagerank": {
+      "raw": 7.4908035833145e-08,
+      "percentile": 0.4459962723695474
+    },
+    "sha256": "829f7072d2fbbf8fe933cf12001c24bd78a8fae93f609dcc121090adadcb4f2f",
+    "simhash": "1:a0c78ab8767edd7c",
+    "word_count": 3105
+  },
+  "last_updated": "2024-02-27T22:09:01.011694+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Madsen, C.J., and Johnson, Owens, Stephens, Wiggins, Gonz\u00e1lez, Gordon McCloud, and Yu, JJ., concur."
+    ],
+    "parties": [
+      "The State of Washington, Respondent, v. Jerry Allen Herron, Petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "Fairhurst, J.\n\u00b61 We must decide whether Jerry Allen Herron waived his right to a public trial and, if so, whether he may later assert the public\u2019s right to an open proceeding. The Court of Appeals affirmed Herron\u2019s conviction, holding that Herron waived his public trial right and that he lacked standing to assert the rights of the general public. We affirm.\nI. FACTS\n\u00b62 Herron was charged with rape in the first degree while armed with a deadly weapon for sexually assaulting an acquaintance at knifepoint in his car. Roughly a week and a half before trial, the trial court held an initial readiness hearing where it informed the parties that it typically used a jury questionnaire in sexual assault cases to discover sensitive information that might require questioning jurors individually. The court explained that in light of recent appellate court decisions, the practice of questioning jurors in chambers conflicted with Herron\u2019s public trial right. Thus, the court stated that \u201cif there is any objection, I can\u2019t \u2014 follow that procedure \u2014 .\u201d 1 Verbatim Report of Proceedings (VRP) at 69 (June 8, 2007). Defense counsel indicated, \u201cWe certainly don\u2019t object to that.\u201d Id.\n\u00b63 The prosecuting attorney advised that Herron would need to affirmatively waive his right to a public trial on the record in order to question jurors in chambers. Alternatively, the prosecuting attorney suggested that the court could question individual jurors in a public setting with the other jurors waiting in a separate room. Defense counsel responded that he would not object and that \u201cif we\u2019re looking for an affirmative waiver of a public examination of these individual jurors, Mr. Herron and I are present, we\u2019re certainly willing to waive that. ... I think that\u2019s going to bear far more fruit than iust simply a voir dire situation.\u201d Id. at 70.\n\u00b64 At this point, the court inquired whether Herron understood the conversation and Herron replied that he did, expressly agreeing with the idea of conducting individual voir dire in the privacy of the judge\u2019s chambers. The court again explained the procedure and the rationale behind questioning certain jurors in chambers about their experience with sexual assault, ultimately advising Herron that whether jurors would be questioned in chambers or in open court was \u201cpretty much up to you.\u201d Id. at 72. The court declined to make a decision at that hearing and instructed Herron to further discuss the matter with his attorney.\n\u00b65 At a pretrial hearing the following week, the court revisited the issue. Defense counsel advised the court that he had discussed the matter with Herron, who was willing to waive his right to a public trial in order to question certain jurors privately in chambers. The court then engaged in an extensive colloquy with Herron.\nTHE COURT: All right. Mr. Herron, you understand you have a right to a public trial, where no one other than perhaps the witnesses are excluded from the courtroom, and where - when the jury questioning takes place, you have a right to have anybody that wants to be here present for that process. Do you understand that fully?\nDEFENDANT: Yes.\nTHE COURT: And by the same token, if you want to waive that right so that jurors will know that if they respond positively to some of these questions about things like have they ever been accused of a sex offense or been a victim of a sex offense or an unwanted sexual touching, have a close friend or family member \u2014 we discussed last week, very often individuals are very reluctant to disclose those things, and particularly to disclose those things if they know they\u2019re going to be talked about in front of, well, for instance, 50 other jurors and other members of the public.\nDEFENDANT: Yes, sir.\nId. at 104-05 (June 15,2007). The court then reiterated that the decision was completely up to Herron. Herron expressed that he preferred to question these jurors in chambers. The court then verified whether Herron had spoken to his counsel about the matter, and Herron assured the court that he had. The court again asked Herron if he was sure that he wanted to proceed with the closure, and Herron again responded that he was.\n\u00b66 At this point, the court turned to the prosecuting attorney for input, who suggested that Herron be given the option of having jurors interviewed on sensitive topics in an open setting but away from other jurors, \u201cin an atmosphere that is open to the public, so it would comport with the defendant\u2019s right to a public trial.\u201d Id. at 106. The court presented this option to Herron, but Herron again stated that he preferred to \u201chave it done not in public\u201d to avoid jurors from being \u201cinfluenced by other people.\u201d Id. at 108.\n\u00b67 Based on these extensive colloquies, the trial court found that Herron made a knowing, voluntary, and intelligent waiver of his public trial right. Defense counsel then stated that Herron would be willing to sign a written waiver to that effect, but it does not appear that one was ever executed.\n\u00b68 Three days later, the court began voir dire. The parties met briefly in chambers to decide which jurors would require individual questioning based on their responses to juror questionnaires. The court then called these jurors into chambers, and all parties participated in the questioning. Four jurors were excused for cause as a result of the individual juror questioning.\n\u00b69 A jury was eventually empaneled, and Herron was found guilty of first degree rape while armed with a deadly weapon. The Court of Appeals affirmed Herron\u2019s conviction. State v. Herron, 177 Wn. App. 96, 318 P.3d 281 (2013). We granted review. State v. Herron, 182 Wn.2d 1001, 342 P.3d 326 (2015).\nII. ISSUES\n\u00b610 1. Did Herron waive his right to a public trial?\n\u00b611 2. Does Herron have standing to assert the general public\u2019s right to the open administration of justice?\nIII. ANALYSIS\n\u00b612 Article I, section 22 of the Washington Constitution guarantees a criminal defendant the right to a public trial. This public trial right extends to the questioning of individual jurors in chambers. State v. Momah, 167 Wn.2d 140, 151-52, 217 P.3d 321 (2009). Before a courtroom may be closed, the trial court must engage in a five-factor analysis commonly referred to as the Bone-Club analysis. State v. Bone-Club, 128 Wn.2d 254, 259-60, 906 P.2d 325 (1995).\n\u00b613 It is undisputed that the courtroom here was closed when individual jurors were questioned in chambers. Moreover, the record indicates that the trial court did not expressly engage in a Bone-Club analysis. The resolution of this case thus depends on whether Herron validly waived his public trial right and, if so, whether Herron may then assert standing on behalf of the general public.\nA. Herron knowingly, voluntarily, and intelligently waived his public trial right\n\u00b614 We review whether a defendant waived a constitutional right de novo. State v. Robinson, 171 Wn.2d 292, 301, 253 P.3d 84 (2011). In general, the waiver of a constitutional right must be made knowingly, voluntarily, and intelligently. State v. Thomas, 128 Wn.2d 553, 558, 910 P.2d 475 (1996). But waivers of different constitutional rights meet this standard in different ways. \u201cThe validity of any waiver of a constitutional right, as well as the inquiry required by the court to establish waiver, will depend on the circumstances of each case\u201d State v. Stegall, 124 Wn.2d 719, 725, 881 P.2d 979 (1994).\n\u00b615 Turning to our public trial jurisprudence, two relevant principles emerge and define the contours of a valid waiver. First, mere silence is not sufficient to constitute waiver. State v. Wise, 176 Wn.2d 1, 15, 288 P.3d 1113 (2012) (defendant does not waive right to a public trial by failing to object). Rather, the defendant must be provided with a meaningful opportunity to object. For instance, in Bone-Club, we held that the trial court\u2019s \u201csummary closure\u201d deprived the defendant of a meaningful opportunity to object. We stated that \u201can opportunity to object holds no \u2018practical meaning\u2019 unless the court informs potential objectors of the nature of the asserted interests.\u201d 128 Wn.2d at 261 (quoting Seattle Times Co. v. Ishikawa, 97 Wn.2d 30, 39, 640 P.2d 716 (1982)). We similarly acknowledged in State v. Easterling that a defendant does not waive his ability to challenge an improper closure on appeal by failing to lodge a contemporaneous objection. Notably, we faulted the trial court for failing to affirmatively provide the defendant with an opportunity to object. 157 Wn.2d 167, 176 n.8, 137 P.3d 825 (2006).\n\u00b616 Second, a knowing, voluntary, and intelligent waiver of the public trial right would not require on-the-record advice as to the consequences of a waiver but, rather, may be obtained through \u201can affirmative and unequivocal personal expression of waiver\u201d that the defendant understands his right and voluntarily chooses to waive it. State v. Frawley, 181 Wn.2d 452, 461-62, 334 P.3d 1022 (2014) (plurality opinion). This may be achieved through a written waiver or \u201can equivalent colloquy that satisfies this standard.\u201d Id. at 462.\n\u00b617 While these factors are not exhaustive, they permit us to resolve the case before us. There may be other factors in any given case that would establish that a waiver was or was not knowing, voluntary, and intelligent. We must address those factors as they arise. Stegall, 124 Wn.2d at 725 (validity of waiver \u201cwill depend on the circumstances of each case\u201d).\n\u00b618 It is readily apparent that this case does not present an instance of waiver by silence. Rather, the trial court provided Herron with several meaningful opportunities to object. Roughly a week and a half before trial, the court advised Herron that it would not question individual jurors in chambers if Herron objected and the State presented an alternative to closure. Although both defense counsel and Herron related that they preferred to have individual juror questioning conducted in chambers, the trial court instructed Herron to discuss the issue further with defense counsel and postponed any decision. One week later, the court revisited the topic again and stated to Herron that \u201cit is totally your decision as to how [voir dire] is handled\u201d and again provided Herron with an alternative option to closure. 1 VRP at 105 (June 15, 2007). Herron had several meaningful opportunities to object but did not do so.\n\u00b619 Rather than objecting, the record reflects that Herron affirmatively and unequivocally waived his right to a public trial. The trial court advised Herron of his right to a public trial on several occasions. In response, Herron consistently and repeatedly stated that he waived his public trial right in order to examine prospective jurors about sensitive matters in chambers. He explained that he preferred jurors \u201cnot be influenced by other people\u201d and that in-chambers questioning \u201cwould be more appropriate.\u201d Id. at 108. Defense counsel agreed that \u201can examination in private in your chambers\u201d would \u201cbear far more fruit than just simply a voir dire situation.\u201d Id. at 70 (June 8, 2007). Herron also expressly rejected an alternative to closure, favoring individual questioning of jurors in chambers instead. The trial court eventually found that Herron made a knowing, voluntary, and intelligent waiver based on these extensive colloquies from two separate hearings. Defense counsel even indicated that Herron was \u201cwilling to sign a written waiver to that effect as well.\u201d Id. at 109. Under these facts, we agree with both the trial court and the Court of Appeals and hold that Herron made a knowing, voluntary, and intelligent waiver.\nB. Herron does not have standing to assert the general public\u2019s right to the open administration of justice\n\u00b620 Article I, section 10 guarantees the open administration of justice without reference to any individual, stating simply that \u201c[j]ustice in all cases shall be administered openly, and without unnecessary delay.\u201d U.S. Const. art. I, \u00a7 10. This provision thus permits a member of the general public to demand access to judicial proceedings. Cohen v. Everett City Council, 85 Wn.2d 385, 388, 535 P.2d 801 (1975).\n\u00b621 Having waived his own individual right to a public trial, Herron now attempts to assert the general public\u2019s right to the open administration of justice. The Court of Appeals held that Herron did not have standing as a third party to assert the rights of the general public. Herron, 177 Wn. App. at 107-08. To determine whether Herron had third party standing, the court applied the three-part test announced by the United States Supreme Court in Powers v. Ohio, 499 U.S. 400, 111 S. Ct. 1364, 113 L. Ed. 2d 411 (1991). First, the litigant must show that that he or she \u201csuffered an \u2018injury in fact,\u2019 \u201d thus giving him or her a \u201c \u2018sufficiently concrete interest\u2019 in the outcome of the issue in dispute.\u201d Id. at 411 (quoting Singleton v. Wulff, 428 U.S. 106, 112, 96 S. Ct. 2868, 49 L. Ed. 2d 826 (1976)). Second, \u201cthe litigant must have a close relation to the third party.\u201d Id. Finally, \u201cthere must exist some hindrance to the third party\u2019s ability to protect his or her own interests.\u201d Id.\n\u00b622 Here, the Court of Appeals correctly determined that Herron did not suffer any injury in fact from the closure. Herron, 177 Wn. App. at 107. Contrary to suffering an injury, Herron actually benefited from the in-chambers questioning because he was better able to obtain a fair and impartial jury. At one point, defense counsel thanked one potential juror for his honesty and candor, explaining, \u201cThat\u2019s exactly why we\u2019re . . . going through this process.\u201d 1-A VRP at 93 (June 18, 2007). Another juror disclosed for the first time in her life that she had been molested by an uncle. Although the judge overruled the defense\u2019s challenge to this juror, the defense later used a peremptory challenge to excuse her. Eventually, four other jurors were excused for cause based on the individual questioning. There was no injury.\n\u00b623 Turning to the second factor, Herron cannot show any close relationship with the public at large. Herron argues that he has a special relationship with the public because he shares an interest in the perception of fairness and integrity of the prosecution. However, as the Court of Appeals acknowledged, Herron\u2019s interest here was actually inimical to the public\u2019s interest. Herron, 177 Wn. App. at 107 n.10. Herron sought to obtain a closed proceeding so that jurors could candidly discuss their views on sexual assault, thus better allowing Herron to discover and remove biased jurors. This contrasts with the public\u2019s interest to have access to jury selection. Thus, there is no \u201ccongruence of interests\u201d that would sustain a finding of a special relationship. Powers, 499 U.S. at 414.\n\u00b624 Finally, there is no reason to believe that the public could not have asserted its own interests in this case. Herron argues that the trial court failed to provide notice to the public before closing the court, depriving the public from asserting its own interests. But the trial court and parties discussed the closure in open court on two separate days. Thus, members of the press or public had two separate occasions to voice any concern. Moreover, the press has regularly asserted its right to the open administration of justice \u2014 see, e.g., Ishikawa, 97 Wn.2d at 32; Federated Publ\u2019ns, Inc. v. Kurtz, 94 Wn.2d 51, 52-53, 615 P.2d 440 (1980); State ex rel. Superior Court v. Sperry, 79 Wn.2d 69, 72-73, 483 P.2d 608 (1971)\u2014so have individual members of the general public. See, e.g., State v. Richardson, 177 Wn.2d 351, 357, 302 P.3d 156 (2013); Bennett v. Smith Bundy Berman Britton, PS, 176 Wn.2d 303, 307, 291 P.3d 886 (2013) (plurality opinion). The trial court did not impose any barriers that would prevent a member of the press or public from asserting his or her rights. Herron fails to meet any of the three factors from Powers and thus cannot assert the rights of the general public.\n\u00b625 To be clear, as a criminal defendant, Herron had standing to raise his own individual right to a public trial under article I, section 22. And, as a member of the public, he had a right to demand the open administration of justice under article I, section 10. But when Herron waived the right to an open courtroom, he waived it for all purposes. And he eagerly waived that right here. Fairness, finality, and common sense dictate that a defendant should not be able to assert the general public\u2019s right to the open administration of justice after waiving and causing the very violation of which he now complains.\nReconsideration denied November 10, 2015.\nIV. CONCLUSION\n\u00b626 Herron waived his right to a public trial, and Herron lacks standing to assert the general public\u2019s right to the open administration of justice. We affirm the Court of Appeals.\nMadsen, C.J., and Johnson, Owens, Stephens, Wiggins, Gonz\u00e1lez, Gordon McCloud, and Yu, JJ., concur.\nWe typically engage in a three-step analysis to determine whether there has been a violation of the public trial right. State v. Smith, 181 Wn.2d 508, 513, 334 P.3d 1049 (2014). The issue before us now is not whether there has been a violation of the public trial right but, rather, whether Herron waived his ability to assert such a violation on appeal.\nThis case presents a very clear example of a public trial waiver due in part to the sheer repetition by which Herron expressed his desire to waive his public trial right. We note that a waiver may be valid without the same degree of repetition that exists in this case; however, we must analyze every instance of waiver on a case-by-case basis. Stegall, 124 Wn.2d at 725.\nHerron argues that the trial court exceeded the scope of the waiver by holding an in-chambers discussion with the parties regarding which jurors required individual questioning. We need not reach that issue in this case because Herron waived his right to a public trial in order to conduct individual questioning of jurors. Deciding which jurors required individual questioning clearly falls within the scope of Herron\u2019s waiver. Indeed, had Herron not sought to perform individual questioning of jurors, the trial court would never have been required to decide which jurors required individual questioning in the first place, and the challenged discussion would not have occurred.",
+        "type": "majority",
+        "author": "Fairhurst, J."
+      }
+    ],
+    "attorneys": [
+      "Jeffrey K. Finer (of Center for Justice), for petitioner.",
+      "Denis P. Tracy, Prosecuting Attorney, and Jennifer P Joseph, Special Deputy, for respondent.",
+      "Seth A. Fine on behalf of Washington Association of Prosecuting Attorneys, amicus curiae."
+    ],
+    "corrections": "",
+    "head_matter": "[No. 89571-6.\nEn Banc.]\nArgued May 19, 2015.\nDecided August 20, 2015.\nThe State of Washington, Respondent, v. Jerry Allen Herron, Petitioner.\nJeffrey K. Finer (of Center for Justice), for petitioner.\nDenis P. Tracy, Prosecuting Attorney, and Jennifer P Joseph, Special Deputy, for respondent.\nSeth A. Fine on behalf of Washington Association of Prosecuting Attorneys, amicus curiae."
+  },
+  "file_name": "0737-01",
+  "first_page_order": 791,
+  "last_page_order": 802
+}

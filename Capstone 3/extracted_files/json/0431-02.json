@@ -1,0 +1,152 @@
+{
+  "id": 8728894,
+  "name": "Tucker and Others vs. The Real Estate Bank",
+  "name_abbreviation": "Tucker v. Real Estate Bank",
+  "decision_date": "1842-07",
+  "docket_number": "",
+  "first_page": "431",
+  "last_page": "437",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "4 Ark. 431"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [
+    {
+      "cite": "2 Ark. 375",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1848258
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/2/0375-01"
+      ]
+    },
+    {
+      "cite": "2 Ark. Rep. 174",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1848189
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/2/0174-01"
+      ]
+    },
+    {
+      "cite": "2 Ark. Rep. 449",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1848237
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/2/0449-01"
+      ]
+    },
+    {
+      "cite": "2 Ark. Rep., 494",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1848227
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/2/0494-01"
+      ]
+    },
+    {
+      "cite": "1 Ark. 50",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        8728307
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/1/0050-01"
+      ]
+    },
+    {
+      "cite": "1 Ark. Rep. 279",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        8728656
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/1/0279-01"
+      ]
+    },
+    {
+      "cite": "2 Ark. Rep., 494",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1848227
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/2/0494-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 547,
+    "char_count": 12810,
+    "ocr_confidence": 0.452,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.20864073542511552
+    },
+    "sha256": "ec25c431a818ac0c14d34073bbd9b785d8e21b5617fc35610f892550f38c46b4",
+    "simhash": "1:033307436d6a89da",
+    "word_count": 2211
+  },
+  "last_updated": "2024-02-27T21:24:25.647823+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Tucker and Others vs. The Real Estate Bank."
+    ],
+    "opinions": [
+      {
+        "text": "By the Court,\nKingo, C. J.\nThe record and assignment of errors present two questions, upon which the plaintiffs in error mainly rely to reverse the judgment against them, to wit: 1st, Did the original summons, issued to a county other than that in which the Court was held, and there executed upon all the parties sued, impose upon them a legal obligation to respond to the action, or subject them to the consequences of a judgment by default, upon their failure to do so? 2d, Does the contract, as set forth in the pleadings, warrant the judgment for interest, at the rate of ten per cent, per annum, as pronounced in this case.' t\nThe first question invokes an inquiry into the power of the Legislature to authorize the running of process from the Circuit Court of one county into a different county or circuit, and the execution thereof in the latter, if the Legislature possesses this power, the answer to the first question must be in toe affirmative; otherwise, in the negative. The Legislature, by statute, approved March 3d, 1838, entitled \u201c an act supplemental to the act incorporating the Sank of the State of Arkansas,\u201d enacted, that \u201c all suits brought by the Bank, or any of its branches, on any bonds, notes, or bilis, discounted, negotiable, or made payable at or in said Bank, or any of its branches, may be brought and proceeded in to final judgment, in the county in which such Bank or branch may be situated; and the,writ or writs may be directed to, and executed in, any county in which the defendant or defendants may be found; and execution may be issued to any county in the State, on any judgment in favor of said Bank, or any of its branches;\u201d and by a subsequent provision of {\u00a1he same statute, declared that \u201cthe provisions of the preceding sections shall be construed to include, and extend to, the ileal Estate Bank of the State of Arkansas.\u201d These enactments, if valid, unquestionably confer upon the Banks an election to sue their debtors in the county in which they or their branches arc situated, and to cause process to be issued to, and executed in, any couniy where the defendants may be found, when the action, as in this case, is founded upon such obligations as those mentioned in the statute. But the plaintiffs in error insist, that these statutory provisions are repugnant to the provisions of the constitution of this State, and therefore void. This objection, as understood by the Court, is based upon the idea that the jurisdiction of the circuits is restricted, by the constitution, to cases where the party sued may be found or served with process, within the territorial limit, or civil division of the State, to which the judicial power of the Court in which the suit is instituted, is limited, and within which it must be exercised. But, in our judgment, no such restriction can be found in the constitution. That instrument, it is true, defines and prescribes the respective jurisdiction of the different judicial tribunals thereby ordained, so far as it depends upon the subject-matter to be adjudicated, and in some respect prescribes the territorial divisions within which each tribunal shall escrciso the jurisdiction with which it is invested. But, in respect to the power of the courts to issue process from one county or circuit, or other civil division of the State, into a different one, as well as the jurisdiction of the different tribunals over the person of any defendant, .or any other person whom, in the administration of justice, it may be necessary to call before them,' the constitution is silent, and therefore the power of prescribing their respective jurisdiction in this respect, is left with the Legislature. And although the legislative department dees not possess the power of divesting the judicial tribunals of any of the respective jurisdiction or powers with which the constitution invests them, (except in cases where such power is especially granted to the Legislature by that instrument), yet that department of the government, as it is not prohibited by the constitution from so doing, must, from the theory and nature of the government, possess the power to make such enactments as the one in question, because'It neither infringes nor divests any right vested by the'constitution in either the Courts or the people, but simply confers upon the corporations therein named, certain specified privileges, which they could not otherwise enjoy. It is a statute, therefore, by which certain privileges are granted, but inasmuch as the privileges so granted do not clivest or infringe any right vested or secured by the constitution, the provisions of the statute in question, are not, in our opinion, in conflict with, or repugnant to, any of the provisions of the constitution; and therefore wo consider the writ, and the execution thereof, authorized by law, and that the parties therein named as defendants, were bound thereby to answer the action; and, upon their failure to do so, within the time prescribed by law, judgment could be legally pronounced against them.\nBut, before we dismiss this subject, it may be proper'to state, that we do not consider this, or any o\u00ed\u2019n\u00e9r question analogous to it in principle, as involved, or having been decided by, this Cfourt, in either of the cases cited in the argument, and relied upon by the plaintiffs in error. In the case of Dillard vs. Noel, 2 Ark. R. 449, the Legislature was held to be incompetent to divest the county courts of a jurisdiction conferred upon them bj the constitution; and in the case of The Auditor vs. Davies et al., 2 Ark. Rep. 494, this Court decided, that, without statutory authority, the circuit courts could not, for the purpose of acquiring jurisdiction of a cause, run original process beyond the limit of their territorial jurisdiction. In the case of The State vs. Ashley et al., 1 Ark. Rep. 279, it was held, that a proceeding by information, in the nature of a quo warranto, differed essentially from a proceeding by writ of quo warranto, and that this Court could, under the constitution, exercise original jurisdiction over the latter, but not over the former. In two of these cases, the Legislature had attempted to divest a jurisdiction or right conferred by the. constitution. In the other, the Circuit Court, for the purpose of acquiring jurisdiction of a case, caused original process to be run, and executed at a place without the limit of its territorial jurisdiction, without any statutory provision, or other law authorizing it, and expressly in violation of the law conferring jurisdiction of suits against the State, upon the Circuit Court of Pulaski county. From this simple statement of the questions adjudicated by this Court, in the cases cited, so far as they could, by possibility1', be supposed to bear any analogy to the question under consideration, it appears manifestly, that they are essentially different from it, and bear a very slight analogy, if any, to it.\nThere are other objections to the writ, urged by the plaintiffs in error, but they are not, in our opinion, such as invalidate it, or require from us any further notice.\nThe interest adjudged to the defendant in error, is expressly given by the 3d section of the statute approved March 3d, 1838, referred to above, which declares, that, \u201cif any bond, bill, or note, discounted or negotiated in or by the Bank of the State of Arkansas, or any of its branches, shall not be paid at maturity, or, on being protested, or on suit being brought, interest at the rate of ten per centum per an-num, shall, thereafter, be collected and recovered, notwithstanding no rate of interest shall be expressed in such bond, note, or bill.\u201d These provisions, by another section of the same statute, are expressly declared to include, and extend to, the Real Estate Bank, and the'y are, in the opinion of this Court, expressed in the case of McFarland et al. vs. The. Bank of the State of Arkansas, at the present term, not repealed by the act in the Revised Statutes of this State, relative to interest, or otherwise; and therefore the judgment for interest is authorized by law.\nW. & E. Cummins, for the plaintiffs in error,\nfiled a petition for re-consideration, which was refused.\nJudgment affirmed, with costs.",
+        "type": "majority",
+        "author": "Kingo, C. J."
+      }
+    ],
+    "attorneys": [
+      "W. & E. Cummins, for the plaintiffs in error.",
+      "Pike & Baldwin, contra.",
+      "W. & E. Cummins, for the plaintiffs in error,"
+    ],
+    "corrections": "",
+    "head_matter": "Tucker and Others vs. The Real Estate Bank.\nThe Legislature possesses the power to authorize the running of process from the Circuit Court of one county into another county, and its execution in the latter.\nThe act of March 3d, 1838, authorizing suits by the Bank of the State, or the Real Estate Bank, to be brought in the county where the Bank or Branch is situate, and process to run into any county in the State, is constitutional.\nThe Constitution, although it defines and limits 1I10 jurisdiction of the Circuit Courts, as to the subject-matter, is silent as to their powers in regard to issuing process out of the county, and as to their jurisdiction over the person of a defendant, or other person necessary to be called before them; and the power of proscribing the jurisdiction in these respects, is left to the Legislature.\nWhere two counties are named in a writ, and then the party is required to appear \u201c at the Court-house in the county aforesaid,\u201d the word \u201c aforesaid\u201d relates to the last county named.\nIt is no objection to a writ, after judgment by default, that it does not call on the defendant to answer the demand for interest claimed in the declaration, in a suit by the Real Estate Bank, to which the law gives ten per cent, interest after the note, bond, or bill matures, or is protested.\nThis was an action of debt, determined in the Pulaski Circuit Court, in 1841, before the Hon. John J. Clenbenin, one of the Circuit Judges. Summons issued, directed to the sheriff of Jefferson county; after naming which county, the county of Pulaski was named, and the sheriff commanded to summon the defendants to appear \u201c at the Courthouse in the county aforesaid.\u201d The declaration demanded, as debt, the amount of the note sued on, but alleged, that, by law, it bore interest after maturing, at the rate of ten per cent, per annum. The writ said nothing about the interest. The writ was executed in Jefferson county. Without entering an appearance, the defendants moved to quash the writ, and set aside the return. Motion overruled, and judgment by default, for the debt, and interest at ten per cent, from the time the note fell due till paid, and costs. The case came up by writ of error.\nW. & E. Cummins, for the plaintiffs in error.\nThe writ, in this case, was void in every sense of the word. After judgment by default, the party may take all exceptions to the writ and service. Gilbreath vs. Kuykendall, 1 Ark. 50. Bunn vs. Thomas & King, 2 J. R. 190. Burk vs. Burnard, 4 J. R. 309.\nThe act of the Legislature, authorizing the banks to run process from the county in which they are situated to any part of the State, is in conflict with the constitution; and writs issued by authority of that act, are void. State vs. Ashley ei al., 1 Ark, R. 307. Auditor vs. Davies, 2 Ark. Rep., 494, Dillard vs. Nodi, 2 Ark. Rep. 449.\nThe writ should have been quashed, inasmuch as it varies from the declaration, in not calling on the defendants to answer the demand for interest as claimed in the declaration. The writ should have been quashed, as it runs beyond the county and circuit in which the Court sits, without any allegation that the defendants were not residents of the county. Taylor vs. Auditor, 2 Ark. Rep. 174.\nPike & Baldwin, contra.\nThere is no inaccuracy in the writ. \u201c In the county aforesaid\u201d refers to the last county named. Adproxi-mum antecedens fiat relatio. See this very case, at all points, in The Queen vs. Halford, 3 Salk. 199.\nIn Womsley vs. Cummins, the county where the Court was to be held, was not named at all.\nThat the writ does not demand the interest, is only an objection of variance between the declaration and writ, and not to be reached by motion. Didier vs. Galloway, 3 xArk. 501. Besides, the statement as to interest in the declaration was surplusage. Bank vs. Clark, 2 Ark. 375.\nThe question whether the writ can run to Jefferson county, depends upon the simple question whether the Legislature has the power to authorize any process of the Circuit Court to run beyond its territorial jurisdiction. This Court has often decided thatf; could, where there were defendants residing in different counties.\nThis is not a question of jurisdiction. It is not a question of jurisdiction as to the subject matter, because the constitution gives that. It is not a question of jurisdiction as to the person, because it is simply whether a writ can run beyond the county, and not be powerless.\nIf the Legislature could not authorize this writ to run beyond the county, they could not authorize any process to do so."
+  },
+  "file_name": "0431-02",
+  "first_page_order": 431,
+  "last_page_order": 437
+}

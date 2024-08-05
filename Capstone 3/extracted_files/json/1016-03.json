@@ -1,0 +1,76 @@
+{
+  "id": 12462870,
+  "name": "SEIU Healthcare 775NW, Petitioner, v. Dep't of Soc. & Health Servs. et al., Respondents",
+  "name_abbreviation": "SEIU Healthcare 775NW v. Dep't of Soc. & Health Servs.",
+  "decision_date": "2016-09-28",
+  "docket_number": "No. 93306-5",
+  "first_page": "1016",
+  "last_page": "1016",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "186 Wash. 2d 1016"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Wash.",
+    "id": 9029,
+    "name": "Washington Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 38,
+    "name_long": "Washington",
+    "name": "Wash."
+  },
+  "cites_to": [
+    {
+      "cite": "193 Wn. App. 377",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        12449903
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/193/0377-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 34,
+    "char_count": 238,
+    "ocr_confidence": 0.875,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2576638638005536
+    },
+    "sha256": "1be8fa1c3fd88409001a2ee5ac395dc793066b64d77cdaa1e945fe89c69ac57d",
+    "simhash": "1:89f0429a7df9cf06",
+    "word_count": 39
+  },
+  "last_updated": "2024-02-27T18:43:05.207238+00:00",
+  "provenance": {
+    "date_added": "2019-05-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "SEIU Healthcare 775NW, Petitioner, v. Dep\u2019t of Soc. & Health Servs. et al., Respondents,"
+    ],
+    "opinions": [
+      {
+        "text": "Petition for review of a decision of the Court of Appeals, No. 46797-6-II, April 12, 2016, 193 Wn. App. 377. Denied September 28, 2016.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "SEIU Healthcare 775NW, Petitioner, v. Dep\u2019t of Soc. & Health Servs. et al., Respondents,\nNo. 93306-5."
+  },
+  "file_name": "1016-03",
+  "first_page_order": 1002,
+  "last_page_order": 1002
+}

@@ -1,0 +1,103 @@
+{
+  "id": 1428318,
+  "name": "Jett Brothers Stores v. McCullough",
+  "name_abbreviation": "Jett Bros. Stores v. McCullough",
+  "decision_date": "1934-03-26",
+  "docket_number": "4-3418",
+  "first_page": "1108",
+  "last_page": "1111",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "188 Ark. 1108"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [
+    {
+      "cite": "16 S. W. (2d) 994",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "179 Ark. 510",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        8723474
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/179/0510-01"
+      ]
+    },
+    {
+      "cite": "292 S. W. 659",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "173 Ark. 489",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        8722195
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/173/0489-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 314,
+    "char_count": 5086,
+    "ocr_confidence": 0.51,
+    "pagerank": {
+      "raw": 5.676830387708631e-08,
+      "percentile": 0.35450020445207425
+    },
+    "sha256": "7338d516bde22b182e39f4d9878ea5338d2dfad67106cca3576273156ab688e3",
+    "simhash": "1:a2af848507a2a0f0",
+    "word_count": 851
+  },
+  "last_updated": "2024-02-27T23:51:14.545434+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Jett Brothers Stores v. McCullough."
+    ],
+    "opinions": [
+      {
+        "text": "Johnson, C. J.\nAppellee brought this suit in the Garland Chancery Court against appellants, seeking recovery of $273.40, the purchase price of a certain delivery of turkeys effected on November 23, 1931.\nAppellants answered the complaint, and admitted the purchase and delivery of the shipment and the aggregate purchase price, but affirmatively alleged payment as follows:\nThe acceptance of a valid check drawn by appellants against their account in the Community Bank & Trust Company of Hot Springs, Arkansas, which check was negligently withheld from presentment for payment by appellee for an unreasonable time, and that during such negligent delay the bank on which the check was drawn discontinued business. Briefly, the facts presented -in evidence were as follows:\nAppellee was engaged in the produce business at Mineral Springs and Nashville, in Howard County, and appellants were engaged in a similar business at Hot Springs, in Garland County. Pursuant to a contract theretofore made, appellee, on November 23, 1931, delivered to appellants \u2019 place of business in Hot Springs a shipment of turkeys, which was accepted by appellants, and, in payment of the agreed purchase price, appellants delivered to appellee their check for the sum of $273.40, drawn against their account in the Community Bank & Trust Company of Hot Springs. Appellee accepted the check, but, instead of presenting it for payment to the bank on which it was drawn on the date of issuance or the following day for the reason as explained by him, that he did his banking business with a Nashville bank, and that the check was withheld for the purpose of deposit in his home bank. On November 25th the check was deposited for credit and collection in the Nashville bank, and thereafter it took its usual and customary course, which resulted in its arrival at the drawee bank on November 30th, on which date the drawee bank closed its doors for business. The check, not having been honored by the drawee bank, was thereafter returned to appellee. Appellee resides at Mineral Springs, which is some ninety miles distance from Hot Springs.\nAt the close of the evidence, the trial court directed the jury to return a verdict in favor of appellee for the amount sued for, and this appeal is prosecuted to reverse the judgment entered thereon.\nAppellants contend that the evidence presented a question of fact for the jury\u2019s determination as to whether or not appellee negligently withheld the check from presentment for payment for an unreasonable time. The check was deposited by appellee in his home bank at Nashville on Wednesday, November 25,' 1931, for credit and collection, and the evidence is not in dispute but that the check was thereafter handled in the usual and customary manner. The issue of fact is therefore reduced to whether or not it was unreasonable for appellee to withhold the check until his return home and then make deposit in the bank in which he did his business. Only one banking- day intervened between the issuance of the check and its actual deposit for collection. The witness, Mr. Stone, a deputy State Bank Commissioner, testified that appellee\u2019s actions in returning- to his home to make deposit of the check was the usual and customary practice, and that the withholding of the cheek for this purpose was not a negligent delay nor an unreasonable one. This evidence was not contradicted by any other witness.\nIn Federal Land, Bank v. Goodman, 173 Ark. 489, 292 S. W. 659, we held that a check must be presented for payment within a reasonable time after its receipt, but that what constitutes a reasonable time depends upon the circumstances of the particular case under consideration. The test is, such diligence as a prudent man would exercise in his own affairs. See George H. McFadden Brothers Agency v. Keesee, 179 Ark. 510, 16 S. W. (2d) 994; Parker v. Grau, ante p. 1016.\nThe only conflict appearing in the testimony is in reference to the failure of appellee to present the check in person to the drawee bank either on the 23d or 24th days of November, 1931. This apparent conflict is of no importance under all the facts and circumstances here presented. Appellee had the legal right to pursue the usual and customaiy custom in effecting collection of the check, and this appears to have been to make deposit for collection in the bank with which he did his banking business. Appellants were charged with knowledge of this custom when they delivered their check to appellee. If appellants desired immediate presentment for payment, they could have effected it by presenting the check for payment themselves and paying to appellee in cash, but, when they elected to pay appellee by check, they thereby agreed that the check might be presented for payment in the nsnal and customary manner.- This seems to have been pursued by appellee, and the trial court was correct in so finding.\nThe judgment is affirmed.",
+        "type": "majority",
+        "author": "Johnson, C. J."
+      }
+    ],
+    "attorneys": [
+      "Jay M. Rowland and C. Floyd Huff, Jr., for appellant.",
+      "C. T. Cotham, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Jett Brothers Stores v. McCullough.\n4-3418\nOpinion delivered March 26, 1934.\nJay M. Rowland and C. Floyd Huff, Jr., for appellant.\nC. T. Cotham, for appellee."
+  },
+  "file_name": "1108-01",
+  "first_page_order": 1126,
+  "last_page_order": 1129
+}

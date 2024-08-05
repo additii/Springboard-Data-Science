@@ -1,0 +1,97 @@
+{
+  "id": 8727815,
+  "name": "Wait vs. White",
+  "name_abbreviation": "Wait v. White",
+  "decision_date": "1844-07",
+  "docket_number": "",
+  "first_page": "640",
+  "last_page": "642",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "5 Ark. 640"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [
+    {
+      "cite": "11 Mass. Rep. 45",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        2053382
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mass/11/0048-01"
+      ]
+    },
+    {
+      "cite": "2 Ark. 392",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1848253
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/2/0392-01"
+      ]
+    },
+    {
+      "cite": "2 Ark. 364",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 312,
+    "char_count": 5140,
+    "ocr_confidence": 0.459,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2086279933694976
+    },
+    "sha256": "1b077a766438cf910b15d200868032bd361e0b34c64e86d5f31bd2097afa6761",
+    "simhash": "1:f241350d0d2aac58",
+    "word_count": 953
+  },
+  "last_updated": "2024-02-27T21:30:20.185486+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Wait vs. White."
+    ],
+    "opinions": [
+      {
+        "text": "By the court,\nSebastian J.\nThe court should unquestionably have-granted a new trial in this case. Smith loaned to McKenzie thirty-bales of cotton, with which to pay a debt. Wait was the agent of the person to whom the debt was owing, and received and weighed the cofo ton for his principal, and shipped it to his address. By some mistake or other, it appears that Smith, upon counting the number of bales on hand, discovered that there were three missing, and White being his overseer, Stnith compelled him to pay for the neglect of his duty\u00bb Some time-after this, Wait informed Smith that there were three bales of cotton, which he supposed to be his, in custody of the person to whom the thirty bales were shipped. To recover the price of those three bales, White sued Wait, before a justice of the peace, and Wait obtained judgment, and White appealed to the circuit court, where the cause was tried, and upon the facts stated, recovered the price of the three bales of cotton. There was no proof, showing that Wait ever received these three bales, or that he converted them to his own-use. He acted as-the mere agent of his principal, and the mistake in the number of the bales shipped is as naturally to be attributed to-White as to Wait. There is no evidence conducing, to prove a conversion by the principal. From-all that appears, it is shown that there are three bales of cotton belonging to some one in the hands of the principal, and that Wait thought that he would pay for them if applied to for that purpose, and he supposed that they belonged to Smith.This proof does not sustain the case. The property in the three bales-of cotton by White\u2019s paying their value to Smith, became White\u2019s,, and for aught that appears they have never been converted by any one, but yet remain his property. The new trial should have, therefore, been granted.",
+        "type": "majority",
+        "author": "Sebastian J."
+      }
+    ],
+    "attorneys": [
+      "Pike & Baldwin, for plaintiff\".",
+      "Hempstead & Johnson, contra."
+    ],
+    "corrections": "",
+    "head_matter": "Wait vs. White.\nWhere the evidence isjiot sufficient to support a verdict, a new trial should be granted.\nThis was an appeal from a justice of the peace, tried in the Arkansas circuit court, in April, 1843, before the Hon. Isaac Baker, one of the circuit judges. White sued Wait, before the justice on an account for $100, the price of three bales of cotton, when Wait had judgment and White appealed. In the circuit court the case was tried by a jury, and White had judgment. Wait moved for a new trial \u2014 motion overruled \u2014 exceptions setting out the evidence. The evidence was that one McKenzie owing a debt to a person in the upper country, borrowed from James Smith thirty bales of cotton to pay the debt: that Wait was the agent of the person to whom the cotton was to be sent; that the cotton was rolled out of Smith\u2019s gin-yard to the boat, where it was received and weighed by Mr. Wait and put on board. After the boat had left, Smith found on comparing the number of bales on band, with.his register, that three bales were missing, and White, being the overseer of Smith, was obliged to pay for the three bales lost. Some time after the receipt of the cotton,' Wait told Smith he had learned, by letter, from the upper country ? that there were three bales more of cotton than should have been sent, which it was supposed belonged to Smith, and that the persons to whom it was shipped were good men, and he had no doubt but that payment for the three bales over might be obtained \u2014 which was all the evidence offered in the cause. The case come here by writ of error.\nPike & Baldwin, for plaintiff\".\nThe verdict was clearly not war* ranted by the evidence. There is no scintilla of proof whereby to charge Wait. It does not appear either that he or his principal received the benefit of the three bales, much less does it show that he ever, in fact, received the bales at all. The three bales might have been Smith\u2019s cotton or might not; but admitting it to have been his and White cannot recover.\nThe verdict is not only against the weight of evidence, but there is no particle of testimony to support it. One must, \u201con the first blush of it,\u201d have his sense of right and justice shocked. Howell vs. Webb, 2 Ark. 364. A new trial ought to have been granted. The evidence does not support the verdict, and in such case it is error to refuse new trial. Hanna vs. Hartor, 2 Ark. 392.\nHempstead & Johnson, contra.\nThe defendant in error, as the agent of Smith, had the actual possession of the cotton, and was responsible over to pis principal, and this was such a right of property as was sufficicient to maintain the action. 1 Chitiy PL 173. 2 Saund. 47 b. Sterling vs. Vaughn, 11 East. 626. Eaton vs. Lynde 15, Mass. Rep. 242. Duncan vs. Spear, 11 Mass. Rep. 45. Besides he was actually compelled to pay Smith for it, so that Smith had no right of action against any one, and White was the only person who could sue at all. 1 Chitly\u2019s PL 2.\nThe plaintiff in error took the cotton. \u25a0 White had nothing to do with the person to whom it was shipped \u2014 made no contract with them and gave them no credit. Wait was the man with whom he dealt, and to whom he had a right to look for payment. That this is not a proper case for a new trial, vide, 3 J. R. 170. 3 J. R. 369. 3 J. R. 271."
+  },
+  "file_name": "0640-02",
+  "first_page_order": 640,
+  "last_page_order": 642
+}

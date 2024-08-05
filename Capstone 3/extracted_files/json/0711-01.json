@@ -1,0 +1,66 @@
+{
+  "id": 1428255,
+  "name": "Parks v. Johnston",
+  "name_abbreviation": "Parks v. Johnston",
+  "decision_date": "1934-01-29",
+  "docket_number": "4-3313",
+  "first_page": "711",
+  "last_page": "714",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "188 Ark. 711"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 167,
+    "char_count": 2301,
+    "ocr_confidence": 0.485,
+    "pagerank": {
+      "raw": 2.0446031217563963e-07,
+      "percentile": 0.7498396624668079
+    },
+    "sha256": "da64fc233ad2d597239e1be370e45241d4f77e9a5e04f2b961f7d8dc17edfff8",
+    "simhash": "1:919f5c9d57ae130a",
+    "word_count": 410
+  },
+  "last_updated": "2023-07-14T22:44:11.517500+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Parks v. Johnston."
+    ],
+    "opinions": [
+      {
+        "text": "Kirby, J.,\n(after stating the facts). It is insisted that the chancellor erred in decreeing a specific performance of the contract, appellant claiming that by its terms he had the right to refuse to perform so long as an abstract of title was not furnished \u201cthat was satisfactory to him,\u201d and that no more than liquidated damages could be recovered for his breach of the contract, the $100 which he insisted had been agreed upon as liquidated damages and paid to bind the bargain.\nThe evidence, however, is amply sufficient to show the making of the contract, its terms and appellant\u2019s refusal to- perform it. Appellant could not arbitrarily refuse to accept a title shown by the abstract to be a good and merchantable title, a complete and perfect title in fact; and under no- proper construction of the contract or agreement of- purchase was he\u00bbpermitted to refuse to perform same for any reason and escape the obligations thereof by the payment of $100 as liquidated damages. There Avas no such provision in the contract. It was a contract of sale and purchase, not an option to buy, properly entered into, and he Avas bound by its terms upon its performance by the appellee to take the land as agreed, and the chancellor correctly held that appellee was entitled to a specific performance of the contract.\nThere was. no right of election on the appellant\u2019s part under the terms of the contract to refuse to perform it upon the payment of $100 damages for his failure to do so; nor did any such offer lessen in any way appellee\u2019s right to a specific performance, as the chancellor held, upon his compliance Avith the terms of the contract.\nNeither is there any merit in appellant\u2019s claim of a right to refuse to perform the contract on account of any insufficient description in the lands for the road to be-laid out on. The testimony shows that there had been a road already laid out and in use on the land, and that the description of the right-of-way of said road was the same in this deed as it was in the deeds under which appellee held the land.\nWe find the decree of the chancellor in all respects correct, and it must be affirmed. It is so ordered.",
+        "type": "majority",
+        "author": "Kirby, J.,"
+      }
+    ],
+    "attorneys": [
+      "J. S. Jameson and John Mayes, for appellant.",
+      "James B. McDonough, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Parks v. Johnston.\n4-3313\nOpinion delivered January 29, 1934.\nJ. S. Jameson and John Mayes, for appellant.\nJames B. McDonough, for appellee."
+  },
+  "file_name": "0711-01",
+  "first_page_order": 729,
+  "last_page_order": 732
+}

@@ -1,0 +1,76 @@
+{
+  "id": 12462817,
+  "name": "Swank et al., Petitioners, v. Valley Christian Sch. et al., Respondents",
+  "name_abbreviation": "Swank v. Valley Christian Sch.",
+  "decision_date": "2016-09-28",
+  "docket_number": "No. 93282-4",
+  "first_page": "1009",
+  "last_page": "1009",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "186 Wash. 2d 1009"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Wash.",
+    "id": 9029,
+    "name": "Washington Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 38,
+    "name_long": "Washington",
+    "name": "Wash."
+  },
+  "cites_to": [
+    {
+      "cite": "194 Wn. App. 67",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        12451627
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/194/0067-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 31,
+    "char_count": 221,
+    "ocr_confidence": 0.861,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.25766058175592477
+    },
+    "sha256": "baaa9ad2cd02f835172427917dfe7b58baa744eaf9b3bde1369e22dd3c20241d",
+    "simhash": "1:8091c0f34548fc75",
+    "word_count": 37
+  },
+  "last_updated": "2024-02-27T18:43:05.207238+00:00",
+  "provenance": {
+    "date_added": "2019-05-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Swank et al., Petitioners, v. Valley Christian Sch. et al., Respondents,"
+    ],
+    "opinions": [
+      {
+        "text": "Petition for review of a decision of the Court of Appeals, No. 33782-1-III, May 17, 2016, 194 Wn. App. 67. Granted September 28, 2016.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Swank et al., Petitioners, v. Valley Christian Sch. et al., Respondents,\nNo. 93282-4."
+  },
+  "file_name": "1009-05",
+  "first_page_order": 995,
+  "last_page_order": 995
+}

@@ -1,0 +1,373 @@
+{
+  "id": 1397075,
+  "name": "Wright v. Lake",
+  "name_abbreviation": "Wright v. Lake",
+  "decision_date": "1929-02-18",
+  "docket_number": "",
+  "first_page": "1184",
+  "last_page": "1189",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "178 Ark. 1184"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [
+    {
+      "cite": "128 S. W. 557",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "95 Ark. 118",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1543587
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/95/0118-01"
+      ]
+    },
+    {
+      "cite": "114 S. W. 467",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "88 Ark. 153",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1517153
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/88/0153-01"
+      ]
+    },
+    {
+      "cite": "206 S. W. 660",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "136 Ark. 338",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1570040
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/136/0338-01"
+      ]
+    },
+    {
+      "cite": "239 S. W. 721",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "152 Ark. 587",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1364122
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/152/0587-01"
+      ]
+    },
+    {
+      "cite": "74 Me. 370",
+      "category": "reporters:state",
+      "reporter": "Me.",
+      "case_ids": [
+        8844823
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/me/74/0370-01"
+      ]
+    },
+    {
+      "cite": "21 A. L. R. 1",
+      "category": "reporters:specialty",
+      "reporter": "A.L.R.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "187 N. W. 254",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "218 Mich. 248",
+      "category": "reporters:state",
+      "reporter": "Mich.",
+      "case_ids": [
+        1774578
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mich/218/0248-01"
+      ]
+    },
+    {
+      "cite": "46 Mo. 410",
+      "category": "reporters:state",
+      "reporter": "Mo.",
+      "case_ids": [
+        8851891
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mo/46/0410-01"
+      ]
+    },
+    {
+      "cite": "6 L. R. A. (N. S.) 263",
+      "category": "reporters:federal",
+      "reporter": "L.R.A.N.S.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "54 S. E. 341",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "60 W. Va. 252",
+      "category": "reporters:state",
+      "reporter": "W. Va.",
+      "case_ids": [
+        8629189
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/w-va/60/0252-01"
+      ]
+    },
+    {
+      "cite": "5 S. W. (2d) 309",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "176 Ark. 1013",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1399937
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/176/1013-01"
+      ]
+    },
+    {
+      "cite": "282 S. W. 14",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "170 Ark. 931",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1371752
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/170/0931-01"
+      ]
+    },
+    {
+      "cite": "293 S. W. 746",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "173 Ark. 862",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        8724830
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/173/0862-01"
+      ]
+    },
+    {
+      "cite": "263 S. W. 400",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "165 Ark. 209",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1379840
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/165/0209-01"
+      ]
+    },
+    {
+      "cite": "220 S. W. 819",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "143 Ark. 539",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1589499
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/143/0539-01"
+      ]
+    },
+    {
+      "cite": "158 S. W. 141",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "108 Ark. 342",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1342297
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/108/0342-01"
+      ]
+    },
+    {
+      "cite": "123 S. W. 765",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "92 Ark. 618",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1548574
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/92/0618-01"
+      ]
+    },
+    {
+      "cite": "273 S. W. 364",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "169 Ark. 132",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1373918
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/169/0132-01"
+      ]
+    },
+    {
+      "cite": "261 S. W. 923",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "164 Ark. 306",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1382220
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/164/0306-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 404,
+    "char_count": 6038,
+    "ocr_confidence": 0.47,
+    "pagerank": {
+      "raw": 8.78009832040814e-07,
+      "percentile": 0.9778004431918618
+    },
+    "sha256": "73c0d95886aed2011365732f4b680b8b7cd60dc107cf786934c024d1b4fe565e",
+    "simhash": "1:3ed7ee89e47f0d8e",
+    "word_count": 1076
+  },
+  "last_updated": "2024-02-27T17:49:07.238160+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Wright v. Lake."
+    ],
+    "opinions": [
+      {
+        "text": "Hart, C. J.,\n(after stating the facts). The court \u2022sustained a demurrer to the complaint in each case, and rendered judgment accordingly. The allegations of the complaint are the same, except as to the amounts due, and the demurrer confesses them to be true. 'Contrary to the common-law rule, under our Code every possible intendment and presumption is to be made in favor of a pleading, and a complaint will not be set aside on demurrer unless it be so fatally defective that, taking all the facts to be admitted, the court can say that they furnish no cause of action whatever. Sharp v. Drainage District No. 7, 164 Ark. 306, 261 S. W. 923, and Penix v. Shaddox, 169 Ark. 132, 273 S. W. 364.\n\u25a0Counsel for the defendant first seek to uphold the judgment of the circuit court on the ground that the cause of action is barred by the statute of limitations. We do not agree with counsel in this contention. According to the allegations of the complaint in each case, the defendant concealed from the plaintiff the withholding of certain part of the earnings of the partnership for the three years set out in the complaint. It is alleged that the plaintiff had no voice in the management of the business, and did not actively assist in carrying it on. On the contrary, it is alleged that the defendant Lake was the actual manager of the business, and fraudulently concealed from the plaintiff that he had failed to pay him a part of his earnings for the three years specified in the complaint and that he had converted same to his own use. It is further alleged that notice of the fraud was not acquired by the plaintiff until October 1, 1926. The original complaint was filed on the 8th day of April, 1927, and summons was served on the defendant on the 9th day of April, 1927. The amendment to the complaint was filed on May 26, 1928. Therefore the cause of action is not barred by the statute- of limitations. It is well settled in this \u2018State that, where there has been a fraudulent concealment of the cause of action, the statute of limitations does not begin to run until the fraud is discovered. Conditt v. Holden, 92 Ark. 618, 123 S. W. 765; Dilley v. Simmons National Bank, 108 Ark. 342, 158 S. W. 141; Meier v. Hart, 143 Ark. 539, 220 S. W. 819; Greer v. Craig, 165 Ark. 209, 263 S. W. 400; and Valley Planting Co. v. Currie, 173 Ark. 862, 293 S. W. 746.\nCounsel for the defendant also seek to uphold the judgment of the circuit court in sustaining the demurrer to the complaint under the well-settled rule that, in a suit for accounting* and settlement of partnership affairs, the jurisdiction of equity is practically exclusive. Short v. Thompson, 170 Ark. 931, 282 S. W. 14; Tankersley v. Patterson, 176 Ark. 1013, 5 S. W. (2d) 309. The reason is that equity has almost exclusive jurisdiction in suits between partners where an accounting is necessary of some equitable relief required, such as opening up a settlement for the purpose of adjusting the accounts between the partners.\nThere are certain exceptions, however, to the general rule. In the instant case the partnership had been dissolved, and the plaintiff in each case had sold out his interest to the defendant Lake. The wrong complained of does not involve a readjustment of the partnership business or accounts. The contract of dissolution stands, and the partnership relation no longer exists. The ground of action is in no way connected with the state of the partnership business, except that the defendant is alleged to have withheld from the plaintiff a part of the profits for three different years and to have converted the same to his own use. A certain specified and definite amount is alleged to have been withheld by the defendant for three different years, and to have been fraudulently converted to his own use. The alleged fraud and deceit is not asked to be a ground for setting aside the settlement between the partners or for reforming the accounts. The rig'ht of the action in this case is the alleged tort of Lake in fraudulently withholding from the plaintiff in each case a certain part of the profits of the partnership for three different years, and converting the same to his own use. The former partnership between the parties is in no way concerned, and there is nothing in the former partnership relation which prevents the maintenance of this action for the alleged deceit. Crockett v. Burleson 60 W. Va. 252, 54 S. E. 341, 6 L. R. A. (N. S.) 263; Russell v. Grimes, 46 Mo. 410; French v. Mulholland, 218 Mich. 248, 187 N. W. 254, 21 A. L. R. 1, and case-note at 97; and Farnsworth v. Whitney, 74 Me. 370, where fraud was alleged in the settlement lof partnership affairs, which case held that the defrauded partner could bring a.n action on the case for deceit.\nThis principle was recognized and approved hy this court in Hamilton v. McGill, 152 Ark. 587, 239 S. W. 721, and Phillips v. Mantle, 136 Ark. 338, 206 S. W. 660. The reason is that no reopening or readjustment of the partnership accounts is necessary in such a case, and the plaintiff, having affirmed the dissolution of the partnership except as to the fraud alleged to have been practiced upon him, has a remedy at law for the alleged fraud and deceit.\nIt follows that the court erred in sustaining the demurrer to the complaint in each case, and for that error the judgment must be reversed, and the cause remanded for- further proceedings. In this connection it may be stated that a defendant sued at law must make all the defenses he has, both legal and equitable; if any of them are exclusively cognizable in equity, he is entitled to a transfer to equity. Dunbar v. Bourland, 88 Ark. 153, 114 S. W. 467; and Automatic Weighing Co. v. Carter, 95 Ark. 118, 128 S. W. 557.\nIt follows that the judgments will be reversed, and the causes will be remanded for further proceedings according to law and not inconsistent with this opinion.",
+        "type": "majority",
+        "author": "Hart, C. J.,"
+      }
+    ],
+    "attorneys": [
+      "M. A. Matloch and J. B. Wilson, for appellant.",
+      "Mahony, Yocum & Saye, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Wright v. Lake.\nOpinion delivered February 18, 1929.\nM. A. Matloch and J. B. Wilson, for appellant.\nMahony, Yocum & Saye, for appellee."
+  },
+  "file_name": "1184-01",
+  "first_page_order": 1202,
+  "last_page_order": 1207
+}

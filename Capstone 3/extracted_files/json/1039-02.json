@@ -1,0 +1,78 @@
+{
+  "id": 12457154,
+  "name": "State, Respondent, v. Madrazo-Munoz, Petitioner",
+  "name_abbreviation": "State v. Madrazo-Munoz",
+  "decision_date": "2016-06-29",
+  "docket_number": "No. 92910-6",
+  "first_page": "1039",
+  "last_page": "1039",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "185 Wash. 2d 1039"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Wash.",
+    "id": 9029,
+    "name": "Washington Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 38,
+    "name_long": "Washington",
+    "name": "Wash."
+  },
+  "cites_to": [
+    {
+      "cite": "192 Wn. App. 1045",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        12456264,
+        12456265,
+        12456266,
+        12456263
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/192/1045-02",
+        "/wash-app/192/1045-03",
+        "/wash-app/192/1045-04",
+        "/wash-app/192/1045-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 28,
+    "char_count": 197,
+    "ocr_confidence": 0.877,
+    "sha256": "d4872262bd8ccc01ee07a01368700386b84137b6f413e46483a2ff56263207db",
+    "simhash": "1:858ad63f3dcd57fd",
+    "word_count": 31
+  },
+  "last_updated": "2024-02-28T00:06:59.447104+00:00",
+  "provenance": {
+    "date_added": "2019-05-22",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "State, Respondent, v. Madrazo-Munoz, Petitioner,"
+    ],
+    "opinions": [
+      {
+        "text": "Petition for review of a decision of the Court of Appeals, No. 46688-1-II, February 17, 2015, 192 Wn. App. 1045. Denied June 29, 2016.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "State, Respondent, v. Madrazo-Munoz, Petitioner,\nNo. 92910-6."
+  },
+  "file_name": "1039-02",
+  "first_page_order": 991,
+  "last_page_order": 991
+}

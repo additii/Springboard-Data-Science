@@ -1,0 +1,1229 @@
+Source.Name,id,name,name_abbreviation,decision_date,docket_number,first_page,last_page,citations,court.name_abbreviation,court.id,court.name,jurisdiction.id,jurisdiction.name_long,jurisdiction.name,cites_to,analysis.cardinality,analysis.char_count,analysis.ocr_confidence,analysis.pagerank.raw,analysis.pagerank.percentile,analysis.sha256,analysis.simhash,analysis.word_count,last_updated,provenance.date_added,provenance.source,provenance.batch,casebody.judges,casebody.parties,casebody.opinions,casebody.attorneys,casebody.corrections,casebody.head_matter,file_name,first_page_order,last_page_order
+0001-01.json,1861594,"The State of Washington, Respondent, v. George David Tate, Appellant",State v. Tate,10-Sep-69,No. 40-40778-2,1,5,[List],Wash. Ct. App.,8985,Washington Court of Appeals,38,Washington,Wash.,[List],471,7524,0.64,1.59925E-07,0.683574602,8c16186e01a6fb3532c47ed6f1c3c6724923b7521ffe4ff416c237d6e3f56c18,1:a0a7b06c1c060c5e,1229,2/27/2024 9:01,29-Aug-19,Harvard,2018,[List],[List],[List],[List],,"[No. 40-40778-2.
+Division Two.
+September 10, 1969.]
+The State of Washington, Respondent, v. George David Tate, Appellant.
+Charles T;. Mertsching, for appellant (appointed counsel for appeal). - , .
+Henry R: Dunn, Prosecuting Attorney, for réspondent.",0001-01,25,29
+0006-01.json,1861774,"Albert J. Lilygren et al., Respondents, v. Gene B. Rogers et al., Appellants; Albert J. Lilygren et al., Respondents, v. Gene B. Rogers et al., Appellants",Lilygren v. Rogers,22-Sep-69,"Nos. 32-40215-1, 32-40482-1",6,13,[List],Wash. Ct. App.,8985,Washington Court of Appeals,38,Washington,Wash.,[List],877,14788,0.647,5.19198E-08,0.325690803,a08a620df1775f73073a2aaa677a68ec8a3114f462a622c5b07637dc00ea1ff8,1:c28dd362331cba7d,2498,2/27/2024 9:01,29-Aug-19,Harvard,2018,[List],[List],[List],[List],,"[Nos. 32-40215-1, 32-40482-1.
+Division One.
+September 22, 1969.]
+Panel 1
+Albert J. Lilygren et al., Respondents, v. Gene B. Rogers et al., Appellants. Albert J. Lilygren et al., Respondents, v. Gene B. Rogers et al., Appellants.
+Glenn W. Toomey, for appellants.
+Franco, Asia, Bensussen & Coe and Benjamin S. Asia, for respondents.",0006-01,30,37
+0014-01.json,1861564,"Roberta D. Fraser, Appellant, v. Jessie J. Monroe et al., Respondents",Fraser v. Monroe,23-Sep-69,No. 3-39842-2,14,19,[List],Wash. Ct. App.,8985,Washington Court of Appeals,38,Washington,Wash.,[List],540,9202,0.634,7.86486E-08,0.459117308,5abca59f7634424d00503b18a2532ea20de1bb48a158e151796fddb74d778945,1:a4ddf14873043f78,1477,2/27/2024 9:01,29-Aug-19,Harvard,2018,[List],[List],[List],[List],,"[No. 3-39842-2.
+Division Two.
+September 23, 1969.]
+Roberta D. Fraser, Appellant, v. Jessie J. Monroe et al., Respondents.
+Wallace & Fraser and William H. Fraser, for appellant.
+Dudley N. Perrine, for respondents.",0014-01,38,43
+0019-01.json,1861779,"Helene Joyce Peste, Appellant, v. Fred G. Peste, Respondent",Peste v. Peste,23-Sep-69,No. 5-40008-2,19,26,[List],Wash. Ct. App.,8985,Washington Court of Appeals,38,Washington,Wash.,[List],723,13558,0.652,3.53705E-07,0.884601187,ba23329060c9d249ae0195df8350f9a9cac8eba6959d1820c3837bb5ab8984f7,1:d3ebe71f125ec0db,2230,2/27/2024 9:01,29-Aug-19,Harvard,2018,[List],[List],[List],[List],,"[No. 5-40008-2.
+Division Two.
+September 23, 1969.]
+Helene Joyce Peste, Appellant, v. Fred G. Peste, Respondent.
+Owen P. Hughes (of Neal, Bonneville, Hughes & Viert), for appellant.
+B. Franklin Heuston, for respondent.",0019-01,43,50
+0027-01.json,1861601,"James Manufacturing Company, Plaintiff, v. John Stovner, Appellant, Edward E. Kindell, Jr., et al., Respondents",James Manufacturing Co. v. Stovner,23-Sep-69,No. 7-40066-2,27,32,[List],Wash. Ct. App.,8985,Washington Court of Appeals,38,Washington,Wash.,[List],496,10650,0.665,1.71806E-07,0.703474218,c6a6709a01894b0798063284b8fd655e7f90a7e72d6ced6037ccd985acbad1f3,1:76a24faa8a06edfc,1827,2/27/2024 9:01,29-Aug-19,Harvard,2018,[List],[List],[List],[List],,"[No. 7-40066-2.
+Division Two.
+September 23, 1969.]
+James Manufacturing Company, Plaintiff, v. John Stovner, Appellant, Edward E. Kindell, Jr., et al., Respondents.
+Duane S. Radliff, for appellant.
+Edward Eugene Kindell, pro se.",0027-01,51,56
+0033-01.json,1861609,"Pete Papac et al., Appellants, v. Mayr Bros. Logging Co., Inc., Respondent",Papac v. Mayr Bros. Logging Co.,25-Sep-69,No. 13-40233-2,33,39,[List],Wash. Ct. App.,8985,Washington Court of Appeals,38,Washington,Wash.,[List],597,10991,0.613,5.51336E-08,0.344510819,0f8eae76069dfd936013ed51587f9e7d341fba0c6c2730e96b4505afa71137ef,1:cbe05577d621877c,1858,2/27/2024 9:01,29-Aug-19,Harvard,2018,[List],[List],[List],[List],,"[No. 13-40233-2.
+Division Two.
+September 25, 1969.]
+Pete Papac et al., Appellants, v. Mayr Bros. Logging Co., Inc., Respondent.
+Schumacher & Charette and John W. Schumacher, for appellants.
+Clark W. Adams, for respondent.",0033-01,57,63
+0039-01.json,1861758,"Ray Jurgens, Respondent, v. The American Legion, Cashmere Post 64 Inc., Appellant","Jurgens v. American Legion, Cashmere Post 64 Inc.",1-Oct-69,No. 25-40275-3,39,43,[List],Wash. Ct. App.,8985,Washington Court of Appeals,38,Washington,Wash.,[List],503,7084,0.621,1.3383E-07,0.630617654,cd710cb33cc3524c6e0b3aa0b9dd4be2e9bdcec4037fbdfc52438912fa03b0f4,1:6b46a08c4f62867a,1217,2/27/2024 9:01,29-Aug-19,Harvard,2018,[List],[List],[List],[List],,"[No. 25-40275-3.
+Division Three.
+October 1, 1969.]
+Ray Jurgens, Respondent, v. The American Legion, Cashmere Post 64 Inc., Appellant.
+Michael B. Jeffers and Hughes, Jeffers & Jeffers, for appellant.
+Frank T. Kuntz and Hamilton, Lynch & Kuntz, for respondent.",0039-01,63,67
+0043-01.json,1861569,"The State of Washington, Respondent, v. Willie Watson, Appellant",State v. Watson,1-Oct-69,No. 35-40802-3,43,46,[List],Wash. Ct. App.,8985,Washington Court of Appeals,38,Washington,Wash.,[List],321,5111,0.634,6.42199E-08,0.396759811,751d417432687369fec60b4866ea3cbf0defac816e32c6ee70204f70c7fbd44e,1:0f3f3acf7d8cd0fa,855,2/27/2024 9:01,29-Aug-19,Harvard,2018,[List],[List],[List],[List],,"[No. 35-40802-3.
+Division Three.
+October 1, 1969.]
+The State of Washington, Respondent, v. Willie Watson, Appellant.
+Harry Hazel, for appellant (appointed counsel for appeal).
+Lincoln E. Shropshire, Prosecuting Attorney, for respondent.",0043-01,67,70
+0046-01.json,1861656,"Bud Holter et al., Respondents, v. National Union Fire Insurance Company of Pittsburgh, Pa., Appellant",Holter v. National Union Fire Insurance,2-Oct-69,No. 2-39803-2,46,51,[List],Wash. Ct. App.,8985,Washington Court of Appeals,38,Washington,Wash.,[List],462,7709,0.631,3.51404E-07,0.883447452,798f234f3918a0348b08e611ce2bb044028d9d733d70425f5125971ec9a031fb,1:add22b92ecb9af17,1269,2/27/2024 9:01,29-Aug-19,Harvard,2018,[List],[List],[List],[List],,"[No. 2-39803-2.
+Division Two.
+October 2, 1969.]
+Bud Holter et al., Respondents, v. National Union Fire Insurance Company of Pittsburgh, Pa., Appellant.
+Comfort, Dolack, Hansler & Billett and Patrick C. Comfort, for appellant.
+Gordon, Honeywell, Malanca, Peterson & Johnson and James A. Furber, for respondents.",0046-01,70,75
+0051-01.json,1861799,"James R. Carnes et al., Appellants, v. Gardner Clark, Respondent",Carnes v. Clark,2-Oct-69,No. 19-40315-2,51,52,[List],Wash. Ct. App.,8985,Washington Court of Appeals,38,Washington,Wash.,[List],184,1905,0.636,5.52765E-08,0.346200686,623ee2d4d5236dff0ad460507003f1b57603a64b4b921941139e7221b8792a54,1:f2e7adf3e0095e7e,314,2/27/2024 9:01,29-Aug-19,Harvard,2018,[List],[List],[List],[List],,"[No. 19-40315-2.
+Division Two.
+October 2, 1969.]
+James R. Carnes et al., Appellants, v. Gardner Clark, Respondent.
+Muscek, Adams, Swayze & Baker and Marshall D. Adams, for appellants.
+Harry Hazel, for respondent.",0051-01,75,76
+0053-01.json,1861729,"Glenn W. Cayce, Respondent, v. The Department of Labor and Industries et al., Appellants",Cayce v. Department of Labor & Industries,2-Oct-69,No. 60-40436-1,53,56,[List],Wash. Ct. App.,8985,Washington Court of Appeals,38,Washington,Wash.,[List],348,5219,0.637,4.03581E-08,0.068626588,b561836ca8fb7465a802eafe82a75d7ad80a7baf96a4bff46478553ab3f42246,1:dda6cc4915b2c95c,853,2/27/2024 9:01,29-Aug-19,Harvard,2018,[List],[List],[List],[List],,"[No. 60-40436-1.
+Division One.
+October 2, 1969.]
+Panel 1
+Glenn W. Cayce, Respondent, v. The Department of Labor and Industries et al., Appellants.
+John J. O’Connell, Attorney General, and Joe Gordon, Jr., Assistant, for 'appellant Department of Labor and Industries.
+Ingram, Zelasko & Goodwin and Richard E. Goodwin, for appellant Aloha Lumber Company.
+James J. Solan, for respondent.",0053-01,77,80
+0056-01.json,1861805,"Charles V. Pedrini et al., Respondents, v. Mid-City Trailer Depot, Inc., Appellant","Pedrini v. Mid-City Trailer Depot, Inc.",3-Oct-69,No. 50-40349-1,56,61,[List],Wash. Ct. App.,8985,Washington Court of Appeals,38,Washington,Wash.,[List],541,8274,0.629,3.5208E-07,0.883788012,3ac100d5eea1dd4eb27c4e26bbb21dba28e872acee471dab0308b8aa682ba123,1:76e386e2244864f5,1392,2/27/2024 9:01,29-Aug-19,Harvard,2018,[List],[List],[List],[List],,"[No. 50-40349-1.
+Division One.
+October 3, 1969.]
+Panel 1
+Charles V. Pedrini et al., Respondents, v. Mid-City Trailer Depot, Inc., Appellant.
+Rutherford, Kargianis & Austin and Don M. Gulliford, for appellant.
+Beckman, Kuvara & Gooding and Robert Kuvara, for respondents.",0056-01,80,85
+0061-01.json,1861568,"The State of Washington, Respondent, v. Gail Hendrickson, Appellant",State v. Hendrickson,8-Oct-69,No. 30-40486-3,61,65,[List],Wash. Ct. App.,8985,Washington Court of Appeals,38,Washington,Wash.,[List],381,6520,0.611,2.29001E-07,0.786121507,ba2192d286fbb74563e41fb55067facdc52dca197d6cfdf174c99eebfed3084e,1:9b58743c9da438ec,1094,2/27/2024 9:01,29-Aug-19,Harvard,2018,[List],[List],[List],[List],,"[No. 30-40486-3.
+Division Three.
+October 8, 1969.]
+The State of Washington, Respondent, v. Gail Hendrickson, Appellant.
+Charles T. Schillberg, for appellant.
+Paul Klasen, Prosecuting Attorney, for respondent.",0061-01,85,89
+0065-01.json,1861835,"Thelma V. Christiansen, Appellant, v. Helen Carey Rodin, Respondent",Christiansen v. Rodin,8-Oct-69,No. 17-40054-1,65,66,[List],Wash. Ct. App.,8985,Washington Court of Appeals,38,Washington,Wash.,[List],211,2224,0.671,4.03581E-08,0.068628712,f320eaed01b4975d2d5fec0595d6d964e25730c372296654ffca4b4a8ae0fc7a,1:ceea72fe4ea12784,373,2/27/2024 9:01,29-Aug-19,Harvard,2018,[List],[List],[List],[List],,"[No. 17-40054-1.
+Division One.
+October 8, 1969.]
+Panel 2
+Thelma V. Christiansen, Appellant, v. Helen Carey Rodin, Respondent.
+Levinson & Friedman and Ronald J. Bland, for appellant.
+Leo A. Anderson, for respondent.",0065-01,89,90
+0067-01.json,1861780,"Marion C. Edwards, Individually and as Guardian, et al., Appellants, v. Leon R. Edwards, Individually and as Executor, et al., Respondents",Edwards v. Edwards,10-Oct-69,No. 1-39761-2,67,77,[List],Wash. Ct. App.,8985,Washington Court of Appeals,38,Washington,Wash.,[List],833,18241,0.634,1.56864E-07,0.678275259,f23dc07718ef3a9916af42c5c1414e12351b532a4643898f7fb1871268974037,1:0161ec573d2f84a0,3195,2/27/2024 9:01,29-Aug-19,Harvard,2018,[List],[List],[List],[List],,"[No. 1-39761-2.
+Division Two.
+October 10, 1969.]
+Marion C. Edwards, Individually and as Guardian, et al., Appellants, v. Leon R. Edwards, Individually and as Executor, et al., Respondents.
+Robbins, Felix & Robbins and Thomas J. Kraft, for appellants.
+Willis C. Oldfield, for, respondents.",0067-01,91,101
+0081-01.json,1861795,"National Electrical Contractors Association, Puget Sound Chapter et al., Appellants, v. The City of Bellevue et al., Respondents",National Electrical Contractors Ass'n v. City of Bellevue,15-Oct-69,No. 61-40438-1,81,85,[List],Wash. Ct. App.,8985,Washington Court of Appeals,38,Washington,Wash.,[List],342,5972,0.641,1.08734E-07,0.564068407,76e65c793a42b326cd386f7f229d6cf0cca7902121c7307015b5388f63b43127,1:303c48162a9dae3c,976,2/27/2024 9:01,29-Aug-19,Harvard,2018,[List],[List],[List],[List],,"[No. 61-40438-1.
+Division One.
+October 15, 1969.]
+Panel 1
+National Electrical Contractors Association, Puget Sound Chapter et al., Appellants, v. The City of Bellevue et al., Respondents.
+Ferguson & Burdell and G. E. Craig Doupe, for appellants.
+Joseph S. Miller, for respondents.",0081-01,105,109
+0085-01.json,1861726,"William A. Dorsey et al., Respondents, v. Pete Speelman et al., Appellants",Dorsey v. Speelman,15-Oct-69,No. 113-40671-1,85,90,[List],Wash. Ct. App.,8985,Washington Court of Appeals,38,Washington,Wash.,[List],537,9115,0.643,1.10515E-07,0.569349989,28b6f65be7836b2e8fbd8eb8eca1eb945600b937260b1353fb44cb3265381a8f,1:dde9b5e0691c47be,1530,2/27/2024 9:01,29-Aug-19,Harvard,2018,[List],[List],[List],[List],,"[No. 113-40671-1.
+Division One.
+October 15, 1969.]
+Panel 1
+William A. Dorsey et al., Respondents, v. Pete Speelman et al., Appellants.
+William A. Stiles, Jr., for appellants.
+John A. Ward, for respondents.",0085-01,109,114
+0090-01.json,1861800,"The State of Washington, Respondent, v. Eddie Eugene Jackson, Appellant",State v. Jackson,15-Oct-69,No. 79-40700-1,90,94,[List],Wash. Ct. App.,8985,Washington Court of Appeals,38,Washington,Wash.,[List],488,6685,0.631,1.34302E-07,0.63168567,33dba93b45ef68b987b41812e6c678dbcf4d00e3db5544d7493b61d0bf68098b,1:90a7c971ec157815,1143,2/27/2024 9:01,29-Aug-19,Harvard,2018,[List],[List],[List],[List],,"[No. 79-40700-1.
+Division One.
+October 15, 1969.]
+Panel 2
+The State of Washington, Respondent, v. Eddie Eugene Jackson, Appellant.
+John W. Rusden, for appellant (appointed counsel for appeal).
+Charles O. Carroll, Prosecuting Attorney, and Jerry Brian Riess, Deputy, for respondent.",0090-01,114,118
+0094-01.json,1861717,"Clement Zukowsky et al., Appellants, v. George Brown et al., Respondents",Zukowsky v. Brown,16-Oct-69,No. 6-40064-2,94,103,[List],Wash. Ct. App.,8985,Washington Court of Appeals,38,Washington,Wash.,[List],897,17341,0.629,9.05715E-08,0.504856461,c0cbfc96675f0fd38b53f02337580821d034b97a44acc0d04b34e1a22347b6e9,1:b792c142688c843b,2952,2/27/2024 9:01,29-Aug-19,Harvard,2018,[List],[List],[List],[List],,"[No. 6-40064-2.
+Division Two.
+October 16, 1969.]
+Clement Zukowsky et al., Appellants, v. George Brown et al., Respondents.
+McCormick, Hoffman, Rees & Arnold and Paul Hoffman, Jr., for appellants.
+Neal, Bonneville, Hughes & Viert and William G. Viert, for respondents.",0094-01,118,127
+0104-01.json,1861670,"Milton E. Ranta et al., Respondents, v. Robert G. German et al., Appellants, Richard F. Niichel et al., Respondents",Ranta v. German,16-Oct-69,No. 18-40306-2,104,108,[List],Wash. Ct. App.,8985,Washington Court of Appeals,38,Washington,Wash.,[List],473,8160,0.624,1.96139E-07,0.738042257,410ab88662d4876e4d14fcf6ab5480464adebf94ebf5452a3b6e9417c79ae578,1:17ea042bc37da590,1355,2/27/2024 9:01,29-Aug-19,Harvard,2018,[List],[List],[List],[List],,"[No. 18-40306-2.
+Division Two.
+October 16, 1969.]
+Milton E. Ranta et al., Respondents, v. Robert G. German et al., Appellants, Richard F. Niichel et al., Respondents.
+Colvin & Williams, David J. Williams, John J. Keough, and A. Clemens Grady, for appellants.
+Chamberlin & Johnson and G. B. Chamberlin for respondents.",0104-01,128,132
+0109-01.json,1861664,"The State of Washington, Respondent, v. George Barr, Appellant",State v. Barr,16-Oct-69,No. 35-40571-2,109,111,[List],Wash. Ct. App.,8985,Washington Court of Appeals,38,Washington,Wash.,[List],279,4295,0.638,4.8995E-08,0.307083154,d5a94b2b119d29cd799938d4f78ca888772f71ed6083045e41050c07c6f19dbe,1:e36ef5aa7c6495ab,701,2/27/2024 9:01,29-Aug-19,Harvard,2018,[List],[List],[List],[List],,"[No. 35-40571-2.
+Division Two.
+October 16, 1969.]
+The State of Washington, Respondent, v. George Barr, Appellant.
+Robert S. Felker, for appellant.
+Ronald L. Hendry, Prosecuting Attorney, Joseph D. Mladinov, Special Counsel, Eugene G. Olson, Chief Criminal Deputy, for respondent.",0109-01,133,135
+0112-01.json,1861788,"June Pettit Lish, Appellant, v. Harold Dickey et al., Respondents",Lish v. Dickey,20-Oct-69,No. 13-40065-3,112,116,[List],Wash. Ct. App.,8985,Washington Court of Appeals,38,Washington,Wash.,[List],394,7009,0.655,5.67683E-08,0.354826864,769985341ecac3c2d3b2d01612556436a46505d623ba6c10637a1e221bb2d489,1:36fe6a4f7e5fdf49,1237,2/27/2024 9:01,29-Aug-19,Harvard,2018,[List],[List],[List],[List],,"[No. 13-40065-3.
+Division Three
+October 20, 1969.]
+June Pettit Lish, Appellant, v. Harold Dickey et al., Respondents.
+John R. Lewis, for appellant.
+Davis, Arneil, Dorsey & Kight and Milburn D. Kight, for respondents.",0112-01,136,140
+0116-01.json,1861777,"Harry A. Spake et al., Respondents, v. John S. Elder et al., Appellants",Spake v. Elder,21-Oct-69,No. 1-39729-3,116,123,[List],Wash. Ct. App.,8985,Washington Court of Appeals,38,Washington,Wash.,[List],617,12435,0.638,1.27578E-07,0.6158054,153842982ea233909bbeb0a901bb2fc5dfb1f2a310306683dc8aeb560117e76f,1:26854205088c9cf1,2078,2/27/2024 9:01,29-Aug-19,Harvard,2018,[List],[List],[List],[List],,"[No. 1-39729-3.
+Division Three.
+October 21, 1969.]
+Harry A. Spake et al., Respondents, v. John S. Elder et al., Appellants.
+Jack Doty, for appellants.
+Engst, Phelps & Young and Peter G. Young, for respondents.",0116-01,140,147
+0124-01.json,1861829,"Leslie Johnson et al., Appellants, v. Poultry Shipping and Feeding Company et al., Respondents",Johnson v. Poultry Shipping & Feeding Co.,21-Oct-69,No. 3-39877-3,124,129,[List],Wash. Ct. App.,8985,Washington Court of Appeals,38,Washington,Wash.,[List],441,9437,0.625,4.03581E-08,0.068628325,1988fc259528d102725eebeecbdf25b4dc77f4a2baf3b59d707a5def567a0f4b,1:afaccaf12234ae00,1610,2/27/2024 9:01,29-Aug-19,Harvard,2018,[List],[List],[List],[List],,"[No. 3-39877-3.
+Division Three.
+October 21, 1969.]
+Leslie Johnson et al., Appellants, v. Poultry Shipping and Feeding Company et al., Respondents.
+Herbert H. Freise, for appellants.
+Robert J. Williams and Eugene T. Golden, for respondents.",0124-01,148,153
+0129-01.json,1861814,"Audrey J. Morgan, Appellant, v. Aid Association for Lutherans, Respondent",Morgan v. Aid Ass'n for Lutherans,21-Oct-69,No. 6-39960-3,129,132,[List],Wash. Ct. App.,8985,Washington Court of Appeals,38,Washington,Wash.,[List],414,6150,0.626,4.03581E-08,0.068627939,a453f7cfcd1a9be8caa0221b23f2343ac17478eec69c8db73148463b05e82718,1:23674a4306f6de4b,1004,2/27/2024 9:01,29-Aug-19,Harvard,2018,[List],[List],[List],[List],,"[No. 6-39960-3.
+Division Three.
+October 21, 1969.]
+Audrey J. Morgan, Appellant, v. Aid Association for Lutherans, Respondent.
+Horton, Wilkins & Horton, Hugh B. Horton, and John A. Wilkins, for appellant.
+Herbert H. Freise, for respondent.",0129-01,153,156
+0133-01.json,1861832,"Pershing W. Nicholas et al., Respondents, v. Alberta Cousins et al., Appellants",Nicholas v. Cousins,21-Oct-69,No. 23-40255-3,133,141,[List],Wash. Ct. App.,8985,Washington Court of Appeals,38,Washington,Wash.,[List],857,15280,0.644,9.00095E-08,0.503151728,e53d0bb164b08dfd0a29d3964bc49d71f65156ad3242a06798c7751874866d9d,1:ac754e1385e08a9b,2606,2/27/2024 9:01,29-Aug-19,Harvard,2018,[List],[List],[List],[List],,"[No. 23-40255-3.
+Division Three.
+October 21, 1969.]
+Pershing W. Nicholas et al., Respondents, v. Alberta Cousins et al., Appellants.
+J. D. McMannis, for appellants.
+Hickman & Faris and Lawrence E. Hickman, for respondents.",0133-01,157,165
+0141-01.json,1861845,"Lloyd Watts et al., Appellants, v. Leonard D. Dietrich et al., Respondents",Watts v. Dietrich,21-Oct-69,No. 24-40259-3,141,147,[List],Wash. Ct. App.,8985,Washington Court of Appeals,38,Washington,Wash.,[List],623,11876,0.635,7.03132E-08,0.424227629,413b2bc9b8aa7ddfdd0c3da99c6a2737e6ded3a5baa5dae90846e2b9b76b4c8d,1:a6062eb2b28ee557,2012,2/27/2024 9:01,29-Aug-19,Harvard,2018,[List],[List],[List],[List],,"[No. 24-40259-3.
+Division Three.
+October 21, 1969.]
+Lloyd Watts et al., Appellants, v. Leonard D. Dietrich et al., Respondents.
+Donald J. Clark, for appellants.
+honey, Westland & Raekes, John A. Westland, and Olson & Olson, for respondents.",0141-01,165,171
+0148-01.json,1861827,"The State of Washington, Respondent, v. Leslie Gene Standley, Appellant",State v. Standley,21-Oct-69,No. 27-40337-3,148,151,[List],Wash. Ct. App.,8985,Washington Court of Appeals,38,Washington,Wash.,[List],445,6833,0.64,1.15767E-07,0.583324935,ec3e88238df06aa064e8abe88c3860e72a54a2ccb02faa4bebf9f661c0eb5a77,1:f22982085ef85ee5,1117,2/27/2024 9:01,29-Aug-19,Harvard,2018,[List],[List],[List],[List],,"[No. 27-40337-3.
+Division Three.
+October 21, 1969.]
+The State of Washington, Respondent, v. Leslie Gene Standley, Appellant.
+Lowell D. Sperline, for appellant (appointed counsel for appeal).
+E. R. Whitmore, Jr., Prosecuting Attorney, and David J. Whitmore, Deputy, for respondent.",0148-01,172,175
+0152-01.json,1861840,"The State of Washington, Respondent, v. Francis Clayton Palmer, Appellant",State v. Palmer,22-Oct-69,No. 59-40428-1,152,158,[List],Wash. Ct. App.,8985,Washington Court of Appeals,38,Washington,Wash.,[List],678,11142,0.627,3.01843E-07,0.853718113,9805a5336a14485f0b78adb6c1a455fa0dbc1e4423cf0b5430dd0ed134663ff3,1:bf5711dbbdab8b48,1873,2/27/2024 9:01,29-Aug-19,Harvard,2018,[List],[List],[List],[List],,"[No. 59-40428-1.
+Division One.
+October 22, 1969.]
+Panel 1
+The State of Washington, Respondent, v. Francis Clayton Palmer, Appellant.
+McDonnell & Alfieri and James A. Alfieri, for appellant.
+Charles O. Carroll, Prosecuting Attorney, and Herbert L. Onstad, Deputy, for respondent.",0152-01,176,182
+0159-01.json,1861553,"The State of Washington, Appellant, v. Herbert Rahn, Respondent",State v. Rahn,22-Oct-69,No. 76-40647-1,159,163,[List],Wash. Ct. App.,8985,Washington Court of Appeals,38,Washington,Wash.,[List],552,8534,0.628,1.13592E-07,0.577293116,396ff10af6bcc1cc5c7767c607235ec5698d6c68ad231753bc7e3bc3a826f387,1:abe9f179e34a07f2,1471,2/27/2024 9:01,29-Aug-19,Harvard,2018,[List],[List],[List],[List],,"[No. 76-40647-1.
+Division One.
+October 22, 1969.]
+Panel 1
+The State of Washington, Appellant, v. Herbert Rahn, Respondent.
+Charles O. Carroll, Prosecuting Attorney, and Paul M. Acheson, Deputy, for appellant.
+James R. Young, for respondent.",0159-01,183,187
+0164-01.json,1861629,"George A. McGough et al., Appellants, v. The City of Edmonds, Respondent",McGough v. City of Edmonds,23-Oct-69,No. 11-40135-2,164,173,[List],Wash. Ct. App.,8985,Washington Court of Appeals,38,Washington,Wash.,[List],816,16915,0.635,1.27574E-07,0.615799801,1e3535268ca0cff5ba15a149472fe2e16bbf81a40cab7e28919c2d2055a0ca45,1:87a3d91a84624422,2840,2/27/2024 9:01,29-Aug-19,Harvard,2018,[List],[List],[List],[List],,"[No. 11-40135-2.
+Division Two.
+October 23, 1969.]
+George A. McGough et al., Appellants, v. The City of Edmonds, Respondent.
+Bangs, Castle & Bright and Truman R. Castle, for appellants.
+Anderson, Hunter & Carlson and William W. Baker, for respondent.",0164-01,188,197
+0174-01.json,1861637,"Kiyo Motoda, Respondent, v. Marie Moreau Donohoe, Appellant",Motoda v. Donohoe,15-Oct-69,No. 46-40320-1,174,176,[List],Wash. Ct. App.,8985,Washington Court of Appeals,38,Washington,Wash.,[List],345,4121,0.653,1.40353E-07,0.645182403,10bdde60f60b5e202ac5819137346275ceeba2e79f08739aa7f69345bb30be2d,1:59eae64afbc29014,679,2/27/2024 9:01,29-Aug-19,Harvard,2018,[List],[List],[List],[List],,"[No. 46-40320-1.
+Division One.
+October 15, 1969.]
+Panel 2
+Kiyo Motoda, Respondent, v. Marie Moreau Donohoe, Appellant.
+Marie Moreau Donohoe, pro se.
+Sakahara & McArthur and Toru Sakahara, for respondent.",0174-01,198,200
+0177-01.json,1861605,"United Boatbuilders, Inc., Appellant, v. Tempo Products Company, Respondent","United Boatbuilders, Inc. v. Tempo Products Co.",27-Oct-69,No. 22-40134-1,177,183,[List],Wash. Ct. App.,8985,Washington Court of Appeals,38,Washington,Wash.,[List],679,11577,0.636,1.19716E-07,0.592785332,516e512d3d79293f807c329d50ebfe70ccde59dfdc23e590f1e3513756645ee0,1:1fd8a6e970c8e496,1942,2/27/2024 9:01,29-Aug-19,Harvard,2018,[List],[List],[List],[List],,"[No. 22-40134-1.
+Division One.
+October 27, 1969.]
+Panel 1
+United Boatbuilders, Inc., Appellant, v. Tempo Products Company, Respondent.
+Merrick, Johnson, Burgess & Hofstedt and H. Roland Hofstedt, for appellant.
+Lycette, Diamond & Sylvester and William J. Millard, Jr., for respondent.",0177-01,201,207
+0183-01.json,1861801,"Douglas Bennett, Respondent, v. Brandrud Manufacturing Company, Inc., Appellant",Bennett v. Brandrud Manufacturing Co.,27-Oct-69,No. 25-40174-1,183,184,[List],Wash. Ct. App.,8985,Washington Court of Appeals,38,Washington,Wash.,[List],221,3286,0.617,8.13836E-08,0.470607746,c266973c73b52bd142bf5a5659c63135de37114e61fb9b4549b8cfe8a9fd40bf,1:02e4e7a03e0e2f25,527,2/27/2024 9:01,29-Aug-19,Harvard,2018,[List],[List],[List],[List],,"[No. 25-40174-1.
+Division One.
+October 27, 1969.]
+Panel 1
+Douglas Bennett, Respondent, v. Brandrud Manufacturing Company, Inc., Appellant.
+Clinton, Moats, Andersen & Fleck and Gordon S. Clinton, for appellant.
+Roberts, Shefelman, Lawrence, Gay & Moch and Robert G. Moch, for respondent.",0183-01,207,208
+0185-01.json,1861662,"Evelyn V. Miesen, Appellant, v. Insurance Company of North America et al., Respondents",Miesen v. Insurance Co. of North America,27-Oct-69,No. 27-40198-1,185,189,[List],Wash. Ct. App.,8985,Washington Court of Appeals,38,Washington,Wash.,[List],470,7581,0.623,1.10513E-07,0.569344004,b5cf7b5f3de0aebb807a447cdd1640f25df212da6c1dd80c4e5c5de9ef91d61c,1:924dd15059889626,1240,2/27/2024 9:01,29-Aug-19,Harvard,2018,[List],[List],[List],[List],,"[No. 27-40198-1.
+Division One.
+October 27, 1969.]
+Panel 1
+Evelyn V. Miesen, Appellant, v. Insurance Company of North America et al., Respondents.
+Dore, Dubuar, Cunningham & Badley and Garl Watkins, for appellant.
+Betels, Draper & Marinkovich, Skeel, McKelvy, Henke, Evenson & Betts, Ogden, Ogden & Murphy, and Franklin & Watkins, for respondents.",0185-01,209,213
+0189-01.json,1861635,"The State of Washington, Respondent, v. Robert L. Nuckols, Appellant",State v. Nuckols,27-Oct-69,No. 48-40328-1,189,192,[List],Wash. Ct. App.,8985,Washington Court of Appeals,38,Washington,Wash.,[List],341,4307,0.629,8.52837E-08,0.487311229,14f04a9e9669949728b76e90dde4352ad37e9fbe1d00f32a90066c425d4920ca,1:a76aab7277b501c9,723,2/27/2024 9:01,29-Aug-19,Harvard,2018,[List],[List],[List],[List],,"[No. 48-40328-1.
+Division One.
+October 27, 1969.]
+Panel 1
+The State of Washington, Respondent, v. Robert L. Nuckols, Appellant.
+Hohlbein, Church, Sawyer & VanDerhoef, for appellant.
+Charles O. Carroll, Prosecuting Attorney, and Jerry Reiss, Deputy, for respondent.",0189-01,213,216
+0192-01.json,1861752,"The State of Washington, Respondent, v. Walter Campbell Rummelhoff, Appellant",State v. Rummelhoff,27-Oct-69,No. 72-40617-1,192,194,[List],Wash. Ct. App.,8985,Washington Court of Appeals,38,Washington,Wash.,[List],292,3264,0.654,6.08709E-08,0.375965742,2749418a4123661d94c7a695e8d1e94b440b3d36785a234b89b3934350293425,1:5f469b407ce4de7a,551,2/27/2024 9:01,29-Aug-19,Harvard,2018,[List],[List],[List],[List],,"[No. 72-40617-1.
+Division One.
+October 27, 1969.]
+Panel 2
+The State of Washington, Respondent, v. Walter Campbell Rummelhoff, Appellant.
+Marie Moreau Donohoe, for appellant.
+Charles O. Carroll, Prosecuting Attorney, and Barbara Durham, Deputy, for respondent.",0192-01,216,218
+0194-01.json,1861789,"E. C. Johnson, Respondent, v. Thompson Construction et al., Appellants",Johnson v. Thompson Construction,30-Oct-69,No. 14-40235-2,194,196,[List],Wash. Ct. App.,8985,Washington Court of Appeals,38,Washington,Wash.,[List],236,3116,0.643,1.27703E-07,0.616071246,9d7a08688f7e98b6fcff87a3e8f9bfbc83c56c8e7e7e78dbbff4d6702736ccb7,1:96d3ac65b055271e,485,2/27/2024 9:01,29-Aug-19,Harvard,2018,[List],[List],[List],[List],,"[No. 14-40235-2.
+Division Two.
+October 30, 1969.]
+E. C. Johnson, Respondent, v. Thompson Construction et al., Appellants.
+Read & Church and William H. Dunn, for appellants.
+Studley, Purcell, Spencer & Arkell and Dave C. Spencer, for respondent.",0194-01,218,220
+0196-01.json,1861749,"William H. Thompson et al., Appellants, v. Howard O. Thompson et al., Respondents",Thompson v. Thompson,30-Oct-69,No. 17-40280-2,196,202,[List],Wash. Ct. App.,8985,Washington Court of Appeals,38,Washington,Wash.,[List],521,10295,0.632,9.83301E-08,0.533621265,13b9403050937a6f49a16b164f90fe554a0c89a3997e0a3b1dd9bce217b3c4bc,1:d7b357e41ce76c24,1712,2/27/2024 9:01,29-Aug-19,Harvard,2018,[List],[List],[List],[List],,"[No. 17-40280-2.
+Division Two.
+October 30, 1969.]
+William H. Thompson et al., Appellants, v. Howard O. Thompson et al., Respondents.
+John A. Bishop and Garry A. Cunningham, for appellants.
+Skeel, McKelvey, Henke, Evenson & TJhlmann and Willard E. Skeel, for respondents.",0196-01,220,226
+0202-01.json,1861767,"Frank G. Lee, Respondent, v. Cotten Brothers Company et al., Appellants",Lee v. Cotten Bros.,30-Oct-69,No. 20-40317-2,202,217,[List],Wash. Ct. App.,8985,Washington Court of Appeals,38,Washington,Wash.,[List],1046,28990,0.627,1.05731E-07,0.555685679,4f98bc745dda7f306a3e41783235c003316a2d862c06d0bf6a5a092a022c0ada,1:13a40e461a04aa19,4960,2/27/2024 9:01,29-Aug-19,Harvard,2018,[List],[List],[List],[List],,"[No. 20-40317-2.
+Division Two.
+October 30, 1969.]
+Frank G. Lee, Respondent, v. Cotten Brothers Company et al., Appellants.
+Batali, Combs, Small & Kucklick and Jerome F. Combs, for appellants.
+Eisenhower, Carlson, Newlands, Reha & Sinnitt and Paul E. Sinnitt, for respondent.",0202-01,226,241
+0218-01.json,1861783,"Shirley Annice Robinson Martin, Appellant, v. Insurance Company of North America, Respondent",Martin v. Insurance Co. of North America,30-Oct-69,No. 22-40355-2,218,223,[List],Wash. Ct. App.,8985,Washington Court of Appeals,38,Washington,Wash.,[List],650,9740,0.619,2.20502E-07,0.775609698,fa7306e367f10d021e0d502d3ebce73efdf701d6ae8fef89d3cc4fdcb6c24ab1,1:1473741a53ac34ba,1601,2/27/2024 9:01,29-Aug-19,Harvard,2018,[List],[List],[List],[List],,"[No. 22-40355-2.
+Division Two.
+October 30, 1969.]
+Shirley Annice Robinson Martin, Appellant, v. Insurance Company of North America, Respondent.
+McCormick, Hoffman, Rees & Arnold and J. Kelley Arnold, for appellant.
+Merrick, Johnson, Burgess & Hofstedt and F. Ross Burgess, for respondent.",0218-01,242,247
+0224-01.json,1861822,"The State of Washington, Respondent, v. Cecil Andrew Pinkerton, Appellant",State v. Pinkerton,30-Oct-69,No. 37-40630-2,224,226,[List],Wash. Ct. App.,8985,Washington Court of Appeals,38,Washington,Wash.,[List],331,3964,0.64,7.31785E-08,0.436443013,e7c055cb1e9674a7e408d50f1585183359f1b894de94fe5575ee9662601dd075,1:a12c98b5f3267d93,664,2/27/2024 9:01,29-Aug-19,Harvard,2018,[List],[List],[List],[List],,"[No. 37-40630-2.
+Division Two.
+October 30, 1969.]
+The State of Washington, Respondent, v. Cecil Andrew Pinkerton, Appellant.
+McCormick, Hoffman, Rees & Arnold and J. Kelley Arnold, for appellant (appointed counsel for appeal).
+Ronald L. Hendry, Prosecuting Attorney, and Joseph D. Mladinov, Special Counsel, Eugene G. Olson, Chief Criminal Deputy, for respondent.",0224-01,248,250
+0226-01.json,1861595,"John N. Jacobsen, Respondent, v. Donald W. Arntzen et al., Appellants",Jacobsen v. Arntzen,3-Nov-69,No. 7-39887-1,226,230,[List],Wash. Ct. App.,8985,Washington Court of Appeals,38,Washington,Wash.,[List],441,6563,0.64,4.60168E-08,0.288262945,cb227fdf91e923201ae26b02446c9ba4dc4906c264ced7520280aa0d2ace7eae,1:43b1ec05feeeedd2,1100,2/27/2024 9:01,29-Aug-19,Harvard,2018,[List],[List],[List],[List],,"[No. 7-39887-1.
+Division One.
+November 3, 1969.]
+Panel 1
+John N. Jacobsen, Respondent, v. Donald W. Arntzen et al., Appellants.
+Ferguson & Burdell, Donald McL. Davidson, and G. E. Craig Doupe, for appellants.
+Casey & Pruzan, Jerome Shulkin, and Theodore S. Bloom, for respondent.",0226-01,250,254
+0230-01.json,1861688,"Grange Insurance Association, Respondent, v. Carl L. Eschback et al., Respondents, Cascade Insurance Company, Appellant",Grange Insurance v. Eschback,3-Nov-69,No. 30-40206-1,230,236,[List],Wash. Ct. App.,8985,Washington Court of Appeals,38,Washington,Wash.,[List],607,11381,0.639,1.39737E-07,0.644030405,63d25c6194c68f9b397e729dd2c7bc539a52bcf72a52e0af4a7950834a38b4e2,1:6546b80e03de16e9,1898,2/27/2024 9:01,29-Aug-19,Harvard,2018,[List],[List],[List],[List],,"[No. 30-40206-1.
+Division One.
+November 3, 1969.]
+Panel 2
+Grange Insurance Association, Respondent, v. Carl L. Eschback et al., Respondents, Cascade Insurance Company, Appellant.
+Sam Peach, for respondent.
+Russell Millhouse, for appellant.",0230-01,254,260
+0236-01.json,1861813,"The City of Seattle, Respondent, v. Tracy M. Cisel, Appellant",City of Seattle v. Cisel,3-Nov-69,No. 73-40627-1,236,242,[List],Wash. Ct. App.,8985,Washington Court of Appeals,38,Washington,Wash.,[List],578,9531,0.639,4.85632E-08,0.304815841,50ff460f166e96be5fbf34c18e5eda666b17d4eba29bc9ec3e163f191d23abee,1:95f1c87d6522d935,1606,2/27/2024 9:01,29-Aug-19,Harvard,2018,[List],[List],[List],[List],,"[No. 73-40627-1.
+Division One.
+November 3, 1969.]
+Panel 1
+The City of Seattle, Respondent, v. Tracy M. Cisel, Appellant.
+Malcolm L. Edwards, for appellant.
+A. L. Newbould, Corporation Counsel, and Richard H. Wetmore, Assistant, for respondent.",0236-01,260,266
+0242-01.json,1861652,"The Cornelius Apartment Hotel Corporation, Respondent, v. W. R. Alabaster et al., Appellants, R. B. Dunn et al., Respondents",Cornelius Apartment Hotel Corp. v. Alabaster,3-Nov-69,No. 78-40694-1,242,249,[List],Wash. Ct. App.,8985,Washington Court of Appeals,38,Washington,Wash.,[List],746,15754,0.629,4.03581E-08,0.068625043,484df150ff7f257c8d8bfd8e6323a14181c7237a88481df65837b4ecab7d49a9,1:ddcee31ea5caa8f4,2603,2/27/2024 9:01,29-Aug-19,Harvard,2018,[List],[List],[List],[List],,"[No. 78-40694-1.
+Division One.
+November 3, 1969.]
+Panel 1
+The Cornelius Apartment Hotel Corporation, Respondent, v. W. R. Alabaster et al., Appellants, R. B. Dunn et al., Respondents.
+Merges, Brain & Hilyer, for appellant.
+Riddell, Williams, Voorhees, Ivie & Bullitt, for respondent.",0242-01,266,273
+0250-01.json,1861833,"Donald Tait, Appellant, v. KING Broadcasting Co., et al., Respondents",Tait v. King Broadcasting Co.,3-Nov-69,No. 120-40742-1,250,256,[List],Wash. Ct. App.,8985,Washington Court of Appeals,38,Washington,Wash.,[List],754,11772,0.62,2.70631E-07,0.828920721,76a02f07622753bdebb9d5adf59bbcec4ce26f4ec2825b3ccfe82380f9f08be6,1:1e17066ace30916e,1995,2/27/2024 9:01,29-Aug-19,Harvard,2018,[List],[List],[List],[List],,"[No. 120-40742-1
+Division One.
+November 3, 1969.]
+Panel 2
+Donald Tait, Appellant, v. KING Broadcasting Co., et al., Respondents.
+Torikoff, Holst, Hanson & Dauber, for appellant.
+Riddell, Williams, Voorhees, Ivie & Bullitt, for respondents.",0250-01,274,280
+0257-01.json,1861603,"Thomas Hennessy et al., Respondents, v. Dennis Vanderhoef, Defendant, Grange Insurance Association, Appellant",Hennessy v. Vanderhoef,6-Nov-69,No. 12-40179-2,257,263,[List],Wash. Ct. App.,8985,Washington Court of Appeals,38,Washington,Wash.,[List],565,11343,0.648,1.52822E-07,0.670609175,aa134813271c73c7eb1719ce7ea80c685a89b9a9b2f5e6e91587ab8f3ee97057,1:c8076275b4ce15dc,1806,2/27/2024 9:01,29-Aug-19,Harvard,2018,[List],[List],[List],[List],,"[No. 12-40179-2.
+Division Two.
+November 6, 1969.]
+Thomas Hennessy et al., Respondents, v. Dennis Vanderhoef, Defendant, Grange Insurance Association, Appellant.
+Read & Church and William H. Dunn, for appellant.
+Robinson, Landerholm, Memovich, Lansverk, Whitesides & Marsh and Duane Lansverk, for respondents.",0257-01,281,287
+0263-01.json,1861703,"William Mendenhall, Respondent, v. Marjorie Siegel, Appellant",Mendenhall v. Siegel,6-Nov-69,No. 4-39940-2,263,269,[List],Wash. Ct. App.,8985,Washington Court of Appeals,38,Washington,Wash.,[List],672,11396,0.623,1.10014E-07,0.568129648,ba36d89ca603c22cb1858610900aef848497324a5cede7af2d5cc23ad80d1c59,1:9be31c8512573804,1923,2/27/2024 9:01,29-Aug-19,Harvard,2018,[List],[List],[List],[List],,"[No. 4-39940-2.
+Division Two.
+November 6, 1969.]
+William Mendenhall, Respondent, v. Marjorie Siegel, Appellant.
+Reed, McClure & Moceri and J. E. Thonn, for appellant.
+Burkheimer, Cavender, Wyman & Curtis and Michael S. Curtis, for respondent.",0263-01,287,293
+0270-01.json,1861782,"Wendle Ford Sales, Inc., Appellant, v. National Bank of Washington, Respondent","Wendle Ford Sales, Inc. v. National Bank",6-Nov-69,No. 9-40099-2,270,272,[List],Wash. Ct. App.,8985,Washington Court of Appeals,38,Washington,Wash.,[List],281,3976,0.599,6.77085E-08,0.410099971,08f2586bd3892f868638550b54d4b0d3fcf73c19583299f91cbfe66c239da153,1:309fd0510cbc3ed2,628,2/27/2024 9:01,29-Aug-19,Harvard,2018,[List],[List],[List],[List],,"[No. 9-40099-2.
+Division Two.
+November 6, 1969.]
+Wendle Ford Sales, Inc., Appellant, v. National Bank of Washington, Respondent.
+Troup, Christnacht & Herron and John B. Troup, for appellant.
+Blair, Thomas, O’Hern & Daheim and Warren J. Daheim, for respondent.",0270-01,294,296
+0272-01.json,1861721,"John Myers, Appellant, v. Kitsap Physicians Service, Respondent",Myers v. Kitsap Physicians Service,10-Nov-69,No. 57-40402-1,272,276,[List],Wash. Ct. App.,8985,Washington Court of Appeals,38,Washington,Wash.,[List],462,8124,0.623,4.66697E-08,0.292410098,517c4accd1a46b9042733a497d413d08ce068461692b3c264cf31f2a665c0adf,1:93a5ba43814d0a25,1294,2/27/2024 9:01,29-Aug-19,Harvard,2018,[List],[List],[List],[List],,"[No. 57-40402-1.
+Division One.
+November 10, 1969.]
+Panel 2
+John Myers, Appellant, v. Kitsap Physicians Service, Respondent.
+John A. Bishop and Gary A. Cunningham, for appellant.
+Wallace & Fraser and Philip M. Best, for respondent.",0272-01,296,300
+0277-01.json,1861625,"In the Matter of the Estate of Frank J. Osicka, Deceased. Olga Etheridge, as Executrix, Appellant, v. Mary Osicka, Respondent",Etheridge v. Osicka,13-Nov-69,No. 30-40479-2,277,285,[List],Wash. Ct. App.,8985,Washington Court of Appeals,38,Washington,Wash.,[List],675,15567,0.631,1.1635E-07,0.584617482,bc409caf1f5e11790c45e23b08d7e6423cc43061e03a5df5594d0729c4e3d180,1:87bdaeb2316a1f88,2632,2/27/2024 9:01,29-Aug-19,Harvard,2018,[List],[List],[List],[List],,"[No. 30-40479-2.
+Division Two.
+November 13, 1969.]
+In the Matter of the Estate of Frank J. Osicka, Deceased. Olga Etheridge, as Executrix, Appellant, v. Mary Osicka, Respondent.
+Murray, Armstrong & Vander Stoep and James S. Turner, for appellant.
+Campbell & Hall and Lee J. Campbell, for respondent.",0277-01,301,309
+0285-01.json,1861756,"Richard O. Parker, Appellant, v. James A. Theubet et al., Respondents",Parker v. Theubet,12-Nov-69,No. 4-39924-3,285,291,[List],Wash. Ct. App.,8985,Washington Court of Appeals,38,Washington,Wash.,[List],583,12319,0.615,6.32377E-08,0.388782126,0a3ac15702cd8736b40ec9e03acbc8d16f92e410c322ef30477947742e6660b6,1:7eabf31efe42ff55,2002,2/27/2024 9:01,29-Aug-19,Harvard,2018,[List],[List],[List],[List],,"[No. 4-39924-3.
+Division Three.
+November 12, 1969.]
+Richard O. Parker, Appellant, v. James A. Theubet et al., Respondents.
+Malcolm L. Edwards and Leon A. Uziel, for appellant.
+Donald K. Fleck, for respondents.",0285-01,309,315
+0292-01.json,1861739,"The City of Snohomish, Appellant, v. Allan Swoboda, Respondent",City of Snohomish v. Swoboda,17-Nov-69,No. 81-40937-1,292,298,[List],Wash. Ct. App.,8985,Washington Court of Appeals,38,Washington,Wash.,[List],672,12533,0.643,9.24583E-08,0.511061456,d92a0d4a41a5dee78cd30f6b744b1e5f52ff766c379031213eb37277a398a110,1:6f3cf074303af37b,2068,2/27/2024 9:01,29-Aug-19,Harvard,2018,[List],[List],[List],[List],,"[No. 81-40937-1.
+Division One.
+November 17, 1969.]
+Panel 1
+The City of Snohomish, Appellant, v. Allan Swoboda, Respondent.
+Frank B. Carr, for appellant.
+Stanley L. Conroy, for respondent.",0292-01,316,322
+0299-01.json,1861624,"Eugene H. Coleman, Appellant, v. Avis Dennis, Respondent",Coleman v. Dennis,18-Nov-69,No. 34-40229-1,299,303,[List],Wash. Ct. App.,8985,Washington Court of Appeals,38,Washington,Wash.,[List],427,7070,0.632,1.77803E-07,0.713067055,3040dcb7958152a3cee040545eacf9dd8ac42c8d6f58fd57ca6211741f118800,1:b83ef93cf09d6c79,1224,2/27/2024 9:01,29-Aug-19,Harvard,2018,[List],[List],[List],[List],,"[No. 34-40229-1.
+Division One.
+November 18, 1969.]
+Panel 1
+Eugene H. Coleman, Appellant, v. Avis Dennis, Respondent.
+Casey & Pruzan and Martin Godsil, for appellant.
+Jack Steinberg, for respondent.",0299-01,323,327
+0303-01.json,1861839,"Vivian W. Trotland, Appellant, v. New England Mutual Life Insurance Company, Respondent",Trotland v. New England Mutual Life Insurance,18-Nov-69,No. 25-40399-2,303,305,[List],Wash. Ct. App.,8985,Washington Court of Appeals,38,Washington,Wash.,[List],239,3003,0.625,4.03581E-08,0.068628905,dd70075048d51ac6a6447ac70f00c082400ef8e4d75651600c1c0a214b2d5519,1:90b8c0a5de0eddce,499,2/27/2024 9:01,29-Aug-19,Harvard,2018,[List],[List],[List],[List],,"[No. 25-40399-2.
+Division Two.
+November 18, 1969.]
+Vivian W. Trotland, Appellant, v. New England Mutual Life Insurance Company, Respondent.
+Lester Stritmatter, for appellant.
+Lane, Powell, Moss & Miller and John F. Sherwood, for respondent.",0303-01,327,329
+0305-01.json,1861575,"Northwest Properties Agency, Inc., Respondent, v. Joseph McGhee et al., Appellants","Northwest Properties Agency, Inc. v. McGhee",18-Nov-69,No. 10-40104-2,305,315,[List],Wash. Ct. App.,8985,Washington Court of Appeals,38,Washington,Wash.,[List],747,17362,0.631,2.00177E-07,0.743054518,555579fdd6ac856dec40f39c5ea0c0b563f2b666bf010353fdc3673b3df9027f,1:0b64284b3909d502,2840,2/27/2024 9:01,29-Aug-19,Harvard,2018,[List],[List],[List],[List],,"[No. 10-40104-2.
+Division Two.
+November 18, 1969.]
+Northwest Properties Agency, Inc., Respondent, v. Joseph McGhee et al., Appellants.
+Murray, Scott, McGavick & Graves and Frederick R. Hokanson, for appellants.
+Conrad, Kane ?& Vandeberg and Elvin J. Vandeberg, for respondent.",0305-01,329,339
+0315-01.json,1861776,"The State of Washington, Respondent, v. Ben Coleman et al., Appellants",State v. Coleman,19-Nov-69,"Nos. 29-40416, 40422, 40693-3",315,324,[List],Wash. Ct. App.,8985,Washington Court of Appeals,38,Washington,Wash.,[List],803,17625,0.644,6.99877E-08,0.422894732,0bdd0491c70457820dc2a2fa3147cd2da5eab4844ebca4b2241135fca6a87814,1:e126de2258246176,3033,2/27/2024 9:01,29-Aug-19,Harvard,2018,[List],[List],[List],[List],,"[Nos. 29-40416, 40422, 40693-3.
+Division Three.
+November 19, 1969.]
+The State of Washington, Respondent, v. Ben Coleman et al., Appellants.
+Lawrence Cary Smith, (of Smith, Smith & Smith) for appellants.
+Donald C. Brockett, Prosecuting Attorney, for respondent.",0315-01,339,348
+0325-01.json,1861820,"The State of Washington, Respondent, v. Dean Allen Bromley, Appellant",State v. Bromley,20-Nov-69,No. 29-40460-2,325,327,[List],Wash. Ct. App.,8985,Washington Court of Appeals,38,Washington,Wash.,[List],325,4598,0.648,4.03581E-08,0.068628132,8ba4fa223677ece75cde5621254f417156c117d65edc29047b917e1e89027fd2,1:9afd8102d1f48fa6,807,2/27/2024 9:01,29-Aug-19,Harvard,2018,[List],[List],[List],[List],,"[No. 29-40460-2.
+Division Two.
+November 20, 1969.]
+The State of Washington, Respondent, v. Dean Allen Bromley, Appellant.
+Sterbick, Manza, Moceri, Gustafson & Narigi and Michael S. Manza, for appellant (appointed counsel for appeal).
+Ronald L. Hendry, Prosecuting Attorney, Joseph D. Mladinov, Special Counsel, Eugene G. Olson, Chief Criminal Deputy, for respondent.",0325-01,349,351
+0328-01.json,1861622,"Eleanor I. Wagner, Appellant, v. Paul L. Wagner, Respondent",Wagner v. Wagner,24-Nov-69,No. 21-40117-1,328,333,[List],Wash. Ct. App.,8985,Washington Court of Appeals,38,Washington,Wash.,[List],588,10023,0.626,2.65249E-07,0.824182221,90248cfcdecc34b165b38805ae92e8d26a6d66ccef1474a54fbb07287acdf1e4,1:9960f42436c88140,1699,2/27/2024 9:01,29-Aug-19,Harvard,2018,[List],[List],[List],[List],,"[No. 21-40117-1.
+Division One.
+November 24, 1969.]
+Panel 2
+Eleanor I. Wagner, Appellant, v. Paul L. Wagner, Respondent.
+Dailey & Brinster and Joseph H. Brinster, for appellant.
+Williams & Novack and Parker Williams, for respondent.",0328-01,352,357
+0334-01.json,1861815,"Clementine Norton, Respondent, v. Jack S. McIntosh et al., Appellants",Norton v. McIntosh,24-Nov-69,No. 43-40293-1,334,339,[List],Wash. Ct. App.,8985,Washington Court of Appeals,38,Washington,Wash.,[List],559,10974,0.623,7.25984E-08,0.432860951,397c7be0a631136d1a74655b0786190080f272173a36931cb50aedcfd6a9d93b,1:f4df34105d477224,1752,2/27/2024 9:01,29-Aug-19,Harvard,2018,[List],[List],[List],[List],,"[No. 43-40293-1.
+Division One.
+November 24, 1969.]
+Panel 2
+Clementine Norton, Respondent, v. Jack S. McIntosh et al., Appellants.
+Wettrick, Toulouse, Lirhus & Hove and Clarence A. Lirhus, for appellants.
+Bell, Ingram, Smith, Johnson & Level and Lewis A. Bell, for respondent.",0334-01,358,363
+0340-01.json,1861791,"The State of Washington, on the Relation of Eugene W. Everson, Appellant, v. Airport District Justice Court et al., Respondents",State ex rel. Everson v. Airport District Justice Court,24-Nov-69,No. 66-40490-1,340,342,[List],Wash. Ct. App.,8985,Washington Court of Appeals,38,Washington,Wash.,[List],295,3793,0.646,1.22409E-07,0.600854142,a6b0f832b18f543fc85d9526d89babaa63f82f344d312bc9553c71ae705af1d1,1:c9d10a8b70cd04bb,653,2/27/2024 9:01,29-Aug-19,Harvard,2018,[List],[List],[List],[List],,"[No. 66-40490-1.
+Division One.
+November 24, 1969.]
+Panel 2
+The State of Washington, on the Relation of Eugene W. Everson, Appellant, v. Airport District Justice Court et al., Respondents.
+John F. Raymond, for appellant.
+Charles O. Carroll, Prosecuting Attorney, and Darrell E. Lee, Deputy, for respondents.",0340-01,364,366
+0342-01.json,1861836,"The State of Washington, Respondent, v. Harry Lee Prater, Appellant",State v. Prater,24-Nov-69,No. 77-40669-1,342,348,[List],Wash. Ct. App.,8985,Washington Court of Appeals,38,Washington,Wash.,[List],591,10218,0.619,1.75183E-07,0.708647879,4885487e7df649cfa3101b718b4a66c1edc0acf1b1841f4eb47ce3e1f3dfc755,1:00a6f2ce210188df,1699,2/27/2024 9:01,29-Aug-19,Harvard,2018,[List],[List],[List],[List],,"[No. 77-40669-1.
+Division One.
+November 24, 1969.]
+Panel 2
+The State of Washington, Respondent, v. Harry Lee Prater, Appellant.
+Casey & Pruzan and Richard A. Acarregui, for appellant (appointed counsel for appeal).
+Charles O. Carroll, Prosecuting Attorney, and Steve Paul Moen, Deputy, for respondent.",0342-01,366,372
+0348-01.json,1861584,"William C. Hinson, Respondent, v. June Hinson, Appellant",Hinson v. Hinson,25-Nov-69,No. 21-40138-3,348,354,[List],Wash. Ct. App.,8985,Washington Court of Appeals,38,Washington,Wash.,[List],550,10037,0.605,1.46234E-07,0.657568453,11254cae2508eacd22446e0b03be43d005b154e36ed7dc160849aa6f4c59da42,1:82cd8a686489c125,1670,2/27/2024 9:01,29-Aug-19,Harvard,2018,[List],[List],[List],[List],,"[No. 21-40138-3.
+Division. Three.
+November 25, 1969.]
+William C. Hinson, Respondent, v. June Hinson, Appellant.
+Murray J. Anderson (of Anderson & Bingham), for appellant.
+Philip M. Raekes (of Loney, Westland •& Raekes), for respondent.",0348-01,372,378
+0354-01.json,1861838,"The City of Wenatchee, Respondent, v. Floyd E. Berg, Appellant",City of Wenatchee v. Berg,25-Nov-69,No. 28-40391-3,354,360,[List],Wash. Ct. App.,8985,Washington Court of Appeals,38,Washington,Wash.,[List],654,11995,0.641,1.2546E-07,0.611024427,085482705f831ceba53ff4ca5123f065e0cffc819b5a8bd79107c382ec66b78e,1:f18ca5da5a47ac78,2022,2/27/2024 9:01,29-Aug-19,Harvard,2018,[List],[List],[List],[List],,"[No. 28-40391-3.
+Division Three.
+November 25, 1969.]
+The City of Wenatchee, Respondent, v. Floyd E. Berg, Appellant.
+W. Gordon Kelley, for appellant.
+Carlson & Carlson, for respondent.",0354-01,378,384
+0361-01.json,1861768,"Ronald R. Moss, Appellant, v. West Tacoma Newsprint Company, Respondent",Moss v. West Tacoma Newsprint Co.,26-Nov-69,No. 8-40085-2,361,368,[List],Wash. Ct. App.,8985,Washington Court of Appeals,38,Washington,Wash.,[List],666,14208,0.613,5.3413E-08,0.335995844,b5cea3651886006f12ff71df31a14c6e7fc7f625eba9c81be3e4ac69881dbea8,1:f0ea2181548d43e9,2373,2/27/2024 9:01,29-Aug-19,Harvard,2018,[List],[List],[List],[List],,"[No. 8-40085-2.
+Division Two.
+November 26, 1969.]
+Ronald R. Moss, Appellant, v. West Tacoma Newsprint Company, Respondent.
+Pebbles, Swanson & Lindskog, Jerome L. Buzzard, and Harold A. Pebbles, for appellant.
+Gordon, Honeywell, Malanca, Peterson & Johnson and James A. Furber, for respondent.",0361-01,385,392
+0368-01.json,1861819,"G. Wayne Nicholson et al., Appellants, v. Robert Gibler et al., Respondents, Ben Walker et al., Appellants; Bobby Dunn et al., Appellants, v. Robert Gibler et al., Respondents",Nicholson v. Gibler,26-Nov-69,No. 5-39925-3,368,371,[List],Wash. Ct. App.,8985,Washington Court of Appeals,38,Washington,Wash.,[List],443,5699,0.637,6.32305E-08,0.388624781,c9f144c5c50e4c4c44929bf88a16e8c3f4d88e8627031d59f1289d6abdcf6c91,1:c6b4000b3ca41870,971,2/27/2024 9:01,29-Aug-19,Harvard,2018,[List],[List],[List],[List],,"[No. 5-39925-3.
+Division Three.
+November 26, 1969.]
+G. Wayne Nicholson et al., Appellants, v. Robert Gibler et al., Respondents, Ben Walker et al., Appellants. Bobby Dunn et al., Appellants, v. Robert Gibler et al., Respondents.
+Robert E. Stoeve, Benjamin H. Kizer, and J. D. Mc-Mannis, for appellants.
+Richard G. Jeffers and Garfield R. Jeffers, for respondents.",0368-01,392,395
+0372-01.json,1861810,"The City of Ephrata, Appellant, v. Each and Every Lot, et al., Respondents",City of Ephrata v. Each & Every Lot,26-Nov-69,No. 10-40024-3,372,376,[List],Wash. Ct. App.,8985,Washington Court of Appeals,38,Washington,Wash.,[List],473,9593,0.634,5.85917E-08,0.364900425,2688d01c322fc7cd5aee58c7a383741cb31264d1b3ea757993d78afdeb58b683,1:fb98e5cc77a90068,1643,2/27/2024 9:01,29-Aug-19,Harvard,2018,[List],[List],[List],[List],,"[No. 10-40024-3.
+Division Three.
+November 26, 1969.]
+The City of Ephrata, Appellant, v. Each and Every Lot, et al., Respondents.
+Milburn D. Kight (of Davis, Arneil, Dorsey •& Kight), for appellant.
+Walter E. Jordan, pro se.",0372-01,396,400
+0377-01.json,1861650,"St. Paul Fire and Marine Insurance Company, Appellant, v. The Circle Bar J Boys' Ranch, Inc., et al., Respondents","St. Paul Fire & Marine Insurance v. Circle Bar J Boys' Ranch, Inc.",26-Nov-69,No. 15-40109-3,377,380,[List],Wash. Ct. App.,8985,Washington Court of Appeals,38,Washington,Wash.,[List],375,5350,0.626,2.47169E-07,0.806590268,af6510c93f0458ebad9efa6ae0f9768aa79aa9f505ff5b3aefc3ccec442db920,1:69d0190a3f08941e,866,2/27/2024 9:01,29-Aug-19,Harvard,2018,[List],[List],[List],[List],,"[No. 15-40109-3.
+Division Three.
+November 26, 1969.]
+St. Paul Fire and Marine Insurance Company, Appellant, v. The Circle Bar J Boys’ Ranch, Inc., et al., Respondents.
+Lawrence Monbleau (of Cashatt, Williams, Connelly & Rekofke), for appellant.
+Howard K. Michaelson, John G. Layman, Brian B. Kennedy, and Daniel W. Giboney, for respondents.",0377-01,401,404
+0380-01.json,1861786,"Denise Johnson, Respondent, v. Safeway Stores, Incorporated et al., Appellants","Johnson v. Safeway Stores, Inc.",28-Nov-69,No. 8-40012-3,380,387,[List],Wash. Ct. App.,8985,Washington Court of Appeals,38,Washington,Wash.,[List],712,13760,0.635,1.13002E-07,0.575561934,0d90f0cfd33fd51e92190fc8ab98b8b9837c38d931630832046ed2a7d7b69012,1:9eebd6ea496093db,2391,2/27/2024 9:01,29-Aug-19,Harvard,2018,[List],[List],[List],[List],,"[No. 8-40012-3.
+Division Three.
+November 28, 1969.]
+Denise Johnson, Respondent, v. Safeway Stores, Incorporated et al., Appellants.
+Norman R. Nashem, Jr. (of Nashem, Prediletto & For-tier), for appellants.
+Robert A. Felthous (of Felthous, Brachtenbach & Peters) and Ray Browder, for respondent.",0380-01,404,411
+0388-01.json,1861668,"Lottie Haasze et al., Appellants, v. W. A. McConnachie et al., Respondents",Haasze v. McConnachie,28-Nov-69,No. 16-40111-3,388,390,[List],Wash. Ct. App.,8985,Washington Court of Appeals,38,Washington,Wash.,[List],321,4440,0.652,5.78079E-08,0.360853084,466e55edf4a3eeb9cf229e489cf36e7973080f7aedd1ff45520f89520920013c,1:7ef332c432ea1340,735,2/27/2024 9:01,29-Aug-19,Harvard,2018,[List],[List],[List],[List],,"[No. 16-40111-3.
+Division Three.
+November 28, 1969.]
+Lottie Haasze et al., Appellants, v. W. A. McConnachie et al., Respondents.
+Elwood Hutcheson (of Cheney & Hutcheson), for appellants.
+Dale F. McKenzie, for respondents.",0388-01,412,414
+0391-01.json,1861817,"Edward Stueckle, Appellant, v. Sceva Steel Buildings, Inc., Respondent","Stueckle v. Sceva Steel Buildings, Inc.",28-Nov-69,No. 17-40115-3,391,393,[List],Wash. Ct. App.,8985,Washington Court of Appeals,38,Washington,Wash.,[List],288,3749,0.648,8.86062E-08,0.498847809,98ba0c41f167b955bc6ec13d1bdcb2433c3dbab1a9e4e63bc77206002d19d0d9,1:a2ffc7877e3250b1,633,2/27/2024 9:01,29-Aug-19,Harvard,2018,[List],[List],[List],[List],,"[No. 17-40115-3.
+Division Three.
+November 28, 1969.]
+Edward Stueckle, Appellant, v. Sceva Steel Buildings, Inc., Respondent.
+William C. Harrison, for appellant.
+Daniel W. Giboney, for respondent.",0391-01,415,417
+0393-01.json,1861578,"Elwell Janisch, Appellant, v. John R. Mullins et al., Respondents",Janisch v. Mullins,1-Dec-69,No. 10-39954-1,393,402,[List],Wash. Ct. App.,8985,Washington Court of Appeals,38,Washington,Wash.,[List],1032,17611,0.65,2.81999E-07,0.83827339,5284e8cb746d968582d6efbad342ed4b372a5efda235f4e36bafc34429c74c0d,1:a0527ec02b7adeff,2953,2/27/2024 9:01,29-Aug-19,Harvard,2018,[List],[List],[List],[List],,"[No. 10-39954-1.
+Division One.
+December 1, 1969.]
+Panel 2
+Elwell Janisch, Appellant, v. John R. Mullins et al., Respondents.
+Levinski & Levinski, Albert L. Levinski, Schroeter & Jackson, and Leonard W. Schroeter, for appellant.
+Williams, Lanza, Kastner & Gibbs and Kenneth J. Mc-Mullin, for respondents.",0393-01,417,426
+0402-01.json,1861639,"C. W. Creelman, Respondent, v. Arville Svenning et al., Appellants",Creelman v. Svenning,1-Dec-69,No. 16-40041-1,402,406,[List],Wash. Ct. App.,8985,Washington Court of Appeals,38,Washington,Wash.,[List],401,5964,0.63,1.02511E-07,0.546377028,920b9341b150b9bc3012b873fe5ff3b3d4eb8142fed61b294a80229565c14548,1:57c1d22c75404670,985,2/27/2024 9:01,29-Aug-19,Harvard,2018,[List],[List],[List],[List],,"[No. 16-40041-1.
+Division One.
+December 1, 1969.]
+Panel 2
+C. W. Creelman, Respondent, v. Arville Svenning et al., Appellants.
+Westmoreland, French & Meagher and Joseph Meagher, for appellants.
+Bangs, Castle & Bright and John H. Bright, for respondent.",0402-01,426,430
+0406-01.json,1861825,"William Mueller, Appellant, v. Gregory J. Garske et al., Respondents",Mueller v. Garske,1-Dec-69,No. 23-40172-1,406,409,[List],Wash. Ct. App.,8985,Washington Court of Appeals,38,Washington,Wash.,[List],423,6028,0.63,1.65244E-07,0.692982294,874e053c73679f444b78838ab54fd51d01c54ae11e38d5c6164c1654452784f5,1:e01cc6a8a68eb97d,1009,2/27/2024 9:01,29-Aug-19,Harvard,2018,[List],[List],[List],[List],,"[No. 23-40172-1.
+Division One.
+December 1, 1969.]
+Panel 2
+William Mueller, Appellant, v. Gregory J. Garske et al., Respondents.
+Whitmore, Powers, Manion & Ishikawa and Howard T. Manion, for appellant.
+Monheimer, Schermer, Van Fredenberg & Smith and Donald G. Cohan, for respondents.",0406-01,430,433
+0410-01.json,1861812,"Olympian Stone Co., Inc., Appellant, v. MacDonald Construction Company et al., Respondents",Olympian Stone Co. v. MacDonald Construction Co.,1-Dec-69,No. 47-40325-1,410,415,[List],Wash. Ct. App.,8985,Washington Court of Appeals,38,Washington,Wash.,[List],545,9386,0.623,5.02744E-08,0.316318635,6315f36f04525eb8a12ad346084b8f70192e1ed4aab96ca8060b07953f51e533,1:267cd1104022f673,1498,2/27/2024 9:01,29-Aug-19,Harvard,2018,[List],[List],[List],[List],,"[No. 47-40325-1.
+Division One.
+December 1, 1969.]
+Panel 2
+Olympian Stone Co., Inc., Appellant, v. MacDonald Construction Company et al., Respondents.
+Graham, Dunn, Johnston •& Rosenquist, Charles S. Mullen and Jack G. Strother, for appellant.
+Allen, DeGarmo & Leedy and Seth W. Morrison, for respondent MacDonald Construction Company.
+Preston, Thorgrimson, Starin, Ellis & Holman and Charles E. Peery, for respondent Municipality of Metropolitan Seattle.",0410-01,434,439
+0415-01.json,1861707,"The State of Washington, Petitioner, v. Frank Jay Isham, Respondent",State v. Isham,1-Dec-69,No. 82-40976-1,415,419,[List],Wash. Ct. App.,8985,Washington Court of Appeals,38,Washington,Wash.,[List],535,8196,0.65,1.51583E-07,0.668415996,9224b360c8766529aca801d64b721604f504ce1729a45976e27c935d80d31ba5,1:48f18a1df26a89c0,1337,2/27/2024 9:01,29-Aug-19,Harvard,2018,[List],[List],[List],[List],,"[No. 82-40976-1.
+Division One.
+December 1, 1969.]
+Panel 1
+The State of Washington, Petitioner, v. Frank Jay Isham, Respondent.
+Charles O. Carroll, Prosecuting Attorney, and Barbara M. Durham, Deputy, for petitioner.
+Murray B. Guterson and Robert C. Royce, for respondent.",0415-01,439,443
+0420-01.json,1861713,"The State of Washington, Respondent, v. Jo Ann Baker, Appellant",State v. Baker,8-Dec-69,No. 80-40748-1,420,422,[List],Wash. Ct. App.,8985,Washington Court of Appeals,38,Washington,Wash.,[List],267,3849,0.614,1.77457E-07,0.71258556,6522e9f3e0d57d2a91c4990dadb17a207316fe14a6364f38d5f93b7d39ae5189,1:07b1366c34be8972,660,2/27/2024 9:01,29-Aug-19,Harvard,2018,[List],[List],[List],[List],,"[No. 80-40748-1.
+Division One.
+December 8, 1969.]
+Panel 2
+The State of Washington, Respondent, v. Jo Ann Baker, Appellant.
+Jack Tanner, for appellant.
+Charles O. Carroll, Prosecuting Attorney, and C. N. Marshall, Deputy, for respondent.",0420-01,444,446
+0422-01.json,1861841,"The State of Washington, Respondent, v. Chester Grays, Appellant",State v. Grays,9-Dec-69,No. 38-40631-2,422,424,[List],Wash. Ct. App.,8985,Washington Court of Appeals,38,Washington,Wash.,[List],321,4091,0.632,9.6759E-08,0.529101117,529627f7b3f24997a360c025d92065121eb6e8e1ea3a7a7da276129c74103b47,1:8262d20a1ab6aaa5,619,2/27/2024 9:01,29-Aug-19,Harvard,2018,[List],[List],[List],[List],,"[No. 38-40631-2.
+Division Two.
+December 9, 1969.]
+The State of Washington, Respondent, v. Chester Grays, Appellant.
+Samuel J. Allotta, for appellant (appointed counsel for appeal).
+Ronald L. Hendry, Prosecuting Attorney, and Joseph D. Mladinov, Special Counsel, Eugene G. Olson, Chief Criminal Deputy, for respondent.",0422-01,446,448
+0425-01.json,1861818,"The State of Washington, Respondent, v. Gordon Cornell, Appellant",State v. Cornell,11-Dec-69,No. 36-40963-3,425,428,[List],Wash. Ct. App.,8985,Washington Court of Appeals,38,Washington,Wash.,[List],442,6033,0.635,4.60168E-08,0.28826449,0fa404aedd0d84904ea77987bcc6251bbe3cb2b77cb6fa4201820113f461ce55,1:49e10298d20a1ac8,971,2/27/2024 9:01,29-Aug-19,Harvard,2018,[List],[List],[List],[List],,"[No. 36-40963-3.
+Division Three.
+December 11, 1969.]
+The State of Washington, Respondent, v. Gordon Cornell, Appellant.
+Jerry A. Votendahl, for appellant.
+Arthur R. Eggers, Prosecuting Attorney, and Albert J. Golden, Deputy, for respondent.",0425-01,449,452
+0428-01.json,1861551,"Shinn Irrigation Equipment, Inc., Respondent, v. Clifford A. Marchand et al., Appellants","Shinn Irrigation Equipment, Inc. v. Marchand",12-Dec-69,No. 14-40094-3,428,432,[List],Wash. Ct. App.,8985,Washington Court of Appeals,38,Washington,Wash.,[List],463,7532,0.638,8.21771E-08,0.476860234,c6797c32d009bdf070ff76072fd86ef0e89e472952c2870b4882fd1fb06d4d96,1:25f2c566b0e8e8fb,1280,2/27/2024 9:01,29-Aug-19,Harvard,2018,[List],[List],[List],[List],,"[No. 14-40094-3.
+Division Three.
+December 12, 1969.]
+Shinn Irrigation Equipment, Inc., Respondent, v. Clifford A. Marchand et al., Appellants.
+John R. Lewis, for appellants.
+John M. Moberg, for respondent.",0428-01,452,456
+0433-01.json,1861734,"The State of Washington, Respondent, v. John Mines, Appellant",State v. Mines,15-Dec-69,No. 34-40796-3,433,436,[List],Wash. Ct. App.,8985,Washington Court of Appeals,38,Washington,Wash.,[List],374,5133,0.646,5.20797E-08,0.327130076,501075b047521f5449edd0c1131350f64753ddaac03fe2d591e2614e3befa8d5,1:5a7258b75e0048b3,882,2/27/2024 9:01,29-Aug-19,Harvard,2018,[List],[List],[List],[List],,"[No. 34-40796-3.
+Division Three.
+December 15, 1969.]
+The State of Washington, Respondent, v. John Mines, Appellant.
+Gose & Gose and Phelps R. Gose, for appellant (appointed counsel for appeal).
+Arthur R. Eggers, Prosecuting Attorney, and Albert J. Golden, Deputy, for respondent.",0433-01,457,460
+0436-01.json,1861674,"Mart Bingisser et al., Appellants, v. Leo J. English et al., Respondents",Bingisser v. English,15-Dec-69,No. 1-39425-1,436,440,[List],Wash. Ct. App.,8985,Washington Court of Appeals,38,Washington,Wash.,[List],472,7034,0.644,5.29813E-08,0.332651633,34a2ef63243df1fd131b7aa566844cc85ea497e6527dd138677669a0557a1d17,1:23500000151f49ec,1215,2/27/2024 9:01,29-Aug-19,Harvard,2018,[List],[List],[List],[List],,"[No. 1-39425-1.
+Division One.
+December 15, 1969.]
+Panel 1
+Mart Bingisser et al., Appellants, v. Leo J. English et al., Respondents.
+W. Delmore McDowell, for appellant.
+Bruce Maines and Kenneth L. LeMaster, for respondents.",0436-01,460,464
+0440-01.json,1861741,"Thelma Eide, Respondent, v. Nels J. Eide, Appellant",Eide v. Eide,15-Dec-69,No. 3-39639-1,440,446,[List],Wash. Ct. App.,8985,Washington Court of Appeals,38,Washington,Wash.,[List],663,11618,0.608,2.43173E-07,0.802097728,9d4863207078bae28d4ac463ca2be1b9c4e75ac2f2c28e15473956e423abe11f,1:83efd4a610e065b2,1951,2/27/2024 9:01,29-Aug-19,Harvard,2018,[List],[List],[List],[List],,"[No. 3-39639-1.
+Division One.
+December 15, 1969.]
+Panel 1
+Thelma Eide, Respondent, v. Nels J. Eide, Appellant.
+John F. Dore, for appellant.
+Walsh •& Margolis, Roger C. Walsh, Moriarty, Olson, Campbell & Brindle, and Alec W. Brindle, for respondent.",0440-01,464,470
+0447-01.json,1861684,"Charles Pichler, Respondent, v. Pacific Mechanical Constructors et al., Appellants",Pichler v. Pacific Mechanical Constructors,15-Dec-69,No. 12-39989-1,447,456,[List],Wash. Ct. App.,8985,Washington Court of Appeals,38,Washington,Wash.,[List],870,17799,0.65,2.19295E-07,0.774019451,7d3071dd0e99d8fb1d3069daa023b3b375f9a313230fc4f7e36c0355e2ed3a65,1:f4ff46c208c1d20a,3044,2/27/2024 9:01,29-Aug-19,Harvard,2018,[List],[List],[List],[List],,"[No. 12-39989-1.
+Division One.
+December 15, 1969.]
+Panel 2
+Charles Pichler, Respondent, v. Pacific Mechanical Constructors et al., Appellants.
+Anderson, Hunter, Carlson & Duell and M. J. Carlson, for appellants.
+Cooper & Lyderson and Leslie M. Cooper, for respondent.",0447-01,471,480
+0457-01.json,1861770,"Howard A. Snyder, Respondent and Cross-appellant, v. James E. Cox et al., Defendants, National Union Fire Insurance Company, Appellant",Snyder v. Cox,15-Dec-69,No. 39-40266-1,457,462,[List],Wash. Ct. App.,8985,Washington Court of Appeals,38,Washington,Wash.,[List],571,9638,0.645,3.38254E-07,0.876453029,6799ef061b972a008108de8cd507b33e31ee9e636d27371c76ce406bb8d3d25a,1:02feda3afc04cf34,1600,2/27/2024 9:01,29-Aug-19,Harvard,2018,[List],[List],[List],[List],,"[No. 39-40266-1.
+Division One.
+December 15, 1969.]
+Panel 2
+Howard A. Snyder, Respondent and Cross-appellant, v. James E. Cox et al., Defendants, National Union Fire Insurance Company, Appellant.
+McMullen, Brooke, Knapp & Grenier and Robert J. Grenier, for appellant.
+McCrea, Kafer, Gissberg & Wilson and Benjamin A. Luchini, for respondent.",0457-01,481,486
+0463-01.json,1861715,"Kenneth R. Martin, Appellant, v. Weyerhaeuser Company, Respondent",Martin v. Weyerhaeuser Co.,15-Dec-69,No. 41-40270-1,463,468,[List],Wash. Ct. App.,8985,Washington Court of Appeals,38,Washington,Wash.,[List],601,10923,0.631,5.33602E-08,0.335884254,66863f8c6deb0bbf3e7a4ae82fa452b632edc1610c85fa358f19bd4b53b669cc,1:20503400a7b64568,1910,2/27/2024 9:01,29-Aug-19,Harvard,2018,[List],[List],[List],[List],,"[No. 41-40270-1.
+Division One.
+December 15, 1969.]
+Panel 1
+Kenneth R. Martin, Appellant, v. Weyerhaeuser Company, Respondent.
+Jackson, Ulvestad & Goodwin and Daniel G. Goodwin for appellant.
+Moore, Walstead, Hallowell & Mertsching and O. H. Husemoen, for respondent.",0463-01,487,492
+0469-01.json,1861793,"Dale A. Anderson, Respondent, v. Max Shain et al., Appellants",Anderson v. Shain,15-Dec-69,No. 64-40462-1,469,472,[List],Wash. Ct. App.,8985,Washington Court of Appeals,38,Washington,Wash.,[List],400,6389,0.652,1.04712E-07,0.552391471,1edf00430797885e58f44d7b4f89a8676b09ebca70a77d8dcafca4621216c0a6,1:475f15c57e61de59,1060,2/27/2024 9:01,29-Aug-19,Harvard,2018,[List],[List],[List],[List],,"[No. 64-40462-1.
+Division One.
+December 15, 1969.]
+Panel 1
+Dale A. Anderson, Respondent, v. Max Shain et al., Appellants.
+Malcolm L. Edwards, for appellants.
+Dore, Dubuar, Badley & Cunningham and Fred H. Dore, for respondent.",0469-01,493,496
+0473-01.json,1861823,"Alva J. Miller, Respondent, v. The Department of Labor and Industries et al., Appellants",Miller v. Department of Labor & Industries,15-Dec-69,No. 65-40469-1,473,480,[List],Wash. Ct. App.,8985,Washington Court of Appeals,38,Washington,Wash.,[List],736,13978,0.621,6.77085E-08,0.411559323,5d8ed567a691b49d24f6145b8e1c7a87845fa33a0462e5e0f478f9eebb1b9042,1:4fe2758887aea27e,2348,2/27/2024 9:01,29-Aug-19,Harvard,2018,[List],[List],[List],[List],,"[No. 65-40469-1.
+Division One.
+December 15, 1969.]
+Panel 1
+Alva J. Miller, Respondent, v. The Department of Labor and Industries et al., Appellants.
+Slade Gorton, Attorney General, and Joe Gordon, Jr., Assistant, for appellant Department of Labor and Industries.
+Whitmore, Graham & Whitmore and E. R. Whitmore, Jr., for appellant Western Kraft Corporation.
+Walthew, Warner & Keefe and Stephen M. Reilly, for respondent.",0473-01,497,504
+0480-01.json,1861552,"The State of Washington, on the Relation of Lester Neuert, Appellant, v. The Alderwood Water District of Snohomish County, Respondent",State ex rel. Neuert v. Alderwood Water District,15-Dec-69,No. 141-40708-1,480,482,[List],Wash. Ct. App.,8985,Washington Court of Appeals,38,Washington,Wash.,[List],288,3628,0.624,1.27537E-07,0.615716978,4659ff4c5f44969f20028eb1f17bba622e5ebec1b259d35355c0a0ba3ab1e961,1:b6ebdb32a00e43e9,595,2/27/2024 9:01,29-Aug-19,Harvard,2018,[List],[List],[List],[List],,"[No. 141-40708-1.
+Division One.
+December 15, 1969.]
+Panel 2
+The State of Washington, on the Relation of Lester Neuert, Appellant, v. The Alderwood Water District of Snohomish County, Respondent.
+Chester R. Bennett, for appellant.
+Roberts, Shefelman, Lawrence, Gay & Moch, George M. Mack, and Lee R. Voorhees, Jr., for respondent.",0480-01,504,506
+0483-01.json,1861798,"Grace C. Gibbs, Respondent, v. Paul J. Hurn et al., Appellants",Gibbs v. Hurn,16-Dec-69,No. 11-40060-3,483,484,[List],Wash. Ct. App.,8985,Washington Court of Appeals,38,Washington,Wash.,[List],253,3101,0.63,1.09348E-07,0.566200964,d154c55362e9dc06623e67c73718705e4b56e34554456c8006179045638b9471,1:8ed2faca52898b8f,491,2/27/2024 9:01,29-Aug-19,Harvard,2018,[List],[List],[List],[List],,"[No. 11-40060-3.
+Division Three.
+December 16, 1969.]
+Grace C. Gibbs, Respondent, v. Paul J. Hurn et al., Appellants.
+William C. Harrison, for appellants.
+Sidney R. Buckley and Daniel L. Collins, for respondent.",0483-01,507,508
+0485-01.json,1861743,"Robert K. Garringer, Respondent, v. Paul J. Hurn et al., Appellants",Garringer v. Hurn,16-Dec-69,No. 12-40061-3,485,487,[List],Wash. Ct. App.,8985,Washington Court of Appeals,38,Washington,Wash.,[List],318,4082,0.628,1.60016E-07,0.683725383,d5e9c196606b22e78cc27d53ecadb7d3a4b946aec072561344eb764843bfff6c,1:01ca7ae77ab2171a,672,2/27/2024 9:01,29-Aug-19,Harvard,2018,[List],[List],[List],[List],,"[No. 12-40061-3.
+Division Three.
+December 16, 1969.]
+Robert K. Garringer, Respondent, v. Paul J. Hurn et al., Appellants.
+William C. Harrison, for appellants.
+Sidney R. Buckley and Daniel L. Collins, for respondent.",0485-01,509,511
+0487-01.json,1861771,"King Equipment Company, Respondent, v. R. N. & L. Corporation, Appellant",King Equipment Co. v. R. N. & L. Corp.,17-Dec-69,No. 28-40453-2,487,493,[List],Wash. Ct. App.,8985,Washington Court of Appeals,38,Washington,Wash.,[List],549,10190,0.627,5.81977E-08,0.362183857,106f5d66495979631f49318ebaf32cca3aa8c44f60bd922b6cfc234ffea123fc,1:68b39e4a337cf4bc,1683,2/27/2024 9:01,29-Aug-19,Harvard,2018,[List],[List],[List],[List],,"[No. 28-40453-2.
+Division Two.
+December 17, 1969.]
+King Equipment Company, Respondent, v. R. N. & L. Corporation, Appellant.
+Skoog, Mullin, Cooper & Garlington and Thomas R. Garlington, for appellant.
+Conrad, Kane & Vandeberg and Elvin J. Vandeberg, for respondent.",0487-01,511,517
+0493-01.json,1861781,"The State of Washington, Respondent, v. Jerry Curtis Skinner, Appellant",State v. Skinner,18-Dec-69,No. 16-40243-2,493,500,[List],Wash. Ct. App.,8985,Washington Court of Appeals,38,Washington,Wash.,[List],714,14145,0.602,4.44606E-08,0.278441716,80905591ffca51dfdb981365d9c793f284c45a24a446f7ed8b7c178b345efd54,1:83ef903f5a46b431,2386,2/27/2024 9:01,29-Aug-19,Harvard,2018,[List],[List],[List],[List],,"[No. 16-40243-2.
+Division Two.
+December 18, 1969.]
+The State of Washington, Respondent, v. Jerry Curtis Skinner, Appellant.
+Henderson, Connelly & Godderis, and Ellsworth I. Connelly, for appellant.
+Ronald L. Hendry, Prosecuting Attorney and Joseph D. Mladinov, Special Counsel, Eugene G. Olson, Chief Criminal Deputy, for respondent.",0493-01,517,524
+0501-01.json,1861785,"Damascus Milk Company, Appellant, v. David H. Morriss et al., Defendants, Melvin R. Hibbard et al., Respondents",Damascus Milk Co. v. Morriss,18-Dec-69,No. 27-40439-2,501,509,[List],Wash. Ct. App.,8985,Washington Court of Appeals,38,Washington,Wash.,[List],741,15529,0.609,1.19246E-07,0.591700327,4e6269aabbe121b070d577df493d872aafb881263b2863b5129d24502e417bd6,1:ca3c25d376c872e6,2561,2/27/2024 9:01,29-Aug-19,Harvard,2018,[List],[List],[List],[List],,"[No. 27-40439-2.
+Division Two.
+December 18, 1969.]
+Damascus Milk Company, Appellant, v. David H. Morriss et al., Defendants, Melvin R. Hibbard et al., Respondents.
+John S. Acker, for appellant.
+Blair, Thomas, O’Bern & Daheim and James E. O’Bern, for respondent.",0501-01,525,533
+0510-01.json,1861806,"The State of Washington, Respondent, v. Edward Walter Matte, Appellant",State v. Matte,18-Dec-69,No. 31-40636-3,510,515,[List],Wash. Ct. App.,8985,Washington Court of Appeals,38,Washington,Wash.,[List],623,10181,0.614,6.48399E-08,0.399091993,f1ce5428be1c57633ae122a0e269ce1ada43a20ae9f0f1166bd33772418dfadc,1:a2379d14f4ea947c,1735,2/27/2024 9:01,29-Aug-19,Harvard,2018,[List],[List],[List],[List],,"[No. 31-40636-3.
+Division Three.
+December 18, 1969.]
+The State of Washington, Respondent, v. Edward Walter Matte, Appellant.
+Edward H. McKinlay (of Horrigan, Sullivan & Mc-Kinlay), for appellant (appointed counsel for appeal).
+C. J. Rabideau, Prosecuting Attorney, and Laurence S. Moore, Deputy, for respondent.",0510-01,534,539
+0516-01.json,1861596,"The State of Washington, Respondent, v. Clyde Seger, Appellant",State v. Seger,19-Dec-69,No. 32-40691-3,516,518,[List],Wash. Ct. App.,8985,Washington Court of Appeals,38,Washington,Wash.,[List],314,4224,0.646,2.06467E-07,0.756997223,d4946e2ce770d64971bc9c6db457ca6fb9cca1e8df4c99cebdd4ae463f141f09,1:50b4d3834924fec8,680,2/27/2024 9:01,29-Aug-19,Harvard,2018,[List],[List],[List],[List],,"[No. 32-40691-3.
+Division Three.
+December 19, 1969.]
+The State of Washington, Respondent, v. Clyde Seger, Appellant.
+Edward H. McKinlay (of Horrigan, Sullivan & Mc-Kinlay), for appellant (appointed counsel for appeal).
+Philip H. Faris, Prosecuting Attorney, for respondent.",0516-01,540,542
+0519-01.json,1861803,"Grayce Edith LaPeire et al., Appellants, v. Lawrence H. Tarte et al., Respondents",LaPeire v. Tarte,22-Dec-69,No. 6-39878-1,519,522,[List],Wash. Ct. App.,8985,Washington Court of Appeals,38,Washington,Wash.,[List],364,6136,0.614,2.86511E-07,0.841973605,7ba4467886c01616c3249a673d073717c0aa4e6137ce8d90f34ccef1fa0b338c,1:7a03c7d2db6a5c69,1036,2/27/2024 9:01,29-Aug-19,Harvard,2018,[List],[List],[List],[List],,"[No. 6-39878-1.
+Division One.
+December 22, 1969.]
+Panel 1
+Grayce Edith LaPeire et al., Appellants, v. Lawrence H. Tarte et al., Respondents.
+Leonard W. Schroeter and Dean Bender, for appellants.
+Williams, Lanza, Kastner & Gibbs and Joseph J. Lanza, for respondents.",0519-01,543,546
+0523-01.json,1861697,"Joan Spratt, Respondent, v. John David Davidson, Appellant",Spratt v. Davidson,22-Dec-69,No. 9-39953-1,523,527,[List],Wash. Ct. App.,8985,Washington Court of Appeals,38,Washington,Wash.,[List],462,7475,0.617,1.28755E-07,0.619044199,5f43e5f67517749568d03eddcd5c45ae255eedf82aea4b5b57cd21f901f4c1e1,1:831669667d61dfe2,1234,2/27/2024 9:01,29-Aug-19,Harvard,2018,[List],[List],[List],[List],,"[No. 9-39953-1.
+Division One.
+December 22, 1969.]
+Panel 2
+Joan Spratt, Respondent, v. John David Davidson, Appellant.
+Fetty, Olwell & Hamack and David H. Olwell, for appellant.
+Max D. Crittenden, for respondent.",0523-01,547,551
+0527-01.json,1861641,"Elizabeth Johnson, Respondent and Cross-appellant, v. Roger H. Johnson, Appellant",Johnson v. Johnson,22-Dec-69,No. 29-40204-1,527,533,[List],Wash. Ct. App.,8985,Washington Court of Appeals,38,Washington,Wash.,[List],560,11276,0.607,9.84016E-08,0.533805253,b363a8c88513e8ee4d9a35b672a2bb75feb97931b6a4dd31c0f1b53e662ab2bf,1:8dab66f63c513d5c,1905,2/27/2024 9:01,29-Aug-19,Harvard,2018,[List],[List],[List],[List],,"[No. 29-40204-1.
+Division One.
+December 22, 1969.]
+Panel 1
+Elizabeth Johnson, Respondent and Cross-appellant, v. Roger H. Johnson, Appellant.
+Lee, Carney & Smart and Nelson T. Lee, for appellant.
+Ronald W. Meier, for respondent.",0527-01,551,557
+0534-01.json,1861550,"James Earl Osborn, Respondent, v. Lake Washington School District No. 414, Appellant",Osborn v. Lake Washington School District No. 414,22-Dec-69,No. 40-40268-1,534,539,[List],Wash. Ct. App.,8985,Washington Court of Appeals,38,Washington,Wash.,[List],663,10641,0.621,1.4946E-07,0.663659348,102fcc03925705073c031d420b7cef25471b2f030dabb963e2043923512eba71,1:9af94f46366d0e99,1765,2/27/2024 9:01,29-Aug-19,Harvard,2018,[List],[List],[List],[List],,"[No. 40-40268-1.
+Division One.
+December 22, 1969.]
+Panel 2
+James Earl Osborn, Respondent, v. Lake Washington School District No. 414, Appellant.
+Martin, Shorts ?& Vever and Edward C. Burch, for appellant.
+Horswill, Keller, Rohrback, Waldo & Moran and Dwayne A. Richards, for respondent.",0534-01,558,563
+0540-01.json,1861808,"Harvey H. Johnson, Respondent, v. E. Dale Whitman et al., Appellants",Johnson v. Whitman,22-Dec-69,No. 51-40377-1,540,546,[List],Wash. Ct. App.,8985,Washington Court of Appeals,38,Washington,Wash.,[List],712,12510,0.625,2.27557E-07,0.784237421,c7afe7944297123b86a1db66ab06e2d250e7115ad62e85855a1ff3705d9844d2,1:f67890a04c22883a,2058,2/27/2024 9:01,29-Aug-19,Harvard,2018,[List],[List],[List],[List],,"[No. 51-40377-1.
+Division One.
+December 22, 1969.]
+Panel 1
+Harvey H. Johnson, Respondent, v. E. Dale Whitman et al., Appellants.
+Cartano, Botzer & Chapman and Frank W. Birkholz, for appellants.
+Ferguson & Bur dell and W. Wesselhoeft, for respondent.",0540-01,564,570
+0547-01.json,1861775,"Arthur Gaines, Respondent, v. The Department of Labor and Industries, Appellant",Gaines v. Department of Labor & Industries,22-Dec-69,No. 53-40393-1,547,553,[List],Wash. Ct. App.,8985,Washington Court of Appeals,38,Washington,Wash.,[List],649,11113,0.645,3.26823E-07,0.869928131,20c723c6efc86151e0ce5bfa58062340c11ba0d3469b82eb4fab39906290ae5b,1:8139f98707c215da,1836,2/27/2024 9:01,29-Aug-19,Harvard,2018,[List],[List],[List],[List],,"[No. 53-40393-1.
+Division One.
+December 22, 1969.]
+Panel 2
+Arthur Gaines, Respondent, v. The Department of Labor and Industries, Appellant.
+Slade Gorton, Attorney General, and Gerald L. Casey, Assistant, for appellant.
+Walthew, Warner & Keefe and Eugene Arron, for respondent.",0547-01,571,577
+0553-01.json,1861654,"The State of Washington, Respondent, v. Walter Johnson, Appellant",State v. Johnson,22-Dec-69,No. 62-40443-1,553,557,[List],Wash. Ct. App.,8985,Washington Court of Appeals,38,Washington,Wash.,[List],458,7584,0.622,1.62966E-07,0.688690924,4bb710102feea9ccf3f86b136d98bbfbf982a9e38f53d4207f82ae73b57b6bfc,1:945829f707e6a4c1,1257,2/27/2024 9:01,29-Aug-19,Harvard,2018,[List],[List],[List],[List],,"[No. 62-40443-1.
+Division One.
+December 22, 1969.]
+Panel 2
+The State of Washington, Respondent, v. Walter Johnson, Appellant.
+Trethewey, Brink & Wilson and Daniel Brink, for appellant.
+Charles O. Carroll, Prosecuting Attorney, and Patricia Harber, Deputy, for respondent.",0553-01,577,581
+0558-01.json,1861750,"The State of Washington, Respondent, v. Thomas Stationak, Appellant",State v. Stationak,22-Dec-69,No. 71-40606-1,558,564,[List],Wash. Ct. App.,8985,Washington Court of Appeals,38,Washington,Wash.,[List],666,11554,0.625,6.90127E-08,0.419562685,4f5e74d3761873f539f6b8432bf862aa32d7a57c86d6d359e436c28dbad9a39d,1:7aae60823e330573,1948,2/27/2024 9:01,29-Aug-19,Harvard,2018,[List],[List],[List],[List],,"[No. 71-40606-1.
+Division One.
+December 22, 1969.]
+Panel 1
+The State of Washington, Respondent, v. Thomas Stationak, Appellant.
+Alfred McBee, for appellant (appointed counsel for appeal).
+Harry A. Follman, Prosecuting Attorney, for respondent.",0558-01,582,588
+0565-01.json,1861747,"In the Matter of the Estate of John Rynning, Deceased",In re the Estate of Rynning,23-Dec-69,"Nos. 15-40237-2, 23-40372-2",565,572,[List],Wash. Ct. App.,8985,Washington Court of Appeals,38,Washington,Wash.,[List],629,12928,0.618,1.20139E-07,0.593796588,d6a84ccaee6d9425d217fce0068dd35d73cfaf974e608121a0a67cb3895db5e7,1:33c2e43614461c71,2178,2/27/2024 9:01,29-Aug-19,Harvard,2018,[List],[List],[List],[List],,"[Nos. 15-40237-2, 23-40372-2.
+Division Two.
+December 23, 1969.]
+In the Matter of the Estate of John Rynning, Deceased.
+Heavey & Picton and Edward Heavey, for 'appellant.
+Preston, Thorgrimson, Starin, Ellis & Holman and Edward Starin, for respondent.",0565-01,589,596
+0572-01.json,1861672,"The State of Washington, Respondent, v. Robert A. Herr, Appellant",State v. Herr,24-Dec-69,No. 93-40833-3,572,575,[List],Wash. Ct. App.,8985,Washington Court of Appeals,38,Washington,Wash.,[List],388,4983,0.61,4.03581E-08,0.068625236,78a1e79d34f8d236acab7d930b99729efa2c109402ea5b3aa86a42f2a8175413,1:876a0bb73b74aada,851,2/27/2024 9:01,29-Aug-19,Harvard,2018,[List],[List],[List],[List],,"[No. 93-40833-3.
+Division Three.
+December 24, 1969.]
+The State of Washington, Respondent, v. Robert A. Herr, Appellant.
+Neil P. Cronin, for appellant (appointed counsel for appeal) .
+Donald C. Brockett, Prosecuting Attorney, for respondent.",0572-01,596,599
+0575-01.json,1861617,"Prager's, Inc., Respondent, v. Bullitt Company, Appellant","Prager's, Inc. v. Bullitt Co.",29-Dec-69,No. 2-39430-1,575,589,[List],Wash. Ct. App.,8985,Washington Court of Appeals,38,Washington,Wash.,[List],1122,26032,0.647,2.29308E-07,0.786504734,1d5627bc1b5635a55d9f58f6953639b9372558ed27a149341898109e773059ae,1:96a75a86536a1845,4171,2/27/2024 9:01,29-Aug-19,Harvard,2018,[List],[List],[List],[List],,"[No. 2-39430-1.
+Division One.
+December 29, 1969.]
+Panel 2
+Prager’s, Inc., Respondent, v. Bullitt Company, Appellant.
+Riddell, Williams, Voorhees, Ivie •& Bullitt and J. Vernon Williams, for appellant.
+Monheimer, Schermer, Van Fredenberg & Smith, John M. Schermer, Melville Monheimer, Jr., and Stephen P. Ryder, for respondent.",0575-01,599,613
+0589-01.json,1861700,"Elbert L. Smithline et al., Appellants, v. Lawrence Chase, Respondent",Smithline v. Chase,29-Dec-69,No. 14-40014-1,589,591,[List],Wash. Ct. App.,8985,Washington Court of Appeals,38,Washington,Wash.,[List],316,3937,0.628,9.50588E-08,0.520634215,f3dcc7847c277e4e63ccddf783ea391b8fb284496cf167980d86bd8ab775a1d2,1:dbc22c2c3a226fbd,650,2/27/2024 9:01,29-Aug-19,Harvard,2018,[List],[List],[List],[List],,"[No. 14-40014-1.
+Division One.
+December 29, 1969.]
+Panel 1
+Elbert L. Smithline et al., Appellants, v. Lawrence Chase, Respondent.
+Everall Carson, for appellants.
+Read & Church and William Church, for respondent.",0589-01,613,615
+0592-01.json,1861658,"The State of Washington, Respondent, v. Thomas William McDonald, Appellant",State v. McDonald,29-Dec-69,No. 36-40246-1,592,596,[List],Wash. Ct. App.,8985,Washington Court of Appeals,38,Washington,Wash.,[List],455,7046,0.626,7.12149E-08,0.427533613,1e3291f1f162b99b0cc4ac3ee6d62275ca37c096da4afb92f5fe865c63235615,1:04481990258ad31d,1154,2/27/2024 9:01,29-Aug-19,Harvard,2018,[List],[List],[List],[List],,"[No. 36-40246-1.
+Division One.
+December 29, 1969.]
+Panel 2
+The State of Washington, Respondent, v. Thomas William McDonald, Appellant.
+Heiman & Samboni and Donald R. Douglas, for appellant.
+Charles O. Carroll, Prosecuting Attorney, and Jerry Brian Riess, Deputy, for respondent.",0592-01,616,620
+0596-01.json,1861759,"Plywood Supply, Inc., Respondent, v. George Karr et al., Appellants","Plywood Supply, Inc. v. Karr",29-Dec-69,No. 44-40294-1,596,597,[List],Wash. Ct. App.,8985,Washington Court of Appeals,38,Washington,Wash.,[List],177,1915,0.612,7.31785E-08,0.43644282,48ff180e43a98347043303181af2b142efd752e7c46e44c8ab9903c9b1f2eb18,1:0aa1d2a4c800b654,320,2/27/2024 9:01,29-Aug-19,Harvard,2018,[List],[List],[List],[List],,"[No. 44-40294-1.
+Division One.
+December 29, 1969.]
+Panel 1
+Plywood Supply, Inc., Respondent, v. George Karr et al., Appellants.
+Griffin & Bortner and Matthew D. Griffin, for appellants.
+Haggarty, Hess & Shuey and Benjamin P. Shuey, for respondent.",0596-01,620,621
+0598-01.json,1861682,"The State of Washington, Respondent, v. Guenter Mannhalt et al., Appellants",State v. Mannhalt,29-Dec-69,"Nos. 52-40389-1, 40433-1",598,601,[List],Wash. Ct. App.,8985,Washington Court of Appeals,38,Washington,Wash.,[List],475,6693,0.62,1.33108E-07,0.628938984,abe44c9d112f7a232d9478efd3f6fe0a8e08efd4f4bbb9590920d96c7c14c23d,1:8e4cf0431b50753e,1138,2/27/2024 9:01,29-Aug-19,Harvard,2018,[List],[List],[List],[List],,"[Nos. 52-40389-1, 40433-1.
+Division One.
+December 29, 1969.]
+Panel 2
+The State of Washington, Respondent, v. Guenter Mannhalt et al., Appellants.
+Kempton, Savage & Gossard and James S. Kempton, for appellant Mannhalt.
+Kroum, Bass & Mack and Gary F. Bass, for appellant Harris.
+Charles O. Carroll, Prosecuting Attorney, and C. N. Marshall, Deputy, for respondent.",0598-01,622,625
+0602-01.json,1861843,"The State of Washington, Respondent, v. Annette Johnson et al., Appellants",State v. Johnson,30-Dec-69,No. 31-40526-2,602,607,[List],Wash. Ct. App.,8985,Washington Court of Appeals,38,Washington,Wash.,[List],520,9633,0.603,4.53309E-08,0.283886628,e37b140ca94acc98225ac95e03d8d6d9b5d1cd1fd7280f40cdcf7fd486f0aef6,1:ccdbf0cf2f8c8d9c,1659,2/27/2024 9:01,29-Aug-19,Harvard,2018,[List],[List],[List],[List],,"[No. 31-40526-2.
+Division Two.
+December 30, 1969.]
+The State of Washington, Respondent, v. Annette Johnson et al., Appellants.
+Jack E. Tanner, for appellants.
+Charles O. Carroll, Prosecuting Attorney, and Paul M. Acheson, Deputy, for respondent.",0602-01,626,631
+0607-01.json,1861733,"The State of Washington, Respondent, v. Michael L. Tretton, Appellant",State v. Tretton,30-Dec-69,No. 32-40527-2,607,613,[List],Wash. Ct. App.,8985,Washington Court of Appeals,38,Washington,Wash.,[List],607,10617,0.654,1.12984E-07,0.57552255,bb9c2226e9d2b57f9976fa7da47995ddae45e33541dbf5fd3bb195d6ff4a0e6e,1:a1f5ee1a4dbe54f9,1784,2/27/2024 9:01,29-Aug-19,Harvard,2018,[List],[List],[List],[List],,"[No. 32-40527-2.
+Division Two.
+December 30, 1969.]
+The State of Washington, Respondent, v. Michael L. Tretton, Appellant.
+McDonell ?& Alfieri and James A. Alfieri, for appellant.
+Ronald L. Hendry, Prosecuting Attorney, and Joseph Mladinov, Special Counsel, Eugene G. Olson, Chief Criminal Deputy, for respondent.",0607-01,631,637
+0614-01.json,1861562,"The State of Washington, Respondent, v. Richard L. Potts, Appellant",State v. Potts,30-Dec-69,No. 39-40706-2,614,621,[List],Wash. Ct. App.,8985,Washington Court of Appeals,38,Washington,Wash.,[List],731,13961,0.653,5.89382E-07,0.952693188,88329d8a5aca9f4a61cfe05ca4e97ff99963978f4cd51bbf0263547386c4778b,1:e6beec02756254bf,2340,2/27/2024 9:01,29-Aug-19,Harvard,2018,[List],[List],[List],[List],,"[No. 39-40706-2.
+Division Two.
+December 30, 1969.]
+The State of Washington, Respondent, v. Richard L. Potts, Appellant.
+Van Buskirk, Haas & Rorem and Henry Haas, for appellant (appointed counsel for appeal).
+Ronald L. Hendry, Prosecuting Attorney, Joseph D. Mladinov, Special Counsel, Eugene G. Olson, Chief Criminal Deputy, for respondent.",0614-01,638,645
+0622-01.json,1861686,"Union Bank, Appellant, v. Leonard C. Kruger et al., Defendants, Buddy Kirihara et al., Respondents",Union Bank v. Kruger,29-Dec-69,No. 9-40022-3,622,628,[List],Wash. Ct. App.,8985,Washington Court of Appeals,38,Washington,Wash.,[List],664,11493,0.65,4.07419E-07,0.908636951,02f5f364e0a2634375f3453fb362c352e9b3a530e625a48890faca1e3d075880,1:b793745c32a01632,1927,2/27/2024 9:01,29-Aug-19,Harvard,2018,[List],[List],[List],[List],,"[No. 9-40022-3.
+Division Three.
+December 29, 1969.]
+Union Bank, Appellant, v. Leonard C. Kruger et al., Defendants, Buddy Kirihara et al., Respondents.
+R. G. Schimanski, for appellant.
+William A. Franke and William F. Nielsen, for respondents.",0622-01,646,652
+0628-01.json,1861754,"Ronald L. Ewer, Respondent, v. Goodyear Tire and Rubber Company, Appellant",Ewer v. Goodyear Tire & Rubber Co.,29-Dec-69,No. 79-41245-3,628,630,[List],Wash. Ct. App.,8985,Washington Court of Appeals,38,Washington,Wash.,[List],319,4038,0.628,4.03581E-08,0.068627167,f0305fd3e79198f8e9efbdc3885b84949317a5a6a7f44f02fa2dfccb9658eae2,1:6bfd177a6958e0bd,673,2/27/2024 9:01,29-Aug-19,Harvard,2018,[List],[List],[List],[List],,"[No. 79-41245-3.
+Division Three.
+December 29, 1969.]
+Ronald L. Ewer, Respondent, v. Goodyear Tire and Rubber Company, Appellant.
+William H. Mays (of Gavin, Robinson, Kendrick, Red-man & Mays), for appellant.
+James R. Thomas and Richard B. Price (of Wicks, Thomas & Price), for respondent.",0628-01,652,654
+0631-01.json,1861692,"Simpson Timber Company, Respondent, v. Ljutic Industries, Inc., et al., Appellants","Simpson Timber Co. v. Ljutic Industries, Inc.",31-Dec-69,No. 20-40137-3,631,642,[List],Wash. Ct. App.,8985,Washington Court of Appeals,38,Washington,Wash.,[List],970,21639,0.604,2.622E-07,0.821427813,a69ff7ab064bd1f21b2b41cd3ff861eed98f95ef8c7e3967c1767444440a6564,1:b40f942a5b6e06f6,3556,2/27/2024 9:01,29-Aug-19,Harvard,2018,[List],[List],[List],[List],,"[No. 20-40137-3.
+Division Three.
+December 31, 1969.]
+Simpson Timber Company, Respondent, v. Ljutic Industries, Inc., et al., Appellants.
+J. P. Tonkoff (of Tonkoff & Dauber), for appellants.
+Alan A. McDonald (of Halverson, Applegate & McDonald) , for respondent.",0631-01,655,666
+0642-01.json,1861644,"Joe Johnson, Respondent, v. Mobile Crane Co., Appellant",Johnson v. Mobile Crane Co.,31-Dec-69,No. 4-39768-1,642,651,[List],Wash. Ct. App.,8985,Washington Court of Appeals,38,Washington,Wash.,[List],855,15882,0.64,1.37275E-07,0.638609046,bf6f6ea99f2728bdb7822a8964c9507c42596c04a0a16a30c62c3d24b447a0bb,1:1e64ab1e15d49df2,2696,2/27/2024 9:01,29-Aug-19,Harvard,2018,[List],[List],[List],[List],,"[No. 4-39768-1.
+Division One.
+December 31, 1969.]
+Panel 2
+Joe Johnson, Respondent, v. Mobile Crane Co., Appellant.
+Joseph C. McKinnon, for appellant.
+Jackson, Ulvestad & Goodwin and Daniel G. Goodwin, for respondent.",0642-01,666,675
+0651-01.json,1861709,"Helen Hilyard Mills, as Executrix, Appellant, v. Inter Island Telephone Co., Inc., Respondent",Mills v. Inter Island Telephone Co.,31-Dec-69,No. 13-40000-1,651,654,[List],Wash. Ct. App.,8985,Washington Court of Appeals,38,Washington,Wash.,[List],457,6422,0.628,4.03581E-08,0.068626009,966e4b12f16fcc9ae5673d1b22e845e3dac1b792d3956898ba6ca894965509f2,1:59c0a8a0845edf71,1058,2/27/2024 9:01,29-Aug-19,Harvard,2018,[List],[List],[List],[List],,"[No. 13-40000-1.
+Division One.
+December 31, 1969.]
+Panel 2
+Helen Hilyard Mills, as Executrix, Appellant, v. Inter Island Telephone Co., Inc., Respondent.
+Paul H. Graves, Donald N. Olson, and George Martin, for appellant.
+Livesey, Kingsbury & Livesey and Burton A. Kingsbury, for respondent.",0651-01,675,678
+0655-01.json,1861837,"Julius G. Johnson et al., Appellants, v. Marshall Field & Company, Respondent",Johnson v. Marshall Field & Co.,31-Dec-69,No. 15-40015-1,655,665,[List],Wash. Ct. App.,8985,Washington Court of Appeals,38,Washington,Wash.,[List],895,18456,0.621,1.04712E-07,0.552396877,0b93e62b925df80b9bc2085f53183ea337b16f73ddecf905b0a507fc8147ac35,1:acaa810c7806a06d,3185,2/27/2024 9:01,29-Aug-19,Harvard,2018,[List],[List],[List],[List],,"[No. 15-40015-1.
+Division One.
+December 31, 1969.]
+Panel 1
+Julius G. Johnson et al., Appellants, v. Marshall Field & Company, Respondent.
+Ralph B. Potts and Stenn H. Dagg, for appellants.
+William R. Lanthorn and heo A. Anderson, for respondent.",0655-01,679,689
+0665-01.json,1861646,"Whatcom Builders Supply Company, Respondent, v. H. D. Fowler, Inc., Respondent, The City of Blaine, Appellant; H. D. Fowler Company, Inc., Respondent, v. John S. Williams et al., Respondents","Whatcom Builders Supply Co. v. H. D. Fowler, Inc.",31-Dec-69,No. 18-40058-1,665,673,[List],Wash. Ct. App.,8985,Washington Court of Appeals,38,Washington,Wash.,[List],698,15677,0.612,1.41045E-07,0.646846592,ac5c45995499b31fd6cc25ada2c28b942dd06a96f46c319a61d17763bb5291ff,1:9cc483cbfadd1c4b,2606,2/27/2024 9:01,29-Aug-19,Harvard,2018,[List],[List],[List],[List],,"[No. 18-40058-1.
+Division One.
+December 31, 1969.]
+Panel 2
+Whatcom Builders Supply Company, Respondent, v. H. D. Fowler, Inc., Respondent, The City of Blaine, Appellant. H. D. Fowler Company, Inc., Respondent, v. John S. Williams et al., Respondents.
+LeCocq, Simonarson & Durnan and F. W. Durnan, for appellant.
+Reed, McClure & Moceri and Thomas W. Huber, for respondent.",0665-01,689,697
+0673-01.json,1861711,"Alvin J. Shoberg et al., Appellants, v. Dr. Thorpe M. Kelly et al., Respondents",Shoberg v. Kelly,31-Dec-69,No. 20-40110-1,673,678,[List],Wash. Ct. App.,8985,Washington Court of Appeals,38,Washington,Wash.,[List],569,9451,0.674,2.38071E-07,0.796789504,cb171b9dcac281e75c9334c772bebbe43119e453bca27e4026b13276a5facc71,1:c5235030bba47720,1534,2/27/2024 9:01,29-Aug-19,Harvard,2018,[List],[List],[List],[List],,"[No. 20-40110-1.
+Division One.
+December 31, 1969]
+Panel 2
+Alvin J. Shoberg et al., Appellants, v. Dr. Thorpe M. Kelly et al., Respondents.
+John F. Raymond and D. Scott Sandelin, for appellants.
+Williams, Lanza, Kastner & Gibbs, Henry E. Kastner and Gerald A. Palm, for respondents. -",0673-01,697,702
+0678-01.json,1861701,"Ernest Brandt, Respondent, v. George Impero et al., Appellants",Brandt v. Impero,31-Dec-69,No. 37-40253-1,678,684,[List],Wash. Ct. App.,8985,Washington Court of Appeals,38,Washington,Wash.,[List],602,10106,0.657,4.88279E-07,0.933333565,501e3de75673c334e92c0f636f9caebeb28efd94c3c64a8f0f54285da11e2baf,1:05eaff4c0d6a56ff,1681,2/27/2024 9:01,29-Aug-19,Harvard,2018,[List],[List],[List],[List],,"[No. 37-40253-1.
+Division One.
+December 31, 1969.]
+Panel 2
+Ernest Brandt, Respondent, v. George Impero et al., Appellants.
+Asmundson, Rhea & Atwood and David E. Rhea, for appellants.
+Allen, DeGarmo & Leedy and Bruce T. Rinker, for respondent.",0678-01,702,708
+0684-01.json,1861583,"Marvin J. Gabel et. al., Respondents, v. Fred Koba et al., Appellants",Gabel v. Koba,31-Dec-69,No. 45-40295-1,684,694,[List],Wash. Ct. App.,8985,Washington Court of Appeals,38,Washington,Wash.,[List],854,16715,0.643,2.05333E-07,0.755630348,8126ba43fc07e8710dc7107c69ae18489491f045115665e76141ef830cf34cb3,1:6f66e5307f7cf5b2,2878,2/27/2024 9:01,29-Aug-19,Harvard,2018,[List],[List],[List],[List],,"[No. 45-40295-1.
+Division One.
+December 31, 1969.]
+Panel 2
+Marvin J. Gabel et. al., Respondents, v. Fred Koba et al., Appellants.
+Clarke, Clarke, Albertson •& Bovingdon and George H. Bovingdon, for appellants.
+Cushman, Thomas & Holt and R. M. Holt, for respondents.",0684-01,708,718
+0694-01.json,1861731,"Donald Hellbaum et al., Respondents and Cross-appellants, v. Burwell and Morford, Appellant and Cross-respondent",Hellbaum v. Burwell & Morford,31-Dec-69,No. 55-40397-1,694,705,[List],Wash. Ct. App.,8985,Washington Court of Appeals,38,Washington,Wash.,[List],925,21517,0.646,3.03434E-07,0.854832463,cce5be5a0569c88c0ff1afae9cee39de53763c19aa18f96d7fe2bbffcb12b196,1:eb2a808d248abe7c,3501,2/27/2024 9:01,29-Aug-19,Harvard,2018,[List],[List],[List],[List],,"[No. 55-40397-1.
+Division One.
+December 31, 1969.]
+Panel 2
+Donald Hellbaum et al., Respondents and Cross-appellants, v. Burwell and Morford, Appellant and Cross-respondent.
+Lycette, Diamond & Sylvester and Earle W. Zinn, for appellant.
+jReed, McLure & Moceri, Roy J. Moceri, and William R. Hickman, for respondent.",0694-01,718,729
+0705-01.json,1861615,"Henry Nash, Respondent, v. The Department of Labor and Industries, Appellant",Nash v. Department of Labor & Industries,31-Dec-69,No. 63-40447-1,705,712,[List],Wash. Ct. App.,8985,Washington Court of Appeals,38,Washington,Wash.,[List],639,13801,0.652,1.2607E-07,0.612397673,dd3a80bf2f5ecaa4211cbb07f33c3105e1dad6fe87c7573e1aa6ac3f30ebb437,1:f8dcfcae78e2c7eb,2297,2/27/2024 9:01,29-Aug-19,Harvard,2018,[List],[List],[List],[List],,"[No. 63-40447-1.
+Division One.
+December 31, 1969.]
+Panel 2
+Henry Nash, Respondent, v. The Department of Labor and Industries, Appellant.
+Slade Gorton, Attorney General, and Joe Gordon, Jr., Assistant, for appellant.
+Jackson, Ulvestad & Goodwin and Daniel G. Goodwin, for respondent.",0705-01,729,736
+0713-01.json,1861631,"The National Bank of Commerce of Seattle, Respondent, v. George R. Green et al., Appellants",National Bank of Commerce v. Green,31-Dec-69,No. 68-40558-1,713,722,[List],Wash. Ct. App.,8985,Washington Court of Appeals,38,Washington,Wash.,[List],891,18312,0.641,1.82443E-07,0.719661455,2ac8b226d411128fa6d6047aa83bf2dd4d26e9448336cf19ebfc308469edf0a3,1:a8a6249e11d6a622,3134,2/27/2024 9:01,29-Aug-19,Harvard,2018,[List],[List],[List],[List],,"[No. 68-40558-1.
+Division One.
+December 31, 1969.]
+Panel 2
+The National Bank of Commerce of Seattle, Respondent, v. George R. Green et al., Appellants.
+Sherwood & Forrest and Marshall Forrest, for appellants.
+Livesey, Kingsbury & Livesey and Burton A. Kingsbury, for respondent.
+Frank W. Smith, Jr., amicus curiae.",0713-01,737,746
+0723-01.json,1861690,"The State of Washington, Respondent, v. Isaac Lee Pam, Appellant",State v. Pam,31-Dec-69,No. 70-40570-1,723,729,[List],Wash. Ct. App.,8985,Washington Court of Appeals,38,Washington,Wash.,[List],654,12106,0.608,2.33776E-07,0.791830721,f3462739cfcdecba6e22b63ee2008d1c07c2d3c39f591db4c33010d074dd0bc8,1:8e82b1bf3e86aca5,2088,2/27/2024 9:01,29-Aug-19,Harvard,2018,[List],[List],[List],[List],,"[No. 70-40570-1.
+Division One.
+December 31, 1969.]
+Panel 2
+The State of Washington, Respondent, v. Isaac Lee Pam, Appellant.
+Philip L. Burton, for appellant (appointed counsel for appeal).
+Charles O. Carroll, Prosecuting Attorney, and Robert A. Wacker, Deputy, for respondent.",0723-01,747,753
+0730-01.json,1861586,"Joe Spino, Appellant, v. The Department of Labor and Industries, Respondent",Spino v. Department of Labor & Industries,31-Dec-69,No. 74-40628-1,730,736,[List],Wash. Ct. App.,8985,Washington Court of Appeals,38,Washington,Wash.,[List],750,12673,0.646,1.19065E-07,0.591316521,c393c26e08c6b1d80645ba7f5a2924340f5bffe481e5db1f16acefec6f207b9e,1:45e8c523cfaafadb,2059,2/27/2024 9:01,29-Aug-19,Harvard,2018,[List],[List],[List],[List],,"[No. 74-40628-1.
+Division One.
+December 31, 1969.]
+Panel 2
+Joe Spino, Appellant, v. The Department of Labor and Industries, Respondent.
+C. E. Austin and William J. Van Natter, for appellant.
+Slade Gorton, Attorney General, and Joe Gordon, Jr., Assistant, for respondent.",0730-01,754,760
+0737-01.json,1861761,"In the Matter of the Petition of the City of Kent. The City of Kent, Respondent, v. Eldon L. Lamb et al., Petitioners",City of Kent v. Lamb,31-Dec-69,No. 134-41200-1,737,742,[List],Wash. Ct. App.,8985,Washington Court of Appeals,38,Washington,Wash.,[List],617,10380,0.637,1.74055E-07,0.706959556,bd8f1e8558f3852501f4992b7c82f706dec56d6f64b424eddff6a66d950985d5,1:3e8dcc18ddfc4e43,1703,2/27/2024 9:01,29-Aug-19,Harvard,2018,[List],[List],[List],[List],,"[No. 134-41200-1.
+Division One.
+December 31, 1969.]
+Panel 2
+In the Matter of the Petition of the City of Kent. The City of Kent, Respondent, v. Eldon L. Lamb et al., Petitioners.
+Eldon L. Lamb, pro se.
+Shellan, Pain, Stone & Swanson and John K. Pain, Jr., for respondent.",0737-01,761,766
+0742-01.json,1861589,"Wilfred Kilde et al., Appellants, v. William Sorwak et al., Respondents",Kilde v. Sorwak,9-Jan-70,No. 7-39993-3,742,749,[List],Wash. Ct. App.,8985,Washington Court of Appeals,38,Washington,Wash.,[List],698,13043,0.648,1.60385E-07,0.684320399,97a75db26179ca45ce0bcd925718bf95abdb334b8b581b992e44c694b1a8d9a7,1:ea2205947aa5c679,2169,2/27/2024 9:01,29-Aug-19,Harvard,2018,[List],[List],[List],[List],,"[No. 7-39993-3.
+Division Three.
+January 9, 1970.]
+Wilfred Kilde et al., Appellants, v. William Sorwak et al., Respondents.
+Alan A. McDonald (of Halverson, Applegate & McDonald) , for appellants.
+Norman R. Naslnem, Jr. (of Nashem, Prediletto & For-tier) , for respondents.",0742-01,766,773
+0750-01.json,1861678,"Stone Machinery Company, Appellant, v. Frank Kessler, Respondent",Stone Machinery Co. v. Kessler,12-Jan-70,No. 18-40123-3,750,759,[List],Wash. Ct. App.,8985,Washington Court of Appeals,38,Washington,Wash.,[List],877,17899,0.604,2.7151E-07,0.829665552,902f86250a923fd05000ffc9502a04c74d0793726d04d803dcf2eb3290f9fd9f,1:dfdac4375e67c6e2,3022,2/27/2024 9:01,29-Aug-19,Harvard,2018,[List],[List],[List],[List],,"[No. 18-40123-3.
+Division Three.
+January 12, 1970.]
+Stone Machinery Company, Appellant, v. Frank Kessler, Respondent.
+S. Dean Arnold and Minnick, Hahner & Hubbard, for appellant.
+E. J. Stanffil, for respondent.",0750-01,774,783
+0759-01.json,1861828,"Royal H. Goldfarb, Respondent, v. Elizabeth O. Wright et al., Appellants",Goldfarb v. Wright,12-Jan-70,No. 8-39889-1,759,766,[List],Wash. Ct. App.,8985,Washington Court of Appeals,38,Washington,Wash.,[List],651,13056,0.629,1.27007E-07,0.614576564,5c77d0ebd3a59c65b6d8f8f2a091e1ed9ccdd68339b3cc0814956c34a20e64cd,1:e2d4c59bee0ec4bc,2228,2/27/2024 9:01,29-Aug-19,Harvard,2018,[List],[List],[List],[List],,"[No. 8-39889-1.
+Division One.
+January 12, 1970.]
+Panel 1
+Royal H. Goldfarb, Respondent, v. Elizabeth O. Wright et al., Appellants.
+Murray, Dunham & Waitt and Wayne Murray, for appellants.
+Bianchi ?& Tobin and Gordon R. Tobin, for respondent.",0759-01,783,790
+0766-01.json,1861598,"Linda Case et al., Respondents, v. David H. Olwell, as Administrator, Respondent, Robin King et al., Appellants",Case v. Olwell,12-Jan-70,No. 11-39975-1,766,773,[List],Wash. Ct. App.,8985,Washington Court of Appeals,38,Washington,Wash.,[List],609,11558,0.652,5.25809E-08,0.330486835,2689e4e96a8bd35735b06183b662a1142a051dd83e1dda24a35acb3a2c96ccaa,1:a8a0f106325fd45b,1971,2/27/2024 9:01,29-Aug-19,Harvard,2018,[List],[List],[List],[List],,"[No. 11-39975-1.
+Division One.
+January 12, 1970.]
+Panel 1
+Linda Case et al., Respondents, v. David H. Olwell, as Administrator, Respondent, Robin King et al., Appellants.
+Kempton, Savage & Gossard and Anthony Savage, Jr., for appellants.
+Rutherford, Kargianis & Austin and Samuel C. Rutherford, for respondents Case et al.
+Frank J. Eberharter and Robert Ward Freedman, for respondent Olwell.",0766-01,790,797
+0773-01.json,1861826,"Old National Bank of Washington et al., Respondents, v. Kim Campbell et al., Appellants",Old National Bank v. Campbell,12-Jan-70,No. 28-40200-1,773,779,[List],Wash. Ct. App.,8985,Washington Court of Appeals,38,Washington,Wash.,[List],558,12003,0.628,9.6302E-08,0.527339239,121e0aaf4d41994a2f8acecf1a5e76a70c86222094e32eb6d53df06d4ee2bd79,1:bc316de42589201f,1982,2/27/2024 9:01,29-Aug-19,Harvard,2018,[List],[List],[List],[List],,"[No. 28-40200-1.
+Division One.
+January 12, 1970.]
+Panel 1
+Old National Bank of Washington et al., Respondents, v. Kim Campbell et al., Appellants.
+Keith, Winston & Repsold and Robert P. Beschel, for appellants.
+Witherspoon, Kelley, Davenport •& Toole and E. Glenn Harmon, for respondents.",0773-01,797,803
+0780-01.json,1861763,"Frank Leo Cakowski, Respondent, v. Raymond M. Oleson et al., Appellants",Cakowski v. Oleson,12-Jan-70,No. 38-40265-1,780,784,[List],Wash. Ct. App.,8985,Washington Court of Appeals,38,Washington,Wash.,[List],520,8822,0.616,1.2458E-07,0.60896504,24abcbd0156e7b5f505eec507f191ef1e0cffe9c862d866aef2ecec0f0f4372d,1:d940750e9bb4fa80,1542,2/27/2024 9:01,29-Aug-19,Harvard,2018,[List],[List],[List],[List],,"[No. 38-40265-1.
+Division One.
+January 12, 1970.]
+Panel 1
+Frank Leo Cakowski, Respondent, v. Raymond M. Oleson et al., Appellants.
+Murray, Dunham & Waitt and Wayne Murray, for appellants.
+Paul J. Fisher and Lowell K. Halverson, for respondent.",0780-01,804,808
+0785-01.json,1861556,"The State of Washington, Respondent, v. Wesley Whalon, Appellant",State v. Whalon,15-Jan-70,No. 36-40576-2,785,804,[List],Wash. Ct. App.,8985,Washington Court of Appeals,38,Washington,Wash.,[List],1419,36143,0.64,7.03286E-07,0.96609088,361ccf76bf3ee0215d8e6bcc892d250c267089c11e3a9911e59d47e2e7305bef,1:c225b626762f89a1,6214,2/27/2024 9:01,29-Aug-19,Harvard,2018,[List],[List],[List],[List],,"[No. 36-40576-2.
+Division Two.
+January 15, 1970.]
+The State of Washington, Respondent, v. Wesley Whalon, Appellant.
+McCormick, Hoffman, Rees & Arnold and Paul Hoffman, Jr., for appellant (appointed counsel for appeal).
+Ronald L. Hendry, Prosecuting Attorney, J. D. Mladinov, Special Counsel, Eugene G. Olson, Chief Criminal Deputy, for respondent.",0785-01,809,828
+0804-01.json,1861831,"The State of Washington, Respondent, v. Russell LaMarr Geis, Appellant",State v. Geis,15-Jan-70,No. 94-41194-2,804,805,[List],Wash. Ct. App.,8985,Washington Court of Appeals,38,Washington,Wash.,[List],99,872,0.685,4.03581E-08,0.068628518,91044eaea5085669d24c87efe57d82377a1e506c9236bb0bb4c0aeb16710c208,1:d03589fcdbd4dc9e,137,2/27/2024 9:01,29-Aug-19,Harvard,2018,[List],[List],[List],[List],,"[No. 94-41194-2.
+Division Two.
+January 15, 1970.]
+The State of Washington, Respondent, v. Russell LaMarr Geis, Appellant.
+Witt, Hutchins, Plumb & Wheeler and E. J. Wheeler, for appellant (appointed counsel for appeal).
+Ronald L. Hendry, Prosecuting Attorney, J. D. Mladinov, Special Counsel, Eugene G. Olson, Chief Criminal Deputy, for respondent.",0804-01,828,829
+0805-01.json,1861657,"Walter L. Daniels et al., Appellants, v. Pacific Northwest Bell Telephone Company et al., Respondents",Daniels v. Pacific Northwest Bell Telephone Co.,19-Jan-70,No. 19-40063-1,805,809,[List],Wash. Ct. App.,8985,Washington Court of Appeals,38,Washington,Wash.,[List],522,8867,0.649,1.34043E-07,0.631026172,26b208cc522a0c85af68897f848ed55c8467a3e95c7843a0091d91b18ad1da2e,1:d540ae647d0441f0,1462,2/27/2024 9:01,29-Aug-19,Harvard,2018,[List],[List],[List],[List],,"[No. 19-40063-1.
+Division One.
+January 19, 1970.]
+Panel 1
+Walter L. Daniels et al., Appellants, v. Pacific Northwest Bell Telephone Company et al., Respondents.
+Lenihan & Ivers and James F. McAteer, for appellants.
+Merrick, Johnson, Burgess & Hofstedt and F. Ross Burgess, for respondents.",0805-01,829,833
+0810-01.json,1861797,"Clara E. Powell, Appellant, v. The Department of Labor and Industries et al., Respondents",Powell v. Department of Labor & Industries,19-Jan-70,No. 24-40173-1,810,813,[List],Wash. Ct. App.,8985,Washington Court of Appeals,38,Washington,Wash.,[List],381,6040,0.636,4.03581E-08,0.068627553,35fca73fd94730b1e1ea3c4ec378cee256393a646855a36915bbb5609f93fe41,1:459399dd37c26e98,1016,2/27/2024 9:01,29-Aug-19,Harvard,2018,[List],[List],[List],[List],,"[No. 24-40173-1.
+Division One.
+January 19, 1970.]
+Panel 1
+Clara E. Powell, Appellant, v. The Department of Labor and Industries et al., Respondents.
+Walthew, Warner & Keefe and Gene Arron, for appellant.
+Slade Gorton, Attorney General, and Robert G. Swenson, Assistant, for respondents.",0810-01,834,837
+0813-01.json,1861784,"The State of Washington, Respondent, v. Larry Earl Hudson, Appellant",State v. Hudson,19-Jan-70,No. 35-40230-1,813,818,[List],Wash. Ct. App.,8985,Washington Court of Appeals,38,Washington,Wash.,[List],571,9238,0.642,9.50588E-08,0.519172353,92c4f263415d7b9a8d3880100a6d68d7cc7ed956373ce560a78193edf23de23e,1:8aa1461b0a6e9df0,1627,2/27/2024 9:01,29-Aug-19,Harvard,2018,[List],[List],[List],[List],,"[No. 35-40230-1.
+Division One.
+January 19, 1970.]
+Panel 1
+The State of Washington, Respondent, v. Larry Earl Hudson, Appellant.
+Kempton, Savage & Gossard and Anthony Savage, Jr., for appellant (appointed counsel for appeal).
+Charles O. Carroll, Prosecuting Attorney, and C. N. Marshall, Deputy, for respondent.",0813-01,837,842
+0818-01.json,1861824,"Herron Northwest, Incorporated, Respondent, v. Merlyn E. Danskin et al., Appellants","Herron Northwest, Inc. v. Danskin",20-Jan-70,No. 24-40375-2,818,822,[List],Wash. Ct. App.,8985,Washington Court of Appeals,38,Washington,Wash.,[List],419,6565,0.637,1.04176E-07,0.550955094,4332d0649f6a1a74c57c9ec0377011f0afed27b9096e3f1755adbf9a288b1eed,1:898641a092f829be,1088,2/27/2024 9:01,29-Aug-19,Harvard,2018,[List],[List],[List],[List],,"[No. 24-40375-2.
+Division Two.
+January 20, 1970.]
+Herron Northwest, Incorporated, Respondent, v. Merlyn E. Danskin et al., Appellants.
+Arthur & Hanley and Terence Hanley, for appellants.
+Riddell, Williams, Voorhees, Ivie & Bullitt and Robert Ivie, for respondent.",0818-01,842,846
+0822-01.json,1861620,"Leo L. Wingard, Appellant, v. George Heinkel, Jr., et al., Respondents",Wingard v. Heinkel,20-Jan-70,No. 59-40717-2,822,824,[List],Wash. Ct. App.,8985,Washington Court of Appeals,38,Washington,Wash.,[List],254,3431,0.615,7.06388E-08,0.425634661,57e6f3e9c8fc701337836b573c97d13b505ecf06262a085477abeead260b6a8d,1:f6ee1cec7a3ec5d7,554,2/27/2024 9:01,29-Aug-19,Harvard,2018,[List],[List],[List],[List],,"[No. 59-40717-2.
+Division Two.
+January 20, 1970.]
+Leo L. Wingard, Appellant, v. George Heinkel, Jr., et al., Respondents.
+Leo L. Wingard, pro se.
+Robert L. Beale, for respondents.",0822-01,846,848
+0824-01.json,1861592,"Nancy Meabon, Respondent, v. The State of Washington, Appellant",Meabon v. State,22-Jan-70,No. 2-39796-3,824,833,[List],Wash. Ct. App.,8985,Washington Court of Appeals,38,Washington,Wash.,[List],911,18017,0.643,2.03356E-07,0.746893159,3e9541f9ba75ed1c0fd9c138e77a2ad8d046235e46e4ba86c9d7686f8551ad8f,1:f677e1fc72a74175,2990,2/27/2024 9:01,29-Aug-19,Harvard,2018,[List],[List],[List],[List],,"[No. 2-39796-3.
+Division Three.
+January 22, 1970.]
+Nancy Meabon, Respondent, v. The State of Washington, Appellant.
+Slade Gorton, Attorney General, Theodore O. Torve and Joseph S. Montecucco, Assistants, for appellant.
+Robert L. Fraser (of Dano, Cone & Fraser), for respondent.",0824-01,848,857
+0834-01.json,1861796,"The State of Washington, Appellant, v. Dorothy Mae Randecker, Respondent",State v. Randecker,26-Jan-70,No. 7-540637-1,834,838,[List],Wash. Ct. App.,8985,Washington Court of Appeals,38,Washington,Wash.,[List],512,8269,0.652,7.90804E-08,0.460889612,e1b1416b632f8e965a36293bec3533ffd7fb501a070781704e9fb4f17db0be74,1:571b5e8876c443f8,1407,2/27/2024 9:01,29-Aug-19,Harvard,2018,[List],[List],[List],[List],,"[No. 7-540637-1.
+Division One.
+January 26, 1970.]
+Panel 1
+The State of Washington, Appellant, v. Dorothy Mae Randecker, Respondent.
+Charles O. Carroll, Prosecuting Attorney, and Laurence A. Mosler, Deputy, for appellant.
+Caplinger & Munn, James S. Munn, and Joel A. C. Rindal, for respondent.",0834-01,858,862
+0838-01.json,1861809,"Alison M. Mathews, Respondent, v. Francis P. Mathews, Appellant",Mathews v. Mathews,27-Jan-70,No. 34-40557-2,838,844,[List],Wash. Ct. App.,8985,Washington Court of Appeals,38,Washington,Wash.,[List],493,9310,0.639,1.5868E-07,0.681363663,cdb2c388188c7b0c314f056a6158fd19c208f9ef52c2fdcc1209e33c41771965,1:80e2f6ae7c473efe,1582,2/27/2024 9:01,29-Aug-19,Harvard,2018,[List],[List],[List],[List],,"[No. 34-40557-2.
+Division Two.
+January 27, 1970]
+Alison M. Mathews, Respondent, v. Francis P. Mathews, Appellant.
+Lynch & Lynch, and Neil Lynch, for appellant.
+Owens & Johnson, and Frank Owens, for respondent.",0838-01,862,868
+0844-01.json,1861570,"In the Matter of the Estate of Anna E. Weissenborn, Deceased",In re the Estate of Weissenborn,29-Jan-70,No. 51-40511-2,844,849,[List],Wash. Ct. App.,8985,Washington Court of Appeals,38,Washington,Wash.,[List],541,8928,0.634,4.46766E-08,0.279870371,ab082c64e49d46ab71c45536c3f9379e880c351db19e83abe39fafed23a1bdef,1:aa08e057732a8d08,1450,2/27/2024 9:01,29-Aug-19,Harvard,2018,[List],[List],[List],[List],,"[No. 51-40511-2.
+Division Two.
+January 29, 1970.]
+In the Matter of the Estate of Anna E. Weissenborn, Deceased.
+Asmundson, Rhea & Atwood and David E. Rhea, for appellant.
+Schumacher '& Charette, John W. Schumacher, Parker & Johnson, and Ingram, Zelasko & Goodwin, for respondent.",0844-01,868,873
+0849-01.json,1861787,"George I. Walters et al., Respondents, v. Patricia D. Walters, Appellant",Walters v. Walters,29-Jan-70,No. 57-40663-2,849,853,[List],Wash. Ct. App.,8985,Washington Court of Appeals,38,Washington,Wash.,[List],364,6773,0.615,5.59869E-08,0.3508442,97807fd160f66b54fa765ac83307df026d6980ea38110fd1e078673bcf121958,1:c5d70c182ee9adc3,1127,2/27/2024 9:01,29-Aug-19,Harvard,2018,[List],[List],[List],[List],,"[No. 57-40663-2.
+Division Two.
+January 29, 1970.]
+George I. Walters et al., Respondents, v. Patricia D. Walters, Appellant.
+Charles B. Welsh, for appellant.
+Eisenhower, Carlson, Newlands, Reha & Sinnitt and Ronald A. Roberts, for respondents.",0849-01,873,877
+0853-01.json,1861554,"The State of Washington, Respondent, v. Robert William Nicholson, Appellant",State v. Nicholson,30-Jan-70,No. 106-40682-2,853,855,[List],Wash. Ct. App.,8985,Washington Court of Appeals,38,Washington,Wash.,[List],270,3653,0.609,6.31303E-08,0.388285379,166bc32bf4b4a047e050f9720d0435f2150d5f5bd06df07a825795ec07e3aee9,1:d175c330eb96844f,593,2/27/2024 9:01,29-Aug-19,Harvard,2018,[List],[List],[List],[List],,"[No. 106-40682-2.
+Division Two.
+January 30, 1970.]
+The State of Washington, Respondent, v. Robert William Nicholson, Appellant.
+Robert G. Kerr, for appellant (appointed counsel for appeal) .
+Ronald, L. Hendry, Prosecuting Attorney, Joseph D. Mladinov, Special Counsel, and Eugene G. Olson, Chief Criminal Deputy, for respondent.",0853-01,877,879
+0856-01.json,1861675,"Robert Eugene Johnson, Appellant, v. Carl L. Peterson, as Sheriff of Pierce County, Respondent",Johnson v. Peterson,30-Jan-70,No. 172-2,856,859,[List],Wash. Ct. App.,8985,Washington Court of Appeals,38,Washington,Wash.,[List],345,5457,0.632,5.84289E-08,0.362907451,64bfd24129b8de0e0bb7165a5e99c2af87fffa0501fa413308b987b9eae885ae,1:f05fc92adb7ac56e,919,2/27/2024 9:01,29-Aug-19,Harvard,2018,[List],[List],[List],[List],,"[No. 172-2.
+Division Two.
+January 30, 1970.]
+Robert Eugene Johnson, Appellant, v. Carl L. Peterson, as Sheriff of Pierce County, Respondent.
+Don R. Smith, for appellant.
+Ronald L. Hendry, Prosecuting Attorney, Joseph D. Mladinov, Special Counsel, and Eugene G. Olson, Chief Criminal Deputy, for respondent.",0856-01,880,883
+0859-01.json,1861807,"Blanche L. Furgason, Respondent, v. Ival R. Furgason, Appellant",Furgason v. Furgason,2-Feb-70,No. 90-40047-1,859,861,[List],Wash. Ct. App.,8985,Washington Court of Appeals,38,Washington,Wash.,[List],268,3373,0.639,2.4474E-07,0.803707861,68ac212cde08f97562a96dab5e2db69065a92e0d48dbd4888854a449af94f9d5,1:e742f32a5c080ee8,564,2/27/2024 9:01,29-Aug-19,Harvard,2018,[List],[List],[List],[List],,"[No. 90-40047-1.
+Division One.
+February 2, 1970.]
+Panel 1
+Blanche L. Furgason, Respondent, v. Ival R. Furgason, Appellant.
+Jack Steinberg, for appellant.
+Delay & Curran and Neil E. Johnson, for respondent.",0859-01,883,885
+0863-01.json,1861643,"James L. Teitzel, as Executor, Appellant, v. Gilbert C. Valley, as Administrator, Respondent",Teitzel v. Valley,5-Feb-70,No. 130-40895-2,863,870,[List],Wash. Ct. App.,8985,Washington Court of Appeals,38,Washington,Wash.,[List],612,14231,0.643,4.03581E-08,0.068624657,910536a6b8bee1bb6d1a4b4326924e423fc23b2ff70c48bdf67ec251f4223966,1:2a2e9906641ebe59,2428,2/27/2024 9:01,29-Aug-19,Harvard,2018,[List],[List],[List],[List],,"[No. 130-40895-2.
+Division Two.
+February 5, 1970.]
+James L. Teitzel, as Executor, Appellant, v. Gilbert C. Valley, as Administrator, Respondent.
+Searle & Baker and Brian M. Baker, for appellant.
+Nordquist & Olson and Dale M. Nordquist for respondent.",0863-01,887,894
+0871-01.json,1861719,"Madeline Morse, Appellant, v. Arthur Frank et al., Respondents",Morse v. Frank,6-Feb-70,No. 112-40875-2,871,874,[List],Wash. Ct. App.,8985,Washington Court of Appeals,38,Washington,Wash.,[List],370,5389,0.642,4.7493E-08,0.297768132,c6ae386959a5934a82ddb8e59ae2fb5e4cdc046f185e72ccd5a8de52bac99dc6,1:9967421b1dc654f1,878,2/27/2024 9:01,29-Aug-19,Harvard,2018,[List],[List],[List],[List],,"[No. 112-40875-2.
+Division Two.
+February 6, 1970.]
+Madeline Morse, Appellant, v. Arthur Frank et al., Respondents.
+Erickson & Worthington and Harvey Erickson, for appellant.
+Irwin, Friel & Myklebust and Kenneth B. Myklebust, for respondents.",0871-01,895,898
+0874-01.json,1861613,"Harold F. Diel et al., Appellants, v. Hilkeline G. Beekman, Respondent; Hilkeline G. Beekman, Respondent, v. Harold F. Diel et al., Appellants",Diel v. Beekman,9-Feb-70,No. 31-40213-1,874,881,[List],Wash. Ct. App.,8985,Washington Court of Appeals,38,Washington,Wash.,[List],715,12556,0.635,3.65482E-07,0.890243987,9a8bd323398bad6170b3fc8acf36ee5b9445f78ebe606454aeaca591ad0568f9,1:0763da9295b3a5a4,2108,2/27/2024 9:01,29-Aug-19,Harvard,2018,[List],[List],[List],[List],,"[No. 31-40213-1.
+Division One.
+February 9, 1970.]
+Panel 1
+Harold F. Diel et al., Appellants, v. Hilkeline G. Beekman, Respondent. Hilkeline G. Beekman, Respondent, v. Harold F. Diel et al., Appellants.
+Clodfelter, Lindell & Carr and Allen Lane Carr, for appellants.
+Black, Christensen & Nielsen, Andrew T. Nielsen, and Rodney Boddington, for respondent.",0874-01,898,905
+0881-01.json,1861559,"National Bank of Commerce, Respondent, v. Henry Backstrom et al., Appellants",National Bank of Commerce v. Backstrom,9-Feb-70,No. 129-40935-1,881,883,[List],Wash. Ct. App.,8985,Washington Court of Appeals,38,Washington,Wash.,[List],238,2876,0.637,7.12604E-08,0.427855639,1dbf464fd9d703109e5e4fc15872bab1979147452c9bc723a8da4c745ef22a76,1:a2e4d27ebf84b55c,480,2/27/2024 9:01,29-Aug-19,Harvard,2018,[List],[List],[List],[List],,"[No. 129-40935-1.
+Division One.
+February 9, 1970.]
+Panel 1
+National Bank of Commerce, Respondent, v. Henry Backstrom et al., Appellants.
+Bell, Ingram, Smith, Johnson & Level and Richard B. Johnson, for appellants.
+Mucklestone & Mucklestone and John P. Mucklestone, for respondent.",0881-01,905,907
+0883-01.json,1861724,"Adolph Hoffman et al., Respondents, v. Euclid W. Gamache et al., Appellants",Hoffman v. Gamache,10-Feb-70,No. 70-40745-3,883,892,[List],Wash. Ct. App.,8985,Washington Court of Appeals,38,Washington,Wash.,[List],797,16575,0.636,1.05419E-07,0.554910923,33dc0f82632edca03955042c739652f95e7e5714840387f39c59fdd982e50c4a,1:762f850e244caa7c,2760,2/27/2024 9:01,29-Aug-19,Harvard,2018,[List],[List],[List],[List],,"[No. 70-40745-3.
+Division Three.
+February 10, 1970.]
+Adolph Hoffman et al., Respondents, v. Euclid W. Gamache et al., Appellants.
+Kenneth C. Hawkins, for appellants.
+Arthur Kirschenmann, for respondents.",0883-01,907,916
+0892-01.json,1861830,"M. Aileen Culligan, Respondent, v. Old National Bank of Washington, as Executor, Appellant",Culligan v. Old National Bank,11-Feb-70,No. 38-40195-3,892,897,[List],Wash. Ct. App.,8985,Washington Court of Appeals,38,Washington,Wash.,[List],563,9378,0.614,4.94749E-08,0.310713289,1f12dd7988d31f415fce096f85ee0d645c75b0e585ebbcaca3baa8e54741af58,1:2b7b59526ef39cc0,1550,2/27/2024 9:01,29-Aug-19,Harvard,2018,[List],[List],[List],[List],,"[No. 38-40195-3.
+Division Three.
+February 11, 1970.]
+M. Aileen Culligan, Respondent, v. Old National Bank of Washington, as Executor, Appellant.
+Bernard J. Gallagher and George W. Young, for appellant.
+Hamblen, Gilbert & Brooke and Wm. F. Nielsen, for respondent.",0892-01,916,921
+0898-01.json,1861778,"Cora I. Strong et al., Appellants, v. Seattle Stevedore Company, Respondent",Strong v. Seattle Stevedore Co.,11-Feb-70,No. 43-40217-2,898,905,[List],Wash. Ct. App.,8985,Washington Court of Appeals,38,Washington,Wash.,[List],652,13401,0.648,2.00035E-07,0.742895435,37b0c212d9c469e9ce7b3412c410f651fbeb7edb7d41232b663d602ad1206db3,1:2684130f91b79d5d,2327,2/27/2024 9:01,29-Aug-19,Harvard,2018,[List],[List],[List],[List],,"[No. 43-40217-2.
+Division Two.
+February 11, 1970.]
+Cora I. Strong et al., Appellants, v. Seattle Stevedore Company, Respondent.
+Donald H. McGavick, for appellants.
+Paul A. Goodin, for respondent.",0898-01,922,929
+0905-01.json,1861790,"Janice Cacek, Appellant, v. Theodore E. Boucher et al., Respondents",Cacek v. Boucher,11-Feb-70,No. 55-40603-2,905,908,[List],Wash. Ct. App.,8985,Washington Court of Appeals,38,Washington,Wash.,[List],380,6143,0.639,4.03581E-08,0.06862736,b18bd24cd1b3607d24826fcacdb1956ae7334f51e3f0270a53be24de774c22f0,1:55c22c02dc523dda,1047,2/27/2024 9:01,29-Aug-19,Harvard,2018,[List],[List],[List],[List],,"[No. 55-40603-2.
+Division Two.
+February 11, 1970.]
+Janice Cacek, Appellant, v. Theodore E. Boucher et al., Respondents.
+Joseph J. Roller, for appellant.
+Anderson & Bingham and Murray J. Anderson, for respondents.",0905-01,929,932
+0909-01.json,1861680,"Robert S. Johnson et al., Appellants, v. D. M. Layman et al., Respondents",Johnson v. Layman,13-Feb-70,No. 57-40562-3,909,915,[List],Wash. Ct. App.,8985,Washington Court of Appeals,38,Washington,Wash.,[List],634,12365,0.636,5.67683E-08,0.354764699,09713bda7a0b91c4679c76c51c88fc90c6e83142fc6cba6418fa9bebc7379f77,1:b4600a8ab94e3e9f,2131,2/27/2024 9:01,29-Aug-19,Harvard,2018,[List],[List],[List],[List],,"[No. 57-40562-3.
+Division Three.
+February 13, 1970.]
+Robert S. Johnson et al., Appellants, v. D. M. Layman et al., Respondents.
+Alf M. Jacobsen, for appellants.
+Velikanje, Moore •& Countryman and John Moore, for respondents.",0909-01,933,939
+0916-01.json,1861842,"Richard Berg, Appellant, v. Arthur Stromme et al., Respondents",Berg v. Stromme,4-Feb-70,No. 26-40331-3,916,926,[List],Wash. Ct. App.,8985,Washington Court of Appeals,38,Washington,Wash.,[List],1143,21060,0.659,5.00112E-08,0.313786055,22a956f8c83807bf8aa027a63d82c93ecdae1dd04068895bcb4388ca686f5d72,1:9502c0bbf04002a3,3466,2/27/2024 9:01,29-Aug-19,Harvard,2018,[List],[List],[List],[List],,"[No. 26-40331-3.
+Division Three.
+February 4, 1970.]
+Richard Berg, Appellant, v. Arthur Stromme et al., Respondents.
+Horton, Wilkins •& Horton and Hugh B. Horton, for appellant.
+Peterson, Taylor ?& Day and Stanley D. Taylor, for respondents.",0916-01,940,950
+0927-01.json,1861659,"Janet G. Black, Appellant, v. Western Life Insurance Company, Respondent",Black v. Western Life Insurance,16-Feb-70,No. 140-40454-1,927,930,[List],Wash. Ct. App.,8985,Washington Court of Appeals,38,Washington,Wash.,[List],389,6351,0.64,6.77085E-08,0.411527081,80fec4674c3a578c77ac3877463ac4ee554c98ea185b52ecdc2fa26a29215fb1,1:04c0a2f47f1d3551,1102,2/27/2024 9:01,29-Aug-19,Harvard,2018,[List],[List],[List],[List],,"[No. 140-40454-1.
+Division One.
+February 16, 1970.]
+Panel 1
+Janet G. Black, Appellant, v. Western Life Insurance Company, Respondent.
+John R. Kramer, for appellant.
+Davies, Pearson, Anderson, Pearson & Gadbow and Vincent Gadbow, for respondent.",0927-01,951,954
+0931-01.json,1861581,"In the Matter of the Application for a Writ of Habeas Corpus of Mark Edwin Cook, Petitioner, v. B. J. Rhay, Respondent",Cook v. Rhay,16-Feb-70,No. 87-40653-1,931,934,[List],Wash. Ct. App.,8985,Washington Court of Appeals,38,Washington,Wash.,[List],357,6474,0.623,6.14925E-08,0.382232709,8de1747f78a04d6495fd11e08f2f7a2248b34f1d6c43c98557d776dce54192af,1:28fa0c742062d258,1134,2/27/2024 9:01,29-Aug-19,Harvard,2018,[List],[List],[List],[List],,"[No. 87-40653-1.
+Division One.
+February 16, 1970.]
+Panel 1
+In the Matter of the Application for a Writ of Habeas Corpus of Mark Edwin Cook, Petitioner, v. B. J. Rhay, Respondent.
+Mark Edwin Cook, pro se.
+Slade Gorton, Attorney General, and Lee D. Rickabaugh, Assistant, for respondent.",0931-01,955,958
+0935-01.json,1861705,"Lee Hurst, Respondent, v. John Struthers, Appellant",Hurst v. Struthers,16-Feb-70,No. 39-40207-3,935,939,[List],Wash. Ct. App.,8985,Washington Court of Appeals,38,Washington,Wash.,[List],446,8492,0.628,3.452E-07,0.880219078,3db857f01a89f57d2fe255836fa8a6cef727e21a4e18d08fc638a01488beaf87,1:f7280528c53c915b,1433,2/27/2024 9:01,29-Aug-19,Harvard,2018,[List],[List],[List],[List],,"[No. 39-40207-3.
+Division Three.
+February 16, 1970.]
+Lee Hurst, Respondent, v. John Struthers, Appellant.
+Gavin, Robinson, Kendrick, Redman & Mays, John Gavin, and G. William Baker, for appellant.
+Kenneth C. Hawkins, for respondent.",0935-01,959,963
+0939-01.json,1861844,"John Nowoj et al., Plaintiff, v. Walter F. Mulalley et al., Respondents and Cross-appellants, C. D. McCargar, Appellant; A. M. Flerchinger, Plaintiff, v. Walter F. Mulalley et al., Respondents and Cross-appellants, C. D. McCargar, Appellant; Cash's Plumbing and Heating, Inc., Plaintiff, v. George Jamieson, Defendant, Walter F. Mulalley et al., Respondents and Cross-appellants, C. D. McCargar, Appellant",Nowoj v. Mulalley,17-Feb-70,No. 43-40336-3,939,943,[List],Wash. Ct. App.,8985,Washington Court of Appeals,38,Washington,Wash.,[List],445,7330,0.63,2.74309E-07,0.832106621,1b7f6cc9905fcec8a47eec8b077c65e5cef78a18786ccfb20b1dedc4b01dbb08,1:64d002c530c47b49,1183,2/27/2024 9:01,29-Aug-19,Harvard,2018,[List],[List],[List],[List],,"[No. 43-40336-3.
+Division Three.
+February 17, 1970.]
+John Nowoj et al., Plaintiff, v. Walter F. Mulalley et al., Respondents and Cross-appellants, C. D. McCargar, Appellant. A. M. Flerchinger, Plaintiff, v. Walter F. Mulalley et al., Respondents and Cross-appellants, C. D. McCargar, Appellant. Cash’s Plumbing and Heating, Inc., Plaintiff, v. George Jamieson, Defendant, Walter F. Mulalley et al., Respondents and Cross-appellants, C. D. McCargar, Appellant.
+Irwin, Friel & Myklebust and Jon C. McConnell, for appellant.
+Erickson & Worthington, Harvey Erickson, and Henry Felton, for respondents and cross-appellants.",0939-01,963,967
+0944-01.json,1861811,"The State of Washington, Respondent, v. J. R. Leasing Co., Inc., et al., Appellants",State v. J. R. Leasing Co.,19-Feb-70,No. 128-40794-2,944,947,[List],Wash. Ct. App.,8985,Washington Court of Appeals,38,Washington,Wash.,[List],413,6653,0.627,7.36513E-08,0.44176842,fcef150c0c90c5f8ed54f67cfaa0f64faddb9426bfe7674c5cefd867ba54eee0,1:f322ee92c74417f6,1091,2/27/2024 9:01,29-Aug-19,Harvard,2018,[List],[List],[List],[List],,"[No. 128-40794-2.
+Division Two.
+February 19, 1970.]
+The State of Washington, Respondent, v. J. R. Leasing Co., Inc., et al., Appellants.
+Coons & Harrod and Curtis H. Coons, for appellants.
+Slade Gorton, Attorney General, and Theodore O. Torve, Assistant, for respondent.",0944-01,968,971
+0948-01.json,1861572,"Ruth Webley, Appellant, v. Adams Tractor Company, Defendant, New Holland Machine Company, Respondent",Webley v. Adams Tractor Co.,20-Feb-70,No. 58-40586-3,948,950,[List],Wash. Ct. App.,8985,Washington Court of Appeals,38,Washington,Wash.,[List],267,3578,0.623,8.19434E-08,0.475819054,a83c17d531342028d3e3513ad7a0f4be1a47c1557c809bf85e6b24cecc465183,1:6ecec13044a415a6,563,2/27/2024 9:01,29-Aug-19,Harvard,2018,[List],[List],[List],[List],,"[No. 58-40586-3.
+Division Three.
+February 20, 1970.]
+Ruth Webley, Appellant, v. Adams Tractor Company, Defendant, New Holland Machine Company, Respondent.
+Ned W. Kimball (of Kimball & Clark), for appellant.
+Arthur Lundin (of Randall & Danskin), for respondent.",0948-01,972,974
+0950-01.json,1861769,"Martin-Morris Agency, Inc., Respondent, v. Everett Mietzner et al., Appellants","Martin-Morris Agency, Inc. v. Mietzner",24-Feb-70,No. 59-40598-3,950,956,[List],Wash. Ct. App.,8985,Washington Court of Appeals,38,Washington,Wash.,[List],552,10876,0.606,9.28848E-08,0.512145689,21d790d5277a0e486baced78d79330b06a99cce880f9a9e4e014022c3b6a57d1,1:ceb7fb1405e0bc9b,1776,2/27/2024 9:01,29-Aug-19,Harvard,2018,[List],[List],[List],[List],,"[No. 59-40598-3.
+Division Three.
+February 24, 1970.]
+Martin-Morris Agency, Inc., Respondent, v. Everett Mietzner et al., Appellants.
+Randolph S. Palmer, for appellants.
+James D. Kendall, for respondent.",0950-01,974,980
+0956-01.json,1861666,"A. Lowden Johnson, Respondent, v. E. B. Miller et al., Appellants",Johnson v. Miller,24-Feb-70,No. 61-40621-3,956,958,[List],Wash. Ct. App.,8985,Washington Court of Appeals,38,Washington,Wash.,[List],382,5222,0.637,4.78173E-08,0.299997992,416d4422f10ba280bc7e77db327b2f76b55ae325de2ed4f47f342cf6b7e1c26c,1:a2ede27a6eeb0d7c,882,2/27/2024 9:01,29-Aug-19,Harvard,2018,[List],[List],[List],[List],,"[No. 61-40621-3.
+Division Three.
+February 24, 1970.]
+A. Lowden Johnson, Respondent, v. E. B. Miller et al., Appellants.
+heavy, Taber & Schultz and James heavy, for appellants.
+Minnick, Hahner & Hubbard and W. h. Minnick, for respondent.",0956-01,980,982
+0959-01.json,1861773,"American Aviation, Inc., et al., Appellants, v. David Hinds et al., Respondents; David Hinds et al., Respondents, v. American Aviation, Inc., et al., Appellants","American Aviation, Inc. v. Hinds",24-Feb-70,No. 98-40450-1,959,962,[List],Wash. Ct. App.,8985,Washington Court of Appeals,38,Washington,Wash.,[List],441,6474,0.639,1.52064E-07,0.66923728,cec5f6d60c8353424b22ba6c7b1ce79f6d3d7af60bb5e7ab4974ebb637f398df,1:e07fb7782a5a6904,1125,2/27/2024 9:01,29-Aug-19,Harvard,2018,[List],[List],[List],[List],,"[No. 98-40450-1.
+Division One.
+February 24, 1970.]
+Panel 1
+American Aviation, Inc., et al., Appellants, v. David Hinds et al., Respondents. David Hinds et al., Respondents, v. American Aviation, Inc., et al., Appellants.
+Murray, Dunham & Waitt and Robert K. Waitt, for appellants.
+Wolf, Cafferty & Wilkins and Martin L. Wolf, for respondents.",0959-01,983,986
+0963-01.json,1861765,"Virginia F. Rehak, Respondent, v. Lewis F. Rehak, Appellant",Rehak v. Rehak,24-Feb-70,No. 106-40584-1,963,967,[List],Wash. Ct. App.,8985,Washington Court of Appeals,38,Washington,Wash.,[List],511,7809,0.622,8.58857E-07,0.976861199,6a54a62437213d445cf1504fbfc413f70e8398dcc6b3c8972c0648133f8a848a,1:138ae62e2f0af5b8,1310,2/27/2024 9:01,29-Aug-19,Harvard,2018,[List],[List],[List],[List],,"[No. 106-40584-1.
+Division One.
+February 24, 1970.]
+Panel 2
+Virginia F. Rehak, Respondent, v. Lewis F. Rehak, Appellant.
+Moore, Walstead, Hallowell & Mertsching and Jerome Walstead, for appellant.
+Calbom, Walker, Cox & Andrews and Milton Cox, for respondent.",0963-01,987,991
+0968-01.json,1861772,"King County Central Blood Bank, Appellant, v. United Biologic Corp., Respondent",King County Central Blood Bank v. United Biologic Corp.,24-Feb-70,No. 207-40560-1,968,970,[List],Wash. Ct. App.,8985,Washington Court of Appeals,38,Washington,Wash.,[List],344,4457,0.622,4.54863E-08,0.284894216,b6f28841677a28ed69415c3b444a8ab9435693edb632e5fb7df723b1fe56c76e,1:06bcd0e6b3cac12a,708,2/27/2024 9:01,29-Aug-19,Harvard,2018,[List],[List],[List],[List],,"[No. 207-40560-1.
+Division One.
+February 24, 1970.]
+Panel 1
+King County Central Blood Bank, Appellant, v. United Biologic Corp., Respondent.
+Madden & Poliak and William J. Madden, for appellant.
+Aiken, St. Louis & Siljeg and Charles E. Siljeg, for respondent.",0968-01,992,994
+0971-01.json,1861794,"The State of Washington, Respondent, v. Charles W. Travis, Appellant",State v. Travis,24-Feb-70,No. 213-40781-1,971,975,[List],Wash. Ct. App.,8985,Washington Court of Appeals,38,Washington,Wash.,[List],541,8739,0.624,1.85747E-07,0.724393391,0025727504f7992d30a5910ad7466c2b7959cb57d9b419a56d64f2a0b66c330a,1:83d241dc0a82e4d0,1452,2/27/2024 9:01,29-Aug-19,Harvard,2018,[List],[List],[List],[List],,"[No. 213-40781-1.
+Division One.
+February 24, 1970.]
+Panel 1
+The State of Washington, Respondent, v. Charles W. Travis, Appellant.
+Cushman, Thomas -& Holt and R. M. Holt, for appellant.
+Charles O. Carroll, Prosecuting Attorney, and Patricia G. Harber, Deputy, for respondent.",0971-01,995,999
+0976-01.json,1861695,"The State of Washington, Respondent, v. Joe P. Granville, Appellant",State v. Granville,24-Feb-70,No. 242-41132-1,976,978,[List],Wash. Ct. App.,8985,Washington Court of Appeals,38,Washington,Wash.,[List],294,3739,0.621,6.15753E-08,0.382620184,8275f82d29058930588af89bd31b2a297844d8ea5008dfdb76fcbeeebc35e0f9,1:4be3b0563ef14bb6,619,2/27/2024 9:01,29-Aug-19,Harvard,2018,[List],[List],[List],[List],,"[No. 242-41132-1.
+Division One.
+February 24, 1970.]
+Panel 1
+The State of Washington, Respondent, v. Joe P. Granville, Appellant.
+Lowell K. Halverson, for appellant (appointed counsel for appeal).
+Charles O. Carroll, Prosecuting Attorney, and David W. Hotchkin, Deputy, for respondent.",0976-01,1000,1002
+0978-01.json,1861745,"William J. McAllister et al., Respondents, v. Pier 67, Inc., et al., Appellants","McAllister v. Pier 67, Inc.",24-Feb-70,No. 277-40887-1,978,986,[List],Wash. Ct. App.,8985,Washington Court of Appeals,38,Washington,Wash.,[List],745,15886,0.618,8.76398E-08,0.495276366,51045d9d11bfe468df86b44156cd0c5b2da5e395409637c592aad2b8a1d97f36,1:f4df40aadfb2ca43,2705,2/27/2024 9:01,29-Aug-19,Harvard,2018,[List],[List],[List],[List],,"[No. 277-40887-1.
+Division One.
+February 24, 1970.]
+Panel 2
+William J. McAllister et al., Respondents, v. Pier 67, Inc., et al., Appellants.
+Guttormsen, Scholfield, Willits & Ager and Douglas K. Haughton, for appellants.
+Wettrick, Toulouse, Lirhus & Hove and Arnold J. Barer, for respondents.",0978-01,1002,1010
+0987-01.json,1861560,"The State of Washington, Respondent, v. John T. Brakes, Jr., et al., Appellants",State v. Brakes,24-Feb-70,"Nos. 154-40482, 225-40788, 40790-1",987,992,[List],Wash. Ct. App.,8985,Washington Court of Appeals,38,Washington,Wash.,[List],578,9775,0.639,1.55141E-07,0.674696092,a1addbac397e27939bacaa78cda4239aac2d866f5a3a39bb289261cbe0095207,1:225d0745691ad641,1640,2/27/2024 9:01,29-Aug-19,Harvard,2018,[List],[List],[List],[List],,"[Nos. 154-40482, 225-40788, 40790-1.
+Division One.
+February 24, 1970.]
+Panel 1
+The State of Washington, Respondent, v. John T. Brakes, Jr., et al., Appellants.
+Frank L. Sullivan, for appellant Brakes (appointed counsel for appeal).
+John W. Rusden, for appellant Lewis (appointed counsel for appeal).
+Talbot, Smith & Stone and Edwin S. Stone, for appellant Parker (appointed counsel for appeal).
+Charles O. Carroll, Prosecuting Attorney, Gerald M. Lorentson and John E. Nelson, Deputies, for respondent.",0987-01,1011,1016
+0993-01.json,1861804,"In the Matter of the Estate of Guy E. Moulton, Deceased. National Bank of Commerce of Seattle, Appellant, v. Pearl Mercer et al., Respondents",National Bank of Commerce v. Mercer,25-Feb-70,No. 69-40690-3,993,1001,[List],Wash. Ct. App.,8985,Washington Court of Appeals,38,Washington,Wash.,[List],799,16022,0.649,4.03581E-08,0.068627746,36c015364ee69b57111e7dfe8699a01470fd285f3d69f3857ef70ebbf1d748a2,1:8629358fa9baa0dc,2695,2/27/2024 9:01,29-Aug-19,Harvard,2018,[List],[List],[List],[List],,"[No. 69-40690-3.
+Division Three.
+February 25, 1970.]
+In the Matter of the Estate of Guy E. Moulton, Deceased. National Bank of Commerce of Seattle, Appellant, v. Pearl Mercer et al., Respondents.
+Engst, Phelps & Young and Edward T. Engst, for appellant.
+Kimball & Clark, for respondent Mercer.
+Frederick M. Crollard, Jr., for respondents United Protestant Church of Mansfield et al.",0993-01,1017,1025
+1001-01.json,1861792,"The State of Washington, Respondent, v. Paul Wilson, Appellant",State v. Wilson,25-Feb-70,No. 95-40879-3,1001,1006,[List],Wash. Ct. App.,8985,Washington Court of Appeals,38,Washington,Wash.,[List],575,9076,0.637,1.11697E-07,0.572510405,9e4ebca10d2f23720bc8ce85d95a9241ffab400fef23bf1374a1ff1481247760,1:c89271ea3c2648a1,1518,2/27/2024 9:01,29-Aug-19,Harvard,2018,[List],[List],[List],[List],,"[No. 95-40879-3.
+Division Three.
+February 25, 1970.]
+The State of Washington, Respondent, v. Paul Wilson, Appellant.
+Dellwo, Rudolf & Grant and William J. Grant, for appellant.
+Donald C. Brockett, Prosecuting Attorney, and LeRoy C. Kinnie, Deputy, for respondent.",1001-01,1025,1030
+1007-01.json,1861816,"The State of Washington, Appellant, v. George D. Maloney, Jr., et al., Respondents",State v. Maloney,26-Feb-70,No. 104-41140-3,1007,1009,[List],Wash. Ct. App.,8985,Washington Court of Appeals,38,Washington,Wash.,[List],313,4466,0.618,8.24233E-08,0.477610085,cf7dff04ebe66c39983ce93726e4bfb16d68e177d5cfef0b1af85293c53ed9c9,1:9555b49c024d10ac,732,2/27/2024 9:01,29-Aug-19,Harvard,2018,[List],[List],[List],[List],,"[No. 104-41140-3.
+Division Three.
+February 26, 1970.]
+The State of Washington, Appellant, v. George D. Maloney, Jr., et al., Respondents.
+Donald C. Brockett, Prosecuting Attorney, and Philip E. Rosellini, Deputy, for appellant.
+Samuel W. Fancher, for respondents.",1007-01,1031,1033
+1010-01.json,1861555,"In the Matter of the Application for a Writ of Habeas Corpus of Ross R. Miller, Petitioner, v. B. J. Rhay, as Superintendent of the State Penitentiary, Respondent",Miller v. Rhay,26-Feb-70,No. 71-41263-2,1010,1013,[List],Wash. Ct. App.,8985,Washington Court of Appeals,38,Washington,Wash.,[List],446,7011,0.626,1.98329E-07,0.740855548,3ca6028f6eeeded34661affea5b0f40a905dd9b6b307fa366b3f984a6207afb1,1:4dae89ea2c8bea88,1171,2/27/2024 9:01,29-Aug-19,Harvard,2018,[List],[List],[List],[List],,"[No. 71-41263-2.
+Division Two.
+February 26, 1970.]
+In the Matter of the Application for a Writ of Habeas Corpus of Ross R. Miller, Petitioner, v. B. J. Rhay, as Superintendent of the State Penitentiary, Respondent.
+Ross R. Miller, pro se.
+Slade Gorton, Attorney General, and Wm. L. Britton, Assistant, for respondent.",1010-01,1034,1037
+1014-01.json,1861821,"Matt Naranen et al., Appellants, v. Charles W. Harders et al., Respondents",Naranen v. Harders,26-Feb-70,No. 56-40655-2,1014,1022,[List],Wash. Ct. App.,8985,Washington Court of Appeals,38,Washington,Wash.,[List],856,16643,0.629,1.90424E-07,0.730696655,feabb9453631b3456a896c7dda66ca4742554bb3ad125f053033f2d8094d8506,1:fe67a4851c746d52,2806,2/27/2024 9:01,29-Aug-19,Harvard,2018,[List],[List],[List],[List],,"[No. 56-40655-2.
+Division Two.
+February 26, 1970.]
+Matt Naranen et al., Appellants, v. Charles W. Harders et al., Respondents.
+Consolidated actions for personal injuries. Plaintiffs appeal from a judgment entered on a verdict in favor of the defendants.
+Ingram, Zelasko & Goodwin and Richard E. Goodwin, for appellants Naranen.
+Lester Stritmatter, for appellants Frankie.
+Schumacher & Charette and Robert L. Charette, for respondents.",1014-01,1038,1046
+1023-01.json,1861611,"Wayne C. Harris et al., Respondents, v. Arnold Turner et al., Appellants",Harris v. Turner,27-Feb-70,No. 44-40278-2,1023,1032,[List],Wash. Ct. App.,8985,Washington Court of Appeals,38,Washington,Wash.,[List],811,17413,0.643,1.08516E-07,0.563476095,767ac6afb26e57499bf45161b4d3963ce567f03dbd1e1f8c1893960cf19fa7d9,1:0dcb581bfa55dd92,2950,2/27/2024 9:01,29-Aug-19,Harvard,2018,[List],[List],[List],[List],,"[No. 44-40278-2.
+Division Two.
+February 27, 1970.]
+Wayne C. Harris et al., Respondents, v. Arnold Turner et al., Appellants.
+Murray, Scott, McGavick & Graves and James R. Lowry, for appellants Turner.
+Hammermaster & Robbins and Charles E. Robbins, for appellants Possenti.
+Jacobs, Steiner & Smith and Edmund F. Jacobs, for respondents.",1023-01,1047,1056
+1033-01.json,1861802,"William H. Sinclair, Appellant, v. Roy A. Betlach et al., Respondents",Sinclair v. Betlach,2-Mar-70,No. 122-40171-2,1033,1034,[List],Wash. Ct. App.,8985,Washington Court of Appeals,38,Washington,Wash.,[List],220,2754,0.624,1.44407E-07,0.653767073,f43e919493690e1e82f3c4c6fc860bd4fb78a719e8a93d5c0aad4793bf00a927,1:aa6f5a370e8e2d39,446,2/27/2024 9:01,29-Aug-19,Harvard,2018,[List],[List],[List],[List],,"[No. 122-40171-2.
+Division Two.
+March 2, 1970.]
+William H. Sinclair, Appellant, v. Roy A. Betlach et al., Respondents.
+Leslie L. Woods, for appellant.
+Quackenbush, Dean & Smith and Jack R. Dean, for respondents.",1033-01,1057,1058
+1035-01.json,1861834,"Tucci & Sons, Inc., Appellant, v. Carl T. Madsen, Inc., Respondent","Tucci & Sons, Inc. v. Carl T. Madsen, Inc.",2-Mar-70,No. 33-40530-2,1035,1043,[List],Wash. Ct. App.,8985,Washington Court of Appeals,38,Washington,Wash.,[List],848,16364,0.643,3.32108E-07,0.873027346,90f8580e1d3c8b6728ba7c8c06d0b282a79fc56dd3c164e17fa1f2b59399b0f8,1:9cb196c69076acd7,2594,2/27/2024 9:01,29-Aug-19,Harvard,2018,[List],[List],[List],[List],,"[No. 33-40530-2.
+Division Two.
+March 2, 1970.]
+Tucci & Sons, Inc., Appellant, v. Carl T. Madsen, Inc., Respondent.
+Rush, Lynch & Wolf and W. Gerald Lynch, for appellant.
+Hager & Young and Wallace B. Hager, for respondent.",1035-01,1059,1067
+1044-01.json,1861607,"The State of Washington, Respondent, v. Tommy Edward Basford, Appellant",State v. Basford,2-Mar-70,No. 107-40752-2,1044,1051,[List],Wash. Ct. App.,8985,Washington Court of Appeals,38,Washington,Wash.,[List],769,13693,0.642,1.61738E-07,0.686652581,2caf0c72ac7940da7eef94d5cdef4c67e336f50b3a372c69fbdd4dc69ead0c58,1:20e2d2fae34e0193,2271,2/27/2024 9:01,29-Aug-19,Harvard,2018,[List],[List],[List],[List],,"[No. 107-40752-2.
+Division Two.
+March 2, 1970.]
+The State of Washington, Respondent, v. Tommy Edward Basford, Appellant.
+Velikanje, Moore, Countryman & Shore and John A. Rossmeissl, for appellant.
+Lincoln E. Shropshire, Prosecuting Attorney, and Patrick H. Olwell, Deputy, for respondent.",1044-01,1068,1075
+0077-01.json,1861737,"R. E. Stratton, Respondent, v. The Department of Labor and Industries, Appellant",Stratton v. Department of Labor & Industries,15-Oct-69,No. 26-40193-1,77,81,[List],Wash. Ct. App.,8985,Washington Court of Appeals,38,Washington,Wash.,[List],347,6958,0.632,1.5211E-07,0.669308326,cabfdfba2223aec12518cc9f60e6156f154dfe30d42136e0923d1c530bd3c4c6,1:954d40b233444c5f,1139,7/14/2023 8:39,29-Aug-19,Harvard,2018,[List],[List],[List],[List],,"[No. 26-40193-1.
+Division One.
+October 15, 1969.]
+Panel 2
+R. E. Stratton, Respondent, v. The Department of Labor and Industries, Appellant.
+Slade Gorton, Attorney General, Lembhard G. Howell and Gerald L. Casey, Assistants, for appellant.
+Jackson, Ulvestad & Goodwin, for respondent.",0077-01,101,105
+0862-01.json,1861633,"In the Matter of the Application for a Writ of Habeas Corpus of Richard L. Potts, Petitioner, v. B. J. Rhay, as Superintendent of the State Penitentiary, Respondent",Potts v. Rhay,3-Feb-70,No. 64-41148-2,862,862,[List],Wash. Ct. App.,8985,Washington Court of Appeals,38,Washington,Wash.,[List],145,1473,0.634,,,49f4ab611885a1837dd686613991dcceea6d64d4e508eea844e5d2888d7c22da,1:d0f84fe975d945ca,235,7/14/2023 8:39,29-Aug-19,Harvard,2018,[List],[List],[List],[List],,"[No. 64-41148-2.
+Division Two.
+February 3, 1970.]
+In the Matter of the Application for a Writ of Habeas Corpus of Richard L. Potts, Petitioner, v. B. J. Rhay, as Superintendent of the State Penitentiary, Respondent.
+Richard L. Potts, pro se.
+Slade Gorton, Attorney General, and Lee D. Rickabaugh, Assistant, for respondent.",0862-01,886,886

@@ -1,0 +1,121 @@
+{
+  "id": 1432074,
+  "name": "East St. Louis Cotton Oil Company v. Hutchins",
+  "name_abbreviation": "East St. Louis Cotton Oil Co. v. Hutchins",
+  "decision_date": "1933-03-20",
+  "docket_number": "4-3011",
+  "first_page": "34",
+  "last_page": "38",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "187 Ark. 34"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [
+    {
+      "cite": "278 U. S. 260",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "242 S. W. 384",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "154 Ark. 273",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1361240
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/154/0273-01"
+      ]
+    },
+    {
+      "cite": "199 Fed. 948",
+      "category": "reporters:federal",
+      "reporter": "F.",
+      "case_ids": [
+        55578
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f/199/0948-01"
+      ]
+    },
+    {
+      "cite": "115 S. W. 371",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "88 Ark. 519",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1517066
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/88/0519-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 189,
+    "char_count": 1993,
+    "ocr_confidence": 0.505,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.05386626787893812
+    },
+    "sha256": "143ef5655b2b58bdf0870a92059b0257842e0cc327c61212c00c6d909bb64597",
+    "simhash": "1:5588a4dba7f6ee75",
+    "word_count": 334
+  },
+  "last_updated": "2024-02-27T21:18:50.990705+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "East St. Louis Cotton Oil Company v. Hutchins."
+    ],
+    "opinions": [
+      {
+        "text": "Kirby, J.,\n(after stating- the facts). Petitioner insists the court was without jurisdiction to appoint receivers or administer or liquidate, the assets of the insolvent corporation of a class covered by the National Bankruptcy Act. Jurisdiction was invoked \u201cby petition of creditors signed by respondent Dendy on behalf of himself and other creditors who might wish to join,\u201d etc. It was alleged the corporation was insolvent, with a prayer that it be adjudged so, and the court took charge of the assets, administering same under the said insolvency statute of Arkansas.\n\u201cThe insolvency laws of Arkansas were suspended by the Bankruptcy Act of Congress of July 1, 1898, * * * and since that date have remained and are now in abeyance, in so far as they relate to the same subject-matter and affect the same persons as the act of Congress, which is still in force.\u201d Hickman v. Parlin-Orendorff Co., 88 Ark. 519, 115 S. W. 371. See also In re Weedman Stave Co., 199 Fed. 948, and Morgan v. State, 154 Ark. 273, 242 S. W. 384.\nIn International Shoe Co. v. Pinkus, 278 U. S. 260, 73 L. ed. 318, it was said:\n\u201cThe question is whether, in the absence of proceedings under the Bankruptcy Act, -what was done in the chancery court protects the property in the hands of the receiver from seizure to pay the judgment held by plaintiff in error, \u2019 \u2019 and concluded: \u2018 \u2018 State laws governing distribution of property of insolvents for the payment of their debts and providing for.their discharge are superseded by the National Bankruptcy Act.\u201d See also Remington on Bankruptcy, \u00a7\u00a7 2106-7.\nIt follows that the court was proceeding to act without authority, the State insolvency .laws having been superseded and suspended, and its orders were void; and the writ of prohibition is granted prohibiting any further proceeding in the matter by the said court.",
+        "type": "majority",
+        "author": "Kirby, J.,"
+      }
+    ],
+    "attorneys": [
+      "C. W. Norton, for petitioner.",
+      "Jonas F. Dyson, for respondent."
+    ],
+    "corrections": "",
+    "head_matter": "East St. Louis Cotton Oil Company v. Hutchins.\n4-3011\nOpinion delivered March 20, 1933.\nC. W. Norton, for petitioner.\nJonas F. Dyson, for respondent."
+  },
+  "file_name": "0034-01",
+  "first_page_order": 52,
+  "last_page_order": 56
+}

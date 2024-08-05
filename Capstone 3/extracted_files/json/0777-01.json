@@ -1,0 +1,85 @@
+{
+  "id": 1428416,
+  "name": "Quick v. Knight",
+  "name_abbreviation": "Quick v. Knight",
+  "decision_date": "1934-02-05",
+  "docket_number": "4-3335",
+  "first_page": "777",
+  "last_page": "778",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "188 Ark. 777"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [
+    {
+      "cite": "158 S. W. 129",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "108 Ark. 452",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1342286
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/108/0452-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 200,
+    "char_count": 2298,
+    "ocr_confidence": 0.479,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.05372436771410225
+    },
+    "sha256": "9c7ed46e5ac2ae9cc91a2175e3eddf29937e9ccf61fb53e414efb1aebbe66888",
+    "simhash": "1:ef1c6841ab08aac1",
+    "word_count": 384
+  },
+  "last_updated": "2024-02-27T23:51:14.545434+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Quick v. Knight."
+    ],
+    "opinions": [
+      {
+        "text": "Humphreys, J.\nThis is an appeal from a judgment for damages for the wrongful taking of the property of appellees by appellants. The property consisted of household goods, such as furniture, beds, bedding, etc. The property was removed from appellees\u2019 home on January 29,1932, by Andy Crabtree, who ran a truck, on the written order of C. E. Quick, who claimed to be the owner of a chattel mortgage thereon which he had theretofore purchased from the mortgagee, Thompson Brothers. The suit for damages was based upon the theory that the mortgage had been paid, and this became an issue of fact in the case upon which testimony was introduced pro and con. Appellees also introduced testimony to the effect that, on account of the removal of their household goods, Cora Knight was compelled to sleep on the floor without sufficient bedding or covering, which resulted in her contracting \u201cflu,\u201d which developed the following day into pneumonia lasting seven weeks in addition to pain, suffering, and loss of time incident to her illness, and that she had to expend large sums for medical treatment.\nAppellant contends for a reversal of the judgment because the court instructed the jury to the effect that if they should find that the mortgage had been paid, and that it was not extended by agreement as security for further advances, then the seizing and removing of the property would be wrongful, and, in addition to the value of the property, appellees -would be entitled to recover damages on account of sickness resulting directly from the wrongful taking of the property. Appellant argues that the measure of damages for the wrongful taking was the market value of the property taken. If the taking was wrongful, and the jury so found, the takers were tortfeasors, and this court has announced the following rule as to tort feasors in the case of Carson v. Fort Smith Light & Traction Company, 108 Ark. 452, 158 S. W. 129:\n\u201cA tort feasor is answerable for all damages directly traceable to the wrong done and arising therefrom -without an intervening agency and without fault of the person injured.\u201d\nNo error appearing, the judgment is affirmed.",
+        "type": "majority",
+        "author": "Humphreys, J."
+      }
+    ],
+    "attorneys": [
+      "Patterson & Patterson, for appellant.",
+      "Williams & Williams and J. H. Brock, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Quick v. Knight.\n4-3335\nOpinion delivered February 5, 1934.\nPatterson & Patterson, for appellant.\nWilliams & Williams and J. H. Brock, for appellee."
+  },
+  "file_name": "0777-01",
+  "first_page_order": 795,
+  "last_page_order": 796
+}

@@ -1,0 +1,468 @@
+{
+  "id": 1357168,
+  "name": "Logan v. Missouri Valley Bridge & Iron Company",
+  "name_abbreviation": "Logan v. Missouri Valley Bridge & Iron Co.",
+  "decision_date": "1923-03-19",
+  "docket_number": "",
+  "first_page": "528",
+  "last_page": "538",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "157 Ark. 528"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [
+    {
+      "cite": "113 Ark. 467",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1537527
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/113/0467-01"
+      ]
+    },
+    {
+      "cite": "92 S. W. 246",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "77 Ark. 362",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "56 Ark. 206",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1326080
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/56/0206-01"
+      ]
+    },
+    {
+      "cite": "43 L. R. A. (N. S.) 87",
+      "category": "reporters:federal",
+      "reporter": "L.R.A.N.S.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "179 Ala. 361",
+      "category": "reporters:state",
+      "reporter": "Ala.",
+      "case_ids": [
+        3534450
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/ala/179/0361-01"
+      ]
+    },
+    {
+      "cite": "194 U. S. 120",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3630900
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/194/0120-01"
+      ]
+    },
+    {
+      "cite": "223 U. S. 481",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3662292
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/223/0481-01"
+      ]
+    },
+    {
+      "cite": "22 S. W. 1064",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "216 N. Y. 544",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        4528781
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/216/0544-01"
+      ]
+    },
+    {
+      "cite": "153 N. Y. Supp. 505",
+      "category": "reporters:state",
+      "reporter": "N.Y.S.",
+      "case_ids": [
+        3256254
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/nys/153/0505-01"
+      ]
+    },
+    {
+      "cite": "92 Atl. 85",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "87 S. E. 862",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "102 N. E. 693",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "11 So. 803",
+      "category": "reporters:state_regional",
+      "reporter": "So.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "67 Ark. 1",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1152540
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/67/0001-01"
+      ]
+    },
+    {
+      "cite": "99 Ark. 178",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1314537
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/99/0178-01"
+      ]
+    },
+    {
+      "cite": "70 Ark. 493",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1509466
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/70/0493-01"
+      ]
+    },
+    {
+      "cite": "215 S. W. 506",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "150 N. W. 620",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "140 Ark. 511",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "73 Ark. 186",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "83 Ark 6",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1527203
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/83/0006-01"
+      ]
+    },
+    {
+      "cite": "58 Ark. 136",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1329196
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/58/0136-01"
+      ]
+    },
+    {
+      "cite": "70 N. W. 146",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "98 Ark, 240",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1315991
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/98/0240-01"
+      ]
+    },
+    {
+      "cite": "67 Ark, 155",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1152526
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/67/0155-01"
+      ]
+    },
+    {
+      "cite": "50 Ark. 155",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        8720875
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/50/0155-01"
+      ]
+    },
+    {
+      "cite": "133 N. E. 840",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "125 N. E. 652",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "7070 Ind. App. 659",
+      "category": "reporters:state",
+      "reporter": "Ind. App.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "153 Wis. 158",
+      "category": "reporters:state",
+      "reporter": "Wis.",
+      "case_ids": [
+        8687067
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/wis/153/0158-01"
+      ]
+    },
+    {
+      "cite": "143 N. W. 1074",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "143 N. C. 439",
+      "category": "reporters:state",
+      "reporter": "N.C.",
+      "case_ids": [
+        8658101
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/nc/143/0439-01"
+      ]
+    },
+    {
+      "cite": "78 Minn. 448",
+      "category": "reporters:state",
+      "reporter": "Minn.",
+      "case_ids": [
+        1685198
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/minn/78/0448-01"
+      ]
+    },
+    {
+      "cite": "138 N. W. 944",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.",
+      "weight": 2,
+      "opinion_index": -1
+    },
+    {
+      "cite": "155 App. Div. 368",
+      "category": "reporters:state",
+      "reporter": "A.D.",
+      "case_ids": [
+        3382527
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/nys/140/0266-01"
+      ]
+    },
+    {
+      "cite": "207 S. W. 230",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "67 Ark. 1",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1152540
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/67/0001-01"
+      ]
+    },
+    {
+      "cite": "215 S. W. 506",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "150 N. W. 620",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "73 Ark. 186",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "83 Ark 6",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1527203
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/83/0006-01"
+      ]
+    },
+    {
+      "cite": "58 Ark. 136",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1329196
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/58/0136-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 802,
+    "char_count": 19467,
+    "ocr_confidence": 0.534,
+    "pagerank": {
+      "raw": 2.668966301861243e-07,
+      "percentile": 0.825614157427711
+    },
+    "sha256": "e20d9e79214f3508e3b3fab87fe0517ec068e905bc78070ede6f7a116c08c67d",
+    "simhash": "1:3143f58a41a8d65d",
+    "word_count": 3380
+  },
+  "last_updated": "2024-02-27T20:13:54.858580+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Logan v. Missouri Valley Bridge & Iron Company."
+    ],
+    "opinions": [
+      {
+        "text": "Wood, J.\nThe appellant instituted this action against the appellee to recover damages for personal injuries. The complaint alleged substantially the following:\nThe appellee is a Kansas corporation authorized and doing business in this State. . On the 12th day of September, 1921, it was engaged in building a bridge from the foot of Garrison Avenue in the city of Fort Smith, Arkansas, on the south side of the river, to a point on the opposite bank on the north side in the State of Oklahoma. The appellant was a resident of the State of Arkansas and an employee of the appellee. He was required, as a part of his duties, to oil the steam shovel or clam-shell which was used by the appellee in excavating the earth from the river for the foundations of the bridge. The work had progressed from the Arkansas' side to a point beyond mid-stream and to the Oklahoma side of the river. The appellee maintained its office from which the work of construction was conducted in Fort Smith, Arkansas, where it hired its employees. The appellant and other employe^, in going to their work in the morning and in quitting at night, checked in at the Fort Smith office, and started to their work from that office and were paid at such office. Appellant, while engaged about his work on the day above mentioned, on the end of the bridge in Oklahoma, was severely injured, as lie alleges, through the negligence of the appellee. The manner of such negligence and the nature' of his injuries he specifically sets forth. He alleged that his relation to the appellee ,at the time was purely contractual; that the contract of employment was entered into between linn and the appellee in Arkansas and was made with reference to the laws of Arkansas; that these laws became a part of the contract, and that, under the laws of Arkanas, it was the duty of appellee to furnish appellant a reasonably safe place to work and reasonably safe tools and appliances with which to perform his work, which duties, the appellant alleges, appellee failed to perform. The appellant concludes his complaint by alleging that the injury was caused solely by the breach of contract between appellant and the appellee in that the appellee negligently failed to furnish him a safe place to work and suitable appliances and tools with which to do his work. The allegations of the complaint specify in detail the particulars in which the appellant charges that the appellee failed to discharge its duties as master toward him as servant. He concludes his complaint with a prayer for damages in the sum of $50,000.\nThe appellee filed the following demurrer to the complaint: \u201cFirst. It does not state facts sufficient to constitute a cause of action. Second. Because the action, which sounds in tort, was committed in the State of Oklahoma, and is governed by the laws of said State, and can be prosecuted only in the court having proper jurisdiction in said State. Third. Because this court has no jurisdiction of the subject-matter of the complaint.\u201d The court sustained the demurrer. The appellant stood on his complaint, and the court entered a judgment dismissing the same, from which is this appeal.\nThe appellant contends, first, that his complaint states a cause of action against the appellee for a breach of contract entered into in this State which entitles him to recover damages under the laws of Arkansas; and second, that appellant, being a resident of Arkansas, and having been employed by the appellee in Arkansas, may enforce in the-courts of this State the liability of the appellee for the injury done him, through its negligence, while in its employ, under the Oklahoma Workmen\u2019s Compensation Act.\n(a). In construing a pleading to determine whether it states a cause of action and consequent liability growing out of and caused by a breach of contract, or whether it states a cause of action growing out of and caused by a tort \u2014 in other words, whether the cause of action be ex contractu or ex delicto \u2014 the allegations of the complaint must be considered as a whole. As was said in Fordyce v. Nix, 58 Ark. 136, \u201cthe character of the action must be determined by the nature of the grievance, rather than the form of the declaration.\u201d Now, when this complaint is taken by its four corners, it seems clear to us that the pleader intended by its allegations to state a cause of action sounding in damages for a tort, rather than a cause of action wherein the tort was waived and liability and damages growing out of a breach of contract only were insisted upon. While the allegations of the complaint set forth that the relation between the appellant and the appellee was that of master and servant, by virtue of the contract of employment, and stated the duties of the one to the other growing out of such relation, and that the injury was caused solely by a breach of such duties, yet the manner of the injury is specifically set forth as follows: \u201cThat the defendant negligently failed to furnish him a safe place to work, and in failing to furnish him with suitable appliances and tools about which and with which he was required to work, in this, to-wit: that said defendant company allowed and permitted the cross-pieces nailed against said boom for use as a ladder to become rotten and unsafe, so that when the plaintiff placed his weight thereon, on climbing said ladder, the said cross-piece upon which he stepped pulled loose, and, being in its rotten condition, the nails which held it in place pulled through said rotten piece, the defective condition of which said piece said defendant knew, or with reasonable care and diligence might have known and have repaired the same, and by so doing would not have been guilty of a breach of the said contract as aforesaid. * * * Plaintiff states that, by reason of the negligence aforesaid of the said defendant in failing to comply with the terms of said contract as aforesaid, he has been injured and damaged in the sum of $50,000.\u201d\nNow, it was necessary in the action ex delicto, which we construe this to be, for the appellant to allege that the contractual relation of employer and employee existed between him and the appellee, because if he had been a mere volunteer, interloper, or trespasser, at the time of his injury, the appellee would have owed him no duty, and hence he could have had no cause of action against the appellee even for the tort. But in a cause of action in which the appellant purposed to waive the tort and claim damages only for a breach of contract, it was Wholly unnecessary for appellant to emphasize the fact, as he did, that the \u201ccompany negligently failed to furnish him a safe place to work\u201d and \u201cwith reasonable care and diligence might have known and repaired,\u201d etc., and \u201cby reason of the negligence aforesaid in failing to comply with the terms of its contract,\u201d etc. Such allegations are peculiarily apposite in an action of tort, but they are wholly unnecessary in an action wherein the tort is waived and only a breach of the contract relied upon. \"With painstaking amplification the pleader has stressed the contract relation between appellant and appellee and its breach, but we are nevertheless impressed, after consideration of all the allegations of the complaint, that the cause of action should be construed as one ex delicto and not one ex contractu. The appellant, after alleging that the relation between him and the appellee was purely contractual, further alleged that the injury was caused solely by breach of the contract, but this latter allegation is in conflict with other allegations which clearly state that the injury was caused by the negligence and want of reasonable care and diligence on the part of the appellee. The allegations setting forth the contractual relation of employer and employee between the appellee and appellant, and the negligence or wrongful acts of appellee\u2019s servants, resulting in the injury of which the appellant complains, constituted a cause of action in favor of the appellant against the appellee which can be more approximately classed as one ex delicto than one ex contractu'.\nIt was necessary to allege the contractual relation and the duties of such relation, as we have seen, before the appellant could recover from personal injuries in an action ex delicto. These necessary allegations are contained in appellant\u2019s complaint. There are certain duties growing out of the contractual relation of employer and employee that do not arise by virtue of any express agreement between the parties, ibut are duties implied and imposed by law independently of the express terms of the contract, and a breach of such duties resulting in personal injury will constitute a tort. The injured employee may sue either for breach of the contract or in tort for breach of the duty imposed by law, and an action' in tort is not precluded because such duty arises put of a contractual relation. 1 C. J. 1015-1016, secs. 138-139; Kansas City, Fort Scott & Memphis Ry. Co. v. Becker, 67 Ark. 1.\nAs we view the allegations of the entire complaint, the court below was certainly justified in treating the action as one ex delicto. Fordyce v. Nix, supra; Millar v. Mintun, 73 Ark. 186; St. L. I. M. & S. Ry. Co. v. Mynott, 83 Ark. 6.\n\u201cIn actions of tort the law is well settled that the liability or right of action is determined by the law of the place where the injury is inflicted, without regard to the law of the forum or the law of the place where the contract was made.\u201d Johnson v. Nelson, 150 N. W. (Minn.) 620.\n(b). But, if we are mistaken in this, and the action be considered one in which the tort is waived and recovery sought alone for breach of contract, nevertheless, the appellant could not maintain this action because it was clearly contemplated by the parties that the contract should be completely performed in the State of Oklahoma. The allegations of the complaint show that at the time of appellant\u2019s injury he was performing the work which he had contracted to do in the State of Oklahoma. In Liebing v. Mutual Life Ins. Co. of New York, 207 S. W. 230, it is said: \u201cWhen the terms or nature of the contract show that it is to be performed in another country or State, then the place of making the contract becomes so far immaterial, and the law of the place where the contract is being performed governs in determining the rights of the parties.\u201d See also Mitchell v. St. Louis Smelting & Refining Co., 215 S. W. 506; Johnson v. Nelson, 150 N. W. 620. It follows that, whether the action be construed as one ex contractu or one ex delicto, the issue as to whether or not the appellee is liable depends upon the laws of Oklahoma.\nAppellant concedes that in Oklahoma the Workmen\u2019s Compensation Act'is exclusive and that appellant could wage his suit in that State in no other court than before the Industrial Commission provided for by the Workmen\u2019s Compensation Act. But appellant contends that in an action ex delicto the courts of Arkansas will enforce a right of action in favor of an employee, a resident of the State, against his employer for personal injury which occurred in the State of Oklahoma. This contention is unsound and cannot be sustained. Appellant\u2019s right of action is transitory, but an examination of the Oklahoma Workmen\u2019s Compensation Act, of which we take judicial notice, will discover that no machinery isi provided by statute by which appellant could avail himself of the benefits of the Workmen\u2019s Compensation Act-in this State. Likewise, there are no judicial processes \u2019 in this State that could be adapted to the enforcement of the provisions of the Oklahoma Workmen\u2019s Compensation Act. The complaint contains no allegations that would make the provisions of the Oklahoma Workmen\u2019s Compensation Act available through any court procedure in this State.\nThe judgment of the circuit court sustaining the demurrer to appellant\u2019s complaint and dismissing the same is therefore correct, and it is affirmed.",
+        "type": "majority",
+        "author": "Wood, J."
+      }
+    ],
+    "attorneys": [
+      "Sizer & Gardner and Allyn Smith, for appellant.",
+      "Rose, Hemingway, Cantrell & Loughborough, for appellee.",
+      "Sizer & Gardner and Allyn Smith, in reply."
+    ],
+    "corrections": "",
+    "head_matter": "Logan v. Missouri Valley Bridge & Iron Company.\nOpinion delivered March 19, 1923.\n1. Pleading\u2014CONSTruction.- \u2014 In construing a complaint to determine whether the cause of action he ex contractu or ex delicto, the allegations must he considered as a whole.\n2. Master and servant \u2014 complaint held to sound iN tort. \u2014 Although a complaint for personal'injury alleged that the relation between the parties was that of master and servant by contract of-employment and stated the duties growing out of that relation, and that the injury grew out of a breach of such duties, yet where the manner of the injury was alleged as arising from de-\u00bb fendant\u2019s failure to furnish a safe place to work and in failing to furnish suitable appliances and tools, the complaint states a cause of action sounding in tort.\n3. Master and servant \u2014 complaint in ex delicto action. \u2014 In an action ex delicto for personal injuries by a servant against the master, it is necessary to allege the contractual relation and duties arising therefrom.\n4. Master and servant \u2014 injury to servant \u2014 right of action.\u2014 For a breach of a duty imposed by law, an injured employee may sue the employer either on contract or in tort, and an action in tort is not precluded because such duty arises out of a contractual relation.\n5. Torts \u2014 what law governs. \u2014 In actions of tort the liability or right of action is determined by the law of the place where the injury is inflicted without regard to the law of the forum or the law of the place where the contract was made.\n6. Contract \u2014 what law governs. \u2014 Where it was contemplated by the parties that a contract was to be performed in another State, the law of that State governs in determining the rights of the parties.\n7. Master and servant \u2014 workmen\u2019s compensation act. \u2014 The Workman\u2019s Compensation Act of Oklahoma is exclusive where an employee is injured while working in that State, and it provides that an action for injury to an employee can be maintained in no other court than before the Industrial Commission, and provides no machinery by which an employee injured in that State can avail himself of the benefits of ti e act in the courts of this State.\nAppeal from Pulaski Circuit Court, Third Division; A. F. House, Judge;\naffirmed.\nSizer & Gardner and Allyn Smith, for appellant.\nThe demurrer admits the allegations of the complaint, and the only question in the case is whether or not appellant\u2019s remedy is under the Oklahoma Workmen\u2019s Compensation Act, or under the laws of Arkansas. Our courts take judicial knowledge of the laws of other States. Sec. 4110, C. & M. Digest. It is conceded that in Oklahoma appellant could only bring his suit before the Industrial Commission proyided by its Workmen\u2019s Compensation Act, and the question hinges upon -whether the action arises ex contractu or ex delicto. The workmen\u2019s compensation acts have substituted a new oause of action for the common law action of the injured employee against his employer, and created new tribunals giving them exclusive jurisdiction of all isuch proceedings. The question involved here has not been determined, so far as we can learn, but its converse has been frequently decided. It is held, where the employer has complied with such act in the State of his residence, or where he maintains an office, an employee injured in the course of his employment outside that State may recover under the compensation act of the State where he and his employer resided. Pensabene v. Auditor, 140 N. T. S. 226, 155 App. Div. 368. Under this holding plaintiff may receive under the Oklahoma Compensation Act In courts of Arkansas. The law of the place of contract of employment governs an action in tort for negligent injury of employee. Schweitzer v. Hamburger, 138 N. W. 944; 78 Minn. 448; Cannaday v. Coast Line Co., 55 ,S. E. 836; 143 N. C. 439; 8 L. R. A. (N. E.) 939; Ruch v. Ry Co., 143 N. W. 1074; 153 Wis. 158; Grant Smith Partnership\u2022 Co. v. Rhode, 42 U. S. Sup. Ct. Rep. 157. The relation between the employer and' employee is purely contractual. Rogers v. Rogers, 7070 Ind. \u00c1pp. 659; 122, N. E. 778; Niser v. Miller, 125 N. E. 652; McDowell v. Duer, 133 N. E. 840. The law of a place where a contract is made enters into it, and the right of the employee to recover under the Workmen\u2019s Compensation Act is controlled by laws of State where contract is made, not where injury occurred, and plaintiff is entitled to recover under laws of Arkansas. Even should the court hold plaintiff\u2019s action does not arise ex contractu, he should Nevertheless recover under \u00a7 1070, C. & M. Digest, the action being transitory. Pensabene v. Auditor, supra; Schweitzer v. Hamburger, supra.\nRose, Hemingway, Cantrell & Loughborough, for appellee.\nThe only question for decision is whether the complaint states 'a cause of action enforceable in this State. Cases cited by appellant reviewed .and argued not to support his position, not one of them;\nIn an action ex delicto the right to recover and the amount of the recovery are governed by the law of the place where injury is received. Garter -v. Goode, 50 Ark. 155; St. L. I. M. S. By. Go. v. Brown, 67 Ark, 155; St. L. I. M. \u00a3 S. By. Go. v, Ilesterly, 98 Ark, 240; Turner v. St. Glair Tunnel Go., 70 N. W. 146, W. 48. The appellant states an action ex delicto and his right to recover is dependent in the Oklahoma law, does not state an ex contractu, cause of action. Fordyce v. Nix, 58 Ark. 136; St. L. I. M. & S. By. v. Mynott, 83 Ark 6; Miller v. Mintu/n, 73 Ark. 186. The court regards substance rather than form. Johnson v. Duilinger, 140 Ark. 511, 1 Corpus Juris, 1016. Had plaintiff stated a cause of action ex contractu he could not recover here, since the parties contemplated performance was to take place in Oklahoma. Johnson v. Nelson, 150 N. W. 620; Mitchell v. St. Louis Smelting \u00a3 Befining Go., 215 S. W. 506; Grebbin v. Deloney, 70 Ark. 493. Granting the contract was made with reference to Arkansas law, the action ex contractu cannot be sustained, the injury having occurred in Oklahoma. Arkadelphia Electric Light Go. v. Arkadelphia, 99 Ark. 178; Kansas, Ft. Scott & Memphis By. Go. v. Becker, 67 Ark. 1; Alabama G. S. \u00a3 B. Go. v. Gar-roll, 11 So. 803. We think the general statement as to the right of election between actions ex contractu or ex delicto is at most only applicable territorially, and then only when the law-imposed conditions result from express statutory enactment. In re Americcm Mutual Life Ins. Go., 102 N. E. 693; Gooding v. Ott, 87 S. E. 862; American Badiator Go. v. Bogge, 92 Atl. 85; Spratt v. Sweeney \u00a3 Gray Go., 153 N. Y. Supp. 505; Post v. Burger \u00a3 Goelke, 216 N. Y. 544; Minor on Conflict of Laws, 507; Bret v. Gulf G. F. \u00a3 S. By. Go., 22 S. W. 1064. Our courts will not endeavor to enforce the Workmen\u2019s Compensation Act of Oklahoma. Galveston, H. S. \u00a3 A. By. Ob. v. Wallace, 223 U. S. 481; Lehman v. Baymo Film Co., N. Y. S. 1032; Slater v. Mexican National-By., 194 U. S. 120.\nSizer & Gardner and Allyn Smith, in reply.\nIf the cause of action grows out of the relation of employer and. employee, it is contractual, and the demurrer should have been overruled. Parker v. Wilson, 179 Ala. 361; 60 So. 150; 43 L. R. A. (N. S.) 87. Telephone Co. v. Woughter, 56 Ark. 206; Choctaw B. B. Co. v. Jones, 77 Ark. 362; 92 S. W. 246. Appellee corporation.doubtless complied with the Arkansas law while doing business in the State, and it was doing business here when the injury occurred. Person v. Dry Goods C\u00f3., 113 Ark. 467."
+  },
+  "file_name": "0528-01",
+  "first_page_order": 550,
+  "last_page_order": 560
+}

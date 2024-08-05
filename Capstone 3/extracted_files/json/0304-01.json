@@ -1,0 +1,104 @@
+{
+  "id": 1388496,
+  "name": "Allison v. State",
+  "name_abbreviation": "Allison v. State",
+  "decision_date": "1923-12-03",
+  "docket_number": "",
+  "first_page": "304",
+  "last_page": "307",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "161 Ark. 304"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [
+    {
+      "cite": "56 Ark. 530",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "34 Ark. 450",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "43 Ark. 73",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1894481
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/43/0073-01"
+      ]
+    },
+    {
+      "cite": "68 Ark. 447",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1333937
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/68/0447-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 335,
+    "char_count": 5628,
+    "ocr_confidence": 0.458,
+    "pagerank": {
+      "raw": 6.5754854646575e-08,
+      "percentile": 0.40262173586182054
+    },
+    "sha256": "c2c8accc35659e0375c692df3addbf0d906a279df9ed4f2703e1f8268829d25d",
+    "simhash": "1:d2ce382c0b292507",
+    "word_count": 981
+  },
+  "last_updated": "2024-02-27T21:32:42.656819+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Allison v. State."
+    ],
+    "opinions": [
+      {
+        "text": "Humphreys, J.\nAppellant was indicted, tried and convicted in the circuit court of Boone County, and, as punishment therefor, was adjudged to pay a fine of $75. From the judgment of conviction an appeal has heen duly prosecuted to this court.\nThe indictment was returned under \u00a7 2804 of Crawford & Moses\u2019 Digest, which is as follows: \u201cAny person who shall wear or carry in any manner whatever, as a weapon, any dirk or bowie-knife, or sword or spear in a cane, brass or metal knucks, razor, or any pistol of any kind whatever, shall be. guilty of a misdemeanor.\u2019 Provided, nothing in this act shall 'be so construed as to prohibit any person from carrying such pistols as are used in the army or navy of the United States, when carried uncovered and in the hand; provided, officers whose duties require them to make arrests, or to keep and guard prisoners, together with persons summoned by such officers to aid them in the discharge of such duties, while actually engaged in such duties, are exempt from the provisions of this act. * * *\u201d\nAppellant contends for a reversal of the judgment upon three alleged grounds: first, because the pistol carried by him was an army pistol which he carried uncovered in his hand; second, because he did not carry it as a weapon; third, because he was deputized to carry it by the city marshal of Harrison.\n(1) While the testimony adduced 'by appellant tended to show that the pistol carried by him was the kind used in the army or navy of the United States and that he carried it uncovered in his hand, the testimony adduced by the State tended to show that it was not an army or navy pistol, and that he carried it concealed from view in his overcoat pocket. This disputed question of fact was submitted to the jury for determination, under an instruction to acquit appellant if they found it was such a pistol as was used in the army or navy of the United States, uncovered in his hand. The finding of the jury is conclusive 'against appellant, as the verdict is supported by legal evidence of a substantial nature.\n(2) There was evidence tending* to show that the pistol was carried for offensive or defensive purposes in anticipation of a disturbance. Appellant testified that he came down town after his mail, on the evening* in question, and ran across William Parr, the city marshal, who told him rumors were afloat that there would be a disturbance on account of the arrest of two railroad men, and that he wanted him to act as a deputy; that the marshal directed and authorized him to arm himself ; that, in obedience to the request, he went home after his pistol, returned about eight o \u2019clock p. m. armed, and remained upon the public square for two hours for the purpose of assisting the marshal in preserving the peace, if it became necessary. The record reflects that the anticipated disturbance failed to materialize. In support of his contention that the pistol was not carried as a weapon, appellant cited the case of Cornwell v. State, 68 Ark. 447. In that case the evidence showed that Cornwell carried his pistol to a neighbor\u2019s home, a distance of about three miles, for the purpose of killing hogs, and the court ruled that, under the testimony, it was a question for the jury to say whether Cornwell carried it as a weapon. In the case at bar the court submitted this question to the jury, while in the Cornwell case the court refused to do so. The Cornwell case was reversed on account of such refusal.\nThis court has said that the object of \u00a7 2804 of Crawford'& Moses\u2019 Digest \u201cis to prevent the carrying of a pistol with a view of being armed and ready for offense or defense in case of conflict with a citizen (person), or wantonlv to go armed.\u201d Cornwell v. State, supra; State v. Wardlow, 43 Ark. 73; Carr v. State, 34 Ark. 450; Lemons v. Slate, 56 Ark. 530. The court did not err in the instant case in submitting the question of whether appellant carried the pistol as a weapon, to the jury.\n(3) The contention of appellant, that he was exempt from the penalty imposed by the statute against carrying weapons because deputized by the city marshal to do so, is not tenable. He was not summoned by the mar-shal to assist him in making arrests or guarding prisoners, while in the actual discharge of such duties, and therefore within the exempting proviso of the statute upon which he relies.\nNo error appearing, the judgment is affirmed.",
+        "type": "majority",
+        "author": "Humphreys, J."
+      }
+    ],
+    "attorneys": [
+      "Allyn Smith and Owen Kendrick, for appellant.",
+      "J. S. Utley, Attorney General, John L. Garter, Wm. T. Hammock and Darden Moose, Assistants, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Allison v. State.\nOpinion delivered December 3, 1923.\n1. Criminal law \u2014 conclusiveness of verdict. \u2014 A verdict supported by legal evidence of a substantial nature is conclusive on appeal.\n2. Weapons \u2014 object of statute against carrying. \u2014 Crawford & Moses\u2019 Dig., \u00a7 2804, prohibiting any person from wearing or carrying, as a weapon, any pistol of any kind, was intended to prevent the carrying of a pistol with a view of being armed and ready for offense or defense in case of conflict with a person, or wantonly going armed.\n3. Weapons \u2014 aiding officers. \u2014 Under Crawford & Moses\u2019 Dig., \u00a7 2804, making the carrying of concealed weapons a misdemeanor, and excepting weapons carried by persons summoned to aid officers while actually engaged in guarding prisoners, evidence that defendant was deputized by the town marshal to assist in preventing an expected disturbance, which did not occur, did not bring his act of carrying a pistol within the exception, as the marshal was not engaged in guarding prisoners.\nAppeal from Boone Circuit Court; J. M. Shinn, Judge;\naffirmed.\nAllyn Smith and Owen Kendrick, for appellant.\nJ. S. Utley, Attorney General, John L. Garter, Wm. T. Hammock and Darden Moose, Assistants, for appellee."
+  },
+  "file_name": "0304-01",
+  "first_page_order": 332,
+  "last_page_order": 335
+}

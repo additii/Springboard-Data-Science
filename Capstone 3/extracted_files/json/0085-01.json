@@ -1,0 +1,518 @@
+{
+  "id": 12462722,
+  "name": "The State of Washington, Petitioner, v. Clifford Melvin Porter, Jr., Respondent",
+  "name_abbreviation": "State v. Porter",
+  "decision_date": "2016-07-14",
+  "docket_number": "No. 92060-5",
+  "first_page": "85",
+  "last_page": "94",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "186 Wash. 2d 85"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Wash.",
+    "id": 9029,
+    "name": "Washington Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 38,
+    "name_long": "Washington",
+    "name": "Wash."
+  },
+  "cites_to": [
+    {
+      "cite": "810 P.2d 907",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1991,
+      "opinion_index": 0
+    },
+    {
+      "cite": "116 Wn.2d 911",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1376216
+      ],
+      "year": 1991,
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/116/0911-01"
+      ]
+    },
+    {
+      "cite": "956 P.2d 1097",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1998,
+      "opinion_index": 0
+    },
+    {
+      "cite": "135 Wn.2d 359",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        812853
+      ],
+      "year": 1998,
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/135/0359-01"
+      ]
+    },
+    {
+      "cite": "511 U.S. 1",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1147397
+      ],
+      "weight": 3,
+      "year": 1994,
+      "pin_cites": [
+        {
+          "page": "5-6"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/511/0001-01"
+      ]
+    },
+    {
+      "cite": "165 P.3d 1241",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2007,
+      "pin_cites": [
+        {
+          "parenthetical": "citing Victor v. Nebraska, 511 U.S. 1, 5-6, 114 S. Ct. 1239, 127 L. Ed. 2d 583 (1994)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "161 Wn.2d 303",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        3801719
+      ],
+      "year": 2007,
+      "pin_cites": [
+        {
+          "page": "307",
+          "parenthetical": "citing Victor v. Nebraska, 511 U.S. 1, 5-6, 114 S. Ct. 1239, 127 L. Ed. 2d 583 (1994)"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/161/0303-01"
+      ]
+    },
+    {
+      "cite": "294 P.3d 679",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "weight": 2,
+      "year": 2013,
+      "pin_cites": [
+        {
+          "parenthetical": "plurality opinion"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "176 Wn.2d 611",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4306642
+      ],
+      "year": 2013,
+      "pin_cites": [
+        {
+          "page": "626-30",
+          "parenthetical": "plurality opinion"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/176/0611-01"
+      ]
+    },
+    {
+      "cite": "782 P.2d 552",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "weight": 2,
+      "year": 1989,
+      "opinion_index": 0
+    },
+    {
+      "cite": "113 Wn.2d 679",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1172068
+      ],
+      "year": 1989,
+      "pin_cites": [
+        {
+          "page": "688"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/113/0679-01"
+      ]
+    },
+    {
+      "cite": "237 P.3d 250",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2010,
+      "pin_cites": [
+        {
+          "parenthetical": "quoting State v. Leach, 113 Wn.2d 679, 688, 782 P.2d 552 (1989)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "169 Wn.2d 220",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4010259
+      ],
+      "year": 2010,
+      "pin_cites": [
+        {
+          "page": "226",
+          "parenthetical": "quoting State v. Leach, 113 Wn.2d 679, 688, 782 P.2d 552 (1989)"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/169/0220-01"
+      ]
+    },
+    {
+      "cite": "998 P.2d 296",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 2000,
+      "opinion_index": 0
+    },
+    {
+      "cite": "140 Wn.2d 420",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1119558
+      ],
+      "year": 2000,
+      "pin_cites": [
+        {
+          "page": "435"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/140/0420-01"
+      ]
+    },
+    {
+      "cite": "822 P.2d 775",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1992,
+      "opinion_index": 0
+    },
+    {
+      "cite": "118 Wn.2d 151",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1372164
+      ],
+      "year": 1992,
+      "pin_cites": [
+        {
+          "page": "156"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/118/0151-01"
+      ]
+    },
+    {
+      "cite": "812 P.2d 86",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1991,
+      "opinion_index": 0
+    },
+    {
+      "cite": "117 Wn.2d 93",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1373973
+      ],
+      "year": 1991,
+      "pin_cites": [
+        {
+          "page": "109"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/117/0093-01"
+      ]
+    },
+    {
+      "cite": "64 P.3d 640",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2003,
+      "opinion_index": 0
+    },
+    {
+      "cite": "148 Wn.2d 803",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        609182
+      ],
+      "year": 2003,
+      "pin_cites": [
+        {
+          "page": "811"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/148/0803-01"
+      ]
+    },
+    {
+      "cite": "307 P.3d 712",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2013,
+      "pin_cites": [
+        {
+          "parenthetical": "internal quotation marks omitted"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "178 Wn.2d 153",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4298595
+      ],
+      "year": 2013,
+      "pin_cites": [
+        {
+          "page": "158",
+          "parenthetical": "internal quotation marks omitted"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/178/0153-01"
+      ]
+    },
+    {
+      "cite": "888 P.2d 1177",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1995,
+      "opinion_index": 0
+    },
+    {
+      "cite": "125 Wn.2d 782",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        437137
+      ],
+      "year": 1995,
+      "pin_cites": [
+        {
+          "page": "787"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/125/0782-01"
+      ]
+    },
+    {
+      "cite": "364 P.3d 119",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2016,
+      "opinion_index": 0
+    },
+    {
+      "cite": "184 Wn.2d 1026",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        12441138,
+        12441139,
+        12441140,
+        12441141,
+        12441142,
+        12441143,
+        12441144,
+        12441145
+      ],
+      "year": 2016,
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/184/1026-01",
+        "/wash-2d/184/1026-02",
+        "/wash-2d/184/1026-03",
+        "/wash-2d/184/1026-04",
+        "/wash-2d/184/1026-05",
+        "/wash-2d/184/1026-06",
+        "/wash-2d/184/1026-07",
+        "/wash-2d/184/1026-08"
+      ]
+    },
+    {
+      "cite": "188 Wn. App. 1051",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        4281106,
+        4279195,
+        4279316
+      ],
+      "year": 2015,
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/188/1051-02",
+        "/wash-app/188/1051-03",
+        "/wash-app/188/1051-01"
+      ]
+    },
+    {
+      "cite": "344 P.3d 738",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2015,
+      "opinion_index": 0
+    },
+    {
+      "cite": "186 Wn. App. 359",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        4171644
+      ],
+      "weight": 5,
+      "year": 2015,
+      "pin_cites": [
+        {
+          "page": "365"
+        },
+        {
+          "page": "364"
+        },
+        {
+          "page": "365"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/186/0359-01"
+      ]
+    },
+    {
+      "cite": "325 P.3d 135",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2014,
+      "pin_cites": [
+        {
+          "parenthetical": "\"The State need not include definitions of elements in the information.\""
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "180 Wn.2d 295",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4241692
+      ],
+      "year": 2014,
+      "pin_cites": [
+        {
+          "page": "302",
+          "parenthetical": "\"The State need not include definitions of elements in the information.\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/180/0295-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 668,
+    "char_count": 14336,
+    "ocr_confidence": 0.893,
+    "pagerank": {
+      "raw": 5.767384259957011e-08,
+      "percentile": 0.3603737129075865
+    },
+    "sha256": "fff915a3a33ca4c949eb18b865bb613eb22bf40bc6ad9315c3761cbfc5e7c547",
+    "simhash": "1:3259031e348b2b6f",
+    "word_count": 2289
+  },
+  "last_updated": "2024-02-27T18:43:05.207238+00:00",
+  "provenance": {
+    "date_added": "2019-05-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Madsen, C.J., and Johnson, Owens, Fairhurst, Wiggins, Gonz\u00e1lez, Gordon McCloud, and Yu, JJ., concur."
+    ],
+    "parties": [
+      "The State of Washington, Petitioner, v. Clifford Melvin Porter, Jr., Respondent."
+    ],
+    "opinions": [
+      {
+        "text": "Stephens, J.\n\u00b61 The State challenges a Court of Appeals decision reversing Clifford Porter\u2019s conviction for possession of a stolen motor vehicle. At issue is whether an information charging possession of a stolen motor vehicle must allege that the defendant withheld or appropriated the vehicle for the use of a person other than the true owner.\n\u00b62 Applying a liberal construction, we hold that the charging document adequately captured the essential elements of the crime of possession of a stolen motor vehicle. The information referenced the applicable criminal statutes and stated that Porter \u201cdid unlawfully and feloniously knowingly possess a stolen motor vehicle.\u201d Clerk\u2019s Papers (CP) at 1. The State was not required to include language specifying that Porter withheld the vehicle from the true owner, as such language merely defines and limits the scope of the crime of possession of a stolen motor vehicle. State v. Johnson, 180 Wn.2d 295, 302, 325 P.3d 135 (2014) (\u201cThe State need not include definitions of elements in the information.\u201d). We reinstate Porter\u2019s conviction and remand to the Court of Appeals to address his remaining issues on appeal.\nBACKGROUND\n\u00b63 Pursuant to a search warrant, police discovered portions of a stolen vehicle on Porter\u2019s property. The State subsequently charged Porter by information with unlawful possession of a stolen motor vehicle, stating\n[t]hat CLIFFORD MELVIN PORTER, JR., in the State of Washington, on or about the 27th day of August, 2011, did unlawfully and feloniously knowingly possess a stolen motor vehicle, knowing that it had been stolen, contrary to RCW 9A.56.068 and 9A.56.140, and against the peace and dignity of the State of Washington.\nCP at 1.\n\u00b64 At the close of trial, the jury convicted Porter as charged. On appeal, Porter argued for the first time that his conviction should be overturned because the charging document was constitutionally deficient for failing to allege that Porter withheld or appropriated the vehicle from the true owner. Suppl. Br. of Appellant at 2-6. Relying on its decision in State v. Satterthwaite, 186 Wn. App. 359, 344 P.3d 738 (2015), issued while Porter\u2019s appeal was pending, the Court of Appeals held that this language constitutes an essential element of the crime, and reversed Porter\u2019s conviction. State v. Porter, noted at 188 Wn. App. 1051 (2015). We granted review. State v. Porter, 184 Wn.2d 1026, 364 P.3d 119 (2016).\nANALYSIS\n\u00b65 Porter argues that his conviction should be overturned because the charging document omitted an essential element of the offense of possession of a stolen motor vehicle: RCW 9A.56.140(1)\u2019s provision stating that possession means to \u201c \u2018withhold or appropriate [stolen property] to the use of any person other than the true owner or person entitled thereto.\u2019 \u201d Suppl. Br. of Resp\u2019t at 4 (quoting RCW 9A.56.140(1)). The State contends the information need not include the \u201cwithhold or appropriate\u201d language because it merely defines the essential element of possession and is not itself an essential element. Suppl. Br. of Pet\u2019r at 4-8. For the reasons explained below, we conclude the State has the better argument.\nThe Charging Document Captured All Essential Elements of the Crime of Unlawful Possession of a Stolen Motor Vehicle\n\u00b66 Individuals charged with crimes have the constitutional right to know the charges against them. U.S. Const. amend. VI; Wash. Const. art. I, \u00a7 22. The State formally gives notice of the charges by information, which \u201cshall be a plain, concise and definite written statement of the essential facts constituting the offense charged.\u201d CrR 2.1(a)(1).\n\u00b67 The information is constitutionally sufficient \u201conly if all essential elements of a crime, statutory and nonstatutory, are included in the document.\u201d State v. Vangerpen, 125 Wn.2d 782, 787, 888 P.2d 1177 (1995). \u201c \u2018An essential element is one whose specification is necessary to establish the very illegality of the behavior charged.\u2019 \u201d State v. Zillyette, 178 Wn.2d 153, 158, 307 P.3d 712 (2013) (internal quotation marks omitted) (quoting State v. Ward, 148 Wn.2d 803, 811, 64 P.3d 640 (2003)). \u201cWords in a charging document are read as a whole, construed according to common sense, and include facts which are necessarily implied.\u201d State v. Kjorsvik, 117 Wn.2d 93, 109, 812 P.2d 86 (1991). When, as here, the information is challenged for the first time on appeal, the charging document will be construed \u201cquite liberally.\u201d State v. Hopper, 118 Wn.2d 151, 156, 822 P.2d 775 (1992); see also State v. McCarty, 140 Wn.2d 420, 435, 998 P.2d 296 (2000).\n\u00b68 The primary purpose of the essential element rule is \u201cto apprise the accused of the charges against him or her and to allow the defendant to prepare a defense.\u201d Vangerpen, 125 Wn.2d at 787. A secondary purpose for the essential element rule is to bar \u201c \u2018any subsequent prosecution for the same offense.\u2019 \u201d State v. Nonog, 169 Wn.2d 220, 226, 237 P.3d 250 (2010) (quoting State v. Leach, 113 Wn.2d 679, 688, 782 P.2d 552 (1989)). If the State fails to allege every essential element, then the information is insufficient and the charge must be dismissed without prejudice. Id. at 226 n.3.\n\u00b69 Porter was charged with unlawful possession of a stolen motor vehicle under RCW 9A.56.068. That statute reads, \u201cA person is guilty of possession of a stolen vehicle if he or she possess [possesses] a stolen motor vehicle.\u201d RCW 9A.56.068(1) (alteration in original). Porter argues that the information is deficient because it does not contain the statutory definition of \u201cpossess.\u201d Suppl. Br. of Resp\u2019t at 4-5. Under RCW 9A.56.140(1), \u201c\u2018[possessing stolen property\u2019 means knowingly to receive, retain, possess, conceal, or dispose of stolen property knowing that it has been stolen and to withhold or appropriate the same to the use of any person other than the true owner or person entitled thereto.\u201d At issue is whether RCW 9A.56.140(1) merely defines the essential element of \u201cpossession\u201d or instead provides an additional essential element the State must allege when charging a criminal defendant with possession of a stolen motor vehicle.\n\u00b610 In reversing Porter\u2019s conviction for possession of a stolen motor vehicle, the Court of Appeals relied on Satterthwaite, 186 Wn. App. 359, which addressed the identical issue presented in this case. In Satterthwaite, the Court of Appeals held that RCW 9A.56.140(1) constituted an essential element of possession of a stolen motor vehicle\u2014rather than a definition of an essential element\u2014 because withholding the stolen property from the owner is what ultimately makes possessing the stolen vehicle illegal. Id. at 365. Otherwise, the Court of Appeals reasoned, the law would not differentiate between \u201ca person attempting to return known stolen property and a person choosing to keep, use, or dispose of known stolen property.\u201d Id. at 364. The Court of Appeals therefore held that \u201c \u2018withhold or appropriate\u2019 \u201d is an essential element of RCW 9A.56.068 because it establishes the very illegality of the act. Id. at 365.\n\u00b611 The State argues Satterthwaite is inconsistent with Johnson. Suppl. Br. of Pet\u2019r at 8. We agree. In Johnson, this court clarified the difference between an essential element and a definition of an element, holding that the \u201cState need not include definitions of elements in the information.\u201d 180 Wn.2d at 302. In Johnson, the defendant was charged with unlawful imprisonment. Id. at 301. The information read:\n\u201cAnd I, Daniel T. Satterberg, Prosecuting Attorney aforesaid further do accuse J.C. JOHNSON of the crime of Unlawful Imprisonment - Domestic Violence, based on a series of acts connected together with another crime charged herein, committed as follows:\n\u201cThat the defendant J.C. JOHNSON in King County, Washington, during a period of time intervening between May 4, 2009 through May 6, 2009, did knowingly restrain [J.J.], a human being;\n\u201cContrary to RCW 9A.40.040, and against the peace and dignity of the State of Washington.\u201d\nId. (alteration in original). The defendant challenged the information, arguing it was constitutionally insufficient for not including the definition of \u201crestrain.\u201d Id. at 301-02. Finding the charging document sufficient, this court held that the State was not required to include definitions of elements and that it was enough for the State to allege all of the essential elements found in the unlawful imprisonment statute. Id.\n\u00b612 Under our analysis in Johnson, the information charging Porter with unlawful possession of a stolen vehicle passes constitutional muster. Contrary to Porter\u2019s argument, the State was not required to include the definition of \u201cpossess.\u201d Like the definition of \u201crestrain,\u201d the definition of \u201cpossess\u201d defines and limits the scope of the essential elements of the crime of unlawful possession of a stolen motor vehicle. See also State v. Allen, 176 Wn.2d 611, 626-30, 294 P.3d 679 (2013) (plurality opinion) (upholding an information charging felony harassment as constitutional when it did not articulate the constitutional limitation that only true threats may be charged because the \u201ctrue threat\u201d concept merely defines and limits the scope of the essential threat element in the harassment statute).\n\u00b613 When liberally construed as required under Kjorsvik, the charging document clearly put Porter on notice that possessing a stolen vehicle was illegal, which is the primary purpose of the essential element rule. Vangerpen, 125 Wn.2d at 787. The charging document also alleged that Porter knowingly possessed property he knew to be stolen, and it referenced RCW 9A.56.140, which provides the applicable definition of \u201cpossess.\u201d Though \u201c[m]erely citing to the proper statute and naming the offense is insufficient to charge a crime unless the name of the offense apprises the defendant of all of the essential elements of the crime,\u201d here the information sufficiently articulated the essential elements of the crime for which Porter was charged, making further elaboration of what it means to unlawfully possess stolen property unnecessary. Id. While it certainly could have been more elaborate, the information was constitutionally sufficient. The Court of Appeals erred by vacating Porter\u2019s conviction.\n\u00b614 Because the Court of Appeals relied on Satter-thwaite, we take this opportunity to disapprove that decision. Satterthwaite is erroneously premised on the notion that the illegality of the conduct proscribed in RCW 9A.56.068 is withholding a stolen motor vehicle from the true owner. But that is contrary to RCW 9A.56.068\u2019s plain terms. Under RCW 9A.56.068, a \u201cperson is guilty of possession of a stolen vehicle if he or she . . . [possesses] a stolen motor vehicle.\u201d RCW 9A.56.068(1) (second alteration in original). The fact that \u201cpossession\u201d is more precisely defined in a way that might vindicate someone who unwittingly possesses the stolen property and thus does not withhold it from the true owner does not add to the essential elements of RCW 9A.56.068. Instead, it limits and defines the scope of the essential element, which the State is not required to allege under Johnson.\n\u00b615 To support his argument that the definition of \u201cpossess\u201d is an essential element of the crime for which he is charged, Porter points to the fact that the jury instructions at trial contained that definition. Suppl. Br. of Resp\u2019t at 6-7. Porter cites no authority\u2014binding, persuasive, or otherwise\u2014to support his argument that charging documents must mirror pattern to-convict jury instructions. And for good reason: charging documents and jury instructions serve very different purposes. Jury instructions \u201callow [ ] each party to argue its theory of the case\u201d and \u201cmust convey to the jury that the State bears the burden of proving every essential element of a criminal offense beyond a reasonable doubt.\u201d State v. Bennett, 161 Wn.2d 303, 307, 165 P.3d 1241 (2007) (citing Victor v. Nebraska, 511 U.S. 1, 5-6, 114 S. Ct. 1239, 127 L. Ed. 2d 583 (1994)). Charging documents serve to put the defendant on notice of the crime against him. Vangerpen, 125 Wn.2d at 787.\n\u00b616 Finally, Porter\u2019s reliance on State v. Moavenzadeh, 135 Wn.2d 359, 956 P.2d 1097 (1998), and State v. McKinsey, 116 Wn.2d 911, 810 P.2d 907 (1991), is misplaced. In Moavenzadeh, this court reversed a defendant\u2019s conviction when an information charging three counts of first degree possession of stolen property \u201ccontain[ed] no language which cfould] fairly be read to allege that [the defendant] knew the property was stolen.\u201d 135 Wn.2d at 363. Overruling prior cases, the court held that the knowledge element of possession of stolen property is an essential element. Id. at 363-64. Here, the charging document clearly put Porter on notice that he was being charged for \u201cpossess[ing] a stolen motor vehicle, knowing that it had been stolen.\u201d CP at 1. Further elaboration of how a person may \u201cpossess\u201d stolen property was unnecessary. And although this court in McKinsey included the words \u201cwithhold or appropriate\u201d in setting out the elements of the crime that must be proved, it did not announce them as essential elements of the crime for charging purposes. 116 Wn.2d at 913. Instead, the issue in McKinsey was whether possession of stolen property is a crime of dishonesty admissible for impeachment purposes. Id. at 912. McKinsey does not undercut the clear holding in Johnson recognizing that not all aspects of proof that are necessary at trial constitute essential elements that must be included in the information. Johnson, 180 Wn.2d at 301-02.\nCONCLUSION\n\u00b617 Liberally construed, the charging document included all essential elements of the crime of possession of a stolen motor vehicle. The State was not required to include the definitional element of \u201cpossess\u201d to properly charge Porter. Accordingly, we reinstate Porter\u2019s conviction for unlawful possession of a stolen motor vehicle and remand to the Court of Appeals to address Porter\u2019s remaining claims.\nMadsen, C.J., and Johnson, Owens, Fairhurst, Wiggins, Gonz\u00e1lez, Gordon McCloud, and Yu, JJ., concur.",
+        "type": "majority",
+        "author": "Stephens, J."
+      }
+    ],
+    "attorneys": [
+      "Mark E. Lindquist, Prosecuting Attorney, and Thomas C. Roberts, Deputy, for petitioner.",
+      "Kevin A. March (of Nielsen Broman & Koch PLLC), for respondent."
+    ],
+    "corrections": "",
+    "head_matter": "[No. 92060-5.\nMay 24, 2016.\nDecided July 14, 2016.\nThe State of Washington, Petitioner, v. Clifford Melvin Porter, Jr., Respondent.\nMark E. Lindquist, Prosecuting Attorney, and Thomas C. Roberts, Deputy, for petitioner.\nKevin A. March (of Nielsen Broman & Koch PLLC), for respondent."
+  },
+  "file_name": "0085-01",
+  "first_page_order": 123,
+  "last_page_order": 132
+}

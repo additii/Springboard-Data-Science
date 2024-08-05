@@ -1,0 +1,78 @@
+{
+  "id": 12457129,
+  "name": "State, Respondent, v. Hurn, Petitioner",
+  "name_abbreviation": "State v. Hurn",
+  "decision_date": "2016-06-29",
+  "docket_number": "No. 92843-6",
+  "first_page": "1036",
+  "last_page": "1036",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "185 Wash. 2d 1036"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Wash.",
+    "id": 9029,
+    "name": "Washington Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 38,
+    "name_long": "Washington",
+    "name": "Wash."
+  },
+  "cites_to": [
+    {
+      "cite": "191 Wn. App. 1035",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        12461113,
+        12461114,
+        12461115,
+        12461116
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/191/1035-01",
+        "/wash-app/191/1035-02",
+        "/wash-app/191/1035-03",
+        "/wash-app/191/1035-04"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 28,
+    "char_count": 186,
+    "ocr_confidence": 0.86,
+    "sha256": "732e470eb96bd0f4e5991a6a51d158d744178e796741cca876ee12cbc5aa5b1a",
+    "simhash": "1:a9d94e681dc551bd",
+    "word_count": 31
+  },
+  "last_updated": "2024-02-28T00:06:59.447104+00:00",
+  "provenance": {
+    "date_added": "2019-05-22",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "State, Respondent, v. Hurn, Petitioner,"
+    ],
+    "opinions": [
+      {
+        "text": "Petition for review of a decision of the Court of Appeals, No. 71813-4-1, December 7, 2015, 191 Wn. App. 1035. Denied June 29, 2016.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "State, Respondent, v. Hurn, Petitioner,\nNo. 92843-6."
+  },
+  "file_name": "1036-01",
+  "first_page_order": 988,
+  "last_page_order": 988
+}

@@ -1,0 +1,1481 @@
+{
+  "id": 6792584,
+  "name": "Kent L. Davis et al., Petitioners, v. Grace Cox et al., Respondents",
+  "name_abbreviation": "Davis v. Cox",
+  "decision_date": "2015-05-28",
+  "docket_number": "No. 90233-0",
+  "first_page": "269",
+  "last_page": "296",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "183 Wash. 2d 269"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Wash.",
+    "id": 9029,
+    "name": "Washington Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 38,
+    "name_long": "Washington",
+    "name": "Wash."
+  },
+  "cites_to": [
+    {
+      "cite": "559 U.S. 460",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3582194,
+        12448252
+      ],
+      "weight": 3,
+      "year": 2010,
+      "pin_cites": [
+        {
+          "page": "472-73",
+          "parenthetical": "recognizing that whether subsequent United States Supreme Court case law has repudiated Salerno on this point is unresolved"
+        },
+        {
+          "parenthetical": "recognizing that whether subsequent United States Supreme Court case law has repudiated Salerno on this point is unresolved"
+        },
+        {
+          "parenthetical": "recognizing that whether subsequent United States Supreme Court case law has repudiated Salerno on this point is unresolved"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/559/0460-01",
+        "/l-ed-2d/176/0435-01"
+      ]
+    },
+    {
+      "cite": "95 L. Ed. 2d 697",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "case_ids": [
+        6222105,
+        1148012
+      ],
+      "year": 1987,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/481/0739-01",
+        "/us/341/0001-01"
+      ]
+    },
+    {
+      "cite": "481 U.S. 739",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6222105
+      ],
+      "weight": 2,
+      "year": 1987,
+      "pin_cites": [
+        {
+          "page": "745"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/481/0739-01"
+      ]
+    },
+    {
+      "cite": "381 U.S. 657",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6172709
+      ],
+      "weight": 3,
+      "year": 1965,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/381/0671-01"
+      ]
+    },
+    {
+      "cite": "23 L. Ed. 678",
+      "category": "reporters:federal",
+      "reporter": "L. Ed.",
+      "case_ids": [
+        8767
+      ],
+      "year": 1875,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/92/0090-01"
+      ]
+    },
+    {
+      "cite": "241 U.S. 211",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        8286544
+      ],
+      "weight": 3,
+      "year": 1916,
+      "pin_cites": [
+        {
+          "page": "217"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/241/0211-01"
+      ]
+    },
+    {
+      "cite": "325 P.3d 913",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2014,
+      "pin_cites": [
+        {
+          "parenthetical": "review stayed pending this case"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "180 Wn.2d 1008",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "year": 2014,
+      "pin_cites": [
+        {
+          "parenthetical": "review stayed pending this case"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "641 A.2d 1012",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "weight": 2,
+      "year": 1994,
+      "pin_cites": [
+        {
+          "page": "1015",
+          "parenthetical": "invalidating an anti-SLAPP bill because the law \"cannot strengthen the constitutional rights of one group of citizens by infringing upon the rights of another group\""
+        },
+        {
+          "page": "1013-15",
+          "parenthetical": "holding a proposed anti-SLAPP bill using an \"a probability\" evidentiary standard \"modeled after the California statute\" violated the constitutional right of trial by jury"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "138 N.H. 445",
+      "category": "reporters:state",
+      "reporter": "N.H.",
+      "case_ids": [
+        2294747
+      ],
+      "weight": 2,
+      "year": 1994,
+      "pin_cites": [
+        {
+          "parenthetical": "invalidating an anti-SLAPP bill because the law \"cannot strengthen the constitutional rights of one group of citizens by infringing upon the rights of another group\""
+        },
+        {
+          "parenthetical": "holding a proposed anti-SLAPP bill using an \"a probability\" evidentiary standard \"modeled after the California statute\" violated the constitutional right of trial by jury"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nh/138/0445-01"
+      ]
+    },
+    {
+      "cite": "897 P.2d 358",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1995,
+      "pin_cites": [
+        {
+          "parenthetical": "holding a provision that was \"the heart and soul of the Act\" is nonseverable"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "127 Wn.2d 194",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        433063
+      ],
+      "year": 1995,
+      "pin_cites": [
+        {
+          "page": "202",
+          "parenthetical": "holding a provision that was \"the heart and soul of the Act\" is nonseverable"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/127/0194-01"
+      ]
+    },
+    {
+      "cite": "501 P.2d 184",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1972,
+      "opinion_index": 0
+    },
+    {
+      "cite": "81 Wn.2d 234",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1064094
+      ],
+      "year": 1972,
+      "pin_cites": [
+        {
+          "page": "236"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/81/0234-01"
+      ]
+    },
+    {
+      "cite": "949 P.2d 1366",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1998,
+      "opinion_index": 0
+    },
+    {
+      "cite": "134 Wn.2d 188",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        452298
+      ],
+      "year": 1998,
+      "pin_cites": [
+        {
+          "page": "197"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/134/0188-01"
+      ]
+    },
+    {
+      "cite": "954 P.2d 290",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1998,
+      "pin_cites": [
+        {
+          "parenthetical": "properly holding judgment may be entered against a plaintiff's claim on summary judgment without the claim being frivolous"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "90 Wn. App. 533",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        428751
+      ],
+      "year": 1998,
+      "pin_cites": [
+        {
+          "page": "546",
+          "parenthetical": "properly holding judgment may be entered against a plaintiff's claim on summary judgment without the claim being frivolous"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/90/0533-01"
+      ]
+    },
+    {
+      "cite": "829 P.2d 1099",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1992,
+      "pin_cites": [
+        {
+          "parenthetical": "\"The fact that a [claim] does not prevail on its merits is by no means dispositive of the question of CR 11 sanctions.\""
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "119 Wn.2d 210",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1370269
+      ],
+      "year": 1992,
+      "pin_cites": [
+        {
+          "page": "220",
+          "parenthetical": "\"The fact that a [claim] does not prevail on its merits is by no means dispositive of the question of CR 11 sanctions.\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/119/0210-01"
+      ]
+    },
+    {
+      "cite": "613 P.2d 187",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1980,
+      "opinion_index": 0
+    },
+    {
+      "cite": "26 Wn. App. 430",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        1833868
+      ],
+      "year": 1980,
+      "pin_cites": [
+        {
+          "page": "435"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/26/0430-01"
+      ]
+    },
+    {
+      "cite": "665 P.2d 887",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1983,
+      "pin_cites": [
+        {
+          "parenthetical": "\" '[A]n appeal is frivolous if there are no debatable issues upon which reasonable minds might differ, and it is so totally devoid of merit that there was no reasonable possibility of reversal.' \" (quoting Streater v. White, 26 Wn. App. 430, 435, 613 P.2d 187 (1980))"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "100 Wn.2d 9",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1142108
+      ],
+      "year": 1983,
+      "pin_cites": [
+        {
+          "page": "15",
+          "parenthetical": "\" '[A]n appeal is frivolous if there are no debatable issues upon which reasonable minds might differ, and it is so totally devoid of merit that there was no reasonable possibility of reversal.' \" (quoting Streater v. White, 26 Wn. App. 430, 435, 613 P.2d 187 (1980))"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/100/0009-01"
+      ]
+    },
+    {
+      "cite": "259 P.3d 1095",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2011,
+      "pin_cites": [
+        {
+          "parenthetical": "\"A frivolous action is one that cannot be supported by any rational argument on the law or facts.\""
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "172 Wn.2d 568",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4018569
+      ],
+      "year": 2011,
+      "pin_cites": [
+        {
+          "page": "582",
+          "parenthetical": "\"A frivolous action is one that cannot be supported by any rational argument on the law or facts.\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/172/0568-01"
+      ]
+    },
+    {
+      "cite": "207 U.S. 142",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3641308
+      ],
+      "weight": 3,
+      "year": 1907,
+      "pin_cites": [
+        {
+          "page": "148"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/207/0142-01"
+      ]
+    },
+    {
+      "cite": "508 U.S. 49",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11789
+      ],
+      "weight": 3,
+      "year": 1993,
+      "pin_cites": [
+        {
+          "page": "60-61"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/508/0049-01"
+      ]
+    },
+    {
+      "cite": "365 U.S. 127",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6164740
+      ],
+      "weight": 6,
+      "year": 1961,
+      "pin_cites": [
+        {
+          "page": "144"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/365/0127-01"
+      ]
+    },
+    {
+      "cite": "29 U.S.C. \u00a7\u00a7 151-169",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "404 U.S. 508",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6175041
+      ],
+      "weight": 3,
+      "year": 1972,
+      "pin_cites": [
+        {
+          "page": "513"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/404/0508-01"
+      ]
+    },
+    {
+      "cite": "536 U.S. 516",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1254794
+      ],
+      "weight": 7,
+      "year": 2002,
+      "pin_cites": [
+        {
+          "page": "525"
+        },
+        {
+          "page": "525"
+        },
+        {
+          "page": "524-26"
+        },
+        {
+          "page": "537",
+          "parenthetical": "\"[Nlothing in our holding today should be read to question the validity ... of statutory provisions that merely authorize the imposition of attorney's fees on a losing plaintiff.\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/536/0516-01"
+      ]
+    },
+    {
+      "cite": "467 U.S. 883",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6210025
+      ],
+      "weight": 3,
+      "year": 1984,
+      "pin_cites": [
+        {
+          "page": "896-97"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/467/0883-01"
+      ]
+    },
+    {
+      "cite": "564 U.S. 379",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12450493,
+        4335054
+      ],
+      "weight": 3,
+      "year": 2011,
+      "pin_cites": [
+        {
+          "page": "387",
+          "parenthetical": "\" \u00a3[T]he right of access to courts for redress of wrongs is an aspect of the First Amendment right to petition the government.' \" (alteration in original"
+        },
+        {
+          "parenthetical": "\" \u00a3[T]he right of access to courts for redress of wrongs is an aspect of the First Amendment right to petition the government.' \" (alteration in original) (quoting Sure-Tan, Inc. v. Nat'l Labor Relations Bd., 467 U.S. 883, 896-97, 104 S. Ct. 2803, 81 L. Ed. 2d 732 (1984"
+        },
+        {
+          "parenthetical": "\" \u00a3[T]he right of access to courts for redress of wrongs is an aspect of the First Amendment right to petition the government.' \" (alteration in original) (quoting Sure-Tan, Inc. v. Nat'l Labor Relations Bd., 467 U.S. 883, 896-97, 104 S. Ct. 2803, 81 L. Ed. 2d 732 (1984"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/l-ed-2d/180/0408-01",
+        "/us/564/0379-01"
+      ]
+    },
+    {
+      "cite": "461 U.S. 731",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11299326
+      ],
+      "weight": 8,
+      "year": 1983,
+      "pin_cites": [
+        {
+          "page": "741"
+        },
+        {
+          "page": "741"
+        },
+        {
+          "page": "733"
+        },
+        {
+          "page": "743-44"
+        },
+        {
+          "page": "745"
+        },
+        {
+          "page": "743"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/461/0731-01"
+      ]
+    },
+    {
+      "cite": "505 F.2d 1199",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        118943
+      ],
+      "year": 1974,
+      "pin_cites": [
+        {
+          "page": "1203"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/505/1199-01"
+      ]
+    },
+    {
+      "cite": "415 P.2d 93",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1966,
+      "opinion_index": 0
+    },
+    {
+      "cite": "68 Wn.2d 721",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1052862
+      ],
+      "year": 1966,
+      "pin_cites": [
+        {
+          "page": "725"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/68/0721-01"
+      ]
+    },
+    {
+      "cite": "770 P.2d 1027",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1989,
+      "pin_cites": [
+        {
+          "parenthetical": "citing Nave v. City of Seattle, 68 Wn.2d 721, 725, 415 P.2d 93 (1966); Diamond Door Co. v. Lane-Stanton Lumber Co., 505 F.2d 1199, 1203 (9th Cir. 1974)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "112 Wn.2d 193",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1175496
+      ],
+      "year": 1989,
+      "pin_cites": [
+        {
+          "parenthetical": "citing Nave v. City of Seattle, 68 Wn.2d 721, 725, 415 P.2d 93 (1966); Diamond Door Co. v. Lane-Stanton Lumber Co., 505 F.2d 1199, 1203 (9th Cir. 1974)"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/112/0193-01"
+      ]
+    },
+    {
+      "cite": "780 P.2d 260",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "weight": 3,
+      "year": 1989,
+      "opinion_index": 0
+    },
+    {
+      "cite": "771 P.2d 711",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "weight": 2,
+      "year": 1989,
+      "opinion_index": 0
+    },
+    {
+      "cite": "112 Wn.2d 636",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1175478
+      ],
+      "weight": 2,
+      "year": 1989,
+      "pin_cites": [
+        {
+          "page": "656"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/112/0636-01"
+      ]
+    },
+    {
+      "cite": "685 N.W.2d 12",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.2d",
+      "case_ids": [
+        9189315
+      ],
+      "year": 2004,
+      "pin_cites": [
+        {
+          "page": "23"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nw2d/685/0012-01"
+      ]
+    },
+    {
+      "cite": "Minn. Stat. \u00a7 554.02",
+      "category": "laws:leg_statute",
+      "reporter": "Minn. Stat.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "848 N.W.2d 224",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.2d",
+      "case_ids": [
+        6933714
+      ],
+      "weight": 3,
+      "year": 2014,
+      "pin_cites": [
+        {
+          "page": "231-33"
+        },
+        {
+          "page": "232",
+          "parenthetical": "alteration in original"
+        },
+        {
+          "page": "232"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nw2d/848/0224-01"
+      ]
+    },
+    {
+      "cite": "785 N.W.2d 771",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.2d",
+      "case_ids": [
+        7081119
+      ],
+      "year": 2010,
+      "pin_cites": [
+        {
+          "page": "781-82"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nw2d/785/0771-01"
+      ]
+    },
+    {
+      "cite": "324 P.3d 707",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2014,
+      "opinion_index": 0
+    },
+    {
+      "cite": "180 Wn. App. 620",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        4188359
+      ],
+      "year": 2014,
+      "pin_cites": [
+        {
+          "page": "636-37"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/180/0620-01"
+      ]
+    },
+    {
+      "cite": "346 P.3d 789",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2015,
+      "opinion_index": 0
+    },
+    {
+      "cite": "186 Wn. App. 562",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        4172996
+      ],
+      "year": 2015,
+      "pin_cites": [
+        {
+          "page": "571"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/186/0562-01"
+      ]
+    },
+    {
+      "cite": "783 F.3d 1328",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        6055498,
+        4149534
+      ],
+      "weight": 2,
+      "year": 2015,
+      "pin_cites": [
+        {
+          "page": "1334-35"
+        },
+        {
+          "parenthetical": "\"Put simply, the D.C. Anti-SLAPP Act's likelihood of success standard is different from and more difficult for plaintiffs to meet than the standards imposed by Federal Rules 12 and 56.\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us-app-dc/414/0465-01",
+        "/f3d/783/1328-01"
+      ]
+    },
+    {
+      "cite": "253 Or. App. 558",
+      "category": "reporters:state",
+      "reporter": "Or. App.",
+      "case_ids": [
+        4008475
+      ],
+      "weight": 3,
+      "year": 2012,
+      "pin_cites": [
+        {
+          "page": "794"
+        },
+        {
+          "page": "794",
+          "parenthetical": "emphasis added"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/or-app/253/0558-01"
+      ]
+    },
+    {
+      "cite": "975 F. Supp. 2d 1",
+      "category": "reporters:federal",
+      "reporter": "F. Supp. 2d",
+      "case_ids": [
+        4234300
+      ],
+      "weight": 2,
+      "year": 2013,
+      "pin_cites": [
+        {
+          "page": "13",
+          "parenthetical": "applying Washington, DC, law"
+        },
+        {
+          "page": "13"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp-2d/975/0001-01"
+      ]
+    },
+    {
+      "cite": "938 So. 2d 792",
+      "category": "reporters:state_regional",
+      "reporter": "So. 2d",
+      "case_ids": [
+        8472729
+      ],
+      "weight": 2,
+      "year": 2006,
+      "pin_cites": [
+        {
+          "page": "796"
+        },
+        {
+          "page": "796"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/so2d/938/0792-01"
+      ]
+    },
+    {
+      "cite": "2012 U.S. Dist. LEXIS 72837",
+      "category": "reporters:specialty_lexis",
+      "reporter": "U.S. Dist. LEXIS",
+      "year": 2012,
+      "pin_cites": [
+        {
+          "page": "*8-9",
+          "parenthetical": "court order"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "2012 WL 1899228",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "year": 2012,
+      "pin_cites": [
+        {
+          "page": "*3",
+          "parenthetical": "court order"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "969 F. Supp. 2d 1026",
+      "category": "reporters:federal",
+      "reporter": "F. Supp. 2d",
+      "case_ids": [
+        4126831
+      ],
+      "year": 2013,
+      "pin_cites": [
+        {
+          "page": "1041-55"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp-2d/969/1026-01"
+      ]
+    },
+    {
+      "cite": "2012 U.S. Dist. LEXIS 172015",
+      "category": "reporters:specialty_lexis",
+      "reporter": "U.S. Dist. LEXIS",
+      "year": 2012,
+      "pin_cites": [
+        {
+          "page": "*5",
+          "parenthetical": "court order"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "2012 WL 6024765",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "year": 2012,
+      "pin_cites": [
+        {
+          "page": "*2",
+          "parenthetical": "court order"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "732 F.3d 936",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3709512
+      ],
+      "year": 2013,
+      "pin_cites": [
+        {
+          "page": "941-42"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/732/0936-01"
+      ]
+    },
+    {
+      "cite": "976 P.2d 1229",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1999,
+      "opinion_index": 0
+    },
+    {
+      "cite": "137 Wn.2d 712",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        179341
+      ],
+      "year": 1999,
+      "pin_cites": [
+        {
+          "page": "723"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/137/0712-01"
+      ]
+    },
+    {
+      "cite": "Cal. Civ. Proc. Code \u00a7 425.17",
+      "category": "laws:leg_statute",
+      "reporter": "Cal. Code",
+      "pin_cites": [
+        {
+          "page": "(a)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "Cal. Civ. Proc. Code \u00a7 425.16",
+      "category": "laws:leg_statute",
+      "reporter": "Cal. Code",
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "(b)(1)",
+          "parenthetical": "emphasis added"
+        },
+        {
+          "page": "(b)(1)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "242 P.3d 876",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2010,
+      "opinion_index": 0
+    },
+    {
+      "cite": "170 Wn.2d 536",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4012473
+      ],
+      "year": 2010,
+      "pin_cites": [
+        {
+          "page": "543"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/170/0536-01"
+      ]
+    },
+    {
+      "cite": "530 U.S. 327",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        9413776
+      ],
+      "weight": 3,
+      "year": 2000,
+      "pin_cites": [
+        {
+          "page": "341"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/530/0327-01"
+      ]
+    },
+    {
+      "cite": "178 P.3d 1021",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2008,
+      "pin_cites": [
+        {
+          "parenthetical": "internal quotation marks omitted"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "163 Wn.2d 277",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        5682646
+      ],
+      "year": 2008,
+      "pin_cites": [
+        {
+          "page": "282",
+          "parenthetical": "internal quotation marks omitted"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/163/0277-01"
+      ]
+    },
+    {
+      "cite": "63 P.3d 792",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2003,
+      "opinion_index": 0
+    },
+    {
+      "cite": "148 Wn.2d 723",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        609197
+      ],
+      "year": 2003,
+      "pin_cites": [
+        {
+          "page": "727"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/148/0723-01"
+      ]
+    },
+    {
+      "cite": "43 P.3d 4",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "weight": 4,
+      "year": 2002,
+      "pin_cites": [
+        {
+          "parenthetical": "emphasis added"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "146 Wn.2d 1",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        960829
+      ],
+      "year": 2002,
+      "pin_cites": [
+        {
+          "page": "9-10"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/146/0001-01"
+      ]
+    },
+    {
+      "cite": "69 P.3d 318",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "weight": 2,
+      "year": 2003,
+      "opinion_index": 0
+    },
+    {
+      "cite": "149 Wn.2d 444",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1292565
+      ],
+      "year": 2003,
+      "pin_cites": [
+        {
+          "page": "450"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/149/0444-01"
+      ]
+    },
+    {
+      "cite": "327 P.3d 635",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2014,
+      "opinion_index": 0
+    },
+    {
+      "cite": "180 Wn.2d 590",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4242028
+      ],
+      "year": 2014,
+      "pin_cites": [
+        {
+          "page": "596-97"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/180/0590-01"
+      ]
+    },
+    {
+      "cite": "523 U.S. 224",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11503479
+      ],
+      "weight": 3,
+      "year": 1998,
+      "pin_cites": [
+        {
+          "page": "238"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/523/0224-01"
+      ]
+    },
+    {
+      "cite": "550 U.S. 124",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3555978
+      ],
+      "weight": 3,
+      "year": 2007,
+      "pin_cites": [
+        {
+          "page": "154",
+          "parenthetical": "quoting Almendarez-Torres v. United States, 523 U.S. 224, 238, 118 S. Ct. 1219, 140 L. Ed. 2d 350 (1998)"
+        },
+        {
+          "parenthetical": "quoting Almendarez-Torres v. United States, 523 U.S. 224, 238, 118 S. Ct. 1219, 140 L. Ed. 2d 350 (1998)"
+        },
+        {
+          "parenthetical": "quoting Almendarez-Torres v. United States, 523 U.S. 224, 238, 118 S. Ct. 1219, 140 L. Ed. 2d 350 (1998)"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/550/0124-01"
+      ]
+    },
+    {
+      "cite": "316 P.3d 1119",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2014,
+      "opinion_index": 0
+    },
+    {
+      "cite": "179 Wn. App. 41",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        4100971
+      ],
+      "weight": 5,
+      "year": 2014,
+      "pin_cites": [
+        {
+          "page": "86-90"
+        },
+        {
+          "page": "86-90"
+        },
+        {
+          "page": "86-90",
+          "parenthetical": "noting it was not \"strictly necessary\" to do so but stating it would \"take this opportunity\" to engage in a five-page discussion instructing Washington courts that they \"should\" use a summary judgment analysis"
+        },
+        {
+          "page": "87-88"
+        },
+        {
+          "parenthetical": "emphasis omitted"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/179/0041-01"
+      ]
+    },
+    {
+      "cite": "216 P.3d 374",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2009,
+      "opinion_index": 0
+    },
+    {
+      "cite": "166 Wn.2d 974",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4001829
+      ],
+      "year": 2009,
+      "pin_cites": [
+        {
+          "page": "979-85"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/166/0974-01"
+      ]
+    },
+    {
+      "cite": "345 P.3d 784",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2014,
+      "opinion_index": 0
+    },
+    {
+      "cite": "182 Wn.2d 1008",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "year": 2014,
+      "opinion_index": 0
+    },
+    {
+      "cite": "325 P.3d 255",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2014,
+      "opinion_index": 0
+    },
+    {
+      "cite": "180 Wn. App. 514",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        4186757
+      ],
+      "weight": 4,
+      "year": 2014,
+      "pin_cites": [
+        {
+          "page": "546-47"
+        },
+        {
+          "page": "528, 546-47"
+        },
+        {
+          "page": "528, 546-47",
+          "parenthetical": "quoting Dillon as if it announced a holding on this issue"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/180/0514-01"
+      ]
+    },
+    {
+      "cite": "86 Wash. L. Rev. 663",
+      "category": "journals:journal",
+      "reporter": "Wash. L. Rev.",
+      "weight": 2,
+      "year": 2011,
+      "pin_cites": [
+        {
+          "page": "666-68"
+        },
+        {
+          "page": "666-67"
+        }
+      ],
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 1979,
+    "char_count": 50871,
+    "ocr_confidence": 0.775,
+    "pagerank": {
+      "raw": 3.0786252192197397e-07,
+      "percentile": 0.8578446079288793
+    },
+    "sha256": "4550d561621a771aa8a6a3d907b600467bd5a24663ce1374415240cd288a9694",
+    "simhash": "1:f61b639508bca146",
+    "word_count": 8222
+  },
+  "last_updated": "2024-02-27T22:09:01.011694+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Madsen, C.J., and Johnson, Owens, Fairhurst, Wiggins, Gonz\u00e1lez, Gordon McCloud, and Yu, JJ., concur."
+    ],
+    "parties": [
+      "Kent L. Davis et al., Petitioners, v. Grace Cox et al., Respondents."
+    ],
+    "opinions": [
+      {
+        "text": "Stephens, J.\n\u00b61 This case requires us to decide the contitutionality of the Washington Act Limiting Strategic Lawsuits Against Public Participation (anti-SLAPP statute). Laws of 2010, ch. 118 (codified at RCW 4.24.525). In the statute\u2019s prefatory findings, the legislature explained it was \u201cconcerned about lawsuits brought primarily to chill the valid exercise of the constitutional rights of freedom of speech and petition for the redress of grievances,\u201d id. \u00a7 l(l)(a), and so the statute\u2019s purpose was to establish \u201can efficient, uniform, and comprehensive method for speedy adjudication\u201d of such lawsuits, id. \u00a7 l(2)(b).\n\u00b62 The statute attempts to achieve this goal in three principal ways. It halts discovery in such cases presumptively, RCW 4.24.525(5)(c), creates a \u201cspecial motion to strike a claim\u201d (anti-SLAPP motion), id. at (4)(b), and awards a prevailing party on the motion attorney fees and a $10,000 assessment, id. at (6)(a). When ruling on an anti-SLAPP motion, the trial court first determines whether the claim at issue is \u201cbased on an action involving public participation and petition,\u201d a defined term that broadly describes rights of expression and petition. Id. at (4)(b). If that is so, the trial court then decides whether the party bringing the claim can prove by \u201cclear and convincing evidence a probability of prevailing on the claim.\u201d Id. If the party cannot meet that burden, the statute requires the trial court to dismiss the claim and award statutory remedies to the opposing party. Id. at (6)(a).\n\u00b63 Though the statute seeks to \u201c[s] trike a balance between the rights of persons to file lawsuits and to trial by jury and the rights of persons to participate in matters of public concern,\u201d Laws of 2010, ch. 118, \u00a7 l(2)(a), we conclude the statute\u2019s evidentiary burden fails to strike the balance that the Washington Constitution requires. Because RCW 4.24.525(4)(b) requires the trial judge to adjudicate factual questions in nonfrivolous claims without a trial, we hold RCW 4.24.525 violates the right of trial by jury under article I, section 21 of the Washington Constitution and is invalid. We reverse the Court of Appeals and remand this case to the superior court for further proceedings.\nI. BACKGROUND\nA. Overview of Washington\u2019s Anti-SLAPP Laws\n\u00b64 Anti-SLAPP statutes punish those who file lawsuits \u2014 labeled strategic lawsuits against public participation or SLAPPs \u2014 that abuse the judicial process in order to silence an individual\u2019s free expression or petitioning activity. Tom Wyrwich, A Cure for a \u201cPublic Concern\u201d: Washington\u2019s New Anti-SLAPP Law, 86 Wash. L. Rev. 663, 666-68 (2011). Such litigation is initiated \u201c[w]ith no concern for the inevitable failure of the lawsuit\u201d and instead only forces the defendant into costly litigation that \u201cdevastate [s] the defendant financially and chill [s] the defendant\u2019s public involvement.\u201d Id. at 666-67. Though such suits are \u201ctypically dismissed as groundless or unconstitutional,\u201d the problem is that dismissal comes only after \u201cthe defendants are put to great expense, harassment, and interruption of their productive activities.\u201d Laws of 2010, ch. 118, \u00a7 l(l)(b).\n\u00b65 In 1989, Washington became the first state to enact anti-SLAPP legislation. Laws of 1989, ch. 234 (codified as amended at RCW 4.24.500-.520). This initial statute grants speakers immunity from claims based on the speaker\u2019s communication to a governmental entity regarding any matter reasonably of concern to the governmental entity. See RCW 4.24.510. However, this statute has come to be seen as having a limited effect because it applies only to communications to governmental entities and it creates no method for early dismissal. Wyrwich, supra, at 669-70.\n\u00b66 In 2010, the legislature enacted the anti-SLAPP statute at issue in this case. Laws of 2010, ch. 118 (codified at RCW 4.24.525). This statute is unique from its predecessor in that it creates an entirely new method for adjudicating SLAPPs, separate from the rules of civil procedure. The new statute did not amend or repeal the prior statute and instead codifies its new procedures in one new statutory section. See RCW 4.24.525. Subsections (1) and (2) define key terms. Subsection (3) provides that the law does not apply to prosecutors. Subsection (4) is the law\u2019s mainspring: it establishes a \u201cspecial motion to strike a claim\u201d and sets forth the evidentiary standard that trial courts must use to adjudicate the motion. Subsection (5) contains various procedural rules to halt discovery and ensure speedy adjudication of an anti-SLAPP motion. Subsection (6) provides the prevailing party on the motion statutory damages of $10,000, attorney fees, costs, and discretionary additional relief. Subsection (7) states the statute does not abridge any other rights the movants possess.\n\u00b67 The law\u2019s mainspring, subsection (4), provides that a party may bring a special motion to strike any claim that is based on \u201can action involving public participation and petition.\u201d RCW 4.24.525(4)(a). That phrase \u2014 \u201can action involving public participation and petition\u201d \u2014 is a defined term that uses capacious language in five nonexclusive examples. See id. at (2)(a)-(e). When a party brings such a motion, the moving party has \u201cthe initial burden of showing by a preponderance of the evidence\u201d that the claim is based on an action involving public participation and petition. Id. at (4)(b). If the moving party meets this burden, the burden shifts to the responding party \u201cto establish by clear and convincing evidence a probability of prevailing on the claim.\u201d Id. When a trial judge adjudicates such a motion, \u201cthe court shall consider pleadings and supporting and opposing affidavits stating the facts upon which the liability or defense is based.\u201d Id. at (4)(c). If the court determines the responding party has met its burden to establish by clear and convincing evidence a probability of prevailing on the claim, \u201cthe substance of the determination may not be admitted into evidence at any later stage of the case,\u201d id. at (4)(d)(i), and the case proceeds toward trial.\n\u00b68 Upon the filing of a special motion to strike, subsection (5) freezes all other aspects of the litigation. Discovery is stayed, as are pending motions and hearings. Id. at (5)(c). The discovery stay remains in effect until the court rules on the special motion to strike, though on a party\u2019s motion and for good cause shown, the court may order that \u201cspecified discovery or other hearings or motions be conducted.\u201d Id.\n\u00b69 Subsection (5) also ensures the special motion to strike will be resolved quickly. The motion must be filed within 60 days of service of the most recent complaint or at a later time in the court\u2019s discretion. Id. at (5)(a). The court must hold a hearing on the motion within 30 days, unless \u201cthe docket conditions of the court require a later hearing\u201d and, regardless, the court \u201cis directed\u201d to hold the hearing \u201cwith all due speed and such hearings should receive priority.\u201d Id. The court must render its decision \u201cas soon as possible,\u201d but no later than seven days after the hearing. Id. at (5)(b). Every party has a \u201cright of expedited appeal\u201d from the trial court\u2019s order granting the motion, the trial court\u2019s order denying the motion, or the trial court\u2019s \u201cfailure to rule on the motion in a timely fashion.\u201d Id. at (5)(d).\n\u00b610 When a party prevails on an anti-SLAPP motion, the court not only dismisses the other side\u2019s claim, but also must award the moving party costs, attorney fees, and $10,000 in statutory damages. Id. at (6)(a)(i)-(ii). The court may award \u201c[s]uch additional relief ... as the court determines to be necessary to deter repetition of the conduct and comparable conduct by others similarly situated.\u201d Id. at (6)(a)(iii).\nB. Procedural Background\n\u00b611 The Olympia Food Cooperative is a nonprofit corporation grocery store. It emphasizes an egalitarian philosophy that requires consensus in decision-making and engages in various forms of public policy engagement, such as boycotts of certain goods. At issue in this case, the Cooperative\u2019s board of directors adopted a boycott of goods produced by Israel-based companies to protest Israel\u2019s perceived human rights violations. The board adopted this boycott without staff consensus on whether it should be adopted.\n\u00b612 Five members of the Cooperative (plaintiffs) brought a derivative action against 16 current or former members of its board (defendants). The complaint alleged the board acted ultra vires and breached its fiduciary duties by violating the Cooperative\u2019s written \u201cBoycott Policy.\u201d See Clerk\u2019s Papers (CP) at 106-07. That policy, adopted by the board in 1993, provides that the Cooperative \u201cwill honor nationally recognized boycotts\u201d when the staff \u201cdecide [s] by consensus\u201d to do so. Id. at 106. Because the board adopted the boycott of Israel-based companies without staff consensus, the complaint sought a declaratory judgment that the boycott was void, a permanent injunction of the boycott, and an \u201caward of damages in an amount to be proved at trial.\u201d Id. at 17. Defendants responded that the board\u2019s inherent authority to govern the Cooperative under its bylaws and the Washington Nonprofit Corporation Act, RCW 24.03-.095, authorized the adoption of the boycott without staff consensus, notwithstanding the boycott policy.\n\u00b613 Defendants filed a special motion to strike plaintiffs\u2019 claims under the anti-SLAPP statute. Plaintiffs opposed the motion on statutory and constitutional grounds and requested that the trial court lift the anti-SLAPP statute\u2019s automatic stay of discovery. The superior court denied plaintiffs\u2019 discovery request, rejected their constitutional challenges to the statute, and granted defendants\u2019 special motion to strike. Pursuant to RCW 4.24.525(6)(a), the superior court ordered plaintiffs to pay $221,846.75 to defendants: $10,000.00 in statutory damages to each defendant ($160,000.00 total), attorney fees ($61,668.00), and costs ($178.75). Plaintiffs appealed, and the Court of Appeals affirmed on all issues. Davis v. Cox, 180 Wn. App. 514, 325 P.3d 255 (2014). We granted plaintiffs\u2019 petition for review. Davis v. Cox, 182 Wn.2d 1008, 345 P.3d 784 (2014).\nII. DISCUSSION\n\u00b614 Plaintiffs and supporting amici curiae contend the anti-SLAPP statute\u2019s burden of proof, stay of discovery, and statutory penalties are unconstitutional on several grounds. They contend some or all of these provisions violate the right of trial by jury under article I, section 21 of the Washington Constitution; the Washington separation of powers doctrine under Putman v. Wenatchee Valley Medical Center, PS, 166 Wn.2d 974, 979-85, 216 P.3d 374 (2009); the Washington right of access to courts under Putman, 166 Wn.2d at 979; the petition clause of the First Amendment to the United States Constitution; and the vagueness doctrine under the due process clause of the Fourteenth Amendment to the United States Constitution. We hold the anti-SLAPP statute violates the right of trial by jury and do not resolve how these other constitutional limits may apply to the anti-SLAPP statute\u2019s provisions.\nA. The Anti-SLAPP Statute Establishes a Preliminary Procedure for Factual Adjudication of Claims without a Trial, Not a Summary Judgment Procedure\n\u00b615 Before turning to the constitutional arguments against the anti-SLAPP statute, we must resolve a dispute about how the statute operates. Defendants contend RCW 4.24.525(4)(b) requires the trial judge to perform an analysis equivalent to a summary judgment analysis, that is, not find facts and instead grant the motion only if undisputed material facts show the movant is entitled to relief as a matter of law. Plaintiffs counter that the statute requires the trial judge to weigh the evidence and make a factual determination on the probability they will prevail on the merits of their claim. The Court of Appeals below relied on its decision in Dillon v. Seattle Deposition Reporters, LLC, 179 Wn. App. 41, 86-90, 316 P.3d 1119 (2014), to construe the statute as a summary judgment analysis in order to save its constitutionality. Davis, 180 Wn. App. at 546-47. Though the doctrine of constitutional avoidance requires us to choose a constitutional interpretation of a statute over an unconstitutional interpretation when the statute is \u201c \u2018genuinely susceptible to two constructions,\u2019 \u201d Gonzales v. Carhart, 550 U.S. 124, 154, 127 S. Ct. 1610, 167 L. Ed. 2d 480 (2007) (quoting Almendarez-Torres v. United States, 523 U.S. 224, 238, 118 S. Ct. 1219, 140 L. Ed. 2d 350 (1998)), that is not the case here. We conclude the plain language of RCW 4.24.525(4)(b) is not genuinely susceptible to being interpreted as a summary judgment procedure.\n\u00b616 We review de novo questions of statutory interpretation. Eubanks v. Brown, 180 Wn.2d 590, 596-97, 327 P.3d 635 (2014). To discern and implement the legislature\u2019s intent, \u201c[w]e begin by looking at the \u2018statute\u2019s plain language and ordinary meaning.\u2019 \u201d Id. at 597 (internal quotation marks omitted) (quoting State v. J.P., 149 Wn.2d 444, 450, 69 P.3d 318 (2003)). Where a statute\u2019s plain language is unambiguous, \u201cwe \u2018must give effect to that plain meaning as an expression of legislative intent.\u2019 \u201d Id. (quoting Dep\u2019t of Ecology v. Campbell & Gwinn, LLC, 146 Wn.2d 1, 9-10, 43 P.3d 4 (2002)).\n\u00b617 The plain language of RCW 4.24.525(4)(b) requires the trial court to weigh the evidence and make a factual determination of plaintiffs\u2019 \u201cprobability of prevailing on the claim.\u201d The moving party bears \u201cthe initial burden of showing by a preponderance of the evidence that [plaintiffs\u2019] claim is based on [defendants\u2019] action involving public participation and petition.\u201d RCW 4.24.525(4)(b) (emphasis added). \u201cIf the moving party meets this burden, the burden shifts to the responding party to establish by clear and convincing evidence a probability of prevailing on the claim.\u201d Id. (emphasis added). And when the trial judge adjudicates these questions, the statute directs that the trial judge \u201cshall consider pleadings and supporting and opposing affidavits stating the facts\u201d relating to the underlying claims and defenses. Id. at (4)(c) (emphasis added).\n\u00b618 By contrast, summary judgment is proper only if the moving party shows that there is \u201cno genuine issue as to any material fact and that the moving party is entitled to a judgment as a matter of law.\u201d CR 56(c). By their terms, the two standards involve fundamentally different inquiries. The anti-SLAPP statute provides a burden of proof concerning whether the evidence crosses a certain threshold of proving a likelihood of prevailing on the claim. See 2 McCormick on Evidence \u00a7 336 (Kenneth S. Brown ed., 7th ed. 2013) (comparing burdens of production and burdens of proof). But summary judgment does not concern degrees of likelihood or probability. Summary judgment requires a legal certainty: the material facts must be undisputed, and one side wins as a matter of law. If the legislature intended to adopt a summary judgment standard, it could have used the well-known language of CR 56(c). But it did not do so. It instead chose language describing the evidentiary burden to evaluate the \u201cprobability of prevailing on the claim.\u201d RCW 4.24.525(4)(b). And it directed the trial judge to evaluate disputed evidence, including \u201csupporting and opposing affidavits.\u201d Id. at (4)(c). In this case, the trial judge did just that. Thus, RCW 4.24.525(4)(b)\u2019s plain language requires the trial judge to make factual determinations and adjudicate a SLAPP claim.\n\u00b619 Another way to frame our conclusion is to consider what the defendants ask us to do. They ask us to interpret the words \u201cto establish by clear and convincing evidence a probability of prevailing on the claim\u201d to mean \u201cto establish by clear and convincing evidence a probability of prevailing on the claim, if there is no genuine issue as to any material fact and the moving party is entitled to prevail on the special motion to strike as a matter of law.\u201d This goes beyond interpretation and requires us to rewrite the statute; we decline the invitation. J.P., 149 Wn.2d at 450 (\u201c[W]e \u2018cannot add words or clauses to an unambiguous statute when the legislature has chosen not to include that language.\u2019 \u201d (quoting State v. Delgado, 148 Wn.2d 723, 727, 63 P.3d 792 (2003))). And because the statute contains no ambiguity, we cannot use the doctrine of constitutional avoidance to \u201c \u2018press statutory construction to the point of disingenuous evasion even to avoid a constitutional question.\u2019 \u201d State v. Abrams, 163 Wn.2d 277, 282, 178 P.3d 1021 (2008) (internal quotation marks omitted) (quoting Miller v. French, 530 U.S. 327, 341, 120 S. Ct. 2246, 147 L. Ed. 2d 326 (2000)).\n\u00b620 Though RCW 4.24.525(4)(b)\u2019s language itself is plain, we observe that a related provision confirms our reading. If the trial court determines the responding party has met its burden to establish by clear and convincing evidence a probability of prevailing on the claim, \u201cthe substance of the determination may not be admitted into evidence at any later stage of the case.\u201d RCW 4.24.525(4)(d)(i). Under defendants\u2019 theory \u2014 wherein all the responding party must do to defeat a special motion to strike is show a disputed material fact \u2014 subsection (4)(d)(i) would mean the mere fact that there is a triable issue of fact cannot be admitted into evidence. That makes little sense. By contrast, under plaintiffs\u2019 reading, subsection (4)(d)(i) has meaning. The legislature\u2019s apparent concern expressed in subsection (4)(d)(i) is that a jury at trial might give undue weight to a trial judge\u2019s factual finding that the plaintiff\u2019s claim establishes by clear and convincing evidence a probability of prevailing on the merits. Given that we harmonize related provisions in a statute whenever possible, State v. Hirschfelder, 170 Wn.2d 536, 543, 242 P.3d 876 (2010), subsection (4)(d)(i) confirms our reading that subsection (4)(b) requires the trial judge to make a factual determination on the probability of plaintiffs prevailing on their claims. It is not a mere summary judgment proceeding.\n\u00b621 Tellingly, defendants offer no textual analysis of RCW 4.24.525(4)(b)\u2019s burden of proof or any related provisions. Instead, they point to nonbinding authorities supporting their view that the anti-SLAPP statute imposes a summary judgment analysis. In turn, plaintiffs counter with other nonbinding authorities to the contrary. We are cautious in looking beyond our state\u2019s statute, however, because among the slight majority of states that have adopted an anti-SLAPP statute, the details of these statutes vary significantly. See Thomas R. Burke, Anti-Slapp Litigation ch. 8 (2014) (collecting statutes).\n\u00b622 Defendants primarily rely on California authority. They argue the Washington anti-SLAPP statute \u201cmirrors the California anti-SLAPP act, which was enacted in 1992, was the model for Washington\u2019s law, and has consistently-been construed to create a summary judgment standard.\u201d Resp\u2019ts\u2019 Suppl. Br. at 10-11. It is true that some provisions of the Waslxington anti-SLAPP statute and the California statute resemble or are identical to each other. Compare RCW 4.24.525, with Cal. Civ. Proc. Code \u00a7 425.16. But it is also true that they deviate. Wyrwich, supra, at 671-92 (discussing some of the similarities and differences between the two statutes and concluding that because Washington modeled its statute on California\u2019s, Washington courts must give effect to the differences in our anti-SLAPP statute); see also Cal. Civ. Proc. Code \u00a7 425.17(a) (amending the California anti-SLAPP statute, Cal. Civ. Proc. Code \u00a7 425.16, to limit its application based on findings by the California legislature that defendants have engaged in a \u201cdisturbing abuse\u201d of the anti-SLAPP statute contrary to plaintiffs\u2019 \u201crights of freedom of speech and petition for the redress of grievances\u201d). And the relevant provisions of the two statutes at issue \u2014 their burden of proof standards \u2014 are notably different. California\u2019s statute provides that a plaintiff defeats a defendant\u2019s motion by establishing \u201ca probability that the plaintiff will prevail on the claim.\u201d Cal. Civ. Proc. Code \u00a7 425.16(b)(1) (emphasis added). By contrast, our statute expressly ratchets up the plaintiff\u2019s evidentiary burden, requiring the plaintiff to establish \u201cby clear and convincing evidence a probability of prevailing on the claim.\u201d RCW 4.24.525(4)(b) (emphasis added). Where our legislature borrows a statute from another source but makes certain deviations from that source, \u201cwe are bound to conclude\u201d the legislature\u2019s deviation \u201cwas purposeful and evidenced its intent\u201d to differ from the original source on the particular issue. State v. Jackson, 137 Wn.2d 712, 723, 976 P.2d 1229 (1999). Therefore, case law interpreting the California statute\u2019s burden of proof does not inform the proper interpretation of our statute\u2019s burden of proof.\n\u00b623 Defendants also cite two federal opinions that applied RCW 4.24.525(4)(b) to require a summary judgment analysis. Phoenix Trading, Inc. v. Loops LLC, 732 F.3d 936, 941-42 (9th Cir. 2013); AR Pillow, Inc. v. Maxwell Payton, LLC, No. C11-1962RAJ, 2012 WL 6024765, *2, 2012 U.S. Dist. LEXIS 172015, at *5 (W.D. Wash. Dec. 4, 2012) (court order). But these opinions simply adopted California law without giving effect to our statute\u2019s different burden of proof, as we must do. Jackson, 137 Wn.2d at 723. By contrast, a federal court that grappled with RCW 4.24-.525(4)(b)\u2019s text and its unique burden of proof concluded that it requires a trial court to \u201cdismiss a case without a trial based upon its view of the merits of the case\u201d and that it \u201cruns in direct conflict\u201d with the traditional means of disposing of a claim without a trial under Federal Rules of Civil Procedure 12 and 56. Intercon Solutions, Inc. v. Basel Action Network, 969 F. Supp. 2d 1026, 1041-55 (N.D. Ill. 2013). Another federal court that grappled with RCW 4.24.525(4)(b)\u2019s text reasoned that a \u201ccrucial distinction[ ]\u201d between Washington\u2019s and California\u2019s statutes that \u201ccannot be overstated\u201d is that the Washington statute \u201cradically alters a plaintiff\u2019s burden of proof.\u201d Jones v. City of Yakima Police Dep\u2019t, No. 12-CV-3005-TOR, 2012 WL 1899228, at *3, 2012 U.S. Dist. LEXIS 72837, at *8-9 (E.D. Wash. May 24, 2012) (court order). Because we must give effect to the textual differences between Washington\u2019s and California\u2019s anti-SLAPP statutes, the persuasive federal authority applying RCW 4.24.525(4)(b) confirms our plain language reading of RCW 4.24.525(4)(b)\u2019s text.\n\u00b624 Next, defendants cite case law applying three other jurisdictions\u2019 anti-SLAPP statutes. Lamz v. Wells, 938 So. 2d 792, 796 (La. Ct. App. 2006); Abbas v. Foreign Policy Grp., LLC, 975 F. Supp. 2d 1, 13 (D.D.C. 2013) (applying Washington, DC, law); Or. Educ. Ass\u2019n v. Parks, 253 Or. App. 558, 291 P.3d 789, 794 (2012). These authorities are unhelpful for the same reason California\u2019s case law is unhelpful: they do not interpret a clear and convincing evidentiary standard. Moreover, these opinions provide no new reasoning. The Louisiana opinion and the authority it cites do not explain why a summary judgment standard is correct even under its own statutes\u2019 burdens of proof. Lamz, 938 So. 2d at 796. The United States District Court opinion applying Washington, DC, law forsakes textual analysis in favor of simply relying on California law to adopt a summary judgment analysis, Abbas, 975 F. Supp. 2d at 13, but the United States Court of Appeals for the District of Columbia has now abrogated this holding, noting that \u201cit requires the Court to re-write the special motion to dismiss provision,\u201d Abbas v. Foreign Policy Grp. LLC, 783 F.3d 1328, 1334-35 (D.C. Cir. 2015); see also id. (\u201cPut simply, the D.C. Anti-SLAPP Act\u2019s likelihood of success standard is different from and more difficult for plaintiffs to meet than the standards imposed by Federal Rules 12 and 56.\u201d). Last, the Oregon opinion does not appear to hold that Oregon courts use a summary judgment standard in applying that state\u2019s anti-SLAPP statute. These authorities thus provide no persuasive support for defendants\u2019 position.\n\u00b625 Defendants next highlight that lower Washington courts have held RCW 4.24.525(4)(b) creates a summary judgment analysis. See Johnson v. Ryan, 186 Wn. App. 562, 571, 346 P.3d 789 (2015); Spratt v. Toft, 180 Wn. App. 620, 636-37, 324 P.3d 707 (2014); Davis, 180 Wn. App. at 528, 546-47; Dillon, 179 Wn. App. at 86-90. These opinions all followed this position based on the Court of Appeals opinion in Dillon. There, the Court of Appeals, in self-identified dicta, opined that RCW 4.24.525(4)(b) establishes a summary judgment standard. See Dillon, 179 Wn. App. at 86-90 (noting it was not \u201cstrictly necessary\u201d to do so but stating it would \u201ctake this opportunity\u201d to engage in a five-page discussion instructing Washington courts that they \u201cshould\u201d use a summary judgment analysis). But see, e.g., Davis, 180 Wn. App. at 528, 546-47 (quoting Dillon as if it announced a holding on this issue).\n\u00b626 In Dillon, the court recognized that California law is unpersuasive because the California statute lacks a clear and convincing evidence standard but it found Minnesota law to be persuasive because its anti-SLAPP statute uses such a standard. Dillon, 179 Wn. App. at 87-88. The court then adopted a Minnesota Court of Appeals decision that interpreted its statute to require clear and convincing evidence \u201c \u2018in light of the Rule 12 standard for granting judgment on the pleadings\u2019 or \u2018in light of the Rule 56 standard for granting summary judgment.\u2019 \u201d Id. (emphasis omitted) (quoting Nexus v. Swift, 785 N.W.2d 771, 781-82 (Minn. Ct. App. 2010)).\n\u00b627 As it turns out, the Minnesota Supreme Court subsequently abrogated that Minnesota Court of Appeals opinion. See Leiendecker v. Asian Women United of Minn., 848 N.W.2d 224, 231-33 (Minn. 2014). Similar to our statute\u2019s evidentiary standard and unlike California\u2019s lower \u201ca probability\u201d standard, the Minnesota statute requires the trial court to determine whether \u201cthe responding party has produced clear and convincing evidence.\u201d Compare Minn. Stat. \u00a7 554.02, subd. 2(3), and RCW 4.24.525(4)(b), with Cal. Civ. Proc. Code \u00a7 425.16(b)(1). The Minnesota Supreme Court noted that the \u201cconstitutional-avoidance canon provides a \u2018presumption ... that a statute is constitutional, and we are required to place a construction on the statute that will find it so if at all possible.\u2019 \u2019\u2019 Leiendecker, 848 N.W.2d at 232 (alteration in original) (quoting Kline v. Berg Drywall, Inc., 685 N.W.2d 12, 23 (Minn. 2004)). But it concluded that under the statute\u2019s unambiguous terms, it was \u201cneither reasonable nor \u2018possible\u2019 \u201d to impose a summary judgment analysis onto the statute as a matter of construction because the summary judgment analysis and the anti-SLAPP standard \u201care incompatible with one another.\u201d Id. at 231-33. Thus, the court held the statute requires the trial judge to find facts. Id.\n\u00b628 We believe the reasoning of the Minnesota Supreme Court, interpreting a statute close to ours, is persuasive. It confirms our plain language analysis of RCW 4.24-.525(4)(b)\u2019s text, as described above. In sum, we hold RCW 4.24.525(4)(b) requires the trial judge to weigh the evidence and dismiss a claim unless it makes a factual finding that the plaintiff has established by clear and convincing evidence a probability of prevailing at trial.\nB. RCW 4.24.525(4)(b) Violates the Right of Trial by Jury under Article I, Section 21 of the Washington Constitution\n\u00b629 Under the Washington Constitution, \u201c[t]he right of trial by jury shall remain inviolate.\u201d Wash. Const. art. I, \u00a7 21. \u201cThe term \u2018inviolate\u2019 connotes deserving of the highest protection\u201d and \u201cindicates that the right must remain the essential component of our legal system that it has always been.\u201d Sofie v. Fibreboard Corp., 112 Wn.2d 636, 656, 771 P.2d 711, 780 P.2d 260 (1989). The right \u201cmust not diminish over time and must be protected from all assaults to its essential guaranties.\u201d Id. At its core, the right of trial by jury guarantees litigants the right to have a jury resolve questions of disputed material facts.\n\u00b630 But the right of trial by jury is not limitless. For example, it is well established that \u201c[w]hen there is no genuine issue of material fact, . . . summary judgment proceedings do not infringe upon a litigant\u2019s constitutional right to a jury trial.\u201d LaMon v. Butler, 112 Wn.2d 193, 200 n.5, 770 P.2d 1027 (1989) (citing Nave v. City of Seattle, 68 Wn.2d 721, 725, 415 P.2d 93 (1966); Diamond Door Co. v. Lane-Stanton Lumber Co., 505 F.2d 1199, 1203 (9th Cir. 1974)). As discussed above, however, the trial judge must resolve disputed material facts under RCW 4.24.525(4)(b)\u2019s plain language, so the constitutionality of summary judgment procedures cannot save the anti-SLAPP statute.\n\u00b631 Another relevant limit on the right of trial by jury is that it does not encompass frivolous claims that are brought for an improper purpose. The petition clause of the First Amendment to the United States Constitution informs this holding. The United States Supreme Court \u201crecognize [s] that the right of access to the courts is an aspect of the First Amendment right to petition the Government for redress of grievances.\u201d Bill Johnson\u2019s Rests., Inc. v. Nat\u2019l Labor Relations Bd., 461 U.S. 731, 741, 103 S. Ct. 2161, 76 L. Ed. 2d 277 (1983); see also Borough of Duryea v. Guarnieri, 564 U.S. 379, 387, 131 S. Ct. 2488, 180 L. Ed. 2d 408 (2011) (\u201c \u00a3[T]he right of access to courts for redress of wrongs is an aspect of the First Amendment right to petition the government.\u2019 \u201d (alteration in original) (quoting Sure-Tan, Inc. v. Nat\u2019l Labor Relations Bd., 467 U.S. 883, 896-97, 104 S. Ct. 2803, 81 L. Ed. 2d 732 (1984) and citing BE&K Constr. Co. v. Nat\u2019l Labor Relations Bd., 536 U.S. 516, 525, 122 S. Ct. 2390, 153 L. Ed. 2d 499 (2002); Bill Johnson\u2019s Rests., 461 U.S. at 741; Ca. Motor Transp. Co. v. Trucking Unlimited, 404 U.S. 508, 513, 92 S. Ct. 609, 30 L. Ed. 2d 642 (1972)). For example, the question presented in Bill Johnson\u2019s Restaurants was whether the National Labor Relations Board (NLRB) could enjoin an employer\u2019s nurefrivolous pending lawsuit against an employee when the employer was allegedly motivated to file the suit to retaliate against the employee\u2019s exercise of rights under the National Labor Relations Act, 29 U.S.C. \u00a7\u00a7 151-169. Bill Johnson\u2019s Rests., 461 U.S. at 733. Drawing the constitutional line, the court held that frivolous suits (i.e., those that lack a \u201c \u2018reasonable basis,\u2019 \u201d are \u201cbased on insubstantial claims,\u201d or are \u201cbaseless\u201d) are \u201cnot within the scope of the First Amendment protection\u201d but that all other suits are constitutionally protected. See id. at 743-44. Thus, when a suit raises \u201ca genuine issue of material fact that turns on the credibility of witnesses or on the proper inferences to be drawn from undisputed facts,\u201d the First Amendment requires that the suit cannot be enjoined because that would \u201cusurp the traditional factfinding function of the . . . jury.\u201d Id. at 745.\n\u00b632 The United States Supreme Court has elaborated on the contours of the First Amendment\u2019s right to petition in a doctrine that began in antitrust litigation. Under the Noerr! Pennington doctrine, when individuals petition any branch of government, including the courts, such petitioning cannot be a basis for antitrust liability, unless the petition was a \u201c\u2018mere sham.\u2019\u201d BE&K Constr. Co., 536 U.S. at 525 (quoting E. R.R. Presidents Conf. v. Noerr Motor Freight, Inc., 365 U.S. 127, 144, 81 S. Ct. 523, 5 L. Ed. 2d 464 (1961)). To constitute unprotected sham litigation, the litigation must meet two criteria. First, it \u201c \u2018must be objectively baseless in the sense that no reasonable litigant could realistically expect success on the merits,\u2019 \u201d and second, the litigant\u2019s \u201csubjective motivation\u201d must be to \u201c \u2018interfere directly with the business relationships of a competitor . . . through the use [of] the governmental process \u2014 as opposed to the outcome of that process \u2014 as an anticompetitive weapon.\u2019 \u201d Id. at 526 (alterations in original) (quoting Prof\u2019l Real Estate Inv\u2019rs, Inc. v. Columbia Pictures Indus., Inc., 508 U.S. 49, 60-61, 113 S. Ct. 1920, 123 L. Ed. 2d 611 (1993)). In BE&K Construction Co., for example, the court applied this doctrine to hold that the NLRB\u2019s imposition of liability on an employer for its filing of a retaliatory lawsuit against unions, after the lawsuit had lost on its merits, still violated the petition clause because the NLRB imposed the liability without proving the employer\u2019s suit was objectively baseless, as defined above. Id. at 523, 536.\n\u00b633 In sum, the United States Supreme Court has interpreted the petition clause to expansively protect plaintiffs\u2019 constitutional right to file lawsuits seeking redress for grievances. The only instance in which this petitioning activity may be constitutionally punished is when a party pursues frivolous litigation, whether defined as lacking a \u201c \u2018reasonable basis,\u2019 \u201d Bill Johnson\u2019s Rests., 461 U.S. at 743, or as sham litigation, BE&K Constr. Co., 536 U.S. at 524-26. That the petition clause requires this limitation makes good sense, considering that \u201c[t]he right to sue and defend in the courts is the alternative of force. In an organized society it is the right conservative of all other rights, and lies at the foundation of orderly government. It is one of the highest and most essential privileges of citizenship.\u201d Chambers v. Balt. & Ohio R.R. Co., 207 U.S. 142, 148, 28 S. Ct. 34, 52 L. Ed. 143 (1907).\n\u00b634 Interpreting the right of trial by jury in light of the petition clause jurisprudence, we recognize that article I, section 21 of the Washington Constitution does not encompass the right of jury trial on frivolous or sham claims. Exclusion of such claims comports with the longstanding principle that litigants cannot be allowed to abuse the heavy machinery of the judicial process for improper purposes that cause serious harm to innocent victims, such as to harass, cause delay, or chill free expression. Such conduct has always been, and always will be, sanctionable. See, e.g., RCW 4.84.185 (providing a court in any civil action may award reasonable expenses, including attorney fees, incurred in defending against a claim or defense that is \u201cfrivolous and advanced without reasonable cause\u201d); CR 11(a) (providing a court in any civil action may award an appropriate sanction, including reasonable expenses incurred and attorney fees, to a party that defends against a claim or defense that a reasonable inquiry would have shown is not \u201cwell grounded in fact,\u201d not \u201cwarranted by existing law or a good faith argument\u201d for change to the law, or is used \u201cfor any improper purpose, such as to harass or to cause unnecessary delay or needless increase in the cost of litigation\u201d); RPC 3.1 (providing a lawyer commits professional misconduct by asserting a \u201cfrivolous\u201d claim, defense, or issue); RPC 4.4(a) (providing a lawyer commits professional misconduct by using \u201cmeans that have no substantial purpose other than to embarrass, delay, or burden a third person\u201d); Restatement (Second) of Torts \u00a7 674 (Am. Law Inst. 1965) (providing a cause of action for wrongful use of civil proceedings when a claim is brought \u201cwithout probable cause, and primarily for a purpose other than that of securing the proper adjudication of the claim in which the proceedings are based\u201d); Restatement \u00a7 682 (providing a cause of action for abuse of process against \u201c[o]ne who uses a legal process, whether criminal or civil, against another primarily to accomplish a purpose for which it is not designed\u201d). All of these remedies are consistent with the right of trial by jury because they are limited to punishing or deterring frivolous or sham litigation.\n\u00b635 But the same cannot be said of the anti-SLAPP statute. It is not so limited. RCW 4.24.525(4)(b) requires the trial judge to make a factual determination of whether the plaintiff has established by clear and convincing evidence a probability of prevailing on the claim. This is no frivolousness standard. See, e.g., Goldmark v. McKenna, 172 Wn.2d 568, 582, 259 P.3d 1095 (2011) (\u201cA frivolous action is one that cannot be supported by any rational argument on the law or facts.\u201d); Millers Cas. Ins. Co. of Tex. v. Briggs, 100 Wn.2d 9, 15, 665 P.2d 887 (1983) (\u201c \u2018[A]n appeal is frivolous if there are no debatable issues upon which reasonable minds might differ, and it is so totally devoid of merit that there was no reasonable possibility of reversal.\u2019 \u201d (quoting Streater v. White, 26 Wn. App. 430, 435, 613 P.2d 187 (1980))). Rather, the statute mandates dismissal of a claim and imposition of sanctions merely because the claim cannot establish by clear and convincing evidence a probability of prevailing at trial. Cf. BE&K Constr. Co., 536 U.S. at 532 C\u2018[T]he genuineness of a [claim] does not turn on whether it succeeds.\u201d); Bryant v. Joseph Tree, Inc., 119 Wn.2d 210, 220, 829 P.2d 1099 (1992) (\u201cThe fact that a [claim] does not prevail on its merits is by no means dispositive of the question of CR 11 sanctions.\u201d); Holland v. City of Tacoma, 90 Wn. App. 533, 546, 954 P.2d 290 (1998) (properly holding judgment may be entered against a plaintiff\u2019s claim on summary judgment without the claim being frivolous). Significantly, a separate subsection of the anti-SLAPP statute uses a frivolousness standard, in contrast to the burden of proof under RCW 4.24.525(4)(b). The statute provides that if an anti-SLAPP motion is \u201cfrivolous or is solely intended to cause unnecessary delay,\u201d the responding party is entitled to statutory remedies. RCW 4.24.525(6)(b). This provision\u2019s standard, intended to deter improper anti-SLAPP motions, makes clear that RCW 4.24.525(4)(b)\u2019s standard is a higher threshold than a frivolousness inquiry.\n\u00b636 Thus, RCW 4.24.525(4)(b) creates a truncated adjudication of the merits of a plaintiff\u2019s claim, including nonfrivolous factual issues, without a trial. Such a procedure invades the jury\u2019s essential role of deciding debatable questions of fact. In this way, RCW 4.24.525(4)(b) violates the right of trial by jury under article I, section 21 of the Washington Constitution.\nC. The Constitutionally Invalid Aspects of RCW 4.24.525 Cannot Be Severed from Its Remaining Provisions\n\u00b637 Because we hold RCW 4.24.525(4)(b) is unconstitutional, we must determine whether the provision is sever-able from the rest of RCW 4.24.525. We conclude it is not.\n\u00b638 To determine severability, we first ask whether \u201c \u2018the constitutional and unconstitutional provisions are so connected . . . that it could not be believed that the legislature would have passed one without the other.\u2019 \u201d Abrams, 163 Wn.2d at 285 (alteration in original) (internal quotation marks omitted) (quoting Gerberding v. Munro, 134 Wn.2d 188, 197, 949 P.2d 1366 (1998)). We then consider whether \u201c \u2018the part eliminated is so intimately connected with the balance of the act as to make it useless to accomplish the purposes of the legislature.\u2019 \u201d Id. at 285-86 (internal quotation marks omitted) (quoting Gerberding, 134 Wn.2d at 197). As to the first inquiry, we may look to the presence of a severability clause in the statute for \u201c \u2018the necessary assurance that the remaining provisions would have been enacted without the portions which are contrary to the constitution.\u2019 \u201d Id. at 286 (quoting State v. Anderson, 81 Wn.2d 234, 236, 501 P.2d 184 (1972)). Here, the anti-SLAPP statute contains a provision stating, \u201cIf any provision of this act or its application to any person or circumstance is held invalid, the remainder of the act or the application of the provision to other persons or circumstances is not affected.\u201d Laws of 2010, ch. 118, \u00a7 5.\n\u00b639 Nonetheless, under the second test of sever-ability, subsection (4)(b) is not severable. This subsection is the law\u2019s mainspring because every provision in RCW 4.24.525 has meaning and effect only in connection with the filing of the special motion to strike under subsection (4)(b). See Leonard v. City of Spokane, 127 Wn.2d 194, 202, 897 P.2d 358 (1995) (holding a provision that was \u201cthe heart and soul of the Act\u201d is nonseverable). Therefore, this case presents a paradigmatic example of a nonseverable provision. Without subsection (4)(b), the rest of RCW 4.24.525 is \u201c \u2018useless to accomplish the purposes of the legislature.\u2019 \u201d Abrams, 163 Wn.2d at 286 (internal quotation marks omitted) (quoting Gerberding, 134 Wn.2d at 197). We therefore invalidate RCW 4.24.525 as a whole.\nIII. CONCLUSION\n\u00b640 The legislature may enact anti-SLAPP laws to prevent vexatious litigants from abusing the judicial process by filing frivolous lawsuits for improper purposes. But the constitutional conundrum that RCW 4.24.525 creates is that it seeks to protect one group of citizens\u2019 constitutional rights of expression and petition by cutting off another group\u2019s constitutional rights of petition and jury trial. This the legislature cannot do. See Opinion of the Justices, 138 N.H. 445, 641 A.2d 1012, 1015 (1994) (invalidating an anti-SLAPP bill because the law \u201ccannot strengthen the constitutional rights of one group of citizens by infringing upon the rights of another group\u201d). We hold RCW 4.24-.525(4)(b) violates the right of trial by jury under article I, section 21 of the Washington Constitution because it requires a trial judge to invade the jury\u2019s province of resolving disputed facts and dismiss \u2014 and punish \u2014 nonfrivolous claims without a trial. We reverse the Court of Appeals and remand the case to the superior court for further proceedings.\nMadsen, C.J., and Johnson, Owens, Fairhurst, Wiggins, Gonz\u00e1lez, Gordon McCloud, and Yu, JJ., concur.\nIn Akrie v. Grant, 180 Wn.2d 1008, 325 P.3d 913 (2014) (review stayed pending this case), the court is asked to determine whether, as a matter of statutory interpretation, RCW 4.24.525(6)(a) requires that $10,000 be awarded to each prevailing defendant (here, $160,000 total) or instead $\u00cd0,000 to all defendants in total. Because we invalidate RCW 4.24.525 today, we do not reach that question of interpretation.\nOne disputed material fact in this case is whether a boycott of Israel-based companies is a \u201cnationally recognized boycott! ],\u201d as the Cooperative\u2019s boycott policy requires for the board to adopt a boycott. CP at 106. The declarations on this fact conflict. Compare, e.g., CP at 348 (Decl. of Jon Haber) (\u201cNo matter where they have been pursued, efforts to organize boycotts of and divestment from Israel have failed in the United States. In short, policies boycotting and/or divesting from the State of Israel have never been \u2018nationally recognized\u2019 in this county. Among food cooperatives alone, the record is stark: every food cooperative in the United States where such policies have been proposed has rejected them. [Describes examples].\u201d), with CP at 470 (Decl. of Grace Cox) (\u201c[T]he web site of the U.S. Campaign to End the Occupation . . . name[s] hundreds of its own U.S. member organizations [ ] as supporters for its campaigns, including boycotts against Motorola, Caterpillar, and other companies in the U.S. and around the world that were profiting from Israel\u2019s occupation. The U.S. Campaign now reports about 380 state-level member organizations across the country, including five businesses in Olympia, WA.\u201d). On this disputed material fact, when the superior court resolved the anti-SLAPP motion, it weighed the evidence and found the defendants\u2019 \u201cevidence clearly shows that the Israel boycott and divestment movement is a national movement.\u201d CP at 990. The Court of Appeals below reasoned that this is an immaterial fact, on the theory that the Cooperative\u2019s board is not bound by its adopted policies because its inherent authority to manage the affairs of the corporation includes the authority to disregard its adopted policies. Davis, 180 Wn. App. at 532-36.\nGiven the difference between our statute and California\u2019s, we express no opinion on whether California\u2019s case law is a persuasive interpretation of the California statute or whether such a standard would be consistent with our constitution. But see Opinion of the Justices, 138 N.H. 445, 641 A.2d 1012, 1013-15 (1994) (holding a proposed anti-SLAPP bill using an \u201ca probability\u201d evidentiary standard \u201cmodeled after the California statute\u201d violated the constitutional right of trial by jury). We note only that if our legislature desires to create a summary judgment standard for an anti-SLAPP motion, the relevant language in CR 56(c) describes that standard.\nThe Oregon Court of Appeals explained that the Oregon anti-SLAPP statute requires a court to evaluate the evidence and draw a conclusion as to whether there is a probability that the plaintiff will prevail. By contrast, on summary judgment, the court must view the evidence and all reasonable inferences that may be drawn from the evidence in the light most favorable to the nonmoving party, and draw a conclusion as to whether there is a triable disputed issue or fact.\nOr. Educ. Ass\u2019n, 291 P.3d at 794 (emphasis added).\nThe Minnesota Supreme Court expressly reserved the jury trial constitutional question in that case because no party argued that position. Leiendecker, 848 N.W.2d at 232.\nFor the same reasons, we reject defendants\u2019 alternative argument that RCW 4.24.525(4)(b) creates a standard equivalent to that used when a trial judge evaluates whether to grant a motion for a directed verdict.\nThe right of trial by jury protected by the Seventh Amendment to the United States Constitution does not apply to the states, see Minneapolis & St. Louis R.R. Co. v. Bombolis, 241 U.S. 211, 217, 36 S. Ct. 595, 60 L. Ed. 961 (1916); Walker v. Sauvinet, 92 U.S. (2 Otto) 90, 92-93, 23 L. Ed. 678 (1875), so our opinion rests solely on article I, section 21 of the Washington Constitution, see Sofie v. Fibreboard Corp., 112 Wn.2d 636, 644 & n.4, 771 P.2d 711, 780 P.2d 260 (1989).\nThis doctrine arises from Eastern Railroad Presidents Conference v. Noerr Motor Freight, Inc., 365 U.S. 127, 81 S. Ct. 523, 5 L. Ed. 2d 464 (1961), and United Mine Workers of America v. Pennington, 381 U.S. 657, 85 S. Ct. 1585, 14 L. Ed. 2d 626 (1965).\nThe United States Supreme Court\u2019s petition clause jurisprudence does not call into question long-standing fee-shifting provisions that do not turn on a finding of frivolousness. BE&K Constr. Co., 536 U.S. at 537 (\u201c[Nlothing in our holding today should be read to question the validity ... of statutory provisions that merely authorize the imposition of attorney\u2019s fees on a losing plaintiff.\u201d). Instead, the court has found unconstitutional only serious deprivations or punishments of petitioning activity, such as the enjoinment of the suit in Bill Johnson\u2019s Restaurants or imposition of substantive liability in the Noerr/Pennington cases. Whatever the precise contours of the line, RCW 4.24.525(6)(a) doubtlessly falls on the impermissible side that punishes the exercise of the right to petition. In addition to attorney fees and cost shifting, the statute assesses a statutory penalty of $10,000 (potentially to each movant, as in this case below, where $160,000 was awarded in total to the 16 movants) and \u201c[s]uch additional relief... as the court determines to be necessary to deter repetition of the conduct and comparable conduct by others similarly situated.\u201d RCW 4.24.525(6)(a)(iii). This is harsh punishment for bringing what may be a nonfrivolous claim, albeit one that cannot show by clear and convincing evidence a probability of succeeding at trial.\nDefendants recognize that plaintiffs\u2019 jury trial argument presents a facial challenge based on article I, section 21 of the Washington Constitution. They point out the claims in this lawsuit include a request for equitable relief that would not be presented to a jury, noting a facial challenge \u201c \u2018must establish that no set of circumstances exists under which the Act would be valid.\u2019 \u201d Resp\u2019ts\u2019 Suppl. Br. at 10 (quoting United States v. Salerno, 481 U.S. 739, 745, 107 S. Ct. 2095, 95 L. Ed. 2d 697 (1987)). But see United States v. Stevens, 559 U.S. 460, 472-73, 130 S. Ct. 1577, 176 L. Ed. 2d 435 (2010) (recognizing that whether subsequent United States Supreme Court case law has repudiated Salerno on this point is unresolved). Our decision does not turn on the character of the particular claims here, as there is no question the statute broadly applies to all claims, with the only limitation being that they concern an action involving public participation and petition. RCW 4.24.525(2), (4)(b). By its plain terms, the special motion to strike procedure is incompatible with article I, section 21 of the Washington Constitution.",
+        "type": "majority",
+        "author": "Stephens, J."
+      }
+    ],
+    "attorneys": [
+      "Robert M. Sulkin and Avi J. Lipman (of McNaul Ebel Nawrot & Helgren PLLC), for petitioners.",
+      "Bruce E.H. Johnson, Angela C. Galloway, and AmbikaK. Doran (of Davis Wright Tremaine LLP) (.Barbara M. Har vey, Steven Goldberg, and Maria C. LaHood, of counsel), for respondents.",
+      "George M. Ahrend, Bryan P. Harnetiaux, and David P. Gardner on behalf of Washington State Association for Justice Foundation, amicus curiae.",
+      "Alicia O. Young, Assistant Attorney General, on behalf of State of Washington, amicus curiae.",
+      "Jeffrey L. Needle, Jesse A. Wing, Joseph R. Shaeffer, and Tiffany M. Cartwright on behalf of Washington Employment Lawyers Association, amicus curiae.",
+      "Matthew J. Segal, Sarah C. Johnson, Sarah A. Dunne, and Nancy L. Talner on behalf of American Civil Liberties Union of Washington, amicus curiae.",
+      "Jessica L. Goldman and Bruce D. Brown on behalf of Reporters Committee for Freedom of the Press; Allied Daily Newspapers of Washington; American Society of News Editors; Association of Alternative Newsmedia; The Association of American Publishers, Inc.; Bloomberg L.P.; California Newspaper Publishers Association; The E.W. Scripps Company; Forbes Media LLC; Gannett Co., Inc.; Hearst Corporation; Investigative Reporting Workshop at American University; KIRO-TV; The McClatchy Company; Media-News Group, Inc.; National Press Photographers Association; Newspaper Association of America; North Jersey Media Group Inc.; Online News Association; Public Participation Project; The Seattle Times Company; Sound Publishing, Inc. d/b/a the Daily Herald of Everett; Stephens Media LLC; Time Inc.; Tully Center for Free Speech; Washington Newspaper Publishers Association; and Washington State Association of Broadcasters, amici curiae.",
+      "Neil M. Fox on behalf of Jewish Voice for Peace, Palestine Solidarity Legal Support, National Lawyers Guild, American Muslims for Palestine, and International Jewish Anti-Zionist Network, amici curiae."
+    ],
+    "corrections": "",
+    "head_matter": "[No. 90233-0.\nEn Banc.]\nArgued January 20, 2015.\nDecided May 28, 2015.\nKent L. Davis et al., Petitioners, v. Grace Cox et al., Respondents.\nRobert M. Sulkin and Avi J. Lipman (of McNaul Ebel Nawrot & Helgren PLLC), for petitioners.\nBruce E.H. Johnson, Angela C. Galloway, and AmbikaK. Doran (of Davis Wright Tremaine LLP) (.Barbara M. Har vey, Steven Goldberg, and Maria C. LaHood, of counsel), for respondents.\nGeorge M. Ahrend, Bryan P. Harnetiaux, and David P. Gardner on behalf of Washington State Association for Justice Foundation, amicus curiae.\nAlicia O. Young, Assistant Attorney General, on behalf of State of Washington, amicus curiae.\nJeffrey L. Needle, Jesse A. Wing, Joseph R. Shaeffer, and Tiffany M. Cartwright on behalf of Washington Employment Lawyers Association, amicus curiae.\nMatthew J. Segal, Sarah C. Johnson, Sarah A. Dunne, and Nancy L. Talner on behalf of American Civil Liberties Union of Washington, amicus curiae.\nJessica L. Goldman and Bruce D. Brown on behalf of Reporters Committee for Freedom of the Press; Allied Daily Newspapers of Washington; American Society of News Editors; Association of Alternative Newsmedia; The Association of American Publishers, Inc.; Bloomberg L.P.; California Newspaper Publishers Association; The E.W. Scripps Company; Forbes Media LLC; Gannett Co., Inc.; Hearst Corporation; Investigative Reporting Workshop at American University; KIRO-TV; The McClatchy Company; Media-News Group, Inc.; National Press Photographers Association; Newspaper Association of America; North Jersey Media Group Inc.; Online News Association; Public Participation Project; The Seattle Times Company; Sound Publishing, Inc. d/b/a the Daily Herald of Everett; Stephens Media LLC; Time Inc.; Tully Center for Free Speech; Washington Newspaper Publishers Association; and Washington State Association of Broadcasters, amici curiae.\nNeil M. Fox on behalf of Jewish Voice for Peace, Palestine Solidarity Legal Support, National Lawyers Guild, American Muslims for Palestine, and International Jewish Anti-Zionist Network, amici curiae."
+  },
+  "file_name": "0269-01",
+  "first_page_order": 323,
+  "last_page_order": 350
+}

@@ -1,0 +1,62 @@
+{
+  "id": 8727781,
+  "name": "State vs. Terry",
+  "name_abbreviation": "State v. Terry",
+  "decision_date": "1851-07",
+  "docket_number": "",
+  "first_page": "133",
+  "last_page": "134",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "12 Ark. 133"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 121,
+    "char_count": 1364,
+    "ocr_confidence": 0.528,
+    "sha256": "fc6d3a1b9ec0c2ac432c3f6d2a205315ccb081748e0eea2e7a764b97b5765f1b",
+    "simhash": "1:553b2f9dcab5601d",
+    "word_count": 250
+  },
+  "last_updated": "2023-07-14T17:49:49.158040+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "State vs. Terry."
+    ],
+    "opinions": [
+      {
+        "text": "Mr. Justice Walker\ndelivered the opinion of the Court.\nThe Circuit Court correctly sustained the demurer to the plaintiff\u2019s replication. The legal effect of payment is not to take the case out of the limitation act of 1839, and place it within the act of 1844. Biscoe and others v. Stone et al., 6 Eng. 39. Durritt v. Trammell, id. 183.\nLet the judgment of the Circuit Court be, in all things, affirmed.",
+        "type": "majority",
+        "author": "Mr. Justice Walker"
+      }
+    ],
+    "attorneys": [
+      "S. H. Hempstead, for plaintiff.",
+      "Byers & Patterson, contra."
+    ],
+    "corrections": "",
+    "head_matter": "State vs. Terry.\nThe legal effect, of part payment is not to take the case out of the limitation act of 1839, and place it \"within the act of 1844. Biscoe et al, vs. Stone et. al., 6 Eng. 39, and Durritt vs. Trammell, Jh. 183.\nWrit of Error to White Circuit Court.\nOn the 16th August, 1849, the Bank of the State brought an action of debt against Terry, on a promissory note, dated 8th August, 1842, and due six months after its date.\nDefendant pleaded limitation of three years. Plaintiff replied that, after the note became due, and before the cause of action was barred, to wit: On the 26th day of May, 1845, a payment was made on the note, and that, by virtue thereof and by force of the statute, &c., the action was revived for five years, &c.\nThe court sustained a demurer to the replication, and the Bank rested, and brought error.\nThe cause was determined before the Hon. Wm. C. Scott, Judge.\nS. H. Hempstead, for plaintiff.\nByers & Patterson, contra."
+  },
+  "file_name": "0133-02",
+  "first_page_order": 133,
+  "last_page_order": 134
+}

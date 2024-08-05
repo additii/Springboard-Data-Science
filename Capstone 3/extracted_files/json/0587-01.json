@@ -1,0 +1,792 @@
+{
+  "id": 12440928,
+  "name": "Jose Segura et al., Petitioners, v. Rogaciano Cabrera et al., Respondents",
+  "name_abbreviation": "Segura v. Cabrera",
+  "decision_date": "2015-10-29",
+  "docket_number": "No. 90088-4",
+  "first_page": "587",
+  "last_page": "604",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "184 Wash. 2d 587"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Wash.",
+    "id": 9029,
+    "name": "Washington Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 38,
+    "name_long": "Washington",
+    "name": "Wash."
+  },
+  "cites_to": [
+    {
+      "cite": "622 F.3d 1016",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3786796
+      ],
+      "year": 2010,
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/622/1016-01"
+      ]
+    },
+    {
+      "cite": "566 U.S. 284",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12189060
+      ],
+      "weight": 3,
+      "year": 2012,
+      "pin_cites": [
+        {
+          "page": "294, 292",
+          "parenthetical": "holding \"actual damages\" does not include emotional distress damages as used in the Privacy Act of 1974, codified in part at 5 U.S.C. \u00a7 552a (quoting Cooper v. Fed. Aviation Admin., 622 F.3d 1016 (9th Cir. 2010))"
+        },
+        {
+          "parenthetical": "holding \"actual damages\" does not include emotional distress damages as used in the Privacy Act of 1974, codified in part at 5 U.S.C. \u00a7 552a (quoting Cooper v. Fed. Aviation Admin., 622 F.3d 1016 (9th Cir. 2010))"
+        },
+        {
+          "parenthetical": "holding \"actual damages\" does not include emotional distress damages as used in the Privacy Act of 1974, codified in part at 5 U.S.C. \u00a7 552a (quoting Cooper v. Fed. Aviation Admin., 622 F.3d 1016 (9th Cir. 2010))"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/566/0284-01"
+      ]
+    },
+    {
+      "cite": "858 P.2d 1054",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "weight": 3,
+      "year": 1993,
+      "pin_cites": [
+        {
+          "parenthetical": "plurality opinion"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "122 Wn.2d 299",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1363540
+      ],
+      "year": 1993,
+      "pin_cites": [
+        {
+          "page": "318",
+          "parenthetical": "plurality opinion"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/122/0299-01"
+      ]
+    },
+    {
+      "cite": "78 P.3d 177",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2003,
+      "opinion_index": 0
+    },
+    {
+      "cite": "119 Wn. App. 275",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        1350125
+      ],
+      "weight": 2,
+      "year": 2003,
+      "pin_cites": [
+        {
+          "page": "280"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/119/0275-01"
+      ]
+    },
+    {
+      "cite": "573 P.2d 389",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1978,
+      "opinion_index": 0
+    },
+    {
+      "cite": "19 Wn. App. 48",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        473933
+      ],
+      "weight": 2,
+      "year": 1978,
+      "pin_cites": [
+        {
+          "page": "54"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/19/0048-01"
+      ]
+    },
+    {
+      "cite": "355 F. Supp. 174",
+      "category": "reporters:federal",
+      "reporter": "F. Supp.",
+      "case_ids": [
+        3463528
+      ],
+      "year": 1973,
+      "pin_cites": [
+        {
+          "page": "176"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp/355/0174-01"
+      ]
+    },
+    {
+      "cite": "15 U.S.C. \u00a7\u00a7 1681",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "971 P.2d 45",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1999,
+      "opinion_index": 0
+    },
+    {
+      "cite": "137 Wn.2d 357",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        179307
+      ],
+      "year": 1999,
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/137/0357-01"
+      ]
+    },
+    {
+      "cite": "554 P.2d 1041",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1976,
+      "opinion_index": 0
+    },
+    {
+      "cite": "87 Wn.2d 516",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1113766
+      ],
+      "year": 1976,
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/87/0516-01"
+      ]
+    },
+    {
+      "cite": "110 P.3d 1132",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "weight": 2,
+      "year": 2005,
+      "opinion_index": 0
+    },
+    {
+      "cite": "154 Wn.2d 224",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        5628916
+      ],
+      "year": 2005,
+      "pin_cites": [
+        {
+          "page": "239-40"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/154/0224-01"
+      ]
+    },
+    {
+      "cite": "298 P.3d 724",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "weight": 3,
+      "year": 2013,
+      "opinion_index": 0
+    },
+    {
+      "cite": "177 Wn.2d 186",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4131711
+      ],
+      "year": 2013,
+      "pin_cites": [
+        {
+          "page": "192"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/177/0186-01"
+      ]
+    },
+    {
+      "cite": "953 P.2d 796",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "weight": 2,
+      "year": 1998,
+      "opinion_index": 0
+    },
+    {
+      "cite": "134 Wn.2d 761",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        452317
+      ],
+      "year": 1998,
+      "pin_cites": [
+        {
+          "page": "769"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/134/0761-01"
+      ]
+    },
+    {
+      "cite": "332 P.3d 985",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2014,
+      "opinion_index": 0
+    },
+    {
+      "cite": "181 Wn.2d 1006",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "year": 2014,
+      "opinion_index": 0
+    },
+    {
+      "cite": "319 P.3d 98",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2014,
+      "opinion_index": 0
+    },
+    {
+      "cite": "179 Wn. App. 630",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        4104245
+      ],
+      "year": 2014,
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/179/0630-01"
+      ]
+    },
+    {
+      "cite": "442 U.S. 330",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1531959
+      ],
+      "weight": 3,
+      "year": 1979,
+      "pin_cites": [
+        {
+          "page": "339"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/442/0330-01"
+      ]
+    },
+    {
+      "cite": "69 P.3d 318",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2003,
+      "opinion_index": 1
+    },
+    {
+      "cite": "149 Wn.2d 444",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1292565
+      ],
+      "year": 2003,
+      "pin_cites": [
+        {
+          "page": "450"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/149/0444-01"
+      ]
+    },
+    {
+      "cite": "298 P.3d 741",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2013,
+      "pin_cites": [
+        {
+          "parenthetical": "\"We interpret statutes to give effect to all the language used so that no portion is rendered meaningless or unnecessary.'' (citing State v. J.P., 149 Wn.2d 444, 450, 69 P.3d 318 (2003))"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "177 Wn.2d 221",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4131574
+      ],
+      "year": 2013,
+      "pin_cites": [
+        {
+          "page": "231",
+          "parenthetical": "\"We interpret statutes to give effect to all the language used so that no portion is rendered meaningless or unnecessary.'' (citing State v. J.P., 149 Wn.2d 444, 450, 69 P.3d 318 (2003))"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/177/0221-01"
+      ]
+    },
+    {
+      "cite": "886 P.2d 556",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1994,
+      "opinion_index": 1
+    },
+    {
+      "cite": "125 Wn.2d 456",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        437227
+      ],
+      "year": 1994,
+      "pin_cites": [
+        {
+          "page": "463"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/125/0456-01"
+      ]
+    },
+    {
+      "cite": "181 P.3d 806",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2008,
+      "pin_cites": [
+        {
+          "parenthetical": "citing Price v. Kitsap Transit, 125 Wn.2d 456, 463, 886 P.2d 556 (1994)"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "163 Wn.2d 361",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        5682095
+      ],
+      "year": 2008,
+      "pin_cites": [
+        {
+          "page": "371",
+          "parenthetical": "citing Price v. Kitsap Transit, 125 Wn.2d 456, 463, 886 P.2d 556 (1994)"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/163/0361-01"
+      ]
+    },
+    {
+      "cite": "238 F. Supp. 437",
+      "category": "reporters:federal",
+      "reporter": "F. Supp.",
+      "case_ids": [
+        371747
+      ],
+      "weight": 2,
+      "year": 1965,
+      "pin_cites": [
+        {
+          "page": "445"
+        },
+        {
+          "page": "530"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/f-supp/238/0437-01"
+      ]
+    },
+    {
+      "cite": "418 U.S. 323",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6173012
+      ],
+      "weight": 4,
+      "year": 1974,
+      "pin_cites": [
+        {
+          "page": "350"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/418/0323-01"
+      ]
+    },
+    {
+      "cite": "385 F. Supp. 658",
+      "category": "reporters:federal",
+      "reporter": "F. Supp.",
+      "case_ids": [
+        3332532
+      ],
+      "year": 1974,
+      "pin_cites": [
+        {
+          "page": "659"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/f-supp/385/0658-01"
+      ]
+    },
+    {
+      "cite": "40 P.3d 669",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2002,
+      "opinion_index": 1
+    },
+    {
+      "cite": "145 Wn.2d 607",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        314604
+      ],
+      "year": 2002,
+      "pin_cites": [
+        {
+          "page": "611-12"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/145/0607-01"
+      ]
+    },
+    {
+      "cite": "204 P.3d 916",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2009,
+      "opinion_index": 1
+    },
+    {
+      "cite": "165 Wn.2d 870",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        5752041
+      ],
+      "year": 2009,
+      "pin_cites": [
+        {
+          "page": "880-82"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/165/0870-01"
+      ]
+    },
+    {
+      "cite": "335 P.3d 416",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2014,
+      "opinion_index": 1
+    },
+    {
+      "cite": "181 Wn.2d 691",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4356601
+      ],
+      "year": 2014,
+      "pin_cites": [
+        {
+          "page": "696"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/181/0691-01"
+      ]
+    },
+    {
+      "cite": "566 U.S. 284",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12189060
+      ],
+      "weight": 7,
+      "year": 2012,
+      "pin_cites": [
+        {
+          "page": "292"
+        },
+        {
+          "page": "299",
+          "parenthetical": "emphasis added"
+        },
+        {
+          "parenthetical": "citation omitted"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/566/0284-01"
+      ]
+    },
+    {
+      "cite": "858 P.2d 1054",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1993,
+      "pin_cites": [
+        {
+          "parenthetical": "plurality opinion"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "122 Wn.2d 299",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1363540
+      ],
+      "year": 1993,
+      "pin_cites": [
+        {
+          "parenthetical": "plurality opinion"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/122/0299-01"
+      ]
+    },
+    {
+      "cite": "971 P.2d 45",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1999,
+      "opinion_index": 1
+    },
+    {
+      "cite": "137 Wn.2d 357",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        179307
+      ],
+      "year": 1999,
+      "pin_cites": [
+        {
+          "page": "368, 370"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/137/0357-01"
+      ]
+    },
+    {
+      "cite": "554 P.2d 1041",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1976,
+      "opinion_index": 1
+    },
+    {
+      "cite": "87 Wn.2d 516",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1113766
+      ],
+      "year": 1976,
+      "pin_cites": [
+        {
+          "page": "529"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/87/0516-01"
+      ]
+    },
+    {
+      "cite": "298 P.3d 724",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2013,
+      "opinion_index": 1
+    },
+    {
+      "cite": "177 Wn.2d 186",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4131711
+      ],
+      "year": 2013,
+      "pin_cites": [
+        {
+          "page": "192"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/177/0186-01"
+      ]
+    },
+    {
+      "cite": "953 P.2d 796",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1998,
+      "opinion_index": 1
+    },
+    {
+      "cite": "134 Wn.2d 761",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        452317
+      ],
+      "year": 1998,
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/134/0761-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1283,
+    "char_count": 32893,
+    "ocr_confidence": 0.882,
+    "pagerank": {
+      "raw": 7.004566623927949e-08,
+      "percentile": 0.4231706172830926
+    },
+    "sha256": "35bfc654a3953ee0011274ee8f09de262a252f82e5cc849b372b7bf67c64f8af",
+    "simhash": "1:917a3f096dd40672",
+    "word_count": 5166
+  },
+  "last_updated": "2024-02-27T21:13:25.899037+00:00",
+  "provenance": {
+    "date_added": "2019-05-21",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Johnson, Owens, Fairhurst, and Yu, JJ., concur.",
+      "Stephens, Wiggins, and Gonz\u00e1lez, JJ., concur with Gordon McCloud, J."
+    ],
+    "parties": [
+      "Jose Segura et al., Petitioners, v. Rogaciano Cabrera et al., Respondents."
+    ],
+    "opinions": [
+      {
+        "text": "Madsen, C.J.\n\u00b61 RCW 59.18.085 of the Residential Landlord-Tenant Act of 1973 (RLTA), which is intended to provide relocation assistance to tenants, does not allow recovery for emotional distress. The statute\u2019s plain language and its stated purpose compel this result. The trial court and the Court of Appeals were correct in so determining. We affirm.\nFACTS\n\u00b62 Rogaciano and Raquel Cabrera bought a house in Pasco, Washington, in 2007. In 2011, they obtained a license from the city to rent the house as a single residential unit. Contrary to the license, the Cabreras rented the upstairs and the basement as separate apartments.\n\u00b63 On July 3, 2011, the Cabreras leased the basement to Jose Segura and Tabetha Gonzalez (collectively Segura) for a year\u2019s term. Segura paid $600 for the first month\u2019s rent, $600 for a rental security deposit, and $150 as a deposit for electric utility service. Five days later, the City of Pasco Code Enforcement Office inspected the property and found that the Cabreras had converted the single family dwelling into a duplex without a permit and that the basement unit was uninhabitable. Accordingly, the city ordered Segura to vacate the premises within 20 days.\n\u00b64 Segura sought compensation from the Cabreras. On July 14, Segura gave the Cabreras a written demand for refund of prepaid deposits and rent, and for monetary relocation assistance, as provided by RCW 59.18.085(3). The Cabreras did not respond to the letter. Mr. Cabrera later stated in a deposition that he ignored it because an attorney told him \u201cthere was no problem.\u201d Clerk\u2019s Papers (CP) at 115-16.\n\u00b65 On July 19, the Cabreras gave Segura a notice to vacate by August 7,2011. Segura claimed that after sending the demand letter but before this move-out deadline, Mr. Cabrera entered the unit without notice, changed the locks, removed some of Segura\u2019s personal property, and tried to have Segura\u2019s car towed from the property.\n\u00b66 Segura sued the Cabreras on July 26 for damages under the RLTA. The Cabreras filed an answer, alleging, as the only affirmative defense, that \u201c [defendant had no knowledge it was illegal.\u201d CP at 199.\n\u00b67 On June 22, 2012, Segura moved for summary judgment, seeking $1,200.00 for the first month\u2019s prepaid rent and the security deposit, $150.00 for the utility deposit, $2,000.00 in relocation assistance, $200.00 in gas expenses related to moving into a new home, $1,000.00 in emotional distress damages, and $5,209.55 in attorney fees and costs.\n\u00b68 The trial court granted Segura\u2019s motion for summary judgment but rejected the request for emotional distress damages, concluding they were not recoverable under RCW 59.18.085(3). The court denied Segura\u2019s motion for reconsideration, reasoning, \u201cThe relationship of the parties arises from a contract to lease real property. The misconduct on the part of the landlord was intentional but it is not an intentional tort. The damages are limited to those identified in the statute RCW 59.18.[0]85(3).\u201d CP at 12.\n\u00b69 The Court of Appeals affirmed the denial of emotional distress damages in a published, split decision. Segura v. Cabrera, 179 Wn. App. 630, 319 P.3d 98, review granted, 181 Wn.2d 1006, 332 P.3d 985 (2014). Relying on this court\u2019s opinion in White River Estates, the majority in the Court of Appeals held that emotional distress damages were not recoverable because a landlord could violate RCW 59.18-.085(3)(a) \u201c \u2018by conduct not amounting to an intentional tort.\u2019 \u201d Id. at 637 (quoting White River Estates v. Hiltbruner, 134 Wn.2d 761, 769, 953 P.2d 796 (1998)). The Court of Appeals also reasoned that the language of RCW 59.18-.085(3)(e) \u201cimplies out of pocket or financial damages incurred by relocation.... This interpretation better suits the statute\u2019s purpose, which suggests the \u2018actual damages\u2019 provided in RCW 59.18.085(3)(e) are limited to reasonable moving expenses.\u201d Id.\n\u00b610 This court granted Segura\u2019s petition for review.\nANALYSIS\n\u00b611 Statutory interpretation resolves whether the RLTA allows displaced tenants to recover emotional distress damages. See White River Estates, 134 Wn.2d at 765. The purpose of statutory interpretation is to determine the legislature\u2019s intent and to apply it. State v. Evans, 177 Wn.2d 186, 192, 298 P.3d 724 (2013). When possible, we derive the legislature\u2019s intent solely from the statute\u2019s plain language, considering the text of the provision at issue, the context of the statute, related provisions, and the statutory scheme as a whole. Id.\n\u00b612 \u201cWhether emotional distress damages are available following a statutory violation will depend on the language of the particular statute at issue.\u201d White River Estates, 134 Wn.2d at 765. Reading RCW 59.18.085\u2019s provisions together reveals that the statute\u2019s purpose is to provide assistance to relocate displaced tenants, make the landlord responsible for such assistance, authorize the city to step in as needed to facilitate such relocation, and provide a means for the city to seek reimbursement from the landlord where the city has stepped in to provide such assistance.\n\u00b613 Here, RCW 59.18.085 provides that a landlord shall not rent a unit that does not meet applicable codes. RCW 59.18.085(1). If the landlord knowingly does so, the tenant shall recover the greater of three months\u2019 rent or treble the actual damages sustained as a result of the violation. RCW 59.18.085(2). If the appropriate government agency requires that the tenant vacate the premises, the tenant shall also recover any prepaid deposit and rent. Id. Additionally, the tenant may be entitled to relocation assistance as follows:\nIf a governmental agency responsible for the enforcement of a building, housing, or other appropriate code has notified the landlord that a dwelling will be condemned or will be unlawful to occupy due to the existence of conditions that violate applicable codes, statutes, ordinances, or regulations, a landlord, who knew or should have known of the existence of these conditions, shall be required to pay relocation assistance to the displaced tenants.\nRCW 59.18.085(3)(a). The statute sets the amount of relocation assistance ($2,000 or three times the monthly rent, whichever is greater), notes other damages the tenant is entitled to from the landlord, specifies how payment to the tenant is to be made, sets a time frame for such payments, and authorizes the governmental entity to step in and advance the relocation assistance to the displaced tenant if the landlord fails to meet the statutory time schedule for such payments. The statute also provides a time limit in which the landlord must reimburse the city for any relocation assistance advancements that the city has paid the tenant; civil penalties and interest for the landlord\u2019s noncompliance with the stated time limits; and attorney fees and costs to the city if it must pursue legal action against the landlord to receive such reimbursements, penalties, and interest. See RCW 59.18.085(3)(f)-(h).\n\u00b614 Notably, subsection (3)(e) sets the parameters of the damages available to a tenant under the statute.\nDisplaced tenants shall be entitled to recover any relocation assistance, prepaid deposits, and prepaid rent required by (b) of this subsection. In addition, displaced tenants shall be entitled to recover any actual damages sustained by them as a result of the condemnation, eviction, or displacement that exceed the amount of relocation assistance that is payable. In any action brought by displaced tenants to recover any payments or damages required or authorized by this subsection (3)(e) or (c) of this subsection that are not paid by the landlord or advanced by the city, town, county, or municipal corporation, the displaced tenants shall also be entitled to recover their costs of suit or arbitration and reasonable attorneys\u2019 fees.\nRCW 59.18.085(3)(e) (emphasis added). In giving effect to the legislature\u2019s intent, we look to the statute\u2019s plain and ordinary meaning, reading the enactment as a whole, harmonizing its provisions by reading them in context with related provisions. Quadrant Corp. v. Cent. Puget Sound Growth Mgmt. Hr\u2019gs Bd., 154 Wn.2d 224, 239-40, 110 P.3d 1132 (2005). Reading the provisions of the statute together, the plain language provides that the tenant is entitled to receive the relocation assistance amounts as calculated in subsection (3)(b) but may also seek, via legal action against the landlord, the tenant\u2019s actual costs of relocation that exceed the relocation assistance amount as calculated in subsection (3)(b). The statute provides relocation assistance; it simply does not address or encompass emotional distress damages.\n\u00b615 Further, if there were any doubt as to the statute\u2019s purpose, the legislature expressly spelled it out. The statute\u2019s stated purpose is twofold: first, \u201cto establish a process by which displaced tenants would receive funds for reloca tion from landlords who fail to provide safe and sanitary housing after due notice of building code or health code violations,\u201d Laws of 2005, ch. 364, \u00a7 1 (emphasis added), and second, \u201cto provide enforcement mechanisms to cities, towns, counties, or municipal corporations including the ability to advance relocation funds to tenants who are displaced as a result of a landlord\u2019s failure to remedy building code or health code violations and later to collect the full amounts of these relocation funds, along with interest and penalties, from landlords.\u201d Id. The statute\u2019s plain language and the legislature\u2019s express provision of \u201cfunds for relocation\u201d cannot legitimately be stretched to include emotional distress damages.\n\u00b616 Segura cites Rasor v. Retail Credit Co., 87 Wn.2d 516, 554 P.2d 1041 (1976), and Martini v. Boeing Co., 137 Wn.2d 357, 971 P.2d 45 (1999), for the proposition that actual damages includes damages for emotional distress. But Rasor concerned damages available under the Fair Credit Reporting Act (FCRA), 15 U.S.C. \u00a7\u00a7 1681-1681x, whose purpose is \u201c \u2018to protect an individual from inaccurate or arbitrary information about himself in a consumer report that is being used as a factor in determining the individual\u2019s eligibility for credit, insurance or employment.\u2019 \u201d Rasor, 87 Wn.2d at 520 (quoting Porter v. Talbot Perkins Children\u2019s Servs., 355 F. Supp. 174, 176 (S.D.N.Y. 1973)). Martini addressed claims of discrimination under Washington\u2019s Law Against Discrimination (WLAD) (ch. 49.60 RCW). See Martini, 137 Wn.2d at 366-68. The purpose of WLAD is to protect the \u201cpublic welfare, health, and peace of the people\u201d because \u201cdiscrimination threatens [their] rights and proper privileges.\u201d RCW 49.60.010. Both the FCRA and WLAD guard against harm to the person. The inclusion of emotional distress damages in those cases is not surprising, as such provision comports with the purpose and protections afforded by the statutes in question. But no similar purpose is present in this case. Here, the text of the statute, as discussed above, attests that the legislature is concerned only with return of a tenant\u2019s money and assisting the tenant in getting relocated, not in providing redress for a personal injury or protecting against harm to the person. There is no similarity to the types of situations presented in Rasor and Martini, which involved different statutes with different language and different purposes.\n\u00b617 For the same reason, Segura\u2019s citation to Ellingson v. Spokane Mortgage Co., 19 Wn. App. 48, 573 P.2d 389 (1978), and Conrad v. Alderwood Manor, 119 Wn. App. 275, 78 P.3d 177 (2003), as support is also unavailing. Ellingson addressed claims of discrimination under the WLAD, and Conrad addressed claims under the abuse of vulnerable adults statute (ch. 74.34 RCW). See Ellingson, 19 Wn. App. at 54; Conrad, 119 Wn. App. at 280. These cases too are distinguishable, as they addressed statutes and circumstances that are not present here.\n\u00b618 We have never adopted a single definition of the term \u201cactual damages.\u201d Indeed, in the appropriate case, we have limited \u201cactual damages\u201d to include only recovery for pecuniary harm. For example, the Washington Consumer Protection Act (CPA) allows a person harmed under the statute \u201cto recover the actual damages sustained by him or her . . . together with the costs of the suit, including a reasonable attorney\u2019s fee.\u201d RCW 19.86.090. As in this case, the statute included language allowing recovery for \u201cactual damages.\u201d Nevertheless, after analyzing the language in context, we held that the CPA does not allow recovery for emotional distress. Wash. State Physicians Ins. Exch. & Ass\u2019n v. Fisons Corp, 122 Wn.2d 299, 318, 858 P.2d 1054 (1993) (plurality opinion). We examined the purpose of the statute at issue, reasoning that the CPA concerns injuries to \u201c \u2018business or property,\u2019 \u201d not personal injuries. Id. Therefore, \u201cactual damages\u201d did not include emotional distress. Id.\n\u00b619 Similarly, as the Supreme Court recently observed, \u201cactual damages\u201d has a \u201cchameleon-like quality\u201d because \u201cthe precise meaning of the term \u2018changes with the specific statute in which it is found.\u2019 \u201d Fed. Aviation Admin. v. Cooper, 566 U.S. 284, 294, 292, 132 S. Ct. 1441, 182 L. Ed. 2d 497 (2012) (holding \u201cactual damages\u201d does not include emotional distress damages as used in the Privacy Act of 1974, codified in part at 5 U.S.C. \u00a7 552a (quoting Cooper v. Fed. Aviation Admin., 622 F.3d 1016 (9th Cir. 2010))). As the Court noted, sometimes the term includes emotional distress damages, while in other contexts it includes only pecuniary harm. Id. at 1449.\n\u00b620 As discussed, in this case, the statute provides for the recovery of financial losses caused by displacement; it simply does not address or reasonably encompass emotional distress damages.\nCONCLUSION\n\u00b621 We hold that RCW 59.18.085 of the RLTA provides relocation assistance to tenants. Recovery for emotional distress damages is not available under this statute. We affirm.\nJohnson, Owens, Fairhurst, and Yu, JJ., concur.\nThe Cabreras have appeared pro se throughout the proceedings. They have, however, submitted no responsive briefing in the Court of Appeals or in this court. The Rental Housing Association of Washington submitted an amicus brief supporting the Cabreras.\nSegura described these damages as \u201crepresenting additional damages for the anxiety, worry, inconvenience, and upheaval inflicted upon the plaintiffs and their children from being forced to vacate their home on a few days\u2019 notice shortly after signing a year\u2019s lease [and] the harassment and illegal lock-out suffered at the defendants\u2019 hands, including missing property.\u2019\u2019 CP at 64.\nThe subsections provide:\n(b) Relocation assistance provided to displaced tenants under this subsection shall be the greater amount of two thousand dollars per dwelling unit or three times the monthly rent. In addition to relocation assistance, the landlord shall be required to pay to the displaced tenants the entire amount of any deposit prepaid by the tenant and all prepaid rent.\n(c) The landlord shall pay relocation assistance and any prepaid deposit and prepaid rent to displaced tenants within seven days of the governmental agency sending notice of the condemnation, eviction, or displacement order to the landlord. The landlord shall pay relocation assistance and any prepaid deposit and prepaid rent either by making individual payments by certified check to displaced tenants or by providing a certified check to the governmental agency ordering condemnation, eviction, or displacement, for distribution to the displaced tenants. If the landlord fails to complete payment of relocation assistance within the period required under this subsection, the city, town, county, or municipal corporation may advance the cost of the relocation assistance payments to the displaced tenants.\nRCW 59.18.085(3).",
+        "type": "majority",
+        "author": "Madsen, C.J."
+      },
+      {
+        "text": "Gordon McCloud, J.\n\u00b622 (concurring in result) \u2014 The Residential Landlord-Tenant Act of 1973 (RLTA), chapter 59.18 RCW, entitles displaced tenants to recover, \u201c[i]n addition to\u201d \u201cany relocation assistance,\u201d \u201cany actual damages sustained by them . . . that exceed the amount of relocation assistance that is payable.\u201d RCW 59.18.085(3)(b), (e). The majority holds that the plain language and stated purpose of this statute compel limiting a displaced tenant\u2019s recovery to financial losses only. Majority at 596.\n\u00b623 But the legislature\u2019s use of the broad, inclusive adjective \u201cany\u201d to modify \u201cactual damages,\u201d along with its specification that such damages are recoverable \u201cin addition\u201d to relocation costs, compels the opposite conclusion. In addition, we presume that the legislature, when it enacted the RLTA, was aware of our decisions in Rasor v. Retail Credit Co., 87 Wn.2d 516, 529, 554 P.2d 1041 (1976), and Martini v. Boeing Co., 137 Wn.2d 357, 368, 370, 971 P.2d 45 (1999), recognizing that actual damages include emotional distress damages.\n\u00b624 I therefore respectfully disagree with the majority\u2019s conclusion that the RLTA bars displaced tenants from recovering emotional distress damages. But I concur in the majority\u2019s result that Jose Segura and Tabetha Gonzalez (collectively Segura) cannot recover emotional distress damages here. The statute allows recovery of such actual damages only when they exceed the statutory $2,000 of relocation assistance. RCW 59.18.085(3)(b), (e). Segura\u2019s request for $1,200 in actual damages does not exceed that $2,000 amount. Therefore, the RLTA prohibits them from recovering actual damages, including emotional distress damages, in this case.\nI. Standard of Review\n\u00b625 We review issues of statutory interpretation de novo. O.S.T. v. Regence BlueShield, 181 Wn.2d 691, 696, 335 P.3d 416 (2014). We begin with the statute\u2019s plain language, considering the text of the provision in question, the statute\u2019s context, and the statutory scheme as a whole. State v. Evans, 177 Wn.2d 186, 192, 298 P.3d 724 (2013). Our objective is to determine and to apply the legislature\u2019s intent. O.S.T., 181 Wn.2d at 696.\nII. The Statutory Language\n\u00b626 This case requires us to construe the statutory term \u201cactual damages\u201d as used in RCW 59.18.085(3)(e) and to decide if the right to recover such \u201cactual damages\u201d includes a right to recover emotional distress damages.\n\u00b627 RCW 59.18.085 states, in relevant part,\n(3)(a) If a governmental agency responsible for the enforcement of a building, housing, or other appropriate code has notified the landlord that a dwelling will be condemned or will be unlawful to occupy due to the existence of conditions that violate applicable codes, statutes, ordinances, or regulations, a landlord, who knew or should have known of the existence of these conditions, shall be required to pay relocation assistance to the displaced tenants ....\n(e) Displaced tenants shall be entitled to recover any relocation assistance, prepaid deposits, and prepaid rent required by (b) of this subsection. In addition, displaced tenants shall be entitled to recover any actual damages sustained by them as a result of the condemnation, eviction, or displacement that exceed the amount of relocation assistance that is payable. . . .\n(Emphasis added.) As the majority notes, the RLTA contains no definition of \u201cactual damages,\u201d so whether the RLTA authorizes displaced tenants to recover emotional distress damages sustained as a result of their displacement is a matter of statutory interpretation.\nIII. The Legislature Decided That Tenants Can Recover \u201cAny Actual Damages\u201d \u201cin Addition\u201d to the Listed Amounts; This Language Is Broad and Unambiguous\nA. The Majority\u2019s Holding Conflicts with the Statute\u2019s Plain Language\n\u00b628 The plain statutory language of the RLTA gives displaced tenants the right to recover \u201cany actual damages sustained by them as a result of the ... displacement\u201d \u201c[i\\n addition\u201d to economic damages specifically enumerated in the statute (\u201crelocation assistance, prepaid deposits, and prepaid rent\u201d). RCW 59.18.085(3)(e) (emphasis added). By limiting the recovery under this statute to economic damages only, and by further limiting these damages to \u201crelocation assistance,\u201d majority at 596, the majority\u2019s holding conflicts with both statutory phrases italicized immediately above.\n\u00b629 First, the statutory word \u201cany\u201d is a broad modifier. See State v. Sutherby, 165 Wn.2d 870, 880-82, 204 P.3d 916 (2009); State v. Westling, 145 Wn.2d 607, 611-12, 40 P.3d 669 (2002). This broad language supports an expansive reading of the statute.\n\u00b630 Second, we must give full effect to the language \u201cin addition\u201d to. The statute specifies that \u201cany\u201d actual damages are available not as part of but \u201cin addition\u201d to the enumerated damages, including damages \u201cthat exceed the amount of relocation assistance that is payable.\u201d RCW 59.18.085(3)(e). Thus, the statute\u2019s context, in addition to its express language, reveals the legislature\u2019s intent to permit the recovery of emotional distress damages; a contrary interpretation would render the legislature\u2019s use of this broad language meaningless.\n\u00b631 The majority relies on an argument that no party has made: that the language \u201cthat exceed the amount of relocation assistance that is payable\u201d shows an intent to limit the amount of available damages to relocation damages only. Majority at 593. But this interpretation is problematic for two reasons. First, it treats the concluding language as a limit on both the amount and the nature of damages that a displaced tenant is entitled to recover. The statute\u2019s plain language defies such a reading. The statute says \u201cthat exceed,\u201d which refers to an amount, not a type of damages. Second, this interpretation treats the language \u201cthat is payable\u201d as a limit on \u201cactual damages\u201d when, grammatically, it can be read only as modifying the immediately preceding phrase \u201crelocation assistance.\u201d\nB. The Majority\u2019s Holding Conflicts with This Court\u2019s Decisions Interpreting the Term \u201cActual Damages\u201d in Other Statutes\n\u00b632 In addition to failing to recognize the broad nature of the statutory language, the majority rejects the definition of \u201cactual damages\u201d established by our prior decisions. Majority at 594-95. In Rasor, we interpreted the term \u201cactual damages\u201d as used in the federal Fair Credit Reporting Act (FCRA), 15 U.S.C. \u00a7\u00a7 1681n, 1681o. 87 Wn.2d at 529. This statute permits a plaintiff to recover \u201can amount equal to . . . any actual damages sustained by the consumer as a result of the failure\u201d of a credit reporting agency to comply with the statutory requirements. 15 U.S.C. \u00a7\u00a7 1681n, 1681o. The plaintiff in Rasor alleged that a credit report stating that she had a reputation of living with more than one man out of wedlock \u201cdamaged her personally and in her business reputation in the small community, and that she suffered emotionally from the experience.\u201d 87 Wn.2d at 531. We explained that Congress\u2019s intent in enacting \u201cthis remedial legislation\u201d was \u201c \u2018to protect the reputation of a consumer\u2019 \u201d from the improper preparation and use of inaccurate or arbitrary information in credit reports, including protection from false rumors. Id. at 529, 520-21 (quoting Ackerley v. Credit Bureau of Sheridan, Inc., 385 F. Supp. 658, 659 (D. Wyo. 1974)). Comparing the plaintiff\u2019s injury to the actual injury suffered in a defamation action, we recognized in Rasor the \u201cgenerally accepted legal meaning\u201d of \u201cactual damages\u201d for defamatory falsehood:\nIn reference to the type of harm suffered, the term \u201cactual damages\u201d has a generally accepted legal meaning. Although it declined to define \u201cactual injury,\u201d the United States Supreme Court recently noted the variety of harm which may result when damage is actually sustained.\nSuffice it to say that actual injury is not limited to out-of-pocket loss. Indeed, the more customary types of actual harm inflicted by defamatory falsehood include impairment of reputation and standing in the community, personal humiliation, and mental anguish and suffering. Of course, juries must be limited by appropriate instructions, and all awards must be supported by competent evidence concerning the injury, although there need be no evidence which assigns an actual dollar value to the injury.\nId. at 529 (emphasis omitted) (quoting Gertz v. Robert Welch, Inc., 418 U.S. 323, 350, 94 S. Ct. 2997, 41 L. Ed. 2d 789 (1974)). Noting that \u201cactual damages\u201d denotes both the type of damage award and the nature of injury for which a plaintiff may recover damages, we also stated in Rasor, \u201cIn this sense, the term has a second, consonant and established meaning. \u2018 \u201cActual\u201d damages are synonymous with compensatory damages\u2019. Thus, actual damages, flowing from injury in fact, are to be distinguished from damages which are \u2018nominal,\u2019 \u2018exemplary\u2019 or \u2018punitive.\u2019 \u201d Id. at 530 n.3 (citations omitted) (quoting Werder v. Hoffman, 238 F. Supp. 437, 445 (M.D. Pa. 1965)). We therefore held that \u201cactual damages\u201d under the FCRA includes all of the elements of compensatory awards generally, including harm to business reputation and emotional suffering. Id. at 530.\n\u00b633 In Martini, we again construed the term \u201cactual damages\u201d and reached the same conclusion. 137 Wn.2d at 364. Martini discussed \u201cactual damages\u201d as used in Washington\u2019s Law Against Discrimination (WLAD), chapter 49.60 RCW, which mandates \u201cliberal construction.\u201d 137 Wn.2d at 364; RCW 49.60.020. The plaintiff alleged disability discrimination and sought front and back pay. Martini, 137 Wn.2d at 361. The WLAD permits the recovery of \u201cthe actual damages sustained by the person\u201d but contains no definition of the term \u201cactual damages.\u201d RCW 49.60.030(2). Although emotional distress damages were not directly at issue in Martini, we cited Rasor and concluded that RCW 49.60.030(2) authorizes the recovery of full compensatory damages, including \u201cdamages for emotional distress,\u201d and excluded only nominal, exemplary, or punitive damages. Martini, 137 Wn.2d at 370, 367-68.\n\u00b634 Since 1976, we have consistently stated that this is the established meaning of \u201cactual damages.\u201d Rasor, 87 Wn.2d at 530 n.3. We presume that the legislature knew the controlling law in the area in which it was legislating when it passed RCW 59.18.085 in 2005. Wynn v. Earin, 163 Wn.2d 361, 371, 181 P.3d 806 (2008) (citing Price v. Kitsap Transit, 125 Wn.2d 456, 463, 886 P.2d 556 (1994)). Although the majority dismisses these cases as \u201cinvolv[ing] different statutes with different language and different purposes,\u201d majority at 595, nothing in Rasor or Martini suggests that their discussions of \u201cactual damages\u201d were limited to the statutes at issue in those cases.\n\u00b635 The majority argues that under Federal Aviation Administration v. Cooper, 566 U.S. 284, 132 S. Ct. 1441, 182 L. Ed. 2d 497 (2012), \u201c \u2018the precise meaning of the term [\u201cactual damages\u201d] changes with the specific statute in which it is found.\u2019 \u201d Majority at 595-96 (internal quotation marks omitted) (quoting Cooper, 566 U.S. at 292). But that case does not control here. The issue presented in Cooper was\u2014seemingly\u2014whether the term \u201cactual damages\u201d in the civil remedies provision of the Privacy Act of 1974 includes compensation for mental and emotional harm. 5 U.S.C. \u00a7 552a. But because the Privacy Act of 1974 applied to damages from the government, the question was actually narrower: \u201cBecause the Privacy Act waives the Federal Government\u2019s sovereign immunity, the question we must address is whether it is plausible to read the statute, as the Government does, to authorize only damages for economic loss.\u201d Cooper, 566 U.S. at 299 (emphasis added). Given that narrow issue, that Court entered the narrow holding that the civil remedies provision did not waive the United States\u2019 sovereign immunity with respect to such recovery. Id. The Court explained, \u201cWhen waiving the Government\u2019s sovereign immunity, Congress must speak unequivocally. Here, we conclude that it did not. As a consequence, we adopt an interpretation of \u2018actual damages\u2019 limited to proven pecuniary or economic harm.\u201d Id. (citation omitted). This case, in contrast, does not involve the scope of sovereign immunity. In addition, this case deals with the interpretation of a Washington, not a federal, statute; the answer to our question is controlled by state, not federal, law.\nIV. Segura Cannot Recover Emotional Distress Damages Here\n\u00b636 Although the RLTA permits displaced tenants to recover emotional distress damages as actual damages, I agree with the majority that Segura is entitled to no actual damages in this case. RCW 59.18.085(3)(e) states that displaced tenants can recover \u201cany actual damages sustained by them . . . that exceed the amount of relocation assistance that is payable.\u201d (Emphasis added.) The \u201crelocation assistance that is payable\u201d to displaced tenants is \u201cthe greater amount of two thousand dollars per dwelling unit or three times the monthly rent.\u201d RCW 59.18.085(3)(b).\n\u00b637 Here, Segura is entitled only to actual damages that exceed $2,000 because this amount is greater than three times Segura\u2019s monthly rent of $600. Segura requested $1,000 for emotional distress and $200 for gasoline expenses\u2014both components of \u201cactual damages.\u201d But the $1,200 total that Segura claims as actual damages does not exceed the $2,000 payable to Segura as relocation assistance. Therefore, Segura can recover no actual damages under the RLTA.\nCONCLUSION\n\u00b638 The legislature determined that a displaced tenant could recover \u201cactual damages.\u201d It placed no limit on these \u201cactual damages.\u201d In fact, RCW 59.18.085(3)(e) authorizes \u201cany\u201d such \u201cactual damages.\u201d The statute\u2019s plain, broad language, as well as controlling Washington case law interpreting the legal meaning of this term, thus authorizes displaced tenants to recover emotional distress damages for a landlord\u2019s violation of the RLTA.\n\u00b639 In this case, however, Segura\u2019s requested actual damages do not exceed $2,000. For that reason, Segura may not recover actual damages, including emotional distress damages, in this case. I therefore concur in the result.\nStephens, Wiggins, and Gonz\u00e1lez, JJ., concur with Gordon McCloud, J.\nEmotional distress damages are a type of noneconomic damages. RCW 4.56.250(1)(b) defines \u201cnoneconomic damages\u2019\u2019 as \u201csubjective, nonmonetary losses, including, but not limited to[,] pain, suffering, inconvenience, mental anguish, disability or disfigurement incurred by the injured party, emotional distress, loss of society and companionship, loss of consortium, injury to reputation and humiliation, and destruction of the parent-child relationship.\u201d\nSee Cornu-Labat v. Hosp. Dist. No. 2, 177 Wn.2d 221, 231, 298 P.3d 741 (2013) (\u201cWe interpret statutes to give effect to all the language used so that no portion is rendered meaningless or unnecessary.\u2019\u2019 (citing State v. J.P., 149 Wn.2d 444, 450, 69 P.3d 318 (2003))).\nThe Court of Appeals relied in large part on White River Estates v. Hiltbruner, 134 Wn.2d 761, 953 P.2d 796 (1998). In that case, however, we held that when a statute is silent about the damages available for its violation, emotional distress damages are available only if the statutory violation requires conduct amounting to an intentional tort, as opposed to mere negligence. Id. at 766. White River Estates' intentional-versus-negligent test does not apply to the RLTA, which explicitly describes the damages recoverable for a landlord\u2019s violation. See RCW 59.18.085(3)(e).\nThe majority asserts that we said the opposite in Washington State Physicians Insurance Exchange & Ass\u2019n v. Fisons Corp., 122 Wn.2d 299, 858 P.2d 1054 (1993) (plurality opinion). Majority at 595. It is true that in Fisons, we disallowed recovery of emotional distress damages under the Consumer Protection Act, chapter 19.86 RCW, which affords \u201cactual damages.\u2019\u2019 Fisons, 122 Wn.2d at 318. But that was not just because of RCW 19.86.090\u2019s language allowing an individual \u201cto recover . . . actual damages sustained.\u2019\u2019 (Emphasis added.) In fact, we explained that there was no right to emotional distress damages in that context because the statute limited the right to sue to a \u201cperson who is injured in his or her business or property by a violation of [the act].\u2019\u2019 RCW 19.86.090 (emphasis added). In Fisons, we ruled, \u201c \u2018The phrase \u201cbusiness or property\u2019\u2019 also retains restrictive significance. It would, for example, exclude personal injuries suffered.\u2019 \u2019\u2019 Fisons, 122 Wn.2d at 318 (quoting Reiter v. Sonotone Corp., 442 U.S. 330, 339, 99 S. Ct. 2326, 60 L. Ed. 2d 931 (1979)). The statute at issue in this case, in contrast, contains no such limiting language.",
+        "type": "concurrence",
+        "author": "Gordon McCloud, J."
+      }
+    ],
+    "attorneys": [
+      "Rogaciano Cabrera and Raquel Cabrera, pro se.",
+      "Scott Kinkley {o\u00edNorthwest Justice Project), for petitioners.",
+      "George M. Ahrend and Bryan P. Harnetiaux on behalf of Washington State Association for Justice Foundation, am-icus curiae.",
+      "Philip A. Talmadge on behalf of Rental Housing Association of Washington, amicus curiae."
+    ],
+    "corrections": "",
+    "head_matter": "[No. 90088-4.\nConsidered March 10, 2015.\nDecided October 29, 2015.\nJose Segura et al., Petitioners, v. Rogaciano Cabrera et al., Respondents.\nRogaciano Cabrera and Raquel Cabrera, pro se.\nScott Kinkley {o\u00edNorthwest Justice Project), for petitioners.\nGeorge M. Ahrend and Bryan P. Harnetiaux on behalf of Washington State Association for Justice Foundation, am-icus curiae.\nPhilip A. Talmadge on behalf of Rental Housing Association of Washington, amicus curiae."
+  },
+  "file_name": "0587-01",
+  "first_page_order": 629,
+  "last_page_order": 646
+}

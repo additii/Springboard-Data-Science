@@ -1,0 +1,133 @@
+{
+  "id": 1428281,
+  "name": "Guthrie v. State",
+  "name_abbreviation": "Guthrie v. State",
+  "decision_date": "1934-03-12",
+  "docket_number": "Criminal 3876",
+  "first_page": "1081",
+  "last_page": "1082",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "188 Ark. 1081"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [
+    {
+      "cite": "16 S. W. (2d) 991",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "179 Ark. 508",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "296 S. W. 70",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "175 Ark. 61",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1403457
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/175/0061-01"
+      ]
+    },
+    {
+      "cite": "268 S. W. 861",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "167 Ark. 492",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1377002
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/167/0492-01"
+      ]
+    },
+    {
+      "cite": "6 S. W. (2d) 832",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "177 Ark. 413",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        8721836
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/177/0413-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 149,
+    "char_count": 1401,
+    "ocr_confidence": 0.542,
+    "pagerank": {
+      "raw": 1.1192488722315097e-07,
+      "percentile": 0.5730173844112147
+    },
+    "sha256": "5c558b99d9169b8bfb0d4b07c950bae970005911bd716bbeabdb4436a1dc1879",
+    "simhash": "1:d3392c248a082649",
+    "word_count": 250
+  },
+  "last_updated": "2024-02-27T23:51:14.545434+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Guthrie v. State."
+    ],
+    "opinions": [
+      {
+        "text": "McHaney, J.\nAppellant was convicted of murder in the second degree, and sentenced to twelve years in the penitentiary for the killing of Bryant Graves on October 1, 1933.\nThe only assignment of error relied upon for a reversal of the judgment is that a material witness for the State, \"Willie Heriod, a negro boy 15 years of age, was disqualified by reason of his inability to appreciate the sanctity of an oath. After the witness had testified to facts very damaging to appellant, on cross-examination he testified that he didn\u2019t know what it was to tell the truth, didn\u2019t know what an oath was, nor what would happen to him if he testified falsely. The court overruled a motion to exclude his testimony from the jury. After a short recess of court, and after talking with the State\u2019s attorney, the witness was again, examined, and stated that he did understand the nature of an oath.\nWe think the matter of his qualification as a witness rested in the sound discretion of the court. Payne v. State, 177 Ark. 413, 6 S. W. (2d) 832; Yother v. State, 167 Ark. 492, 268 S. W. 861; Sanders v. State, 175 Ark. 61, 296 S. W. 70; Durham v. State, 179 Ark. 508, 16 S. W. (2d) 991.\nAffirmed.",
+        "type": "majority",
+        "author": "McHaney, J."
+      }
+    ],
+    "attorneys": [
+      "John C. Sheffield, L. L. Harris and Brickell & Douglas, for appellant.",
+      "Hal L. Norwood, Attorney General, and Robert F. Smith, Assistant, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Guthrie v. State.\nCriminal 3876\nOpinion delivered March 12, 1934.\nJohn C. Sheffield, L. L. Harris and Brickell & Douglas, for appellant.\nHal L. Norwood, Attorney General, and Robert F. Smith, Assistant, for appellee."
+  },
+  "file_name": "1081-01",
+  "first_page_order": 1099,
+  "last_page_order": 1100
+}

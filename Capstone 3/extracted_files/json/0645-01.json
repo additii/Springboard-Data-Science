@@ -1,0 +1,79 @@
+{
+  "id": 1362274,
+  "name": "Smith v. State",
+  "name_abbreviation": "Smith v. State",
+  "decision_date": "1922-05-22",
+  "docket_number": "",
+  "first_page": "645",
+  "last_page": "647",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "153 Ark. 645"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [
+    {
+      "cite": "91 Ark. 200",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1511752
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/91/0200-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 281,
+    "char_count": 5646,
+    "ocr_confidence": 0.476,
+    "pagerank": {
+      "raw": 9.52876550812697e-08,
+      "percentile": 0.5245776877339181
+    },
+    "sha256": "b03f924d6ac2ffe52d308dc00cc73427050432fef5e3552452db7b6245d9ac60",
+    "simhash": "1:ae3ffec290f6c4e0",
+    "word_count": 964
+  },
+  "last_updated": "2024-02-27T17:45:17.236697+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Smith v. State."
+    ],
+    "opinions": [
+      {
+        "text": "Smith, J.\nAppelant was convicted of perjury, and bias appealed. For the reversal of the judgment he insists that the verdict was contrary to the evidence; and that the alleged false testimony was not material.\nThe indictment alleges that the grand jury was engaged in the examination of a charge against Jess Nichols and Harvey Jane for the larceny of certain meat, and that pending such examination witness testified \u201cthat he did not, on the day prior to the examining trial of the case against the said Nichols and Jane, attempt to compromise or settle said case, which was then and there pending in justice court, with Mrs. Bud Biokle, and did not ask her if she would settle the case if she should be paid $75, or any other amount.\u201d The indictment alleges the materiality and the falsity of the testimony.\nThe foreman of the grand jury testified, and in doing so made use of such expressions as \u201cIf I remember right\u201d, and \u201cIt is my belief\u201d. These statements were made in repeating the testimony of appellant before the grand jury. The deputy prosecuting attorney also testified in the case, and in doing so he used the expression, \u201cMy recollection is\u201d, and \u201cI am of the impression.\u201d\nIt is insisted that the use of these and other similar expressions of the witnesses shows that the witnesses were not sufficiently certain and definite to meet the requirements of the law. But this was a question of fact for the jury, and the jury\u2019s verdict is conclusive of the question.\nThe chief insistence is that the alleged false testimony was immaterial. It is said that the testimony could not have been offered at the trial of Nichols and Jane upon the charge of larceny, in the absence of a showing that these persons had authorized appellant to make the proposition to Mrs. Biokle.\nIt is to be remembered, however, that the false testimony was given before the grand jury, a body having general inquisitorial powers, and the allegation of the indictment is that appellant was interrogated about an incident which had occurred the day before the examining trial of Nichols and Jane before the justice of the peace. The denial by appellant that he had made Mrs. Bickle an offer to settle the case would probably and naturally have tended to close the inquiry about the offer of money to settle the prosecution; whereas a truthful answer to that question and an admission that he had made such an offer would naturally have led to the inquiry, at whose instance the offer was made, and, if it had been made at the instance of Jane or Nichols, that fact would have been developed by the grand jury. The false answer was calculated to suppress the inquiry whether Nichols and Jane had authorized or induced appellant to attempt to suppress the examining trial. False swearing under these circumstances is perjury. In the case of Smith v. State, 91 Ark. 200, a syllabus reads as follows: \u201cIn an investigation before a grand jury any testimony is material whose necessary effect is to suspend, if not prevent, further investigation of a subject of inquiry, as where defendant\u2019s false testimony prevented the grand jury from investigating whether liquors in a given instance had been sold illegally. \u2019 \u2019\nError is assigned in admitting in evidence a written memorandum of the appellant\u2019s testimony before the grand jury. If there was any error in admitting this writing, it was invited, as objection was made to the testimony of both the foreman of the grand jury and the deputy prosecuting attorney that there was a memorandum which would be the best evidence. This memorandum was identified by the deputy prosecuting attorney as having been made by him; and, while it is not identical with the testimony of that officer at the trial, we think there was no substantial difference between the recitals of the memorandum and the testimony of that officer. At any rate, the difference, if any, was a question going to the credibility of the witness, and that was a question for the jury.\nNo error appearing, the judgment is affirmed.",
+        "type": "majority",
+        "author": "Smith, J."
+      }
+    ],
+    "attorneys": [
+      "Minor Piptem, for appelant.",
+      "J. 8. Utley, Attorney General, and Elbert Godwin and W. T. Hammoclc, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Smith v. State.\nOpinion delivered May 22, 1922.\n1. Perjury \u2014 false testimony before grand jury. \u2014 In a prosecution for perjury in which it was claimed that defendant gave false testimony before the grand jury, testimony of the foreman of the grand jury as to the testimony given by the defendant in which he used the expression \u201cIf I remember right\u201d and \u201cIt is my belief\u201d, \u25a0 and the testimony of another witness aa .to what defendant swore in which the witness used the exr pressions \u201cMy recollection is\u201d, and \u201cI am of the impression\u201d, held sufficient to make the question as to what defendant testified before the grand jury one for the jury.\n2. Perjury \u2014 false testimony \u2014 materiality.\u2014False testimony before the grand jury considering a charge against certain persons for larceny that the witness did not on the day before the examining trial attempt to compromise or settle the case against such persons held perjury; the false testimony being material as being calculated to suppress inquiry as to whether such persons had authorized the witness to suppress the examining trial.\n8. Criminal law \u2014 invited error. \u2014 Defendant could not, on appeal, complain of the admission by the trial court of a written memorandum in evidence where he objected to oral testimony to the same effect on the ground that the memorandum was the best evidence of the facts.\n4. Criminal law \u2014 question for jury. \u2014 Credibility of a witness is a question for the jury.\nAppeal from Polk Circuit Court, James 8. Steel, Judge;\naffirmed.\nMinor Piptem, for appelant.\nJ. 8. Utley, Attorney General, and Elbert Godwin and W. T. Hammoclc, for appellee."
+  },
+  "file_name": "0645-01",
+  "first_page_order": 673,
+  "last_page_order": 675
+}

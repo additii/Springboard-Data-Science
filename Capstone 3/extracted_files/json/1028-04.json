@@ -1,0 +1,78 @@
+{
+  "id": 12462965,
+  "name": "State, Respondent, v. Rowley, Petitioner",
+  "name_abbreviation": "State v. Rowley",
+  "decision_date": "2016-12-07",
+  "docket_number": "No. 93470-3",
+  "first_page": "1028",
+  "last_page": "1028",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "186 Wash. 2d 1028"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Wash.",
+    "id": 9029,
+    "name": "Washington Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 38,
+    "name_long": "Washington",
+    "name": "Wash."
+  },
+  "cites_to": [
+    {
+      "cite": "195 Wn. App. 1017",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        12454324,
+        12454325,
+        12454326,
+        12454327
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/195/1017-01",
+        "/wash-app/195/1017-02",
+        "/wash-app/195/1017-03",
+        "/wash-app/195/1017-04"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 27,
+    "char_count": 188,
+    "ocr_confidence": 0.85,
+    "sha256": "e6c371eacc9184827d60ca6b28b2a48f04699ca36086080b8d69dfe1b8722744",
+    "simhash": "1:38d18439cb310ce3",
+    "word_count": 31
+  },
+  "last_updated": "2024-02-27T18:43:05.207238+00:00",
+  "provenance": {
+    "date_added": "2019-05-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "State, Respondent, v. Rowley, Petitioner,"
+    ],
+    "opinions": [
+      {
+        "text": "Petition for review of a decision of the Court of Appeals, No. 75239-1-I, July 25, 2016, 195 Wn. App. 1017. Denied December 7, 2016.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "State, Respondent, v. Rowley, Petitioner,\nNo. 93470-3."
+  },
+  "file_name": "1028-04",
+  "first_page_order": 1014,
+  "last_page_order": 1014
+}

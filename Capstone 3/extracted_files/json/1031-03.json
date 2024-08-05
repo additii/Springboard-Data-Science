@@ -1,0 +1,76 @@
+{
+  "id": 12462988,
+  "name": "In re Estate of Mower",
+  "name_abbreviation": "In re Estate of Mower",
+  "decision_date": "2016-12-07",
+  "docket_number": "No. 93521-1",
+  "first_page": "1031",
+  "last_page": "1031",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "186 Wash. 2d 1031"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Wash.",
+    "id": 9029,
+    "name": "Washington Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 38,
+    "name_long": "Washington",
+    "name": "Wash."
+  },
+  "cites_to": [
+    {
+      "cite": "193 Wn. App. 706",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        12449921
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/193/0706-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 26,
+    "char_count": 167,
+    "ocr_confidence": 0.866,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.25766965564401634
+    },
+    "sha256": "0440ef3f5a8222e98de1f859b99cf259f9444b89817c95d3d57bd6410a845f71",
+    "simhash": "1:a5b056bb31d51855",
+    "word_count": 31
+  },
+  "last_updated": "2024-02-27T18:43:05.207238+00:00",
+  "provenance": {
+    "date_added": "2019-05-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Estate of Mower,"
+    ],
+    "opinions": [
+      {
+        "text": "Petition for review of a decision of the Court of Appeals, No. 46778-0-II, May 3, 2016, 193 Wn. App. 706. Denied December 7, 2016.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "In re Estate of Mower,\nNo. 93521-1."
+  },
+  "file_name": "1031-03",
+  "first_page_order": 1017,
+  "last_page_order": 1017
+}

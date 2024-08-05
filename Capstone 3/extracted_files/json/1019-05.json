@@ -1,0 +1,76 @@
+{
+  "id": 12462895,
+  "name": "State, Respondent, v. Smith, Petitioner",
+  "name_abbreviation": "State v. Smith",
+  "decision_date": "2016-11-02",
+  "docket_number": "No. 93295-6",
+  "first_page": "1019",
+  "last_page": "1019",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "186 Wash. 2d 1019"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Wash.",
+    "id": 9029,
+    "name": "Washington Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 38,
+    "name_long": "Washington",
+    "name": "Wash."
+  },
+  "cites_to": [
+    {
+      "cite": "193 Wn. App. 1042",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        12450090,
+        12450091,
+        12450092
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/193/1042-01",
+        "/wash-app/193/1042-02",
+        "/wash-app/193/1042-03"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 27,
+    "char_count": 186,
+    "ocr_confidence": 0.858,
+    "sha256": "56fcaf482163267d277cde21db438c37d0267902f314dedff5f36fa3e2b3df34",
+    "simhash": "1:95da6ee93a47cdf1",
+    "word_count": 31
+  },
+  "last_updated": "2024-02-27T18:43:05.207238+00:00",
+  "provenance": {
+    "date_added": "2019-05-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "State, Respondent, v. Smith, Petitioner,"
+    ],
+    "opinions": [
+      {
+        "text": "Petition for review of a decision of the Court of Appeals, No. 46365-2-II, May 3, 2016, 193 Wn. App. 1042. Denied November 2, 2016.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "State, Respondent, v. Smith, Petitioner,\nNo. 93295-6."
+  },
+  "file_name": "1019-05",
+  "first_page_order": 1005,
+  "last_page_order": 1005
+}

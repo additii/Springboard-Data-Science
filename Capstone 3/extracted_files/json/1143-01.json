@@ -1,0 +1,417 @@
+{
+  "id": 8727086,
+  "name": "United Order of Good Samaritans v. Reavis",
+  "name_abbreviation": "United Order of Good Samaritans v. Reavis",
+  "decision_date": "1933-03-06",
+  "docket_number": "4-2906",
+  "first_page": "1143",
+  "last_page": "1149",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "186 Ark. 1143"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [
+    {
+      "cite": "9 S. W. (2d) 773",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "178 Ark. 24",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1396909
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/178/0024-01"
+      ]
+    },
+    {
+      "cite": "293 S. W. 730",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "173 Ark. 437",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        8721625
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/173/0437-01"
+      ]
+    },
+    {
+      "cite": "280 S. W. 3",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "170 Ark. 474",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1371660
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/170/0474-01"
+      ]
+    },
+    {
+      "cite": "295 S. W. 730",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "174 Ark. 478",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        8722455
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/174/0478-01"
+      ]
+    },
+    {
+      "cite": "49 S. W. (2d) 364",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "185 Ark. 660",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1435072
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/185/0660-01"
+      ]
+    },
+    {
+      "cite": "46 S. W. (2d) 807",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "185 Ark. 256",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1435063
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/185/0256-01"
+      ]
+    },
+    {
+      "cite": "43 S. W. (2d) 81",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "184 Ark. 625",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1438463
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/184/0625-01"
+      ]
+    },
+    {
+      "cite": "183 Ark. 151",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1441803
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/183/0151-01"
+      ]
+    },
+    {
+      "cite": "35 S. W. (2d) 67",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.2d",
+      "weight": 2,
+      "opinion_index": 0
+    },
+    {
+      "cite": "183 Ark. 266",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1441887
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/183/0266-01"
+      ]
+    },
+    {
+      "cite": "32 S. W. (2d) 310",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "182 Ark. 496",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1389754
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/182/0496-01"
+      ]
+    },
+    {
+      "cite": "177 U. S. 260",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        5705543
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/177/0260-01"
+      ]
+    },
+    {
+      "cite": "56 N. E. 780",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "24 Ind. App. 316",
+      "category": "reporters:state",
+      "reporter": "Ind. App.",
+      "case_ids": [
+        2414028
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ind-app/24/0316-01"
+      ]
+    },
+    {
+      "cite": "58 Pac. 595",
+      "category": "reporters:state_regional",
+      "reporter": "P.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "26 Colo. 252",
+      "category": "reporters:state",
+      "reporter": "Colo.",
+      "case_ids": [
+        2609948
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/colo/26/0252-01"
+      ]
+    },
+    {
+      "cite": "234 S. W. 182",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "150 Ark. 325",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1367909
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/150/0325-01"
+      ]
+    },
+    {
+      "cite": "219 S. W. 759",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "142 Ark. 132",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1590559
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/142/0132-01"
+      ]
+    },
+    {
+      "cite": "78 N. E. 469",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "192 Mass. 326",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        463612
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/192/0326-01"
+      ]
+    },
+    {
+      "cite": "107 N. W. 183",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "133 Iowa 379",
+      "category": "reporters:state",
+      "reporter": "Iowa",
+      "case_ids": [
+        2149992
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/iowa/133/0379-01"
+      ]
+    },
+    {
+      "cite": "68 N. E. 1098",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "206 Ill. 124",
+      "category": "reporters:state",
+      "reporter": "Ill.",
+      "case_ids": [
+        5597792
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ill/206/0124-01"
+      ]
+    },
+    {
+      "cite": "107 Ill. App. 306",
+      "category": "reporters:state",
+      "reporter": "Ill. App.",
+      "case_ids": [
+        2570842
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ill-app/107/0306-01"
+      ]
+    },
+    {
+      "cite": "91 Ill. App. 580",
+      "category": "reporters:state",
+      "reporter": "Ill. App.",
+      "case_ids": [
+        5282895
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ill-app/91/0580-01"
+      ]
+    },
+    {
+      "cite": "116 Ill. App. 587",
+      "category": "reporters:state",
+      "reporter": "Ill. App.",
+      "case_ids": [
+        2539704
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ill-app/116/0587-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 583,
+    "char_count": 10660,
+    "ocr_confidence": 0.537,
+    "pagerank": {
+      "raw": 1.2420856302705926e-07,
+      "percentile": 0.6081447219509709
+    },
+    "sha256": "14d42246b8f9c4d0cc8e8495aa6ee40e9fb207603ada91ccbb60d8b402e7353b",
+    "simhash": "1:f6d0307ffecaa5bb",
+    "word_count": 1901
+  },
+  "last_updated": "2024-02-27T17:52:01.123529+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "United Order of Good Samaritans v. Reavis."
+    ],
+    "opinions": [
+      {
+        "text": "Mehaffy, J.\nThe appellant is a fraternal insurance company, and on June 5, 1923, it issued a policy of insurance to James Rivers, and another to his wife, Zetta Rivers. Zetta Rivers was the beneficiary under the policy issued to James Rivers, and he was the beneficiary under the policy issued to her. The policies were identical except the differences in the insured and beneficiary.\nThe policies provided that the premiums or dues should be paid to the local financial secretary by the first of the month, and it provided that they must be forwarded to the home office of appellant by the tenth of the month, and, if not so forwarded by such date, the policies should be null and void.\nIt was also provided that, when an amount greater than the premium for one month became due, the insured became automatically suspended, and that, if such dues should be paid later, neither insured nor beneficiary should be entitled to any benefits, not only during the delinquent period, but for 30 days after payment was made.\nThere was also a provision in the policy that the financial secretary was the agent of the insured, and not the agent of the appellant, and failure of the home office to receive payments rendered the policy null and void.\nJames Rivers died January 25, 1930, and Zetta Rivers two days later. All premiums were paid by both parties, and they were both in good standing until December, 1929.\nThe appellant contends that neither the December, 1929, premium, nor the January, 1930, premium was paid as required by the terms of the policy. Appellant also contends that the payment to the local financial secretary was not a payment to appellant. There was a controversy as to whether the January payment had been made.\nH. R. Reavis, administrator of the estates of Zetta Rivers and James Rivers, -brought suit in the Prairie Circuit Court, and the appellant filed answer denying all the material allegations in the complaint, and alleged that the policies were void for failure to pay premiums. It also alleged that, under the rules of the company, each of the beneficiaries, being over 51 years of age at the time the policies were taken out, was entitled to only one-half of the face value of the policy.\nThe case was tried on August 15, 1932, and the jury returned a verdict for the appellee, as administrator, on the policy\u2019' issued to Zetta Rivers in the sum of $300, and on the policy issued to James Rivers, in the sum of $150, and judgment was entered for the sum of $450 with interest from May 1, 1930, at the rate of 6 per cent, per annum. Tlie case is here on appeal.\nAppellant contends first that there is no competent evidence tending to show that the premiums for the month of January, 1930, were paid.\nH. R. Reavis, the administrator, testified that at the time of the deaths of James and Zetta Rivers, proof of the deaths and the two policies were turned over to hipa, and he mailed all of the papers to the home office of the insurance company at Little Rock. He did not know whether there were any receipts among the papers, hut he sent all of the papers turned over to him to Little Rock, and demanded a receipt. The receipt showed that the company received the papers. Witness had not seen any of the papers nor the policies since he sent them in. The policies called for $300 each, and $50 burial expenses.\nIt was admitted by the appellant that proof of death was sent in, and that the policies were a printed form, a copy of which was exhibited in court.\nThe court thereupon told the jury that it was admitted that proof of death was filed and sent to the insurance company, and that Mr. Reavis was duly appointed administrator, and had a right to bring this lawsuit. The court told the jury that the only question involved now, was whether or not premiums were paid up according to the rules of the insurance company at the time of their deaths. This instruction was agreed to by both the parties.\nReavis further testified that James Rivers died first, and Zetta Rivers died two or three days later; that he paid the burial expenses himself, and that the insurance company had never paid him.\nJ. E. Humphreys testified that he was in the undertaking business in Stuttgart, knew James and Zetta Rivers in their lifetime, and furnished the burial supplies; that he examined the insurance papers, and had all the receipt's from the insurance company before him.\nThe receipts were exhibited by witness, but the one for December was missing. He bad the January receipt. These were receipts issued by appellant and showed that the January premium had been paid, but there was no receipt for the December payment. All the receipts from the company were there except the one for December.\nWitness received the receipts from Zetta Rivers, and they were in a long envelope post-marked Little Rock, and it came from the headquarters of the lodge. A letter acknowledged the receipt of dues sent in for January; this receipt was on a printed form, signed by W. 0. Hill.\nH. R. Reavis was recalled, and testified that the dues for December were paid to the local secretary, but she failed to send them in. The money was handed to the local secretary, whose name was Zola Price. She was the local secretary of the United Order of Good Samaritans. Witness knew that the secretary, Zola Price, at times bought money orders and sent them to the company. The company had a local lodge at Brummit, and Zola Price was its local secretary.\nJim Curry testified that he paid Zola Price the December dues at a store down town. He also testified that he took the money to Mrs. Hoover, the postmistress at Brummit, and gave it to her to pay the January dues, and got a receipt for his money. After Jim Rivers died, the company sent a dun, stating that they had received the January dues, and to hurry with the December dues.\n1 A letter was introduced, which was on the letterhead of appellant, acknowledging receipt of the December dues.\nAppellant introduced some witnesses whose testimony was in conflict with the evidence offered by appel-lee, but as to whether the January and December dues were paid was a question of fact properly submitted to the jury. The, appellant itself stated that the court gave proper instructions, and no objections were offered to any of the court\u2019s instructions.\nThe burden was upon the appellant to show a forfeiture. Supreme Council American Legion of Honor v. Haas, 116 Ill. App. 587; Ry. Passenger & Freight Conductors Mutual Aid & Benefit Ass\u2019n v. Thompson, 91 Ill. App. 580; United Brotherhood of Carpenters & Joiners of America v. Fortin, 107 Ill. App. 306; Sup. Tent of Knights of Maccabees v. Stensland, 206 Ill. 124, 68 N. E. 1098; Sleight v. Sup. Council of Mystic Toilers, 133 Iowa 379, 107 N. W. 183; Kidder v. Sup. Commandery United Order of Golden Cross, 192 Mass. 326, 78 N. E. 469.\nIt is not disputed that the December dues or premiums were paid to the local secretary, but it is contended by appellant that, because the dues were not sent in to the home office by the local secretary, the policies were void.\nThe policy provides that the Supreme Colony shall in no event be responsible to individual members for the failure of the secretaries to send to the Supreme Recorder of Records and .Seal their names and money. The policy also provides that in each or every case or condition that may arise, it is expressly understood and declared that the Colony is the agent of the member or insured, and not of the Supreme Colony.\nWhenever an insurance company authorizes the clerk of the local lodge to collect dues from members, it thereby constitutes such person its agent, notwithstanding it may provide in its constitution, by-laws, or policy that such officer, in collecting and forwarding assessments, shall be the agent of the insured. \u00ab\nIt is not disputed that the December dues were paid to the local secretary. The proof shows conclusively that they were so paid, and the local secretary did not testify, and this evidence that they were paid to the local secretary is not contradicted. In order that there, should be a forfeiture of the policy, the burden was on the appellant to show a forfeiture of the policy, and, sino,e the undisputed proof shows that the dues were paid to the local secretary, who was the agent of the appellant in collecting and forwarding the dnes, this was a payment to the company. Sovereign Camp W. O. W. v. Newsom, 142 Ark. 132, 219 S. W. 759; Eminent Household of Columbian Woodmen v. Simmons, 150 Ark. 325, 234 S. W. 182; Supreme Lodge K. of H. v. Davis, 26 Colo. 252, 58 Pac. 595; Sup. Tribe of Ben Hur v. Hall, 24 Ind. App. 316, 56 N. E. 780, 79 Amer. State Rep. 262; Sup. Lodge K. of P. v. Withers, 177 U. S. 260, 20 Sup. Ct. 611.\nOne provision of the policy provides that the policy shall be void if the dnes are not received at the home office as required by the constitution and laws of the society, and, if the dues are paid after the time, neither the insured nor the beneficiary shall be entitled to any benefits before the expiration of 30 days.\nAnother provision of the policy provides that when the dues exceed one month\u2019s dues, taxes and fines included, the insured shall be automatically suspended, etc.\nThere seems to be some conflict in these provisions of the policy. They, at all events, make the provision of the policy with reference to forfeiture ambiguous.\nThis policy, like all policies of insurance, should be construed most strongly against the insurance company that wrote it, and it is also a well-established rule of this court in the construction of contracts of this character that, if capable of two constructions, one of which will make the policy void, and the other will avoid a forfeiture, that construction must be adopted which avoids the forfeiture. \u00c6tna Life Ins. Co. v. Spencer, 182 Ark. 496, 32 S. W. (2d) 310; American Indemnity Co. v. Hood, 183 Ark. 266, 35 S. W. (2d) 67; \u00c6tna Casualty & Surety Co. v. Sengel, 183 Ark. 151, 35 S. W. (2d) 67; Mech. Ins. Co. v. Inter-Southern Life Ins. Co., 184 Ark. 625, 43 S. W. (2d) 81; Gilbert v. Life & Casualty Co., 185 Ark. 256, 46 S. W. (2d) 807; Travelers\u2019 Protective Ass\u2019n v. Stephens, 185 Ark. 660, 49 S. W. (2d) 364; McClain v. Reliance Life Ins. Co., 174 Ark. 478, 295 S. W. 730; Mosaic Templars of America v. Crook, 170 Ark. 474, 280 S. W. 3; Fire Ins. Co. v. Boydston, 173 Ark. 437, 293 S. W. 730; Nat. Benevolent Society v. Harris, 178 Ark. 24, 9 S. W. (2d) 773.\nWe find no error, and the judgment is affirmed.",
+        "type": "majority",
+        "author": "Mehaffy, J."
+      }
+    ],
+    "attorneys": [
+      "Cooper Thweatt and Jno. D. Thtoeatt, for appellant.",
+      "W. A. Leach, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "United Order of Good Samaritans v. Reavis.\n4-2906\nOpinion delivered March 6, 1933.\nCooper Thweatt and Jno. D. Thtoeatt, for appellant.\nW. A. Leach, for appellee."
+  },
+  "file_name": "1143-01",
+  "first_page_order": 1163,
+  "last_page_order": 1169
+}

@@ -1,0 +1,78 @@
+{
+  "id": 12462878,
+  "name": "In re Pers. Restraint of Rhem, Petitioner",
+  "name_abbreviation": "In re Pers. Restraint of Rhem",
+  "decision_date": "2016-11-02",
+  "docket_number": "No. 92698-1",
+  "first_page": "1017",
+  "last_page": "1017",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "186 Wash. 2d 1017"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Wash.",
+    "id": 9029,
+    "name": "Washington Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 38,
+    "name_long": "Washington",
+    "name": "Wash."
+  },
+  "cites_to": [
+    {
+      "cite": "191 Wn. App. 1050",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        12461170,
+        12461171,
+        12461172,
+        12461173
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/191/1050-01",
+        "/wash-app/191/1050-02",
+        "/wash-app/191/1050-03",
+        "/wash-app/191/1050-04"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 33,
+    "char_count": 226,
+    "ocr_confidence": 0.873,
+    "sha256": "8b45139bbe74e9cbb91996ed95b9709d0a945243dedaa6aeede96c1313e562c6",
+    "simhash": "1:8431743a650144fd",
+    "word_count": 37
+  },
+  "last_updated": "2024-02-27T18:43:05.207238+00:00",
+  "provenance": {
+    "date_added": "2019-05-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Pers. Restraint of Rhem, Petitioner,"
+    ],
+    "opinions": [
+      {
+        "text": "Motion for discretionary review of a decision of the Court of Appeals, No. 35195-1-II, December 22, 2015, 191 Wn. App. 1050. Granted on specific issues November 2, 2016.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "In re Pers. Restraint of Rhem, Petitioner,\nNo. 92698-1."
+  },
+  "file_name": "1017-03",
+  "first_page_order": 1003,
+  "last_page_order": 1003
+}

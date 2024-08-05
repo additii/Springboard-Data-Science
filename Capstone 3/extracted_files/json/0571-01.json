@@ -1,0 +1,85 @@
+{
+  "id": 1428398,
+  "name": "Brooks v. Randolph State Bank",
+  "name_abbreviation": "Brooks v. Randolph State Bank",
+  "decision_date": "1934-01-15",
+  "docket_number": "4-3284",
+  "first_page": "571",
+  "last_page": "575",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "188 Ark. 571"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [
+    {
+      "cite": "56 S. W. (2d) 428",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "186 Ark. 873",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        8726187
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/186/0873-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 205,
+    "char_count": 2597,
+    "ocr_confidence": 0.479,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.053723981591204735
+    },
+    "sha256": "42fb9139a0cf513c14b8fb64bb117ae556a5cd142b56f8c9e2bf25502aee20d9",
+    "simhash": "1:b48e1c2565763dfa",
+    "word_count": 441
+  },
+  "last_updated": "2024-02-27T23:51:14.545434+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Brooks v. Randolph State Bank."
+    ],
+    "opinions": [
+      {
+        "text": "Kirby, J.,\n(after stating the facts).\u201eThe learned chancellor held that, under the ruling of this court in the case of Taylor v. Hale, 186 Ark. 873, 56 S. W. (2d) 428, this was an attempt to collect taxes on shares of stock as provided by \u00a7 9944, Crawford & Moses\u2019 Digest; but, in the absence of a showing that the Commissioner in charge of the insolvent bank had assets in his hands belonging to the stockholders with which to pay delinquent taxes assessed against such shares of stock, there was no liability on the part of the Commissioner to pay the. delinquent taxes.\nThe chancellor obviously misconceived the purpose of this suit, as disclosed by his memorandum opinion holding it to be one to collect taxes assessed against the shares of capital stock of the insolvent bank, when the complaint and amendment thereto clearly shows that it is a suit to collect taxes assessed against the personal property of the insolvent bank subject to taxation in accordance with the statute. Section 9853-, Crawford & Moses\u2019 Digest.\nUnder said statute, the property of the insolvent bank continued subject to taxation notwithstanding the bank\u2019s insolvency. Said property was regularly and duly assessed by the deputy bank commissioner in charge of said bank, and the complaint shows there were funds on hand belonging to the said bank sufficient to pay the taxes. The complaint alleged further that demand was duly made by the collector for payment, and same was refused by the Deputy Bank Commissioner in charge of said insolvent bank; that the property against which the taxes were levied had been sold and disposed of, converted into money and was beyond distraint by the officer, and he was entitled therefore to bring the action in equity to follow and impound the proceeds arising from the disposition and sale of the property in the hands of the defendants or in possession of any one of them.\nHaving sold the property upon which the State\u2019s lien for taxes existed, and having\u2019 on hand an amount sufficient to pay the taxes, it was the duty of the Bank Commissioner to pay same, and the chancellor should have required him to do so, and erred in holding\u2019 otherwise and sustaining\u2019 the demurrer to the complaint. See 34 Cyc., page 347, title \u201cReceivers.\u201d\nFor the error designated, the decree will he reversed, and the cause remanded for further proceedings not inconsistent with this opinion. It is so ordered.",
+        "type": "majority",
+        "author": "Kirby, J.,"
+      }
+    ],
+    "attorneys": [
+      "Hal L. Norwood, Attorney General, Geo. H. Steimel and E. Newton Ellis, for appellant.",
+      "H. L. Ponder, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Brooks v. Randolph State Bank.\n4-3284\nOpinion delivered January 15, 1934.\nHal L. Norwood, Attorney General, Geo. H. Steimel and E. Newton Ellis, for appellant.\nH. L. Ponder, for appellee."
+  },
+  "file_name": "0571-01",
+  "first_page_order": 589,
+  "last_page_order": 593
+}

@@ -1,0 +1,158 @@
+{
+  "id": 1431939,
+  "name": "Wasson v. Castetter",
+  "name_abbreviation": "Wasson v. Castetter",
+  "decision_date": "1933-05-01",
+  "docket_number": "4-2975",
+  "first_page": "348",
+  "last_page": "352",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "187 Ark. 348"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [
+    {
+      "cite": "41 A. L. R. 658",
+      "category": "reporters:specialty",
+      "reporter": "A.L.R.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "148 N. E. 609",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "253 Mass. 205",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        748086
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/253/0205-01"
+      ]
+    },
+    {
+      "cite": "176 U. S. 521",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        5705489
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/176/0521-01"
+      ]
+    },
+    {
+      "cite": "22 S. W. (2d) 561",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "180 Ark. 753",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1393547
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/180/0753-01"
+      ]
+    },
+    {
+      "cite": "215 S. W. 389",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "140 Ark. 203",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1594438
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/140/0203-01"
+      ]
+    },
+    {
+      "cite": "197 S. W. 295",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "130 Ark. 128",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        8718272
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/130/0128-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 356,
+    "char_count": 5099,
+    "ocr_confidence": 0.519,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.053862985834309256
+    },
+    "sha256": "f7ee691c17e9e9a242c86d2d3e4cb9434e65910a08e6980e80611bd889019b36",
+    "simhash": "1:b74b049f699289f5",
+    "word_count": 891
+  },
+  "last_updated": "2024-02-27T21:18:50.990705+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Wasson v. Castetter."
+    ],
+    "opinions": [
+      {
+        "text": "Kirby, J.,\n(after stating the facts). The only question for determination involved in this appeal is, whether one who has purchased bank stock by giving a note in payment therefor can defeat an assessment thereon eleven years later after having renewed the note twenty-two times and used the dividends thereon for the payment of interest on the note, and further having permitted his name to appear as a stockholder of the bank on the records of the county for eleven years.\nThe action of the Bank Commissioner under the statute is conclusive as to the necessity for the levy of the stock assessment and cannot be disputed or defended against by the stockholder of the failed bank. Davis v. Moore, 130 Ark. 128, 197 S. W. 295; Aber v. Maxwell, 140 Ark. 203, 215 S. W. 389; Fee v. Taylor, ante p. 204.\nAppellee insists that the sale of stock to him was void, it being made on a credit and not \u201cfor money or property actually received or labor done, \u2019 \u2019 as required by the Constitution, \u00a7 8, art. 12; and that this court has already determined the question in Taylor v. Gordon, 180 Ark. 753, 22 S. W. (2d) 561, wherein it held that the purchaser of such stock or owner thereof is not subject to liability to the payment of the double stock assessment levied against it by the bank commissioner.\nSection 8, article 12, of the Constitution provides: \u201cNo private corporation shall issue stocks or bonds, except for money or property actually received or labor done, and all fictitious increase of stock or indebtedness shall be void; nor shall the stock or bonded indebtedness of any private corporation be increased, except in pursuance of general laws, nor until the consent of the persons holding the larger amount in value of stock shall be obtained at a meeting held after notice given for a period of not less than sixty days, in pursuance of law.\u201d\nThe statute, \u00a7 702, Crawford & Moses\u2019 Digest, authorizing the assessment against stock by the Bank Commissioner, reads:\n\u201cThe stockholders of every bank doing- business in this State shall be held individually responsible equally and ratably, and not one for another, for all contracts, debts and engagements of such bank to the extent of the amount of their stock therein, at the par value thereof, in addition to the amount invested in .such stock; provided that persons holding stock as executors, administrators, guardians or trustees shall not be personally subject to liability as stockholders, but the estates and funds in their hands shall be liable in like manner and to the same extent as the testator, intestate, ward or person interested in such trust fund would be, if living and competent to act and hold the estate in his own name.\u201d\nUpon the regular increase of the bank\u2019s stock so many shares were sold to appellee for a certain amount, and the stock was issued to him, indorsed and given with Ms note to the bank for the amount of the purchase money, the certificates of stock being pinned to the note and held as collateral for its payment. The dividends thereafter upon these certificates of stock were paid to the holders thereof, and the note given in payment of the purchase money was renewed twenty-two times; and appellees were shown as stockholders in the bank upon the records of the county as required by law to be kept. They made no effort to repudiate the validity of the transaction until this suit was brought to collect the stock assessment duly levied against stock of the insolvent bank, of which they were the legal owners as shown upon the books of the bank and the records of the county.\nThe statute fixes the responsibility of the stockholders in the bank \u201cfor all contracts, debts and engagements of such bank to the extent of the amount of their stock therein, at the par value thereof, in addition to the amount invested in such stock;\u201d and they appeared as stockholders, the stock standing on the books of the bank in their names, having been indorsed 'by them and delivered to the bank as collateral security for their notes executed for the purchase of said stock, and also on the county records as such stockholders; and, as between them and the creditors of the bank for whose protection and benefit the statute was made, they are estopped to deny under such circumstances that they were stockholders and are liable to the payment of the assessment as provided by statute. 3 R. C. L. \u201cBanks,\u201d \u00a7 29, page 399; Madison v. Dent, 176 U. S. 521, 20 S. Ct. 419; Aber v. Maxwell, supra; Commissioner of Banks v. Cosmopolitan Trust Co., 253 Mass. 205, 148 N. E. 609, 41 A. L. R. 658.\nThese cases differ from that of Taylor v. Gordon, supra, and are not controlled by the decision therein.\nFrom the views herein expressed, it follows that the court erred in overruling the demurrer and dismissing the complaint, and the cause will be reversed and remanded with directions to sustain the demurrer to the answers, and render judgment for the amount of the assessments sued for. It is so ordered.",
+        "type": "majority",
+        "author": "Kirby, J.,"
+      }
+    ],
+    "attorneys": [
+      "Archer Wheatley, for appellant.",
+      "Horace Sloan, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Wasson v. Castetter.\n4-2975\nOpinion delivered May 1, 1933.\nArcher Wheatley, for appellant.\nHorace Sloan, for appellee."
+  },
+  "file_name": "0348-01",
+  "first_page_order": 368,
+  "last_page_order": 372
+}

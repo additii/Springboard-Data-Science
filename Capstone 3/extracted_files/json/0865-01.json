@@ -1,0 +1,146 @@
+{
+  "id": 1435351,
+  "name": "American National Insurance Company v. Chavey",
+  "name_abbreviation": "American National Insurance v. Chavey",
+  "decision_date": "1932-05-30",
+  "docket_number": "4-2577",
+  "first_page": "865",
+  "last_page": "869",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "185 Ark. 865"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [
+    {
+      "cite": "1 A. L. R. 1259",
+      "category": "reporters:specialty",
+      "reporter": "A.L.R.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "195 S. W. 392",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "129 Ark. 43",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1580433
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/129/0043-01"
+      ]
+    },
+    {
+      "cite": "182 S. W. 565",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "weight": 2,
+      "opinion_index": 0
+    },
+    {
+      "cite": "122 Ark. 58",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1558208
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/122/0058-01"
+      ]
+    },
+    {
+      "cite": "293 S. W. 1045",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "173 Ark. 921",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        8725185
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/173/0921-01"
+      ]
+    },
+    {
+      "cite": "34 S. W. (2d) 757",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "182 Ark. 1158",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1389971
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/182/1158-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 289,
+    "char_count": 4599,
+    "ocr_confidence": 0.478,
+    "pagerank": {
+      "raw": 1.0645481284172307e-07,
+      "percentile": 0.558014000044018
+    },
+    "sha256": "46305dc14d0e2415cb761c5d1ba85fcde32348563959bfc903b52b77e35e1ff6",
+    "simhash": "1:6fad046d16551d11",
+    "word_count": 816
+  },
+  "last_updated": "2024-02-27T17:51:09.396208+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "American National Insurance Company v. Chavey."
+    ],
+    "opinions": [
+      {
+        "text": "Hart, C. J.,\n(after stating the facts). The court instructed the jury as follows: \u201cThe policy having been introduced, and it being admitted that all the premiums were paid at the time of the death of the deceased, and due proof made, the burden then shifts to the defendant to show that the deceased, in her application, knew that she was in unsound health, or that she accepted the policy while in unsound health; and if you find that the application was made or that the policy was delivered while the deceased was in unsound health, she knowing the same to be true, and made application knowing she was in unsound health, or accepted the policy knowing she was in unsound health, that would constitute fraud on the insurance company, and the beneficiary would not be entitled to recover.\u201d\nIt is earnestly insisted by counsel for the defendant that the court should have instructed a verdict in its favor because, under the undisputed evidence, the insured was not in sound health when the policy was delivered to her, and this was a condition precedent to the policy becoming effective.\nCounsel for the defendant claims that the case is governed by American National Insurance Company of Galveston, Texas, v. Lacey, 182 Ark. 1158, 34 S. W. (2d) 757. We do not think so. In that case, the beneficiary knew that the insured took sick on the 27th day of February, 1929, and the policy was 'delivered to her for her brother on the 4th day of March, 1929. Her brother was taken to the hospital on February 27, 1929, and was confined to his bed with pneumonia until his death from that disease on March 14, 1929. Hence there was no liability under the policy.\nHere the facts are essentially different. The policy was issued on the 10th day of March, 1930, and the insured did not die until the 7th day of January, 1931. At the time the agent of the insurance company took her application, she was working in a store, and he testified that she appeared to be in sound health. It is true that the physicians testified that they had been treating her from time to time for diabetes in a chronic form for several years; but the fact that she lived for several years after she was treated, and was able to pursue her daily vocation of working in a store tended to show that she regarded herself, as did the agent of the company, as apparently being in sound health. The court properly submitted this question to the jury because the policy, by its own terms, provided that the representations in her application should not be considered as warranties.\nThe case falls within the principles of law decided in Modern Woodmen of America v. Whitaker, 173 Ark. 921, 293 S. W. 1045. In that case it was held that, in an action by the beneficiary to recover on a life insurance policy, nonexpert witnesses may state their opinions as to the physical condition of deceased on the day when he took the fraternal insurance certificate and stated that his health was good.\nIt was further held that, in an action by the beneficiary to recover on a life insurance policy, the jury\u2019s finding that deceased was in good health when he received the policy and stated that his health was good, was conclusive in view of the evidence where the issue was submitted on instructions that plaintiff must prove that no misrepresentation was made and that defendant must prove that deceased was sick when he received the policy. See also United States Annuity & Life Insurance Company v. Peak, 122 Ark. 58, 182 S. W. 565; Id. 129 Ark. 43, 195 S. W. 392, 1 A. L. R. 1259.\nThis is an application of the well-settled rule that forfeitures are not favored and will not be enforced unless the provisions of the policy are so plain and unequivocal as to admit of no other construction.\nThe court properly submitted to the jury whether the insured knew that she was in sound health when she applied for the policy or whether she accepted the policy while in unsound health, knowing that to be a fact. The jury was justified in finding, under the evidence introduced, that, although she may have suffered from diabetes, she believed that she was well at the time she applied for the policy. The fact that she was pursuing her daily vocation of working in a store, and that her outward appearance indicated that she was in sound health, justified the jury in finding in her favor.\nNo other assignment of error is urged for a reversal of the judgment, and the judgment will therefore be affirmed.",
+        "type": "majority",
+        "author": "Hart, C. J.,"
+      }
+    ],
+    "attorneys": [
+      "W. G. Dimming, for appellant.",
+      "Jo M. Walker, for appellee. ."
+    ],
+    "corrections": "",
+    "head_matter": "American National Insurance Company v. Chavey.\n4-2577\nOpinion delivered May 30, 1932.\nW. G. Dimming, for appellant.\nJo M. Walker, for appellee. ."
+  },
+  "file_name": "0865-01",
+  "first_page_order": 885,
+  "last_page_order": 889
+}

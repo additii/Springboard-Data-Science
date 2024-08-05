@@ -1,0 +1,345 @@
+{
+  "id": 12440939,
+  "name": "Certification From the United States District Court for the Western District of Washington in Sandra C. Thornell, on Behalf of Herself and All Others Similarly Situated, Plaintiff, v. Seattle Service Bureau, Inc., et al., Defendants",
+  "name_abbreviation": "Thornell v. Seattle Service Bureau, Inc.",
+  "decision_date": "2015-12-10",
+  "docket_number": "No. 91393-5",
+  "first_page": "793",
+  "last_page": "804",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "184 Wash. 2d 793"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Wash.",
+    "id": 9029,
+    "name": "Washington Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 38,
+    "name_long": "Washington",
+    "name": "Wash."
+  },
+  "cites_to": [
+    {
+      "cite": "347 P.3d 41",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2015,
+      "opinion_index": 0
+    },
+    {
+      "cite": "182 Wn.2d 919",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4075855
+      ],
+      "year": 2015,
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/182/0919-01"
+      ]
+    },
+    {
+      "cite": "204 P.3d 885",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2009,
+      "opinion_index": 0
+    },
+    {
+      "cite": "166 Wn.2d 27",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4001497
+      ],
+      "year": 2009,
+      "pin_cites": [
+        {
+          "page": "38"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/166/0027-01"
+      ]
+    },
+    {
+      "cite": "170 P.3d 10",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2007,
+      "opinion_index": 0
+    },
+    {
+      "cite": "162 Wn.2d 59",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        3696450
+      ],
+      "year": 2007,
+      "pin_cites": [
+        {
+          "page": "82"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/162/0059-01"
+      ]
+    },
+    {
+      "cite": "719 P.2d 531",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1986,
+      "opinion_index": 0
+    },
+    {
+      "cite": "105 Wn.2d 778",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1199153
+      ],
+      "year": 1986,
+      "pin_cites": [
+        {
+          "page": "785"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/105/0778-01"
+      ]
+    },
+    {
+      "cite": "501 P.2d 290",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1972,
+      "opinion_index": 0
+    },
+    {
+      "cite": "81 Wn.2d 259",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1064082
+      ],
+      "year": 1972,
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/81/0259-01"
+      ]
+    },
+    {
+      "cite": "259 P.3d 129",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2011,
+      "opinion_index": 0
+    },
+    {
+      "cite": "171 Wn.2d 260",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4015087
+      ],
+      "year": 2011,
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/171/0260-01"
+      ]
+    },
+    {
+      "cite": "43 P.3d 4",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2002,
+      "opinion_index": 0
+    },
+    {
+      "cite": "146 Wn.2d 1",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        960829
+      ],
+      "year": 2002,
+      "pin_cites": [
+        {
+          "page": "10-12"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/146/0001-01"
+      ]
+    },
+    {
+      "cite": "28 P.3d 720",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2001,
+      "opinion_index": 0
+    },
+    {
+      "cite": "144 Wn.2d 472",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        970387
+      ],
+      "year": 2001,
+      "pin_cites": [
+        {
+          "page": "480"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/144/0472-01"
+      ]
+    },
+    {
+      "cite": "89 P.3d 217",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2004,
+      "opinion_index": 0
+    },
+    {
+      "cite": "151 Wn.2d 359",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        428154
+      ],
+      "year": 2004,
+      "pin_cites": [
+        {
+          "page": "367"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/151/0359-01"
+      ]
+    },
+    {
+      "cite": "243 P.3d 1283",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2010,
+      "pin_cites": [
+        {
+          "parenthetical": "quoting Arborwood Idaho, LLC v. City of Kennewick, 151 Wn.2d 359, 367, 89 P.3d 217 (2004)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "169 Wn.2d 516",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4010031
+      ],
+      "year": 2010,
+      "pin_cites": [
+        {
+          "page": "526",
+          "parenthetical": "quoting Arborwood Idaho, LLC v. City of Kennewick, 151 Wn.2d 359, 367, 89 P.3d 217 (2004)"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/169/0516-01"
+      ]
+    },
+    {
+      "cite": "870 P.2d 299",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1994,
+      "opinion_index": 0
+    },
+    {
+      "cite": "123 Wn.2d 573",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        812829
+      ],
+      "year": 1994,
+      "pin_cites": [
+        {
+          "page": "578"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/123/0573-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 894,
+    "char_count": 18100,
+    "ocr_confidence": 0.89,
+    "pagerank": {
+      "raw": 6.565163712013219e-08,
+      "percentile": 0.40221205946755967
+    },
+    "sha256": "a55d15383db9058a854edf9ebf7ebc2369860ed8e3cf0090b61aee1cc683a9b0",
+    "simhash": "1:92484f706d2a8663",
+    "word_count": 2840
+  },
+  "last_updated": "2024-02-27T21:13:25.899037+00:00",
+  "provenance": {
+    "date_added": "2019-05-21",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Madsen, C.J., and Owens, Fairhurst, Stephens, Wiggins, Gonz\u00e1lez, Gordon McCloud, and Yu, JJ., concur."
+    ],
+    "parties": [
+      "Certification From the United States District Court for the Western District of Washington in Sandra C. Thornell, on Behalf of Herself and All Others Similarly Situated, Plaintiff, v. Seattle Service Bureau, Inc., et al., Defendants."
+    ],
+    "opinions": [
+      {
+        "text": "Johnson, J.\n\u00b61 This case involves two certified questions from the United States District Court for the Western District of Washington. First, we are asked to determine whether the Washington Consumer Protection Act (CPA), chapter 19.86 RCW, allows a cause of action for a plaintiff residing outside Washington to sue a Washington corporate defendant for allegedly deceptive acts. Second, we are asked to determine whether the CPA supports a cause of action for an out-of-state plaintiff to sue an out-of-state defendant for the allegedly deceptive acts of its in-state agent. The United States District Court noted an absence of Washington case law providing guidance on these issues. We answer both certified questions in the affirmative.\nFacts and Procedural History\n\u00b62 Plaintiff in this putative class action is a Texas resident. Plaintiff alleges she received deceptive debt collection letters from defendant Seattle Service Bureau Inc. (SSB), a corporation with its principal place of business in Washington, pursuant to the referral of unliquidated sub-rogation claims to SSB by State Farm Mutual Automobile Insurance Company, a corporation with its principal place of business in Illinois. Plaintiff alleges these letters constitute CPA violations by both SSB and State Farm as its principal. Plaintiff asserts she incurred damages caused by the alleged deceptive acts.\n\u00b63 The general facts of this case are agreed to as part of the certification. Plaintiff\u2019s son was involved in a motor vehicle collision in San Antonio, Texas, with a motorist insured by State Farm. As a result of the accident, State Farm paid for damages or repairs to the State Farm insured vehicle. State Farm attempted to pursue an unliquidated claim based on a subrogated interest from its insured in the amount of $9,126.18. Plaintiff received three letters about this claim at her home in San Antonio. According to plaintiff, these letters were deceptive because they suggested that the sum was the \u201cbalance due\u201d on a \u201cdebt\u201d rather than \u201ca potential, unliquidated claim based on a subrogated interest from its insured.\u201d Class Action Compl. at 4, 5. Plaintiff became concerned about her credit rating and enrolled in a credit monitoring program. Plaintiff also sought and retained counsel in regard to this matter.\n\u00b64 Plaintiff filed a class action complaint on September 14, 2014, in King County Superior Court, claiming the letters violated the CPA. Plaintiff also made a claim for unjust enrichment. Plaintiff named two defendants: SSB and State Farm. SSB is a Washington corporation with its headquarters located in Bothell, Washington. State Farm is an Illinois corporation.\n\u00b65 State Farm removed the class action complaint to the United States District Court for the Western District of Washington. In the United States District Court, State Farm and SSB filed motions to dismiss and motions to strike plaintiff\u2019s class action complaint, claiming the CPA does not apply to claims made by a plaintiff who is not a Washington citizen. The United States District Court dismissed plaintiff\u2019s claims for unjust enrichment, and certified two questions to this court. No decision has been made on class certification.\nCertified Questions\n1) Does the Washington Consumer Protection Act create a cause of action for a plaintiff residing outside Washington to sue a Washington corporate defendant for allegedly deceptive acts?\n2) Does the Washington Consumer Protection Act create a cause of action for an out-of-state plaintiff to sue an out-of-state defendant for the allegedly deceptive acts of its in-state agent?\nOrder Certifying Questions to Wash. Supreme Ct. at 4.\n\u00b66 To put these questions in the context of issues that are before this court, and to further narrow the answer we give in this case, we summarize the issues that we are not addressing. The parties spend a great deal of time discussing choice of law principles as well as concerns surrounding due process and federalism. Although the briefing contains discussion about these issues, the certified questions focus on the interpretation of the statute. Additionally, for purposes of the certified question, the district court has not determined whether an agency relationship is established, which requires an analysis under the Restatement (Second) of Agency (Am. Law. Inst. 1958). We are not tasked with such an endeavor. While choice of laws, agency, and federalism concerns along with other issues may all be live questions that the district court will have to resolve, they play no role in our statutory interpretation.\nAnalysis\nQuestion 1\n\u00b67 The certified questions present an issue of statutory interpretation that we review de novo. Rivett v. City of Tacoma, 123 Wn.2d 573, 578, 870 P.2d 299 (1994). When interpreting statutes, the court\u2019s goal is to \u201c \u2018ascertain and carry out the legislature\u2019s intent.\u2019 \u201d Lake v. Woodcreek Homeowners Ass\u2019n, 169 Wn.2d 516, 526, 243 P.3d 1283 (2010) (quoting Arborwood Idaho, LLC v. City of Kennewick, 151 Wn.2d 359, 367, 89 P.3d 217 (2004)). While engaging in statutory construction, we first examine the plain meaning of the statute. State v. J.M., 144 Wn.2d 472, 480, 28 P.3d 720 (2001). In so doing, the court may examine the provision at issue, other provisions of the same act, and related statutes. Dep\u2019t of Ecology v. Campbell & Gwinn, LLC, 146 Wn.2d 1, 10-12, 43 P.3d 4 (2002).\n\u00b68 The relevant provisions of the CPA, chapter 19.86 RCW, at issue are as follows:\nCivil action for damages .... Any person who is injured in his or her business or property by a violation . . . may bring a civil action .... For the purpose of this section, \u201cperson\u201d includes the counties, municipalities, and all political subdivisions of this state.\nRCW 19.86.090 (emphasis added).\nPurpose\u2014Interpretation\u2014Liberal construction .... The legislature hereby declares that the purpose of this act is to complement the body of federal law governing restraints of trade, unfair competition and unfair, deceptive, and fraudulent acts or practices in order to protect the public and foster fair and honest competition. It is the intent of the legislature that, in construing this act, the courts be guided by final decisions of the federal courts and final orders of the federal trade commission interpreting the various federal statutes dealing with the same or similar matters and that in deciding whether conduct restrains or monopolizes trade or commerce or may substantially lessen competition, determination of the relevant market or effective area of competition shall not be limited by the boundaries of the state of Washington. To this end. this act shall be liberally construed that its beneficial purposes may be served.\nRCW 19.86.920 (emphasis added).\nDefinitions. . . .\n(1) \u201cPerson\u201d shall include, where applicable, natural persons, corporations, trusts, unincorporated associations and partnerships.\n(2) \u201cTrade\u201d and \u201ccommerce\u201d shall include the sale of assets or services, and any commerce directly or indirectly affecting the people of the state of Washington.\nRCW 19.86.010 (emphasis added).\n\u00b69 The statutory provisions of the CPA are broadly worded. The statute provides that \u201c[a]ny person\u201d can sue for a violation. RCW 19.86.090 (emphasis added). \u201cCommerce\u201d includes \u201cany commerce directly or indirectly affecting the people of the state of Washington.\u201d RCW 19.86.010(2) (emphasis added). The legislature directed that the CPA \u201cshall be liberally construed that its beneficial purposes may be served.\u201d RCW 19.86.920 (emphasis added). The language of the CPA evinces a broad, rather than narrow, lens through which we interpret the statute.\n\u00b610 We first focus on the definition of \u201ccommerce\u201d\u2014 \u201cany commerce directly or indirectly affecting the people of the state of Washington.\u201d RCW 19.86.010(2) (emphasis added). The definition of \u201ccommerce\u201d does not describe who may sue under the CPA but rather the scope of the acts and practices the CPA is designed to prevent.\n\u00b611 Defendants argue that the definition of \u201ccommerce\u201d should not be understood to allow a claim for an unfair or deceptive practice on behalf of people not \u201cof the state of Washington.\u201d Such a reading, however, would require us to give no effect to the words \u201cindirectly affecting.\u201d In order to give effect to the phrase \u201cindirectly affecting,\u201d claims are not limited to those having only a direct affect. Such a narrow interpretation would be inconsistent with both the legislative mandate for a liberal construction of the CPA and our previous cases involving the interpretation of the CPA. The statutory purpose is broadly worded not only to protect the public but also, and distinctly, to foster \u201cfair and honest competition.\u201d RCW 19.86.920.\n\u00b612 As is pointed out in the briefing, unscrupulous entities might escape liability under the CPA if out-of-state citizens could not bring CPA actions against Washington entities that direct unfair and deceptive practices only to out-of-state residents. Washington businesses engaging in unfair and deceptive practices that indirectly affect others do not advance the purpose of fair and honest competition. Honest businesses could be placed at a competitive disadvantage competing against a business that generates revenue from unlawful acts that violate the statute.\n\u00b613 While our cases have not resolved this issue directly, in Schnall v. AT&T Wireless Services, Inc., 171 Wn.2d 260, 259 P.3d 129 (2011) the issue was presented. In that case, reconsideration of our decision was granted and the original majority opinion was withdrawn and revised to delete the discussion on this point. The majority recognized in making the revision the \u201ccredible\u201d arguments presented against the claim that the CPA does not apply extraterritorially. Schnall, 171 Wn.2d at 276 n.4. The majority, however, did not decide the issue.\n\u00b614 The Schnall dissent did elaborate on this issue and, in its statutory analysis, concluded the CPA supported an extraterritorial reach: \u201c[T]he commerce and trade [that the abusive company] brings into Washington, and the alleged unfair and dishonest method by which it does so, affects the state economy and thus affects the Washington public at large.\u201d Schnall, 171 Wn.2d at 289 (Sanders, J., dissenting). We agree with this analysis.\n\u00b615 A broad reading of the CPA is also consistent with our established recognition that the CPA\u2019s reach extends beyond Washington\u2019s boundaries. In State v. Reader\u2019s Digest Ass\u2019n, 81 Wn.2d 259, 501 P.2d 290 (1972), we rejected an interpretation of RCW 19.86.170 that would have limited the applicability of the CPA to prohibit unfair and deceptive practices to Washington\u2019s borders. In that case, a New York defendant mailed a sweepstakes to Washington residents and argued it was exempt from the CPA pursuant to RCW 19.86.170 because it was regulated by the Federal Trade Commission. This court explained:\n[R]espondent\u2019s interpretation of RCW 19.86.170 would limit the application of RCW 19.86.020 strictly to intrastate commerce .... Such a result would require us to ignore RCW 19.86.920 which provides that in determining the relative market or effective area of competition we should not be limited to the boundaries of this state.\nReader\u2019s Digest, 81 Wn.2d at 279-80.\n\u00b616 Reader\u2019s Digest is an example of liberal construction of the CPA to effectuate its purpose: to protect the public against unfair or deceptive acts. The present case presents the inverse of Reader\u2019s Digest: an out-of-state plaintiff injured by the allegedly deceptive act of an in-state agent. Where we recognized a cause of action involving an out-of-state defendant directing allegedly deceptive mailings to Washington residents\u2014thus rejecting a narrow interpretation of the CPA that would limit its application strictly to intrastate commerce\u2014a liberal construction of the CPA supports a similar interpretation.\n\u00b617 Additional cases support an expansive interpretation of the CPA, which is consistent with the legislature\u2019s mandate that the CPA be liberally construed. In Hangman Ridge Training Stables, Inc. v. Safeco Title Insurance Co., 105 Wn.2d 778, 785, 719 P.2d 531 (1986), this court held that in order to prove a CPA violation, an actual deception is not required, only that the act or practice \u201chad the capacity to deceive a substantial portion of the public.\u201d\n\u00b618 While elements of other claims involving deception or unfair acts typically include reliance, in Indoor Billboard this court rejected the principle that reliance is necessarily an element of plaintiff\u2019s CPA claim. Indoor Billboard/Wash., Inc. v. Integra Telecom of Wash., Inc., 162 Wn.2d 59, 82, 170 P.3d 10 (2007). Similarly, in Panag, we rejected the argument that the CPA applies only to consumer or business transaction disputes and that only a consumer or someone in a business relationship with the defendant can bring a private CPA claim. Panag v. Farmers Ins. Co. of Wash., 166 Wn.2d 27, 38, 204 P.3d 885 (2009). An expansive interpretation of the CPA\u2019s extraterritorial reach in the present case is therefore consistent with our prior cases.\n\u00b619 Defendants rely on In re Bankruptcy Petition of Wieber, 182 Wn.2d 919, 347 P.3d 41 (2015), which does not compel a different interpretation. In Wieber, the United States Bankruptcy Court for the Western District of Washington certified questions to this court as to whether Washington\u2019s homestead exemption law, chapter 6.13 RCW, applied extraterritorially to real property in other states. Ultimately, we concluded that the statute did not allow extraterritorial application where the legislature did not expressly provide for it. In the analysis, we concluded that while there were no specific geographical limitations to the homestead statute, the relevant provisions must be read in the context of the entire statute. Because the statute includes a variety of procedures that would require action by courts and agencies, we concluded that allowing extraterritorial application of the homestead exemption law would \u201crequire the same actions be taken by out-of-state courts and agencies.\u201d Wieber, 182 Wn.2d at 927. We concluded that this would be unlikely to be the intent of the legislature, given that the \u201cState lacks the authority to direct actions and procedures of foreign courts or foreign agencies.\u201d Wieber, 182 Wn.2d at 927. Our holding in Wieber does not help the defendants here. The procedures in the homestead exemption law \u201cplainly apply only to courts and agencies in Washington.\u201d Wieber, 182 Wn.2d at 926-27. No similar concerns exist under the CPA, and the legislative purpose and provisions of the CPA contemplate extraterritorial application, as described above.\n\u00b620 The CPA does allow claims for an out-of-state plaintiff against all persons who engage in unfair or deceptive acts that directly or indirectly affect the people of Washington. The geographic limitations that defendants urge this court to adopt defeat the CPA\u2019s twin purposes of protecting the public and fostering fair and honest competition, and are not supported by the language of the statute. Therefore, we answer question one in the affirmative.\nQuestion 2\n\u00b621 With regard to question two, the general rule is that a principal can be liable for acts of its agent. The \u201cfact\u201d that the principal in this case is an out-of-state entity does not change this. A principal cannot send agents into a state to commit CPA violations in order to avoid liability by virtue of its out-of-state residence. The federal court must still determine the agency relationship involved here. Based on the facts, procedural posture, and certified questions, we do not know enough specifics to answer question two except generally. For purposes of answering the certified question\u2014based on the limited facts specific to the legal nature of the agency relationship\u2014we answer in the affirmative.\nConclusion\n\u00b622 We answer both questions yes. Under the CPA, an out-of-state plaintiff may bring a claim against a Washington corporate defendant for allegedly deceptive acts. Similarly, an out-of-state plaintiff may bring a CPA claim against an out-of-state defendant for the allegedly deceptive acts of its in-state agent.\nMadsen, C.J., and Owens, Fairhurst, Stephens, Wiggins, Gonz\u00e1lez, Gordon McCloud, and Yu, JJ., concur.",
+        "type": "majority",
+        "author": "Johnson, J."
+      }
+    ],
+    "attorneys": [
+      "Beth E. Terrell (of Terrell Marshall Daudt & Willie PLLC)-, and Michael Murphy (of Bailey & Glasser LLP) {James L. Kauffman, of counsel), for plaintiff.",
+      "Jeffrey I. Hasson (of Davenport & Hasson LLP), for defendant Seattle Service Bureau.",
+      "Daniel T. Syhre and Joseph D. Hampton {o\u00ed Betts, Patterson & Mines PS) {Cornelius M. Murphy, Thomas J. Frederick, and Linda T. Coberly of Winston & Strawn LLP, of counsel), for defendant State Farm.",
+      "George M. Ahrend and Bryan P Harnetiaux on behalf of Washington State Association for Justice Foundation, am-icus curiae.",
+      "Stuart A. Estes and Melissa O\u2019Loughlin White on behalf of Washington Defense Trial Lawyers and DRI\u2014The Voice of the Defense Bar, amici curiae.",
+      "Eric D. Miller and Paul S. Graves on behalf of Chamber of Commerce of the United States of America, amicus curiae.",
+      "Robert W. Ferguson, Attorney General, Shannon E. Smith, Managing Assistant, and Kimberlee L. Gunning, Assistant, on behalf of the Attorney General of Washington, amicus curiae.",
+      "Steven A. Hemmat, Richard A. Samp, and Mark S. Ghenoweth on behalf of Washington Legal Foundation, amicus curiae.",
+      "Steve W. Berman and Ashley A. Bede on behalf of United Policyholders, amicus curiae.",
+      "Stephen M. Rummage, Fred B. Burnside, and Robert M. McKenna on behalf ofAmazon.com, Expedia Inc., Holland America Line NV, Microsoft Corporation, and T-Mobile USA Inc., amici curiae.",
+      "Michael B. King on behalf of Property Casualty Insurers Association, amicus curiae.",
+      "Robert A. Battles on behalf of Association of Washington Business, amicus curiae."
+    ],
+    "corrections": "",
+    "head_matter": "[No. 91393-5.\nArgued October 20, 2015.\nDecided December 10, 2015.\nCertification From the United States District Court for the Western District of Washington in Sandra C. Thornell, on Behalf of Herself and All Others Similarly Situated, Plaintiff, v. Seattle Service Bureau, Inc., et al., Defendants.\nBeth E. Terrell (of Terrell Marshall Daudt & Willie PLLC)-, and Michael Murphy (of Bailey & Glasser LLP) {James L. Kauffman, of counsel), for plaintiff.\nJeffrey I. Hasson (of Davenport & Hasson LLP), for defendant Seattle Service Bureau.\nDaniel T. Syhre and Joseph D. Hampton {o\u00ed Betts, Patterson & Mines PS) {Cornelius M. Murphy, Thomas J. Frederick, and Linda T. Coberly of Winston & Strawn LLP, of counsel), for defendant State Farm.\nGeorge M. Ahrend and Bryan P Harnetiaux on behalf of Washington State Association for Justice Foundation, am-icus curiae.\nStuart A. Estes and Melissa O\u2019Loughlin White on behalf of Washington Defense Trial Lawyers and DRI\u2014The Voice of the Defense Bar, amici curiae.\nEric D. Miller and Paul S. Graves on behalf of Chamber of Commerce of the United States of America, amicus curiae.\nRobert W. Ferguson, Attorney General, Shannon E. Smith, Managing Assistant, and Kimberlee L. Gunning, Assistant, on behalf of the Attorney General of Washington, amicus curiae.\nSteven A. Hemmat, Richard A. Samp, and Mark S. Ghenoweth on behalf of Washington Legal Foundation, amicus curiae.\nSteve W. Berman and Ashley A. Bede on behalf of United Policyholders, amicus curiae.\nStephen M. Rummage, Fred B. Burnside, and Robert M. McKenna on behalf ofAmazon.com, Expedia Inc., Holland America Line NV, Microsoft Corporation, and T-Mobile USA Inc., amici curiae.\nMichael B. King on behalf of Property Casualty Insurers Association, amicus curiae.\nRobert A. Battles on behalf of Association of Washington Business, amicus curiae."
+  },
+  "file_name": "0793-01",
+  "first_page_order": 835,
+  "last_page_order": 846
+}

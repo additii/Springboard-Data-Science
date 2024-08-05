@@ -1,0 +1,580 @@
+{
+  "id": 1309176,
+  "name": "Kahn v. Vaughan; and Stifft v. Vaughan",
+  "name_abbreviation": "Kahn v. Vaughan",
+  "decision_date": "1887-05",
+  "docket_number": "",
+  "first_page": "518",
+  "last_page": "534",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "49 Ark. 518"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [
+    {
+      "cite": "28 Ark., 270",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1884370
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/28/0270-01"
+      ]
+    },
+    {
+      "cite": "18 Wall., 206",
+      "category": "reporters:scotus_early",
+      "reporter": "Wall.,",
+      "case_ids": [
+        3427401
+      ],
+      "pin_cites": [
+        {
+          "page": "231"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/85/0206-01"
+      ]
+    },
+    {
+      "cite": "61 Md., 346",
+      "category": "reporters:state",
+      "reporter": "Md.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "18 Ark., 380",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        8726429
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/18/0380-01"
+      ]
+    },
+    {
+      "cite": "12 Neb., 87",
+      "category": "reporters:state",
+      "reporter": "Neb.",
+      "case_ids": [
+        4399195
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/neb/12/0087-01"
+      ]
+    },
+    {
+      "cite": "30 Kans , 166",
+      "category": "reporters:state",
+      "reporter": "Kan.",
+      "case_ids": [
+        53377
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/kan/30/0166-01"
+      ]
+    },
+    {
+      "cite": "20 Ohio, 168",
+      "category": "reporters:state",
+      "reporter": "Ohio",
+      "case_ids": [
+        500052
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ohio/20/0143-01"
+      ]
+    },
+    {
+      "cite": "36 N. J. L., 86",
+      "category": "reporters:state",
+      "reporter": "N.J.L.",
+      "case_ids": [
+        387999
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/njl/36/0086-01"
+      ]
+    },
+    {
+      "cite": "30 Iowa, 331",
+      "category": "reporters:state",
+      "reporter": "Iowa",
+      "case_ids": [
+        2279868
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/iowa/30/0323-01"
+      ]
+    },
+    {
+      "cite": "18 Fed., 386",
+      "category": "reporters:federal",
+      "reporter": "F.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "13 Fed.., 722",
+      "category": "reporters:federal",
+      "reporter": "F.",
+      "case_ids": [
+        3747345
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f/13/0722-01"
+      ]
+    },
+    {
+      "cite": "46 Ark., 383",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1890507
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/46/0383-01"
+      ]
+    },
+    {
+      "cite": "47 Cal., 661",
+      "category": "reporters:state",
+      "reporter": "Cal.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "27 Ark., 176",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1885795
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/27/0176-01"
+      ]
+    },
+    {
+      "cite": "37 Wis., 3",
+      "category": "reporters:state",
+      "reporter": "Wis.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "33 Ohio St., 397",
+      "category": "reporters:state",
+      "reporter": "Ohio St.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "33 N. J. L., 82",
+      "category": "reporters:state",
+      "reporter": "N.J.L.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "3 Neb., 43",
+      "category": "reporters:state",
+      "reporter": "Neb.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "61 Md., 334",
+      "category": "reporters:state",
+      "reporter": "Md.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "44 Mich., 387",
+      "category": "reporters:state",
+      "reporter": "Mich.",
+      "case_ids": [
+        1407698
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mich/44/0387-01"
+      ]
+    },
+    {
+      "cite": "38 N. J. L., 82",
+      "category": "reporters:state",
+      "reporter": "N.J.L.",
+      "case_ids": [
+        349743
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/njl/38/0082-01"
+      ]
+    },
+    {
+      "cite": "13 Cal., 323",
+      "category": "reporters:state",
+      "reporter": "Cal.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "28 Cal., 107",
+      "category": "reporters:state",
+      "reporter": "Cal.",
+      "case_ids": [
+        2220909
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/cal/28/0107-01"
+      ]
+    },
+    {
+      "cite": "37 N. Y, 428",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "47 Cal., 646",
+      "category": "reporters:state",
+      "reporter": "Cal.",
+      "case_ids": [
+        1952164
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/cal/47/0646-01"
+      ]
+    },
+    {
+      "cite": "46 Ark., 386",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "17 Ark., 423",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "43 Conn., 309",
+      "category": "reporters:state",
+      "reporter": "Conn.",
+      "case_ids": [
+        748808
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/conn/43/0309-01"
+      ]
+    },
+    {
+      "cite": "70 Penn. St., 221",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1028202
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "315"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/70/0221-01"
+      ]
+    },
+    {
+      "cite": "5 Cush., 93",
+      "category": "reporters:state",
+      "reporter": "Cush.",
+      "case_ids": [
+        314668
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/59/0093-01"
+      ]
+    },
+    {
+      "cite": "5 Gray, 365",
+      "category": "reporters:state",
+      "reporter": "Gray",
+      "case_ids": [
+        1993185
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/71/0365-01"
+      ]
+    },
+    {
+      "cite": "6 Pick., 98",
+      "category": "reporters:state",
+      "reporter": "Pick.",
+      "case_ids": [
+        2011458
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/23/0098-01"
+      ]
+    },
+    {
+      "cite": "92 N. Y., 604",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2190211
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/92/0604-01"
+      ]
+    },
+    {
+      "cite": "43 Ark., 257",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "13 Fed. Rep., 752",
+      "category": "reporters:federal",
+      "reporter": "F.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "92 U. S., 609",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "46 Ark., 296",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1890445
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/46/0296-01"
+      ]
+    },
+    {
+      "cite": "95 U. S., 41",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "96 U. S., 97",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3380671
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/96/0097-01"
+      ]
+    },
+    {
+      "cite": "47 Ark., 431",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1888756
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/47/0431-01"
+      ]
+    },
+    {
+      "cite": "48 Ark., 476",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1887725
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/48/0476-01"
+      ]
+    },
+    {
+      "cite": "47 Cal., 658",
+      "category": "reporters:state",
+      "reporter": "Cal.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "46 Ill., 337",
+      "category": "reporters:state",
+      "reporter": "Ill.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "46 Cal., 473",
+      "category": "reporters:state",
+      "reporter": "Cal.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "37 N. Y., 428",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "40 Ark., 35",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1897159
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/40/0035-01"
+      ]
+    },
+    {
+      "cite": "44 Ark., 134",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1893425
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/44/0134-01"
+      ]
+    },
+    {
+      "cite": "76 Ill., 200",
+      "category": "reporters:state",
+      "reporter": "Ill.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "28 Ark., 270",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1884370
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/28/0270-01"
+      ]
+    },
+    {
+      "cite": "18 Ark., 380",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        8726429
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/18/0380-01"
+      ]
+    },
+    {
+      "cite": "36 N. J. L., 86",
+      "category": "reporters:state",
+      "reporter": "N.J.L.",
+      "case_ids": [
+        387999
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/njl/36/0086-01"
+      ]
+    },
+    {
+      "cite": "46 Ark., 383",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1890507
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/46/0383-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1244,
+    "char_count": 30878,
+    "ocr_confidence": 0.729,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.04973262919961743
+    },
+    "sha256": "b4839cbd7d62d6cecc2567e02a2e803ede1836d0c70d4ab27f20cce0468fbe40",
+    "simhash": "1:223fce360c42c71a",
+    "word_count": 5352
+  },
+  "last_updated": "2024-02-27T22:10:25.288799+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Kahn v. Vaughan and Stifft v. Vaughan."
+    ],
+    "opinions": [
+      {
+        "text": "Cockrill, C. J.\nThese appeals have been argued as one cause. Each of the appellants is a taxpayer of Pulaski county, the assessment of whose personal property as made out by him and returned by the County Assessor, has been increased by the County Board for the equalization of taxes. Kahn\u2019s assessment as returned by the Assessor, was $4450. 'It was increased by the board to $12,450; Stifft\u2019swas raised from $5150 to $12,150, and Baird & Bright\u2019s from $5000 to $10,000.\nThe cases of Kahn and Stiff! are appeals from the Pulaski Circuit Court, one originating in an application to that court for a writ of certiorari to quash the proceedings of the board as far as they relate to his property; while the other was heard there on appeal from the County Court where an application in the nature of an appeal from the finding of the board, to reduce the assessment, had been considered. The case of Baird & Bright is an appeal from a decree of the Pulaski Chancery Court dismissing their bill to enjoin Ham O. Williams, as County Clerk, from extending the assessment of their property as raised by the board, upon the tax books of the county. The action of the board was sustained in each instance, and the cases have been brought here through different channels to avoid, as counsel agree, all contest about the mode of procedure to raise the substantial questions at issue.\nThe validity of the act of the Legislature which authorizes the appointment of the board is assailed. The argument is that the Constitution directs the election of one Assessor by the electors of each county, while the act in question attempts to authorize the Governor to appoint three persons whose duties, as prescribed bv it, are such as the framers of the Constitution contemplated should be performed by the Assessor, and thus undertakes to establish an agency for ascertaining the value of property for taxation in violation of the Constitution,\nThe chief provision of the' Constitution upon the sub-ject of taxation is as follows :\n\u201cAll property subject to taxation shall be taxed according .to its value; that value to be ascertained in such manner as the General Assembly shall direct, making the same uniform throughout the State. No one species of property from which a tax may be collected, shall be taxed higher than another species of property of equal value. * * * \u201d Sec. 5, art. 16.\nThe governing idea of this provision is that the burden of taxation shall be equally and uniformly laid upon property in proportion to its value. As a means to the attainment of this end, assessments for taxation should be made by the same standard and as near the actual value of the property assessed as possible. It is a violation of the mandate .contained in this provision to return any property for assessment at less than its value. If the law is enforced, every person will contribute to the public revenue in proportion to the value of the property owned by him.\nNeither of the appellants here complains that the valuation fixed by the Board of Equalization exceeds, the value of his personal property subject to taxation. There is no showing that the action of the board has worked injustice to any one. The argument is simply that the return of the County Assessor is a finality and concludes all further inquiry as to valuation, notwithstanding his return may state the value of the property of a particular individual at only a half, or it may be a hundredth part of its true value, when all other property is fairly assessed.\nThe statement of the proposition shows its want of conformity to the constitutional mandate of equality and uniformity ; and the existence of the discrepancies disclosed by the record (taking the findings of the board as correct) demonstrates the necessity for the legislative attempt to give practical operation to the Constitution by the creation of boards for the correction of such inequalities.\nThat inequalities exist and will continue to exist, is inherent in the effort to adjust the value of all property to a common standard. No degree of care and diligence on the part of the most competent Assessor can attain perfect equality, or perhaps prevent striking mistakes and oversights in assessments. A near approximation to correctness is the most that can be expected. The difficulty of preserving a just relation between the different parts of the same county, or even the several wards of a city, is enhanced by the necessity of delegating the power of fixing values to the different individuals who act as assistant or deputy Assessors. Experience had taught and the framers of the Constitution must have known, that in a populous and wealthy county like Pulaski, the Assessor, unaided, could not perform the duties of his office so as to approximate uniformity and' equality; and the Legislature, recognizing the necessity, have continued the practice that prevailed prior to the adoption of the present Constitution, of providing assistant Assessors to aid in the work. Their returns of the valuation of the same class of property may be widely divergent. The necessity of the case, in view of the irpmense labor to be performed, commonly forces the Assessor to take their returns as correct. If the Legislature is powerless to undertake the correction of these discrepancies and the obvious errors that creep into the system, then the most important security that has been devised for the benefit of the tax payer may be rendered useless. An under-assessment for taxation, whether, arising from an honest intention and belief on the part of the Assessor,-or from a concealment or misrepresentation of facts by the tax payer, is an injury to the public. The burden of every other' tax payer is increased to make up the deficit. An over-valuation is an oppression to the individual. Both are violations of the constitutional provision above quoted; and if the Legislature is restrained, as is contended, from .exercising the power of properly adjusting the burden between the tax payers, the provision containing the inhibition must be very plainly irreconcilable with the right to exercise that power.\nIs the provision relied upon, inconsistent with the power to equalize the assessments ? It seems clear to us that it is not. The provision is as follows : \u201c The qualified electors of each county shall elect one Sheriff, who shall be ex-officio collector of taxes unless otherwise provided by law, one Assessor, one Coroner, one Treasurer, who shall be ex-officio treasurer of the common school fund of the county, and one County Surveyor, for the term of two years, with such duties as are now or may be prescribed by law; provided, that no per centum shall ever be paid to Assessors upon the valuation or assessment of property by them.\u201d Sec. 46, art. 7.\nThe duties now performed by the County Assessor, were well understood and performed in this State long before the office found recognition In the present Constitution. The office existed under the first organic law of the State, though it was not created by it. The functions were sometimes performed by an officer known as the Assessor and sometimes by the Sheriff and collector \u2022 of taxes. But by whomsoever performed, the assessments were left open to attack in the County Court by any one who felt himself aggrieved. Gould\u2019s Digest, ch. 148, sec. 35. The Constitution of 1868 made the office a constitutional one as far as real estate was concerned. The provision reads: \u201c Real estate shall be appraised at least once in five years by an appraiser to be provided by law.'\u2019 Art 10, sec. 2. But the policy of regarding the Assessor\u2019s returns as open to correction was adhered to. Boards of Equalization were created and their functions performed under the revenue laws of that instrument. The validity of a State Board of Equalization was affirmed by this court under that Constitution. Vandegriff v Haynie, 28 Ark., 270. See Edrington v. Matthews, 30 id., 665.\nThe framers of the Constitution of 1874 were therefore familiar with the practice of correcting and revising the assessments of County Assessors, whether the office was created by the Legislature or the Constitution; but they have nowhere made their returns conclusive or prohibited the creation of boards to revise and equalize them. It was however known that all the departments of government had sanctioned the practice under the previous Constitution when the office was created by that instrument.\nThe departure from the Constitution of 1868 as to this office, was only in making it elective, and in cutting off the temptation to the incumbent to oppress the tax payer by an over-valuation of his property, by prohibiting the practice then in vogue, of allowing the Assessor a per cent upon the valuation returned by him. These features do not affect the functions of the office. The Legislature had always possessed the power to authorize an investigation into, and a change of the Assessor\u2019s returns; and if it had been the intention to prohibit this, it is reasonable to suppose that that departure also would have been plainly expressed. Adsit v. Lieb., 76 Ill., 200; Baker v. State, 44 Ark., 134. But instead of prohibiting the practice, one of'the sections quoted expressly leaves the Assessor\u2019s duties subject to legislative control, and the other prescribes that the value of property for the purposes of taxation shall be ascertained in such manner as the General Assembly shall direct.\nThese are grants of power which are never essential to the legislative authority of a State, unless to explain that it is not intended by other language used to withhold the power. Each provision was inserted, we must presume; for a purpose. But when the power to define the duties of the Assessor was left to the Legislature, it was useless to add that the value of property for taxation should be ascertained in such manner as it should direct, if that means only, as counsel argue, that the manner in which the Assessor shall perform his duties can be prescribed; because to prescribe a mode of procedure for the Assessor is only to define the duties of his office. Both provisions are consistent with the exercise of the Assessor\u2019s duties. See State on the relation of Marion County v. Certain Lands, 40 Ark., 35. His is a constitutional office and the Legislature cannot abolish or make it a sinecure, for that would make the selection of the officer \u2014 a right guaranteed to the electors \u2014 an empty form. People v. Raymond, 37 N. Y., 428.\nAs one of the necessary steps toward ascertaining values for taxation, local assessors elected for the purpose must make, or be afforded the opportunity to make, the primary assessment. But this valuation need not be final. On the contrary, it becomes the duty of the Legislature to afford the means of making this approximate estimate of values conform as nearly as practicable to the constitutional design of equality and uniformity. Savings and Loan Society v. Austin, 46 Cal., 473; People v. Saloman, 46 Ill., 337.\nThe question whether Boards of Equalization can be authorized to make original assessments under any circumstances, is not presented by the record.\nThe case of Houghton v. Austin, 47 Cal., 658, which is relied upon by the appellants to overthrow the act creating Boards of Equalization, is based upon constitutional provisions not \u00e1ltogether like our own; the Judges in reaching their conclusion were governed in great measure By their knowledge of the intent of the framers of the Constitution, as derived through the history of the State and of the constitutional convention\u2014 but these considerations cannot enter into the determination of the question here ; and moreover, the case is authority more upon'the point of the election as opposed to the appointment of members of Equalization Boards, than upon the power to create such boards. [Compare, too, Savings and Loan Society v. Austin, 46 Cal., sup.] The Constitution of California, then in force, seemed to require that all Assessors, whether acting in a primary or a revi ring capacity, should be elected. That is not required by our Constitution.\nII. It is argued that the proceedings of the board do not conform to the authority conferred by the statute; because the board proceeded in each case without complaint being first made by some one against the Assessor\u2019s return, and because they proceeded without evidence and without notice to the parties affected by their action.\nThe powers of the Boards of Equalization are special and limited. They can perform no act except such as they are specially authorized to do. Desty on Taxation, sec. 100; Dunnagin v. Shaffer, 48 Ark., 476.\nIt is for the Legislature to define their powers, but it is competent to confer upon them the authority to increase or diminish individual assessments regardless of the effect upon the total valuation of all the assessments in the county. When the power to create the board is once established, it would seem to be the duty of the Legislature to empower it to equalize the burden of taxation by adjusting the assessments of all property subject to taxation to the common standard of actual values. But whatever the powers of the board may be, or the character of the proceedings, it is the established rule that notice and an opportunity to be heard must be provided for the party upon whose property the increased burden is to be charged. Notice before the assessment, however, or the revision of it, is not .required. It is sufficient if before the assessment becomes final, an appeal, or more properly speaking, an application in the nature of an appeal (see Prairie County v. Matthews, 46 Ark., 383), to a judicial tribunal, is fairly accorded those who feel aggrieved. Cooley on Tax., p. 364, 2d ed.; Howard v. State, 47 Ark., 431.\nThe question has been several times ruled by the Supreme Court of the United States. Davidson v. New Orleans, 96 U. S., 97; Hagar v. Reclamation Dist., 111 id., 701; Kentucky Railroad Tax Cases, 115 id., 321.\nIf notice to appear before the board is required by the statute, the provision is mandatory and they cannot proceed without it.\nThe questions presented arise, therefore, upon the proper construction of the statute creating and defining the powers of the board, and the remedy of the taxpayer. The provisions of the act, so far as it is material to set them forth, are as follows :\n\u201c Sec. 5689. There shall be in the year eighteen hundred and eighty-seven, and annually thereafter, a session of the County Board of Equalization, for the purpose of equalizing the assessment of personal property, moneys and credits, in each county. Said session shall be held at the Clerk\u2019s office in each county on the second Monday in September of each year. Said board, when in session, shall have power to hear complaint and to equalize by adding to or taking from the valuation of all personal property, moneys and credits, within the county. * * * * It shall be the duty of the Assessor to attend on the meetings of said board and explain his assessment to said board when so .requested.\n\u201c Sec. 5690. In the equalization of personal property the County Board may add to or take from the valuation of the personal property, moneys and credits, of any person returned by the Assessor, or which may have b\u00e9en omitted by him, or add other items to it, upon such evidence as is satisfactory, whether such return is made upon oath of such person or upon the valuation of the Assessor. In the equalization of real property not previously entered for taxation on the tax books as then listed, it shall raise the valuation of such tracts and lots of real property as in the opinion of the County Board has been returned below their true value in money, to such price- or sum as it may find to be the true value thereof, agreeably to-the rules prescribed by this act for the valuation of real property, or may reduce the valuation of such tracts or lots as in the opinion of the board have been returned above their true value, as compared with the average valuation of the real property of such county, having due regard to their relative situation,, quality of soil, improvement and natural and artificial advantages possessed by each tract or lot. For the purpose of this equalization said board, or any member thereof, shall have free access to the county records of the county, and it is made their duty to carefully examine said records in making their investigations for the purpose of equalizing the said assessment. .\n\u201c Sec. $691. The Clerk of the County Court shall keep an accurate journal or record of the proceedings of the said board. * * * Mansfield\u2019s Digest, as amended in i88j.\n\u201cThe County Board of Equalization in every instance where it raises the valuation of any property, personal or real, shall give to the owners of the property so-raised in valuation, or their agents, notice by postal card or otherwise through the mails, of such increase in value, stating the valuation as returned by the Assessor and the valuation as fixed by the Board, and said notice shall advise the owners of such property or their agents'that they may appear before the County Courts of their county, at the term thereof to be begun and held at the county seat on the first Monday in October next following the session of said board, and show cause, if any they can, why the valuation of their property should not have been raised. The Board of Equalization shall attend at said term of said court, and show cause, if any they can, why such valuations were raised, in cases where complaint is made of such increase. The County Court shall hear and determine all complaints made by owners of property or their agents, and such action of the County Court shall be final unless such owner ,or agent of property making complaint shall take an appeal to the Circuit Court.\u201d Acts 1887, p. 172.\nThe mode of assessing property for taxation must be summary in order that it may be speedy and effectual; but,-as is said by Judge Miller, in McMillen v. Anderson, 95 U. S., 41, \u201c by summary is not meant arbitrary or unequal or illegal. It must, under our Constitution, be lawfully done. But that does not mean, nor does the phrase \u2018 due process of law \u2019 mean, by a judicial proceeding.\u201d See, too, Fort Smith v. Dodson, 46 Ark., 296.\nNow, as was explained in Prairie Co. v. Matthews, 46 Ark., sup., equalization boards are not judicial tribunals, and the nomenclature employed in the acts relating to them, though sometimes such as is used in reference to proceedings in courts, is not there used in its technical legal sense. In that case it is said that the word \u201cparty\u201d is used in the act in its popular sense of \u201cperson\u201d and not in its technical sense of \u201cparty to a suit;\u201d and \u201cappeal simply in the signification of invoking the aid of.\u201d It is now claimed that the word \u201ccomplaint\u201d used in the same act has the signification of the legal term \u201ccomplaint at law;\u201d and that making or filing a complaint is a prerequisite to the power of the board to act in any case just as a complaint or declaration is in a court of law. It is also contended that even after complaint is made, the board can proceed legally only after notice to the taxpayer whose assessment is complained of and upon competent evidence. When we look at all the provisions for the board\u2019s procedure together, and bear in mind that we are not to give to the terms used a technical signification, it is obvious that such is not the meaning of the act.\nWhen real estate is to be assessed the board, after having the return of the Assessor laid before it, is directed to proceed immediately without waiting for complaint, to equalize the valuations of such property. Mansf. Dig., sec. 5693. A change of procedure is not made manifest when they meet to equalize the assessment of personal property. For then the Assessor is required' to attend the meetings of the board and explain his assessments of personalty if the board requires it, and it is made the duty of the members of the board to \u201ccarefully examine the county records\u201d in making their investigations for the purposes of equalizing their assessments. This duty of investigation enjoined upon the board extends to the records of all the public officers of the county which contain anything to throw light upon their labors. It embraces the records of hens and mortgages in the recorder\u2019s office and the judgment records of the courts which show credits liable to assessment, as well as the Assessor\u2019s roll of personal assessments. The duty to examine these is not coupled in the statute with the hearing of a complaint. Why should the board pursue these sources of information, why make an investigation for the purpose of equalization, if they must wait for a complaint, and for evidence to be adduced, and be confined to the issues made by the parties complaining? It is easy to perceive who will be likely to complain when an assessment is too high, but from whom shall the complaint come when it is too low ? It is not probable that the owner will complain, and it is not made the duty of any one else to do so. No provision for notice to one against whose interest complaint is made, or even the right to a hearing if he should appear, is found in the act. On the contrary the amendment of 1887, supra, clearly implies that notice is not required until the board has completed its labors, when a hearing is afforded to those who desire it, in the County Court. It would be attributing folly to the Legislature to hold that complaint to the board is a condition to the exercise of its powers, when the party against whom the complaint is made is not to be notified and cannot demand a hearing.\nThe session is limited to two or three weeks. The delay of waiting to be moved, of giving notice to all concerned, and of hearing each individual, would render the main functions of the board impossible of performance. State v. Railroad Tax Cases, 92 U. S., 609-10; State v. Roe, 36 N. J. L., 86. The design in establishing such boards was practicable and reasonable, and it would require clearer language than we have here to lead to the conclusion that the Legislature intended to so hamper them as to practically destroy their usefulness. State v. Roe, supra. But if the appellants\u2019 contention is right that result would follow.\nWe are of opinion that the board may hear the complaints of individuals who feel themselves aggrieved by the Assessor, but that they may proceed upon their own motion \u201eto make an equalization of the assessments of the county, and may act upon evidence or their own knowledge in accomplishing that end. All valuation of property is more or less a matter of opinion, and the members of the board are brought from different sections of the county, doubtless, in part for the' information they bring with them.\nThe remedy provided by the statute for the correction of errors made by the board, is a protection against injury to the individual. The statute requires a record to be made of the proceedings of the board (Mansf Dig., sec. 3691); like all other records, they are open to the inspection of the public; and, at a term of the County Court held thereafter, at a time and place specifically designated by statute, the opportunity to appear and show cause against the findings of the board is provided. A notice through the mails to the taxpaper whose assessment is increased is also required out of an abundance of caution. The party aggrieved is thus afforded the opportunity to appear before a judicial tribunal to have his rights adjudged before he has suffered any injury. \u201cIn the business of assessing taxes this is all that can be asked.\u201d State Railroad Tax Cases, supra.\n\u201cDue process of law,\u201d says Judge Field in Railroad Tax Cases, 13 Fed. Rep., 752, \u201cis deemed to be pursued, when after the assessment is made by the assessing officers upon such information as they may obtain, the owner is allowed a reasonable opportunity at a time and place to be designated, to be heard respecting the correctness of the assessment and to show any errors in the valuation committed by the officers. Notice to him will be deemed sufficient if the time and place of hearing be designated by statute.\u201d This is the established rule. Cooley on Tax. (2d ed.), 364-5, and cases cited there and supra.\nAnd where an adequate remedy in the nature of an appeal is provided, as is done in our statute, the better opinion is that a mere error of judgment on the part of the board or a mistake in their conclusion, though 'arrived at without evidence where evidence is required, is not available in a collateral issue. The taxpayer must pursue the remedy provided for his relief or abide by the finding of the board. Randel v. Williams, 18 Ark., 380; Moore v. Turner, 43 Ark., 257; Howard v. State, 47 Ark., 431; Mayor of N. Y. v. Davenport, 92 N. Y., 604; State Railroad Tax Cases, sup., 613; Cooley on Tax., 748-9; Osborn v. Danvers, 6 Pick., 98; Porter v. Norfolk, 5 Gray, 365; Bates v. Boston, 5 Cush., 93; Stewart v. Maple, 70 Penn. St., 221; Clin ton School Dist., 56, id., 315; Monroe v. Town of New Canaan, naan, 43 Conn., 309.\n4. Same Over-valuation by how corrected. Great mischief would follow in permitting the taxpayer to select arbitrarily his own time and tribunal t\u00f3 test the correctness of an assessment.\nAn over-valuation in an assessment cannot, therefore, be corrected by injunction or certiorari. Randel v. Williams, Moore v. Turner, sup., and cases cited. The only remedy is by proof of the fact that the assessment is too high, on appeal or application to the County Court in the'mode and within the time pointed out by statute.\nStifft appealed to the County Court, but he does not appear to have offered any evidence to show that his property was assessed at more than its value, and the presumption of correctness which accompanies the findings of the board was allowed to prevail in the County Court and on appeal to the Circuit Court. A taxpayer who petitions the County Court for a reduction of his assessment assumes the burden of showing that his property is assessed too high. If he offers no proof, or his evidence is not satisfactory, the assessment stands. Redd v. San Francis Co., 17 Ark., 423.\nNeither of the appellants has shown or offered to show that any discrimination has been practiced by the board. All rest their claims solely upon the want of power in the board and not upon the merits.\nLet the judgments be affirmed.",
+        "type": "majority",
+        "author": "Cockrill, C. J."
+      }
+    ],
+    "attorneys": [
+      "J. M. Rose, J. M. Moore, John McClure, E. W. Kimball, for appellants, made oral argument.",
+      "Cohn & Cohn also for appellants.",
+      "Dan W. Jones, Attorney General, and Blackivood & Williams, for appellees."
+    ],
+    "corrections": "",
+    "head_matter": "Kahn v. Vaughan and Stifft v. Vaughan.\nAPPEALS from Pulaski Circuit Court.\nJ. W. Martin, Judge.\n1. Boards of Equalization : Act providing for, constitutional.\nThe provisions of the reveuue act of 1883, as amended in 1887 (Mansf.., Dig., secs. g\u00f3Sf, 569/), authorizing the appointment of County Boards of Equalization, are not unconstitutional as being in conflict with sec. 46, art. 7, Const., providing for the election in each county of an Assessor, \u201cwith such duties as are now or may be prescribed by law.\u201d\n2. Same : Powers of.\nThe return of the Assessor does not preclude inquiry into the value of'the property assessed by him, but the Boards of Equalization may increase or diminish in_ dividual assessments, and that too without regard to the effect of the change on the total valuation of all the assessments.\n3. Samf. : Procedure of.\nIn equalizing assessments, the County Boards of Equalization may proceed without complaint being made against the Assessors\u2019 returns, and may act upon evidence or upon their own knowledge, and without first giving notice to the parties to be affected by their action.\n4. Same: Over-valuation by, how corrected.\nAn over-valuation in an assessment made by a County Board of Equalization, cannot be corrected by injunction or certiorari. The only remedy is by proof of the fact that the assessment is too high, made before the County Court in the mode designated by the statute.\nJ. M. Rose, J. M. Moore, John McClure, E. W. Kimball, for appellants, made oral argument.\nCohn & Cohn also for appellants.\n1. Section 5687 and succeeding sections Mansfield\u2019s Digest, and acts 1887, secs. 32 and 33 amendatory thereof, are unconstitutional, in so far as they provide for the appointment by the Governor of three persons, to perform the duties prescribed. Art. 7, sec. 46, Const. 1874; Mansf. Dig., sec. 3687, et seq; Acts 1887, pp. 163, 164.\nThe members of this board are Assessors {46 Ark., 386; 47 Cal., 646), and Assessors must be elected. Cases supra, 37 N. Y, 428; Cooley Tax., 1st ed., 291, note 1; 47 Cal., 646.\n2. The board could not arbitrarily raise the values, or add to personal assessments, without complaint. 28 Cal., 107, in; 44 id., 323-4; Burrough's Tax., 237; Acts 1887, 164.\n3. Notice was necessary. 13 Cal., 323; 38 N. J. L., 82; 44 Mich., 387; 74 N. V, 183-8; 61 Md., 334; 3 Neb., 43; 30 111., 424. Not sufficient to first adjudge and then notify. 33 N. J. L., 82.\n4. Evidence was necessary. 33 Ohio St., 397; 37 Wis., 3.\nDan W. Jones, Attorney General, and Blackivood & Williams, for appellees.\nUnless there is something in sec. 46, art. 7, and sec. 3, art. 16, Const. 1874, which are restrictive upon the Legislature in reference to providing for this board and the powers given, the validity of the act must be sustained. 27 Ark., 176; 34 id., 166.\n47 Cal., 661, relied on by appellants was decided upon the peculiar language of the Constitution of California, requiring Assessors to be elected.\nThis same question has been substantially decided in the railroad assessment cases in this State. 41 Ark., pog; 44 id., 17; 46 id., 312. See, also, 78 Va., 20g; 76 III., ig8; 46 Ark., 383; 64 Mo., 2g4.\n2. Sec. 33, Acts 1887, p. 164, gave the board \u201cpower to hear complaints, and to equalize by adding to or taking from,\u201d etc., but no formal, technical complaint, in a legal sense, was required. Any one aggrieved might complain to the board, and they would hear him, and act upon his complaint. That was a part of their power, but not a prerequisite to jurisdiction. It is apparent from section 52 that it was not contemplated that the party should be present, but it provided him a remedy and made it the duty of the board to notify him.\nThat the act is constitutional; that no effort has been made to deprive any one of any right without due process of law; and that every protection to persons interested has been provided for; every one aggrieved having a remedy pointed out, and the right to be heard by a judicial tribunal. See as sustaining our views: Cooley Tax., pp. 361 \u2014 7, 773 et seq.; 13 Fed.., 722; 18 Fed., 386; gp U. S., 701; m U. S., 701; 26 'Pa. St., 233; 30 Iowa, 331; 36 N. J. L., 86; 20 Ohio, 168; 30 Kans , 166; 12 Neb., 87; 18 Ark., 380; 61 Md., 346; 38 Me., 3go; 113. U. S., 321; 18 Hozo., 272; 18 Wall., 206, 231; g2 U. S., 575, 6og; 28 Ark., 270; 3 Bush. (Ily.), 648; Const. *(Ky.), a?t. 6, sec. 11, and art. 4, sec. 30."
+  },
+  "file_name": "0518-02",
+  "first_page_order": 526,
+  "last_page_order": 542
+}

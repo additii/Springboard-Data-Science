@@ -1,0 +1,85 @@
+{
+  "id": 1407967,
+  "name": "Johnson v. White",
+  "name_abbreviation": "Johnson v. White",
+  "decision_date": "1927-02-14",
+  "docket_number": "",
+  "first_page": "922",
+  "last_page": "923",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "172 Ark. 922"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [
+    {
+      "cite": "266 S. W. 11",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "158 Ark. 278",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1355643
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/158/0278-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 234,
+    "char_count": 3067,
+    "ocr_confidence": 0.511,
+    "pagerank": {
+      "raw": 1.803376239097153e-07,
+      "percentile": 0.7167417868763777
+    },
+    "sha256": "bd63e88a5c19bbd57cab2e83899dc19370550d07329517c04df694c0fec0ce9a",
+    "simhash": "1:adca39c3062f6283",
+    "word_count": 555
+  },
+  "last_updated": "2024-02-27T21:19:44.522172+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Johnson v. White."
+    ],
+    "opinions": [
+      {
+        "text": "Humphreys, J.\nThis is an appeal from the judgment of the circuit court of White County dismissing the petition of appellant for the probate of a paper writing attached thereto as the holographic will and testament of Fred C. Johnson, deceased, and quashing the judgment of the probate court of said county, entered on January 12, 1925, of record in book N, at page 432, wherein appellee was contestant and appellant was contestee.\nThe writing or purported holographic will and testament is as follows:\n\u201cOct. 7, 1918. Camp Pike, Arkansas. My darling little girl. How is my darling little wife tonight? Fine, I hope. I am just fine as I told you. I am going to have my policy changed from Esther to you, for it is my will and wishes is for you to have it. I told Arby to watch the mail box and send it to me, for I wanted you to have it. I must go for this time. Hoping to see my dear little wife soon.\n\u201cFrom your H. Fred Johnson, C. C. H. First Tr. Reg.\u201d\nThere is nothing in the writing evidencing an intent on the part of the writer to bequeath by, through or under the instrument his war risk insurance policy to his wife, the appellant herein. The writing must itself evidence a present purpose of declaring a bequest before it can be characterized as a will. If it merely evidences an intention to make such a provision in the future, then such instrument cannot be interpreted as a will. Cartwright v. Cartwright, 158 Ark. 278, 266 S. W. 11. In the Cartwright case we interpreted the language used in a letter as being sufficient to meet'the requirements of the rule announced above. The language in that case was as follows:\n\u201cI have to pay insurance and Liberty bonds out of my part, then you will get the $5,000 when I die, so you should not want for anything.\u201d\nThe language in the present case does not pretend to declare a present bequest of the writer\u2019s war risk insurance policy, but is merely a message to the effect that the writer intends at a future date to change the beneficiary in his policy from appellee, his sister, to appellant, his wife, because it was his will and wish for her to have it. He did not attempt to give it to her in the letter or to use the letter as a means of bequeathing it to her.\nWe are unable to interpret the letter in'the instant case as being a testamentary document, hence it was not entitled to probate as a holographic will.\nThe judgment is therefore affirmed.",
+        "type": "majority",
+        "author": "Humphreys, J."
+      }
+    ],
+    "attorneys": [
+      "J. N. Rachels and Hays, Priddy & Rorex, for appellant.",
+      "John E. Miller and Culbert L. Pearce, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Johnson v. White.\nOpinion delivered February 14, 1927.\n1. Wills \u2014 testamentary intent. \u2014 To constitute a will, a writing must itself evidence a present purpose to declare a bequest, and not merely intention to make such a provision in the future.\n2. Wills \u2014 testamentary intent. \u2014 A husband\u2019s letter to his wife, expressing his intention to have his war risk insurance policy transferred to her, cannot be interpreted as a will, and is not entitled to probate as a holographic will.\nAppeal from White Circuit Court; E. D. Robertson, Judge;\naffirmed.\nJ. N. Rachels and Hays, Priddy & Rorex, for appellant.\nJohn E. Miller and Culbert L. Pearce, for appellee."
+  },
+  "file_name": "0922-01",
+  "first_page_order": 940,
+  "last_page_order": 941
+}

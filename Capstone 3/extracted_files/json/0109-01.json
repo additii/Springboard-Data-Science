@@ -1,0 +1,743 @@
+{
+  "id": 8719763,
+  "name": "Hardy v. New Rocky Grocery Company",
+  "name_abbreviation": "Hardy v. New Rocky Grocery Co.",
+  "decision_date": "1923-05-14",
+  "docket_number": "",
+  "first_page": "109",
+  "last_page": "117",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "159 Ark. 109"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [
+    {
+      "cite": "77 Ark. 89",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1499064
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/77/0089-01"
+      ]
+    },
+    {
+      "cite": "84 Ark. 610",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1524352
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/84/0610-01"
+      ]
+    },
+    {
+      "cite": "89 Ark. 58",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1515203
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/89/0058-01"
+      ]
+    },
+    {
+      "cite": "73 Ark. 49",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1503967
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/73/0049-01"
+      ]
+    },
+    {
+      "cite": "50 Ala. 503",
+      "category": "reporters:state",
+      "reporter": "Ala.",
+      "case_ids": [
+        5467205
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ala/50/0503-01"
+      ]
+    },
+    {
+      "cite": "46 Ark. 485",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1890467
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/46/0485-01"
+      ]
+    },
+    {
+      "cite": "56 Iowa 520",
+      "category": "reporters:state",
+      "reporter": "Iowa",
+      "case_ids": [
+        2314211
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/iowa/56/0520-01"
+      ]
+    },
+    {
+      "cite": "19 Kan. 335",
+      "category": "reporters:state",
+      "reporter": "Kan.",
+      "case_ids": [
+        588322
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/kan/19/0335-01"
+      ]
+    },
+    {
+      "cite": "45 Ark. 490",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "43 Ark. 391",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1894549
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/43/0391-01"
+      ]
+    },
+    {
+      "cite": "32 N. E. 722",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "133 Ind. 433",
+      "category": "reporters:state",
+      "reporter": "Ind.",
+      "case_ids": [
+        1403231
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ind/133/0433-01"
+      ]
+    },
+    {
+      "cite": "90 Ill. App. 117",
+      "category": "reporters:state",
+      "reporter": "Ill. App.",
+      "case_ids": [
+        1673375
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ill-app/90/0117-01"
+      ]
+    },
+    {
+      "cite": "56 Fed. 570",
+      "category": "reporters:federal",
+      "reporter": "F.",
+      "case_ids": [
+        6719431
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f/56/0570-01"
+      ]
+    },
+    {
+      "cite": "28 S. E. 474",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "97 Ark. 19",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1318820
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/97/0019-01"
+      ]
+    },
+    {
+      "cite": "70 Ark. 200",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1509483
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/70/0200-01"
+      ]
+    },
+    {
+      "cite": "60 Ark. 250",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1903724
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/60/0250-01"
+      ]
+    },
+    {
+      "cite": "40 Ark. 144",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1897152
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/40/0144-01"
+      ]
+    },
+    {
+      "cite": "112 Ark. 83",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1538849
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/112/0083-01"
+      ]
+    },
+    {
+      "cite": "69 Ark. 140",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        8720399
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/69/0140-01"
+      ]
+    },
+    {
+      "cite": "102 Ark. 305",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "27 Ark. 108",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1885720
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/27/0108-01"
+      ]
+    },
+    {
+      "cite": "101 Ark. 135",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1311121
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/101/0135-01"
+      ]
+    },
+    {
+      "cite": "101 Ark. 84",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1310983
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/101/0084-01"
+      ]
+    },
+    {
+      "cite": "91 Ark. 443",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1511826
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/91/0443-01"
+      ]
+    },
+    {
+      "cite": "74 Ark. 88",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        8718365
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/74/0088-01"
+      ]
+    },
+    {
+      "cite": "45 Ark. 485",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1892014
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/45/0485-01"
+      ]
+    },
+    {
+      "cite": "46 Ark. 482",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1890473
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/46/0482-01"
+      ]
+    },
+    {
+      "cite": "112 Ark. 80",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1538803
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/112/0080-01"
+      ]
+    },
+    {
+      "cite": "114 Ark. 261",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1536292
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/114/0261-01"
+      ]
+    },
+    {
+      "cite": "65 Ark. 330",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        609231
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/65/0330-01"
+      ]
+    },
+    {
+      "cite": "100 Ark. 244",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1312220
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/100/0244-01"
+      ]
+    },
+    {
+      "cite": "109 Ark. 120",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1341216
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/109/0120-01"
+      ]
+    },
+    {
+      "cite": "117 Ark. 173",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1564939
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/117/0173-01"
+      ]
+    },
+    {
+      "cite": "62 Ark. 33",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1905631
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/62/0033-01"
+      ]
+    },
+    {
+      "cite": "92 Ark. 315",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1548551
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/92/0315-01"
+      ]
+    },
+    {
+      "cite": "46 Ark. 222",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1890460
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/46/0222-01"
+      ]
+    },
+    {
+      "cite": "31 Ark. 212",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1879218
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/31/0212-01"
+      ]
+    },
+    {
+      "cite": "96 Ark. 506",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "80 Ark. 231",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "93 Ark. 600",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1546825
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/93/0600-01"
+      ]
+    },
+    {
+      "cite": "88 Ark. 454",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1517095
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/88/0454-01"
+      ]
+    },
+    {
+      "cite": "85 Ark. 390",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1523303
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/85/0390-01"
+      ]
+    },
+    {
+      "cite": "77 Ark. 567",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1499134
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/77/0567-01"
+      ]
+    },
+    {
+      "cite": "76 Ark. 599",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1501003
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/76/0599-01"
+      ]
+    },
+    {
+      "cite": "67 Ark. 593",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "55 Ark. 423",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1322244
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/55/0423-01"
+      ]
+    },
+    {
+      "cite": "29 Ark. 139",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "11 Ark. 189",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        8727598
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/11/0189-01"
+      ]
+    },
+    {
+      "cite": "73 Ala. 446",
+      "category": "reporters:state",
+      "reporter": "Ala.",
+      "case_ids": [
+        5546158
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ala/73/0446-01"
+      ]
+    },
+    {
+      "cite": "9 Ark. 1922",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "102 Ark. 302",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1353966
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/102/0302-01"
+      ]
+    },
+    {
+      "cite": "48 Ark. 426",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1887714
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/48/0426-01"
+      ]
+    },
+    {
+      "cite": "9 Ark. 122",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        8727044
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/9/0122-01"
+      ]
+    },
+    {
+      "cite": "30 Ark. 186",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1881231
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/30/0186-01"
+      ]
+    },
+    {
+      "cite": "49 Ark. 40",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1309708
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/49/0040-01"
+      ]
+    },
+    {
+      "cite": "113 Ark. 127",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1537538
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/113/0127-01"
+      ]
+    },
+    {
+      "cite": "111 Ark. 263",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1540431
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/111/0263-01"
+      ]
+    },
+    {
+      "cite": "1 Ark. 117",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "74 Ark. 88",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        8718365
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/74/0088-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 784,
+    "char_count": 17364,
+    "ocr_confidence": 0.485,
+    "pagerank": {
+      "raw": 5.5871947150717865e-08,
+      "percentile": 0.35056368151193373
+    },
+    "sha256": "2a8b4d709c3139a7992517fbc0c26c7bb1504f6987ebb9543779f789954ebd78",
+    "simhash": "1:b786110be6ea14a3",
+    "word_count": 3002
+  },
+  "last_updated": "2024-02-27T18:54:00.643605+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Hart, J., dissents."
+    ],
+    "parties": [
+      "Hardy v. New Rocky Grocery Company."
+    ],
+    "opinions": [
+      {
+        "text": "McCulloch, J.\nAppellant, Mrs. Ida M. Hardy, resides in the city of Little Rock, and she owns a farm, consisting of several hundred acres of land in cultivation, near the town of Foreman, in Little River Oounty. \u25a0 Sbe caused the land to be cultivated by tenants from year to year, and in the year 1920 she rented the land to J. D. Hensley and his son, Osh Hensley. She agreed to assist the Hensleys in obtaining supplies during the year, and on March 27, 1920, she joined them in the execution of- a note for the sum of $800, payable to W.. M. Gathright, a merchant at Foreman, with the agreement that the note should be delivered to Gathright for the purpose of inducing him to furnish supplies to the Hensleys to the extent of the amount of the note, which was made payable on October 1, 1920, with interest. Appellant was living in Little Rock at that time, and the negotiations between her and .the Hensleys were conducted by correspondence, The note was mailed to her, and she signed it and returned it to J. D. Hensley, with authority to deliver it to Gathright. Hensley, after receiving the note, decided to trade with appellee, a copartnership composed of certain individuals doing business under the name of New Rocky Grocery Company, and he took the note to the managers of appellee\u2019s business and opened up negotiations in order to have appellees furnish the supplies. Appellees agreed with Hensley to furnish him supplies to the amount of the note, and there was a change made in the note by erasure of the name of Gathright as payee and the substitution of appellees, under their copartnership name.\nAppellees proceeded to furnish supplies throughout the year to the Hensleys, and they instituted this action, after the maturity of the note and refusal of appellant to pay, to recover the amount of the note.\nThe suit was first instituted in the chancery court, but the court treated a demurrer to the complaint as a motion to transfer, and ordered the cause transferred to the circuit court, where an amended complaint was filed, which, in addition to setting out the cause of action on the note, contained k second paragraph asking a recovery on the account. There was a trial of the case before a jury, and a verdict resulted in favor of appellees. Judgment was rendered accordingly, from which an appeal has been prosecuted.\nTime was given by the court for filing a bill of exceptions, and what purports to be a bill of exceptions, with, the approval of counsel on both sides, was filed within the time allowed. Counsel for appellees contend, however, that the bill of exceptions was not properly certified. The bill of exceptions was not signed by the judge, but it was signed by counsel on both sides and marked \u201cO. K. \u201d The bill of exceptions was designated as such in the caption, and was only certified by the stenographer, who stated in his certificate that it was a correct transcript of the oral proceeding. At the conclusion it is marked in pencil, \u2018\u2018bill of exceptions,\u201d immediately preceding the signatures of counsel, and, as before stated, the signatures followed the designation \u201c0. K\u201d\nThe statutes of this State provide that a bill of exceptions may be certified in a civil case by agreement of counsel, and we have held that it must be an unequivocal certificate.\nWe think that the use of the well-bnown term of approval is sufficient to indicate that it was intended as a certificate to the bill of exceptions, which bore the caption as such. This term has a well-known significance. While its origin is in doubt, it is now recognized by lexicographers as indicating unequivocal approval, and we see no reason why the term should not be accepted as a certificate of the correctness of the bill of exceptions. The statute provides no express form in which the approval shall be manifested, and any word which clearly indicates the intention of the parties to agree upon the instrument as a bill of exceptions, or history of the trial, will be accepted as such. We therefore accept the bill of exceptions as approved, as far as it goes.. There are, however, many exceptions presented here with reference to the court\u2019s charge,-but the bill of exceptions, as approved, does not contain the instructions nor any call for them, therefore we are not at liberty to consider these exceptions. It is true that on certiorari appellant has brought up, under certificate of the clerk, instructions found on file with the other papers in the case, but, as before stated, there was no call in the bill of exceptions for these instructions, and they cannot be considered as a part of the bill of exceptions. Newton v. Russian, 74 Ark. 88. All of the assignments of error with respect to the instructions must therefore fail.\nIt is earnestly contended, however, that the evidence is not sufficient to sustain the verdict, .and this question is properly presented, for the evidence is fully set forth in the bill of exceptions, and in the motion for a new trial the question of the insufficiency of the evidence is properly raised.\nAppellant contended, and so testified, that, while she joined in the execution of the note to be delivered to Gathright, she did not authorize the erasure of Gath-right\u2019s name and the substitution of appellees\u2019 as payees in the note, that she did not have any knowledge of the substitution until after the maturity of the note, and that she did not ratify it. She testified that she did not enter into any obligation with appellees in any other form to pay for supplies furnished to her tenants.\nIt is undisputed that appellant did not authorize the substitution of appellees as payees in the note, and that she did not know of the change at the time, and intrusting to Hensley the custody of the note, with authority to deliver it to Gathright, the payee, did not carry with it apparent authority to change the name of the payee. The change was apparent on its face, and it is undisputed that appellees knew of the substitution. There is a little conflict in the testimony as to the circumstances under which the substitution was made, but it is undisputed that the change was made in a conference between Hensley and witness 'Covington, who was then a member of the firm. According to Hensley\u2019s testimony, he proposed to Covington that the note be returned to appellant and that a new note be obtained from her, payable to appellees, but Covington said that it'would be hnnec-essary to do that, that, it would be just as easy to erase Gathriglit\u2019s name and substitute appellees\u2019 as the payees, and that this was done. Covington testified that Hensley authorized hin-n to make the substitution. We think, however, that the evidence is sufficient to sustain the finding that appellant, with knowledge of all the facts, had ratified the substitution of appellees as payees of the note. Appellees furnished to the Hensleys supplies to the extent of the note, and about the time the note matured, or at least a few days afterwards, appellees wrote to appellant notifying her of the maturity of the note, and calling on her for payment. The letter is not brought into the record, but appellant was examined with reference to it, and it is fairly inferable from her testimony that she was apprised of its contents, to the effect that ap-pellees were holders of the note that she had signed, and that, with this knowledge, she ratified the act of substitution. She immediately replied, in a letter to appellees, acknowledging receipt of their letter, and, after making some reference to the crops of the Hensleys, she made this statement: \u201cI am not able to pay anything now myself, so you will look to him for pay. I did not know the note was due yet. You surely can wait until he gathers his crop and let him pay as he gets his cotton out. Let me hear from you how he gets on. \u2019 \u2019\nThere was other correspondence, which shows that appellant was treating the note as a valid liability. Letters were written by her husband, 'which she says were not expressly authorized, but it is a .fair inference to be drawn from the testimony that she intrusted her business to her husband, who wrote the letters. The letter referred to above, however,, was written by appellant herself. She states that at the time she wrote this letter she did not know of the erasure and substitution of ap-pellees as payees, but supposed that the note had been transferred by Gathright.\nAccording to the evidence, the substitution was made innocently and without any intention to perpetrate a fraud, and for the sole purpose of securing supplies for appellant\u2019s tenants. Tlie parties, in making the erasure and substitution, clearly intended merely a method of transferring the note from Gathright to appellees.\nIf appellant, with knowledge that appellees had furnished supplies to the Hensleys on the faith of this note, ratified it by treating it as an existing liability on her part, it is unimportant that she supposed at the time that the note had been transferred by Gathright, instead of the name of appellees being substituted.\nThere are several assignments of error with respect to the admission of testimony. The first one is that the court erred in permitting appellees to ask appellant the question whether or not it made any difference to her where the Hensleys obtained supplies \u2014 whether they obtained them from Gathright or from appellees. We think this testimony was competent for the purpose of showing appellant\u2019s state of mind with respect to the ratification. In other words, it was competent to show, in determining whether or not she ratified the substitution, that it was a matter of indifference to her whether the tenants obtained the supplies' from Gathright or appel-lees. Moreover, the answer of appellant to the inquiry completely dissipated any prejudicial effect which the inquiry might have had, even if it was incompetent. She replied to the inquiry by stating that she preferred to deal with Gathright because she liad met him and had had a talk with Gathright prior to the execution of the note.\nAgain, it is contended that error was committed in permitting witness' Covington to state that the erasure in the note and the substitution of appellees as payees was made at the suggestion or request of Hensley. This was competent as tending to show that the substitution uvas innocently made and without intention to defraud, and under an assertion of authority by Hensley to act for appellant. It was not competent as substantive evidence of any authority on the part of Hensley to direct the change to be made, but, if appellant desired a re-. striction to be put upon the consideration of tbe testimony to a particular purpose, a request to that effect should have been made. It does not appear from the record that any such request was made, and we do not think there was any error in this respect.\nAnother assignment relates to the admission of the testimony of the witness Pullen, one of the appellees, to the effect that they would not have advanced supplies to .Hensley without security. This was competent to show that appellees advanced the supplies in good faith and upon the honest belief that they were holding the note executed by appellant as security for the debt.\nThere are other assignments not of sufficient importance to discuss, and, on the whole, we find no error in the record, and the judgment is affirmed.\nHart, J., dissents.",
+        "type": "majority",
+        "author": "McCulloch, J."
+      }
+    ],
+    "attorneys": [
+      "Reynolds & Steel, for appellants.",
+      "Johnson & Shaver, for appellees.",
+      "Reynolds & Steel, in reply."
+    ],
+    "corrections": "",
+    "head_matter": "Hardy v. New Rocky Grocery Company.\nOpinion delivered May 14, 1923.\n1. Exceptions, bill of \u2014 agreed bill \u2014 sufficiency of approval.\u2014 Under Crawford & Moses\u2019 Digest, \u00a7 1323, providing that where the parties to an action agree in writing upon the correctness of a bill of exceptions by indorsement thereon, it may be filed, held that when the attorneys on both sides o. k. a bill of exceptions and sign their names, it will be accepted as a correct bill of exceptions.\n2. Appeal and error \u2014 matters not included in bill of exceptions. \u2014 Where a bill of exceptions as approved does not contain the court\u2019s instructions nor any call for them to be copied, instructions found among the papers and certified by the clerk cannot be considered on appeal.\n3. Principal and agent \u2014 unauthorised act of agent \u2014 ratification. \u2014 Where a landlord signed a -\"ote with her tenant to procure supplies for the tenant from one merchant named as payee, and the note was in good faith altered by substituting another merchant as payee, without the landlord\u2019s knowledge, held where the landlord by letter treated the note so changed as being an existing liability, she will be considered to have ratified it, and it is immaterial that at the time of such ratification she supposed that the note had been transferred by the original payee, instead of another payee being substituted.\n4. Landlord and tenant \u2014 ratification of tenant\u2019s act \u2014 evidence. \u2014 Where it was contended that a landlord ratified the substitution of the payee in a note executed by her jointly with her tenant, to secure supplies to be furnished to the tenant, it was competent on the issue of ratification to prove that it made no difference to the landlord where the tenant obtained his supplies.\n5. Appeal and error \u2014 necessity of request for restriction of testimony. \u2014 Where testimony was admissible for one purpose, but not for another, appellant cannot complain because the court failed to restrict the consideration of the testimony, if no request was made t\u00f3 that effect.\n6. Landlord and tenant \u2014 advances to tenant \u2014 evidence.\u2014\u25a0 . Testimony of a merchant supplying a tenant that he would not have advanced supplies to the tenant without security was competent to show that the merchant made advances in good faith in reliance upon the landlord\u2019s note executed as security for such advances.\nAppeal from-Little River Circuit Court; James 8. Steel, Judge;\naffirmed.\nReynolds & Steel, for appellants.\nThe court erred in permitting appellees to change their cause of action and sue on the note and also on account for supplies furnished. There is mo testimony showing either that appellant purchased or authorized the purchase of supplies from appellees, nor that she executed the note payable to them. The evidence does not support the verdict. The note was altered after its execution by appellant, the name of the payee being erased and appellee\u2019s name substituted, without appellant\u2019s knowledge or consent, rendering same void as to her. Sections 7890, 7891, C. & M. Digest; 1 Ark. 117; 111 Ark. 263; 113 Ark. 127; 49 Ark. 40; 30 Ark. 186.; 9 Ark. 122; 48 Ark. 426; 102 Ark. 302. There was no assent to or ratification of the alteration by appellant. 7 Words & Phrases, 528-531; 9 Ark. 1922; 73 Ala. 446; Am. & Eng. Enc. 1189; 11 Ark. 189; 29 Ark. 139; 55 Ark. 423. Error, in permitting appellant to be asked if it made any difference to her whether the supplies were purchased from Gathright or appellees, whose name was substituted in the note. Court erred also in admitting testimony of witnesses Pullen and Covington. Instructions 1 and 2 were abstract and misleading. 67 Ark. 593; 76 Ark. 599; 77 Ark. 567; 85 Ark. 390; 88 Ark. 454. Agency. 93 Ark. 600; 80 Ark. 231; 96 Ark. 506; 31 Ark. 212; 46 Ark. 222; 92 Ark. 315. Persons dealing with agent must ascertain nature and extent of authority. 62 Ark. 33; 117 Ark. 173; 55 Ark.' 423. The court should have directed a verdict for appellant in note sued on. Erred in refusing appellant\u2019s requested instructions C to J, inclusive.\nJohnson & Shaver, for appellees.\nThere must be an affirmance, since there is no proper bill of exceptions in the case. There is no certificate of the judge, nor does the purported bill contain any of the instructions given or refused. Secs. 1321, 1322, 1323, C. & M. Digest. Not a sufficient compliance with. \u00a7 1323 to constitute a bill of exceptions by agreement of counsel. 109 Ark. 120; 100 Ark. 244; 65 Ark. 330; 114 Ark. 261; 112 Ark. 80. Instructions brought up on cer-tiorari cannot be considered part of bill of exceptions. 46 Ark. 482; 45 Ark. 485; 74 Ark. 88; 91 Ark. 443; 101 Ark. 84. This leaves nothing but question of .sufficiency of evidence to support the verdict for consideration here. Appellant signed the note for supplies for her tenants, and the alteration did not release her from liability to pay it. 101 Ark. 135. \u00a1Burden of proof on appellant to show material alteration. 27 Ark. 108; 102 Ark. 305; 69 Ark. 140; 112 Ark. 83; 191 S. W. (Ark.) 960. Where there is any substantial evidence to support the verdict it wall not be disturbed. 40 Ark. 144; 60 Ark. 250. If note void, recovery may be had on contract of sale. 70 Ark. 200; 97 Ark. 19. There was no error in the introduction of testimony. The judgment is right, and should be affirmed.\nReynolds & Steel, in reply.\nBill of exceptions sufficient. Sec. 1323, C. & M. Digest. The O. K. signed by counsel constituted an agreement in writing to the correctness of the bill. Meaning of term \u201cO. K.\u201d 28 S. E. 474; 56 Fed. 570; 90 Ill. App. 117; 133 Ind. 433; 32 N. E. 722; 5 Words & Phrases 4871. The bill of exceptions shows the numbers of the instructions given and refused; identifies them, and the certiorari brings them into the record so numbered. 43 Ark. 391; 45 Ark. 490; 19 Kan. 335; 56 Iowa 520: 46 Ark. 485: 50 Ala. 503; 73 Ark. 49; 89 Ark. 58. Note never delivered to payee and did not become binding on appellant. 84 Ark. 610; 77 Ark. 89."
+  },
+  "file_name": "0109-01",
+  "first_page_order": 135,
+  "last_page_order": 143
+}

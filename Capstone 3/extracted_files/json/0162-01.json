@@ -1,0 +1,151 @@
+{
+  "id": 8719452,
+  "name": "Taylor v. State",
+  "name_abbreviation": "Taylor v. State",
+  "decision_date": "1932-09-26",
+  "docket_number": "Cr. 3814",
+  "first_page": "162",
+  "last_page": "165",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "186 Ark. 162"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [
+    {
+      "cite": "248 S. W. 568",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "157 Ark. 503",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1357218
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/157/0503-01"
+      ]
+    },
+    {
+      "cite": "212 S. W. 93",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "139 Ark. 13",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1596416
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/139/0013-01"
+      ]
+    },
+    {
+      "cite": "147 S. W. 463",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "104 Ark. 163",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "254 S. W. 542",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "160 Ark. 283",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        8721602
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/160/0283-01"
+      ]
+    },
+    {
+      "cite": "241 S. W. 901",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "154 Ark. 188",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1361254
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/154/0188-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 275,
+    "char_count": 4357,
+    "ocr_confidence": 0.488,
+    "pagerank": {
+      "raw": 7.66950034094308e-08,
+      "percentile": 0.45232096543080313
+    },
+    "sha256": "8d6f97df0584868a3c32e645043fba118f737ffb1bff3467266b1f352596ff88",
+    "simhash": "1:e08d25231adf49d1",
+    "word_count": 762
+  },
+  "last_updated": "2024-02-27T17:52:01.123529+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Taylor v. State."
+    ],
+    "opinions": [
+      {
+        "text": "Mehaeey, J.\nThe appellant was convicted of the crime of selling liquor, and his punishment was fixed at one year in the penitentiary. This appeal is prosecuted to reverse said judgment of conviction.\nThe first count in the indictment, the count on which appellant was tried, is as follows: \u201cThe Grand Jury of Pope County in the name and by the authority of the State of Arkansas accuses H. T. Taylor of the crime of selling liquor committed as follows, to-wit: The said H. T. Taylor in the county and State aforesaid, on the 15th day of October, 1931, did willfully, unlawfully, and feloniously sell and give away, and was willfully, unlawfully and feloniously interested directly and indirectly in the sale and giving away of ardent, vinous, malt, spirituous and fermented liquors and alcoholic spirits and a certain compound and preparation thereof commonly called tonics, bitters and medicated liquors, against the peace and dignity of the State of Arkansas.\u201d\nIt is contended by appellant, first, that the evidence is not sufficient to sustain the verdict. J. A. Worsham and Fred Martin each testified that he bought whiskey from appellant. This evidence was contradicted by appellant and his witnesses, but whether the evidence of the State\u2019s witnesses was true or not was a question for the jury and not for this court. It would serve no useful - purpose to set forth the evidence. Where the evidence is conflicting, as it is in this case, the verdict of the jury is conclusive. It is the settled rule in this State that the credibility of the witnesses and weight to be given their testimony are questions for the jury, and, if the verdict is supported by substantial evidence, it cannot be disturbed by this court.\n\u201cUnder the settled rule in this State, the jury are the judges of the credibility of the witnesses, and where there is any evidence of a substantial character to support the verdict of a jury, we are not at liberty to disturb it upon appeal, notwithstanding we might believe it was against the weight of the evidence. \u2019 \u2019 Fields v. State, 154 Ark. 188, 241 S. W. 901; Cox v. State, 160 Ark. 283, 254 S. W. 542; Rhea v. State, 104 Ark. 163, 147 S. W. 463; Nelson v. State, 139 Ark. 13, 212 S. W. 93.\nAppellant also contends that the testimony of Fred Martin was inadmissible, and that it should have been excluded. It is insisted that appellant was placed on trial in the case wherein J. A. Worsham was the prosecuting witness. There is nothing in the record tending to show this. Appellant was not charged with selling whiskey to Worsham. It will be observed from the indictment above set out that he was simply charged with selling whiskey without naming the party to whom it was sold. ' The evidence of Martin was therefore admissible.\nAppellant says that the sale to Martin was not charged in the indictment. We have already shown that the indictment did not name the person to whom the whiskey was sold. It is true that Worsham\u2019s name was on the indictment, and Fred Martin\u2019s name was not indorsed on the indictment, but the question of Fred Martin \u2019s name not being indorsed on the indictment was not raised in the motion for new trial. The motion merely stated that his testimony was incompetent, and that the court should have excluded it. The statute requiring the names of witnesses to be indorsed on the indictment is directory. Wood v. State, 157 Ark. 503, 248 S. W. 568.\nAppellant made no request to have the names of the witnesses indorsed on the indictment, and no request was made for a list of names of the witnesses. Appellant testified that he did not sell liquor to Fred Martin at the time Martin said he bought it or at any other time, but be did not claim either at the time Martin testified or at any other time that he could have other witnesses to contradict Martin. He would not he entitled to a new trial on account of Martin\u2019s testimony without making some showing that, if a new trial was granted, he could produce witnesses to contradict Martin. This he did not offer to do. No other question is argued by appellant. The jury was properly instructed, there was substantial evidence to sustain the verdict, and the judgment is affirmed.",
+        "type": "majority",
+        "author": "Mehaeey, J."
+      }
+    ],
+    "attorneys": [
+      "Robert Bailey, for appellant.",
+      "Hal L. Norwood, Attorney General, and Pat Mehaffy, Assistant, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Taylor v. State.\nCr. 3814\nOpinion delivered September 26, 1932.\nRobert Bailey, for appellant.\nHal L. Norwood, Attorney General, and Pat Mehaffy, Assistant, for appellee."
+  },
+  "file_name": "0162-01",
+  "first_page_order": 182,
+  "last_page_order": 185
+}

@@ -1,0 +1,193 @@
+{
+  "id": 1388564,
+  "name": "Orto v. Sweatt",
+  "name_abbreviation": "Orto v. Sweatt",
+  "decision_date": "1923-12-24",
+  "docket_number": "",
+  "first_page": "621",
+  "last_page": "624",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "161 Ark. 621"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [
+    {
+      "cite": "149 Ark. 433",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "104 Ark. 406",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "114 Ark. 415",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1536327
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/114/0415-01"
+      ]
+    },
+    {
+      "cite": "98 Ark. 221",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "124 Ark. 585",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1555046
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/124/0585-01"
+      ]
+    },
+    {
+      "cite": "103 Ark. 105",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1352022
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/103/0105-01"
+      ]
+    },
+    {
+      "cite": "34 Ark. 346",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1875718
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/34/0346-01"
+      ]
+    },
+    {
+      "cite": "30 Ark. 745",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1881139
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/30/0745-01"
+      ]
+    },
+    {
+      "cite": "12 Ark. 428",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "57 Ark. 216",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1324588
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/57/0216-01"
+      ]
+    },
+    {
+      "cite": "45 Vt. 369",
+      "category": "reporters:state",
+      "reporter": "Vt.",
+      "case_ids": [
+        4430233
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/vt/45/0369-01"
+      ]
+    },
+    {
+      "cite": "130 Pac. 107",
+      "category": "reporters:state_regional",
+      "reporter": "P.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "61 Pac. 660",
+      "category": "reporters:state_regional",
+      "reporter": "P.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "37 S. E. 632",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 365,
+    "char_count": 6576,
+    "ocr_confidence": 0.467,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.0521821928614371
+    },
+    "sha256": "d2592cf41ad81575205897bfcb7b02c20084b359e1bca9ca21059555ac354f11",
+    "simhash": "1:b2d55aab49543b6e",
+    "word_count": 1149
+  },
+  "last_updated": "2024-02-27T21:32:42.656819+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Orto v. Sweatt."
+    ],
+    "opinions": [
+      {
+        "text": "Smith, J.\nThis is a suit in replevin to recover possession of certain plate-glass showcases. The cases have marble bases, and are very heavy and valuable. There was a verdict and judgment for the defendant, and the plaintiff has appealed.\nThe point in issue is reflected by an instruction numbered 3, given over the objection of the plaintiff, the trustee in bankruptcy of Elkins. It reads as follows: \u201cIf you find from a preponderance of the evidence in this case that M. L. Elkins sold Doctor Collier an automobile and took the show-cases as part of the payment on the purchase money, then the court instructs you that this was an absolute sale of the property to M.. L. Elkins, and you will find for the plaintiff, unless you find that, subsequent thereto, and before the petition in bankruptcy was filed, there was a contract and agreement between the parties, mutually understood and agreed, that the title should be reserved in Doctor Collier until the show-cases were paid for and the mortgage satisfied on the automobile. In order to convey the title back in Doctor Collier, it is necessary for the proof to show that there was a positive agreement between the two that the title should he reserved in Doctor Collier until the mortgage was discharged, and this before the petition was filed. If you do not so find, you will find for the plaintiff. \u2019 \u2019\nAppellant concedes that, if this instruction correctly declares the law, and that there was testimony upon which to base it, this ease will have to be affirmed; but he questions both the soundness of the legal proposition there announced and the sufficiency of the testimony upon which to base it.\nDr. Collier testified that he traded the show-cases to Elkins for an automobile, but, after doing so, he was informed that the Citizens\u2019 Bank of Pine Bluff had a mortgage on the automobile, whereupon he saw Elkins, who admitted this was true, so he and Elkins agreed that witness \u201cshould hold the cases until the mortgage was settled.\u201d Witness further explained the new contract about the cases, after discovering there was a mortgage on them, as follows: \u201cI just figured the cases were mine until he paid the mortgage off. \u2019 \u2019 The mortgage was later paid, whereupon a bill of sale was executed, this being the first and only bill of sale given.\nThere was also testimony that, after the new eon-tract, wherein it was agreed that Collier should hold the show-cases until the mortgage was paid, Elkins assumed no authority or control over the cases, and they were not moved, and, when Elkins listed his assets at the time he filed his petition in bankruptcy, he did not include the show-cases, and they were pointed out at the time as being in the possession of Collier.\nWe do not undertake to review all the testimony, but we have set out enough of it to show that the instruction was not abstract. The court, in effect, told the jury to find for the plaintiff unless there was a rescission of the first sale and a second sale with a reservation of title.\nWe know of no legal reason why the first sale might not have been rescinded, especially after it was made known that the consideration therefor had partly failed, in that the automobile was mortgaged, and, if it was rescinded, we know of no reason why the show-cases might not have been resold with a reservation of the title, and such is the effect of Collier\u2019s testimony. There was never an actual delivery of the show-cases at the time of either sale. After the second contract was made the show-cases were pointed out, and Elkins ' stated that they .were not his and were not in his possession, but belonged to Collier and were in Collier\u2019s possession. Moreover, as we have said, there was never but one bill of sale, and this was not made until after the mortgage on the automobile had been paid.\nWe think there is no question of a lack of delivery to validate this second contract. There had been only a constructive delivery to Elkins under the first contract, and there was a constructive delivery under the second contract, and, in addition, the show-cases were pointed out as being the property of Collier after the second contract was made, and no manual delivery of the cases was ever made until the mortgage was discharged and the bill of sale was executed, until which time Collier had retained the title by virtue of the second contract whereby he retook the title conveyed by the first contract.\nThis second contract may have been unusual, but it was not unlawful or impossible, and if, after selling the show-cases, that sale was rescinded, we kn'ow of no reason why a second sale thereof might not.have been made with a reservation of title. The instruction set out above submits this issue, and the objection to the instruction is that it told the jury the title could be reserved in Collier by a subsequent agreement, although there had been a prior sale under which the title had passed; but, as we have said, parties competent to contract have the right to sell and to rescind and to resell, and the judgment of the court below must therefore be affirmed.",
+        "type": "majority",
+        "author": "Smith, J."
+      }
+    ],
+    "attorneys": [
+      "Reinberger \u00a3 Reinberger, for appellant.",
+      "Rowell \u00a3 Alexander, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Orto v. Sweatt.\nOpinion delivered December 24, 1923.\n1. Sales \u2014 rescission and resale \u2014 jury question. \u2014 Evidence held sufficient lor submission o\u00ed issue whether the parties to a sale rescinded it and then made a new sale, with reservation of title in the seller until a mortgage on other property to be received in payment, was paid.-\n2. Sales \u2014 rescission and resale. \u2014 Parties to a sale may rescind it and make a new sale with reservation of title in this seller until a mortgage on other property, which was to be in payment, is discharged.\nAppeal from Jefferson Circuit Court; W. B. Sorrels, Judge;\naffirmed.\nReinberger \u00a3 Reinberger, for appellant.\nThe court erred in overruling the motion for new trial. A reservation of title must be contemporaneous ' with the sale. 37 S. E. 632; 61 Pac. 660; 130 Pac. 107; 45 Vt. 369. There can be no verbal mortgages. 57 Ark. 216; 12 Ark. 428; 30 Ark. 745; 34 Ark. 346.\nRowell \u00a3 Alexander, for appellee.\nWhere a verdict or judgment is correct under any theory of the case, this court will not reverse. 103 Ark. 105. A sale may be proved by circumstances as well as by affirmative evidence. 124 Ark. 585. Instruction number three was more favorable to appellant than the evidence justified. 98 Ark. 221. A contract must be interpreted in accordance with the intention of the parties. 114 Ark. 415; 104 Ark. 406. Contracts for the conditional sale of personal property with reservation of title are not required to be in writing. 149 Ark. 433."
+  },
+  "file_name": "0621-01",
+  "first_page_order": 649,
+  "last_page_order": 652
+}

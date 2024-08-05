@@ -1,0 +1,66 @@
+{
+  "id": 1432098,
+  "name": "Commercial Warehouse v. State",
+  "name_abbreviation": "Commercial Warehouse v. State",
+  "decision_date": "1933-07-10",
+  "docket_number": "Crim. 3848",
+  "first_page": "851",
+  "last_page": "851",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "187 Ark. 851"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 156,
+    "char_count": 1631,
+    "ocr_confidence": 0.517,
+    "pagerank": {
+      "raw": 2.1618190013584225e-07,
+      "percentile": 0.7699018359757653
+    },
+    "sha256": "35a24a38d0a51eebf99d2409b8a14f64f8a5b9ea11ab2ca0ccd0351f59e45e5e",
+    "simhash": "1:09318847c5cf731d",
+    "word_count": 294
+  },
+  "last_updated": "2023-07-14T19:49:01.606684+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Commercial Warehouse v. State."
+    ],
+    "opinions": [
+      {
+        "text": "McHaney, J.\nAppellant was convicted on a charge of overloading one of its trucks and operating same over the streets of Little Rock. The truck was rated by the manufacturer as a 2%-ton truck, and appellant had paid a license fee thereon based upon such tonnage. At the time the truck was stopped and the driver arrested, it was carrying 514 tons. The license fee for a 214-ton truck and which appellant paid is $90. The license fee for a 6-ton truck is $400. See act 36, Acts 1933. Section 24 of act 65 of 1929, subsection (N), makes it unlawful for any person to operate a vehicle on the public roads in this State without having paid the fee required by this act. If appellant could obtain a license for a 214-ton truck and then haul 5 or 6 ton loads, it would escape the payment of the higher license fee required by law for such loads. The object of the lawmakers seems to have been to require the payment of license fees in proportion to the load capacity of the vehicles, because the heavier the load, the more the damage is to the highways over which it operates. Therefore, if appellant wishes to operate its truck on a 214-ton license, it should limit its load to 2'14 tons. If it wishes to have a greater tonnage, then it should get a license covering the greater load. It would not be thought proper to operate a Cadillac automobile with a Ford license, yet the same principle is involved.\nAffirmed.",
+        "type": "majority",
+        "author": "McHaney, J."
+      }
+    ],
+    "attorneys": [
+      "House & Moses and Richard G. Butler, for appellant.",
+      "Hal L. Norwood, Attorney General, Pat Mehaffy, Assistant, and Earl R. Wiseman, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Commercial Warehouse v. State.\nCrim. 3848\nOpinion delivered July 10, 1933.\nHouse & Moses and Richard G. Butler, for appellant.\nHal L. Norwood, Attorney General, Pat Mehaffy, Assistant, and Earl R. Wiseman, for appellee."
+  },
+  "file_name": "0851-01",
+  "first_page_order": 871,
+  "last_page_order": 871
+}

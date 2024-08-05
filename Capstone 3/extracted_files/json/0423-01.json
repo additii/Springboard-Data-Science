@@ -1,0 +1,981 @@
+{
+  "id": 4242232,
+  "name": "The State of Washington, Respondent, v. James Leroy Lindsay, Sr., Petitioner; The State of Washington, Respondent, v. Jennifer Sarah Holmes, Petitioner",
+  "name_abbreviation": "State v. Lindsay",
+  "decision_date": "2014-05-08",
+  "docket_number": "No. 88437-4",
+  "first_page": "423",
+  "last_page": "444",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "180 Wash. 2d 423"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Wash.",
+    "id": 9029,
+    "name": "Washington Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 38,
+    "name_long": "Washington",
+    "name": "Wash."
+  },
+  "cites_to": [
+    {
+      "cite": "236 F.3d 777",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        11167736
+      ],
+      "year": 2001,
+      "pin_cites": [
+        {
+          "page": "788",
+          "parenthetical": "significant that \"prosecutor's improper comments occurred during his rebuttal argument and therefore were the last words from an attorney that were heard by the jury before deliberations\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/236/0777-01"
+      ]
+    },
+    {
+      "cite": "659 F.3d 1252",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3840164
+      ],
+      "year": 2011,
+      "pin_cites": [
+        {
+          "page": "1259",
+          "parenthetical": "significant that prosecutor made improper statement \"at the end of his closing rebuttal argument, after which the jury commenced its deliberations\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/659/1252-01"
+      ]
+    },
+    {
+      "cite": "286 P.3d 673",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "weight": 2,
+      "year": 2012,
+      "pin_cites": [
+        {
+          "parenthetical": "alteration in original"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "175 Wn.2d 696",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4024155
+      ],
+      "year": 2012,
+      "pin_cites": [
+        {
+          "page": "707"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/175/0696-01"
+      ]
+    },
+    {
+      "cite": "298 P.2d 500",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1956,
+      "opinion_index": 0
+    },
+    {
+      "cite": "49 Wn.2d 66",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        999382
+      ],
+      "year": 1956,
+      "pin_cites": [
+        {
+          "page": "71"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/49/0066-01"
+      ]
+    },
+    {
+      "cite": "257 P.3d 551",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2011,
+      "pin_cites": [
+        {
+          "parenthetical": "\"The prosecutor owes a duty to defendants to see that their rights to a constitutionally fair trial are not violated.\" (citing State v. Case, 49 Wn.2d 66, 71, 298 P.2d 500 (1956))"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "171 Wn.2d 667",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4015929
+      ],
+      "year": 2011,
+      "pin_cites": [
+        {
+          "page": "676",
+          "parenthetical": "\"The prosecutor owes a duty to defendants to see that their rights to a constitutionally fair trial are not violated.\" (citing State v. Case, 49 Wn.2d 66, 71, 298 P.2d 500 (1956))"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/171/0667-01"
+      ]
+    },
+    {
+      "cite": "149 P.3d 646",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2006,
+      "opinion_index": 0
+    },
+    {
+      "cite": "159 Wn.2d 252",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        3593136
+      ],
+      "year": 2006,
+      "pin_cites": [
+        {
+          "page": "276-77"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/159/0252-01"
+      ]
+    },
+    {
+      "cite": "592 F.2d 496",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        53086
+      ],
+      "year": 1978,
+      "pin_cites": [
+        {
+          "page": "499"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/592/0496-01"
+      ]
+    },
+    {
+      "cite": "278 P.3d 653",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "weight": 3,
+      "year": 2012,
+      "pin_cites": [
+        {
+          "parenthetical": "citing Anderson, 153 Wn. App. at 427"
+        },
+        {
+          "page": "762"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "174 Wn.2d 741",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4022108
+      ],
+      "weight": 2,
+      "year": 2012,
+      "pin_cites": [
+        {
+          "page": "760",
+          "parenthetical": "citing Anderson, 153 Wn. App. at 427"
+        },
+        {
+          "page": "762"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/174/0741-01"
+      ]
+    },
+    {
+      "cite": "721 P.2d 30",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1986,
+      "opinion_index": 0
+    },
+    {
+      "cite": "44 Wn. App. 290",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        1800958
+      ],
+      "year": 1986,
+      "pin_cites": [
+        {
+          "page": "296"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/44/0290-01"
+      ]
+    },
+    {
+      "cite": "5 P.3d 47",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2000,
+      "opinion_index": 0
+    },
+    {
+      "cite": "101 Wn. App. 619",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        1170530
+      ],
+      "year": 2000,
+      "pin_cites": [
+        {
+          "page": "621"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/101/0619-01"
+      ]
+    },
+    {
+      "cite": "98 L. Ed. 654",
+      "category": "reporters:federal",
+      "reporter": "L. Ed.",
+      "year": 1954,
+      "opinion_index": 0
+    },
+    {
+      "cite": "347 U.S. 227",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11300100
+      ],
+      "weight": 2,
+      "year": 1954,
+      "pin_cites": [
+        {
+          "page": "229"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/347/0227-01"
+      ]
+    },
+    {
+      "cite": "684 P.2d 699",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "weight": 2,
+      "year": 1984,
+      "pin_cites": [
+        {
+          "parenthetical": "citing Am. Bar Ass'n, Model Code of Professional Responsibility and Code of Judicial Conduct \u00a7 DR 7-106(C)(4) (1980)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "102 Wn.2d 140",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1137135
+      ],
+      "year": 1984,
+      "pin_cites": [
+        {
+          "page": "145",
+          "parenthetical": "citing Am. Bar Ass'n, Model Code of Professional Responsibility and Code of Judicial Conduct \u00a7 DR 7-106(C)(4) (1980)"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/102/0140-01"
+      ]
+    },
+    {
+      "cite": "265 P.3d 191",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "weight": 2,
+      "year": 2011,
+      "pin_cites": [
+        {
+          "parenthetical": "\"We rely on Anderson [as opposed to Curtiss] in our determination the statements in the present case are improper conduct.\""
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "164 Wn. App. 724",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        4021969
+      ],
+      "weight": 3,
+      "year": 2011,
+      "pin_cites": [
+        {
+          "page": "733",
+          "parenthetical": "\"We rely on Anderson [as opposed to Curtiss] in our determination the statements in the present case are improper conduct.\""
+        },
+        {
+          "page": "732-33",
+          "parenthetical": "\" 'The word \"verdict\" comes from a Latin word, \"veredictum.\" Veredictum means to declare the truth. And so by your verdict in this case, you folks, the 12 of you who will deliberate, will decide the truth of what happened ....'\""
+        },
+        {
+          "page": "737"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/164/0724-01"
+      ]
+    },
+    {
+      "cite": "220 P.3d 1273",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2009,
+      "opinion_index": 0
+    },
+    {
+      "cite": "153 Wn. App. 417",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        5752163
+      ],
+      "weight": 4,
+      "year": 2009,
+      "pin_cites": [
+        {
+          "page": "431"
+        },
+        {
+          "page": "429"
+        },
+        {
+          "page": "430"
+        },
+        {
+          "page": "427"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/153/0417-01"
+      ]
+    },
+    {
+      "cite": "297 P.3d 68",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2013,
+      "opinion_index": 0
+    },
+    {
+      "cite": "176 Wn.2d 1006",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "year": 2013,
+      "opinion_index": 0
+    },
+    {
+      "cite": "282 P.3d 126",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2012,
+      "opinion_index": 0
+    },
+    {
+      "cite": "169 Wn. App. 797",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        4028228
+      ],
+      "year": 2012,
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/169/0797-01"
+      ]
+    },
+    {
+      "cite": "250 P.3d 496",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2011,
+      "opinion_index": 0
+    },
+    {
+      "cite": "161 Wn. App. 673",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        4015637
+      ],
+      "year": 2011,
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/161/0673-01"
+      ]
+    },
+    {
+      "cite": "165 P.3d 1241",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2007,
+      "opinion_index": 0
+    },
+    {
+      "cite": "161 Wn.2d 303",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        3801719
+      ],
+      "year": 2007,
+      "pin_cites": [
+        {
+          "page": "315"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/161/0303-01"
+      ]
+    },
+    {
+      "cite": "243 P.3d 936",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2010,
+      "opinion_index": 0
+    },
+    {
+      "cite": "158 Wn. App. 677",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        4005383
+      ],
+      "year": 2010,
+      "pin_cites": [
+        {
+          "page": "682"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/158/0677-01"
+      ]
+    },
+    {
+      "cite": "147 P.3d 1201",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2006,
+      "opinion_index": 0
+    },
+    {
+      "cite": "158 Wn.2d 759",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        3085961
+      ],
+      "year": 2006,
+      "pin_cites": [
+        {
+          "page": "859-60"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/158/0759-01"
+      ]
+    },
+    {
+      "cite": "258 P.3d 43",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2011,
+      "pin_cites": [
+        {
+          "parenthetical": "citing Warren, 165 Wn.2d at 29"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "172 Wn.2d 438",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4018144
+      ],
+      "year": 2011,
+      "pin_cites": [
+        {
+          "page": "451-52",
+          "parenthetical": "citing Warren, 165 Wn.2d at 29"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/172/0438-01"
+      ]
+    },
+    {
+      "cite": "45 P.3d 205",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2002,
+      "opinion_index": 0
+    },
+    {
+      "cite": "111 Wn. App. 276",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        1071921
+      ],
+      "year": 2002,
+      "pin_cites": [
+        {
+          "page": "283"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/111/0276-01"
+      ]
+    },
+    {
+      "cite": "314 P.3d 380",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2013,
+      "pin_cites": [
+        {
+          "parenthetical": "Gonzalez, J., concurring"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "179 Wn.2d 322",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4033270
+      ],
+      "year": 2013,
+      "pin_cites": [
+        {
+          "page": "371",
+          "parenthetical": "Gonzalez, J., concurring"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/179/0322-01"
+      ]
+    },
+    {
+      "cite": "721 F.2d 1193",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1908935
+      ],
+      "weight": 2,
+      "year": 1983,
+      "pin_cites": [
+        {
+          "page": "1195",
+          "parenthetical": "per curiam"
+        },
+        {
+          "page": "1194"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/721/1193-01"
+      ]
+    },
+    {
+      "cite": "863 P.2d 137",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1993,
+      "opinion_index": 0
+    },
+    {
+      "cite": "72 Wn. App. 62",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        1741904
+      ],
+      "weight": 2,
+      "year": 1993,
+      "pin_cites": [
+        {
+          "page": "67"
+        },
+        {
+          "page": "66"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/72/0062-01"
+      ]
+    },
+    {
+      "cite": "798 P.2d 314",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1990,
+      "opinion_index": 0
+    },
+    {
+      "cite": "59 Wn. App. 418",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        1750937
+      ],
+      "year": 1990,
+      "pin_cites": [
+        {
+          "page": "429"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/59/0418-01"
+      ]
+    },
+    {
+      "cite": "882 P.2d 747",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1994,
+      "pin_cites": [
+        {
+          "parenthetical": "citing State v. Graham, 59 Wn. App. 418, 429, 798 P.2d 314 (1990)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "125 Wn.2d 24",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        437110
+      ],
+      "year": 1994,
+      "pin_cites": [
+        {
+          "page": "87",
+          "parenthetical": "citing State v. Graham, 59 Wn. App. 418, 429, 798 P.2d 314 (1990)"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/125/0024-01"
+      ]
+    },
+    {
+      "cite": "764 F.2d 548",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        378057
+      ],
+      "weight": 4,
+      "year": 1985,
+      "pin_cites": [
+        {
+          "parenthetical": "mistrial motion following the prosecutor's closing is \"an acceptable mechanism by which to preserve challenges to prosecutorial conduct\""
+        },
+        {
+          "page": "552-53"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/764/0548-01"
+      ]
+    },
+    {
+      "cite": "940 P.2d 1239",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1997,
+      "opinion_index": 0
+    },
+    {
+      "cite": "132 Wn.2d 668",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        498257
+      ],
+      "year": 1997,
+      "pin_cites": [
+        {
+          "page": "719"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/132/0668-01"
+      ]
+    },
+    {
+      "cite": "195 P.3d 940",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2008,
+      "opinion_index": 0
+    },
+    {
+      "cite": "165 Wn.2d 17",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        5751726
+      ],
+      "year": 2008,
+      "pin_cites": [
+        {
+          "page": "26"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/165/0017-01"
+      ]
+    },
+    {
+      "cite": "721 P2d 902",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1986,
+      "opinion_index": 0
+    },
+    {
+      "cite": "106 Wn.2d 176",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1195511
+      ],
+      "year": 1986,
+      "pin_cites": [
+        {
+          "page": "195"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/106/0176-01"
+      ]
+    },
+    {
+      "cite": "892 P.2d 29",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1995,
+      "pin_cites": [
+        {
+          "parenthetical": "citing State v. Hughes, 106 Wn.2d 176, 195, 721 P2d 902 (1986)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "126 Wn.2d 136",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        436068
+      ],
+      "year": 1995,
+      "pin_cites": [
+        {
+          "page": "174-75",
+          "parenthetical": "citing State v. Hughes, 106 Wn.2d 176, 195, 721 P2d 902 (1986)"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/126/0136-01"
+      ]
+    },
+    {
+      "cite": "303 P.3d 1064",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2013,
+      "opinion_index": 0
+    },
+    {
+      "cite": "177 Wn.2d 1023",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "year": 2013,
+      "opinion_index": 0
+    },
+    {
+      "cite": "288 P.3d 641",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2012,
+      "pin_cites": [
+        {
+          "parenthetical": "Lindsay & Holmes"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "171 Wn. App. 808",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        4072270
+      ],
+      "weight": 9,
+      "year": 2012,
+      "pin_cites": [
+        {
+          "parenthetical": "Lindsay & Holmes"
+        },
+        {
+          "page": "850",
+          "parenthetical": "Armstrong, J. Pro Tern., dissenting"
+        },
+        {
+          "page": "827",
+          "parenthetical": "first and second alterations in original"
+        },
+        {
+          "page": "827"
+        },
+        {
+          "page": "833"
+        },
+        {
+          "page": "836"
+        },
+        {
+          "page": "851-52",
+          "parenthetical": "Armstrong, J. Pro Tern., dissenting"
+        },
+        {
+          "page": "851",
+          "parenthetical": "Armstrong, J. Pro Tem., dissenting"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/171/0808-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1481,
+    "char_count": 36683,
+    "ocr_confidence": 0.723,
+    "pagerank": {
+      "raw": 8.173497113586736e-08,
+      "percentile": 0.4751769311647127
+    },
+    "sha256": "28be3af5ce85c08acbb03d9c2f722e66c579421e8234ec610ce42add4016f0c8",
+    "simhash": "1:28e2cb3c5e828698",
+    "word_count": 6004
+  },
+  "last_updated": "2024-02-27T18:26:29.759680+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Madsen, C.J.; C. Johnson, Owens, Fairhurst, Stephens, Wiggins, and Gonz\u00e1lez, JJ.; and J.M. Johnson, J. Pro Tem., concur."
+    ],
+    "parties": [
+      "The State of Washington, Respondent, v. James Leroy Lindsay, Sr., Petitioner. The State of Washington, Respondent, v. Jennifer Sarah Holmes, Petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "Gordon McCloud, J.\n\u00b61 Jennifer Holmes and James Lindsay entered the home of Laurence Wilkey, Holmes\u2019s former boyfriend. They tied him up, beat him, and took a number of items from his home. The State charged Holmes and Lindsay with first degree robbery, burglary, kidnapping, and assault, as well as firearm theft. Holmes and Lindsay argued that they did not intend to commit a felony but were instead repossessing things that Wilkey had originally stolen from Holmes. A jury convicted them on most, but not all, counts.\n\u00b62 The trial was plagued by misconduct. The prosecutor and the lawyer for Holmes (but not Lindsay) engaged in unprofessional behavior, trading verbal jabs and snide remarks throughout over 90 volumes of proceedings in this case. On appeal, Holmes and Lindsay argued that the prosecutor\u2019s remarks, particularly during closing arguments, constituted misconduct that prejudiced both defendants. The Court of Appeals agreed that the prosecutor committed misconduct but split as to whether that misconduct caused prejudice. State v. Lindsay, 171 Wn. App. 808, 288 P.3d 641 (2012) (Lindsay & Holmes). Two judges thought it did not; one dissenter thought it did. Although Holmes and Lindsay submitted several issues to this court in their petitions for review, we accepted review of only the prosecutorial misconduct issue. State v. Lindsay, 177 Wn.2d 1023, 303 P.3d 1064 (2013).\n\u00b63 We reverse. To be sure, the jury did its best to focus on the facts: it made separate decisions on each of the separate crimes charged against each defendant and it convicted on some, acquitted on some, and convicted of lesser offenses on others. In addition, the trial court attempted to maintain civility. But given the magnitude of the problem and the two lawyers\u2019 inability to control their conduct, we agree with the Court of Appeals dissent that reversal is required.\nFACTS\n\u00b64 Jennifer Holmes met James Lindsay and decided to marry him. This ended her relationship with Laurence Wilkey, with whom she had been living in Idaho. Wilkey moved out while Holmes and Lindsay were away on a trip together, and he took several things of value with him. When Holmes returned to an empty house, she called the police. After investigating, the police in Idaho advised her that it was a civil matter and that she should get a civil attorney.\n\u00b65 Holmes did not follow this advice. Instead, she and Lindsay tracked Wilkey down to his new home in Pierce County. The precise details of their encounter are disputed, and Lindsay, Holmes, and Wilkey all gave significantly different accounts of what happened. Taking the facts in the light most favorable to the State, though, Lindsay and Holmes entered the house; Lindsay and Wilkey scuffled; and Wilkey got the worst of it and ended up tied up on the floor. He may have been threatened with a gun and beaten with a pipe after he was tied up. Lindsay and Holmes then took a number of things that they claimed belonged to Holmes and left.\n\u00b66 The State charged Lindsay and Holmes with one count each of first degree burglary, first degree robbery, first degree kidnapping, and first degree assault, and four counts each of theft of a firearm. At a joint trial, the jury convicted Lindsay of first degree burglary, first degree robbery, one of the four counts of firearm theft, and the lesser included crimes of second degree kidnapping and second degree assault. Clerk\u2019s Papers (CP) (Lindsay) at 382-89. It also convicted Holmes of first degree burglary, first degree robbery, one of the four counts of firearm theft, and the lesser included crimes of unlawful imprisonment and second degree assault. CP (Holmes) at 708-27.\n\u00b67 The record shows that the prosecutor, John Sheeran, and Holmes\u2019s defense counsel, Barbara Corey, engaged in unprofessional exchanges throughout the trial. The dissent in the Court of Appeals accurately describes some of those exchanges:\nFor example, not only did the prosecutor and Holmes\u2019s counsel interrupt each other, they interrupted the trial court, at one point causing the trial court to ask, \u201cCan I finish for once?\u201d 42 [Report of Proceedings (RP)] at 3569. Other examples of disrespect to the trial court include the prosecutor telling the trial court that Holmes\u2019s counsel\u2019s request to interrupt the trial was \u201ca joke\u201d and \u201cridiculous\u201d and that Holmes\u2019s counsel wanted a \u201cBurger King trial . . . [h]ave it my way.\u201d 34 RP at 2557. At another point, the prosecutor told the trial court, \u201cI didn\u2019t object [earlier] because I was laughing so hard it was so stupid.\u201d 53 RP at 4572-73. Later, the prosecutor told Holmes\u2019s counsel that she was repeating herself [;] she replied by telling him to \u201ckindly shut up.\u201d 51 RP at 4309. The prosecutor then asked the trial court to instruct Holmes\u2019s counsel not to repeat herself; Holmes\u2019s counsel replied, \u201cMaybe [the prosecutor] could borrow Your Honor\u2019s gown and tell us all how to run this trial.\u201d 51 RP at 4309.\nIn another instance, Holmes\u2019s counsel told the trial court that the prosecutor\u2019s comments were \u201cobnoxious.\u201d 44 RP at 3831. In response, the prosecutor said, \u201cThis is the same garbage that I was talking about days ago when I lost my temper in this courtroom, because it\u2019s what she does.\u201d 44 RP at 3833.\nLindsay & Holmes, 171 Wn. App. at 850 (Armstrong, J. Pro Tern., dissenting) (most alterations in original).\n\u00b68 The record is filled with similar acrimony. The primary source of the misconduct, however \u2014 according to the parties and the Court of Appeals \u2014 was the prosecutor\u2019s closing argument.\n\u00b69 In his closing, the prosecutor called the defense\u2019s closing argument \u201ca crock.\u201d 95 Verbatim Report of Proceedings (VRP) at 8877.\n\u00b610 The prosecutor also stated that the defendant Holmes\u2019s testimony was \u201cfunny,\u201d \u201cdisgusting,\u201d \u201ccomical,\u201d and \u201cthe most ridiculous thing I\u2019ve ever heard.\u201d Id. at 8717, 8722, 8708. He told the jury that Holmes should not \u201cget up here and sit here and lie.\u201d Id. at 8882.\n\u00b611 The prosecutor described the beyond a reasonable doubt standard as follows: \u201c[Y]ou put in about 10 more pieces and see this picture . . . . [Y]ou can be halfway done with that puzzle. . . . You could have 50 percent of those puzzle pieces missing and you know it\u2019s Seattle.\u201d Id. at 8727. He also compared it to the amount of certainty one needs to cross the street in a crosswalk. Id. at 8728 (\u2018You\u2019re walking because beyond a reasonable doubt you\u2019re confident you can walk across that crosswalk without getting run over.\u201d). Further, the prosecutor exhorted the jury to \u201c[s]peak the truth.\u201d Id. at 8730. He asked the jury \u201conly to do what you swore to do: Render verdicts.\u201d Id. He explained that \u201cverdict\u201d is Latin for \u201cto speak the truth\u201d and that \u201cvoir dire\u201d means the same in French. Id. Finally, he stated, \u201cYou start with one, voir dire, when you started this trial, and you end with one, verdictum, verdict. So I\u2019m just asking you to do what you know is true: Speak the truth. Convict both of these defendants . . . .\u201d Id.\n\u00b612 Finally, the prosecutor spoke so quietly to the jury on several occasions that the court reporter could not hear him and the judge had to ask him to repeat himself. The prosecutor then made a joke out of this when Holmes\u2019s counsel protested by standing behind her and speaking very loudly, to the laughter of the jury.\nANALYSIS\n\u00b613 \u201cAllegations of prosecutorial misconduct are reviewed under an abuse of discretion standard.\u201d State v. Brett, 126 Wn.2d 136, 174-75, 892 P.2d 29 (1995) (citing State v. Hughes, 106 Wn.2d 176, 195, 721 P2d 902 (1986)). The defendant bears the burden of showing that the comments were improper and prejudicial. State v. Warren, 165 Wn.2d 17, 26, 195 P.3d 940 (2008). In the past, our court has also stated that if the defendant fails to object or request a curative instruction at trial, the issue of misconduct is waived unless the conduct was so flagrant and ill intentioned that an instruction could not have cured the resulting prejudice. State v. Stenson, 132 Wn.2d 668, 719, 940 P.2d 1239 (1997). In this case, however, defense counsel made a motion for a mistrial due to prosecutorial misconduct directly following the prosecutor\u2019s rebuttal closing argument, citing many of the same examples that are raised on appeal. Thus, the issue was preserved for appellate review. See United States v. Prantil, 764 F.2d 548, 555 n.4 (9th Cir. 1985) (mistrial motion following the prosecutor\u2019s closing is \u201can acceptable mechanism by which to preserve challenges to prosecutorial conduct\u201d). The judge ruled that the prosecutor\u2019s comments were not improper\u2014 thus, curative instructions were not discussed.\n\u00b614 The prosecutorial misconduct inquiry therefore consists of two prongs: (1) whether the prosecutor\u2019s comments were improper and (2) if so, whether the improper comments caused prejudice. Warren, 165 Wn.2d at 26. We thus begin by analyzing the propriety of the prosecutor\u2019s comments.\nI. Improper Comments\n\u00b615 The prosecutor made improper statements in this case. Both the Court of Appeals majority and dissent concluded that many of his comments were improper. Even the State, in its supplemental briefing to this court, admits that some of the comments were improper. The State\u2019s argument is, essentially, that many of the improper comments either were not objected to or were made in response to goading by Holmes\u2019s counsel; and, since those comments were not so flagrant and ill intentioned that an instruction would not have cured any prejudicial effect, those errors are waived. As for the remaining, specifically objected-to, comments where the objection was made in the middle of closing, the State argues that even if improper, they did not affect the outcome of the trial.\na. Impugning\n\u00b616 A prosecutor can certainly argue that the evidence does not support the defense theory. State v. Russell, 125 Wn.2d 24, 87, 882 P.2d 747 (1994) (citing State v. Graham, 59 Wn. App. 418, 429, 798 P.2d 314 (1990)). However, a prosecutor must not impugn the role or integrity of defense counsel. Warren, 165 Wn.2d at 29-30; State v. Negrete, 72 Wn. App. 62, 67, 863 P.2d 137 (1993). Prosecutorial statements that malign defense counsel can severely damage an accused\u2019s opportunity to present his or her case and are therefore impermissible. Bruno v. Rushen, 721 F.2d 1193, 1195 (9th Cir. 1983) (per curiam).\n\u00b617 The Court of Appeals found that the prosecutor impugned defense counsel with the following comments: \u201c \u2018[S]he doesn\u2019t care if the objection is sustained or not,\u2019 We\u2019re going to have like a sixth grader [argument],\u2019 and \u2018[W]e\u2019re into silly.\u2019 \u201d Lindsay & Holmes, 171 Wn. App. at 827 (first and second alterations in original). In addition, the Court of Appeals relied on the following interactions:\nAnother time, Holmes\u2019s counsel was in the middle of an objection and the prosecutor interrupted her saying, \u201cYeah, we all know that.\u201d 87 VRP at 8092. Yet another time, the prosecutor responded to Holmes\u2019s counsel\u2019s objection by stating, \u201cMaybe if counsel and her client could just be quiet for a few minutes they might be able to hear something.\u201d 95 VRP at 8887. At one point, the prosecutor became visibly upset and Holmes\u2019s counsel said the prosecutor is having \u201ca tantrum.\u201d 52 VRP at 4554. The prosecutor replied, \u201cAnd counsel walked right into this after freaking six weeks\u201d and said directly to Holmes\u2019s counsel, \u201cTantrum, because you \u2014 .\u201d 52 VRP at 4554.\nId. at 827.\n\u00b618 This exchange (and the many more like it) is self-centered and rude. It is all about the lawyers\u2019 personalities, not the parties\u2019 cases. It is clearly the fault of both lawyers, and it is so obnoxious and so continuous that it permeates the record. In fact, it seems to this court that it would be incredibly difficult to focus on the issue of guilt or innocence with this grating noise in the background. Such incivility threatens the fairness of the trial, not to mention public respect for the courts. See Jones v. City of Seattle, 179 Wn.2d 322, 371, 314 P.3d 380 (2013) (Gonz\u00e1lez, J., concurring).\n\u00b619 These comments quoted immediately above, alone, though, probably do not require reversal. In past cases finding that the prosecutor impugned defense counsel, the prosecutor made more egregious statements than the ones above. In Negrete, for example, the prosecutor said that defense counsel was \u201c \u2018being paid to twist the words of the witnesses.\u2019 \u201d 72 Wn. App. at 66. In State v. Gonzales, the prosecutor impermissibly contrasted the roles of prosecutor and defense counsel, stating that while the defense attorney\u2019s duty was to his criminal client, the prosecutor\u2019s duty was \u201c \u2018to see that justice is served.\u2019 \u201d 111 Wn. App. 276, 283, 45 P.3d 205 (2002). And in Bruno, \u201cthe obvious import of the prosecutor\u2019s comments was that all defense counsel in criminal cases are retained solely to lie and distort the facts and camouflage the truth.\u201d 721 F.2d at 1194. Thus, the unprofessional exchanges above, alone, probably did not fundamentally undermine defense counsel\u2019s role or integrity. They certainly undermined the authority of the court and the formality of the proceeding, though.\n\u00b620 Another statement by the prosecutor, however, did directly impugn defense counsel. The prosecutor stated in closing, in reference to Holmes\u2019s counsel\u2019s closing argument, \u201cThis is a crock. What you\u2019ve been pitched for the last four hours is a crock.\u201d 95 VRP at 8877. In State v. Thorgerson, we held that \u201cthe prosecutor impugned defense counsel\u2019s integrity, particularly in referring to his presentation of his case as \u2018bogus\u2019 and involving \u2018sleight of hand.\u2019 \u201d 172 Wn.2d 438, 451-52, 258 P.3d 43 (2011) (citing Warren, 165 Wn.2d at 29). We continued, \u201cIn particular, \u2018sleight of hand\u2019 implies wrongful deception or even dishonesty in the context of a court proceeding.\u201d Id. at 452 (defining \u201csleight of hand\u201d) (quoting Webster\u2019s Third New International Dictionary 2141 (2003)).\n\u00b621 The term \u201ccrock\u201d is at least as bad. It also implies deception and dishonesty. In addition, the term \u201ca crock\u201d is commonly understood to be a shortening of an explicitly vulgar phrase. Describing a defense counsel\u2019s argument with that full phrase would certainly impugn defense counsel\u2019s integrity. Calling counsel\u2019s argument \u201ca crock\u201d is not much different. Given our discussion of the terms \u201cbogus\u201d and \u201csleight of hand\u201d in Thor ger son, we hold that the prosecutor impugned defense counsel in this case by calling Holmes\u2019s counsel\u2019s closing arguments \u201ca crock.\u201d\nb. Burden of Proof\n\u00b622 Arguments by the prosecution that shift or misstate the State\u2019s burden to prove the defendant\u2019s guilt beyond a reasonable doubt constitute misconduct. State v. Gregory, 158 Wn.2d 759, 859-60, 147 P.3d 1201 (2006). The Court of Appeals found that the prosecutor misstated the burden of proof by comparing the beyond a reasonable doubt standard to figuring out a jigsaw puzzle and crossing the street, and by telling the jury to speak the truth.\ni. Jigsaw Puzzles\n\u00b623 Regarding puzzles, the prosecutor stated:\n[0]ne of the simplest [ways to explain reasonable doubt] is the idea of a jigsaw puzzle [T]he first thing you do is you get all the pieces that have edges on them, start to lock them together, you\u2019re trying to get the outline. . . . [Y]ou put a few more pieces in ... and you start to get a better idea of what that picture is.... And then you put in about 10 more pieces and see this picture of the Space Needle. Now, you can be halfway done with that puzzle and you know beyond a reasonable doubt that it\u2019s Seattle. You could have 50 percent of those puzzle pieces missing and you know it\u2019s Seattle.\n95 VRP at 8726-27.\n\u00b624 Several cases from the Court of Appeals have examined whether puzzle analogies are improper.\n\u00b625 In State v. Johnson, a Division Two case, the prosecutor made an argument nearly identical to the one above, stating, \u201c You add a third piece of the puzzle, and at this point even being able to see only half, you can be assured beyond a reasonable doubt that this is going to be a picture of Tacoma.\u2019 \u201d 158 Wn. App. 677, 682, 243 P.3d 936 (2010). The court held that \u201cthe prosecutor\u2019s arguments discussing the reasonable doubt standard in the context of making an affirmative decision based on a partially completed puzzle trivialized the State\u2019s burden, focused on the degree of certainty the jurors needed to act, and implied that the jury had a duty to convict without a reason not to do so.\u201d Id. at 685. The court reversed the conviction, stating that \u201ca misstatement about the law and the presumption of innocence due a defendant, the \u2018bedrock upon which [our] criminal justice system stands,\u2019 constitutes great prejudice because it reduces the State\u2019s burden and undermines a defendant\u2019s due process rights.\u201d Id. at 685-86 (quoting State v. Bennett, 161 Wn.2d 303, 315, 165 P.3d 1241 (2007)).\n\u00b626 In State v. Curtiss, Division Two reached a different conclusion regarding a similar jigsaw puzzle argument. 161 Wn. App. 673, 250 P.3d 496 (2011). There, the prosecutor stated, \u201c \u2018There will come a time when you\u2019re putting that puzzle together, and even with pieces missing, you\u2019ll be able to say, with some certainty, beyond a reasonable doubt what that puzzle is: The Tacoma Dome.\u2019 \u201dId. at 700. The court did not mention Johnson but held that the State\u2019s comments about identifying a puzzle before it was complete were not improper. Id. at 700-01.\n\u00b627 In State v. Fuller, Division Two explained the difference between Johnson and Curtiss. 169 Wn. App. 797, 282 P.3d 126 (2012), review denied, 176 Wn.2d 1006, 297 P.3d 68 (2013). The Fuller court explained that the quantification by the prosecutor of the number of pieces and percentage of completion required for reasonable doubt in Johnson was entirely different from the prosecutor\u2019s general reference to being able to discern the subject of a puzzle with some pieces missing in Curtiss. Id. at 825-28. The former statement introduced elements of specific quantification into the reasonable doubt analysis, while the latter did not. Id.\n\u00b628 This case is plainly analogous to Johnson, not Curtiss. The prosecutor stated that \u201cyou put in about 10 more pieces and see this picture of the Space Needle. Now, you can be halfway done with that puzzle and you know beyond a reasonable doubt that it\u2019s Seattle. You could have 50 percent of those puzzle pieces missing and you know it\u2019s Seattle.\u201d 95 VRP at 8727. That is almost identical to the comments held prejudicial misconduct in Johnson. It is not analogous to the comments in Curtiss ox Fuller, which made no reference to any number or percentage and merely suggested that one could be certain of the picture beyond a reasonable doubt even with some pieces missing. We agree that the quantifying of the standard of proof by means of this jigsaw puzzle analogy is improper.\nii. Crosswalks\n\u00b629 In explaining reasonable doubt in his closing, the prosecutor told a narrative about approaching a crosswalk and seeing a car coming:\nHe has the red light, you\u2019ve got a walk sign, you look at him, he sees you, he\u2019s slowing down, he nods and you start walking. You\u2019re walking because beyond a reasonable doubt you\u2019re confident you can walk across that crosswalk without getting run over.\nId. at 8728. As the Court of Appeals points out, \u201cWhen a prosecutor compares the reasonable doubt standard to everyday decision making, it improperly minimizes and trivializes the gravity of the standard and the jury\u2019s role.\u201d Lindsay & Holmes, 171 Wn. App. at 828 (citing State v. Anderson, 153 Wn. App. 417, 431, 220 P.3d 1273 (2009)). We agree with the Court of Appeals that this kind of analogy to everyday experiences trivializes the State\u2019s burden of proof and is improper.\nHi. Speaking the Truth\n\u00b630 The Court of Appeals held that telling the jury to \u201cfind the truth\u201d or \u201cspeak the truth\u201d is improper. That court had previously held such statements trivialized the burden of proof in Anderson: \u201cThe prosecutor\u2019s repeated requests that the jury \u2018declare the truth,\u2019 however, were improper. A jury\u2019s job is not to \u2018solve\u2019 a case.... Rather, the jury\u2019s duty is to determine whether the State has proved its allegations against a defendant beyond a reasonable doubt.\u201d 153 Wn. App. at 429.\n\u00b631 There is some conflict in Division Two cases about whether an exhortation to the jury to \u201cspeak the truth\u201d is improper. In Anderson, the court held that it was improper. In Curtiss, the court held that it was not. Later, in State v. Walker, Division Two implicitly rejected Curtiss on this point. 164 Wn. App. 724, 733, 265 P.3d 191 (2011) (\u201cWe rely on Anderson [as opposed to Curtiss] in our determination the statements in the present case are improper conduct.\u201d).\n\u00b632 The Court of Appeals agreed that the statements in this case were misconduct under Walker. The statements in Walker are nearly identical to the statements at issue here. Walker, 164 Wn. App. at 732-33 (\u201c \u2018The word \u201cverdict\u201d comes from a Latin word, \u201cveredictum.\u201d Veredictum means to declare the truth. And so by your verdict in this case, you folks, the 12 of you who will deliberate, will decide the truth of what happened ....\u2019\u201d).\n\u00b633 We agree. Telling the jury that its job is to \u201cspeak the truth,\u201d or some variation thereof, misstates the burden of proof and is improper.\nc. Expression of Personal Opinion of Credibility/Guilt\n\u00b634 It is impermissible for a prosecutor to express a personal opinion as to the credibility of a witness or the guilt of a defendant. State v. Reed, 102 Wn.2d 140, 145, 684 P.2d 699 (1984) (citing Am. Bar Ass\u2019n, Model Code of Professional Responsibility and Code of Judicial Conduct \u00a7 DR 7-106(C)(4) (1980)). It constitutes misconduct, id., and violates the advocate-witness rule, which \u201cprohibits an attorney from appearing as both a witness and an advocate in the same litigation.\u201d Prantil, 764 F.2d at 552-53.\n\u00b635 The prosecutor told the jury in his closing that the defendant Holmes\u2019s testimony was \u201cfunny\u201d and \u201cdisgusting,\u201d 95 VRP at 8717, \u201ccomical,\u201d id. at 8722, and \u201cthe most ridiculous thing I\u2019ve ever heard,\u201d id. at 8708. The Court of Appeals noted that words like \u201cridiculous\u201d or \u201cpreposterous\u201d in relation to testimony are not, alone, an improper expression of personal opinion as long as the prosecutor is arguably drawing an inference from the evidence. Anderson, 153 Wn. App. at 430. The Court of Appeals also noted, though, that the prosecutor told the jury that Holmes should not \u201cget up here and sit here and lie.\u201d 95 VRP at 8882. And the Court of Appeals was particularly disturbed by the prosecutor\u2019s reference to Holmes\u2019s theory of the case as \u201ca crock,\u201d which it held was plainly an expression of personal opinion as to credibility. Lindsay & Holmes, 171 Wn. App. at 833.\n\u00b636 The prosecutor\u2019s \u201ccrock\u201d comment was a comment on both defense counsel\u2019s closing argument and the defendant Holmes\u2019s testimony, because the two are to some degree inseparable. The prosecutor\u2019s argument that Holmes lied on the stand and the statement that Holmes\u2019s testimony was \u201cthe most ridiculous thing I\u2019ve ever heard\u201d are even more direct statements of the prosecutor\u2019s personal opinion as to Holmes\u2019s veracity. 95 VRP at 8722. An isolated use of the term \u201cridiculous\u201d to describe a witness\u2019s testimony is not improper in every circumstance. But labeling testimony \u201cthe most ridiculous thing I\u2019ve ever heard\u201d is an obvious expression of personal opinion as to credibility. There is no other reasonable interpretation of the phrase. Given that comment, in context with the \u201ccrock\u201d accusation and the \u201csit here and lie\u201d argument, we hold that the prosecutor in this case impermissibly expressed his personal opinion about the defendant\u2019s credibility to the jury.\nd. Inaudible statements to jury\n\u00b637 The prosecutor during closing arguments spoke to the jury so softly that the court reporter, the parties, and their attorneys could not hear him. The prosecutor\u2019s voice became inaudible three times. The first time, the record states, \u201cDo they get . . . (sotto voce.)\u201d 95 VRP at 8884 (alteration in original). After the court reporter and defendants\u2019 lawyers said they could not hear the prosecutor, the judge stated, \u201cKeep your voice up, please, so everybody can hear.\u201d Id. at 8885. The second time, the record states, \u201cI mean, the Jennifer Holmes story is arguably - well, it\u2019s silly ... (sotto voce.)\u201d Id. at 8886 (alteration in original). Defense counsel complained, and the judge asked the reporter to \u201cread that back.\u201d Id. The reporter said, \u201cI did not hear it, Judge,\u201d and the judge replied, \u201cOkay.\u201d Id. Another debate between counsel ensued, and the prosecutor eventually continued his closing without a further remark from the judge. The third time, the record states, \u201cAsk yourself who wants to find the truth and ... (sotto voce.)\u201d Id. at 8888 (alteration in original). The reporter responded, \u201cAsk yourself . . ?\u201d Id. (alteration in original). The prosecutor answered, \u201cWho wants to find the truth. Ask yourself what the truth is. Convict them.\u201d Id. No other comment was made on this third incident. During one of these incidents, the prosecutor, after being told no one could hear him, stood directly behind Holmes\u2019s counsel and shouted his next sentence very loudly, to the laughter of the jury. Finally, in a later motion for mistrial based in part on the prosecutor\u2019s whispering, the judge stated in denying the motion, \u201cI did tell [the prosecutor] to speak up and he did speak up, and I thought he repeated everything that he said in a voice that everybody could hear, and I think that\u2019s what he said on the record.\u201d 97 VRP at 8993.\n\u00b638 The Court of Appeals did not expressly label this misconduct. It held that although \u201ca prosecutor must never whisper to the jury off the record,\u201d the record in this case was \u201csufficiently complete\u201d to permit review. Lindsay & Holmes, 171 Wn. App. at 836.\n\u00b639 The dissent disagreed. It asserted this whispering amounted to a private communication with the jury, which is presumed prejudicial, thus shifting the burden to the State to prove the communication was harmless. Id. at 851-52 (Armstrong, J. Pro Tern., dissenting) (citing Remmer v. United States, 347 U.S. 227, 229, 74 S. Ct. 450, 98 L. Ed. 654 (1954); State v. Kell, 101 Wn. App. 619, 621, 5 P.3d 47 (2000); State v. Murphy, 44 Wn. App. 290, 296, 721 P.2d 30 (1986)). Without knowing what the prosecutor said to the jury, the dissent argued, prejudice must be presumed and the State has not rebutted that presumption.\n\u00b640 In this case, however, the judge stated, in denying a defense motion for mistrial based on the whispering, \u201cI did tell [the prosecutor] to speak up and he did speak up, and I thought he repeated everything that he said in a voice that everybody could hear, and I think that\u2019s what he said on the record.\u201d 97 VRP at 8993. Under the circumstances, we find the prosecutor\u2019s whispering, although improper, was not presumptively prejudicial. We emphasize, however, that the prosecutor\u2019s behavior in both whispering and shouting, as revealed through transcripts and affidavits, was highly unprofessional and potentially damaging to the fairness of the proceedings.\nII. Prejudice\na. The Standard for Determining Prejudice\n\u00b641 A claim of prosecutorial misconduct requires the defendant to show both that the prosecutor made improper statements and that those statements caused prejudice. To show prejudice, the petitioners must show a substantial likelihood that the prosecutor\u2019s statements affected the jury\u2019s verdict. State v. Emery, 174 Wn.2d 741, 760, 278 P.3d 653 (2012) (citing Anderson, 153 Wn. App. at 427).\n\u00b642 The State argues that if the petitioners failed to object to a particular statement by the prosecutor, they must also show that a jury instruction would not have cured the potential prejudice. Id. at 761. The State points out that the following statements did not draw immediate objections: calling Holmes\u2019s testimony \u201cfunny,\u201d \u201cdisgusting,\u201d and \u201ccomical\u201d; the use of the jigsaw puzzle analogy and crosswalk analogy to explain reasonable doubt and the exhortation to the jury to \u201cspeak the truth\u201d; and the \u201ccrock\u201d and \u201csit here and lie\u201d comments. However, directly after the prosecutor\u2019s closing argument, Holmes\u2019s counsel made a motion for mistrial. In that motion she identified a number of the prosecutor\u2019s statements as improper for the reasons noted above, stating specifically that \u201che made his personal opinions about the evidence [known] on numerous occasions,\u201d 95 VKP at 8890, and that \u201che is disparaging counsel, just, you know, egregiously,\u201d id. at 8891. The Ninth Circuit has recognized that a defense counsel entering \u201cobjections to the language and tenor of the prosecutor\u2019s closing remarks by way of a mistrial motion after the government finished its summation\u201d is \u201can acceptable mechanism by which to preserve challenges to prosecutorial conduct in a closing argument in lieu of repeated interruptions to the closing arguments,\u201d and therefore that the ordinary standard for examining prejudice applies. Prantil, 764 F.2d at 555 n.4 (citing United States v. Lyman, 592 F.2d 496, 499 (9th Cir. 1978)). The rule in Prantil advances the policy reasons for the contemporaneous objection rule, such as giving the trial court a chance to correct the problem with a curative instruction, and we therefore adopt it. Under this rule, the defense certainly preserved the issue for review.\nb. Application of the Standard\n\u00b643 The State argues that Holmes\u2019s counsel baited the prosecutor into misconduct and so his improper statements cannot be grounds for reversal. It is true that improper comments by the prosecutor might not be grounds for reversal if they were specifically provoked by defense counsel. State v. Weber, 159 Wn.2d 252, 276-77, 149 P.3d 646 (2006).\n\u00b644 That is not what happened in this case, though. Most of the improper arguments in this case occurred during the prosecutor\u2019s closing. They are not directly preceded by any statements from defense counsel to which the prosecutor was responding. Moreover, in this context, the prosecutor is held to a higher standard than defense counsel. E.g., State v. Monday, 171 Wn.2d 667, 676, 257 P.3d 551 (2011) (\u201cThe prosecutor owes a duty to defendants to see that their rights to a constitutionally fair trial are not violated.\u201d (citing State v. Case, 49 Wn.2d 66, 71, 298 P.2d 500 (1956))). We reject the State\u2019s argument that the prosecutor\u2019s behavior in this case is excused because Holmes\u2019s counsel also acted unprofessionally.\n\u00b645 The State also argues that defense counsel failed to object to many of the statements in the prosecutor\u2019s closing argument, so the defendants have waived any claim of prejudice relating to those statements. But, as explained above, Holmes\u2019s defense counsel made a motion for mistrial directly following the prosecutor\u2019s closing argument objecting to \u201cthe language and tenor of the prosecutor\u2019s closing remarks.\u201d Prantil, 764 F.2d at 555 n.4. Thus, her motion was sufficient to preserve review under the ordinary prejudice standard.\n\u00b646 The State\u2019s argument also disregards the context of the trial. The many examples of misconduct in this case \u201cdemonstrate more than the prosecutor\u2019s and Holmes\u2019s counsel\u2019s treatment of each other; they show an unthinkable disrespect for the trial court and the whole trial process.\u201d Lindsay & Holmes, 171 Wn. App. at 851 (Armstrong, J. Pro Tem., dissenting). Such disrespect for the process infects the entire trial. See Jones, 179 Wn.2d at 371 (Gonz\u00e1lez, J., concurring). Under the circumstances, there is a substantial likelihood that the prosecutor\u2019s calling the defense\u2019s closing arguments \u201ca crock,\u201d telling the jury that defendant Holmes should not \u201clie,\u201d and labeling her testimony \u201cthe most ridiculous thing I\u2019ve ever heard\u201d influenced the jury\u2019s verdict.\n\u00b647 Even under the more stringent standard for determining prejudice, the results would be the same. In In re Personal Restraint of Glasmann, despite the defendant\u2019s failure to object, \u201cthe misconduct.. . was so pervasive that it could not have been cured by an instruction.\u201d 175 Wn.2d 696, 707, 286 P.3d 673 (2012). Here, as in Glasmann, \u201c \u2018[t]he cumulative effect of repetitive prejudicial prosecutorial misconduct may be so flagrant that no instruction or series of instructions can erase their combined prejudicial effect.\u2019 \u201d Id. (alteration in original) (quoting State v. Walker, 164 Wn. App. 724, 737, 265 P.3d 191 (2011)). Moreover, federal courts have held that comments at the end of a prosecutor\u2019s rebuttal closing are more likely to cause prejudice. E.g., United States v. Sanchez, 659 F.3d 1252, 1259 (9th Cir. 2011) (significant that prosecutor made improper statement \u201cat the end of his closing rebuttal argument, after which the jury commenced its deliberations\u201d); United States v. Carter, 236 F.3d 777, 788 (6th Cir. 2001) (significant that \u201cprosecutor\u2019s improper comments occurred during his rebuttal argument and therefore were the last words from an attorney that were heard by the jury before deliberations\u201d). Here, the prosecutor made several of his improper comments, including the \u201ccrock\u201d and \u201csit here and lie\u201d statements, during his rebuttal closing, increasing their prejudicial effect.\n\u00b648 We recognize that the jury in this case took care to parse the competing narratives presented by the parties and to render considered verdicts on each of the many counts. It convicted on only some of the charges and returned several lesser included offense convictions. We also recognize that the judge attempted to curb the two lawyers\u2019 incivility, even, at one point, threatening sanctions. We nevertheless find the fairness of the trial, which turned largely on credibility, was tainted by (1) the pervasive misconduct of the prosecutor and (2) the unprofessionalism displayed by both the prosecutor and Holmes\u2019s attorney throughout the proceedings. We reverse the Court of Appeals because of both problems, reverse the defendants\u2019 convictions, and remand this case for a new trial.\nCONCLUSION\n\u00b649 The prosecutor and defense counsel for one of the defendants in this case behaved unprofessionally and disrespectfully toward each other, toward the defendants, and toward the court throughout the trial. That disrespect permeated the trial process. Against that background, the prosecutor, in his closing arguments, denigrated defense counsel, misstated the burden of proof, expressed his personal belief as to one defendant\u2019s veracity, and whispered to the jury so that no one else in the courtroom could hear him. There is a substantial likelihood that those actions, in context, affected the jury\u2019s verdict. Given the defendant\u2019s immediate postargument motion for mistrial, there is no need to decide whether a curative instruction could have cured the prejudice. But even under that more stringent standard, the defendants have demonstrated a likelihood of prejudice in this case. We reverse the Court of Appeals and remand the case for a new trial.\nMadsen, C.J.; C. Johnson, Owens, Fairhurst, Stephens, Wiggins, and Gonz\u00e1lez, JJ.; and J.M. Johnson, J. Pro Tem., concur.\nNote that the following exchanges took place outside the presence of the jury; we cite it only as context for the general tenor of the trial. All other statements presented in this opinion are statements that were said in front of the jury, unless otherwise noted.\nWhen applying this standard, we have noted that courts should \u201cfocus less on whether the prosecutor\u2019s misconduct was flagrant or ill intentioned and more on whether the resulting prejudice could have been cured.\u201d State v. Emery, 174 Wn.2d 741, 762, 278 P.3d 653 (2012).\nSee, e.g., Crock, Dictionahy.com, http://dictionary.reference.com/browse/crock?s=t (last visited Mar. 28, 2014) (defining \u201ccrock\u201d in part as \u201ca lie; exaggeration; nonsense\u201d).\nWe have often stated this standard as incorporating not only that objective inquiry but also an arguably subjective inquiry; that is, whether \u201cthe prosecutor\u2019s misconduct was so flagrant and ill intentioned that an instruction could not have cured the resulting prejudice.\u201d Emery, 174 Wn.2d at 760-61 (citing Stenson, 132 Wn.2d at 727). We clarified, though, that \u201c[Reviewing courts should focus less on whether the prosecutor\u2019s misconduct was flagrant or ill intentioned and more on whether the resulting prejudice could have been cured.\u201d Id. at 762.",
+        "type": "majority",
+        "author": "Gordon McCloud, J."
+      }
+    ],
+    "attorneys": [
+      "Thomas M. Kummerow {o\u00ed Washington Appellate Project)-, and Barbara L. Corey, for petitioner.",
+      "Mark E. Lindquist, Prosecuting Attorney, and Kimberley A. DeMarco and Kathleen Proctor, Deputies, for respondent."
+    ],
+    "corrections": "",
+    "head_matter": "[No. 88437-4.\nEn Banc.]\nArgued February 11, 2014.\nDecided May 8, 2014.\nThe State of Washington, Respondent, v. James Leroy Lindsay, Sr., Petitioner. The State of Washington, Respondent, v. Jennifer Sarah Holmes, Petitioner.\nThomas M. Kummerow {o\u00ed Washington Appellate Project)-, and Barbara L. Corey, for petitioner.\nMark E. Lindquist, Prosecuting Attorney, and Kimberley A. DeMarco and Kathleen Proctor, Deputies, for respondent."
+  },
+  "file_name": "0423-01",
+  "first_page_order": 487,
+  "last_page_order": 508
+}

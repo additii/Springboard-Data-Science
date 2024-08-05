@@ -1,0 +1,342 @@
+{
+  "id": 4356290,
+  "name": "Rachel Marguerite Anderson, Petitioner, v. William L.E. Dussault et al., Respondents",
+  "name_abbreviation": "Anderson v. Dussault",
+  "decision_date": "2014-09-04",
+  "docket_number": "No. 89788-3",
+  "first_page": "360",
+  "last_page": "374",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "181 Wash. 2d 360"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Wash.",
+    "id": 9029,
+    "name": "Washington Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 38,
+    "name_long": "Washington",
+    "name": "Wash."
+  },
+  "cites_to": [
+    {
+      "cite": "374 P.2d 675",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1962,
+      "pin_cites": [
+        {
+          "parenthetical": "\"[TJhe rejection of an industrial insurance claim on the ground that the workman was not in the course of his employment, from which no appeal is taken, is res judicata against the employer in a subsequent action by the workman.\" (emphasis added)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "60 Wn.2d 484",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1031676
+      ],
+      "year": 1962,
+      "pin_cites": [
+        {
+          "page": "485",
+          "parenthetical": "\"[TJhe rejection of an industrial insurance claim on the ground that the workman was not in the course of his employment, from which no appeal is taken, is res judicata against the employer in a subsequent action by the workman.\" (emphasis added)"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/60/0484-01"
+      ]
+    },
+    {
+      "cite": "732 P.2d 974",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1987,
+      "pin_cites": [
+        {
+          "parenthetical": "rejecting the argument that the release of a cotrustee compromises an appeal as to the remaining trustee"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "107 Wn.2d 693",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1192526
+      ],
+      "year": 1987,
+      "pin_cites": [
+        {
+          "page": "708",
+          "parenthetical": "rejecting the argument that the release of a cotrustee compromises an appeal as to the remaining trustee"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/107/0693-01"
+      ]
+    },
+    {
+      "cite": "160 P.3d 13",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2007,
+      "opinion_index": 0
+    },
+    {
+      "cite": "160 Wn.2d 535",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        3631109
+      ],
+      "year": 2007,
+      "pin_cites": [
+        {
+          "page": "538-39"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/160/0535-01"
+      ]
+    },
+    {
+      "cite": "114 P.3d 1230",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "weight": 2,
+      "year": 2005,
+      "opinion_index": 0
+    },
+    {
+      "cite": "128 Wn. App. 196",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        3265955
+      ],
+      "year": 2005,
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/128/0196-01"
+      ]
+    },
+    {
+      "cite": "285 P.3d 873",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2012,
+      "opinion_index": 0
+    },
+    {
+      "cite": "175 Wn.2d 457",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4024391
+      ],
+      "year": 2012,
+      "pin_cites": [
+        {
+          "page": "470"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/175/0457-01"
+      ]
+    },
+    {
+      "cite": "67 P.3d 1113",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2003,
+      "opinion_index": 0
+    },
+    {
+      "cite": "116 Wn. App. 353",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        265892
+      ],
+      "year": 2003,
+      "pin_cites": [
+        {
+          "page": "363"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/116/0353-01"
+      ]
+    },
+    {
+      "cite": "93 P.3d 147",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2004,
+      "pin_cites": [
+        {
+          "parenthetical": "holding that one provision's permission for removal only for \" 'reasons specified' \" in a second provision incorporated the second provision's catchall phrase \" 'for any other cause or reason which to the court appears necessary' \" (emphasis omitted"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "152 Wn.2d 1",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1217458
+      ],
+      "year": 2004,
+      "pin_cites": [
+        {
+          "page": "10-11",
+          "parenthetical": "holding that one provision's permission for removal only for \" 'reasons specified' \" in a second provision incorporated the second provision's catchall phrase \" 'for any other cause or reason which to the court appears necessary' \" (emphasis omitted"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/152/0001-01"
+      ]
+    },
+    {
+      "cite": "900 P.2d 552",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1995,
+      "opinion_index": 0
+    },
+    {
+      "cite": "127 Wn.2d 370",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        433065
+      ],
+      "year": 1995,
+      "pin_cites": [
+        {
+          "page": "375"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/127/0370-01"
+      ]
+    },
+    {
+      "cite": "69 P.3d 318",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "weight": 2,
+      "year": 2003,
+      "opinion_index": 0
+    },
+    {
+      "cite": "149 Wn.2d 444",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1292565
+      ],
+      "year": 2003,
+      "pin_cites": [
+        {
+          "page": "449-50"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/149/0444-01"
+      ]
+    },
+    {
+      "cite": "321 P.3d 1206",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "weight": 2,
+      "year": 2014,
+      "opinion_index": 0
+    },
+    {
+      "cite": "180 Wn.2d 1001",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "year": 2014,
+      "opinion_index": 0
+    },
+    {
+      "cite": "310 P.3d 854",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2013,
+      "opinion_index": 0
+    },
+    {
+      "cite": "177 Wn. App. 79",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        4317826
+      ],
+      "year": 2013,
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/177/0079-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1053,
+    "char_count": 23593,
+    "ocr_confidence": 0.738,
+    "pagerank": {
+      "raw": 1.4239129212876062e-07,
+      "percentile": 0.6495558235248464
+    },
+    "sha256": "912c73ecba3e7a635056e28efd34f0b4d8ca2abb29f864022e225527299da362",
+    "simhash": "1:2fafc3d87d29128a",
+    "word_count": 3769
+  },
+  "last_updated": "2024-02-27T19:47:16.443836+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Rachel Marguerite Anderson, Petitioner, v. William L.E. Dussault et al., Respondents."
+    ],
+    "opinions": [
+      {
+        "text": "\u00b61 At issue is whether the superior court\u2019s approval of annual accountings of petitioner\u2019s special needs trust under the Trustees\u2019 Accounting Act (TAA), chapter 11.106 RCW, bars petitioner\u2019s current suit, which is timely under the Trust and Estate Dispute Resolution Act (TEDRA), chapter 11.96A RCW. We review a published Court of Appeals decision affirming the summary dismissal of petitioner Rachel Anderson\u2019s breach of trust action against the trustee and two members of a committee charged with making trust disbursements, and her malpractice action against the attorney hired to file annual trust accountings with the superior court. We hold that because Rachel was not represented by a guardian ad litem when the court approved the trust\u2019s annual accountings, she did not have notice of these proceedings and accordingly can now bring a breach of trust action under TEDRA. We reverse the Court of Appeals, vacate its award of attorney\u2019s fees, and remand for further proceedings.\nMadsen, C.J.\nFACTS AND PROCEDURE\n\u00b62 When Rachel Anderson (formerly Rachel Rodgers) was six years old, a horse kicked her in the face and she sustained serious injuries. Her many fractures and lacerations required multiple surgeries, and she suffered severe cognitive and emotional trauma. Rachel\u2019s family hired respondent Richard McMenamin to pursue a personal injury action against the owner of the horse. Br. of Appellant Rachel Marguerite Anderson at 4.\n\u00b63 On August 25, 1997, the Clallam County Superior Court approved a personal injury settlement of $300,000.00 and the creation of the \u201cRachel Marguerite Rodgers Trust.\u201d McMenamin hired respondent attorney William Dussault to draw up the trust agreement. After attorney\u2019s fees and other costs, a net amount of $187,160.66 entered the trust. As outlined in the trust agreement, respondent Wells Fargo Bank NA served as trustee. The agreement also created a trust advisory committee (TAC) composed of petitioner\u2019s mother, Andrea Davey (formerly Andrea Rodgers); and respondent McMenamin, who were tasked with making distribution decisions for Rachel\u2019s benefit.\n\u00b64 The trust agreement identifies the trust as a special needs trust intended to help Rachel cope with her severe disabilities stemming from the accident. The trust agreement declares that\nit is the purpose of this Trust to provide extra and supplemental medical, health, and nursing care, dental care, developmental services, support, maintenance, education, rehabilitation, therapies, devices, recreation, social opportunities, assistive devices, advocacy, legal services, respite care, personal attendant care, income and other tax liabilities, and consultant services for RACHEL MARGUERITE RODGERS over and above the benefits she otherwise receives.\nClerk\u2019s Papers at 296. Moreover, the trust agreement declares an intention that the funds be used for purposes specific to Rachel\u2019s injuries and disabilities and beyond basic parental support obligations. The TAC is charged with making distribution decisions and is given \u201cabsolute and unfettered discretion to determine when and if RACHEL needs regular and extra supportive services as referred to in the paragraphs above.\u201d Id. at 297.\n\u00b65 The agreement requires the trustee (Wells Fargo) to deliver an annual statement of the trust\u2019s financial and investment activity to Rachel, any court appointed personal representative, and the TAC members. Additionally, the trust agreement requires that this annual statement be filed with the court for approval.\n\u00b66 The trust also contains a section governing major purchases like real estate. This section provides that the title to or ownership of an asset like a house must be maintained with the trust unless the trustee and the TAC agree otherwise. Additionally, the trustee has discretion to allow the beneficiary to reside in the house rent-free, but only if advised by the TAC that the beneficiary is not eligible for any public rent assistance due to her disability.\n\u00b67 Rachel takes issue with how her trust has been administered, alleging breach of fiduciary duties and legal malpractice. First, she challenges the trust\u2019s purchase of a minivan and subsequent operating and insurance costs, claiming that the car was never used for its claimed purpose of taking her to far-off doctor\u2019s appointments. Rachel also challenges the trust\u2019s purchase of computers and related software. She argues that these computers and software were used by the entire family and as such were a natural parental expense not at all related to her disability. Next, Rachel contests the procedures the trust used to purchase a house in the name of her mother\u2019s then boyfriend. She argues that the process surrounding the purchase of the house violated express provisions for \u201cmajor purchases\u201d contained in the trust agreement. Rachel also challenges the use of trust money to purchase birthday gifts that Rachel contends was actually used for new carpeting and a swimming pool. Finally, Rachel contends that the trustee and legal fees charged to the trust were excessive and at above market rates. Br. of Appellant Rachel Marguerite Anderson at 8-12.\n\u00b68 As required by the terms of the trust, the trustee made annual filings with the court detailing all financial and investment activity of the trust during the prior year. The trustee, Wells Fargo, hired respondent attorney Dussault to prepare the annual reports for court approval. The trust filed seven different accountings from 2000-2009, and the court approved each one in a succinct order. The form and effect of these accountings was governed by the TAA, chapter 11.106 RCW.\n\u00b69 Rachel filed her complaint on July 22, 2011 in Clallam County Superior Court against Andrea Davey, McMenamin, Wells Fargo, and Dussault, alleging breach of fiduciary duties and malpractice. Motions for summary judgment were filed by Dussault, McMenamin, and Wells Fargo. The court granted summary judgment to McMenamin, Dussault, and Wells Fargo. The superior court then dismissed all of Rachel\u2019s claims, including her claim against her mother, Andrea. Rachel appealed as to McMenamin, Dussault, and Wells Fargo but chose not to appeal her claim against Andrea.\n\u00b610 On appeal, Division Two affirmed in a published decision. Anderson v. Dussault, 177 Wn. App. 79, 310 P.3d 854 (2013), review granted, 180 Wn.2d 1001, 321 P.3d 1206 (2014). The court reasoned that Rachel\u2019s claims were barred by RCW 11.106.080, a provision of the TAA that makes court approval of an accounting final and binding on all parties, even incompetent beneficiaries. Because the superior court had approved all the accountings and Rachel never appealed those approvals, she could not now pursue breach of trust claims based on conduct disclosed in those accountings. Division Two also ordered Rachel to pay Dussault\u2019s and Wells Fargo\u2019s attorney\u2019s fees, citing RCW 11.96A.150.\n\u00b611 This court accepted review on April 2, 2014.\nDISCUSSION\nA. The Trustees\u2019 Accounting Act\n\u00b612 Passed in 1951, the TAA outlines procedures for the discretionary and mandatory review of accountings of the receipts and disbursements of trusts. The TAA requires trustees to deliver an annual statement to each adult income trust beneficiary detailing all receipts and disbursements of the trust during that year. RCW 11.106.020. In addition to that required annual statement, the TAA allows trustees to file intermediate accountings in superior court and likewise allows beneficiaries to petition the court to direct the trustee to file an interim accounting. RCW 11-.106.030, .040.\n\u00b613 Whenever a trustee files an accounting, whether at its own election or the court\u2019s mandate, the court must issue a detailed notice and ask for objections to be filed before a certain date (\u201cthe return date\u201d). RCW 11.106.050. In order to facilitate this objection process, the TAA provides that \u201c[t]he court shall appoint guardians ad litem as provided in RCW 11.96A.160.\u201d RCW 11.106.060. Further, RCW 11.96A-.160 is a TEDRA provision that outlines procedures for the discretionary appointment of guardians ad litem. Once the return date has passed, the court assesses the \u201ccorrectness of the account and the validity and propriety of all actions of the trustee\u201d and issues a decree approving or rejecting the accounting and \u201csurcharging the trustee or trustees for all losses, if any, caused by negligent or wilful breaches of trust.\u201d RCW 11.106.070. The decree approving or rejecting the accounting, furthermore, \u201cshall be deemed final, conclusive, and binding upon all the parties interested including all incompetent, unborn, and unascertained beneficiaries of the trust subject only to the right of appeal under RCW 11.106.090.\u201d RCW 11.106.080.\nB. TEDRA\n\u00b614 The legislature passed TEDRA in 1999 to \u201cset forth generally applicable statutory provisions for the resolution of disputes and other matters involving trusts and estates in a single chapter under Title 11 RCW.\u201d RCW 11.96A.010. TEDRA also creates methods for nonjudicial resolution of trust disputes. Id.\nf 15 TEDRA is an extensive statute, but most pertinent here is its provision for a statute of limitations for breach of trust actions. TEDRA provides a three-year statute of limitations for beneficiaries to bring actions for breach of trust. RCW 11.96A.070. Under this provision, the beneficiary has three years from the date she or her personal representative was sent a report that adequately discloses the potential for a breach of trust claim. TEDRA details the information that must be included in this report in order to impute notice of a potential claim to the beneficiary. One piece of required information is a statement explaining to the beneficiary that she has a right under the TAA to request that an accounting be filed with the superior court. RCW 11.96A.070(l)(b)(vii). This statute of limitations will be tolled, and notice will not be imputed to the beneficiary, if the beneficiary is a minor without a guardian ad litem. RCW 11.96A.070(4). As explained above, the court retains discretion to appoint or not appoint guardians ad litem under TEDRA. RCW 11.96A.160.\nC. The TAA does not bar petitioner\u2019s TEDRA claim\n\u00b616 Petitioner contends that the TAA does not bar her breach of trust claim because RCW 11.106.060 of the TAA requires appointment of a guardian ad litem and she never received a guardian appointment. Petitioner focuses on the TAA\u2019s requirement that \u201c[t]he court shall appoint guardians ad litem.\u201d RCW 11.106.060 (emphasis added).\n\u00b617 Respondents contend that the plain language of RCW 11.106.060 requires guardians to be appointed \u201cas provided in RCW 11.96A.160,\u201d a provision of TEDRA that creates a discretionary appointment procedure. So the appointment of guardians under the TAA is likewise a discretionary determination, and the court\u2019s failure to appoint one here was not error.\n\u00b618 Statutory construction is an issue of law that we review de novo. State v. J.P., 149 Wn.2d 444, 449-50, 69 P.3d 318 (2003). In conducting this review, our primary purpose is to ascertain and effectuate the intent of the legislature. Id. Further, \u201cit is the duty of this court to construe two statutes dealing with the same subject matter so that the integrity of both will be maintained.\u201d Gilbert v. Sacred Heart Med. Ctr., 127 Wn.2d 370, 375, 900 P.2d 552 (1995).\n\u00b619 Petitioner mistakenly focuses on whether appointment of guardians is discretionary or mandatory. The plain language of the TAA is unambiguous and requires that appointment of guardians under the TAA be governed by TEDRA\u2019s procedures. Because TEDRA makes appointment of guardians discretionary, so too must appointment of guardians be discretionary under the TAA. See In re Estate of Jones, 152 Wn.2d 1, 10-11, 93 P.3d 147 (2004) (holding that one provision\u2019s permission for removal only for \u201c \u2018reasons specified\u2019 \u201d in a second provision incorporated the second provision\u2019s catchall phrase \u201c \u2018for any other cause or reason which to the court appears necessary\u2019 \u201d (emphasis omitted) (quoting In re Estate of Jones, 116 Wn. App. 353, 363, 67 P.3d 1113 (2003); RCW 11.28.250)).\n\u00b620 In any event, the parties focus on the wrong question. Though the superior court did not err by failing to appoint a guardian for Rachel when it considered her trust accountings, a question remains whether a breach of trust claim that would be timely brought under TEDRA is barred by the TAA provision establishing the finality of accountings filed with the court.\n|21 To answer this question, our analysis must begin with the plain language of the TAA and TEDRA. Id. at 11 (\u201cWhere a statute is unambiguous, the court assumes the legislature means what it says and will not engage in statutory construction past the plain meaning of the words.\u201d). Read together, the plain language of the TAA and TEDRA reveal a legislative intent that minor beneficiaries have notice only where the court appoints a guardian ad litem or they have a valid virtual representative.\n\u00b622 As outlined above, TEDRA provides a three-year statute of limitations for breach of trust actions calculated from the time that the beneficiary receives notice of the potentiality of a claim. RCW 11.96A.070. Notice of the potentiality of a claim is accomplished by the trustee sending the beneficiary or her representative a report containing specified information. Among other things, the report must contain a statement that the beneficiary has the right to demand an accounting with the court under the TAA. RCW 11.96A.070(l)(b)(vii). But this statute of limitations is tolled, and notice is therefore not imputed, where the beneficiary is a minor without an appointed guardian. RCW 11.96A.070(4). Accordingly, notice of a potential claim, which by definition requires notice of the ability to demand a TAA accounting, is not imputed to the beneficiary until she reaches the age of majority or has a guardian appointed. Here, because the court never appointed Rachel a guardian, she did not receive legal notice of her potential breach of trust claim or her right to demand an accounting under the TAA, until she turned 18. At that point the three-year statute of limitations began to run, and she properly initiated this action within three years of that time, when she was 20 years old.\n|23 Just as minors without guardians will not receive legal notice of the potentiality of a breach of trust claim without notice of their ability to demand a TAA accounting, the TAA notice provisions lead to the conclusion that minors without guardians will not receive legal notice of an ongoing accounting initiated by the trustee. When any TAA accounting is filed, the court is required to issue a detailed notice. This notice must specify the time and place for the return date, include the names of the trustee, and ask that any objections be filed by the return date. RCW 11.106.050. Additionally, the notice must be personally served on all parties or their virtual representatives. Id.; RCW 11.96A-.110. Meanwhile, a related provision of TEDRA defines \u201cvirtual representation\u201d to include both guardians and parents, but the statute specifically provides that a conflict of interest defeats virtual representation. Immediately after detailing the procedures for notice, the TAA outlines procedures for appointing guardians and representatives in order to facilitate the beneficiary\u2019s ability to respond to the accounting before the court rules on it. RCW 11.106.060. Here, Rachel did not have a guardian ad litem and never personally received notice of any of the accountings that occurred during her minority. Her mother\u2019s notice of the accountings cannot qualify as virtual representation because of the existing conflict of interest between Rachel and her mother. Accordingly, Rachel never received proper notice of the ongoing accountings. Though respondents are correct that the appointment of guardians is discretionary under both the TAA and TEDRA, there must be a consequence for initiating an accounting proceeding without one. Just as a minor does not have notice of her ability to bring a TEDRA breach of trust claim if she does not have a guardian, we hold that minors without an appointed guardian or other valid virtual representative lack notice of any ongoing accounting proceedings.\n\u00b624 This analysis is consistent with canons of statutory construction adopted by this court. In cases of statutory inconsistencies, the later and more specific statute controls over the earlier and more general one. Diaz v. State, 175 Wn.2d 457, 470, 285 P.3d 873 (2012); Michael Sinclair, A Guide to Statutory Interpretation 138 (2000). Thus, even if one concludes that the plain language of TEDRA and the TAA cannot be squared, TEDRA, as the later statute more specific to Rachel\u2019s breach of trust action, would control. And TEDRA explicitly tolls the statute of limitations during minority where no guardian has been appointed.\n\u00b625 Respondents\u2019 argument to the contrary lacks support. Respondents hinge their argument on the language of finality contained in the TAA and the interpretation of this language in a Court of Appeals case, In re Testamentary Trs. for Barovic, 128 Wn. App. 196, 114 P.3d 1230 (2005). But Barovic, while recognizing that a TAA accounting cannot be revised once approved by the court, in fact supports the allowance of an independent cause of action for breach of trust. Though the Barovic court did hold that Barovic relinquished his right to recover sums that should have been reported on past accounting statements because the TAA accountings were final and Barovic never appealed, the court also noted that Barovic did not file an action for breach of fiduciary duty under TEDRA. Id. at 202 n.7 (\u201cBarovic claims that Pemberton breached her fiduciary duty. But he never filed an action for breach of fiduciary duty. See RCW 11.96A.070(l)(a) (actions for breach of fiduciary duty have three-year statutes of limitation).\u201d). Barovic supports our reading of the statutes.\nD. Additional Arguments\n\u00b626 Respondent Dussault also argues that the doctrine of judicial estoppel blocks Rachel\u2019s suit. He contends that Rachel accepted the benefits of the trust distributions, which were approved and finalized by the court, and that she cannot now complain after the fact that those benefits were improperly administered. Resp\u2019t Dussault\u2019s Suppl. Br. at 13-14. But judicial estoppel requires a party to take inconsistent positions at two judicial proceedings. See Arkison v. Ethan Allen, Inc., 160 Wn.2d 535, 538-39, 160 P.3d 13 (2007). Rachel has never taken a position in court inconsistent with the one she asserts here. She was not a party to any of the approved accountings because she was a minor and no guardian ad litem had been appointed. Judicial estoppel does not apply.\n\u00b627 Additionally, Dussault and Wells Fargo contend that collateral estoppel and res judicata block this action because Rachel chose not to appeal the superior court\u2019s summary dismissal of her claim against her mother, instead focusing her appellate efforts on her claims against respondents. Resp\u2019t Dussault\u2019s Answer to Pet. for Review at 14-16; Wells Fargo Bank, NA\u2019s Resp. to Pet. for Review at 11-12. Neither collateral estoppel nor res judicata apply because here the issues and claims are not being relitigated but rather were appealed first to the Court of Appeals and are now on review in this court. An appeal is not a second adjudication for collateral estoppel or res judicata purposes. See Fred Hutchinson Cancer Research Ctr. v. Holman, 107 Wn.2d 693, 708, 732 P.2d 974 (1987) (rejecting the argument that the release of a cotrustee compromises an appeal as to the remaining trustee); Miller v. St. Regis Paper Co., 60 Wn.2d 484, 485, 374 P.2d 675 (1962) (\u201c[TJhe rejection of an industrial insurance claim on the ground that the workman was not in the course of his employment, from which no appeal is taken, is res judicata against the employer in a subsequent action by the workman.\u201d (emphasis added)). Rachel, and all appellants, are free to challenge on appeal all or some of the claims and issues decided by the trial court. Her appeal as to respondents cannot be barred simply because she did not appeal as to Andrea. Preclusion does not apply.\n\u00b628 Finally, at oral argument, respondents suggested that because McMenamin acted as Rachel\u2019s personal injury attorney and oversaw the creation of her special needs trust, he stepped into the shoes of a guardian, though he was never formally designated as such. We decline to reach this argument raised for the first time at oral argument and unaddressed in the parties\u2019 briefing. RAP 12.1. Moreover, there is no evidence in the record that McMenamin served in this role.\nCONCLUSION\n\u00b629 We hold that the TAA does not bar Rachel\u2019s claims. Because she did not have a guardian ad litem when her trust accountings were filed with and approved by the court, she did not have the required notice of those proceedings and so cannot now be barred by them. TEDRA\u2019s three-year statute of limitations is tolled for minors without guardians, and Rachel\u2019s claims are timely under this provision. In addition to the issues of judicial estoppel and preclusion addressed above, respondents urge us to decide several other contingent arguments raised, but not decided, at the Court of Appeals. Though this court may review de novo all trial court errors of law, here the trial court\u2019s summary judgment hearing and order suggest it thought Rachel\u2019s claim was barred by the TAA. Rather than addressing undeveloped arguments with little briefing and no clear trial court consideration, we leave it to the trial court on remand to evaluate the merits of these contingent claims. Accordingly, we reverse the Court of Appeals, vacate its award of attorney fees, and remand for further proceedings.\nC. Johnson, Fairhurst, Stephens, Wiggins, Gonz\u00e1lez, Gordon McCloud, and Yu, JJ, and Dwyer, J. Pro Tem., concur.\nReconsideration denied January 9, 2015.\n\u201cFurther, it is not the intent of this Court that the funds provided by this settlement be used to excuse the obligations of her natural parents to provide for RACHEL MARGUERITE RODGERS\u2019s continuing maintenance and basic support in accordance with their natural support obligations for minor children under the laws of the State of Washington. Payments from this Trust shall be supplemental to such support obligations and shall not supplant the basic support obligation of the natural parents as determined by the laws of the State of Washington.\u201d Clerk\u2019s Papers at 295.\n\u201cTo the extent there is no conflict of interest between the representative and the person represented . . . (b) A guardian of the person may represent and bind the incapacitated person [or] (f) A parent may represent and bind the parent\u2019s minor or unborn child or children if a guardian for the child or children has not been appointed.\u201d RCW 11.96A.120(4).\nIn particular, respondents argue that the terms of the trust agreement bar Rachel\u2019s suit, that Dussault did not owe Rachel a duty and therefore cannot be sued for malpractice, and that no breach of duty occurred.",
+        "type": "majority",
+        "author": "Madsen, C.J."
+      }
+    ],
+    "attorneys": [
+      "Catherine Wright Smith and Ian C. Cairns (of Smith Goodfriend, PS); and Carl L. Gay (of Greenaway Gay & Tulloch), for petitioner.",
+      "William L. Cameron and Sam B. Franklin (of Lee Smart PS); Steven Goldstein and Shawna M. Lydon (of Betts Patterson & Mines PS); and James R. Hennessey and Julia K. Doyle (of Smith & Hennessey PLLC), for respondents."
+    ],
+    "corrections": "",
+    "head_matter": "[No. 89788-3.\nEn Banc.]\nArgued June 24, 2014.\nDecided September 4, 2014.\nRachel Marguerite Anderson, Petitioner, v. William L.E. Dussault et al., Respondents.\nCatherine Wright Smith and Ian C. Cairns (of Smith Goodfriend, PS); and Carl L. Gay (of Greenaway Gay & Tulloch), for petitioner.\nWilliam L. Cameron and Sam B. Franklin (of Lee Smart PS); Steven Goldstein and Shawna M. Lydon (of Betts Patterson & Mines PS); and James R. Hennessey and Julia K. Doyle (of Smith & Hennessey PLLC), for respondents."
+  },
+  "file_name": "0360-01",
+  "first_page_order": 402,
+  "last_page_order": 416
+}

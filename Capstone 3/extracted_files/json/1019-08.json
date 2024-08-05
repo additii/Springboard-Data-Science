@@ -1,0 +1,76 @@
+{
+  "id": 12462898,
+  "name": "State, Respondent, v. Staats, Petitioner",
+  "name_abbreviation": "State v. Staats",
+  "decision_date": "2016-11-02",
+  "docket_number": "No. 93303-1",
+  "first_page": "1019",
+  "last_page": "1019",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "186 Wash. 2d 1019"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Wash.",
+    "id": 9029,
+    "name": "Washington Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 38,
+    "name_long": "Washington",
+    "name": "Wash."
+  },
+  "cites_to": [
+    {
+      "cite": "194 Wn. App. 1012",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        12451721,
+        12451722,
+        12451723
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/194/1012-01",
+        "/wash-app/194/1012-02",
+        "/wash-app/194/1012-03"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 30,
+    "char_count": 206,
+    "ocr_confidence": 0.859,
+    "sha256": "b11f8f630ffb7273acde0119281c5b03a439d665b1dec5f3a8c4482023392ca2",
+    "simhash": "1:2499bcb91041cd73",
+    "word_count": 33
+  },
+  "last_updated": "2024-02-27T18:43:05.207238+00:00",
+  "provenance": {
+    "date_added": "2019-05-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "State, Respondent, v. Staats, Petitioner,"
+    ],
+    "opinions": [
+      {
+        "text": "Petition for review of a decision of the Court of Appeals, Nos. 32671-3-III and 32672-1-III, May 24, 2016, 194 Wn. App. 1012. Denied November 2, 2016.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "State, Respondent, v. Staats, Petitioner,\nNo. 93303-1."
+  },
+  "file_name": "1019-08",
+  "first_page_order": 1005,
+  "last_page_order": 1005
+}

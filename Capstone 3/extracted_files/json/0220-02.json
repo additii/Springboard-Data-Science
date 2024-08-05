@@ -1,0 +1,63 @@
+{
+  "id": 8727222,
+  "name": "Gaines v. Rives",
+  "name_abbreviation": "Gaines v. Rives",
+  "decision_date": "1847-07",
+  "docket_number": "",
+  "first_page": "220",
+  "last_page": "222",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "8 Ark. 220"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 248,
+    "char_count": 3780,
+    "ocr_confidence": 0.468,
+    "sha256": "18c48088873f1801116ca5a3764f519016300f18d94f223e974ddfa6fd5f6315",
+    "simhash": "1:d8d95d326b77fcda",
+    "word_count": 670
+  },
+  "last_updated": "2023-07-14T16:04:23.841352+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Gaines v. Rives."
+    ],
+    "opinions": [
+      {
+        "text": "Johnson, C. J.\nThis is an application made by JJenjamin P. Gaines, for a writ of mandamus, to compel the sheriff of Chicot county to receive a warrant issued by order of the County Court, in payment of his county taxes. The sheriff grounds his refusal, upon an order of the County Court, by which he was expressly prohibited from receiving any scrip bearing date previous to the first of January, 1848. It is declared by the 33d sec. of chap. 41, of the Revised Code, that \u201call warrants drawn on the treasury, shall be paid out of any money in the treasury, not otherwise appropriated or out of the particular fund expressed therein, and shall be received in payment of all taxes, debts, fines, penalties, and forfeitures accruing to the county. If this enactment is within the constitutional power of the Legislature, then there can be no doubt but that the petitioner had the right to pay his taxes to the county, in her own issues, and that he would be entitled to the aid of the law in enforcing it. The defendant, in his argument, has raised numerous questions relative to the constitutional power of the County Courts, which we do not conceive to be involved in the present proceeding: and as such, we shall express no opinion upon them. The Legislature, under the constitution, doubtless, possessed the power to prescribe the utmost limit of county taxation, and also to provide the mode of its collection; but they certainly could not require the counties to receive, in payment of taxes, any other species of funds than that which is recognized as a currency by the constitution of the United States. By that instrument, the State Legislatures are expressly inhibited from making any thing but gold and silver a legal tender. It is manifest that the Legislature would have no power to require an individual to receive any thing but gold and silver in payment of his debts, and it is equally clear that the several counties of the State have the same protection from the constitution of the country. The petitioner cannot complain that he is remediless in the premises, as the county is subject to suit, and the judicial tribunals of the country are, at all times, open to him for the enforcement of his demands. If the County Court had ordered the sheriff to receive the scrip of the county for taxes, he would have been bound to obey, but certainly she could not be forced, without her consent, to receive any other than gold or silver in payment of her debts. Suppose the Legislature should pass an act providing that the indebtedness of every individual in the \u201eState should be a lawful tender, would such tender by the debtor and refusal by the creditor, constitute a bar to an action, or be any defence whatever? We think not. The principle is the same in respect to corporations. We think it clear, therefore, that the scrip of the county of Chicot, was not a legal tender in payment 'of her taxes, and that therefore the writ, of mandamus ought not to be awarded. The writ is therefore refused.",
+        "type": "majority",
+        "author": "Johnson, C. J."
+      }
+    ],
+    "attorneys": [
+      "Pike & Baldwin, for the application.",
+      "Ringo & Trapxall, contra,",
+      "Oldham, J.; absent."
+    ],
+    "corrections": "",
+    "head_matter": "Gaines v. Rives.\nWhere the County Court of .a county orders the sheriff to receive nothing but gold or silver coin in payment of taxes, he is not authorized to receive the scrip of that county in such payment.\nAnd it seems that sec. 33, cha\u00a1\u00a1. 41, Rev. Stat., requiring county scrip to be received hi payment of all taxes and other dues to the county, is void.\nMotion for Mandamus.\nThis was an application to this court for mandamus to Rives, the sheriff of Chicot county, to compel him to receive in payment of the county taxes due from the petitioner, the scrip or warrants issued by the county in payment of its own debts*. The facts sufficiently appear in the opinion of the court.\nPike & Baldwin, for the application.\nRingo & Trapxall, contra,\nOldham, J.; absent."
+  },
+  "file_name": "0220-02",
+  "first_page_order": 220,
+  "last_page_order": 222
+}

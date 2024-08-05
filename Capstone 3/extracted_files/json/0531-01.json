@@ -1,0 +1,946 @@
+{
+  "id": 6793162,
+  "name": "The State of Washington, Respondent, v. Michael Shane Cates, Petitioner",
+  "name_abbreviation": "State v. Cates",
+  "decision_date": "2015-07-02",
+  "docket_number": "No. 89965-7",
+  "first_page": "531",
+  "last_page": "549",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "183 Wash. 2d 531"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Wash.",
+    "id": 9029,
+    "name": "Washington Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 38,
+    "name_long": "Washington",
+    "name": "Wash."
+  },
+  "cites_to": [
+    {
+      "cite": "303 P.3d 1042",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2013,
+      "opinion_index": 0
+    },
+    {
+      "cite": "177 Wn.2d 520",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4131520
+      ],
+      "year": 2013,
+      "pin_cites": [
+        {
+          "page": "525"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/177/0520-01"
+      ]
+    },
+    {
+      "cite": "913 P.2d 424",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1996,
+      "opinion_index": 0
+    },
+    {
+      "cite": "81 Wn. App. 198",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        310770
+      ],
+      "year": 1996,
+      "pin_cites": [
+        {
+          "page": "200"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/81/0198-01"
+      ]
+    },
+    {
+      "cite": "237 F.3d 251",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        11160199
+      ],
+      "weight": 2,
+      "year": 2001,
+      "pin_cites": [
+        {
+          "page": "253"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/237/0251-01"
+      ]
+    },
+    {
+      "cite": "341 P.3d 280",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2015,
+      "opinion_index": 0
+    },
+    {
+      "cite": "182 Wn.2d 388",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4075723
+      ],
+      "year": 2015,
+      "pin_cites": [
+        {
+          "page": "394-95"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/182/0388-01"
+      ]
+    },
+    {
+      "cite": "916 P.2d 374",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1996,
+      "opinion_index": 0
+    },
+    {
+      "cite": "129 Wn.2d 238",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        904201
+      ],
+      "year": 1996,
+      "pin_cites": [
+        {
+          "page": "255-56"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/129/0238-01"
+      ]
+    },
+    {
+      "cite": "193 P.3d 678",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2008,
+      "pin_cites": [
+        {
+          "parenthetical": "quoting First United Methodist Church of Seattle v. Hr'g Exam'r for Seattle Landmarks Pres. Bd., 129 Wn.2d 238, 255-56, 916 P.2d 374 (1996)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "164 Wn.2d 739",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        3996450
+      ],
+      "year": 2008,
+      "pin_cites": [
+        {
+          "page": "751",
+          "parenthetical": "quoting First United Methodist Church of Seattle v. Hr'g Exam'r for Seattle Landmarks Pres. Bd., 129 Wn.2d 238, 255-56, 916 P.2d 374 (1996)"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/164/0739-01"
+      ]
+    },
+    {
+      "cite": "239 P.3d 1059",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2010,
+      "opinion_index": 0
+    },
+    {
+      "cite": "169 Wn.2d 782",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4010323
+      ],
+      "year": 2010,
+      "pin_cites": [
+        {
+          "page": "786-91"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/169/0782-01"
+      ]
+    },
+    {
+      "cite": "179 Wn. App. 1002",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        4105118,
+        4103447,
+        4101934,
+        4104319
+      ],
+      "year": 2014,
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/179/1002-03",
+        "/wash-app/179/1002-01",
+        "/wash-app/179/1002-04",
+        "/wash-app/179/1002-02"
+      ]
+    },
+    {
+      "cite": "248 P.3d 484",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "weight": 2,
+      "year": 2011,
+      "opinion_index": 1
+    },
+    {
+      "cite": "170 Wn.2d 746",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4013200
+      ],
+      "year": 2011,
+      "pin_cites": [
+        {
+          "page": "754"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/170/0746-01"
+      ]
+    },
+    {
+      "cite": "92 P.3d 228",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "weight": 2,
+      "year": 2004,
+      "opinion_index": 1
+    },
+    {
+      "cite": "151 Wn.2d 793",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        428177
+      ],
+      "year": 2004,
+      "pin_cites": [
+        {
+          "page": "803"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/151/0793-01"
+      ]
+    },
+    {
+      "cite": "979 P.2d 833",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1999,
+      "opinion_index": 1
+    },
+    {
+      "cite": "138 Wn.2d 343",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        887355
+      ],
+      "year": 1999,
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/138/0343-01"
+      ]
+    },
+    {
+      "cite": "868 P.2d 134",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1994,
+      "opinion_index": 1
+    },
+    {
+      "cite": "123 Wn.2d 260",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        812791
+      ],
+      "year": 1994,
+      "pin_cites": [
+        {
+          "page": "274"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/123/0260-01"
+      ]
+    },
+    {
+      "cite": "132 S. Ct. 945",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12446025,
+        12186415
+      ],
+      "weight": 3,
+      "year": 2012,
+      "pin_cites": [
+        {
+          "page": "955",
+          "parenthetical": "Sotomayor, J., concurring"
+        },
+        {
+          "parenthetical": "Sotomayor, J., concurring"
+        },
+        {
+          "page": "955"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/l-ed-2d/181/0911-01",
+        "/us/565/0400-01"
+      ]
+    },
+    {
+      "cite": "319 P.3d 9",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "weight": 2,
+      "year": 2014,
+      "pin_cites": [
+        {
+          "parenthetical": "alteration in original"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "179 Wn.2d 862",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4033593
+      ],
+      "year": 2014,
+      "pin_cites": [
+        {
+          "page": "869-70"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/179/0862-01"
+      ]
+    },
+    {
+      "cite": "156 P.3d 864",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2007,
+      "opinion_index": 1
+    },
+    {
+      "cite": "160 Wn.2d 236",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        3630828
+      ],
+      "year": 2007,
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/160/0236-01"
+      ]
+    },
+    {
+      "cite": "158 P.3d 27",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "weight": 3,
+      "year": 2007,
+      "opinion_index": 1
+    },
+    {
+      "cite": "160 Wn.2d 354",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        3631016
+      ],
+      "year": 2007,
+      "pin_cites": [
+        {
+          "page": "366"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/160/0354-01"
+      ]
+    },
+    {
+      "cite": "192 P.3d 360",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "weight": 3,
+      "year": 2008,
+      "opinion_index": 1
+    },
+    {
+      "cite": "164 Wn.2d 515",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        3996626
+      ],
+      "year": 2008,
+      "pin_cites": [
+        {
+          "page": "522"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/164/0515-01"
+      ]
+    },
+    {
+      "cite": "867 P.2d 593",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1994,
+      "opinion_index": 1
+    },
+    {
+      "cite": "123 Wn.2d 173",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        812787
+      ],
+      "year": 1994,
+      "pin_cites": [
+        {
+          "page": "185"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/123/0173-01"
+      ]
+    },
+    {
+      "cite": "290 P.3d 983",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2012,
+      "opinion_index": 1
+    },
+    {
+      "cite": "176 Wn.2d 284",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4306513
+      ],
+      "year": 2012,
+      "pin_cites": [
+        {
+          "page": "291"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/176/0284-01"
+      ]
+    },
+    {
+      "cite": "415 U.S. 452",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6177476
+      ],
+      "weight": 3,
+      "year": 1974,
+      "pin_cites": [
+        {
+          "page": "459"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/415/0452-01"
+      ]
+    },
+    {
+      "cite": "676 P.2d 444",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "weight": 3,
+      "year": 1984,
+      "pin_cites": [
+        {
+          "page": "536"
+        },
+        {
+          "page": "535"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "100 Wn.2d 832",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1142086
+      ],
+      "year": 1984,
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/100/0832-01"
+      ]
+    },
+    {
+      "cite": "588 P2d 745",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1978,
+      "pin_cites": [
+        {
+          "parenthetical": "finding that \"petitioner lacked standing to attack the constitutionality of the statute\" because \"[o]ne cannot urge the invalidity of a statute unless harmed by the particular feature which is challenged\""
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "91 Wn.2d 249",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1101807
+      ],
+      "year": 1978,
+      "pin_cites": [
+        {
+          "page": "253",
+          "parenthetical": "finding that \"petitioner lacked standing to attack the constitutionality of the statute\" because \"[o]ne cannot urge the invalidity of a statute unless harmed by the particular feature which is challenged\""
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/91/0249-01"
+      ]
+    },
+    {
+      "cite": "544 P.2d 1242",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1976,
+      "pin_cites": [
+        {
+          "parenthetical": "\"One who is not adversely affected by a provision of a statute or ordinance has no standing to challenge the validity.\""
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "86 Wn.2d 395",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1117388
+      ],
+      "year": 1976,
+      "pin_cites": [
+        {
+          "page": "397",
+          "parenthetical": "\"One who is not adversely affected by a provision of a statute or ordinance has no standing to challenge the validity.\""
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/86/0395-01"
+      ]
+    },
+    {
+      "cite": "829 P.2d 1061",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1992,
+      "pin_cites": [
+        {
+          "parenthetical": "emphasis added"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "119 Wn.2d 178",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1370288
+      ],
+      "year": 1992,
+      "pin_cites": [
+        {
+          "page": "191",
+          "parenthetical": "emphasis added"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/119/0178-01"
+      ]
+    },
+    {
+      "cite": "514 P.2d 137",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1973,
+      "opinion_index": 1
+    },
+    {
+      "cite": "82 Wn.2d 811",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1130155
+      ],
+      "year": 1973,
+      "pin_cites": [
+        {
+          "page": "815"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/82/0811-01"
+      ]
+    },
+    {
+      "cite": "422 U.S. 490",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        9528
+      ],
+      "weight": 3,
+      "year": 1975,
+      "pin_cites": [
+        {
+          "page": "498"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/422/0490-01"
+      ]
+    },
+    {
+      "cite": "2014 WL 231550",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "*5"
+        },
+        {
+          "page": "*5"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "53 P.3d 520",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2002,
+      "opinion_index": 1
+    },
+    {
+      "cite": "113 Wn. App. 171",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        764665
+      ],
+      "weight": 4,
+      "year": 2002,
+      "pin_cites": [
+        {
+          "page": "181-82"
+        },
+        {
+          "page": "181-82",
+          "parenthetical": "internal quotation marks omitted"
+        },
+        {
+          "page": "181-82",
+          "parenthetical": "quoting court record at 200"
+        },
+        {
+          "page": "182"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-app/113/0171-01"
+      ]
+    },
+    {
+      "cite": "303 P.3d 1042",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2013,
+      "opinion_index": 1
+    },
+    {
+      "cite": "177 Wn.2d 520",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4131520
+      ],
+      "year": 2013,
+      "pin_cites": [
+        {
+          "page": "525"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/177/0520-01"
+      ]
+    },
+    {
+      "cite": "913 P.2d 424",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1996,
+      "opinion_index": 1
+    },
+    {
+      "cite": "81 Wn. App. 198",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        310770
+      ],
+      "year": 1996,
+      "pin_cites": [
+        {
+          "page": "200"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-app/81/0198-01"
+      ]
+    },
+    {
+      "cite": "237 F.3d 251",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        11160199
+      ],
+      "weight": 4,
+      "year": 2001,
+      "pin_cites": [
+        {
+          "page": "257"
+        },
+        {
+          "page": "253, 255"
+        },
+        {
+          "parenthetical": "alteration in original"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/f3d/237/0251-01"
+      ]
+    },
+    {
+      "cite": "193 P.3d 678",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "weight": 4,
+      "year": 2008,
+      "pin_cites": [
+        {
+          "parenthetical": "internal quotation marks omitted"
+        },
+        {
+          "page": "786-91"
+        },
+        {
+          "page": "789"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "164 Wn.2d 739",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        3996450
+      ],
+      "year": 2008,
+      "pin_cites": [
+        {
+          "page": "751"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/164/0739-01"
+      ]
+    },
+    {
+      "cite": "239 P.3d 1059",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2010,
+      "pin_cites": [
+        {
+          "parenthetical": "internal quotation marks omitted"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "169 Wn.2d 782",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4010323
+      ],
+      "year": 2010,
+      "pin_cites": [
+        {
+          "page": "786",
+          "parenthetical": "internal quotation marks omitted"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/169/0782-01"
+      ]
+    },
+    {
+      "cite": "179 Wn. App. 1002",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        4105118,
+        4103447,
+        4101934,
+        4104319
+      ],
+      "year": 2014,
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-app/179/1002-03",
+        "/wash-app/179/1002-01",
+        "/wash-app/179/1002-04",
+        "/wash-app/179/1002-02"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1250,
+    "char_count": 34694,
+    "ocr_confidence": 0.733,
+    "pagerank": {
+      "raw": 6.263440174314247e-08,
+      "percentile": 0.38650496611964635
+    },
+    "sha256": "459c12feae4e6537e3cef0173c58ce2311f825fdb779df0e0b8b4c2d2e0a681e",
+    "simhash": "1:a160e66eaf173570",
+    "word_count": 5521
+  },
+  "last_updated": "2024-02-27T22:09:01.011694+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Madsen, C.J., and Johnson, Owens, Stephens, and Gonz\u00e1lez, JJ., concur.",
+      "Wiggins and Gordon McCloud, JJ., concur with Fairhurst, J."
+    ],
+    "parties": [
+      "The State of Washington, Respondent, v. Michael Shane Cates, Petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "Yu, J.\n\u00b61 One of the community custody conditions imposed as part of Michael Shane Cates\u2019 sentence provides that upon release from total confinement, he must consent to home visits to monitor his compliance with other community custody provisions. Cates argues this condition violates article I, section 7 of the Washington Constitution. We affirm the Court of Appeals\u2019 holding that his challenge is not yet ripe for review.\nFACTUAL AND PROCEDURAL HISTORY\n\u00b62 Following a jury trial, Cates was convicted of two counts of first degree rape of a child and two counts of first degree child molestation. He was given a standard-range sentence for each conviction, all to run concurrently, resulting in 25 years of total confinement. He was further sentenced to 3 years of community custody upon his release and prohibited from contacting the victim.\n\u00b63 The prosecutor proposed a community custody condition that would have prohibited Cates from possessing or maintaining access to a computer without explicit authorization from his community corrections officer (CCO). Clerk\u2019s Papers (CP) at 18; 5 Verbatim Report of Proceedings (Apr. 24, 2012) (VRP) at 615. The trial court noted \u201cthat the computer certainly can be used in terms of contacting victims\u201d but was \u201cconcern [ed]\u201d because there was \u201cno evidence to support any conclusion\u201d that Cates would do so. 5 VRP at 615. Therefore, instead of the prosecutor\u2019s recommended condition, the trial court entered a modified condition providing, \u201cYou must consent to [Department of Corrections] home visits to monitor your compliance with supervision. Home visits include access for the purposes of visual inspection of all areas of the residence in which you live or have exclusive/joint control/access, to also include computers which you have access to.\u201d CP at 18; see 5 VRP at 615-16. The court orally stated that\n[h]e will have to allow his CCO to have access to any computer used by him, and if he has found \u2014 if there is any evidence that he is using it for improper purposes contacting children or accessing sexually explicit information or materials that he\u2019s already prohibited from, then he will be prohibited from using it. I will indicate that he can use a computer so long as it is subject to a search on request by his CCO, and if there is evidence that he\u2019s committing any violation by use of the computer, he will lose this right.\n5 VRP at 615. This language was not incorporated into the written judgment and sentence, either explicitly or by reference.\n\u00b64 The Court of Appeals affirmed Cates\u2019 convictions and sentence in an unpublished opinion. State v. Cates, noted at 179 Wn. App. 1002 (2014). Cates sought this court\u2019s review only as to the validity of the community custody provision requiring him to consent to home visits.\nISSUE\n\u00b65 Is Cates\u2019 challenge ripe for review on its merits?\nANALYSIS\n\u00b66 Several years ago, a unanimous opinion of this court clarified the analysis for determining whether a preenforcement challenge to a community custody condition is ripe for review on its merits. State v. Sanchez Valencia, 169 Wn.2d 782, 786-91, 239 P.3d 1059 (2010). It is ripe \u201c \u2018 \u201cif the issues raised are primarily legal, do not require further factual development, and the challenged action is final.\u201d \u2019 \u201d Id. at 786 (quoting State v. Bahl, 164 Wn.2d 739, 751, 193 P.3d 678 (2008) (quoting First United Methodist Church of Seattle v. Hr\u2019g Exam\u2019r for Seattle Landmarks Pres. Bd., 129 Wn.2d 238, 255-56, 916 P.2d 374 (1996))). Furthermore, \u201cwe must consider the hardship to the petitioner! ] if we refused to review [the] challenge on direct appeal.\u201d Id. at 789. It is undisputed that the community custody condition is a final action and Cates\u2019 challenge raises primarily legal issues. We thus consider only whether further factual development is required and the risk of hardship to Cates if we decline to address the merits of his challenge at this time.\n\u00b67 Cates contends that no further factual development is required because he is bringing a facial constitutional challenge: \u201cDid the Court of Appeals err in affirming a community custody condition that requires Mr. Cates to \u2018consent\u2019 to searches by his CCO, merely upon the CCO\u2019s request, without.specifying that the search must be based on reasonable cause?\u201d Pet. for Review at 1. Cates\u2019 challenge has no basis in the language of the condition actually imposed. The condition as written does not authorize any searches, and whether inspecting Cates\u2019 residence or computer, the State\u2019s authority is limited to that needed \u201cto monitor [Cates\u2019] compliance with supervision.\u201d CP at 18. Any oral statement by the trial court indicating otherwise has no legally binding effect and cannot form the basis for a facial challenge. See State v. Friedlund, 182 Wn.2d 388, 394-95, 341 P.3d 280 (2015); Sanchez Valencia, 169 Wn.2d at 789 (considering a facial vagueness challenge to \u201cthe condition as written\u201d). Some future misapplication of the community custody condition might violate article I, section 7, but that \u201cdepends on the particular circumstances of the attempted enforcement.\u201d Sanchez Valencia, 169 Wn.2d at 789. Further factual development is therefore needed \u2014 the State must attempt to enforce the condition by requesting and conducting a home visit after Cates is released from total confinement.\n\u00b68 Moreover, unlike the conditions considered in Sanchez Valencia, Bahl, and United States v. Loy, 237 F.3d 251, 253 (3d Cir. 2001), the risk of hardship here is insufficient to justify review of Cates\u2019 challenge before it is factually developed. In those cases, the conditions at issue prohibited possession of crime-related items and \u201cimmediately restricted] the petitioners\u2019 conduct upon their release from prison.\u201d Sanchez Valencia, 169 Wn.2d at 791. Compliance with those conditions required the petitioners to immediately dispose of such items upon their release and to refrain from obtaining new ones. Compliance here does not require Cates to do, or refrain from doing, anything upon his release until the State requests and conducts a home visit. Cates will not \u201csuffer significant risk of hardship\u201d if we decline to review the merits at this time. Id. at 790 (citing State v. Massey, 81 Wn. App. 198, 200, 913 P.2d 424 (1996)).\nCONCLUSION\n\u00b69 Under the guidelines set forth in Sanchez Valencia, we affirm the Court of Appeals\u2019 holding that Cates\u2019 preenforcement challenge is not yet ripe. Further factual development is needed, and Cates does not face a significant risk of hardship by our declining to review the merits in the absence of developed facts.\nMadsen, C.J., and Johnson, Owens, Stephens, and Gonz\u00e1lez, JJ., concur.\nA CCO \u201cmay require an offender to submit to a search\u201d but only \u201c[i]f there is reasonable cause to believe that an offender has violated a condition or requirement of the sentence.\u201d RCW 9.94A.631(1). That is a statutory provision distinct from the community custody condition here.\nMassey incorrectly stated that a defendant challenging a community custody condition must suffer actual harm before his or her claim is ripe. Jafar v. Webb, 177 Wn.2d 520, 525, 303 P.3d 1042 (2013). Nevertheless, Massey \u201cproperly determined\u201d that the defendant\u2019s challenge (which was similar to the one Cates raises here) was not ripe. Sanchez Valencia, 169 Wn.2d at 790.",
+        "type": "majority",
+        "author": "Yu, J."
+      },
+      {
+        "text": "Faiehuest, J.\nf 10 (dissenting) \u2014 I dissent because Michael Shane Cates\u2019 facial challenge to his community custody provision is ripe for review and because the computer inspection component of the community custody condition authorizing unrestricted access to Cates\u2019 personal computer by his community corrections officer (CCO) violates article I, section 7 of the Washington Constitution.\n\u00b611 Following his convictions for two counts of first degree rape and two counts of first degree child molestation, the court imposed a community custody condition that requires, \u201cYou must consent to DOC [(Department of Corrections)] home visits to monitor your compliance with supervision. Home visits include access for the purposes of visual inspection of all areas of the residence in which you live or have exclusive/joint control/access, to also include computers which you have access to.\u201d Clerk\u2019s Papers (CP) at 18. The court explained that\n[Cates] will have to allow his CCO to have access to any computer used by him, and ... if there is any evidence that he is using it for improper purposes contacting children or accessing sexually explicit information or materials that he\u2019s already prohibited from, then he will be prohibited from using it. I will indicate that he can use a computer so long as it is subject to a search on request by his CCO, and if there is evidence that he\u2019s committing any violation by use of the computer, he will lose this right.\n5 Verbatim Record of Proceedings (Apr. 24, 2012) (VRP) at 615.\n\u00b612 On appeal, Cates argued that the community custody condition violated article I, section 7 and the Fourth Amendment to the United States Constitution because it permitted Cates\u2019 CCO to conduct a search without reasonable cause in violation of RCW 9.94A.631. Cates also challenged the condition\u2019s computer inspection component on statutory grounds, arguing that the component violated RCW 9.94A.703 because it was a non-crime-related prohibition. Additionally, Cates argued that the computer inspection component was unconstitutionally overbroad under the First Amendment because it chilled his right to use a computer to store his \u201c \u2018records, reflections, and conversations.\u2019 \u201d Appellant\u2019s Opening Br. at 28 (quoting State v. Nordlund, 113 Wn. App. 171, 181-82, 53 P.3d 520 (2002)).\n\u00b613 The Court of Appeals declined to address Cates\u2019 challenge to the community custody condition because it found that Cates\u2019 challenge was not ripe for review unless and until the State subjected Cates to an improper search. State v. Cates, noted at 179 Wn. App. 1002, 2014 WL 231550, at *5, 2014 Wash. App. LEXIS 126, at *15. Cates appealed, asserting the community custody condition is unconstitutionally vague on its face.\n\u00b614 The majority\u2019s holding, affirming the Court of Appeals, that the condition will not be ripe until the State attempts to enforce the condition by conducting a home visit deviates from our precedent regarding preenforcement challenges to community custody provisions.\nThe community custody condition is ripe for review\n\u00b615 To determine whether a preenforcement challenge to a community custody condition is ripe for review, we must find that \u201c \u2018the issues raised are primarily legal, do not require further factual development, and the challenged action is final.\u2019 \u201d State v. Sanchez Valencia, 169 Wn.2d 782, 786, 239 P.3d 1059 (2010) (internal quotation marks omitted) (quoting State v. Bahl, 164 Wn.2d 739, 751, 193 P.3d 678 (2008)). As part of the ripeness analysis, we also consider \u201c \u2018the hardship to the parties of withholding court consideration.\u2019 \u201d Id. (internal quotation marks omitted) (quoting Bahl, 164 Wn.2d at 751).\n\u00b616 In Sanchez Valencia, we found the defendants\u2019 preenforcement challenge to their community custody conditions ripe for review. Id. at 786-91. We reasoned that their challenge did not require further factual development because the question presented was \u201cnot fact dependent; either the condition as written provides constitutional notice and protection against arbitrary enforcement or it does not.\u201d Id. at 789.\n\u00b617 The Court of Appeals, relying on State v. Massey, 81 Wn. App. 198, 200, 913 P.2d 424 (1996), stated that \u201c[t]he unconstitutionality of a community custody condition is not ripe for review unless the person is harmfully affected by the part of the condition alleged to be unconstitutional.\u201d Cates, 2014 WL 231550, at *5, 2014 Wash. App. LEXIS 126, at *15. In Jafar v. Webb, 177 Wn.2d 520, 525, 303 P.3d 1042 (2013), we specifically rejected the Massey \u201charmful'effect\u201d requirement, finding instead that \u201c[clurrent hardship is not a strict requirement for ripeness.\u201d (Emphasis added.)\n\u00b618 The Massey court appears to have conflated the justiciability requirements of ripeness and standing. \u201cIn essence the question of standing is whether the litigant is entitled to have the court decide the merits of the dispute or of particular issues.\u201d Warth v. Seldin, 422 U.S. 490, 498, 95 S. Ct. 2197, 45 L. Ed. 2d 343 (1975). In contrast, ripeness seeks to prevent courts from resolving \u201cpossible, dormant, hypothetical, speculative, or moot disagreement[s],\u201d or entertaining disputes that are merely, \u201cpotential, theoretical, abstract or academic,\u201d by ensuring that the controversy has sufficiently developed to become suitable for judicial determination; \u201cotherwise the court steps into the prohibited area of advisory opinions.\u201d Diversified Indus. Dev. Corp. v. Ripley, 82 Wn.2d 811, 815, 514 P.2d 137 (1973).\n\u00b619 We have repeatedly held that \u201c[a] litigant does not have standing to challenge a statute on constitutional grounds unless the litigant is harmed by the particular feature of the statute which is claimed to be unconstitutional.\u201d Kadoranian v. Bellingham Police Dep\u2019t, 119 Wn.2d 178, 191, 829 P.2d 1061 (1992) (emphasis added); see also, e.g., Bitts, Inc. v. City of Seattle, 86 Wn.2d 395, 397, 544 P.2d 1242 (1976) (\u201cOne who is not adversely affected by a provision of a statute or ordinance has no standing to challenge the validity.\u201d); State v. McCarter, 91 Wn.2d 249, 253, 588 P2d 745 (1978) (finding that \u201cpetitioner lacked standing to attack the constitutionality of the statute\u201d because \u201c[o]ne cannot urge the invalidity of a statute unless harmed by the particular feature which is challenged\u201d), overruled on other grounds by In re Det. of McLaughlin, 100 Wn.2d 832, 676 P.2d 444 (1984). The State has not challenged Cates\u2019 standing to raise his claims, and we have stated unequivocally that \u201ca criminal defendant always has standing to challenge his or her sentence on grounds of illegality.\u201d Bahl, 164 Wn.2d at 750 (emphasis added).\n\u00b620 I find that the Court of Appeals misplaced its reliance on Massey to resolve the ripeness inquiry. The majority agrees that Massey incorrectly found that a defendant challenging a community custody condition must suffer actual harm before his or her claim is ripe. Majority at 536 n.2. However, the majority relies on the court\u2019s reasoning in Massey to find that Cates\u2019 claim is not ripe and states that Massey was ultimately decided correctly. See id. at 536. I find it important to reject the language and test used in Massey and to proceed under the proper Sanchez Valencia ripeness test.\nCates\u2019 challenge does not require further factual development\n\u00b621 The State concedes and the majority agrees that Cates\u2019 challenge is primarily legal and that the challenged action is final. However, the State argues and the majority holds that Cates\u2019 claims will not ripen until the State takes additional action because reasonable cause is a legal conclusion that depends on the specific factual circumstances of a search, and because Cates has not yet been subject to a search, his claims therefore require further factual development. Id. at 535.1 disagree.\n\u00b622 Cates\u2019 challenge does not require further factual development. Cates has not challenged the legality of a particular search; rather, Cates contends that his community custody computer condition, as written, violates distinct constitutional provisions. The community custody condition requires Cates to consent to DOC\u2019s inspection of his computer. Cates asserts that the community custody condition is unconstitutionally vague. In contrast to the majority\u2019s assertion that Cates\u2019 challenge rests on some future misapplication of the condition, whether the condition is valid or violates the constitution is purely a question of law. The State need not conduct an allegedly illegal search for us to determine whether the community custody condition itself violates the constitutional provisions on which Cates relies. Such factual development would be irrelevant to the legal question.\n\u00b623 I also find that the condition imposes a hardship on Cates that counsels in favor of our review. In Bahl, we found Bahl\u2019s preenforcement challenge to his community custody condition ripe for review. 164 Wn.2d at 747-52. There, the State argued that the conditions imposed no immediate hardship on Bahl because Bahl was still in prison and the conditions did not yet apply to him. Id. at 751. We rejected that argument. We noted that the conditions would immediately restrict Bahl upon his release and that nothing could change before Bahl\u2019s release that would affect our analysis of the legal question presented. Id. at 751-52.\n\u00b624 In Bahl, we cited with approval the Third Circuit\u2019s reasoning in United States v. Loy, 237 F.3d 251, 257 (3d Cir. 2001), that \u201cthe fact that a party may be forced to alter his behavior so as to avoid penalties under a potentially illegal regulation is, in itself, a hardship.\u201d The Loy court reasoned that a criminal defendant need not \u201c \u2018expose himself to actual arrest or prosecution to be entitled to challenge a statute that he claims deters the exercise of his constitutional rights.\u2019 \u201d Id. (quoting Steffel v. Thompson, 415 U.S. 452, 459, 94 S. Ct. 1209, 39 L. Ed. 2d 505 (1974)).\n\u00b625 The majority asserts that Cates\u2019 community custody condition is different from the conditions imposed on the defendants in Bahl, Sanchez Valencia, and Loy. In those cases, compliance with the conditions required the petitioners to immediately remove certain items from their residence. See Bahl, 164 Wn.2d at 743; Sanchez Valencia, 169 Wn.2d at 785; Loy, 237 F.3d at 253, 255. The condition here requires Cates to consent to DOC inspecting his computer. According to the majority, because Cates\u2019 condition does not immediately require him to do something or to refrain from doing something, it does not impose a significant hardship. Majority at 536.\n\u00b626 However, the Bahl reasoning applies here. According to the community custody condition, Cates must consent to visual inspections of his computer by a CCO. The community custody condition will immediately constrain Cates the moment he is released; the fact that he may be forced to alter his behavior to avoid violating that condition itself indicates a hardship. Even if the hardship imposed by Cates\u2019 condition is not as significant as those in Bahl, Sanchez Valencia, and Loy, this does not mean that we must decline review of the community custody computer condition. The hardship imposed by withholding consideration must be considered. See Sanchez Valencia, 169 Wn.2d at 786.\n\u00b627 The majority asserts that Cates\u2019 challenge has \u201cno basis in the language of the condition actually imposed\u201d because the community custody condition, as written, does not authorize a search. Majority at 535. The majority opines that the State\u2019s authority to inspect Cates\u2019 computer is limited to that needed \u201c \u2018to monitor [Cates\u2019] compliance with supervision.\u2019\u201d Id. (alteration in original) (quoting CP at 18). However, as written, the terms of the condition allow for a search without reasonable cause. The condition allows the CCO to have access to Cates\u2019 computer for visual inspection to monitor Cates\u2019 compliance with supervision. Given the amount of personal and private information that can be stored on a computer and the ambiguity regarding what constitutes \u201caccess\u201d for visual inspection of a computer, the condition may allow unconstitutional searches. Because I find Cates\u2019 challenge ripe for review, I would proceed to the merits of Cates\u2019 claim.\nThe computer inspection component of the community custody condition is unconstitutional\n\u00b628 The Washington Constitution protects against illegal searches in article I, section 7, which provides that \u201c[n]o person shall be disturbed in his private affairs, or his home invaded, without authority of law.\u201d Our court recognizes that the protections in article I, section 7 are \u201cgrounded in a broad right to privacy and the need for legal authorization in order to disturb that right,\u201d State v. Chacon Arreola, 176 Wn.2d 284, 291, 290 P.3d 983 (2012), and that \u201ca person\u2019s home is a highly private place,\u201d State v. Young, 123 Wn.2d 173, 185, 867 P.2d 593 (1994).\n\u00b629 In this context, where Cates facially challenges his community custody condition, rather than the propriety of a specific governmental action, we must determine whether the condition facially authorizes an impermissible search. Whether or not a governmental action constitutes an impermissible search requires a two-part analysis. First, we ask whether the government has disturbed one\u2019s private affairs; second, if, and only if, there has been such a disturbance, we ask whether that disturbance was authorized by law. State v. Puapuaga, 164 Wn.2d 515, 522, 192 P.3d 360 (2008).\n\u00b630 The private affairs inquiry protects only those privacy interests that Washington citizens have held, and should be entitled to hold, safe from governmental trespass absent a warrant. Id. We do not consider the subjective privacy expectations of the individual in question because such expectations do not illuminate those privacy interests that the citizens of this state have held or should be entitled to hold. Id. Instead, we examine the historical treatment of the asserted interest, analogous case law, and statutes and laws supporting the claimed interest. State v. Athan, 160 Wn.2d 354, 366, 158 P.3d 27 (2007).\n\u00b631 At oral argument, the State asserted that the computer inspection component permitted a CCO literally only to visually inspect Cates\u2019 computer. Wash. Supreme Court oral argument, State v. Cates, No. 89965-7 (Sept. 30, 2014), at 19 min., 50 sec. to 25 min., 20 sec., audio recording by TVW, Washington State\u2019s Public Affairs Network, http:// www.tvw.org. The State argued that a CCO could look at the computer, perceive whatever content may be displayed on the monitor, and observe any notes that may be near or attached to the computer. Id. The State did not argue that the component permitted a CCO to actively inspect the digital contents and files stored on the computer.\n\u00b632 I disagree with the State\u2019s characterization. The trial court clarified the meaning of the computer inspection component by saying that it gave Cates\u2019 CCO \u201caccess to any computer used by [Cates], and . . . that [Cates] can use a computer so long as it is subject to a search on request by his CCO.\u201d 5 VRP at 615 (emphasis added). The court explained that the search was meant to allow the CCO to look for evidence to determine whether Cates was using the computer to contact children or access sexually explicit materials. Id.\n\u00b633 The court\u2019s comments clearly indicate that it intended the computer inspection component to permit Cates\u2019 CCO to search Cates\u2019 computer. I am not persuaded that a search of a computer means merely beholding its presence; rather, a search of a computer means scrutinizing the digital contents stored on the computer. Similarly, in this context \u201caccess\u201d means \u201cfreedom or ability to obtain or make use of.\u201d Webster\u2019s Third New International Dictionary 11 (2002). One does not make use of a computer by simply eyeing the physical frame. One most naturally makes use of a computer by examining its digital contents.\n\u00b634 I also find the State\u2019s characterization unavailing because we would render the computer inspection component superfluous if we imbued it with the meaning assigned by the State. The inspection that it purports to permit would already be permitted by the home visit component pursuant to the plain view doctrine. I therefore find that the computer inspection component facially authorizes Cates\u2019 CCO to inspect the contents of Cates\u2019 computer.\n\u00b635 I must now determine whether that inspection constitutes a disturbance of Cates\u2019 private affairs. In State v. Miles, 160 Wn.2d 236, 156 P.3d 864 (2007), we held that a citizen\u2019s bank records fall under the private affairs umbrella due, in part, to the type of information they may contain. We considered that \u201c[p]rivate bank records may disclose what the citizen buys, how often, and from whom. They can disclose what political, recreational, and religious organizations a citizen supports. They potentially disclose where the citizen travels, their affiliations, reading materials, television viewing habits, financial condition, and more.\u201d Id. at 246-47.\n\u00b636 Similarly, in State v. Hinton, we found that the contents of a person\u2019s text messages constitute private affairs. 179 Wn.2d 862, 869-70, 319 P.3d 9 (2014). We reasoned that text messages expose \u201ca \u2018wealth of detail about [a person\u2019s] familial, political, professional, religious, and sexual associations.\u2019 Text messages can encompass the same intimate subjects as phone calls, sealed letters, and other traditional forms of communication that have historically been strongly protected under Washington law.\u201d Id. (alteration in original) (citation omitted) (quoting United States v. Jones, _U.S. _, 132 S. Ct. 945, 955, 181 L. Ed. 2d 911 (2012) (Sotomayor, J., concurring)).\n\u00b637 A computer raises, to an even greater degree, the same concerns that we considered in Miles and Hinton. Not only does a computer contain the same type of information that a bank record may reveal, but in our increasingly paperless world, a computer likely contains an individual\u2019s actual bank records. A computer may also contain a person\u2019s e-mail correspondence, which implicate the same intimate subjects encompassed by one\u2019s text messages\u2014 and probably more. It is not a stretch to say that as \u201c \u2018the modern day repository of a man\u2019s records, reflections, and conversations,\u2019 \u201d Nordlund, 113 Wn. App at 181-82 (internal quotation marks omitted) (quoting court record), the contents of a computer expose \u201ca \u2018wealth of detail about [a person\u2019s] familial, political, professional, religious, and sexual associations,\u2019 \u201d Hinton, 179 Wn.2d at 869 (alteration in original) (quoting Jones, 132 S. Ct. at 955).\n\u00b638 The computer inspection component in Cates\u2019 community custody condition protects none of this information. On its face, the computer inspection component does not limit the scope of the inspection. Instead, it purports to authorize unfettered access to all of the contents on Cates\u2019 computer. While some of the information on Cates\u2019 computer may be relevant to his compliance with his community custody conditions, much of it is not. The computer inspection component does nothing to protect this unrelated information.\n\u00b639 I realize that one\u2019s home, in general, may enjoy greater privacy protection than even one\u2019s personal property and that an offender on community custody enjoys substantially reduced privacy interests in both. However, it is not correct that such an offender enjoys no privacy protections at all. Cates\u2019 community custody condition does not violate his private affairs by authorizing a visual inspection of his home because the condition appropriately limits the scope of that inspection only to the extent necessary to monitor his compliance with the terms of his sentence. In contrast, the computer inspection component attempts to allow Cates\u2019 CCO access not only to information that may help monitor Cates\u2019 compliance with the terms of his sentence, but also to highly private information entirely unrelated to Cates\u2019 term of community custody. I therefore would find that the computer inspection component facially authorizes an intrusion into Cates\u2019 private affairs.\n\u00b640 I also would find that this intrusion is not authorized by law. Normally, the State may obtain authority of law from a valid search warrant. Id. at 868. A Washington court\u2019s authority to issue a search warrant must derive from specific statutory authorizations or court rules. City of Seattle v. McCready, 123 Wn.2d 260, 274, 868 P.2d 134 (1994). Statutory authorization means a statute that authorizes a court to issue a warrant \u2014 a statute may not simply dispense with the warrant requirement. State v. Ladson, 138 Wn.2d 343, 352 n.3, 979 P.2d 833 (1999). In the absence of a warrant, the State must show that the intrusion \u201cfalls within one of the jealously guarded and carefully drawn exceptions to the warrant requirement.\u201d Hinton, 179 Wn.2d at 869.\n\u00b641 The trial court did not have statutory authority to impose the computer inspection component on Cates. As we have stated, under the statutory scheme a court may impose community custody conditions that in other circumstances might qualify as a search \u2014 without any cause requirement \u2014 so long as the court limits those procedures to the extent necessary to monitor the offender\u2019s compliance with the terms of his sentence. But a court may not require an offender to accept an unrestricted incursion into his private affairs, entirely divorced from the legitimate demands of the community custody process, as the trial court did here. I can find no statute authorizing a warrant-less search of an offender on community custody without restriction. A warrantless search of such an offender is permissible only if the offender\u2019s CCO can at least show reasonable cause to believe the offender has violated his community custody conditions.\n\u00b642 The computer inspection component plainly permits a search of Cates\u2019 computer without the reasonable cause required by RCW 9.94A.631. The condition states that the computer inspections shall be included in the visual inspections permitted during the CCO\u2019s home visits. The computer inspections necessarily constitute a search. By including the computer inspection component \u2014 which necessarily requires at least reasonable cause \u2014 within an otherwise appropriate monitoring condition, the condition facially authorizes a search of Cates\u2019 computer without any requisite suspicion that Cates has violated the terms of his community custody. I find support for my reading of the condition in the statement from the trial court that the component permits Cates to use a computer \u201cso long as it is subject to a search on request by his CCO.\u201d 5 VRP at 615 (emphasis added). The court\u2019s statement does not indicate that it envisioned any degree of cause being necessary for that search. The trial court may not authorize an otherwise baseless search of an offender\u2019s private affairs.\n\u00b643 While the computer community custody condition purports to provide Cates\u2019 consent, this language does not establish consent in a constitutional sense. State v. Thompson, 151 Wn.2d 793, 803, 92 P.3d 228 (2004). One gives consent to a search when (1) that person gives such consent voluntarily, (2) that person has authority to grant such consent, and (3) the search does not exceed the scope of the consent. Id. We require consent to be both meaningful and informed. State v. Schultz, 170 Wn.2d 746, 754, 248 P.3d 484 (2011).\n\u00b644 Cates\u2019 consent, if any, could arise only from the fact that he signed his judgment and sentence. But I do not find this consent meaningful. Cates must consent to the search of his computer or face the possibility of having his community custody revoked and being returned to prison. And this consent was imposed on Cates by the trial court as a condition of his community custody \u2014 such consent is not voluntary.\n\u00b645 Because the computer inspection component in Cates\u2019 community custody condition purports to allow an intrusion into Cates\u2019 private affairs without authority of law, I would hold that the computer inspection component facially violates the protections in article I, section 7. I would invalidate the computer inspection component on that basis.\n\u00b646 Cates\u2019 challenge to the computer inspection of his community custody provision is ripe for this court\u2019s consideration. We need not require Cates to suffer the potential consequences of the condition to challenge its constitutional validity. The State concedes that the issues are primarily legal and that the challenged action is final. Cates\u2019 challenge satisfies the third requirement of ripeness because it does not require further factual development. Ripeness does not require a current hardship, and nothing will change prior to Cates\u2019 release that will alter the analysis of whether the community custody condition, on its face, allows unconstitutional searches. Therefore, I would reverse the Court of Appeals, reach the merits of Cates\u2019 challenge, and hold that the computer inspection component of the community custody condition is unconstitutional.\nWiggins and Gordon McCloud, JJ., concur with Fairhurst, J.\nI would hold that the community custody condition permitting Cates\u2019 CCO to conduct home visits and visual inspection of Cates\u2019 residence does not constitute prohibited governmental intrusion into his private affairs under article I, section 7.\nFormer RCW 9.94A.195 (1984) was recodified as RCW 9.94A.631 in 2001 and provided, in relevant part, that \u201c[i]f there is reasonable cause to believe that an offender has violated a condition or requirement of the sentence, an offender may be required to submit to a search and seizure of the offender\u2019s person, residence, automobile, or other personal property.\u201d\nI use the phrase \u201ccomputer inspection component\u201d to refer to the language \u201cto also include computers which you have access to\u201d in the community custody condition. CP at 18.\nRCW 9.94A.703(3) provides, in relevant part, that \u201c[a]s part of any term of community custody, the court may order an offender to ... (f) [cjomply with any crime-related prohibitions.\u201d\n\u201c[Cates] is challenging the constitutionality of the condition of community custody that requires him to \u2018consent\u2019 to random, suspicionless searches or face arrest and jail.\u201d Suppl. Br. of Pet\u2019r at 16. Cates is not challenging the constitutionality or legality of a particular search. Id.\nSanchez Valencia provides the appropriate test for determining whether a preenforcement challenge to a community custody provision is ripe for review.\nThe Court of Appeals has noted that the personal computer is a \u201c \u2018modern day repository of a man\u2019s records, reflections, and conversations.\u2019 \u201d Nordlund, 113 Wn. App. at 181-82 (quoting court record at 200). Because the computer contains such personal and private information, the court in Nordlund noted that the search of a computer implicates both the First and Fourth Amendments. Id. at 182.\nAs noted, I agree the home visits do not violate article I, section 7 because they qualify as an appropriate monitoring condition, which means that a CCO does not need any degree of cause to carry them out.",
+        "type": "dissent",
+        "author": "Faiehuest, J."
+      }
+    ],
+    "attorneys": [
+      "Maureen M. Cyr (of Washington Appellate Project), for petitioner.",
+      "Mark K. Roe, Prosecuting Attorney, and John J. Juhl, Deputy, for respondent."
+    ],
+    "corrections": "",
+    "head_matter": "[No. 89965-7.\nEn Banc.]\nArgued September 30, 2014.\nDecided July 2, 2015.\nThe State of Washington, Respondent, v. Michael Shane Cates, Petitioner.\nMaureen M. Cyr (of Washington Appellate Project), for petitioner.\nMark K. Roe, Prosecuting Attorney, and John J. Juhl, Deputy, for respondent."
+  },
+  "file_name": "0531-01",
+  "first_page_order": 585,
+  "last_page_order": 603
+}

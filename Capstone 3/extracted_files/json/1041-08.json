@@ -1,0 +1,76 @@
+{
+  "id": 12457176,
+  "name": "Marcus & Millichap Real Estate Inv., Petitioner, v. Yates, Wood & MacDonald, Respondent",
+  "name_abbreviation": "Marcus & Millichap Real Estate Inv. v. Yates, Wood & MacDonald",
+  "decision_date": "2016-08-03",
+  "docket_number": "No. 92970-0",
+  "first_page": "1041",
+  "last_page": "1041",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "185 Wash. 2d 1041"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Wash.",
+    "id": 9029,
+    "name": "Washington Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 38,
+    "name_long": "Washington",
+    "name": "Wash."
+  },
+  "cites_to": [
+    {
+      "cite": "192 Wn. App. 465",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        12456070
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/192/0465-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 33,
+    "char_count": 235,
+    "ocr_confidence": 0.888,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2574263982185834
+    },
+    "sha256": "54a7b5795b7fb46b14efee0252679d03d40dd7933cd78819a539bb0842c80245",
+    "simhash": "1:00991a0871716025",
+    "word_count": 37
+  },
+  "last_updated": "2024-02-28T00:06:59.447104+00:00",
+  "provenance": {
+    "date_added": "2019-05-22",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Marcus & Millichap Real Estate Inv., Petitioner, v. Yates, Wood & MacDonald, Respondent,"
+    ],
+    "opinions": [
+      {
+        "text": "Petition for review of a decision of the Court of Appeals, No. 73199-8-I, February 1, 2016, 192 Wn. App. 465. Denied August 3, 2016.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Marcus & Millichap Real Estate Inv., Petitioner, v. Yates, Wood & MacDonald, Respondent,\nNo. 92970-0."
+  },
+  "file_name": "1041-08",
+  "first_page_order": 993,
+  "last_page_order": 993
+}

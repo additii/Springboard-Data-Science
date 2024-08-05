@@ -1,0 +1,78 @@
+{
+  "id": 12462766,
+  "name": "State, Respondent, v. Sakawe, Petitioner",
+  "name_abbreviation": "State v. Sakawe",
+  "decision_date": "2016-08-31",
+  "docket_number": "No. 93001-5",
+  "first_page": "1002",
+  "last_page": "1002",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "186 Wash. 2d 1002"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Wash.",
+    "id": 9029,
+    "name": "Washington Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 38,
+    "name_long": "Washington",
+    "name": "Wash."
+  },
+  "cites_to": [
+    {
+      "cite": "192 Wn. App. 1052",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        12456289,
+        12456290,
+        12456291,
+        12456292
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/192/1052-01",
+        "/wash-app/192/1052-02",
+        "/wash-app/192/1052-03",
+        "/wash-app/192/1052-04"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 27,
+    "char_count": 191,
+    "ocr_confidence": 0.841,
+    "sha256": "d0a1cfef99681057991eeffe145c9408705ef2a27ee3549d316831b2d18f284c",
+    "simhash": "1:20b1d638b1c55471",
+    "word_count": 31
+  },
+  "last_updated": "2024-02-27T18:43:05.207238+00:00",
+  "provenance": {
+    "date_added": "2019-05-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "State, Respondent, v. Sakawe, Petitioner,"
+    ],
+    "opinions": [
+      {
+        "text": "Petition for review of a decision of the Court of Appeals, No. 72960-8-I, February 29, 2016, 192 Wn. App. 1052. Denied August 31, 2016.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "State, Respondent, v. Sakawe, Petitioner,\nNo. 93001-5."
+  },
+  "file_name": "1002-07",
+  "first_page_order": 988,
+  "last_page_order": 988
+}

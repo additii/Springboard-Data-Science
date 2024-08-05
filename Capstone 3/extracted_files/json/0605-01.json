@@ -1,0 +1,241 @@
+{
+  "id": 12440929,
+  "name": "The State of Washington, Respondent, v. Mark Lester Besola, Petitioner; The State of Washington, Respondent, v. Jeffrey Edwin Swenson, Petitioner",
+  "name_abbreviation": "State v. Besola",
+  "decision_date": "2015-11-05",
+  "docket_number": "No. 90554-1",
+  "first_page": "605",
+  "last_page": "617",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "184 Wash. 2d 605"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Wash.",
+    "id": 9029,
+    "name": "Washington Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 38,
+    "name_long": "Washington",
+    "name": "Wash."
+  },
+  "cites_to": [
+    {
+      "cite": "633 F.3d 984",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        4091424
+      ],
+      "weight": 5,
+      "year": 2011,
+      "pin_cites": [
+        {
+          "page": "992"
+        },
+        {
+          "page": "992-93"
+        },
+        {
+          "page": "992"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/633/0984-01"
+      ]
+    },
+    {
+      "cite": "846 P.2d 1365",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1993,
+      "opinion_index": 0
+    },
+    {
+      "cite": "121 Wn.2d 22",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1365839
+      ],
+      "year": 1993,
+      "pin_cites": [
+        {
+          "page": "29"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/121/0022-01"
+      ]
+    },
+    {
+      "cite": "657 F.2d 730",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1191937
+      ],
+      "weight": 2,
+      "year": 1981,
+      "pin_cites": [
+        {
+          "page": "733"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/657/0730-01"
+      ]
+    },
+    {
+      "cite": "337 P.3d 325",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2014,
+      "opinion_index": 0
+    },
+    {
+      "cite": "181 Wn.2d 1014",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "year": 2014,
+      "opinion_index": 0
+    },
+    {
+      "cite": "834 P.2d 611",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "weight": 2,
+      "year": 1992,
+      "pin_cites": [
+        {
+          "parenthetical": "boldface omitted"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "119 Wn.2d 538",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1370266
+      ],
+      "year": 1992,
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/119/0538-01"
+      ]
+    },
+    {
+      "cite": "379 U.S. 476",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11731294
+      ],
+      "weight": 22,
+      "year": 1965,
+      "pin_cites": [
+        {
+          "page": "485"
+        },
+        {
+          "page": "485"
+        },
+        {
+          "page": "548"
+        },
+        {
+          "page": "485"
+        },
+        {
+          "page": "543"
+        },
+        {
+          "page": "551"
+        },
+        {
+          "page": "552"
+        },
+        {
+          "parenthetical": "most alterations in original"
+        },
+        {
+          "page": "552-53",
+          "parenthetical": "alteration in original"
+        },
+        {
+          "page": "553"
+        },
+        {
+          "page": "553-54"
+        },
+        {
+          "page": "554"
+        },
+        {
+          "page": "555"
+        },
+        {
+          "parenthetical": "boldface omitted"
+        },
+        {
+          "page": "485-86"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/379/0476-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 803,
+    "char_count": 20290,
+    "ocr_confidence": 0.892,
+    "pagerank": {
+      "raw": 8.978954266241358e-08,
+      "percentile": 0.5025758258493063
+    },
+    "sha256": "e3460c6162ff7d0292ccd5dbb183e611a1b3094afe2ccd269dd91f517b6b05c8",
+    "simhash": "1:e32432539a3f338f",
+    "word_count": 3223
+  },
+  "last_updated": "2024-02-27T21:13:25.899037+00:00",
+  "provenance": {
+    "date_added": "2019-05-21",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Madsen, C.J., and Johnson, Fairhurst, Stephens, Wiggins, Gonz\u00e1lez, Gordon McCloud, and Yu, JJ., concur."
+    ],
+    "parties": [
+      "The State of Washington, Respondent, v. Mark Lester Besola, Petitioner. The State of Washington, Respondent, v. Jeffrey Edwin Swenson, Petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "Owens, J.\n\u00b61 The Fourth Amendment to the United States Constitution requires warrants to \u201cparticularly describe] the place to be searched, and the persons or things to be seized.\u201d That requirement is heightened if the warrant authorizes a search for materials protected by the First Amendment to the United States Constitution. Stanford v. Texas, 379 U.S. 476, 485, 85 S. Ct. 506, 13 L. Ed. 2d 431 (1965). In this case, we are asked to evaluate a search warrant in a prosecution for possession of and dealing in depictions of minors engaged in sexually explicit conduct. For guidance, we look to a 1992 case, State v. Perrone, 119 Wn.2d 538, 834 P.2d 611 (1992), that involved similar circumstances. We unanimously held that the Perrone warrant failed to meet the particularity requirement of the Fourth Amendment, in part because it provided for the seizure of items that were legal to possess, such as adult pornography. That holding is binding in this case, where the warrant similarly provided for the seizure of items that were legal to possess. The State contends that the warrant in this case is saved by a citation to the child pornography statute at the top of the warrant. The State is incorrect because the statutory citation does not modify or limit the items listed in the warrant, so it does not save the warrant from being overbroad. More importantly, the State\u2019s position conflicts with our reasoning in Perrone and would hinder the goals of the warrant particularity requirement. Because the warrant fails to meet the Constitution\u2019s particularity requirement, we must reverse these convictions.\nFACTS\n\u00b62 Mark Bes\u00f3la and Jeffrey Swenson lived together in Besola\u2019s house. After a friend of Swenson\u2019s, Kellie Westfall, was arrested, she told police that she had seen drugs and child pornography at Besola\u2019s house. Bes\u00f3la was a veterinarian, and Westfall said that he provided prescription drugs from his veterinary clinic to Swenson, who was a drug addict.\n\u00b63 Based on the information provided by Westfall, a judge issued a search warrant for illegal drugs but declined to issue a search warrant related to child pornography at that time. At the scene, police saw CDs (compact disks) and DVDs (digital video disks) with handwritten titles that implied that they contained child pornography. On the basis of this observation, police requested and obtained an addendum to the search warrant.\n\u00b64 The language of that amended warrant (and whether it was sufficiently particular) is at the heart of the legal issue in this case. The warrant indicated that the crime under investigation was \u201cPossession of Child Pornography R.C.W. 9.68A.070.\u201d Clerk\u2019s Papers (CP) at 312 (boldface omitted). The warrant indicated that \u201cthe following evidence is material to the investigation or prosecution of the above described felony\u201d:\n1. Any and all video tapes, CDs, DVDs, or any other visual and or audio recordings;\n2. Any and all printed pornographic materials;\n3. Any photographs, but particularly of minors;\n4. Any and all computer hard drives or laptop computers and any memory storage devices;\n5. Any and all documents demonstrating purchase, sale or transfer of pornographic material.\nId. (boldface omitted). Police seized a number of computers, memory storage devices, CDs, and DVDs. They ultimately found child pornography on one computer and on 41 disks with handwritten titles. They also found a DVD duplicating device (also known as a DVD burner) attached to the computer. Some disks contained duplicated copies of the child pornography. A handwriting expert testified that Besola\u2019s handwriting was on at least one of the disks containing child pornography and that indications of both Besola\u2019s and Swenson\u2019s handwriting were on multiple other disks.\n\u00b65 Besola and Swenson were each charged with and convicted of two crimes: possession of depictions of minors engaged in sexually explicit conduct and dealing in such depictions.\n\u00b66 Besola and Swenson appealed, raising a number of issues. The Court of Appeals affirmed their convictions. State v. Besola, No. 71432-5-I, slip op. at 46 (Wash. Ct. App. May 19, 2014) (unpublished), http://www.courts.wa.gov /opinions/pdf/714325.pdf. Besola and Swenson petitioned for review on a number of issues, but we granted review \u201conly as to the warrant and \u2018to convict\u2019 instructions.\u201d Order Granting Review, State v. Besola, No. 90554-1 (Wash. Nov. 5, 2014); State v. Besola, 181 Wn.2d 1014, 337 P.3d 325 (2014). Given our holding on the warrant issue, we need not address the \u201cto convict\u201d instruction issue.\nISSUE\n\u00b67 Did this search warrant meet the Fourth Amendment\u2019s particularity requirement?\nANALYSIS\n\u00b68 Search warrants must describe the items to be seized with particularity. U.S. Const. amend. IV. The search warrant in this case contained broad descriptions of the items to be seized (e.g., \u201c[a]ny and all printed pornographic materials\u201d and \u201c[a]ny photographs, but particularly of minors\u201d). CP at 312 (boldface omitted). Under our holding from Perrone, these descriptions were overbroad because they allowed officers to seize lawfully possessed materials, such as adult pornography, when the descriptions could easily have been made more particular. The State argues that the warrant is saved by a citation to the child pornography statute at the top of the warrant. As explained below, the State is incorrect. The statutory citation does not modify or limit the items listed in the warrant, so it does not save the warrant from being overbroad. Furthermore, adopting the State\u2019s argument would be contrary to our reasoning in Perrone and would hinder the goals of the warrant particularity requirement.\n1. An Overview of the Particularity Requirement for Search Warrants and the Heightened Protection for Materials Protected by the First Amendment\n\u00b69 The Fourth Amendment requires that search warrants \u201cparticularly describfe] the place to be searched, and the persons or things to be seized.\u201d U.S. Const, amend. IV. As this court has explained, \u201cThe purposes of the search warrant particularity requirement are the prevention of general searches, prevention of the seizure of objects on the mistaken assumption that they fall within the issuing magistrate\u2019s authorization, and prevention of the issuance of warrants on loose, vague, or doubtful bases of fact.\u201d Perrone, 119 Wn.2d at 545.\n\u00b610 Warrants \u201c \u2018must enable the searcher to reasonably ascertain and identify the things which are authorized to be seized.\u2019 \u201d Id. at 546 (quoting United States v. Cook, 657 F.2d 730, 733 (5th Cir. 1981)). By describing the items to be seized with particularity, the warrant limits the discretion of the executing officer to determine what to seize. Id.\n\u00b611 This court has also recognized that one purpose of a warrant is \u201cto inform the person subject to the search what items the officer may seize.\u201d State v. Riley, 121 Wn.2d 22, 29, 846 P.2d 1365 (1993).\n\u00b612 Warrants for materials protected by the First Amendment require a heightened degree of particularity. Perrone, 119 Wn.2d at 547-48 (quoting Stanford, 379 U.S. at 485). In such cases, the particularity requirement must be \u201c \u2018accorded the most scrupulous exactitude.\u2019 \u201d Id. at 548 (quoting Stanford, 379 U.S. at 485).\n2. The Search Warrant Provisions Related to Print Materials Were Overbroad, and the Statutory Citation to the Crime under Investigation Did Not Save Those Over-broad Provisions\n\u00b613 The defendants are correct that the portions of the warrant related to printed materials are insufficiently particular under our holding from Perrone. The State argues that a citation to the child pornography statute at the top of the warrant effectively circumscribes the entire warrant, making it sufficiently particular. As described in further detail below, this argument fails because that statutory reference did not modify or limit the items that officers could seize pursuant to the warrant.\nA. This Search Was Overbroad under Perrone Because Search Warrants Related to Child Pornography Cannot Generally Provide for the Seizure of Legal Adult Pornography\n\u00b614 In the 1992 Perrone case, we evaluated a search warrant in a prosecution for the same two charges as this case\u2014possession of and dealing in depictions of minors engaged in sexually explicit conduct. We unanimously held that the warrant failed to meet the Fourth Amendment\u2019s particularity requirement. Because both parties point to Perrone as the most important case on this issue, it is important to understand the facts and reasoning of that case.\n\u00b615 In Perrone, the police were investigating an individual who had provided a number of films depicting children involved in sexually explicit acts to a detective in Oakland, California. The defendant indicated that he had many more such films in Seattle. Through a cooperative investigation with the Oakland police, a Seattle detective obtained a search warrant for the defendant\u2019s home in Seattle. The warrant authorized seizure of\n\u201c[c]hild or adult pornography; photographs, movies, slides, video tapes, magazines or drawings of children or adults engaged in sexual activities or sexually suggestive poses; correspondence with other persons interested in child pornography, phone books, phone registers, correspondence or papers with names, addresses, phone numbers which tend to identify any juvenile; camera equipment, video equipment, sexual paraphernalia; records of safe deposit boxes, storage facilities; computer hardware and software, used to store mailing list information or other information on juveniles; papers of dominion and control establishing the identity of the person in control of the premise; any correspondence or papers which tend to identify other pedophiles.\u201d\nId. at 543.\n\u00b616 The State conceded that there was no probable cause for certain items that were legal to possess, including adult pornography, pornographic drawings, and sexual paraphernalia. Id. at 551. The State also conceded that the reference to children in \u201c \u2018sexually suggestive poses\u2019 \u201d was insufficiently particular. Id. at 552. Therefore, the court was left to consider the warrant\u2019s authorization to seize \u201c \u2018[c]hild . . . pornography; photographs, movies, slides, video tapes, [and] magazines ... of children ... engaged in sexual activities.\u2019 \u201d Id. (most alterations in original).\n\u00b617 The court found that \u201cin the context of the warrant\u2019s language as a whole,\u201d the description \u201c \u2018child . . . pornography\u2019 \u201d was invalid for three reasons. Id. at 552-53 (alteration in original). First, the court found that the term \u201cchild pornography\u201d was an \u201c \u2018omnibus legal description\u2019 \u201d undefined by statute, similar to the term \u201cobscenity.\u201d Id. at 553. As such, it left too much discretion to the officer to decide what to seize. Second, it held that the description was too general under these circumstances because the warrant could easily have been made more particular if the language in the statute had been used to describe the materials sought. Id. at 553-54. The court suggested that \u201ca specific statement of the type of contents which would render the material child pornography\u201d would be sufficient. Id. at 554. Third, the court noted that other courts \u201chave sometimes held a description of materials sought can be held sufficiently particular given the rest of the warrant\u2019s language.\u201d Id. at 555. For instance, a reference to a specific illegal activity can sometimes provide guidance to an officer executing a search warrant. Id. But the court held that such a holding would be inappropriate because \u201cso much of the rest of the warrant suffers from lack of probable cause and from insufficient particularity.\u201d Id. Based on those three reasons, the court concluded that the term \u201cchild pornography\u201d was invalid because it was insufficiently particular. Id.\n\u00b618 Applying the holding and reasoning o\u00ed Perrone to this case, we conclude that many provisions of this search warrant were similarly overbroad. As in Perrone, the descriptions of the items to be seized expressly included materials that were legal to possess, such as adult pornography and photographs that did not depict children engaged in sexually explicit conduct. See CP at 312 (authorizing the seizure of \u201c[a]ny and all printed pornographic materials\u201d and \u201c[a]ny photographs, but particularly of minors\u201d (boldface omitted)). As in Perrone, these descriptions could easily have been made more particular by adding the precise statutory language\u2014\u201cdepictions of a minor engaged in sexually explicit conduct,\u201d RCW 9.68A.050 (boldface omitted). Under Perrone, these provisions were insufficiently particular and thus invalid.\nB. The Statutory Citation in This Warrant Did Not Circumscribe the List of Items To Be Seized and Thus Did Not Save the Warrant from Being Overbroad\n\u00b619 The State claims that the citation to the statutory definition of the crime under investigation, noted at the beginning of the warrant, circumscribes the list of items to be seized and thus makes the entire warrant sufficiently particular. We reject this argument because it is contrary to (1) the plain language of the warrant, (2) this court\u2019s reasoning in Perrone, and (3) the purposes of the warrant requirement.\n\u00b620 The State bases its argument on a skewed reading of this court\u2019s statement in Perrone that \u201cthe language of RCW 9.68A.011, if used in a search warrant to describe materials sought, would be sufficiently particular.\u201d 119 Wn.2d at 553. And certainly, if this search warrant had used the language of RCW 9.68A.011 to describe materials sought, the warrant would likely be sufficiently particular. But this warrant does not use the language of the statute; it simply notes the statutory citation. See CP at 312 (stating that the felony under investigation is \u201cPossession of Child Pornography R.C.W. 9.68A.070\u201d (boldface omitted)). It does not add any actual information that would be helpful to the reader, such as the statutory definition of child pornography.\n\u00b621 Furthermore, the warrant does not use the citation to describe the materials sought. The warrant lists the crime under investigation and then separately lists the evidence that is material to that investigation, which police are then authorized to seize. See id. The name of the felony at the top of the warrant does not modify or limit the list of items that can be seized via the warrant. This is evidenced by the plain language of the warrant, which introduces the list of evidence covered by the warrant with the statement, \u201c[T]he following evidence is material to the investigation or prosecution of the above described felony.\u201d Id. That sentence does not limit the evidence to be seized by referencing the felony; it merely says that the evidence that follows is \u201cmaterial\u201d to the investigation of that felony. Additionally, the State\u2019s conclusion is inconsistent with the descriptions of the items to be seized. If the reference to the crime of possession of child pornography was meant to be read as limiting each item on the list, then the phrase \u201c[a]ny photographs, but particularly of minors,\u201d would not need the latter modifying phrase. Id. (boldface omitted).\n\u00b622 Even where the constitution requires scrupulous exactitude, \u201c[s]earch warrants are to be tested and interpreted in a commonsense, practical manner, rather than in a hypertechnical sense.\u201d Perrone, 119 Wn.2d at 549. However, neither common sense nor practicality allows the court to assume there are limitations on a warrant\u2019s scope where such limitations are plainly absent. Here, the warrant\u2019s rote citation to the child pornography statute is at best ambiguous as to whether it limits the subsequent list of items to be seized. Because that ambiguity means the officers, rather than judges, will decide the scope, it fails not just Perrone, but the core purpose of the historically grounded particularity requirement. See Stanford, 379 U.S. at 485-86.\n\u00b623 As we said in Perrone, using the statutory language to describe the materials sought would likely make the warrant sufficiently particular. But the inclusion of the citation to the statute at the top of this warrant did nothing to make this warrant more particular. Not only did it fail to add helpful information\u2014such as the definition of child pornography\u2014it did not modify or limit the evidence that officers could seize.\n\u00b624 The State also bases its argument on a case from the Tenth Circuit Court of Appeals, but that case is not applicable to these facts, nor is it faithful to our state case law. In that Tenth Circuit case, the court upheld a search warrant that \u201c \u2018due to the nature of the charges\u2019 \u201d provided for the seizure of \u201c \u2018any and all items related to child pornography.\u2019 \u201d United States v. Burke, 633 F.3d 984, 992 (10th Cir. 2011). The search warrant also provided for the seizure of devices that could store computer files as \u201c \u2018contraband, evidence, fruits, or instrumentalities of said crime(s),\u2019 \u201d and it indicated that the crime under investigation was sexual exploitation of a child. Id. The Burke court indicated that because the warrant used the phrase \u201cdue to the nature of the charges\u201d and then listed the charge of sexual exploitation of a child (including a reference to the relevant statute), the warrant \u201c[brought] to officers\u2019 attention the purpose of the search.\u201d Id. As a result, the court held that \u201c[a] sufficient nexus between the child pornography charge and the items to be searched existed to allow the warrant to pass constitutional muster.\u201d Id. at 992-93.\n\u00b625 However, we cannot broadly apply the Burke holding to this case. This area of the law often turns on the specific language in the search warrant, and the Burke warrant was quite different from the warrant in this case. The warrant in Burke did not suffer from the primary defect in this warrant: the inclusion of lawfully possessed materials such as adult pornography. Instead, the Burke warrant limited the seizure of print items to those \u201c \u2018related to child pornography in any media form.\u2019 \u201d Id. at 992.\n\u00b626 Further, stretching the Burke holding to apply to this case would be contrary to our holding and reasoning in Perrone and it would undermine the purposes of the particularity requirement. We already rejected a search warrant based on its use of the general (and statutorily undefined) term \u201cchild pornography\u201d in Perrone. The Tenth Circuit was not bound by such a holding, as is clear by its upholding of the warrant despite its general references to sexual exploitation of a child and child pornography. But more importantly, applying the Tenth Circuit\u2019s holding to this warrant in particular would undermine the purposes of the particularity requirement. Even if we concluded that the statutory citation circumscribed the list of evidence that could be seized under the warrant, and even if we concluded that it would be reasonable for an officer to know and apply the statutory language based on the citation listed in the warrant, the warrant would still fail to inform the person subject to the search what items the officers were authorized to seize. See Riley, 121 Wn.2d at 29-30.\n\u00b627 The State asks us to hold that the inclusion of a statutory citation at the top of the warrant effectively serves to make the entire warrant, and its many overbroad provisions, sufficiently particular. We cannot do so because such a holding is contrary to our holding and reasoning in Perrone and would undermine the very purposes of the particularity requirement. Because this warrant fails to meet the Constitution\u2019s particularity requirement, we must reverse these convictions.\nCONCLUSION\n\u00b628 The search warrant at issue failed to meet the Fourth Amendment\u2019s particularity requirement. We reverse the Court of Appeals and remand for further proceedings consistent with this opinion.\nMadsen, C.J., and Johnson, Fairhurst, Stephens, Wiggins, Gonz\u00e1lez, Gordon McCloud, and Yu, JJ., concur.",
+        "type": "majority",
+        "author": "Owens, J."
+      }
+    ],
+    "attorneys": [
+      "Suzanne L. Elliott, for petitioner Bes\u00f3la.",
+      "Kathryn A. Russell Selk (of Russell Selk Law Office), for petitioner Swenson.",
+      "Stephen D. Trinen, Prosecuting Attorney, and Jason Ruyf, Deputy, for respondent."
+    ],
+    "corrections": "",
+    "head_matter": "[No. 90554-1.\nArgued February 19, 2015.\nDecided November 5, 2015.\nThe State of Washington, Respondent, v. Mark Lester Besola, Petitioner. The State of Washington, Respondent, v. Jeffrey Edwin Swenson, Petitioner.\nSuzanne L. Elliott, for petitioner Bes\u00f3la.\nKathryn A. Russell Selk (of Russell Selk Law Office), for petitioner Swenson.\nStephen D. Trinen, Prosecuting Attorney, and Jason Ruyf, Deputy, for respondent."
+  },
+  "file_name": "0605-01",
+  "first_page_order": 647,
+  "last_page_order": 659
+}

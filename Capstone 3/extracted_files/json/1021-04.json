@@ -1,0 +1,78 @@
+{
+  "id": 12462910,
+  "name": "State, Respondent, v. Harris, Petitioner",
+  "name_abbreviation": "State v. Harris",
+  "decision_date": "2016-11-02",
+  "docket_number": "No. 93347-2",
+  "first_page": "1021",
+  "last_page": "1021",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "186 Wash. 2d 1021"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Wash.",
+    "id": 9029,
+    "name": "Washington Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 38,
+    "name_long": "Washington",
+    "name": "Wash."
+  },
+  "cites_to": [
+    {
+      "cite": "194 Wn. App. 1017",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        12451738,
+        12451739,
+        12451740,
+        12451741
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/194/1017-01",
+        "/wash-app/194/1017-02",
+        "/wash-app/194/1017-03",
+        "/wash-app/194/1017-04"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 27,
+    "char_count": 188,
+    "ocr_confidence": 0.858,
+    "sha256": "965714b1c6ac6c55c8779cb31b245f4498ebfc1eefc910c34d6b469aece469cc",
+    "simhash": "1:41a98c1f758f6dd5",
+    "word_count": 31
+  },
+  "last_updated": "2024-02-27T18:43:05.207238+00:00",
+  "provenance": {
+    "date_added": "2019-05-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "State, Respondent, v. Harris, Petitioner,"
+    ],
+    "opinions": [
+      {
+        "text": "Petition for review of a decision of the Court of Appeals, No. 46758-5-II, June 1, 2016, 194 Wn. App. 1017. Denied November 2, 2016.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "State, Respondent, v. Harris, Petitioner,\nNo. 93347-2."
+  },
+  "file_name": "1021-04",
+  "first_page_order": 1007,
+  "last_page_order": 1007
+}

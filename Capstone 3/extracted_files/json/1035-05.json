@@ -1,0 +1,76 @@
+{
+  "id": 12457125,
+  "name": "Goodman et al., Respondents, v. Goodman et al., Petitioners",
+  "name_abbreviation": "Goodman v. Goodman",
+  "decision_date": "2016-06-29",
+  "docket_number": "No. 92835-5",
+  "first_page": "1035",
+  "last_page": "1035",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "185 Wash. 2d 1035"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Wash.",
+    "id": 9029,
+    "name": "Washington Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 38,
+    "name_long": "Washington",
+    "name": "Wash."
+  },
+  "cites_to": [
+    {
+      "cite": "191 Wn. App. 1042",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        12461140,
+        12461141,
+        12461142
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/191/1042-01",
+        "/wash-app/191/1042-02",
+        "/wash-app/191/1042-03"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 29,
+    "char_count": 208,
+    "ocr_confidence": 0.87,
+    "sha256": "7977802249b904421268b66b91ab0864b4e8aeccf6989b947cb5cc29f84d8d69",
+    "simhash": "1:a4f1b6963da4757c",
+    "word_count": 35
+  },
+  "last_updated": "2024-02-28T00:06:59.447104+00:00",
+  "provenance": {
+    "date_added": "2019-05-22",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Goodman et al., Respondents, v. Goodman et al., Petitioners,"
+    ],
+    "opinions": [
+      {
+        "text": "Petition for review of a decision of the Court of Appeals, No. 72711-7-1, December 14, 2015, 191 Wn. App. 1042. Denied June 29, 2016.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Goodman et al., Respondents, v. Goodman et al., Petitioners,\nNo. 92835-5."
+  },
+  "file_name": "1035-05",
+  "first_page_order": 987,
+  "last_page_order": 987
+}

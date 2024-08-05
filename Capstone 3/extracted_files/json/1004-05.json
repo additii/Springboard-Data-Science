@@ -1,0 +1,76 @@
+{
+  "id": 12462779,
+  "name": "Hively, Petitioner, v. Port of Skamania County, Respondent",
+  "name_abbreviation": "Hively v. Port of Skamania County",
+  "decision_date": "2016-08-31",
+  "docket_number": "No. 93060-1",
+  "first_page": "1004",
+  "last_page": "1004",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "186 Wash. 2d 1004"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Wash.",
+    "id": 9029,
+    "name": "Washington Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 38,
+    "name_long": "Washington",
+    "name": "Wash."
+  },
+  "cites_to": [
+    {
+      "cite": "193 Wn. App. 11",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        12449882
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/193/0011-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 29,
+    "char_count": 208,
+    "ocr_confidence": 0.879,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.25765845807998844
+    },
+    "sha256": "66a596226547cea25b401b83f35210132715b899fa079c0352ea8801f3f95d93",
+    "simhash": "1:aca5ce3430ed4e25",
+    "word_count": 34
+  },
+  "last_updated": "2024-02-27T18:43:05.207238+00:00",
+  "provenance": {
+    "date_added": "2019-05-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Hively, Petitioner, v. Port of Skamania County, Respondent,"
+    ],
+    "opinions": [
+      {
+        "text": "Petition for review of a decision of the Court of Appeals, No. 46875-1-II, February 23, 2016, 193 Wn. App. 11. Denied August 31, 2016.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Hively, Petitioner, v. Port of Skamania County, Respondent,\nNo. 93060-1."
+  },
+  "file_name": "1004-05",
+  "first_page_order": 990,
+  "last_page_order": 990
+}

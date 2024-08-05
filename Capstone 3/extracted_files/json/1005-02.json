@@ -1,0 +1,78 @@
+{
+  "id": 12462783,
+  "name": "State, Respondent, v. Ruffin, Petitioner",
+  "name_abbreviation": "State v. Ruffin",
+  "decision_date": "2016-08-31",
+  "docket_number": "No. 93066-0",
+  "first_page": "1005",
+  "last_page": "1005",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "186 Wash. 2d 1005"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Wash.",
+    "id": 9029,
+    "name": "Washington Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 38,
+    "name_long": "Washington",
+    "name": "Wash."
+  },
+  "cites_to": [
+    {
+      "cite": "193 Wn. App. 1008",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        12449960,
+        12449961,
+        12449962,
+        12449959
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/193/1008-02",
+        "/wash-app/193/1008-03",
+        "/wash-app/193/1008-04",
+        "/wash-app/193/1008-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 27,
+    "char_count": 188,
+    "ocr_confidence": 0.855,
+    "sha256": "661f2870c18b8edec07b58258ca838c1c9a97f287ccf7377699ff93af8fdd5b8",
+    "simhash": "1:81ddda9b4d7d4d79",
+    "word_count": 31
+  },
+  "last_updated": "2024-02-27T18:43:05.207238+00:00",
+  "provenance": {
+    "date_added": "2019-05-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "State, Respondent, v. Ruffin, Petitioner,"
+    ],
+    "opinions": [
+      {
+        "text": "Petition for review of a decision of the Court of Appeals, No. 72514-9-I, March 28, 2016, 193 Wn. App. 1008. Denied August 31, 2016.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "State, Respondent, v. Ruffin, Petitioner,\nNo. 93066-0."
+  },
+  "file_name": "1005-02",
+  "first_page_order": 991,
+  "last_page_order": 991
+}

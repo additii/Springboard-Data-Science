@@ -1,0 +1,435 @@
+{
+  "id": 1388583,
+  "name": "Coal District Power Company v. Booneville",
+  "name_abbreviation": "Coal District Power Co. v. Booneville",
+  "decision_date": "1923-12-24",
+  "docket_number": "",
+  "first_page": "638",
+  "last_page": "643",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "161 Ark. 638"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [
+    {
+      "cite": "16 Ark. 384",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        8725284
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/16/0384-01"
+      ]
+    },
+    {
+      "cite": "14 Ark. 678",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "13 Ark. 384",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "11 Ark. 598",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        8727914
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/11/0598-01"
+      ]
+    },
+    {
+      "cite": "6 Ark. 71",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        8726609
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/6/0071-01"
+      ]
+    },
+    {
+      "cite": "152 Ark. 286",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "152 Ark. 83",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1364155
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/152/0083-01"
+      ]
+    },
+    {
+      "cite": "152 Ark. 276",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1364082
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/152/0276-01"
+      ]
+    },
+    {
+      "cite": "150 Ark. 586",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1367896
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/150/0586-01"
+      ]
+    },
+    {
+      "cite": "161 Fed. 925",
+      "category": "reporters:federal",
+      "reporter": "F.",
+      "case_ids": [
+        1914970
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f/161/0925-01"
+      ]
+    },
+    {
+      "cite": "197 Fed. 954",
+      "category": "reporters:federal",
+      "reporter": "F.",
+      "case_ids": [
+        52147
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f/197/0954-01"
+      ]
+    },
+    {
+      "cite": "196 Fed. 800",
+      "category": "reporters:federal",
+      "reporter": "F.",
+      "case_ids": [
+        6747004
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f/196/0800-01"
+      ]
+    },
+    {
+      "cite": "212 U. S. 1",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        5711290
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/212/0001-01"
+      ]
+    },
+    {
+      "cite": "184 Fed. 765",
+      "category": "reporters:federal",
+      "reporter": "F.",
+      "case_ids": [
+        6749789
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f/184/0765-01"
+      ]
+    },
+    {
+      "cite": "134 U. S. 418",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        8299351
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/134/0418-01"
+      ]
+    },
+    {
+      "cite": "230 U. S. 352",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3664215
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "388"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/230/0352-01"
+      ]
+    },
+    {
+      "cite": "43 Sup. Ct. Rep. 544",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        6140543
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/262/0276-01"
+      ]
+    },
+    {
+      "cite": "91 S. E. 993",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "122 N. E. 144",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "227 S. W. 804",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "135 N. E. 655",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "43 S. Ct. 445",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        6142608
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/261/0428-01"
+      ]
+    },
+    {
+      "cite": "98 Fed. 335",
+      "category": "reporters:federal",
+      "reporter": "F.",
+      "case_ids": [
+        6721772
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f/98/0335-01"
+      ]
+    },
+    {
+      "cite": "277 Fed. 66",
+      "category": "reporters:federal",
+      "reporter": "F.",
+      "case_ids": [
+        3589645
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f/277/0066-01"
+      ]
+    },
+    {
+      "cite": "76 Ark. 191",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "134 Ark. 292",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1573255
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/134/0292-01"
+      ]
+    },
+    {
+      "cite": "156 Ark. 259",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1358416
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/156/0259-01"
+      ]
+    },
+    {
+      "cite": "14 Ark. 698",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "2 Ark. 294",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "44 Ark. 273",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1893399
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/44/0273-01"
+      ]
+    },
+    {
+      "cite": "49 Ark. 160",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1309037
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/49/0160-01"
+      ]
+    },
+    {
+      "cite": "14 Ark. 568",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1862713
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/14/0568-01"
+      ]
+    },
+    {
+      "cite": "5 Ark. 710",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "weight": 2,
+      "opinion_index": -1
+    },
+    {
+      "cite": "24 Ark. 91",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        8726323
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/24/0091-01"
+      ]
+    },
+    {
+      "cite": "152 Ark. 83",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1364155
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/152/0083-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 589,
+    "char_count": 11685,
+    "ocr_confidence": 0.502,
+    "pagerank": {
+      "raw": 7.226684795779869e-08,
+      "percentile": 0.4314035297038553
+    },
+    "sha256": "4cbe21ab26f182d64b160a778646698163daa38b4f6f80506dcb4b6d262e7642",
+    "simhash": "1:d8b56fbc962a1534",
+    "word_count": 2047
+  },
+  "last_updated": "2024-02-27T21:32:42.656819+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Coal District Power Company v. Booneville."
+    ],
+    "opinions": [
+      {
+        "text": "Humphreys, J.\nThis is an appeal by the public utility from a judgment of the circuit court of Logan County, Southern District, which, in effect, abrogated the rates under which said public utility was distributing electrical energy in the city of Booneville. The utility had surrendered its franchise under act 571 of the General Assembly of 1919, and prior to July-18, 1921, was operating under an indeterminate permit issued by the Corporation Commission, and had in force a schedule of rates which had been approved by the Commission pursuant to the authority vested in it by said act. On the 18th day of July, 1922, the council of the city of Booneville passed an ordinance reducing the rates, pursuant to the provisions of \u00a7 17, act 124, of the General Assembly of 1921. The later act abolished the Corporation Commission and, by \u00a7 17 thereof, authorized the municipalities to \u201cfix, promulgate, modify, amend, adjust, readjust or otherwise make and determine fair and reasonable rates to be charged by all public utilities in furnishing utility service within such municipalities.\u201d Within the time and in the manner provided by the act appellant prosecuted an appeal from the rates fixed by the city council to the circuit court. In petition for appeal appellant conformed its prayer for relief to the statute, asking that the court, in reviewing the action of the council, hear evidence and determine what rates would afford the appellant valid and reasonable compensation for the services rendered, and to enter an order setting out such rates, and to certify same to the council, with directions to fix rates in keeping therewith.\nThe cause was submitted to the circuit court, without the intervention of a jury, upon the pleadings and testimony, which resulted in a judgment setting aside the rates established by the city council as being confiscatory, and finding fifteen cents per kilowatt hour a fair and just maximum rate for domestic power, and six cents per kilowatt hour a fair and just rate for commercial power. The rates fixed were graded downward to a minimum according to the amount-of power used by the customer. No complaint is made that the grading was out of proportion to the maximum rate, so it is unnecessary to set out the graduated rates.\nIn accordance with the provisions of the statute, the case is pending before us for trial de novo upon the law and testimony as brought into the record of the trial below.\nAppellant\u2019s first contention for a reversal of the judgment is that the circuit court was without power to fix a rate other than the rate fixed by the ordinance. In other words, the contention of appellant is that the court exhausted its judicial power in setting aside the ordinance rate, and that it exercised legislative power authorized by the statute but inhibited by the Constitution in attempting to fix and certify a new rate. The validity of the statute in this respect is assailed as being unconstitutional. We cannot agree with learned counsel in this contention. The statute authorizes a judicial review of the rates fixed by the agency of the Legislature, and, if it had not, it would be void for that reason. A judicial review necessarily involves a correction of the erroneous judgment, else complete justice would not be accomplished. The ascertainment of a confiscatory rate, from a practical standpoint, involves the ascertainment of a fair and just rate. In order to confidently assert a rate is confiscatory, one should know what a fair and just return on the present market value of the property would be. The same method must be adopted to ascertain whether the rate is confiscatory or fair and reasonable, and when one is ascertained the other is implied, therefore a declaration of the conclusion reached is the result of the judicial review, and not the ascertainment of the rate growing out of the exercise of a legislative function. This exact point was decided adversely to appellant\u2019s contention in the case of Van Buren Water Co. v. Van Buren, 152 Ark. 83. In deciding the question the court used the following language: \u201cThe fact that the new rates were unreasonable did not justify the court\u2019s order in compelling the company to restore the old rates, which were confiscatory. It was within the power and duty of the circuit court to fix such a rate, according to the testimony in the record, as was reasonable, and which would afford a just return upon the investment.\u201d The fixing and certification of the new rate to the council was not an attempt to exercise legislative authority.\nAppellant\u2019s next and last contention for a reversal of the judgment is that, under the law and the evidence, the rates fixed and certified to the council by the court are confiscatory and void.\nThe rule of law governing is that the rate must be fixed which will give the public utility a fair and just return upon the market value of its property as of the time the inquiry is made regarding the rates.\nAfter a careful analysis of the testimony we have concluded that the evidence introduced by appellant fails to properly reach the issue. The method adopted by appellant\u2019s witnesses to ascertain the present value of property was to estimate the reproduction value of the plant, based upon the cost of labor and material covering the period from 1917 to 1922, and deducting therefrom depreciation of the property occasioned by the use thereof. Treating the reproduction cost as a proper element in arriving at the present market value of the property, it would not be proper to average the cost of labor and material entering into the reproduction of the plant during any given period. In the instant case the period selected embraced the high peak prices of the war. The prices for labor and material prevailing as of the time the inquiry was made regarding the rates would necessarily control. The present market value of the property having been ascertained by appellant\u2019s witnesses upon an incorrect assumption, this renders their conclusion unreliable. When their testimony is eliminated the only testimony of consequence remaining is that introduced by appellee, tending to support the finding of the court. The record reflects that the original cost of the property was about $25,000, and that the certified value thereof by the officers for taxation purposes was about $70,000. The evidence was conflicting as to the value of the real estate, ranging from a few hundred dollars to $5,000. The exhibits covering the utility income and expenses show that for the yeaT ending February 28, 1922, the net income from the Booneville division was $8,815.08, and for the year ending July 31, 1923, was $5,787.70. The exhibits also reflect disproportionate increases of 'expenses compared with the income for operation in the years 1922 and 1923. The plant was an old one, having been in operation for a number of years. We are of opinion that the rate fixed and certified by the court is supported by the weight of the evidence. .\nNo error appearing, the judgment is affirmed.",
+        "type": "majority",
+        "author": "Humphreys, J."
+      }
+    ],
+    "attorneys": [
+      "James. B. McDonough, for appellant.",
+      "Evms $ Evans, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Coal District Power Company v. Booneville.\nOpinion delivered December 24, 1923.\n1. Electricity \u2014 review of rates fixed by ordinance. \u2014 On appeal to the circuit court by a public utility to review r\u2019ates of charges for electrical energy as fixed by a municipal ordinance, under Acts 1921, No. 124, \u00a7 17, which provides for a judicial review, the circuit court was authorized, not only to determine whether the ordinance rates are confiscatory, but, upon finding them to be such, to ascertain 'and fix fair and just rates.\n2. Constitutional law \u2014 rate fixing not legislative power.\u2014 Where rates for electricity, established by a city ordinance under Acts 1921, No. 124, are set aside by the circuit court, such court, in fixing a proper rate, is not exercising a legislative function, and the statute is not unconstitutional in authorizing it to do so.\n3. Electricity \u2014 rule for fixing rates. \u2014 Under Acts 1921, No. 124, a rate for electricity must be fixed which will give the public utility a fair and just return upon the market value of its property as of the time of the rate inquiry.\n4. Electricity. \u2014 now value\u2019 of plant determined. \u2014 Treating the reproduction cost of an electric plant as a proper element in arriving at the present market value of the property, it would not be proper to average the cost of labor and material entering into the reproduction of the plant during any given period, and the price for labor and material prevailing as of the time of the rate inquiry necessarily controls.\n5. Electricity \u2014 rates\u2014evidence.\u2014In proceeding under Acts 1921, No. 124, the weight of evidence held to support the rates for electricity fixed by the circuit court.\nAppeal from Logan Circuit Court, Southern District; James Cochran, Jnclge;\naffirmed.\nJames. B. McDonough, for appellant.\n1. \u2022 The court had no jurisdiction to render the judgment. Its attempt to fix a reasonable rate was wholly invalid, notwithstanding 'section 19 of the act (Acts 1921, p. 202). It is the exercise of legislative power by a court. Const. Ark., art. 4, \u00a7\u00a7 1, 2; Id. art. 5; art. 6; art. 7, \u00a7 1; 24 Ark. 91; 5 Ark. 710 ; 14 Ark. 568; 49 Ark. 160; 44 Ark. 273; 2 Ark. 294; 14 Ark. 698; 156 Ark. 259, and eases cited; 134 Ark. 292; 76 Ark. 191; 277 Fed. 66; 98 Fed. 335; 43 S. Ct. 445; 135 N. E. 655; 191 N. Y. Sup. 430; 189 Id. 929; 227 S. W. 804; 122 N. E. 144; 91 S. E. 993.\n2. The evidence is wholly insufficient to warrant the court in fixing the Huntington rate, a town thirty miles away, as the rate for Booneville. There is no evidence that the Huntington rates are compensatory. Moreover, not only does the evidence show, but the court judicially knows, that there is a grreat loss of electricity in transporting it over Avire that distance. It 'is well settled that there must be a reasonable return, and to allow this return there must be a reasonable rate. 43 Sup. Ct. Rep. 544; 212 H. S. 19 ; 230 U. S. 352; 246 H. S. 178; 258 H. S. 165; Id. 388.\n3. The rate fixed by the city ordinance is confiscatory and void. It deprives appellant of its property without due process of law, contrary to \u00a7 1 of the 14th Amendment to the Constitution, U. S.; 255 U. S. \u00a739 and cases cited; 43 Sup. Ct. Rep. 544; 134 U. S. 418; \u00cd69 IT. S. 466: 212 H. S. 19; 184 Fed. 765; 230 U. S. and cases cited; 212 U. S. 1; 196 Fed. 800; 197 Fed. 954; 161 Fed. 925.\nEvms $ Evans, for appellee.\n1. The court was authorized by the statute to hear evidence and determine what rates would afford the appellant valid and reasonable compensation for the services performed, and to enter the order and judgment that was rendered. Act 124, Acts 1921, \u00a7 19; 150 Ark. 586; Id. 260 ; 152 Ark. 276; 152 Ark. 83.\n2. The city council had authority to fix the rates. Act 124, Acts 1921, \u00a7 17; 152 Ark. 286.\n3. Section 24 of act 124, Acts 1921, in so far as it provides that, on appeal to the Supreme Court, any finding of fact by the circuit court shall not be binding on the Supreme Court, but the latter court may and shall review all the evidence and make such findings of fact and law as it may deem just, proper and equitable, is clearly an attempted invasion of the court\u2019s constitutional prerogative, and is invalid. Art. 4, Const. Ark.; 24 Ark. 91; 5 Ark. 710; 6 Ark. 71; 14 Ark. 568; 49 Ark. 160; 11 Ark. 598; 13 Ark. 384; 14 Ark. 678; 44 Ark. 273; 16 Ark. 384; 188 S. W. (Ark.) 564. In any -event the finding of the trial court is not against the preponderance of the evidence.\n4. The appellant did not allege facts sufficient to entitle it to an appeal to the circuit court, and it therefore had no jurisdiction of the cause. Act 124, Acts 1921, \u00a7\u00a7 17, 19 and 23; 152 Ark. 276."
+  },
+  "file_name": "0638-01",
+  "first_page_order": 666,
+  "last_page_order": 671
+}

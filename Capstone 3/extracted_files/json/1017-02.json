@@ -1,0 +1,82 @@
+{
+  "id": 12462877,
+  "name": "In re Marriage of Wright",
+  "name_abbreviation": "In re Marriage of Wright",
+  "decision_date": "2014-06-04",
+  "docket_number": "No. 90043-4",
+  "first_page": "1017",
+  "last_page": "1017",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "186 Wash. 2d 1017"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Wash.",
+    "id": 9029,
+    "name": "Washington Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 38,
+    "name_long": "Washington",
+    "name": "Wash."
+  },
+  "cites_to": [
+    {
+      "cite": "180 Wn.2d 1019",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "179 Wn. App. 257",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        4107226
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/179/0257-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 47,
+    "char_count": 375,
+    "ocr_confidence": 0.866,
+    "pagerank": {
+      "raw": 6.08357950837891e-08,
+      "percentile": 0.37547478636785386
+    },
+    "sha256": "2809ac7e2a6157f9de41760a7fef8444655b34fd7fe7e6a9a00f92e0d45fc1d6",
+    "simhash": "1:219d0932d26fce5f",
+    "word_count": 62
+  },
+  "last_updated": "2024-02-27T18:43:05.207238+00:00",
+  "provenance": {
+    "date_added": "2019-05-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Marriage of Wright,"
+    ],
+    "opinions": [
+      {
+        "text": "Petition for review of a decision of the Court of Appeals, No. 69133-3-I, December 16, 2013, 179 Wn. App. 257. Denied June 4, 2014. (Reporter\u2019s Note: This notation replaces the previous notation that was reported in the advance sheets at 180 Wn.2d 1019; the previous notation was inadvertently omitted from the 180 Wn.2d bound volume.)",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "In re Marriage of Wright,\nNo. 90043-4."
+  },
+  "file_name": "1017-02",
+  "first_page_order": 1003,
+  "last_page_order": 1003
+}

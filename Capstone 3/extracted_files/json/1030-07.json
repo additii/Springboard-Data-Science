@@ -1,0 +1,78 @@
+{
+  "id": 12462984,
+  "name": "State, Respondent, v. Borders, Petitioner",
+  "name_abbreviation": "State v. Borders",
+  "decision_date": "2016-12-07",
+  "docket_number": "No. 93517-3",
+  "first_page": "1030",
+  "last_page": "1030",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "186 Wash. 2d 1030"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Wash.",
+    "id": 9029,
+    "name": "Washington Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 38,
+    "name_long": "Washington",
+    "name": "Wash."
+  },
+  "cites_to": [
+    {
+      "cite": "194 Wn. App. 1036",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        12451811,
+        12451812,
+        12451813,
+        12451814
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/194/1036-01",
+        "/wash-app/194/1036-02",
+        "/wash-app/194/1036-03",
+        "/wash-app/194/1036-04"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 27,
+    "char_count": 189,
+    "ocr_confidence": 0.877,
+    "sha256": "e83570d0ee1536344904715f373866d83fd56e043e791d88712a14fc2e7171a0",
+    "simhash": "1:00f14ef33f1d4d1d",
+    "word_count": 31
+  },
+  "last_updated": "2024-02-27T18:43:05.207238+00:00",
+  "provenance": {
+    "date_added": "2019-05-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "State, Respondent, v. Borders, Petitioner,"
+    ],
+    "opinions": [
+      {
+        "text": "Petition for review of a decision of the Court of Appeals, No. 73297-8-I, June 20, 2016, 194 Wn. App. 1036. Denied December 7, 2016.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "State, Respondent, v. Borders, Petitioner,\nNo. 93517-3."
+  },
+  "file_name": "1030-07",
+  "first_page_order": 1016,
+  "last_page_order": 1016
+}

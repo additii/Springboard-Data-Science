@@ -1,0 +1,78 @@
+{
+  "id": 12457147,
+  "name": "State, Respondent, v. Rohn, Petitioner",
+  "name_abbreviation": "State v. Rohn",
+  "decision_date": "2016-06-29",
+  "docket_number": "No. 92888-6",
+  "first_page": "1038",
+  "last_page": "1038",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "185 Wash. 2d 1038"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Wash.",
+    "id": 9029,
+    "name": "Washington Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 38,
+    "name_long": "Washington",
+    "name": "Wash."
+  },
+  "cites_to": [
+    {
+      "cite": "192 Wn. App. 1035",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        12456226,
+        12456227,
+        12456228,
+        12456229
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/192/1035-01",
+        "/wash-app/192/1035-02",
+        "/wash-app/192/1035-03",
+        "/wash-app/192/1035-04"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 30,
+    "char_count": 203,
+    "ocr_confidence": 0.86,
+    "sha256": "6ba8da9db427c8997fc7ee3773a6cf607464758dfd7d9cde0540f26ec7163005",
+    "simhash": "1:a8d9643871c754b4",
+    "word_count": 33
+  },
+  "last_updated": "2024-02-28T00:06:59.447104+00:00",
+  "provenance": {
+    "date_added": "2019-05-22",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "State, Respondent, v. Rohn, Petitioner,"
+    ],
+    "opinions": [
+      {
+        "text": "Petition for review of a decision of the Court of Appeals, Nos. 45654-1-II and 47394-1-II, February 9, 2016, 192 Wn. App. 1035. Denied June 29, 2016.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "State, Respondent, v. Rohn, Petitioner,\nNo. 92888-6."
+  },
+  "file_name": "1038-03",
+  "first_page_order": 990,
+  "last_page_order": 990
+}

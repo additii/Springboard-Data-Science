@@ -1,0 +1,948 @@
+{
+  "id": 12456823,
+  "name": "The State of Washington, Petitioner, v. Spencer Leroy Miller, Respondent",
+  "name_abbreviation": "State v. Miller",
+  "decision_date": "2016-02-11",
+  "docket_number": "No. 91065-1",
+  "first_page": "111",
+  "last_page": "126",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "185 Wash. 2d 111"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Wash.",
+    "id": 9029,
+    "name": "Washington Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 38,
+    "name_long": "Washington",
+    "name": "Wash."
+  },
+  "cites_to": [
+    {
+      "cite": "955 P.2d 798",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1998,
+      "opinion_index": 0
+    },
+    {
+      "cite": "135 Wn.2d 239",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        812835
+      ],
+      "year": 1998,
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/135/0239-01"
+      ]
+    },
+    {
+      "cite": "115 P.2d 281",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 2005,
+      "opinion_index": 0
+    },
+    {
+      "cite": "154 Wn.2d 596",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        5629022
+      ],
+      "year": 2005,
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/154/0596-01"
+      ]
+    },
+    {
+      "cite": "36 P.3d 1005",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2001,
+      "opinion_index": 0
+    },
+    {
+      "cite": "145 Wn.2d 258",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        314629
+      ],
+      "year": 2001,
+      "pin_cites": [
+        {
+          "page": "264"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/145/0258-01"
+      ]
+    },
+    {
+      "cite": "111 P.3d 837",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2005,
+      "pin_cites": [
+        {
+          "parenthetical": "alteration in original"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "154 Wn.2d 249",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        5629413
+      ],
+      "year": 2005,
+      "pin_cites": [
+        {
+          "page": "258-59",
+          "parenthetical": "alteration in original"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/154/0249-01"
+      ]
+    },
+    {
+      "cite": "119 P.3d 816",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2005,
+      "opinion_index": 0
+    },
+    {
+      "cite": "155 Wn.2d 356",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        3765730
+      ],
+      "year": 2005,
+      "pin_cites": [
+        {
+          "page": "368"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/155/0356-01"
+      ]
+    },
+    {
+      "cite": "74 P.3d 1194",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2003,
+      "opinion_index": 0
+    },
+    {
+      "cite": "150 Wn.2d 71",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        9193894
+      ],
+      "year": 2003,
+      "pin_cites": [
+        {
+          "page": "83"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/150/0071-01"
+      ]
+    },
+    {
+      "cite": "9 P.3d 206",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2000,
+      "opinion_index": 0
+    },
+    {
+      "cite": "141 Wn.2d 687",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1183445
+      ],
+      "year": 2000,
+      "pin_cites": [
+        {
+          "page": "697"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/141/0687-01"
+      ]
+    },
+    {
+      "cite": "351 P.3d 138",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2015,
+      "pin_cites": [
+        {
+          "parenthetical": "citing In re Pers. Restraint of Greening, 141 Wn.2d 687, 697, 9 P.3d 206 (2000)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "183 Wn.2d 91",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        6792160
+      ],
+      "year": 2015,
+      "pin_cites": [
+        {
+          "page": "104",
+          "parenthetical": "citing In re Pers. Restraint of Greening, 141 Wn.2d 687, 697, 9 P.3d 206 (2000)"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/183/0091-01"
+      ]
+    },
+    {
+      "cite": "316 P.3d 1020",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2014,
+      "opinion_index": 0
+    },
+    {
+      "cite": "179 Wn.2d 614",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4033577
+      ],
+      "year": 2014,
+      "pin_cites": [
+        {
+          "page": "625"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/179/0614-01"
+      ]
+    },
+    {
+      "cite": "347 P.3d 459",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2015,
+      "opinion_index": 0
+    },
+    {
+      "cite": "182 Wn.2d 1028",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "year": 2015,
+      "opinion_index": 0
+    },
+    {
+      "cite": "324 P.3d 791",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2014,
+      "opinion_index": 0
+    },
+    {
+      "cite": "181 Wn. App. 201",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        4279756
+      ],
+      "year": 2014,
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/181/0201-01"
+      ]
+    },
+    {
+      "cite": "122 Wn. App. 1074",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        499690,
+        500175,
+        499735
+      ],
+      "year": 2004,
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/122/0978-02",
+        "/wash-app/122/0978-03",
+        "/wash-app/122/0978-01"
+      ]
+    },
+    {
+      "cite": "166 P.3d 677",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2007,
+      "opinion_index": 0
+    },
+    {
+      "cite": "161 Wn.2d 322",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        3801738
+      ],
+      "year": 2007,
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/161/0322-01"
+      ]
+    },
+    {
+      "cite": "192 P.3d 345",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2008,
+      "pin_cites": [
+        {
+          "parenthetical": "court will not interpret statute to lead to absurd results"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "164 Wn.2d 556",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        3996071
+      ],
+      "year": 2008,
+      "pin_cites": [
+        {
+          "page": "562",
+          "parenthetical": "court will not interpret statute to lead to absurd results"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/164/0556-01"
+      ]
+    },
+    {
+      "cite": "803 P.2d 300",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1991,
+      "opinion_index": 1
+    },
+    {
+      "cite": "116 Wn.2d 30",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1376217
+      ],
+      "year": 1991,
+      "pin_cites": [
+        {
+          "page": "37"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/116/0030-01"
+      ]
+    },
+    {
+      "cite": "842 P.2d 950",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1992,
+      "opinion_index": 1
+    },
+    {
+      "cite": "120 Wn.2d 427",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1368186
+      ],
+      "weight": 2,
+      "year": 1992,
+      "pin_cites": [
+        {
+          "page": "436"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/120/0427-01"
+      ]
+    },
+    {
+      "cite": "933 P.2d 1019",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1997,
+      "pin_cites": [
+        {
+          "parenthetical": "intervening change in statutory interpretation \"must be applied retroactively\" because \"[o]nce the Court has determined the meaning of a statute, that is what the statute has meant since its enactment\" (citing In re Pers. Restraint of Vandervlugt, 120 Wn.2d 427, 436, 842 P.2d 950 (1992"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "131 Wn.2d 558",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1547160
+      ],
+      "weight": 2,
+      "year": 1997,
+      "pin_cites": [
+        {
+          "page": "568"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/131/0558-01"
+      ]
+    },
+    {
+      "cite": "604 P.2d 1293",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1980,
+      "opinion_index": 1
+    },
+    {
+      "cite": "93 Wn.2d 31",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1167737
+      ],
+      "year": 1980,
+      "pin_cites": [
+        {
+          "page": "37"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/93/0031-01"
+      ]
+    },
+    {
+      "cite": "557 P.2d 1299",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1976,
+      "opinion_index": 1
+    },
+    {
+      "cite": "87 Wn.2d 922",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1113807
+      ],
+      "year": 1976,
+      "pin_cites": [
+        {
+          "page": "927-28"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/87/0922-01"
+      ]
+    },
+    {
+      "cite": "663 P.2d 1352",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1983,
+      "opinion_index": 1
+    },
+    {
+      "cite": "99 Wn.2d 675",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1145927
+      ],
+      "year": 1983,
+      "pin_cites": [
+        {
+          "page": "679"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/99/0675-01"
+      ]
+    },
+    {
+      "cite": "14 P.3d 752",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2000,
+      "opinion_index": 1
+    },
+    {
+      "cite": "142 Wn.2d 568",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1361345
+      ],
+      "year": 2000,
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/142/0568-01"
+      ]
+    },
+    {
+      "cite": "14 P.3d 713",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2000,
+      "opinion_index": 1
+    },
+    {
+      "cite": "142 Wn.2d 471",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1361359
+      ],
+      "year": 2000,
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/142/0471-01"
+      ]
+    },
+    {
+      "cite": "344 P.3d 680",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2015,
+      "opinion_index": 1
+    },
+    {
+      "cite": "182 Wn.2d 827",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4075837
+      ],
+      "year": 2015,
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/182/0827-01"
+      ]
+    },
+    {
+      "cite": "340 P.3d 849",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2015,
+      "opinion_index": 1
+    },
+    {
+      "cite": "182 Wn.2d 342",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4075595
+      ],
+      "year": 2015,
+      "pin_cites": [
+        {
+          "page": "350"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/182/0342-01"
+      ]
+    },
+    {
+      "cite": "355 P.3d 1093",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2015,
+      "pin_cites": [
+        {
+          "parenthetical": "citations omitted"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "183 Wn.2d 706",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        6793524
+      ],
+      "year": 2015,
+      "pin_cites": [
+        {
+          "page": "711",
+          "parenthetical": "citations omitted"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/183/0706-01"
+      ]
+    },
+    {
+      "cite": "256 P.3d 1171",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2011,
+      "pin_cites": [
+        {
+          "parenthetical": "quoting State v. Jacobs, 154 Wn.2d 596, 600, 115 P.3d 281 (2005)"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "172 Wn.2d 253",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4017846
+      ],
+      "year": 2011,
+      "pin_cites": [
+        {
+          "page": "261-62",
+          "parenthetical": "quoting State v. Jacobs, 154 Wn.2d 596, 600, 115 P.3d 281 (2005)"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/172/0253-01"
+      ]
+    },
+    {
+      "cite": "853 P.2d 424",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "weight": 2,
+      "year": 1993,
+      "pin_cites": [
+        {
+          "page": "449",
+          "parenthetical": "emphasis added"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "121 Wn.2d 432",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1365807
+      ],
+      "year": 1993,
+      "pin_cites": [
+        {
+          "page": "453"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/121/0432-01"
+      ]
+    },
+    {
+      "cite": "682 P.2d 883",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "weight": 2,
+      "year": 1984,
+      "opinion_index": 1
+    },
+    {
+      "cite": "101 Wn.2d 654",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1139548
+      ],
+      "year": 1984,
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/101/0654-01"
+      ]
+    },
+    {
+      "cite": "115 P.3d 281",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "weight": 4,
+      "year": 2005,
+      "opinion_index": 1
+    },
+    {
+      "cite": "955 P.2d 798",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1998,
+      "opinion_index": 1
+    },
+    {
+      "cite": "135 Wn.2d 239",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        812835
+      ],
+      "year": 1998,
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/135/0239-01"
+      ]
+    },
+    {
+      "cite": "154 Wn.2d 596",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        5629022
+      ],
+      "weight": 3,
+      "year": 2005,
+      "pin_cites": [
+        {
+          "page": "600"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/154/0596-01"
+      ]
+    },
+    {
+      "cite": "36 P.3d 1005",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2001,
+      "opinion_index": 1
+    },
+    {
+      "cite": "145 Wn.2d 258",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        314629
+      ],
+      "year": 2001,
+      "pin_cites": [
+        {
+          "page": "264"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/145/0258-01"
+      ]
+    },
+    {
+      "cite": "111 P.3d 837",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2005,
+      "opinion_index": 1
+    },
+    {
+      "cite": "154 Wn.2d 249",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        5629413
+      ],
+      "year": 2005,
+      "pin_cites": [
+        {
+          "page": "258-59"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/154/0249-01"
+      ]
+    },
+    {
+      "cite": "119 P.3d 816",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2005,
+      "opinion_index": 1
+    },
+    {
+      "cite": "155 Wn.2d 356",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        3765730
+      ],
+      "year": 2005,
+      "pin_cites": [
+        {
+          "page": "363-67"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/155/0356-01"
+      ]
+    },
+    {
+      "cite": "74 P.3d 1194",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2003,
+      "opinion_index": 1
+    },
+    {
+      "cite": "150 Wn.2d 71",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        9193894
+      ],
+      "year": 2003,
+      "pin_cites": [
+        {
+          "page": "83"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/150/0071-01"
+      ]
+    },
+    {
+      "cite": "9 P.3d 206",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2000,
+      "opinion_index": 1
+    },
+    {
+      "cite": "141 Wn.2d 687",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1183445
+      ],
+      "weight": 2,
+      "year": 2000,
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/141/0687-01"
+      ]
+    },
+    {
+      "cite": "166 P.3d 677",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2007,
+      "opinion_index": 1
+    },
+    {
+      "cite": "161 Wn.2d 322",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        3801738
+      ],
+      "year": 2007,
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/161/0322-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1117,
+    "char_count": 26663,
+    "ocr_confidence": 0.886,
+    "pagerank": {
+      "raw": 7.239249603386781e-08,
+      "percentile": 0.4319025935488903
+    },
+    "sha256": "6825f7e96ecad4c9e6b8c7b5e47068814fb36abf3d67d0a483bca9bb054da4e3",
+    "simhash": "1:972ee0096f3a1caa",
+    "word_count": 4269
+  },
+  "last_updated": "2024-02-28T00:06:59.447104+00:00",
+  "provenance": {
+    "date_added": "2019-05-22",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Madsen, C.J., and Johnson, Owens, Fairhurst, Wiggins, Gonz\u00e1lez, and Yu, JJ., concur."
+    ],
+    "parties": [
+      "The State of Washington, Petitioner, v. Spencer Leroy Miller, Respondent."
+    ],
+    "opinions": [
+      {
+        "text": "Stephens, J.\n\u00b61 A jury convicted Spencer Miller of two counts of attempted first degree murder in 2002. The trial court imposed a 200-month sentence on each count, to run consecutively pursuant to RCW 9.94A.589(1)(b). In an untimely collateral attack, Miller argues that In re Personal Restraint of Mulholland, 161 Wn.2d 322, 166 P.3d 677 (2007), constitutes a significant change in the law retroactively applicable to his sentence. The trial court agreed and ordered resentencing. We reject Miller\u2019s argument and vacate the trial court order.\nBACKGROUND\n\u00b62 Following Miller\u2019s 2002 conviction on two counts of attempted first degree murder, the trial court imposed consecutive 200-month sentences, relying on RCW 9.94A-.589(1)(b). Miller timely appealed, asserting various trial errors but not challenging his sentence. The Court of Appeals affirmed Miller\u2019s conviction and sentence, State v. Miller, noted at 122 Wn. App. 1074 (2004), issuing its mandate in 2005.\n\u00b63 Five years later, Miller filed two CrR 7.8 motions in superior court, seeking modification of his sentence. Miller argued that his late-filed collateral attack on his sentence was exempt from RCW 10.73.090(l)\u2019s one-year time bar because Mulholland\u2014which interpreted RCW 9.94A-.589(1)(b) as affording the trial court discretion to impose concurrent sentences for serious violent offenses as a mitigated exceptional sentence\u2014qualifies as a significant change in the law under RCW 10.73.100(6). The trial court agreed. Concluding it had failed to recognize its discretion to impose concurrent sentences under RCW 9.94A.589(1)(b), the superior court vacated Miller\u2019s sentence and ordered new sentencing. The State appealed, but the Court of Appeals affirmed. State v. Miller, 181 Wn. App. 201, 324 P.3d 791 (2014). We granted the State\u2019s motion for discretionary review. 182 Wn.2d 1028, 347 P.3d 459 (2015).\nANALYSIS\n\u00b64 RCW 10.73.090(1) bars collateral attacks on a judgment and sentence \u201cfiled more than one year after the judgment becomes final if the judgment and sentence is valid on its face and was rendered by a court of competent jurisdiction.\u201d RCW 10.73.100(6) prescribes three conditions that must be satisfied before a petitioner can overcome the one-year time bar: (1) a substantial change in the law (2) that is material and (3) that applies retroactively. In re Pers. Restraint of Gentry, 179 Wn.2d 614, 625, 316 P.3d 1020 (2014).\n\u00b65 Miller contends that his late-filed petition is excused from the one-year time bar because Mulholland qualifies as a significant change in the law under RCW 10.73.100(6). We reject his argument.\n\u00b66 We have consistently recognized that the \u201csignificant change in the law\u201d exemption in RCW 10.73.100(6) applies when an intervening appellate decision overturns a prior appellate decision that was determinative of a material issue. In re Pers. Restraint of Yung-Cheng Tsai, 183 Wn.2d 91, 104, 351 P.3d 138 (2015) (citing In re Pers. Restraint of Greening, 141 Wn.2d 687, 697, 9 P.3d 206 (2000)). Conversely, an intervening appellate decision that \u201csettles a point of law without overturning prior precedent\u201d or \u201csimply applies settled law to new facts\u201d does not constitute a significant change in the law. In re Pers. Restraint of Turay, 150 Wn.2d 71, 83, 74 P.3d 1194 (2003); accord In re Pers. Restraint of Domingo, 155 Wn.2d 356, 368, 119 P.3d 816 (2005). \u201c \u2018One test to determine whether an [intervening case] represents a significant change in the law is whether the defendant could have argued this issue before publication of the decision.\u2019 \u201d In re Pers. Restraint of Lavery, 154 Wn.2d 249, 258-59, 111 P.3d 837 (2005) (alteration in original) (quoting In re Pers. Restraint of Stoudmire, 145 Wn.2d 258, 264, 36 P.3d 1005 (2001)).\n\u00b67 In Mulholland, this court held that RCW 9.94A-.589(1)(b)\u2019s plain meaning gives the trial court discretion\u2014 upon finding mitigating factors\u2014to impose concurrent sentences for serious violent offenses as an exceptional downward sentence. 161 Wn.2d at 329-31. The court further held that the trial court\u2019s erroneous belief that it lacked discretion to impose concurrent sentences constituted a fundamental defect justifying collateral relief in that case. Id. at 332-33.\n\u00b68 Miller argues that Mulholland qualifies as a significant change in the law because it \u201cdebunked dicta relied on in practice for years.\u201d Suppl. Br. of Resp\u2019t at 12. Specifically, Miller contends that dicta from State v. Jacobs, 154 Wn.2d 596, 115 P.2d 281 (2005) and In re Post Sentencing Review of Charles, 135 Wn.2d 239, 955 P.2d 798 (1998) contributed to an erroneous belief that no exceptions existed to the consecutive sentence requirement for serious violent offenses under RCW 9.94A.589(1)(b). Suppl. Br. of Resp\u2019t at 11. Miller also claims that \u201coverruling controlling precedent is not required to find a \u2018significant change in the law.\u2019 \u201d Id. at 10.\n\u00b69 Miller\u2019s arguments are unpersuasive. A \u201csignificant change in the law\u201d contemplates an intervening appellate decision that overturns a prior appellate decision that was determinative of a material issue. Tsai, 183 Wn.2d at 104. Mulholland did not overturn a prior appellate decision that was determinative of a material issue. Rather, Mulhol land, interpreted RCW 9.94A.589(1)(b) for the first time. 161 Wn.2d at 328 (noting whether RCW 9.94A.589(1)(b) allows for concurrent sentences \u201cis a question we have not directly addressed\u201d)- Miller concedes this point in his supplemental brief by arguing that Mulholland simply \u201cdebunked dicta.\u201d Suppl. Br. of Resp\u2019t at 12. Dispelling dicta, however, does not constitute a significant change in the law. Domingo, 155 Wn.2d at 363-67 (holding that dicta in an opinion cannot establish a rule or principle that can later be used to establish \u201ca significant change in the law\u201d).\n\u00b610 Miller\u2019s argument that Mulholland changed the ordinary practitioner\u2019s understanding of RCW 9.94A.589(1)(b) does not support a retroactive application. A \u201csignificant change in the law\u201d requires that the law, not counsels\u2019 understanding of the law on an unsettled question, has changed. Not only would Miller\u2019s proposed rule directly conflict with our precedent, but it would create an unworkable standard and foster uncertainty. Nothing prevented Miller from arguing at sentencing that the trial court had discretion to impose concurrent sentences. Indeed, the fact that the petitioner in Mulholland successfully argued that concurrent sentences are permissible under RCW 9.94A.589(1)(b) demonstrates that the argument was not previously \u201cunavailable\u201d to him.\n\u00b6 11 Because Mulholland does not qualify as a significant change in the law, Miller cannot satisfy the exception under RCW 10.73.100(6) allowing an untimely collateral attack. We therefore vacate the trial courts order for resentencing.\nCONCLUSION\n\u00b612 We reverse the Court of Appeals and vacate the trial court order for resentencing.\nMadsen, C.J., and Johnson, Owens, Fairhurst, Wiggins, Gonz\u00e1lez, and Yu, JJ., concur.\nAlthough the trial court initially transferred the matter to the Court of Appeals for consideration as a personal restraint petition, the Court of Appeals rejected the transfer.",
+        "type": "majority",
+        "author": "Stephens, J."
+      },
+      {
+        "text": "Gordon McCloud, J.\n\u00b613 (dissenting) In 2002, a trial court judge in one of our state\u2019s most populous counties and busiest courts sentenced Spencer Miller to a standard range sentence of 400 months\u2014200 months for each of two serious violent crimes, to run consecutively. Five years later, in 2007, that same jurist\u2014with greater experience and enough humility to examine his own prior decision-making in this case critically and honestly\u2014acknowledged that he did not realize that he had the power to have imposed concurrent 200-month sentences instead. Clerk\u2019s Papers (CP) at 268-69. In fact, he admitted that he did not realize he had that discretion until this court said so for the first time in 2007, in In re Personal Restraint of Mulholland, 161 Wn.2d 322, 166 P.3d 677 (2007). CP at 269.\n\u00b614 That trial court judge was not the only one who didn\u2019t realize that the legislature gave judges the discretion to impose concurrent sentences in that (serious violent crimes) situation. Mr. Miller\u2019s trial counsel also did not know that in 2002, before Mulholland. CP at 268 (trial court concludes that Miller\u2019s attorney might have requested a lower sentence if he had had the benefit of the Mulholland decision); Verbatim Report of Proceedings (Oct. 7, 2011) at 5-7. The prosecuting attorney also did not know that in 2002, before Mulholland, either. State\u2019s Resp. to Pers. Restraint Pet., In re Personal Restraint of Mulholland, No. 34484-0-II, at 8 (Wash. Ct. App. Apr. 21, 2006) (\u201c[Pletitioner contends that it is legally permissible for the court to impose concurrent sentences on these [serious violent] offenses by imposing an exceptional sentence under RCW 9.94A.435(g). The State disagrees. While sentencing courts enjoy some discretion in determining the length of sentences, that discretion does not extend to deciding whether to run sentences on current offenses concurrently or consecutively. State v. Jacobs, 154 Wn.2d 596, 115 P.3d 281 (2005).\u201d). In fact, as the majority recognizes, even this court seemed to indicate that trial court judges lacked that discretion, though we did so only in \u201cdicta.\u201d Majority at 115 (summarizing cases).\n\u00b6 15 I can\u2019t believe that the legislature intended to bar the trial court judge from correcting his acknowledged misunderstanding of his sentencing discretion\u2014a misunderstanding he shared with defense lawyers, prosecutors, and judges alike\u2014in this unusual situation. I don\u2019t think that our cases compel such a reading of the applicable statute, RCW 10.73.100(6), either.\nANALYSIS\n\u00b616 I certainly agree with the majority that our task is to interpret a statute, RCW 10.73.100(6), to determine whether it bars a trial court judge from correcting what he forthrightly admits was his erroneous assumption that he lacked important sentencing discretion. And I readily acknowledge that the majority\u2019s decision finds support in statements in some of our cases. Majority at 114. But that support is not present in all the cases the majority cites, and in the cases that do provide support for the majority\u2019s holding, that support comes only from dicta.\n\u00b617 For example, the majority cites cases holding that a decision applying settled case law to new facts does not constitute a significant change in the law. Id. at 114-15 (citing In re Pers. Restraint of Lavery, 154 Wn.2d 249, 258-59, 111 P.3d 837 (2005); In re Pers. Restraint of Turay, 150 Wn.2d 71, 83, 74 P.3d 1194 (2003); In re Pers. Restraint of Stoudmire, 145 Wn.2d 258, 264, 36 P.3d 1005 (2001)). Those cases certainly say that. But the majority relies on these holdings to support the very different proposition that a decision (like Mulholland) rejecting prior dicta cannot constitute a significant change in the law. Id. at 115-16.\n\u00b618 Lavery, Turay, and Stoudmire actually remained silent on that latter issue. The defendant in Stoudmire, for example, filed a personal restraint petition (PRP) alleging that an exception to the one-year limit on collateral attacks should apply due to a significant change in the law. 145 Wn.2d at 262. The change purportedly resulted from a 1996 case in which this court held that mandatory community placement is a direct consequence of a plea. Id. at 264. This court disagreed and held that that purportedly new holding merely applied a previously settled rule\u2014that a defendant must be informed of all direct consequences of a plea\u2014to a new factual setting: mandatory community placement. Id. We concluded only that that new application of the old rule did not constitute a significant change in the law. Id. at 265. We made no holding on how to characterize significant changes to prior dicta that was generally viewed as reflecting the state of the law.\n\u00b619 Similarly, in Turay, we held that the purportedly new rule that Turay sought to take advantage of (regarding proof of a \u201crecent overt act\u201d) was not new at all; it \u201cdid not alter the holding\u201d of any prior cases and instead \u201csimply involved application of the [old rule] ... to new fact situations.\u201d 150 Wn.2d at 85. Once again, we made no holding on whether a big change to prior dicta that was generally viewed as binding constituted a \u201csignificant change\u201d in the law. Id. (constitutional principle on which petitioner relied remained \u201cunchanged\u201d; relevant cases merely applied that rule to different factual situations).\n\u00b620 And in Lavery, we actually granted the petition. 154 Wn.2d at 261. Thus, that case certainly made no holding about new interpretations of earlier, generally accepted dicta failing the \u201csignificant change\u201d in the law test for RCW 10.73.100(6) purposes.\n\u00b621 In sum, neither Stoudmire, Turay, nor Lavery holds that a case must overturn binding precedent in order to constitute a significant change in the law. Thus, they provide no support for the majority\u2019s holding that Mulhol-land, which overturned prior generally accepted understandings and dicta concerning a sentencing judge\u2019s power, does not constitute a \u201csignificant change\u201d in the law.\n\u00b622 The majority also cites In re Personal Restraint of Domingo, 155 Wn.2d 356, 363-67, 119 P.3d 816 (2005), for the principle that dispelling dicta cannot constitute a significant change in the law. Majority at 115. Some context is necessary to show that Domingo did not say that. In Domingo, the question was whether our earlier decisions in Roberts and Cronin constituted a significant change in the scope of accomplice liability. The petitioners argued that Roberts and Cronin overruled statements in an older case\u2014State v. Davis, 101 Wn.2d 654, 682 P.2d 883 (1984)\u2014about the supposedly broad scope of that liability. This court in Domingo did say that the old Davis statements to which Domingo cited were dicta. Thus, on the surface, the majority\u2019s decision might look similar to Domingo. Majority at 115-16. But the actual holding in Domingo was very different. Domingo held that there was an actual holding in Davis that was contrary to its broad-accomplice-liability dicta, and that that holding about the limits on the scope of accomplice liability were actually reaffirmed by Roberts and Cronin. 155 Wn.2d at 365. In fact, Domingo explicitly stated that the petitioner\u2019s reading was \u201ccontradicted by express language in Roberts and Cronin,\u201d which language had expressly followed the prior holdings of Davis and other earlier cases. Id. (citing Roberts, 142 Wn.2d at 513). Thus, Domingo\u2014like Lavery, Stoudmire, and Turay\u2014made no holding with regard to the legal effect of rejecting dicta for purposes of RCW 10.73.100(6).\n\u00b623 The same is true of Greening, also cited by the majority. Majority at 114. In that case, as in Lavery, this court granted the PRP Its statement about when PRPs will not be granted is itself dicta.\n\u00b624 The majority can really rely only on dicta for its holding that Mulholland, which overturned prior generally accepted understandings and dicta, does not constitute a \u201csignificant change in the law.\u201d But if, as the majority contends, the Jacobs and Charles dicta does not constitute prior controlling authority for purposes of RCW 10.73-.100(6), then the Domingo, Greening, etc. dicta cannot constitute prior controlling authority for purposes of interpreting RCW 10.73.100(6), either. Majority at 114-15.\n\u00b625 Finally, and of great importance, we have cases in which we have said just the opposite. In In re Personal Restraint of Runyan, for example, we explained that RCW 10.73.100(6) preserved \u201cunlimited\u201d postconviction review, even outside the usual one-year time limit, for claims that a sentencing error improperly affected the length of a prisoner\u2019s continued incarceration. 121 Wn.2d 432, 453, 853 P.2d 424 (1993). As we explained of Runyan\u2019s analysis in a later decision, Greening,\n\u201cIn streamlining the postconviction collateral review process, RCW 10.73.090 et seq. have preserved unlimited access to review in cases where there truly exists a question as to the validity of the prisoner\u2019s continuing detention.\u201d [Runyan, 121 Wn.2d] at 453 (emphasis added). We added, \u201cFaced with a virtually unlimited universe of possible postconviction claims, the Legislature wisely chose to exempt those contentions which go to the very validity of the prisoner\u2019s continued incarceration.\u201d Id. at 449 (emphasis added). Here, the State acknowledges that six years of this prisoner\u2019s prescribed incarceration period have been unlawfully imposed.\n141 Wn.2d at 695-96.\n\u00b626 So our cases do not compel the rule that the majority adopts. Some of our cases that the majority cites do not state that rule at all; some of our cases that the majority cites state that rule in dicta; and at least one of our cases {Runyan) states a different rule.\n\u00b627 With our cases saying such different things, in such different contexts, about this statutory interpretation issue, we should take on anew the task of interpreting the meaning of \u201csignificant change in the law\u201d as used in RCW 10.73.100(6)\u2014where, as here, the change involves the trial judge\u2019s acknowledged misunderstanding about whether he had authority to exercise discretion at sentencing. As we have explained many times, when we take on such a task\n[o]ur primary objective is to determine and to apply the legislature\u2019s intent. State v. Donaghe, 172 Wn.2d 253, 261-62, 256 P.3d 1171 (2011) (quoting State v. Jacobs, 154 Wn.2d 596, 600, 115 P.3d 281 (2005)). We determine legislative intent from the statute\u2019s plain language, \u201cconsidering the text of the provision in question, the context of the statute in which the provision is found, related provisions, amendments to the provision, and the statutory scheme as a whole.\u201d\nIf, after examining the ordinary meaning of the statute\u2019s language and its context in the statutory scheme, more than one reasonable interpretation exists, we treat the statute as ambiguous. Jacobs, 154 Wn.2d at 600-01. In criminal cases, we apply the rule of lenity to ambiguous statutes and interpret the statute in the defendant\u2019s favor.\u201d\nState v. Conover, 183 Wn.2d 706, 711, 355 P.3d 1093 (2015) (citations omitted) (quoting Ass\u2019n of Wash. Spirits & Wine Distribs. v. Wash. State Liquor Control Bd., 182 Wn.2d 342, 350, 340 P.3d 849 (2015)).\n\u00b628 RCW 10.73.100 was enacted in 1989, and it permits a petitioner to file a PRP outside the one-year time limit if it is based on a \u201csignificant change in the law, whether substantive or procedural, which is material to the conviction [or] sentence . . . and ... a court . . . determines that sufficient reasons exist to require retroactive application of the changed legal standard.\u201d RCW 10.73.100(6). New judicial interpretations of criminal statutes are always applied retroactively, both before and after RCW 10.73.100 was enacted. And our court has consistently applied that rule\u2014 that new interpretations of old statutes, particularly sentencing statutes, apply back to the date of original enactment of the statute\u2014in the context presented here, that is, a claim concerning the length of a sentence in a criminal case raised on a collateral attack.\n\u00b629 The only real question here is whether the legislature intended a retroactive interpretation of a criminal statute like the one created by Mulholland, to apply to petitioners who miss the one-year PRP deadline, or not. Dictionary definitions of \u201csignificant\u201d do not answer that question, the parties offer no relevant legislative history to answer that question, and the context of the statute does not provide a clear answer to that question. But the change in sentencing discretion that Mulholland created certainly seems big by any definition. After Mulholland, trial court judges could run the lengthiest sentences for serious violent crimes concurrently, in the exceptional case in which it was proper; before Mulholland, I find no record of any trial court judge ever doing that or any appellate court approving that, and the trial court judge in Mr. Miller\u2019s case explicitly acknowledges that he didn\u2019t think he could do that.\n\u00b630 Such a change in the law clarifying for the first time that a statute gives the sentencing judge discretion in an area in which that judge previously believed he lacked discretion certainly seems \u201csignificant.\u201d In fact, in State v. Blazina, 182 Wn.2d 827, 344 P.3d 680 (2015), we held that our interpretation of a preexisting statute clarifying the trial court\u2019s duty to make an inquiry and exercise discretion about whether to impose financial obligations on an indigent defendant was so significant that we took the exceptional step of reviewing that issue when raised for the first time on appeal, and remanded directly to the trial court for resentencing to give it the opportunity to exercise that discretion. Mr. Miller seeks the same limited remedy of resentencing to give the trial court the opportunity to exercise discretion here. The power to exercise discretion cannot possibly be more significant where additional financial obligations are involved than where, as here, additional imprisonment of almost 17 years is involved.\n\u00b631 If, after considering this summary of cases, there is still any doubt about whether the legislature meant to include decisions like Mulholland within its definition of \u201csignificant change\u201d in the law, then there is one more step that we should take. I certainly acknowledge that the majority accurately summarizes statements in some of our cases to the contrary. Majority at 114-16. Given those statements, given the fact that we have been presented with no relevant legislative history on the point at issue here, and given the uselessness of dictionary definitions to figure out whether \u201csignificant\u201d changes include clarifications that alter prior accepted understandings or only outright reversals, any remaining uncertainty about the meaning of \u201csignificant\u201d in RCW 10.73.100(6) renders it ambiguous. Such an ambiguity must be interpreted in favor of the criminal defendant. Conover, 183 Wn.2d at 711. In fact, in Greening, our court applied the rule of lenity to interpret exactly the same statutory provision at issue here: RCW 10.73.100(6). 141 Wn.2d at 698 (\u201ceven were we to find the State\u2019s alternative construction reasonable, the rule of lenity would require resolving the alleged ambiguity in the petitioner\u2019s favor\u201d). That means interpreting a \u201csignificant change in the law\u201d to include Mulholland\u2019s important new holding interpreting the Sentencing Reform Act of 1981 to grant trial courts discretion to impose concurrent sentences for serious violent offenses in the rare and exceptional case in which the trial judge believes it is warranted. Ch. 9.94A RCW.\nCONCLUSION\n\u00b632 A fair summary of our cases on the interpretation of \u201csignificant change in the law\u201d in RCW 10.73.100(6) shows that they say different things\u2014and none of them has previously adopted the majority\u2019s approach as a holding. Most accepted rules of statutory interpretation do not lead to a clear answer but could leave it susceptible to either the majority\u2019s interpretation or my interpretation. Any such ambiguity must be resolved under the rule of lenity, and it favors the defendant\u2019s interpretation: the experienced and honest trial judge, who acknowledged that in 2002 he had the same misimpression about his lack of discretion at sentencing that other lawyers and judges in the state shared, should be given a chance to correct his error.\n\u00b633 The most persuasive reason to adopt this view is based on common sense. The majority\u2019s approach rewards petitioners who are lucky enough to get the smartest or most creative postconviction lawyers. It rewards the petitioner like Mr. Mulholland, who arrived first at the courthouse with his creative and intelligent argument, filed a PRP, and obtained a ruling allowing serious violent offenses to run concurrently as an \u201cexceptional sentence\u201d in his own case. But it punishes every other petitioner who was sentenced before him, who did not think of that argument sooner.\n\u00b634 That approach stands at odds with the legitimate goals of the criminal justice system: punishment, rehabilitation, and deterrence. I can\u2019t believe that\u2019s what the legislature intended.\nThe majority, of course, acknowledges this. Majority at 114 (trial court \u201c[c]onclud[ed] it had failed to recognize its discretion to impose concurrent sentences under RCW 9.94A.589(1)(b)\u201d and therefore \u201cvacated Miller\u2019s sentence and ordered new sentencing\u2019\u2019).\nState v. Roberts, 142 Wn.2d 471, 14 P.3d 713 (2000).\nState v. Cronin, 142 Wn.2d 568, 14 P.3d 752 (2000).\nIn re Pers. Restraint of Greening, 141 Wn.2d 687, 9 P.3d 206 (2000).\nState v. Jacobs, 154 Wn.2d 596, 115 P.3d 281 (2005).\nIn re Post Sentencing Review of Charles, 135 Wn.2d 239, 955 P.2d 798 (1998).\nState v. Darden, 99 Wn.2d 675, 679, 663 P.2d 1352 (1983) (\u201c \u2018It is a fundamental rule of statutory construction that once a statute has been construed by the highest court of the state, that construction operates as if it were originally written into it. In other words, there is no \u201cretroactive\u201d effect of a court\u2019s construction of a statute; rather, once the court has determined the meaning, that is what the statute has meant since its enactment' \u201d (quoting Johnson v. Morris, 87 Wn.2d 922, 927-28, 557 P.2d 1299 (1976))); In re Pers. Restraint of Carle, 93 Wn.2d 31, 37, 604 P.2d 1293 (1980).\nIn re Pers. Restraint of Johnson, 131 Wn.2d 558, 568, 933 P.2d 1019 (1997) (intervening change in statutory interpretation \u201cmust be applied retroactively\u201d because \u201c[o]nce the Court has determined the meaning of a statute, that is what the statute has meant since its enactment\u201d (citing In re Pers. Restraint of Vandervlugt, 120 Wn.2d 427, 436, 842 P.2d 950 (1992); In re Pers. Restraint of Moore, 116 Wn.2d 30, 37, 803 P.2d 300 (1991))).\nE.g., Greening, 141 Wn.2d 687 (PRP; change in whether firearm enhancements run consecutively or concurrently); Johnson, 131 Wn.2d 558 (PRP; change in offender score calculation); Vandervlugt, 120 Wn.2d 427 (PRP; change in whether \u201cfuture dangerousness\u201d can be used to support an exceptional sentence); Carle, 93 Wn.2d at 37 (PRP; change in law regarding deadly weapons enhancement applicability).\nSee State v. Alvarado, 164 Wn.2d 556, 562, 192 P.3d 345 (2008) (court will not interpret statute to lead to absurd results).",
+        "type": "dissent",
+        "author": "Gordon McCloud, J."
+      }
+    ],
+    "attorneys": [
+      "Mark E. Lindquist, Prosecuting Attorney, and Stephen D. Trinen and Kathleen Proctor, Deputies, for petitioner.",
+      "Christopher Gibson (of Nielsen, Broman & Koch PLLC), for respondent."
+    ],
+    "corrections": "",
+    "head_matter": "[No. 91065-1.\nArgued September 10, 2015.\nDecided February 11, 2016.\nThe State of Washington, Petitioner, v. Spencer Leroy Miller, Respondent.\nMark E. Lindquist, Prosecuting Attorney, and Stephen D. Trinen and Kathleen Proctor, Deputies, for petitioner.\nChristopher Gibson (of Nielsen, Broman & Koch PLLC), for respondent."
+  },
+  "file_name": "0111-01",
+  "first_page_order": 165,
+  "last_page_order": 180
+}

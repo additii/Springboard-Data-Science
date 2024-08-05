@@ -1,0 +1,987 @@
+{
+  "id": 12440933,
+  "name": "The State of Washington, Petitioner, v. Matthew Alexander Hampton, Respondent",
+  "name_abbreviation": "State v. Hampton",
+  "decision_date": "2015-11-19",
+  "docket_number": "No. 90811-7",
+  "first_page": "656",
+  "last_page": "678",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "184 Wash. 2d 656"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Wash.",
+    "id": 9029,
+    "name": "Washington Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 38,
+    "name_long": "Washington",
+    "name": "Wash."
+  },
+  "cites_to": [
+    {
+      "cite": "136 S. Ct. 399",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12599991,
+        12599992,
+        12599993,
+        12599994,
+        12599995,
+        12599996
+      ],
+      "weight": 3,
+      "year": 2015,
+      "opinion_index": 0,
+      "case_paths": [
+        "/s-ct/136/0399-01",
+        "/s-ct/136/0399-02",
+        "/s-ct/136/0399-03",
+        "/s-ct/136/0399-04",
+        "/s-ct/136/0399-05",
+        "/s-ct/136/0399-06"
+      ]
+    },
+    {
+      "cite": "797 P.2d 1141",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1990,
+      "opinion_index": 0
+    },
+    {
+      "cite": "115 Wn.2d 294",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1379089
+      ],
+      "year": 1990,
+      "pin_cites": [
+        {
+          "page": "298-99"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/115/0294-01"
+      ]
+    },
+    {
+      "cite": "905 P.2d 922",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "weight": 2,
+      "year": 1995,
+      "pin_cites": [
+        {
+          "parenthetical": "citation omitted"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "79 Wn. App. 786",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        423642
+      ],
+      "weight": 2,
+      "year": 1995,
+      "pin_cites": [
+        {
+          "page": "793"
+        },
+        {
+          "page": "793"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/79/0786-01"
+      ]
+    },
+    {
+      "cite": "71 P.3d 638",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2003,
+      "pin_cites": [
+        {
+          "parenthetical": "quoting State v. Rundquist, 79 Wn. App. 786, 793, 905 P.2d 922 (1995)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "149 Wn.2d 647",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1292589
+      ],
+      "year": 2003,
+      "pin_cites": [
+        {
+          "page": "654",
+          "parenthetical": "quoting State v. Rundquist, 79 Wn. App. 786, 793, 905 P.2d 922 (1995)"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/149/0647-01"
+      ]
+    },
+    {
+      "cite": "937 P.2d 587",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1997,
+      "opinion_index": 0
+    },
+    {
+      "cite": "132 Wn.2d 229",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        498233
+      ],
+      "year": 1997,
+      "pin_cites": [
+        {
+          "page": "240"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/132/0229-01"
+      ]
+    },
+    {
+      "cite": "845 P.2d 1017",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1993,
+      "opinion_index": 0
+    },
+    {
+      "cite": "120 Wn.2d 822",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1368161
+      ],
+      "year": 1993,
+      "pin_cites": [
+        {
+          "page": "830"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/120/0822-01"
+      ]
+    },
+    {
+      "cite": "525 F.3d 890",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3582490
+      ],
+      "year": 2008,
+      "pin_cites": [
+        {
+          "page": "896-98"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/525/0890-01"
+      ]
+    },
+    {
+      "cite": "785 F.3d 1337",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        4182346
+      ],
+      "year": 2015,
+      "pin_cites": [
+        {
+          "page": "1347-50",
+          "parenthetical": "holding that a district court abused its discretion in part because the record did not indicate that the trial court denied the defendant's motion because of the demands of its calendar"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/785/1337-01"
+      ]
+    },
+    {
+      "cite": "560 F.3d 808",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3429966
+      ],
+      "year": 2009,
+      "pin_cites": [
+        {
+          "page": "815-16",
+          "parenthetical": "noting that the defendant's \"dissatisfaction with counsel was neither sudden nor unforeseeable\" and affirming the trial court's denial of a continuance to allow the defendant's newly retained attorney to prepare"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/560/0808-01"
+      ]
+    },
+    {
+      "cite": "645 F.3d 830",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        5649944
+      ],
+      "year": 2011,
+      "pin_cites": [
+        {
+          "page": "838-39"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/645/0830-01"
+      ]
+    },
+    {
+      "cite": "770 F.3d 1148",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        4266154
+      ],
+      "year": 2014,
+      "pin_cites": [
+        {
+          "page": "1156"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/770/1148-01"
+      ]
+    },
+    {
+      "cite": "491 F.3d 1197",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3470465
+      ],
+      "year": 2007,
+      "pin_cites": [
+        {
+          "page": "1216",
+          "parenthetical": "quoting Gonzalez-Lopez, 548 U.S. at 148, and citing cases from other jurisdictions that had come to the same conclusion"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/491/1197-01"
+      ]
+    },
+    {
+      "cite": "109 P.3d 27",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2005,
+      "opinion_index": 0
+    },
+    {
+      "cite": "126 Wn. App. 617",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        1016316
+      ],
+      "year": 2005,
+      "pin_cites": [
+        {
+          "page": "631-32"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/126/0617-01"
+      ]
+    },
+    {
+      "cite": "881 P.2d 268",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "weight": 3,
+      "year": 1994,
+      "opinion_index": 0
+    },
+    {
+      "cite": "75 Wn. App. 808",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        11978798
+      ],
+      "year": 1994,
+      "pin_cites": [
+        {
+          "page": "823"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/75/0808-01"
+      ]
+    },
+    {
+      "cite": "376 U.S. 575",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        379455
+      ],
+      "weight": 5,
+      "year": 1964,
+      "pin_cites": [
+        {
+          "page": "589"
+        },
+        {
+          "page": "589"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/376/0575-01"
+      ]
+    },
+    {
+      "cite": "16 P.3d 1",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2001,
+      "opinion_index": 0
+    },
+    {
+      "cite": "142 Wn.2d 710",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1361370
+      ],
+      "year": 2001,
+      "pin_cites": [
+        {
+          "page": "723-24"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/142/0710-01"
+      ]
+    },
+    {
+      "cite": "342 P.3d 327",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "weight": 3,
+      "year": 2015,
+      "opinion_index": 0
+    },
+    {
+      "cite": "182 Wn.2d 1002",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "year": 2015,
+      "opinion_index": 0
+    },
+    {
+      "cite": "229 P.3d 669",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2010,
+      "opinion_index": 0
+    },
+    {
+      "cite": "168 Wn.2d 350",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4007318
+      ],
+      "year": 2010,
+      "pin_cites": [
+        {
+          "page": "365"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/168/0350-01"
+      ]
+    },
+    {
+      "cite": "548 U.S. 140",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3500367
+      ],
+      "weight": 23,
+      "year": 2006,
+      "pin_cites": [
+        {
+          "page": "146"
+        },
+        {
+          "page": "151"
+        },
+        {
+          "page": "144"
+        },
+        {
+          "page": "144"
+        },
+        {
+          "page": "151",
+          "parenthetical": "\"the right to counsel of choice does not extend to defendants who require counsel to be appointed for them\""
+        },
+        {
+          "page": "151"
+        },
+        {
+          "page": "151-52"
+        },
+        {
+          "page": "152"
+        },
+        {
+          "page": "143-44"
+        },
+        {
+          "page": "150-52"
+        },
+        {
+          "page": "151-52"
+        },
+        {
+          "page": "152,151"
+        },
+        {
+          "page": "152",
+          "parenthetical": "citation omitted"
+        },
+        {
+          "page": "146"
+        },
+        {
+          "page": "151-52",
+          "parenthetical": "emphasis added"
+        },
+        {
+          "page": "150",
+          "parenthetical": "emphasis added"
+        },
+        {
+          "page": "148"
+        },
+        {
+          "page": "151-52"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/548/0140-01"
+      ]
+    },
+    {
+      "cite": "332 P.3d 1020",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2014,
+      "opinion_index": 0
+    },
+    {
+      "cite": "182 Wn. App. 805",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        4323222
+      ],
+      "weight": 9,
+      "year": 2014,
+      "pin_cites": [
+        {
+          "page": "825-26"
+        },
+        {
+          "page": "820-24"
+        },
+        {
+          "page": "822-23"
+        },
+        {
+          "page": "822"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/182/0805-01"
+      ]
+    },
+    {
+      "cite": "508 U.S. 275",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12227
+      ],
+      "weight": 3,
+      "year": 1993,
+      "pin_cites": [
+        {
+          "page": "282"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/508/0275-01"
+      ]
+    },
+    {
+      "cite": "222 P.3d 86",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2009,
+      "opinion_index": 1
+    },
+    {
+      "cite": "167 Wn.2d 644",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4004790
+      ],
+      "year": 2009,
+      "pin_cites": [
+        {
+          "page": "655"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/167/0644-01"
+      ]
+    },
+    {
+      "cite": "2014 CO 25",
+      "category": "reporters:neutral",
+      "reporter": "CO",
+      "case_ids": [
+        6943810
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "\u00b6 2"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/p3d/322/0214-01"
+      ]
+    },
+    {
+      "cite": "799 P.2d 272",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "weight": 2,
+      "year": 1990,
+      "opinion_index": 1
+    },
+    {
+      "cite": "59 Wn. App. 501",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        1750844
+      ],
+      "year": 1990,
+      "pin_cites": [
+        {
+          "page": "506"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-app/59/0501-01"
+      ]
+    },
+    {
+      "cite": "890 F.2d 82",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        12026463
+      ],
+      "year": 1989,
+      "opinion_index": 1,
+      "case_paths": [
+        "/f2d/890/0082-01"
+      ]
+    },
+    {
+      "cite": "853 F.2d 1445",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10549235
+      ],
+      "year": 1988,
+      "pin_cites": [
+        {
+          "page": "1451"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/f2d/853/1445-01"
+      ]
+    },
+    {
+      "cite": "14 P.3d 713",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2000,
+      "opinion_index": 1
+    },
+    {
+      "cite": "142 Wn.2d 471",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1361359
+      ],
+      "year": 2000,
+      "pin_cites": [
+        {
+          "page": "516"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/142/0471-01"
+      ]
+    },
+    {
+      "cite": "486 U.S. 153",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6212318
+      ],
+      "weight": 3,
+      "year": 1988,
+      "pin_cites": [
+        {
+          "page": "158"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/486/0153-01"
+      ]
+    },
+    {
+      "cite": "287 U.S. 45",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        369864
+      ],
+      "weight": 3,
+      "year": 1932,
+      "pin_cites": [
+        {
+          "page": "72"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/287/0045-01"
+      ]
+    },
+    {
+      "cite": "372 U.S. 335",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1765333
+      ],
+      "weight": 3,
+      "year": 1963,
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/372/0335-01"
+      ]
+    },
+    {
+      "cite": "316 U.S. 455",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        368158
+      ],
+      "weight": 3,
+      "year": 1942,
+      "pin_cites": [
+        {
+          "page": "468"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/316/0455-01"
+      ]
+    },
+    {
+      "cite": "92 L. Ed. 986",
+      "category": "reporters:federal",
+      "reporter": "L. Ed.",
+      "year": 1948,
+      "opinion_index": 1
+    },
+    {
+      "cite": "333 U.S. 640",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6158928
+      ],
+      "weight": 2,
+      "year": 1948,
+      "pin_cites": [
+        {
+          "page": "660-66"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/333/0640-01"
+      ]
+    },
+    {
+      "cite": "785 F.3d 1337",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        4182346
+      ],
+      "weight": 7,
+      "year": 2015,
+      "pin_cites": [
+        {
+          "page": "1341-43"
+        },
+        {
+          "page": "1347"
+        },
+        {
+          "page": "1348"
+        },
+        {
+          "page": "1349",
+          "parenthetical": "alteration in original"
+        },
+        {
+          "page": "1350"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/f3d/785/1337-01"
+      ]
+    },
+    {
+      "cite": "109 P.3d 27",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2005,
+      "opinion_index": 1
+    },
+    {
+      "cite": "126 Wn. App. 617",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        1016316
+      ],
+      "year": 2005,
+      "pin_cites": [
+        {
+          "page": "632"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-app/126/0617-01"
+      ]
+    },
+    {
+      "cite": "881 P.2d 268",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1994,
+      "opinion_index": 1
+    },
+    {
+      "cite": "75 Wn. App. 808",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        11978798
+      ],
+      "weight": 4,
+      "year": 1994,
+      "pin_cites": [
+        {
+          "page": "824"
+        },
+        {
+          "page": "824"
+        },
+        {
+          "page": "824-25"
+        },
+        {
+          "page": "825"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-app/75/0808-01"
+      ]
+    },
+    {
+      "cite": "229 P.3d 669",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2010,
+      "pin_cites": [
+        {
+          "parenthetical": "citing State v. Roth, 75 Wn. App. 808, 824, 881 P.2d 268 (1994)"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "168 Wn.2d 350",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4007318
+      ],
+      "year": 2010,
+      "pin_cites": [
+        {
+          "page": "365",
+          "parenthetical": "citing State v. Roth, 75 Wn. App. 808, 824, 881 P.2d 268 (1994)"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/168/0350-01"
+      ]
+    },
+    {
+      "cite": "548 U.S. 140",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3500367
+      ],
+      "weight": 6,
+      "year": 2006,
+      "pin_cites": [
+        {
+          "page": "146"
+        },
+        {
+          "page": "148"
+        },
+        {
+          "page": "147-48",
+          "parenthetical": "\"The right to select counsel of one's choice . . . has been regarded as the root meaning of the [Sixth Amendment's] constitutional guarantee.\""
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/548/0140-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1259,
+    "char_count": 38555,
+    "ocr_confidence": 0.895,
+    "pagerank": {
+      "raw": 6.087085966315723e-08,
+      "percentile": 0.3801708130474016
+    },
+    "sha256": "08cf0a47a49e606b9dbf5c2d1f7b75e755f117f0358dad383df3539d601fc2b9",
+    "simhash": "1:1ffee622678a28a0",
+    "word_count": 6267
+  },
+  "last_updated": "2024-02-27T21:13:25.899037+00:00",
+  "provenance": {
+    "date_added": "2019-05-21",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Madsen, C.J., and Johnson, Fairhurst, Stephens, Wiggins, Gonz\u00e1lez, and Yu, JJ., concur."
+    ],
+    "parties": [
+      "The State of Washington, Petitioner, v. Matthew Alexander Hampton, Respondent."
+    ],
+    "opinions": [
+      {
+        "text": "Owens, J.\n\u00b61 On the eve of Matthew Hampton\u2019s trial, Hampton moved to replace his appointed counsel with a new private attorney on the condition that the trial be continued so his new counsel could prepare. The trial court denied the continuance, so Hampton proceeded with his previously appointed counsel. He was ultimately convicted of third degree rape. The Court of Appeals reversed his conviction, holding that the trial court\u2019s decision violated Hampton\u2019s constitutional right to his choice of counsel because it considered Hampton\u2019s reasons for wanting a new attorney. State v. Hampton, 182 Wn. App. 805, 332 P.3d 1020 (2014). The Court of Appeals relied on a United States Supreme Court opinion that held that when a defendant\u2019s right to choice of counsel is erroneously denied, a defendant need not show prejudice in order to obtain relief. Id. at 810 (quoting United States v. Gonzalez-Lopez, 548 U.S. 140, 146, 126 S. Ct. 2557, 165 L. Ed. 2d 409 (2006)).\n\u00b62 We reverse the Court of Appeals. A trial court has wide latitude to grant or deny a motion to delay trial related to a defendant\u2019s request to change counsel. State v. Aguirre, 168 Wn.2d 350, 365, 229 P.3d 669 (2010). In making such a decision, trial courts should consider the factual context for the motion, which can include\u2014among other factors\u2014a defendant\u2019s reasons for dissatisfaction with existing counsel. The United States Supreme Court explained that its Gonzalez-Lopez decision did not affect or undermine its previous rulings to that effect. 548 U.S. at 151. In this case, the trial court did not abuse its discretion when it denied Hampton\u2019s request to delay trial to allow him to replace his counsel given that (1) he did not make his request until the day his trial was scheduled to start, (2) his trial had already been continued once, (3) the victim/witness opposed the continuance, and (4) he did not explain his dissatisfaction with appointed counsel.\nFACTS\n\u00b63 For an incident that occurred with an 18-year-old female friend of his son, the State charged Hampton with indecent liberties, which charge was later amended to rape in the second degree. His trial was originally set for July 13, 2012, but the parties jointly moved for a continuance until August 31, 2012.\n\u00b64 On August 31, 2012, Hampton moved to replace his appointed counsel with a new private attorney. The replacement was contingent on the trial court granting a continu-anee to allow the new private attorney to prepare for trial. Hampton explained that he had not had a good relationship with his court-appointed counsel and that he had recently obtained funds to hire a private attorney. The State opposed the motion, contending that it was untimely and would delay the trial. The State also indicated that the victim opposed the continuance and that the State had concerns about the defendant interfering with a witness.\n\u00b65 The trial judge indicated that she would allow the substitution of counsel but not the continuance. She explained, \u201cI don\u2019t think that a compelling record has been made as to why the Court essentially on the day of trial should grant a continuance of a case that has already been continued.\u201d Verbatim Report of Proceedings (VRP) (Aug. 31, 2012) at 8. She indicated that Hampton\u2019s appointed counsel was \u201ca very capable attorney\u201d and that she was not \u201cbeing given much reason other than apparently some other source decided to provide the funds today.\u201d Id. at 7-8. She also noted that the court was being asked to take the victim\u2019s position on the continuance into account. She concluded, \u201cI\u2019m not inclined to grant this continuance at this late of stage when there is competent counsel who is prepared to go forward.\u201d Id. at 9.\n\u00b66 Hampton proceeded to trial with his original appointed counsel and was convicted of third degree rape. The Court of Appeals reversed his conviction, holding that the trial court\u2019s decision violated Hampton\u2019s right to his choice of counsel. Hampton, 182 Wn. App. at 825-26. The Court of Appeals relied on Gonzalez-Lopez for the proposition that when a trial court is deciding whether to delay trial to allow a defendant to choose different counsel, it cannot consider a defendant\u2019s reasons for desiring new counsel. Id. at 822 (citing Gonzalez-Lopez, 548 U.S. at 144).\n\u00b67 The State petitioned for review, which we granted. State v. Hampton, 182 Wn.2d 1002, 342 P.3d 327 (2015).\nISSUE\n\u00b68 Did the trial court\u2019s decision to deny Hampton\u2019s motion for continuance violate Hampton\u2019s right to his choice of counsel?\nANALYSIS\n\u00b69 The right to the assistance of counsel under the Sixth Amendment to the United States Constitution generally includes the defendant\u2019s right to his or her choice of private counsel. Aguirre, 168 Wn.2d at 365. However, a defendant\u2019s choice has limitations, particularly when a defendant\u2019s desire to choose new counsel affects \u201cthe public\u2019s interest in the prompt and efficient administration of justice.\u201d Id. The balancing of a defendant\u2019s right to choice of counsel with a trial court\u2019s need to efficiently administer justice \u201cfalls squarely within the discretion of the trial court.\u201d Id. The Court of Appeals held that the trial court abused its discretion because it considered, among other factors, Hampton\u2019s reasons for desiring new counsel. The Court of Appeals based its decision on a United States Supreme Court case, Gonzalez-Lopez. As explained below, that reliance is misplaced. As many other courts have held, Gonzalez-Lopez did not affect the factors that a trial court can consider when deciding whether to grant a defendant\u2019s request to replace his or her attorney. Thus, we reverse the Court of Appeals and hold that the trial court did not abuse its discretion by considering Hampton\u2019s reasons for wanting new counsel.\n1. Overview of the Right to Counsel of Choice\n\u00b610 As part of the Sixth Amendment right to the assistance of counsel, defendants with private attorneys generally have the right to the counsel of their choice. Id.) Gonzalez-Lopez, 548 U.S. at 144. In contrast, indigent defendants with appointed counsel do not have the right to their counsel of choice. Gonzalez-Lopez, 548 U.S. at 151 (\u201cthe right to counsel of choice does not extend to defendants who require counsel to be appointed for them\u201d). Instead, indigent defendants can move to substitute counsel when there is an \u201cirreconcilable conflict\u201d with appointed counsel. In re Pers. Restraint of Stenson, 142 Wn.2d 710, 723-24, 16 P.3d 1 (2001). As noted by the Court of Appeals, that \u201cirreconcilable conflict\u201d standard relates only to defendants with appointed counsel and does not apply to defendants retaining private attorneys. Hampton, 182 Wn. App. at 821 n.13.\n\u00b611 However, even for defendants with private attorneys, the right to counsel of choice is not absolute. Gonzalez-Lopez, 548 U.S. at 151. For instance, a defendant does not have the right to be represented by a person who is not a licensed attorney. Id. at 151-52. Relevant to this case, the United States Supreme Court has explained that one of the basic limits on the right to counsel of choice is \u201ca trial court\u2019s wide latitude in balancing the right to counsel of choice . . . against the demands of its calendar.\u201d Id. at 152. We have characterized that balancing by the trial court as \u201cweighting] the defendant\u2019s right to choose his counsel against the public\u2019s interest in the prompt and efficient administration of justice.\u201d Aguirre, 168 Wn.2d at 365. \u201cThe resolution of this balancing exercise falls squarely within the discretion of the trial court.\u201d Id.\n\u00b612 This balancing often occurs in cases like this, where a defendant desires new counsel but requires a continuance to do so. The United States Supreme Court has explained that we review a trial court\u2019s denial of a continuance to determine whether it was \u201cso arbitrary as to violate due process.\u201d Ungar v. Sarafite, 376 U.S. 575, 589, 84 S. Ct. 841, 11 L. Ed. 2d 921 (1964). At issue in this case is what factors a trial court can consider when deciding whether to grant a continuance to allow substitution of counsel and, in particular, whether a trial court can consider a defendant\u2019s reasons for wanting a different attorney.\n2. Factors That Trial Courts Can Consider When Ruling on a Continuance Related to a Defendant\u2019s Choice of Counsel\n\u00b613 We have not previously addressed what factors a trial court can or should consider when deciding whether to grant a continuance related to a defendant\u2019s choice of counsel. As described below, the Court of Appeals previously identified four factors a trial court should consider, but it overruled that precedent in this case. Hampton, 182 Wn. App. at 820-24. The Court of Appeals held that two of those previously identified factors conflicted with a subsequent United States Supreme Court case (Gonzalez-Lopez) and should no longer be considered by trial courts. Id. We reverse the Court of Appeals. Like most other courts that have considered this issue, we hold that Gonzalez-Lopez did not limit the factors that trial courts can consider when balancing a defendant\u2019s right to choice of counsel and a trial court\u2019s need to manage its calendar.\nA. The Court of Appeals\u2019 Previously Adopted Four-Factor Roth Test\n\u00b614 In 1994, the Court of Appeals reviewed a trial court\u2019s denial of a defendant\u2019s second motion to continue the trial to allow his lead counsel to be present during jury selection. State v. Roth, 75 Wn. App. 808, 823, 881 P.2d 268 (1994). To help it determine whether the trial court had abused its discretion, the Court of Appeals turned to a prominent treatise, Criminal Procedure, by Wayne R. LaFave and Jerold H. Israel, which described the wide variety of factors courts have used in making such a determination. See id. at 825 (citing 2 Wayne R. LaFave & Jerold H. Israel, Criminal Procedure \u00a7 11.4, at 39-40 (1984)). The treatise listed 11 factors that courts across the country have used. The Court of Appeals noted that four of those factors were present and applicable in that particular case:\n(1) whether the court had granted previous continuances at the defendant\u2019s request; (2) whether the defendant had some legitimate cause for dissatisfaction with counsel, even though it fell short of likely incompetent representation; (3) whether available counsel is prepared to go to trial; and (4) whether the denial of the motion is likely to result in identifiable prejudice to the defendant\u2019s case of a material or substantial nature.\nId. The Court of Appeals concluded that those factors strongly supported the trial court\u2019s exercise of discretion and affirmed its ruling. Id. at 825-27.\n\u00b615 Unfortunately, the Roth decision was later interpreted by the Court of Appeals as selecting those four factors as the only factors that Washington courts can consider when deciding a defendant\u2019s motion to continue the trial based on a desire to seek new private counsel. State v. Price, 126 Wn. App. 617, 631-32, 109 P.3d 27 (2005). This decision was an incorrect interpretation o\u00ed Roth. Roth noted the 11 factors from LaFave\u2019s Criminal Procedure but applied only the 4 factors relevant in that case. Id. at 632.\nB. The Gonzalez-Lopez Decision Did Not Limit the Factors Trial Courts Can Consider When Deciding Choice of Counsel Issues\n\u00b616 In this case, the Court of Appeals concluded that under Gonzalez-Lopez, trial courts cannot consider the reasons why a defendant wants to change counsel when evaluating a motion to continue for purposes of replacing counsel. Hampton, 182 Wn. App. at 822-23. But in Gonzalez-Lopez, the State conceded that the judge had erroneously denied the defendant\u2019s right to his choice of counsel when it incorrectly denied his attorney\u2019s application for admission pro hac vice. Gonzalez-Lopez, 548 U.S. at 143-44. The United States Supreme Court held only that when there is an erroneous deprivation of a defendant\u2019s right to choice of counsel, the defendant need not make an additional showing of prejudice. Id. at 150-52.\n\u00b617 However, the Court did not provide any guidance as to how courts should determine when a defendant\u2019s right to choice of counsel has been violated. Id. 151-52. The Court specifically limited its holding to situations where it has already been determined that the defendant\u2019s right to choice of counsel was erroneously denied. Id. The Court explained that \u201c [t] his is not a case about a court\u2019s power to . . . make scheduling and other decisions that effectively exclude a defendant\u2019s first choice of counsel\u201d and that \u201c[n]othing we have said today casts any doubt or places any qualification upon our previous holdings that limit the right to counsel of choice.\u201d Id. at 152,151. The Court reiterated that a trial court has \u201cwide latitude in balancing the right to counsel of choice against the needs of fairness and against the demands of its calendar.\u201d Id. at 152 (citation omitted).\n\u00b618 Nonetheless, the Court of Appeals in this case interpreted Gonzalez-Lopez as limiting the factors that trial courts can consider when determining whether to grant a continuance related to a defendant\u2019s choice of counsel. Specifically, the Court of Appeals held that two of the four Roth factors were \u201cincompatible\u201d with Gonzalez-Lopez. Hampton, 182 Wn. App. at 822. The Court of Appeals held that after Gonzalez-Lopez, trial courts cannot consider whether the defendant has a legitimate dissatisfaction with appointed counsel nor whether the denial of the defendant\u2019s motion will likely result in material or substantial prejudice. Id. The Court of Appeals held that considering either factor would conflict with the statements in Gonzalez-Lopez that a defendant has the right to be defended by counsel that\" \u2018he believes to be best.\u2019 \u201dId. at 823 (emphasis omitted) (quoting Gonzalez-Lopez, 548 U.S. at 146).\n\u00b619 The Court of Appeals\u2019 interpretation of Gonzalez-Lopez was overbroad. The Gonzalez-Lopez Court explicitly stated that it was not ruling on a court\u2019s power to make scheduling decisions that affect a defendant\u2019s choice of counsel and that its ruling did not \u201ccast[ ] any doubt or place[ ] any qualification\u201d on previous holdings that limited the right to counsel of choice, including a trial court\u2019s wide latitude in balancing the right to counsel of choice against the demands of its calendar. 548 U.S. at 151-52 (emphasis added). Gonzalez-Lopez addressed whether a defendant must additionally show prejudice once it has already been established that his or her right to choice of counsel was \u201cwrongfully denied.\u201d Id. at 150 (emphasis added). The Court explained that it was not addressing how to determine when a person\u2019s denial of counsel of choice was erroneous or what factors courts can consider when deciding a choice of counsel issue.\n\u00b620 As described below, we agree with the many courts that have continued to consider the factors that the Court of Appeals believed were incompatible with Gonzalez-Lopez, including the Seventh, Eighth, and Tenth Circuit Courts of Appeals.\n\u00b621 The Tenth Circuit Court of Appeals has directly addressed Gonzalez-Lopez\u2019s impact and held that it applies only if the continuance was \u201c \u2018wrongly denied.\u2019 \u201d United States v. Flanders, 491 F.3d 1197, 1216 (10th Cir. 2007) (quoting Gonzalez-Lopez, 548 U.S. at 148, and citing cases from other jurisdictions that had come to the same conclusion). The court then continued to apply the same pre-Gonzalez-Lopez factors to determine whether a continuance was wrongly denied, including whether \u201crejecting the request would materially prejudice or substantially harm the defendant\u2019s case.\u201d Id.\n\u00b622 Similarly, the Seventh Circuit Court of Appeals recently rejected a defendant\u2019s argument that a trial judge had inappropriately focused on the competence of his public defender when evaluating a motion to continue to allow the defendant to substitute a new private attorney. United States v. Sinclair, 770 F.3d 1148, 1156 (7th Cir. 2014), cert. denied, 136 S. Ct. 399 (2015). In fact, the Sinclair court held that it was often important for the trial court to inquire into the reasons that a defendant desired a new attorney so that the court could properly weigh all of the factors and determine whether to grant the continuance. Id. The court noted that it had previously found that a trial court had abused its discretion by not considering the reasons for the defendant\u2019s dissatisfaction with appointed counsel, including that appointed counsel was unprepared for trial and that all communication between the appointed counsel and the defendant had broken down. Id. (citing United States v. Sellers, 645 F.3d 830, 838-39 (7th Cir. 2011)).\n\u00b623 The Eighth Circuit Court of Appeals has come to the conclusion that even after Gonzalez-Lopez, trial judges can take into consideration a defendant\u2019s dissatisfaction with his appointed attorney and how promptly he reports that dissatisfaction. United States v. Cordy, 560 F.3d 808, 815-16 (8th Cir. 2009) (noting that the defendant\u2019s \u201cdissatisfaction with counsel was neither sudden nor unforeseeable\u201d and affirming the trial court\u2019s denial of a continuance to allow the defendant\u2019s newly retained attorney to prepare).\n\u00b624 The Ninth Circuit Court of Appeals has similarly recognized that trial courts have wide latitude in balancing the rights of defendants to choose their own counsel with the demands of the court\u2019s calendar. See, e.g., United States v. Brown, 785 F.3d 1337, 1347-50 (9th Cir. 2015) (holding that a district court abused its discretion in part because the record did not indicate that the trial court denied the defendant\u2019s motion because of the demands of its calendar); Miller v. Blacketter, 525 F.3d 890, 896-98 (9th Cir. 2008) (holding that trial judges should inquire into problems between a defendant and appointed counsel and consider the appointed counsel\u2019s ability to provide effective representation when deciding whether to grant a continuance to allow the defendant to obtain a new private attorney).\n\u00b625 Those courts are correct. The United States Supreme Court expressly stated in Gonzalez-Lopez that its decision did not limit a trial court\u2019s ability to balance a defendant\u2019s right to choice of counsel with the public\u2019s interest in the prompt and efficient administration of justice. 548 U.S. at 151-52. We accept those statements by the United States Supreme Court limiting the scope of its own holding.\nC. Factors for Washington Trial Courts To Consider Going Forward\n\u00b626 As explained above, the Court of Appeals\u2019 adoption of a four-factor test was based on an erroneous interpretation of Roth, which identified and applied only the four factors that applied in the specific factual circumstances of that case. The Court of Appeals now rejects two of those factors based on an erroneous interpretation of Gonzalez-Lopez. In light of these issues, we realize it would be helpful to trial courts to provide guidance on what factors can be considered when deciding a motion to continue for the purposes of substituting counsel. We have previously indicated that these decisions require a trial court to \u201cweigh the defendant\u2019s right to choose his counsel against the public\u2019s interest in the prompt and efficient administration of justice.\u201d Aguirre, 168 Wn.2d at 365. As the United States Supreme Court has observed, these situations are highly fact dependent and \u201c[t]here are no mechanical tests\u201d that can be used. Ungar, 376 U.S. at 589. Instead, the judge must decide based on \u201cthe circumstances present.\u201d Id. Therefore, we hold that trial courts can consider ah relevant information, including the 11 factors described in the most recent edition of the LaFave Criminal Procedure treatise:\n(1) whether the request came at a point sufficiently in advance of trial to permit the trial court to readily adjust its calendar;\n(2) the length of the continuance requested;\n(3) whether the continuance would carry the trial date beyond the period specified in the state speedy trial act;\n(4) whether the court had granted previous continuances at the defendant\u2019s request;\n(5) whether the continuance would seriously inconvenience the witnesses;\n(6) whether the continuance request was made promptly after the defendant first became aware of the grounds advanced for discharging his or her counsel;\n(7) whether the defendant\u2019s own negligence placed him or her in a situation where he or she needed a continuance to obtain new counsel;\n(8) whether the defendant had some legitimate cause for dissatisfaction with counsel, even though it fell short of likely incompetent representation;\n(9) whether there was a \u201crational basis\u201d for believing that the defendant was seeking to change counsel \u201cprimarily for the purpose of delay\u201d;\n(10) whether the current counsel was prepared to go to trial;\n(11) whether denial of the motion was likely to result in identifiable prejudice to the defendant\u2019s case of a material or substantial nature.\n3 Wayne R. LaFave et al., Criminal Procedure \u00a7 11.4(c) at 718-20 (3d ed. 2007). Not all factors will be present in all cases, and thus a trial court need not evaluate every factor in every case, but we will not prohibit a trial court from considering relevant information.\nI). The Trial Court in This Case Did Not Abuse Its Discretion\n\u00b627 Hampton contends that the trial court abused its discretion when it denied his motion for a continuance to allow his newly retained private attorney to prepare for trial. As described above, we review such decisions for abuse of discretion. Aguirre, 168 Wn.2d at 365. A trial court abuses its discretion when its decision \u201cis manifestly unreasonable, or is exercised on untenable grounds, or for untenable reasons.\u201d State v. Blackwell, 120 Wn.2d 822, 830, 845 P.2d 1017 (1993); State v. Michielli, 132 Wn.2d 229, 240, 937 P.2d 587 (1997). \u201cA decision is based \u2018on untenable grounds\u2019 or made \u2018for untenable reasons\u2019 if it rests on facts unsupported in the record or was reached by applying the wrong legal standard.\u201d State v. Rohrich, 149 Wn.2d 647, 654, 71 P.3d 638 (2003) (quoting State v. Rundquist, 79 Wn. App. 786, 793, 905 P.2d 922 (1995)). \u201cA decision is \u2018manifestly unreasonable\u2019 if the court, despite applying the correct legal standard to the supported facts, adopts a view \u2018that no reasonable person would take,\u2019 and arrives at a decision \u2018outside the range of acceptable choices.\u2019 \u201d Id. (citation omitted) (quoting State v. Lewis, 115 Wn.2d 294, 298-99, 797 P.2d 1141 (1990); Rundquist, 79 Wn. App. at 793).\n\u00b628 In this case, the trial court did not actually apply the four-factor Roth test (nor was Roth or Price cited to the trial court by trial counsel). However, it did consider, among other factors, the readiness of Hampton\u2019s existing counsel, as evidenced by its statement, \u201cI\u2019m not inclined to grant this continuance at this late of stage when there is competent counsel who is prepared to go forward.\u201d VRP (Aug. 31, 2012) at 9. The trial court also appeared to consider whether Hampton\u2019s desire for different counsel was justified, noting:\nI know [the appointed defense counsel] is a very capable attorney. It wouldn\u2019t be the first time he\u2019s represented someone who may not have always been happy with [him]. I think that happens for most of the defense attorneys that they occasionally have a client who would rather have a different attorney appointed. I don\u2019t think that would in any way impair his ability to represent his client zealously and capably, and I don\u2019t think there\u2019s any question that [the appointed defense counsel] is a highly qualified criminal defense attorney.\nId. at 7-8. As described above, the Gonzalez-Lopez decision does not prohibit trial courts from considering a defendant\u2019s reasons for desiring a different attorney or other relevant factors when considering a motion to continue for purposes of replacing counsel. Other courts considering the issue have come to that same conclusion. The trial court in this case did not err by considering the defendant\u2019s reasons for dissatisfaction with his appointed attorney in addition to the other circumstances, such as the lateness of the request, the previous continuance granted by the court, and the victim/witness\u2019s opposition to further delay. The decision was within the discretion of the trial court, and we affirm.\nCONCLUSION\n\u00b629 We reverse the Court of Appeals and hold that when ruling on a motion to continue trial for purposes of substituting defense counsel, the trial court did not abuse its discretion when it considered\u2014among other factors\u2014the defendant\u2019s reasons for his dissatisfaction with his appointed counsel.\nMadsen, C.J., and Johnson, Fairhurst, Stephens, Wiggins, Gonz\u00e1lez, and Yu, JJ., concur.\nHampton cross petitioned for review of a jury instruction on a lesser included charge, but we denied review of that issue.",
+        "type": "majority",
+        "author": "Owens, J."
+      },
+      {
+        "text": "Gordon McCloud, J.\n\u00b630 (dissenting) \u2014 \u201c[T]he Sixth Amendment right to counsel of choice . . . commands, not that a trial be fair, but that a particular guarantee of fairness be provided\u2014to wit, that the accused be defended by the counsel he believes to be best.\u201d United States v. Gonzalez-Lopez, 548 U.S. 140, 146, 126 S. Ct. 2557, 165 L. Ed. 2d 409 (2006); U.S. Const. amend. VI. This right to retain counsel of choice is distinct from the Sixth Amendment right to effective assistance of counsel:\nDeprivation of the right [to retain counsel of choice] is \u201ccomplete\u201d when the defendant is erroneously prevented from being represented by the lawyer he wants, regardless of the quality of the representation he received. To argue otherwise is to confuse the right to counsel of choice\u2014which is the right to a particular lawyer regardless of comparative effectiveness\u2014with the right to effective counsel\u2014which imposes a baseline requirement of competence on whatever lawyer is chosen or appointed.\nGonzalez-Lopez, 548 U.S. at 148. The majority conflates these two rights by upholding the trial court\u2019s decision to deny counsel of choice based largely on its impression of the quality of the public defender\u2019s representation and by adopting a list of factors that permits trial courts to consider this in the future. Because I agree with the United States Supreme Court that the constitutional right to counsel of choice applies separately from and in addition to the right to effective assistance of counsel, I respectfully dissent.\nANALYSIS\n\u00b631 The Sixth Amendment to the United States Constitution guarantees the right to retained counsel of choice. In fact, the Supreme Court originally understood the Sixth Amendment right to counsel of choice as a guaranty of the right to retain counsel, rather than a right to gain appointed counsel. See generally Bute v. Illinois, 333 U.S. 640, 660-66, 68 S. Ct. 763, 92 L. Ed. 986 (1948); Betts v. Brady, 316 U.S. 455, 468, 62 S. Ct. 1252, 86 L. Ed. 1595 (1942), overruled on other grounds by Gideon v. Wainwright, 372 U.S. 335, 83 S. Ct. 792, 9 L. Ed. 2d 799 (1963). When the Court recognized the latter right in 1932, it regarded the creation of that right not as the primary purpose of the Sixth Amendment, but as \u201ca logical corollary from the constitutional right to be heard by counsel.\u201d Powell v. Alabama, 287 U.S. 45, 72, 53 S. Ct. 55, 77 L. Ed. 158 (1932). Thus, a defendant who retains his own attorney has a right to the lawyer that he chooses. Gonzalez-Lopez, 548 U.S. at 147-48 (\u201cThe right to select counsel of one\u2019s choice . . . has been regarded as the root meaning of the [Sixth Amendment\u2019s] constitutional guarantee.\u201d); State v. Aguirre, 168 Wn.2d 350, 365, 229 P.3d 669 (2010) (citing State v. Roth, 75 Wn. App. 808, 824, 881 P.2d 268 (1994)).\n\u00b632 To be sure, there are some limits on this right. A defendant who retains counsel has no right to representation that he or she cannot afford, representation by someone who declines to represent him or her, or representation by someone who has an actual or serious potential for conflict of interest. Wheat v. United States, 486 U.S. 153, 158, 108 S. Ct. 1692, 100 L. Ed. 2d 140 (1988); Aguirre, 168 Wn.2d at 365 (citing Roth, 75 Wn. App. at 824; State v. Roberts, 142 Wn.2d 471, 516, 14 P.3d 713 (2000)).\n\u00b633 But providing appointed counsel does not satisfy the right to retain counsel of choice. See United States v. Unit No. 7, 853 F.2d 1445, 1451 (8th Cir. 1988) (\u201c[W]e reject the government\u2019s argument that even if its action should push Kiser into indigency, the Sixth Amendment would be fully vindicated by offering him appointed counsel.... This is an extraordinarily impoverished view of the non-indigent\u2019s right. In essence it collapses the two distinct rights into one, the lesser.\u201d), rev\u2019d on reh\u2019g, 890 F.2d 82 (1989).\n\u00b634 We must therefore review the denial of a motion for a continuance that effectively denies a defendant the right to retain counsel of choice against this backdrop. Aguirre, 168 Wn.2d at 365 (citing State v. Chase, 59 Wn. App. 501, 506, 799 P.2d 272 (1990)). When ruling on a motion for a continuance, \u201cthe trial court must weigh the defendant\u2019s right to choose his counsel against the public\u2019s interest in the prompt and efficient administration of justice.\u201d Id. (citing Roth, 75 Wn. App. at 824-25). Trial courts certainly exercise discretion when making such decisions on continuances sought to obtain new counsel.\n\u00b635 Following Gonzalez-Lopez, however, the fundamental constitutional right to retain counsel of choice does not balance equally with other rules and inconveniences. Otherwise, Gonzalez-Lopez would likely have lost his appeal: the trial court rejected his chosen counsel\u2019s motion for admission pro hac vice to enforce its interpretation of a local rule. Instead, Gonzalez-Lopez won.\n\u00b636 The majority\u2019s new 11-factor rule conflicts with Gonzalez-Lopez. The majority holds that a trial court \u201ccan consider all relevant information, including the 11 factors described in the most recent edition of the LaFave Criminal Procedure treatise\u201d when ruling on a motion for a continuance to permit a defendant\u2019s preferred counsel to prepare. Majority at 669 (emphasis added); 3 Wayne R. LaFave et al., Criminal Procedure \u00a7 11.4(c) at 718-20 (3d ed. 2007). But LaFave\u2019s factors 6, 8, 10, and 11 overvalue the right to appointed counsel at the expense of the right to retained counsel and therefore violate the rule that the right to appointed counsel is a corollary of the Constitution\u2019s principal right to retain counsel of choice. Additionally, LaFave\u2019s \u201cconvenience\u201d factors 1, 3, and 4 are incomplete unless we combine them with the rule that slight inconvenience alone cannot outweigh the fundamental constitutional right to retain counsel of choice.\n\u00b637 The trial court in this case committed both errors. First, the trial court improperly focused on the public defender\u2019s qualifications and ability to represent Hampton, which were irrelevant to Hampton\u2019s right to retain his own attorney under the Supreme Court\u2019s holding in Gonzalez-Lopez. In denying retained counsel\u2019s request for a continuance, the trial court stated,\nI know [appointed counsel] is a very capable attorney. It wouldn\u2019t be the first time he\u2019s represented someone who may not have always been happy with [appointed counsel]. I think that happens for most of the defense attorneys that they occasionally have a client who would rather have a different attorney appointed. I don\u2019t think that would in any way impair his ability to represent his client zealously and capably, and I don\u2019t think there\u2019s any question that [appointed counsel] is a highly qualified criminal defense attorney.[]\nVerbatim Report of Proceedings (VRP) (Aug. 31, 2012) at 7-8.\n\u00b638 Second, the trial court relied on the fact that a continuance would be inconvenient, even though the court never determined the length of the requested continuance and it granted the public defender a short continuance while denying the same accommodation to retained counsel. Nothing in the record shows the length of the requested continuance, whether it would be longer than the continuance the trial court gave to appointed counsel, whether witnesses or victims could adjust to a shorter continuance, or whether a continuance would interfere with the court\u2019s calendar. In fact, both parties had agreed to the court\u2019s only prior continuance and fewer than four months passed between Hampton\u2019s arraignment and the hearing on his motions. The only concern that the trial court expressed about its calendar was that \u201cwe have a lot of cases that are even older,\u201d VRP (Aug. 31, 2012) at 8, which seems irreconcilable with the notion that continuing Hampton\u2019s case would cause unusual or undue delay.\n\u00b639 To support its argument that a trial court can evaluate the defendant\u2019s dissatisfaction with an attorney and abbreviate its inquiry into the length of the requested continuance when ruling on a motion to continue, the majority cites the Ninth Circuit\u2019s decision in United States v. Brown, 785 F.3d 1337 (9th Cir. 2015). The majority asserts that Brown holds, \u201c[T]rial courts have wide latitude in balancing the rights of defendants to choose their own counsel with the demands of the court\u2019s calendar.\u201d Majority at 668.\n\u00b640 That case, however, actually rejected the majority\u2019s broad holding and instead endorses the rule that the constitutional right to counsel of choice weighs very heavily in the balance. In Brown, the district court denied retained counsel\u2019s motion to withdraw to permit the defendant to obtain a public defender, who would have required a continuance to prepare for trial. 785 F.3d at 1341-43. The Ninth Circuit reversed, criticizing the district court for \u201cfocus [ing] on considerations pertinent to the right to constitutionally adequate counsel, rather than to the right to choice of counsel Brown actually enjoyed.\u201d Id. at 1347. The Ninth Circuit then held, in contrast to the majority\u2019s holding here, \u201cBrown\u2019s reasons for wanting to discharge his retained lawyer were not properly the court\u2019s concern at all.\u201d Id. at 1348. Additionally, the Ninth Circuit in Brown cited three indications that the trial court did not deny the motion to discharge counsel because of the demands of its calendar: (1) the court did not indicate that it denied the motion because of concern for its calendar, (2) the court offered to continue the case for the retained attorney for \u201c \u2018whatever time he needled] before we finally go to trial,\u2019 \u201d and continued the trial for one month after the hearing, and (3) the court never determined how long a continuance would be necessary to allow Brown\u2019s newly appointed attorney to prepare. Id. at 1349 (alteration in original). Finally, nothing in the record showed that it would be unfair to grant the motion. Id. at 1350. The Ninth Circuit concluded that the erroneous denial of the defendant\u2019s right to counsel of choice constituted structural error. Id.\n\u00b641 The same analysis leads to the conclusion that the trial court improperly denied the right to counsel of choice here. In denying the continuance in this case, the trial court also failed to determine the length of the requested continuance, continued the case for a few days for the lawyer already on the case, and made no finding about inability to accommodate any further continuance. The trial court in this case also cited the appointed attorney\u2019s readiness and qualifications and stated, \u201cI\u2019m not really being given much reason other than apparently some other source decided to provide the funds today when it was still a serious case.\u201d VBP (Aug. 31, 2012) at 8. But under Brown\u2014and Gonzalez-Lopez\u2014that\u2019s all that is relevant; the trial court\u2019s satisfaction with existing counsel is not. Other courts following Gonzalez-Lopez have reached the same conclusion in the same context. E.g., People v. Brown, 2014 CO 25, \u00b6 2, 322 P.3d 214 (when deciding whether to grant a continuance to allow a defendant to change counsel, trial court must conduct a multifactor balancing test and assess whether the public\u2019s interest in the efficiency and integrity of the judicial system outweighs the defendant\u2019s right to counsel of choice; remand for trial court to make findings about factors court should have considered, including how long it would take retained counsel to prepare for trial, length of any requested continuance, and the court\u2019s docket and whether the continuance would cause significant inconvenience for witnesses).\n\u00b642 A trial court abuses its discretion when it bases its ruling on an erroneous view of the law or applies the wrong legal standard. State v. Rafay, 167 Wn.2d 644, 655, 222 P.3d 86 (2009). The trial court applied the wrong legal standard, and therefore abused its discretion, when it considered Hampton\u2019s appointed lawyer\u2019s positive performance and failed to assess or even ascertain the length of the continuance requested, or whether such a continuance would cause undue delay. This improper denial of Hampton\u2019s request for a continuance denied him his right to retain his chosen attorney. This erroneous deprivation of the right to counsel of choice constitutes structural error requiring automatic reversal. Gonzalez-Lopez, 548 U.S. at 149-50 (citing Sullivan v. Louisiana, 508 U.S. 275, 282, 113 S. Ct. 2078, 124 L. Ed. 2d 182 (1993)).\nCONCLUSION\n\u00b643 Gonzalez-Lopez makes clear that the right to retain counsel of choice is fundamental, constitutional, and weighty. It also prohibits trial courts from evaluating the defendant\u2019s satisfaction with his appointed attorney when ruling on a continuance to retain counsel of choice. The trial court and the majority here, however, do exactly that. The majority compounds the error by adopting a test that (1) instructs trial courts to continue considering appointed counsel\u2019s positive performance when deciding whether to grant a continuance to retain counsel of choice and (2) fails to clarify that slight inconvenience cannot outweigh the right to retain counsel of choice. I therefore respectfully dissent.\nAlthough I think that this constitutes error, I certainly understand that the trial court followed prior Washington precedent in its approach. In both Roth, 75 Wn. App. at 825, and State v. Price, 126 Wn. App. 617, 632, 109 P.3d 27 (2005), the Court of Appeals held that a trial court may inquire about the legitimacy of the defendant\u2019s satisfaction with appointed counsel and whether the denial of the defendant\u2019s motion will result in material or substantial prejudice.",
+        "type": "dissent",
+        "author": "Gordon McCloud, J."
+      }
+    ],
+    "attorneys": [
+      "Mark K. Roe, Prosecuting Attorney, and Mary K. Webber, Deputy, for petitioner.",
+      "Kathleen A. Shea (of Washington Appellate Project), for respondent."
+    ],
+    "corrections": "",
+    "head_matter": "[No. 90811-7.\nArgued May 26, 2015.\nDecided November 19, 2015.\nThe State of Washington, Petitioner, v. Matthew Alexander Hampton, Respondent.\nMark K. Roe, Prosecuting Attorney, and Mary K. Webber, Deputy, for petitioner.\nKathleen A. Shea (of Washington Appellate Project), for respondent."
+  },
+  "file_name": "0656-01",
+  "first_page_order": 698,
+  "last_page_order": 720
+}

@@ -1,0 +1,103 @@
+{
+  "id": 1428392,
+  "name": "State use Pike County v. Wheeling Corrugating Company",
+  "name_abbreviation": "State v. Wheeling Corrugating Co.",
+  "decision_date": "1933-12-04",
+  "docket_number": "4-3232",
+  "first_page": "289",
+  "last_page": "292",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "188 Ark. 289"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [
+    {
+      "cite": "185 S. W. 271",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "123 Ark. 211",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1556154
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/123/0211-01"
+      ]
+    },
+    {
+      "cite": "84 S. W. 1044",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "74 Ark. 81",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        8718321
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/74/0081-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 217,
+    "char_count": 3329,
+    "ocr_confidence": 0.523,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.053723788529755984
+    },
+    "sha256": "6d3476726718cc47c174f3744f451e9686668eb3da43b6f5f5d09253a4412bd5",
+    "simhash": "1:db153ef0d8556261",
+    "word_count": 557
+  },
+  "last_updated": "2024-02-27T23:51:14.545434+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "State use Pike County v. Wheeling Corrugating Company."
+    ],
+    "opinions": [
+      {
+        "text": "Johnson, C. J.,\n(after stating the facts). Appellee contends that the judgment of the circuit court quashing the order of the county court made and entered on March 9, 1933, should be affirmed for the following reasons:\nFirst, that the circuit court heard testimony on trial of the cause which is not before this court on appeal. This contention is not substantiated by the record and judgment. On the contrary, the judgment shows upon its face that the cause was submitted to the circuit court upon the record as certified up from the county court, etc. This recital is an affirmative showing that no testimony was heard other than the records of the county court.\nThe second contention is, that the county court had no jurisdiction or authority in law to vacate a previous judgment or order allowing claims. This contention is without merit. Section 6290 of Crawford & Moses\u2019 Digest affords ample authority to the county court for vacating and setting aside previous orders, which fall within the purview of said section.\nThe third contention is, that the county court order and judgment of date, March 9, 1933, does not show upon its face that it had jurisdiction of the person or subject-matter. This contention is grounded upon the theory that no presumptions are indulged in aid of judgments and orders rendered by county courts. This contention also is without merit. The county courts of the respective counties of the State are courts of superior jurisdiction in disbursing funds of the county and in allowing claims against such funds. This is true, because \u00a7 28 of article 7 of the Constitution of 1874 creates the county courts, and vests in them the exclusive jurisdiction to disburse county funds, and to allow claims against the same. The county courts of the respective counties of the State, while exercising the jurisdiction conferred by constitutional mandate, are exercising functions of a court of superior jurisdiction. Collins v. Paepcke-Leicht Lumber Co., 74 Ark. 81, 84 S. W. 1044; Massey v. Doke, 123 Ark. 211, 185 S. W. 271.\nLastly, it is insisted that the judgment and order of the county court vacating and setting aside its previous order is void, because it shows upon its face that it was made and entered on March 9, 1933, which date is beyond the regular January, 1933, term This contention is precluded by the announcement heretofore recited. This court will presume if necessary to sustain jurisdiction, that the county court adjourned by proper order from its January, 1933, term until the date of the entry of this judgment, nothing to the contrary appearing in this record.\nFor the reasons aforesaid, the presumption is indulged that the county court had jurisdiction of the person and subject-matter therein determined; also that it was proceeding on March 9, 1933, in conformity with a valid adjourning order. It therefore follows that the judgment of the county court made and entered on March 9, 1933, is not void upon its face, but, on the contrary, is a valid and binding order, and judgment until reversed or modified on appeal.\nThe judgment of the Pike Circuit Court is therefore reversed and remanded.",
+        "type": "majority",
+        "author": "Johnson, C. J.,"
+      }
+    ],
+    "attorneys": [
+      "P. L. Smith, for appellant.",
+      "George R. Steel and O. A. Featherston, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "State use Pike County v. Wheeling Corrugating Company.\n4-3232\nOpinion delivered December 4, 1933.\nP. L. Smith, for appellant.\nGeorge R. Steel and O. A. Featherston, for appellee."
+  },
+  "file_name": "0289-01",
+  "first_page_order": 307,
+  "last_page_order": 310
+}

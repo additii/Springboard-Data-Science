@@ -1,0 +1,2020 @@
+{
+  "id": 4242321,
+  "name": "James Kumar et al., Appellants, v. Gate Gourmet, Inc., Respondent",
+  "name_abbreviation": "Kumar v. Gate Gourmet, Inc.",
+  "decision_date": "2014-05-22",
+  "docket_number": "No. 88062-0",
+  "first_page": "481",
+  "last_page": "514",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "180 Wash. 2d 481"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Wash.",
+    "id": 9029,
+    "name": "Washington Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 38,
+    "name_long": "Washington",
+    "name": "Wash."
+  },
+  "cites_to": [
+    {
+      "cite": "58 F.3d 1337",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        7413732
+      ],
+      "year": 1995,
+      "pin_cites": [
+        {
+          "page": "1339-42",
+          "parenthetical": "employee not entitled to display religiously motivated image that upset and offended fellow employees to the point of disrupting productivity"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/58/1337-01"
+      ]
+    },
+    {
+      "cite": "358 F.3d 599",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        9294744
+      ],
+      "year": 2004,
+      "pin_cites": [
+        {
+          "page": "608",
+          "parenthetical": "undue hardships results where accommodation would \"allow! ] actions that demean or degrade, or are designed to demean or degrade, members of [employer's] workforce\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/358/0599-01"
+      ]
+    },
+    {
+      "cite": "638 F.3d 975",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        4199687
+      ],
+      "year": 2011,
+      "pin_cites": [
+        {
+          "parenthetical": "accommodation was unreasonable where it would have required other employees to work weekend shifts that they otherwise would have been exempt from under the seniority system"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/638/0975-01"
+      ]
+    },
+    {
+      "cite": "275 F.3d 156",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        9454148
+      ],
+      "year": 2001,
+      "pin_cites": [
+        {
+          "page": "161",
+          "parenthetical": "Title VII did not require employer to permit nurse to proselytize while providing services"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/275/0156-01"
+      ]
+    },
+    {
+      "cite": "859 F.2d 610",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10530250
+      ],
+      "year": 1988,
+      "pin_cites": [
+        {
+          "parenthetical": "\"An employee does not cease to be discriminated against because he temporarily gives up his religious practice and submits to the employment policy.\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/859/0610-01"
+      ]
+    },
+    {
+      "cite": "464 F.2d 1113",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        709268
+      ],
+      "year": 1972,
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/464/1113-01"
+      ]
+    },
+    {
+      "cite": "120 P.3d 46",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2005,
+      "opinion_index": 0
+    },
+    {
+      "cite": "155 Wn.2d 430",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        3765857
+      ],
+      "year": 2005,
+      "pin_cites": [
+        {
+          "page": "437"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/155/0430-01"
+      ]
+    },
+    {
+      "cite": "456 U.S. 336",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6186401
+      ],
+      "weight": 3,
+      "year": 1982,
+      "pin_cites": [
+        {
+          "page": "345",
+          "parenthetical": "where agency historically engaged in comprehensive regulation of certain industry practices, the agency's silence regarding an affirmative defense based on a violation of those regulations was deemed significant"
+        },
+        {
+          "parenthetical": "where agency historically engaged in comprehensive regulation of certain industry practices, the agency's silence regarding an affirmative defense based on a violation of those regulations was deemed significant"
+        },
+        {
+          "parenthetical": "where agency historically engaged in comprehensive regulation of certain industry practices, the agency's silence regarding an affirmative defense based on a violation of those regulations was deemed significant"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/456/0336-01"
+      ]
+    },
+    {
+      "cite": "821 P.2d 34",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1991,
+      "pin_cites": [
+        {
+          "parenthetical": "looking to ADEA to determine criteria for establishing an age discrimination case under the WLAD"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "118 Wn.2d 79",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1372172
+      ],
+      "year": 1991,
+      "pin_cites": [
+        {
+          "parenthetical": "looking to ADEA to determine criteria for establishing an age discrimination case under the WLAD"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/118/0079-01"
+      ]
+    },
+    {
+      "cite": "307 A.2d 155",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1972,
+      "opinion_index": 0
+    },
+    {
+      "cite": "163 Conn. 309",
+      "category": "reporters:state",
+      "reporter": "Conn.",
+      "case_ids": [
+        696482
+      ],
+      "year": 1972,
+      "pin_cites": [
+        {
+          "page": "322-23"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/conn/163/0309-01"
+      ]
+    },
+    {
+      "cite": "10 Ill. Dec. 501",
+      "category": "reporters:state",
+      "reporter": "Ill. Dec.",
+      "year": 1977,
+      "opinion_index": 0
+    },
+    {
+      "cite": "367 N.E.2d 1267",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.2d",
+      "year": 1977,
+      "opinion_index": 0
+    },
+    {
+      "cite": "67 Ill. 2d 466",
+      "category": "reporters:state",
+      "reporter": "Ill. 2d",
+      "case_ids": [
+        5811307
+      ],
+      "year": 1977,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ill-2d/67/0466-01"
+      ]
+    },
+    {
+      "cite": "341 N.E.2d 459",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.2d",
+      "year": 1976,
+      "opinion_index": 0
+    },
+    {
+      "cite": "34 Ill. App. 3d 868",
+      "category": "reporters:state",
+      "reporter": "Ill. App. 3d",
+      "case_ids": [
+        2959242
+      ],
+      "year": 1976,
+      "pin_cites": [
+        {
+          "page": "876"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ill-app-3d/34/0868-01"
+      ]
+    },
+    {
+      "cite": "101 Wis. 2d 337",
+      "category": "reporters:state",
+      "reporter": "Wis. 2d",
+      "case_ids": [
+        8673740
+      ],
+      "weight": 2,
+      "year": 1981,
+      "pin_cites": [
+        {
+          "page": "345-50"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wis-2d/101/0337-01"
+      ]
+    },
+    {
+      "cite": "583 P.2d 860",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "case_ids": [
+        10457863
+      ],
+      "year": 1978,
+      "pin_cites": [
+        {
+          "page": "863"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/p2d/583/0860-01"
+      ]
+    },
+    {
+      "cite": "334 N.W.2d 598",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.2d",
+      "case_ids": [
+        10676063
+      ],
+      "year": 1983,
+      "pin_cites": [
+        {
+          "page": "601-02"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nw2d/334/0598-01"
+      ]
+    },
+    {
+      "cite": "919 P.2d 589",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1996,
+      "pin_cites": [
+        {
+          "parenthetical": "finding that the WLAD does not incorporate ostensible amendments to Title VII authorizing punitive damages, partly on the basis that Washington courts require express statutory authorization for exemplary damages"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "129 Wn.2d 572",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        904210
+      ],
+      "year": 1996,
+      "pin_cites": [
+        {
+          "page": "575-76",
+          "parenthetical": "finding that the WLAD does not incorporate ostensible amendments to Title VII authorizing punitive damages, partly on the basis that Washington courts require express statutory authorization for exemplary damages"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/129/0572-01"
+      ]
+    },
+    {
+      "cite": "922 P.2d 43",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1996,
+      "pin_cites": [
+        {
+          "parenthetical": "finding that the WLAD creates a cause of action for discrimination against independent contractors on the basis of sex, race, national origin, religion, or disability, partly on the basis that the WLAD prohibits discrimination in a broader range of contexts than does Title VII"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "130 Wn.2d 97",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        72830
+      ],
+      "year": 1996,
+      "pin_cites": [
+        {
+          "page": "110-11"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/130/0097-01"
+      ]
+    },
+    {
+      "cite": "971 P.2d 45",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1999,
+      "pin_cites": [
+        {
+          "parenthetical": "noting that the WLAD's express liberal interpretation mandate and greater damages provisions distinguish it from Title VII"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "137 Wn.2d 357",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        179307
+      ],
+      "year": 1999,
+      "pin_cites": [
+        {
+          "page": "372-73",
+          "parenthetical": "noting that the WLAD's express liberal interpretation mandate and greater damages provisions distinguish it from Title VII"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/137/0357-01"
+      ]
+    },
+    {
+      "cite": "20 P.3d 921",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2001,
+      "pin_cites": [
+        {
+          "parenthetical": "noting that the WLAD covers a broader range of employers than does Title VII"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "143 Wn.2d 349",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        425225
+      ],
+      "year": 2001,
+      "pin_cites": [
+        {
+          "page": "359",
+          "parenthetical": "noting that the WLAD covers a broader range of employers than does Title VII"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/143/0349-01"
+      ]
+    },
+    {
+      "cite": "59 P.3d 611",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2002,
+      "pin_cites": [
+        {
+          "parenthetical": "looking to federal cases interpreting Title VII and the ADA to determine whether the WLAD supports a disability claim based on a hostile work environment"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "148 Wn.2d 35",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        609219
+      ],
+      "year": 2002,
+      "pin_cites": [
+        {
+          "page": "44-45",
+          "parenthetical": "looking to federal cases interpreting Title VII and the ADA to determine whether the WLAD supports a disability claim based on a hostile work environment"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/148/0035-01"
+      ]
+    },
+    {
+      "cite": "87 Stat. 357",
+      "category": "laws:leg_session",
+      "reporter": "Stat.",
+      "year": 1973,
+      "opinion_index": 0
+    },
+    {
+      "cite": "42 U.S.C. \u00a7 12111",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "pin_cites": [
+        {
+          "page": "(a)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "104 Stat. 327",
+      "category": "laws:leg_session",
+      "reporter": "Stat.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "29 U.S.C. \u00a7 623",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "(a)"
+        },
+        {
+          "page": "(a)",
+          "parenthetical": "creating private cause of action for violation of ADEA"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "81 Stat. 602",
+      "category": "laws:leg_session",
+      "reporter": "Stat.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "605 P.2d 1294",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1980,
+      "pin_cites": [
+        {
+          "parenthetical": "finding the term \"creed,\" as used in the WLAD, to mean \"a system of religious beliefs\""
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "25 Wn. App. 299",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        1845667
+      ],
+      "year": 1980,
+      "pin_cites": [
+        {
+          "page": "302",
+          "parenthetical": "finding the term \"creed,\" as used in the WLAD, to mean \"a system of religious beliefs\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/25/0299-01"
+      ]
+    },
+    {
+      "cite": "962 P.2d 104",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1998,
+      "opinion_index": 0
+    },
+    {
+      "cite": "136 Wn.2d 322",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        867945
+      ],
+      "year": 1998,
+      "pin_cites": [
+        {
+          "page": "329-30"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/136/0322-01"
+      ]
+    },
+    {
+      "cite": "154 P.3d 206",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2001,
+      "pin_cites": [
+        {
+          "parenthetical": "trial court's ruling to dismiss a claim under CR 12(b)(6) is reviewed de novo (citing Tenore v. AT&T Wireless Servs., 136 Wn.2d 322, 329-30, 962 P.2d 104 (1998))"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "159 Wn.2d 837",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        3592457
+      ],
+      "year": 2001,
+      "pin_cites": [
+        {
+          "page": "842",
+          "parenthetical": "trial court's ruling to dismiss a claim under CR 12(b)(6) is reviewed de novo (citing Tenore v. AT&T Wireless Servs., 136 Wn.2d 322, 329-30, 962 P.2d 104 (1998))"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/159/0837-01"
+      ]
+    },
+    {
+      "cite": "191 P.3d 845",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2008,
+      "pin_cites": [
+        {
+          "parenthetical": "legal conclusions are reviewed de novo"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "164 Wn.2d 372",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        3996174
+      ],
+      "year": 2008,
+      "pin_cites": [
+        {
+          "page": "387",
+          "parenthetical": "legal conclusions are reviewed de novo"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/164/0372-01"
+      ]
+    },
+    {
+      "cite": "78 Stat. 241",
+      "category": "laws:leg_session",
+      "reporter": "Stat.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "881 P.2d 216",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1994,
+      "pin_cites": [
+        {
+          "parenthetical": "when reviewing a trial court's dismissal for failure to state a claim, the appellate court presumes the truth of the plaintiff's allegations"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "124 Wn.2d 749",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        507266
+      ],
+      "year": 1994,
+      "pin_cites": [
+        {
+          "page": "755",
+          "parenthetical": "when reviewing a trial court's dismissal for failure to state a claim, the appellate court presumes the truth of the plaintiff's allegations"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/124/0749-01"
+      ]
+    },
+    {
+      "cite": "960 P.2d 424",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1998,
+      "opinion_index": 0
+    },
+    {
+      "cite": "136 Wn.2d 122",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        867939
+      ],
+      "year": 1998,
+      "pin_cites": [
+        {
+          "page": "135"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/136/0122-01"
+      ]
+    },
+    {
+      "cite": "35 P.3d 1158",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "weight": 2,
+      "year": 2001,
+      "opinion_index": 0
+    },
+    {
+      "cite": "145 Wn.2d 233",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        314595
+      ],
+      "year": 2001,
+      "pin_cites": [
+        {
+          "page": "244"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/145/0233-01"
+      ]
+    },
+    {
+      "cite": "66 P.3d 630",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2003,
+      "opinion_index": 0
+    },
+    {
+      "cite": "149 Wn.2d 192",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1292584
+      ],
+      "year": 2003,
+      "pin_cites": [
+        {
+          "page": "198"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/149/0192-01"
+      ]
+    },
+    {
+      "cite": "195 P.3d 977",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2008,
+      "pin_cites": [
+        {
+          "parenthetical": "citing Kloepfel v. Bokor, 149 Wn.2d 192, 198, 66 P.3d 630 (2003)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "147 Wn. App. 376",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        3975498
+      ],
+      "year": 2008,
+      "pin_cites": [
+        {
+          "page": "387",
+          "parenthetical": "citing Kloepfel v. Bokor, 149 Wn.2d 192, 198, 66 P.3d 630 (2003)"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/147/0376-01"
+      ]
+    },
+    {
+      "cite": "279 P.2d 1091",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1955,
+      "opinion_index": 0
+    },
+    {
+      "cite": "46 Wn.2d 197",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        5029898
+      ],
+      "weight": 6,
+      "year": 1955,
+      "pin_cites": [
+        {
+          "page": "200"
+        },
+        {
+          "page": "200-01"
+        },
+        {
+          "page": "202"
+        },
+        {
+          "page": "200"
+        },
+        {
+          "page": "201"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/46/0197-01"
+      ]
+    },
+    {
+      "cite": "60 N.W. 205",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.",
+      "year": 1894,
+      "pin_cites": [
+        {
+          "parenthetical": "facts established claim for battery where defendant placed his hand on the plaintiff's shoulder and asked him an insulting question"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "91 Iowa 675",
+      "category": "reporters:state",
+      "reporter": "Iowa",
+      "case_ids": [
+        2082583
+      ],
+      "year": 1894,
+      "pin_cites": [
+        {
+          "parenthetical": "facts established claim for battery where defendant placed his hand on the plaintiff's shoulder and asked him an insulting question"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/iowa/91/0675-01"
+      ]
+    },
+    {
+      "cite": "169 Ala. 79",
+      "category": "reporters:state",
+      "reporter": "Ala.",
+      "case_ids": [
+        3556024
+      ],
+      "weight": 2,
+      "year": 1910,
+      "pin_cites": [
+        {
+          "parenthetical": "facts established claim for battery where defendant pushed plaintiff's hat back in order to see his face"
+        },
+        {
+          "parenthetical": "facts established claim for battery where defendant pushed plaintiff's hat back in order to see his face"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ala/169/0079-01"
+      ]
+    },
+    {
+      "cite": "709 P.2d 799",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1985,
+      "opinion_index": 0
+    },
+    {
+      "cite": "104 Wn.2d 722",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1201369
+      ],
+      "year": 1985,
+      "pin_cites": [
+        {
+          "page": "727"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/104/0722-01"
+      ]
+    },
+    {
+      "cite": "724 P.2d 1003",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "weight": 2,
+      "year": 1986,
+      "pin_cites": [
+        {
+          "parenthetical": "citing Shannon v. Pay'N Save Corp., 104 Wn.2d 722, 727, 709 P.2d 799 (1985)"
+        },
+        {
+          "parenthetical": "stating, in racial discrimination case, that \"decisions interpreting [Title VII] are persuasive authority for the construction of [the WLAD]\""
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "106 Wn.2d 675",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1195510
+      ],
+      "weight": 2,
+      "year": 1986,
+      "pin_cites": [
+        {
+          "page": "679, & n.1",
+          "parenthetical": "citing Shannon v. Pay'N Save Corp., 104 Wn.2d 722, 727, 709 P.2d 799 (1985)"
+        },
+        {
+          "page": "678",
+          "parenthetical": "stating, in racial discrimination case, that \"decisions interpreting [Title VII] are persuasive authority for the construction of [the WLAD]\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/106/0675-01"
+      ]
+    },
+    {
+      "cite": "726 P.2d 439",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1986,
+      "opinion_index": 0
+    },
+    {
+      "cite": "106 Wn.2d 901",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1195559
+      ],
+      "year": 1986,
+      "pin_cites": [
+        {
+          "page": "909"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/106/0901-01"
+      ]
+    },
+    {
+      "cite": "479 U.S. 60",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6210673
+      ],
+      "weight": 7,
+      "year": 1986,
+      "pin_cites": [
+        {
+          "page": "68"
+        },
+        {
+          "page": "67",
+          "parenthetical": "declining the petitioner's invitation to \"delineat[e] the plaintiff's prima facie case\""
+        },
+        {
+          "parenthetical": "declining the petitioner's invitation to \"delineat[e] the plaintiff's prima facie case\""
+        },
+        {
+          "parenthetical": "declining the petitioner's invitation to \"delineat[e] the plaintiff's prima facie case\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/479/0060-01"
+      ]
+    },
+    {
+      "cite": "296 F.3d 799",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        9405331
+      ],
+      "weight": 2,
+      "year": 2002,
+      "pin_cites": [
+        {
+          "page": "804"
+        },
+        {
+          "page": "804"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/296/0799-01"
+      ]
+    },
+    {
+      "cite": "700 F.3d 944",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3637455
+      ],
+      "year": 2012,
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/700/0944-01"
+      ]
+    },
+    {
+      "cite": "447 F.3d 642",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        5859975
+      ],
+      "weight": 5,
+      "year": 2006,
+      "pin_cites": [
+        {
+          "page": "655"
+        },
+        {
+          "page": "655"
+        },
+        {
+          "page": "655"
+        },
+        {
+          "page": "655",
+          "parenthetical": "employee established an \" 'adverse employment action' \" for purposes of prima facie religious accommodation claim where employer \" 'formally instructed] him not to pray with or proselytize to clients' \""
+        },
+        {
+          "page": "655",
+          "parenthetical": "risk to public employer of violating the establishment clause is an undue hardship"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/447/0642-01"
+      ]
+    },
+    {
+      "cite": "515 F.3d 307",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3644861
+      ],
+      "year": 2008,
+      "pin_cites": [
+        {
+          "page": "312"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/515/0307-01"
+      ]
+    },
+    {
+      "cite": "669 F.3d 1277",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3724025
+      ],
+      "year": 2012,
+      "pin_cites": [
+        {
+          "page": "1293"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/669/1277-01"
+      ]
+    },
+    {
+      "cite": "731 F.3d 1106",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        6048819
+      ],
+      "weight": 2,
+      "year": 2013,
+      "pin_cites": [
+        {
+          "page": "1122"
+        },
+        {
+          "page": "1122-23"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/731/1106-01"
+      ]
+    },
+    {
+      "cite": "411 U.S. 792",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        10002
+      ],
+      "weight": 3,
+      "year": 1973,
+      "pin_cites": [
+        {
+          "page": "802-03"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/411/0792-01"
+      ]
+    },
+    {
+      "cite": "154 Cal. Rptr. 907",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr.",
+      "weight": 2,
+      "year": 1979,
+      "pin_cites": [
+        {
+          "parenthetical": "noting reasoning in federal courts"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "593 P.2d 852",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "weight": 2,
+      "year": 1979,
+      "pin_cites": [
+        {
+          "parenthetical": "noting reasoning in federal courts"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "24 Cal. 3d 167",
+      "category": "reporters:state",
+      "reporter": "Cal. 3d",
+      "case_ids": [
+        2265660
+      ],
+      "weight": 2,
+      "year": 1979,
+      "pin_cites": [
+        {
+          "page": "172-74",
+          "parenthetical": "noting reasoning in federal courts"
+        },
+        {
+          "page": "171-74"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-3d/24/0167-01"
+      ]
+    },
+    {
+      "cite": "188 Or. App. 63",
+      "category": "reporters:state",
+      "reporter": "Or. App.",
+      "case_ids": [
+        178560
+      ],
+      "weight": 2,
+      "year": 2003,
+      "pin_cites": [
+        {
+          "page": "68-69"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/or-app/188/0063-01"
+      ]
+    },
+    {
+      "cite": "521 F.2d 512",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        616211
+      ],
+      "year": 1975,
+      "pin_cites": [
+        {
+          "page": "520-21"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/521/0512-01"
+      ]
+    },
+    {
+      "cite": "468 F.2d 346",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        247539
+      ],
+      "year": 1972,
+      "pin_cites": [
+        {
+          "page": "350"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/468/0346-01"
+      ]
+    },
+    {
+      "cite": "602 F.2d 904",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1448612
+      ],
+      "weight": 2,
+      "year": 1979,
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/602/0904-01"
+      ]
+    },
+    {
+      "cite": "501 F.2d 398",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        92990
+      ],
+      "weight": 2,
+      "year": 1974,
+      "pin_cites": [
+        {
+          "page": "402-03"
+        },
+        {
+          "page": "402-03",
+          "parenthetical": "\"Th[e] subsequent congressional affirmation strengthens our conclusion about the validity of the [EEOC's 1967] regulation\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/501/0398-01"
+      ]
+    },
+    {
+      "cite": "383 A.2d 369",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7984147
+      ],
+      "year": 1978,
+      "pin_cites": [
+        {
+          "page": "375-78"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/383/0369-01"
+      ]
+    },
+    {
+      "cite": "172 P.3d 688",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2007,
+      "opinion_index": 0
+    },
+    {
+      "cite": "162 Wn.2d 340",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        3696372
+      ],
+      "year": 2007,
+      "pin_cites": [
+        {
+          "page": "354-55"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/162/0340-01"
+      ]
+    },
+    {
+      "cite": "621 P.2d 1293",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "weight": 3,
+      "year": 1980,
+      "pin_cites": [
+        {
+          "parenthetical": "looking to federal case law interpreting Title VII to determine the extent of the Human Rights Commission's authority to prohibit a facially neutral hiring policy with disparate impact on women and applicants of certain national origins"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "610 P.2d 857",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "weight": 2,
+      "year": 1980,
+      "pin_cites": [
+        {
+          "parenthetical": "looking to federal case law interpreting Title VII to determine the extent of the Human Rights Commission's authority to prohibit a facially neutral hiring policy with disparate impact on women and applicants of certain national origins"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "93 Wn.2d 368",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1167738
+      ],
+      "weight": 4,
+      "year": 1980,
+      "pin_cites": [
+        {
+          "page": "375-77"
+        },
+        {
+          "page": "376-82",
+          "parenthetical": "looking to federal case law interpreting Title VII to determine the extent of the Human Rights Commission's authority to prohibit a facially neutral hiring policy with disparate impact on women and applicants of certain national origins"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/93/0368-01"
+      ]
+    },
+    {
+      "cite": "544 U.S. 228",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        5877522
+      ],
+      "weight": 3,
+      "year": 2005,
+      "pin_cites": [
+        {
+          "page": "230"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/544/0228-01"
+      ]
+    },
+    {
+      "cite": "401 U.S. 424",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11712736
+      ],
+      "weight": 6,
+      "year": 1971,
+      "pin_cites": [
+        {
+          "page": "429-30"
+        },
+        {
+          "page": "430"
+        },
+        {
+          "page": "431"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/401/0424-01"
+      ]
+    },
+    {
+      "cite": "402 U.S. 689",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11735311
+      ],
+      "weight": 3,
+      "year": 1971,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/402/0689-01"
+      ]
+    },
+    {
+      "cite": "429 F.2d 324",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        2235996
+      ],
+      "weight": 3,
+      "year": 1970,
+      "pin_cites": [
+        {
+          "page": "334"
+        },
+        {
+          "page": "334-35"
+        },
+        {
+          "page": "335"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/429/0324-01"
+      ]
+    },
+    {
+      "cite": "86 Stat. 103",
+      "category": "laws:leg_session",
+      "reporter": "Stat.",
+      "weight": 2,
+      "opinion_index": 0
+    },
+    {
+      "cite": "432 U.S. 63",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6177171
+      ],
+      "weight": 8,
+      "year": 1977,
+      "pin_cites": [
+        {
+          "page": "85",
+          "parenthetical": "Marshall, J., dissenting"
+        },
+        {
+          "parenthetical": "Marshall, J., dissenting"
+        },
+        {
+          "parenthetical": "Marshall, J., dissenting"
+        },
+        {
+          "page": "73"
+        },
+        {
+          "page": "84",
+          "parenthetical": "decided in posttrial context, not at pleading stage"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/432/0063-01"
+      ]
+    },
+    {
+      "cite": "29 C.F.R. \u00a7 1605.1",
+      "category": "laws:admin_compilation",
+      "reporter": "C.F.R.",
+      "weight": 4,
+      "year": 1967,
+      "pin_cites": [
+        {
+          "page": "(a)(3)"
+        },
+        {
+          "page": "85-86"
+        },
+        {
+          "page": "(b)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "51 P.3d 66",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2002,
+      "opinion_index": 0
+    },
+    {
+      "cite": "146 Wn.2d 947",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        960812
+      ],
+      "year": 2002,
+      "pin_cites": [
+        {
+          "page": "954"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/146/0947-01"
+      ]
+    },
+    {
+      "cite": "91 P.3d 864",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2004,
+      "pin_cites": [
+        {
+          "parenthetical": "in interpreting a statute, the court's \"primary objective is to ascertain and give effect to the [legislature's] intent and purpose\" (citing State v. Watson, 146 Wn.2d 947, 954, 51 P.3d 66 (2002))"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "151 Wn.2d 512",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        428161
+      ],
+      "year": 2004,
+      "pin_cites": [
+        {
+          "page": "518",
+          "parenthetical": "in interpreting a statute, the court's \"primary objective is to ascertain and give effect to the [legislature's] intent and purpose\" (citing State v. Watson, 146 Wn.2d 947, 954, 51 P.3d 66 (2002))"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/151/0512-01"
+      ]
+    },
+    {
+      "cite": "583 P.2d 621",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1978,
+      "pin_cites": [
+        {
+          "parenthetical": "finding a reasonable-accommodation-for-disability requirement inherent in the \"legislative policy\" embodied in the WLAD, even though that statute did not employ the term \"accommodation\""
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "90 Wn.2d 384",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1104360
+      ],
+      "year": 1978,
+      "pin_cites": [
+        {
+          "page": "388-89",
+          "parenthetical": "finding a reasonable-accommodation-for-disability requirement inherent in the \"legislative policy\" embodied in the WLAD, even though that statute did not employ the term \"accommodation\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/90/0384-01"
+      ]
+    },
+    {
+      "cite": "837 P.2d 618",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "weight": 4,
+      "year": 1992,
+      "pin_cites": [
+        {
+          "parenthetical": "stating that \"Title VII of the Civil Rights Act of 1964 is the federal counterpart to our state law\" and referring to \"federal and state law against religious discrimination\" (emphasis added)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "120 Wn.2d 57",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1368169
+      ],
+      "weight": 2,
+      "year": 1992,
+      "pin_cites": [
+        {
+          "page": "64"
+        },
+        {
+          "page": "61-62",
+          "parenthetical": "stating that \"Title VII of the Civil Rights Act of 1964 is the federal counterpart to our state law\" and referring to \"federal and state law against religious discrimination\" (emphasis added)"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/120/0057-01"
+      ]
+    },
+    {
+      "cite": "753 P.2d 517",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "weight": 2,
+      "year": 1988,
+      "pin_cites": [
+        {
+          "parenthetical": "looking to federal cases interpreting the ADEA to determine criteria for establishing an age discrimination claim under the WLAD"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "110 Wn.2d 355",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1182902
+      ],
+      "weight": 2,
+      "year": 1988,
+      "pin_cites": [
+        {
+          "page": "361-62"
+        },
+        {
+          "page": "361-62",
+          "parenthetical": "looking to federal cases interpreting the ADEA to determine criteria for establishing an age discrimination claim under the WLAD"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/110/0355-01"
+      ]
+    },
+    {
+      "cite": "922 P.2d 788",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "weight": 2,
+      "year": 1996,
+      "opinion_index": 0
+    },
+    {
+      "cite": "130 Wn.2d 58",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        72857
+      ],
+      "year": 1996,
+      "pin_cites": [
+        {
+          "page": "63"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/130/0058-01"
+      ]
+    },
+    {
+      "cite": "233 P.3d 861",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2010,
+      "opinion_index": 0
+    },
+    {
+      "cite": "169 Wn.2d 96",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4010537
+      ],
+      "year": 2010,
+      "pin_cites": [
+        {
+          "page": "101"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/169/0096-01"
+      ]
+    },
+    {
+      "cite": "279 P.3d 902",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "weight": 2,
+      "year": 2012,
+      "opinion_index": 0
+    },
+    {
+      "cite": "169 Wn. App. 188",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        4029361
+      ],
+      "weight": 4,
+      "year": 2012,
+      "pin_cites": [
+        {
+          "page": "202"
+        },
+        {
+          "page": "202-03"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/169/0188-01"
+      ]
+    },
+    {
+      "cite": "317 P.3d 1009",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2014,
+      "opinion_index": 1
+    },
+    {
+      "cite": "179 Wn.2d 769",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4033724
+      ],
+      "year": 2014,
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/179/0769-01"
+      ]
+    },
+    {
+      "cite": "239 P.3d 1084",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2010,
+      "opinion_index": 1
+    },
+    {
+      "cite": "170 Wn.2d 70",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4012781
+      ],
+      "year": 2010,
+      "pin_cites": [
+        {
+          "page": "75"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/170/0070-01"
+      ]
+    },
+    {
+      "cite": "859 F.2d 610",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10530250
+      ],
+      "weight": 3,
+      "year": 1988,
+      "pin_cites": [
+        {
+          "parenthetical": "addressing constructive discharge in the context of a religious accommodation claim"
+        },
+        {
+          "page": "612"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/f2d/859/0610-01"
+      ]
+    },
+    {
+      "cite": "78 Stat. 241",
+      "category": "laws:leg_session",
+      "reporter": "Stat.",
+      "opinion_index": 1
+    },
+    {
+      "cite": "447 F.3d 642",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        5859975
+      ],
+      "weight": 2,
+      "year": 2006,
+      "pin_cites": [
+        {
+          "page": "655",
+          "parenthetical": "stating that the prima facie elements may be met by showing an implicit threat of adverse employment action"
+        },
+        {
+          "page": "655"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/f3d/447/0642-01"
+      ]
+    },
+    {
+      "cite": "172 P.3d 688",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2007,
+      "opinion_index": 1
+    },
+    {
+      "cite": "162 Wn.2d 340",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        3696372
+      ],
+      "year": 2007,
+      "pin_cites": [
+        {
+          "page": "349-52"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/162/0340-01"
+      ]
+    },
+    {
+      "cite": "610 P.2d 857",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1980,
+      "opinion_index": 1
+    },
+    {
+      "cite": "93 Wn.2d 368",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1167738
+      ],
+      "year": 1980,
+      "pin_cites": [
+        {
+          "page": "378"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/93/0368-01"
+      ]
+    },
+    {
+      "cite": "583 P.2d 621",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1978,
+      "opinion_index": 1
+    },
+    {
+      "cite": "90 Wn.2d 384",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1104360
+      ],
+      "year": 1978,
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/90/0384-01"
+      ]
+    },
+    {
+      "cite": "837 P.2d 618",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1992,
+      "opinion_index": 1
+    },
+    {
+      "cite": "120 Wn.2d 57",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1368169
+      ],
+      "year": 1992,
+      "pin_cites": [
+        {
+          "page": "64-65"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/120/0057-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 2171,
+    "char_count": 61413,
+    "ocr_confidence": 0.729,
+    "pagerank": {
+      "raw": 1.4634055543402807e-07,
+      "percentile": 0.6577640240801684
+    },
+    "sha256": "d733d65102352baa8e28b98e5f7981d2abebe19d5cfeac1c66c9a5cd213dd039",
+    "simhash": "1:2574fe1373b855c1",
+    "word_count": 9687
+  },
+  "last_updated": "2024-02-27T18:26:29.759680+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Fairhurst, Stephens, Wiggins, and Gonz\u00e1lez, JJ., concur.",
+      "C. Johnson and Owens, JJ., and J.M. Johnson, J. Pro Tem., concur with Madsen, C.J."
+    ],
+    "parties": [
+      "James Kumar et al., Appellants, v. Gate Gourmet, Inc., Respondent."
+    ],
+    "opinions": [
+      {
+        "text": "Gordon McCloud, J.\n\u00b61 Appellants James Kumar, Ranveer Singh, Asegedew Gefe, and Abbas Kosymov brought a class action lawsuit against their employer, Gate Gourmet Inc., alleging two common law torts and two violations of Washington\u2019s Law Against Discrimination (the WLAD), chapter 49.60 RCW. The lawsuit stems from Gate Gourmet\u2019s employee meal policy, which bars employees from bringing in their own food for lunch (for security reasons), leaving only employer-provided food for the employees to eat. According to the plaintiffs, the policy forces them to work without food or eat food that violates their religious beliefs. The trial court dismissed the lawsuit in its entirety, finding that the WLAD contains no requirement that employers make reasonable accommodations for their employees\u2019 religious practices. We granted direct review and now reverse.\nFACTS\n\u00b62 The plaintiffs in this action (the employees) work near SeaTac airport for the defendant, Gate Gourmet, preparing meals for service on trains and airplanes. Due to security concerns, the employees can neither bring food with them to work nor leave the premises to obtain food during their 30-minute lunch break. Instead, Gate Gourmet provides meals for employees to consume during their break. These meals ostensibly consist of one vegetarian and one meat-based main dish. The employees allege, however, that Gate Gourmet uses animal by-products in the \u201cvegetarian\u201d option. Clerk\u2019s Papers (CP) at 14. They also allege that they informed Gate Gourmet that their various religious beliefs prohibited them from eating the beef-pork meatballs the company served, that Gate Gourmet responded by temporarily switching to turkey meatballs, that the company later switched back to the beef-pork mixture without notifying the employees, and that it now refuses to alter the employee meals. Finally, the complaint alleges harm. It claims that the employees \u201ccaused the plaintiffs ... harm by deliberately refusing to accommodate their religious and moral beliefs.\u201d Id. In particular, the complaint alleges that Gate Gourmet\u2019s alleged deception caused \u201cputative class members [to] unknowingly eat[ ] food forbidden by their beliefs,\u201d CP at 19, and that class members \u201chave faced the choice of eating food forbidden by their sincerely held beliefs or not eating, have suffered offensive touching due to their contact with food prohibited by their beliefs, and have suffered distress as a result.\u201d CP at 22.\n\u00b63 The employees brought a class action lawsuit alleging that Gate Gourmet\u2019s knowing refusal to label and \u201cadapt [ ] its menu to accommodate the tenets of [their] beliefs and religions\u201d violated the WLAD. CP at 21. This allegation is based on two distinct theories: (1) that Gate Gourmet\u2019s meal policy constituted a failure to reasonably accommodate the employees\u2019 religious practices and (2) that the meal policy has a disparate impact on employees who adhere to certain religions. The employees\u2019 complaint also states claims for the common law torts of battery and negligent infliction of emotional distress.\n\u00b64 The trial court granted in full Gate Gourmet\u2019s CR 12(b)(6) motion to dismiss the complaint. CP at 118-20. It concluded that under Short v. Battle Ground School District, 169 Wn. App. 188, 279 P.3d 902 (2012), the WLAD provides no cause of action for failure to reasonably accommodate religious practices. CP at 119. The order of dismissal contains no discussion of the disparate impact, battery, or negligence claims; in fact, the CR 12(b)(6) motion contains no discussion of the disparate impact claim. Id. The employees sought and obtained direct review by this court.\nANALYSIS\nStandard of Review\n\u00b65 All of the issues presented in this case are reviewed de novo. \u201cUnder CR 12(b)(6) a plaintiff states a claim on which relief can be granted if it is possible that facts could be established\u201d that would support relief. McCurry v. Chevy Chase Bank, FSB, 169 Wn.2d 96, 101, 233 P.3d 861 (2010).\n1. Does the WLAD require covered employers to make reasonable accommodations for their employees\u2019 religious practices?\na. The WLAD creates a private cause of action for employment discrimination on the basis of religion\n\u00b66 As originally enacted in 1949, the WLAD prohibited employers from discriminating on the basis of \u201crace, creed, color, or national origin.\u201d Laws of 1949, ch. 183, \u00a7 7. Today, it prohibits discrimination on the basis of those traits as well as \u201csex, marital status, sexual orientation ... honorably discharged veteran or military status, or the presence of any sensory, mental or physical disability or the use of a trained dog guide or service animal by a person with a disability.\u201d RCW 49.60.180(1). Washington courts have long equated the term \u201ccreed\u201d in the WLAD with the term \u201creligion\u201d in Title VII of the Civil Rights Act of 1964 (Title VII). The parties agree that the term \u201ccreed\u201d in the WLAD refers to religious belief.\n\u00b67 Since its enactment, the WLAD has been administered by the Washington Human Rights Commission (HRC). The HRC has the power to \u201cadopt, amend, and rescind suitable rules to carry out [its] provisions . . . and the policies and practices of the commission in connection therewith.\u201d RCW 49.60.120(3). In 1973, the WLAD was amended to create a private cause of action against any employer engaging in an \u201cunfair practice\u201d Griffin v. Eller, 130 Wn.2d 58, 63, 922 P.2d 788 (1996); id. at 78 & n.3 (Talmadge, J., dissenting). RCW 49.60.180(3) now provides in relevant part that it is an \u201cunfair practice\u201d for an employer \u201c[t]o discriminate against any person in compensation or in other terms or conditions of employment because of age, sex, marital status, sexual orientation, race, creed, color [or] national origin....\u201d The employees brought their class action suit under this provision.\nb. Washington courts look to federal antidiscrimination law to help them construe the WLAD\u2019s provisions\n\u00b68 In the employment context, the WLAD has three federal counterparts: Title VII, the Age Discrimination in Employment Act (ADEA), and the Americans with Disabilities Act (ADA). Title VII has prohibited employment discrimination on the basis of \u201crace, color, religion, sex, or national origin, [etc.]\u201d since 1964, the ADEA has prohibited discrimination against older workers since 1967, and the ADA has prohibited employment discrimination on the basis of disability since 1990. The WLAD\u2019s employment provisions were amended in 1961 to prohibit age discrimination, in 1971 to prohibit sex discrimination, and in 1973 to prohibit discrimination on the basis of marital status and disability. Thus, in every category but sex-based discrimination, our state WLAD\u2019s prohibitions predate their federal counterparts.\n\u00b69 Even though almost all of the WLAD\u2019s prohibitions predate Title VU\u2019s, the ADA\u2019s, and the ADEA\u2019s, Washington courts still look to federal case law interpreting those statutes to guide our interpretation of the WLAD. Federal cases are not binding on this court, which is \u201cfree to adopt those theories and rationale which best further the purposes and mandates of our state statute.\u201d Grimwood v. Univ. of Puget Sound, Inc., 110 Wn.2d 355, 361-62, 753 P.2d 517 (1988). Where this court has departed from federal antidiscrimination statute precedent, however, it has almost always ruled that the WLAD provides greater employee protections than its federal counterparts.\nc. In Short, the Court of Appeals concluded that Washington\u2019s WLAD provides fewer protections against religious discrimination than Title VII\n\u00b610 While Title VII has explicitly required employers to make \u201creasonable accommodations\u201d for employees\u2019 religious practices since 1972, the WLAD lacks such an express requirement. In Hiatt v. Walker Chevrolet Co., this court noted that difference and \u201cspecifically disapprove [d]\u201d a Court of Appeals opinion that \u201cassume [d]\u201d the WLAD provided the same protections against religious discrimination that Title VII provides. 120 Wn.2d 57, 64, 837 P.2d 618 (1992).\n\u00b611 But the Hiatt court expressly declined to decide whether the WLAD requires employers to reasonably accommodate their employees\u2019 religious practices, because doing so was not necessary to resolve the case before it. Id. Hiatt provided only an overview of that \u201cimportant issue.\u201d Id. It noted that the issue had arisen in several other jurisdictions in which state antidiscrimination statutes analogous to the WLAD\u2019s prohibited religious discrimination but did not affirmatively require accommodations. Id. at 63. The Hiatt court found these jurisdictions evenly split: in three, courts had found a reasonable-accommodation-for-religion requirement implicit in their state\u2019s antidiscrimination statutes but in three others courts had found no such implicit requirement. Ultimately, the Hiatt court concluded only that \u201c[s]trong arguments can be presented on both sides of the issue.\u201d Id.\n\u00b612 In Short, 169 Wn. App. 188, the case on which the trial court below relied when it dismissed the employees\u2019 claims, Division Twq of the Court of Appeals answered the question that Hiatt left open. It held that the WLAD does not require employers to make reasonable accommodations for their employees\u2019 religious practices. Id. at 202. The Short court based this conclusion primarily on three factors: (1) the absence of an express reasonable-accommodation-for-religion requirement in the WLAD, (2) the fact that the WLAD\u2019s prohibition on religious employment discrimination predates Title VU\u2019s by 15 years, and (3) the HRC\u2019s failure to promulgate any rules containing such a requirement. Id. at 202-03.\nd. We disapprove the Short court\u2019s analysis\n\u00b613 The first factor the Short court cited \u2014 the WLAD\u2019s lack of an express reasonable accommodation mandate \u2014 is not persuasive. As discussed in detail in Part (e) below, courts interpreting such silence in religious antidiscrimination law as endorsing rather than barring this particular anti-discrimination theory have the more persuasive argument.\n\u00b614 The second factor on which the Short court relied \u2014 the WLAD\u2019s enactment 15 years before Title VII \u2014 is not persuasive because we have never considered chronology when looking to federal case law to help interpret the WLAD. Rather, we have relied on federal civil rights jurisprudence where doing so \u201cfurther [s] the purposes and mandates of [the WLAD].\u201d Grimwood, 110 Wn.2d at 362. This court has therefore consulted federal case law in the contexts of age, race, and disability discrimination even though the WLAD\u2019s provisions on age, race, and disability were enacted well before their federal counterparts. Thus, the fact that the WLAD\u2019s provisions on \u201ccreed\u201d predate Title VII does not preclude this court\u2019s reliance on federal law to interpret those provisions.\n\u00b615 The third factor on which the Short court relied \u2014 the HRC\u2019s failure to promulgate rules requiring employers to reasonably accommodate employees\u2019 religious practices \u2014 is not persuasive because the agency\u2019s silence does not constitute an interpretation of the WLAD. It is certainly true that an administrative agency\u2019s silence must be deemed significant where it admits of only one reasonable interpretation. Here, however, the HRC\u2019s silence regarding an employer\u2019s duty to accommodate religious practices is subject to more than one reasonable interpretation. It might indicate that the agency believes the WLAD imposes no such duty. But it might also indicate the opposite \u2014 that the agency assumes the WLAD imposes exactly the same duty to accommodate religious practices that Title VII does and thus needs no regulatory clarification. Indeed, the HRC\u2019s amicus brief in this case says exactly that; the HRC explains that it \u201chas not doubted that the [WLAD] includes a religious accommodation requirement, and thus did not deem a rule on the subject necessary.\u201d Br. of Amicus Curiae HRC at 15.\n\u00b616 Moreover, just as an agency cannot promulgate a rule that exceeds its statutory mandate, neither can it diminish statutory protections by failing to act. Gate Gourmet makes much of the fact that the HRC has promulgated rules requiring employers to reasonably accommodate employees with disabilities, arguing that the HRC would have issued an identical rule mandating religious accommodations if it believed the WLAD required them. But the HRC\u2019s rules did not create the reasonable accommodation requirement for disability \u2014 they merely implemented a requirement already inherent in the WLAD itself. See Holland v. Boeing Co., 90 Wn.2d 384, 388-89, 583 P.2d 621 (1978) (finding a reasonable-accommodation-for-disability requirement inherent in the \u201clegislative policy\u201d embodied in the WLAD, even though that statute did not employ the term \u201caccommodation\u201d). Even if the HRC had failed to promulgate any rules requiring reasonable accommodations for employee disabilities, this court would still have been required to recognize that implicit requirement in the WLAD\u2019s provisions. See Am. Cont\u2019l Ins. Co. v. Steen, 151 Wn.2d 512, 518, 91 P.3d 864 (2004) (in interpreting a statute, the court\u2019s \u201cprimary objective is to ascertain and give effect to the [legislature\u2019s] intent and purpose\u201d (citing State v. Watson, 146 Wn.2d 947, 954, 51 P.3d 66 (2002))).\n\u00b617 So, with or without recourse to implementing rules, this court must interpret RCW 49.60.180 so as to give effect to the legislature\u2019s intent. In this case, that means choosing between two competing interpretations of the statute: the interpretation that says it implies a reasonable-accommodation-for-religion requirement and the interpretation that says it lacks such a requirement.\ne. Under state rules of statutory interpretation and persuasive federal antidiscrimination case law, the WLAD implies a requirement to reasonably accommodate religious practices\n\u00b618 For help interpreting the WLAD, we look to cases applying Title VII\u2019s prohibition against religious discrimination. See supra notes 13 and 17-19 and accompanying text. Gate Gourmet argues that Title VII is more protective of employees\u2019 religious practices than is the WLAD, because Title VII was amended in 1972 to expressly require reasonable accommodations for religion. The employees counter that Title VII had always imposed a reasonable accommodation duty on the employer and that the 1972 amendment clarified (rather than expanded) that implicit duty. The employees therefore conclude that the WLAD imposes the same implicit duty to reasonably accommodate employees\u2019 religious practices.\n\u00b619 We agree with the employees. To explain why this is so, we provide a brief history of the reasonable accommodation requirement, followed by an overview of state and federal disparate impact jurisprudence.\n\u00b620 Shortly after Title VII was enacted in 1964, the Equal Employment Opportunity Commission (EEOC) promulgated a rule interpreting the statute to require employers to reasonably accommodate employees\u2019 religious practices. 29 C.F.R. \u00a7 1605.1 (1967). At that point, Title VII prohibited religious discrimination but contained no language addressing reasonable accommodations one way or the other. 42 U.S.C. \u00a7 2000e-2(a).\n\u00b621 Initially the EEOC rule explicitly excluded work schedule alterations from the category of \u201creasonable accommodations,\u201d meaning that an employee could not demand time off to observe a holy day under that rule. Trans World Airlines, Inc. v. Hardison, 432 U.S. 63, 85, 97 S. Ct. 2264, 53 L. Ed. 2d 113 (1977) (Marshall, J., dissenting) (quoting 29 C.F.R. \u00a7 1605.1(a)(3), (b)(3)). In 1967, however, the agency omitted the language exempting scheduling accommodations and replaced it with language requiring any accommodation that did not impose an \u201c \u2018undue hardship\u2019 \u201d on the employer. Id. at 85-86 (quoting 29 C.F.R. \u00a7 1605.1(b)).\n\u00b622 As this court noted in Hiatt, Congress amended Title VII in 1972 to expressly affirm the EEOC\u2019s reasonable accommodation rule. Hiatt, 120 Wn.2d at 62-63 & n.5 (citing 42 U.S.C. \u00a7 2000e( j); Trans World Airlines, 432 U.S. at 73). The 1972 amendment required employers to \u201creasonably accommodate to an employee\u2019s or prospective employee\u2019s religious observance or practice\u201d to the extent possible \u201cwithout undue hardship on the conduct of the employer\u2019s business.\u201d Pub. L. 92-261, 86 Stat. 103.\n\u00b623 Only a few Court of Appeals cases have addressed the nature of the 1972 amendment. In Dewey v. Reynolds Metals Co., 429 F.2d 324, 334 (6th Cir. 1970), aff\u2019d by an equally divided court, 402 U.S. 689, 91 S. Ct. 2186,29 L. Ed. 2d 267 (1971), a preamendment case, the Sixth Circuit decided that the EEOC had exceeded its statutory mandate by promulgating the reasonable accommodation requirement because it was \u201cnot consistent\u201d with the preamendment statute\u2019s \u201cplain language.\u201d By contrast, more recent Fifth and Ninth Circuit cases have treated the 1972 amendment as clarifying rather than modifying Title VU\u2019s original meaning.\nf 24 We find that the Fifth and Ninth Circuits\u2019 reasoning is more consistent with the goals and prior controlling interpretations of the federal antidiscrimination law \u2014 particularly the United States Supreme Court\u2019s decision interpreting Title VII as barring not just employment practices based on discriminatory intent but also employment practices that produce \u201cdisparate impacts.\u201d This is critical, because our court has held that our Washington\u2019s LAD has those same goals and recognizes that same \u201cdisparate impact\u201d cause of action.\n\u00b625 The United States Supreme Court came to that conclusion first in Griggs v. Duke Power Co., 401 U.S. 424, 91 S. Ct. 849, 28 L. Ed. 2d 158 (1971). In that case, the Supreme Court held that Title VII prohibits employment practices that are discriminatory in effect as well as those based on discriminatory intent. Id. at 429-30. The unanimous Griggs Court reasoned that Title VII\u2019s purposes could not be achieved unless the statute was construed to bar \u201cpractices . . . neutral on their face, and even neutral in terms of intent [that] operate to \u2018freeze\u2019 the status quo of prior discriminatory employment practices.\u201d Id. at 430. The Supreme Court therefore held that Title VII barred even a facially neutral job requirement if that requirement disproportionately burdened a protected class, unless the requirement bore a legitimate relation to \u201cjob performance,\u201d that is, unless it constituted a \u201cbusiness necessity.\u201d Id. at 431. The Griggs decision created the cause of action now known as a \u201cdisparate impact\u201d claim. Smith v. City of Jackson, 544 U.S. 228, 230, 125 S. Ct. 1536, 161 L. Ed. 2d 410 (2005).\n\u00b626 This court adopted Griggs\u2019 reasoning in Fahn v. Cowlitz County, 93 Wn.2d 368, 375-77, 610 P.2d 857, 621 P.2d 1293 (1980). In Fahn, we held that the HRC had authority to restrict preemployment inquiries regarding height and weight because they have a disparate impact on women and applicants of certain national origins. Id. The Fahn court cited Griggs for the principle that Title VII must be construed broadly and noted that \u201cour legislature has likewise mandated a liberal construction for [the WLAD].\u201d Id. at 376. We therefore embraced Griggs\u2019 logic and held that the WLAD empowered the HRC to promulgate rules implementing the \u201cdisparate impact\u201d doctrine. Id. at 381. Under Washington law, as under federal law, the employer can defeat the plaintiff\u2019s prima facie \u201cdisparate impact\u201d claim by showing that the challenged employment practice serves a \u201cbusiness necessity.\u201d Hegwine v. Longview Fibre Co., 162 Wn.2d 340, 354-55, 172 P.3d 688 (2007).\n\u00b627 Griggs and Fahn weigh heavily in our decision today. Both the \u201cdisparate impact\u201d and \u201creligious accommodation\u201d doctrines bar facially neutral employment policies that have disproportionate adverse effects on a protected class. For this reason, courts in several other jurisdictions have concluded that recognizing an implied disparate impact claim goes hand in hand with recognizing an implied religious accommodation claim in statutes that prohibit religious discrimination. Me. Human Rights Comm\u2019n v. Local 1361, United Paperworker Int\u2019l Union AFL-CIO, 383 A.2d 369, 375-78 (Me. 1978); Yott v. N. Am. Rockwell Corp., 501 F.2d 398, 402-03 (1974), aff\u2019d, 602 F.2d 904 (9th Cir. 1979); Reid v. Memphis Publ\u2019g Co., 468 F.2d 346, 350 (1972), aff\u2019d in relevant part, 521 F.2d 512, 520-21 (6th Cir. 1975); Montgomery v. Bd. of Educ., 188 Or. App. 63, 68-69, 71 P.3d 94 (2003); see also Rankins v. Comm\u2019n on Prof\u2019l Competence, 24 Cal. 3d 167, 172-74, 593 P.2d 852, 154 Cal. Rptr. 907 (1979) (noting reasoning in federal courts).\n\u00b628 We agree. Disparate impact and reasonable accommodation claims both prevent employers from adopting facially neutral policies that create or perpetuate discriminatory effects. There is no logical reason to recognize in the WLAD an implied prohibition on facially neutral policies that have disparate impacts but not an implied requirement to reasonably accommodate religious practices, thereby avoiding such disparate impacts.\n\u00b629 Washington courts construe the WLAD\u2019s protections broadly where other forms of discrimination are concerned; we decline to carve out an exception for religious discrimination. Accordingly, we hold that the WLAD creates a cause of action for failure to reasonably accommodate an employee\u2019s religious practices.\n2. Have the employees stated a claim for failure to reasonably accommodate religious practices?\n\u00b630 The United States Supreme Court has never listed the elements of a prima facie claim for failure to accommodate religious practices. Several Courts of Appeals, however, have adopted a test based on the \u201cdisparate impact\u201d burden-shifting scheme established in McDonnell Douglas Corp. v. Green, 411 U.S. 792, 802-03, 93 S. Ct. 1817, 36 L. Ed. 2d 668 (1973). See, e.g., Equal Emp\u2019t Opportunity Comm\u2019n v. Abercrombie & Fitch Stores, Inc., 731 F.3d 1106, 1122 (10th Cir. 2013); Walden v. Ctrs. for Disease Control & Prevention, 669 F.3d 1277, 1293 (11th Cir. 2012); Equal Emp\u2019t Opportunity Comm\u2019n v. Firestone Fibers & Textiles Co., 515 F.3d 307, 312 (4th Cir. 2008); Berry v. Dep\u2019t of Soc. Serv., 447 F.3d 642, 655 (9th Cir. 2006).\n\u00b631 Under this test, a plaintiff establishes a prima facie claim of failure to accommodate religious practices by showing that (1) he or she had a bona fide religious belief, the practice of which conflicted with employment duties; (2) he or she informed the employer of the beliefs and the conflict; and (3) the employer responded by subjecting the employee to threatened or actual discriminatory treatment. Porter v. City of Chicago, 700 F.3d 944 (7th Cir. 2012); Lawson v. Washington, 296 F.3d 799, 804 (9th Cir. 2002).\n\u00b632 To be sure, the employer can defend by showing that it offered the employee a reasonable accommodation or that an accommodation would be an \u201cundue hardship\u201d on the employer. Abercrombie, 731 F.3d at 1122-23; Berry, 447 F.3d at 655. Congress did not define the term \u201cundue hardship\u201d when it enacted the 1972 amendment, but the United States Supreme Court has ruled that an \u201cundue hardship\u201d results whenever an accommodation \u201crequire [s an employer] to bear more than a de minimis cost.\u201d Trans World Airlines, 432 U.S. at 84 (decided in posttrial context, not at pleading stage). The United States Supreme Court has also ruled that a \u201creasonable accommodation\u201d need not be the precise accommodation the employee requests, even if the employer could provide that accommodation without suffering any undue hardship. Ansonia Bd. of Educ. v. Philbrook, 479 U.S. 60, 68, 107 S. Ct. 367, 93 L. Ed. 2d 305 (1986). And other courts have held that an undue hardship may be something other than a financial burden. An employer can defeat a religious accommodation claim by showing that valid concerns other than money \u2014 e.g., legal obligations or the interests of clients or other employees \u2014 would be unduly burdened by an accommodation.\n\u00b633 But the complaint need only allege the elements of a prima facie case. Under the test for a prima facie case, described above, the employees here have stated a claim for failure to reasonably accommodate their religious practices. Their complaint alleges that (1) they hold sincere religious beliefs, CP at 17-18, that conflict with Gate Gourmet\u2019s requirement that all employees eat company-provided food, CP at 16-17; (2) they informed Gate Gourmet of the conflict, CP at 19; and (3) Gate Gourmet responded by first deceiving the employees into eating food prohibited by their religions, id., and then by refusing to entertain any of the employees\u2019 proposed accommodations, with the result that the employees were forced to eat prohibited food or work hungry, CP at 19-20. The employees have met their burden to establish a prima facie religious accommodation claim. Berry, 447 F.3d at 655; Lawson, 296 F.3d at 804. We reverse the trial court\u2019s order dismissing the employees\u2019 claim of failure to reasonably accommodate their religious practices.\n3. Have the employees stated a claim for disparate impact?\n\u00b634 As discussed above, this court has held that the WLAD creates a cause of action for disparate impact. E-Z Loader Boat Trailers, Inc. v. Travelers Indem. Co., 106 Wn.2d 901, 909, 726 P.2d 439 (1986). To establish a prima facie case of disparate impact, the plaintiff must show that (1) a facially neutral employment practice (2) falls more harshly on a protected class. Oliver v. Pac. Nw. Bell Tel. Co., 106 Wn.2d 675, 679, & n.1, 724 P.2d 1003 (1986) (citing Shannon v. Pay\u2019N Save Corp., 104 Wn.2d 722, 727, 709 P.2d 799 (1985)).\n\u00b635 The employees\u2019 complaint alleges that Gate Gourmet maintains a facially neutral employee meal policy that falls more harshly on those within a protected class. The trial court\u2019s order dismissing this claim is therefore reversed.\n4. Have the employees stated a claim for battery ?\n\u00b636 A \u201cbattery\u201d is an intentional and unpermitted contact with the plaintiff\u2019s person. A defendant is liable for battery if (a) \u201che [or she] acts intending to cause a harmful or offensive contact with the [plaintiff or a third party], or an imminent apprehension of such contact, and (b) a harmful or offensive contact with the [plaintiff] directly or indirectly results.\u201d Restatement (Second) of Torts \u00a7 13 (1965). \u201cA bodily contact is offensive if it offends a reasonable sense of personal dignity.\u201d Restatement (Second) of Torts \u00a7 19. Thus, an offensive contact does not have to result in physical injury to constitute a battery. See Seigel v. Long, 169 Ala. 79, 53 So. 753 (1910) (facts established claim for battery where defendant pushed plaintiff\u2019s hat back in order to see his face); Crawford v. Bergen, 91 Iowa 675, 60 N.W. 205 (1894) (facts established claim for battery where defendant placed his hand on the plaintiff\u2019s shoulder and asked him an insulting question).\n\u00b637 Gate Gourmet asserts that the employees have failed to allege an \u201c \u2018intentional infliction of a harmful bodily contact upon another,\u2019 \u201d because they have failed to allege \u201ccontact,\u201d \u201cforce,\u201d and \u201cintent.\u201d Respt\u2019s Br. at 29-31 (quoting Garratt v. Dailey, 46 Wn.2d 197, 200, 279 P.2d 1091 (1955)).\n\u00b638 We disagree. First, the \u201ccontact\u201d element of a battery is simply a harmful or an offensive contact with the plaintiff; thus, a battery can occur where, for example, the plaintiff comes in harmful contact with the ground but never touches the defendant. See Garratt, 46 Wn.2d 197 at 200-01. Second, \u201cforce\u201d is not an element of battery. Id. Finally, the \u201cintent\u201d element of battery is satisfied where a defendant knows to a \u201csubstantial certainty\u201d that his actions will result in the harmful or offensive touching. Id. at 202. A person therefore commits a battery where he or she performs \u201c \u2018[a]n act which, directly or indirectly, is the legal cause of a harmful contact with another\u2019s person\u2019 \u201d and that act is intentional, is not consented to, and is otherwise unprivileged. Id. at 200 (quoting Restatement of Torts \u00a7 13 (1934)). These elements are met where the plaintiff\u2019s consent to the contact \u201c \u2018is procured by fraud or duress.\u2019 \u201d Id. at 201 (quoting Restatement of Torts \u00a7 13(b)).\n\u00b639 The employees allege that Gate Gourmet deceived them into eating food in violation of their religious beliefs, knowing that this would cause an offensive contact. These allegations are sufficient to support a claim for battery at this stage. The trial court\u2019s order dismissing this claim is therefore reversed.\n5. Have the employees stated a claim for negligent infliction of emotional distress?\n\u00b640 A plaintiff may recover for negligent infliction of emotional distress if she proves duty, breach, proximate cause, damage, and \u201cobjective symptomatology.\u201d Strong v. Terrell, 147 Wn. App. 376, 387, 195 P.3d 977 (2008) (citing Kloepfel v. Bokor, 149 Wn.2d 192, 198, 66 P.3d 630 (2003)). This court has recognized that actions based on mental distress must be subject to limitation by the courts, and it has concluded that the proper limitation is a balance of risk against utility. See Snyder v. Med. Serv. Corp. of E. Wash., 145 Wn.2d 233, 244, 35 P.3d 1158 (2001). Accordingly, in the negligent infliction of emotional distress context, we have held that an employer\u2019s conduct is unreasonable when its risk outweighs its utility. Id. The employees allege that Gate Gourmet knowingly implemented a meal policy that posed a risk to the employees\u2019 religious well-being, and that this risk far outweighed the policy\u2019s utility to the company. It is \u201cpossible that facts could be established\u201d to support the employees\u2019 allegations that Gate Gourmet breached a duty to the employees and that this breach resulted in emotional harm. McCurry, 169 Wn.2d at 101. To maintain an action for negligent infliction of emotional distress, however, a plaintiff must also establish \u201cemotional distress ... susceptible to medical diagnosis and proved through medical evidence.\u201d Hegel v. McMahon, 136 Wn.2d 122, 135, 960 P.2d 424 (1998). The employees here have not identified what, if any, specific objective symptomatology their harm entailed, stating that they will be able to ascertain \u201crelevant facts\u201d only when discovery begins. CP at 37.\n\u00b641 That is a possibility. This case was dismissed at the pleading stage, and the employees\u2019 claim for negligent infliction of emotional distress was dismissed without analysis. In light of this fact and in light of Washington\u2019s relatively liberal standard for stating a cognizable claim, we reverse the dismissal.\nCONCLUSION\n\u00b642 The WLAD includes a duty to reasonably accommodate an employee\u2019s religious practices. The trial court thus erred when it dismissed the employees\u2019 reasonable accommodation claim on the ground that the WLAD created no cause of action for failure to accommodate religious practices. The trial court also erred in dismissing the employees\u2019 claims for disparate impact, battery, and negligent infliction of emotional distress. We reverse the decision of the Superior Court and remand for further proceedings consistent with this opinion.\nFairhurst, Stephens, Wiggins, and Gonz\u00e1lez, JJ., concur.\nThe trial court dismissed for failure to state a claim. Por purposes of this analysis, therefore, we assume the truth of the plaintiffs\u2019 allegations. Cutler v. Phillips Petrol. Co., 124 Wn.2d 749, 755, 881 P.2d 216 (1994) (when reviewing a trial court\u2019s dismissal for failure to state a claim, the appellate court presumes the truth of the plaintiff\u2019s allegations).\nIt does not state any claims under Title VII of the Civil Rights Act of 1964 but reserves the employees\u2019 right to do so in the future. Pub. L. 88-352, 78 Stat. 241, 255 (1964); 42 U.S.C. \u00a7 2000e-2(a).\nMcKee v. AT&T Corp., 164 Wn.2d 372, 387, 191 P.3d 845 (2008) (legal conclusions are reviewed de novo); Kinney v. Cook, 159 Wn.2d 837, 842, 154 P.3d 206 (2001) (trial court\u2019s ruling to dismiss a claim under CR 12(b)(6) is reviewed de novo (citing Tenore v. AT&T Wireless Servs., 136 Wn.2d 322, 329-30, 962 P.2d 104 (1998))).\nSee Hiatt v. Walker Chevrolet Co., 120 Wn.2d 57, 61-62, 837 P.2d 618 (1992) (stating that \u201cTitle VII of the Civil Rights Act of 1964 is the federal counterpart to our state law\u201d and referring to \u201cfederal and state law against religious discrimination\u201d (emphasis added)); accord Riste v. E. Wash. Bible Camp, Inc., 25 Wn. App. 299, 302, 605 P.2d 1294 (1980) (finding the term \u201ccreed,\u201d as used in the WLAD, to mean \u201ca system of religious beliefs\u201d).\nAge Discrimination in Employment Act of 1967, Pub. L. 90-202, 81 Stat. 602, 603 (1967); 29 U.S.C. \u00a7 623(a).\nAmerican with Disabilities Act of 1990, Pub. L. 101-336, 104 Stat. 327, 331 (1990); 42 U.S.C. \u00a7 12111(a). Before Congress passed the ADA, section 504 of the Rehabilitation Act of 1973 prohibited discrimination on the basis of disability in \u201cany program or activity receiving federal financial assistance.\u201d Pub. L. 93-112, 87 Stat. 357 (1973). The WLAD\u2019s prohibitions on disability discrimination predate the Rehabilitation Act by several months.\n42 U.S.C. \u00a7 2000e-2(a).\nLaws of 1961, ch. 100, \u00a7 1.\nLaws of 1971, 1st Ex. Sess., ch. 81, \u00a7 3.\nLaws of 1973, ch. 141, \u00a7 10.\nLaws of 1973, 1st Ex. Sess., ch. 214, \u00a7 6.\nNote, however, that Title VII afforded employees a private cause of action for discrimination nine years earlier than the WLAD did, and the ADEA five years earlier. 42 U.S.C. \u00a7 2000e-2(a) (creating private cause of action for violation of Title VII); Laws of 1973, ch. 141, \u00a7 3 (creating private cause of action for violation of the WLAD); 29 U.S.C. \u00a7 623(a) (creating private cause of action for violation of ADEA).\nRobel v. Roundup Corp., 148 Wn.2d 35, 44-45, 59 P.3d 611 (2002) (looking to federal cases interpreting Title VII and the ADA to determine whether the WLAD supports a disability claim based on a hostile work environment); Grimwood v. Univ. of Puget Sound, Inc., 110 Wn.2d 355, 361-62, 753 P.2d 517 (1988) (looking to federal cases interpreting the ADEA to determine criteria for establishing an age discrimination claim under the WLAD); Fahn v. Cowlitz County, 93 Wn.2d 368, 376-82, 610 P.2d 857, 621 P.2d 1293 (1980) (looking to federal case law interpreting Title VII to determine the extent of the Human Rights Commission\u2019s authority to prohibit a facially neutral hiring policy with disparate impact on women and applicants of certain national origins).\nSee Brown v. Scott Paper Worldwide Co., 143 Wn.2d 349, 359, 20 P.3d 921 (2001) (noting that the WLAD covers a broader range of employers than does Title VII); Martini v. Boeing Co., 137 Wn.2d 357, 372-73, 971 P.2d 45 (1999) (noting that the WLAD\u2019s express liberal interpretation mandate and greater damages provisions distinguish it from Title VII); Marquis v. City of Spokane, 130 Wn.2d 97, 110-11, 922 P.2d 43 (1996) (finding that the WLAD creates a cause of action for discrimination against independent contractors on the basis of sex, race, national origin, religion, or disability, partly on the basis that the WLAD prohibits discrimination in a broader range of contexts than does Title VII). But see Dailey v. N. Coast Life Ins. Co., 129 Wn.2d 572, 575-76, 919 P.2d 589 (1996) (finding that the WLAD does not incorporate ostensible amendments to Title VII authorizing punitive damages, partly on the basis that Washington courts require express statutory authorization for exemplary damages).\nPub. L. 92-261, 86 Stat. 103 (1972). This requirement appears in Title VII\u2019s definition of \u201creligion,\u201d which has read as follows since the 1972 amendment:\nThe term \u201creligion\u201d includes all aspects of religious observance and practice, as well as belief, unless an employer demonstrates that he is unable to reasonably accommodate to an employee\u2019s or prospective employee\u2019s religious observance or practice without undue hardship on the conduct of the employer\u2019s business.\n42 U.S.C. \u00a7 2000e(j).\n120 Wn.2d at 63 n.6 (citing King v. Iowa Civil Rights Commission, 334 N.W.2d 598, 601-02 (Iowa 1983), Rankins v. Commission on Professional Competence, 24 Cal. 3d 167, 171-74, 593 P.2d 852, 154 Cal. Rptr. 907 (1979), and Wondzell v. Alaska Wood Products, Inc., 583 P.2d 860, 863 (Alaska 1978) as examples of cases finding an implicit reasonable accommodation requirement, and American Motors Corp. v. Department of Industry, Labor & Human Relations, 101 Wis. 2d 337, 345-50, 305 N.W.2d 62 (1981), Olin Corp. v. Illinois Fair Employment Practices Commission, 34 Ill. App. 3d 868, 876, 341 N.E.2d 459 (1976), aff\u2019d, 67 Ill. 2d 466, 367 N.E.2d 1267, 10 Ill. Dec. 501 (1977), and Corey v. Avco-Lycoming Division, Avco Corp., 163 Conn. 309, 322-23, 307 A.2d 155 (1972) as examples of cases finding no such requirement).\nAllison v. Hous. Auth., 118 Wn.2d 79, 821 P.2d 34 (1991) (looking to ADEA to determine criteria for establishing an age discrimination case under the WLAD).\nOliver v. Pac. Nw. Bell Tel. Co., 106 Wn.2d 675, 678, 724 P.2d 1003 (1986) (stating, in racial discrimination case, that \u201cdecisions interpreting [Title VII] are persuasive authority for the construction of [the WLAD]\u201d).\nRobel, 148 Wn.2d at 43 (\u201c[t]o determine whether the [WLAD] supports a disability claim based on a hostile work environment, we may look to federal cases construing analogous federal statutes\u201d such as the ADA (citing Fahn, 93 Wn.2d at 376)).\nSee S. Pac. Transp. Co. v. Commercial Metals Co., 456 U.S. 336, 345, 102 S. Ct. 1815, 72 L. Ed. 2d 114 (1982) (where agency historically engaged in comprehensive regulation of certain industry practices, the agency's silence regarding an affirmative defense based on a violation of those regulations was deemed significant).\nThe HRC also explains that although it has not promulgated a rule expressly requiring employers to accommodate their employees\u2019 religious practices, it has recognized and enforced that requirement through interpretive guides and complaint investigations. Br. of Amicus Curiae HRC at 7-8.\nAss\u2019n of Wash. Bus. v. Dep\u2019t of Revenue, 155 Wn.2d 430, 437, 120 P.3d 46 (2005).\nThe dissent\u2019s conclusion that Holland \u201cgave \u2018great weight\u2019 to an existing administrative regulation\u201d is not accurate. Dissent at 509. While the Holland court cited the existence of implementing regulations as support for its conclusion that the WLAD requires affirmative accommodations for employees with disabilities, those regulations were not essential to the court\u2019s holding. See Holland, 90 Wn.2d at 388-89 (\u201c[The WLAD] contains a strong statement of legislative policy. When, in 1973, the legislature chose to make this policy applicable to discrimination against the handicapped, we believe it is clear it mandated positive steps be taken. An interpretation to the contrary would not work to eliminate discrimination. It would instead maintain the status quo.\u201d (citations omitted) (citing RCW 49.60.010, .030)). The dissent also errs in implying that Holland \u201cdistinguished between religious and disability discrimination\u201d when it recognized an implied cause of action for failure to accommodate disability. Dissent at 509. The Holland court did not distinguish between religious and disability discrimination for purposes of the implied cause of action. Rather, it drew that distinction when rejecting the defendant employer\u2019s suggestion that the court import into the disability discrimination context the \u201cde minimis effort test\u201d applied by the United States Supreme Court in its seminal Title VII religious discrimination case. Holland, 90 Wn.2d at 390. See discussion of Trans World Airlines, Inc. v. Hardison, 432 U.S. 63, 97 S. Ct. 2264, 53 L. Ed. 2d 113 (1977), infra, p. 497.\nIn addition to concluding that the reasonable accommodation requirement was \u201cnot consistent\u201d with Title VII\u2019s \u201cplain language,\u201d the Dewey majority rejected the requirement on constitutional avoidance grounds, worrying that it might be employed to \u201ccoerce or compel an employer to accede to [the] religious beliefs of all of his employees\u201d and concluding that it therefore raised \u201cgrave constitutional questions\u201d under the establishment clause of the First Amendment to the United States Constitution. Dewey, 429 F.2d at 334-35. The majority also rejected the requirement on policy grounds, predicting that employers would be \u201charassed by the filing of many of such claims\u201d if the court were to \u201cequate religious discrimination with failure to accommodate.\u201d Id. at 335.\nSee, e.g., Yott v. N. Am. Rockwell Corp., 501 F.2d 398, 402-03 (1974) (\u201cTh[e] subsequent congressional affirmation strengthens our conclusion about the validity of the [EEOC\u2019s 1967] regulation\u201d), aff\u2019d, 602 F.2d 904 (9th Cir. 1979); Riley v. Bendix Corp., 464 F.2d 1113 (5th Cir. 1972).\nInstead of relying on Fahn, 93 Wn.2d 368, the dissent would rely on Hegwine, 162 Wn.2d at 349-52; dissent at 510, but Hegwine is inapposite. Hegwine rejected the employer\u2019s argument that a pregnancy discrimination claim should be viewed as a disability discrimination claim and analyzed under the \u201creasonable accommodation\u201d standard. 162 Wn.2d at 352. Instead, the Hegwine court applied a sex-discrimination analysis, since \u201cneither pregnancy nor pregnancy related medical conditions are disabilities under Washington law.\u201d Id. This holding was not a general indictment of implied causes of action. Rather, it was a straightforward application of the HRC\u2019s interpretive guidelines, which \u201cplainly provide that claims of employment discrimination because of pregnancy are to be analyzed as matters of sex [as opposed to disability] discrimination.\u201d Id. at 349-50 (\u201cWhile the plain language of [the WLAD] prohibits job discrimination \u2018because of... sex ...\u2019 and does not specifically mention pregnancy, the [ ]HRC has enacted several interpretive regulations that clarify discrimination because of pregnancy is sex discrimination.\u201d (second and third alterations in original)). Indeed, the question presented in Hegwine had nothing to do with implied causes of action. No one argued that the plaintiff had no cause of action in Hegwine \u2014 rather, the parties argued over how that cause of action should be categorized (as sex discrimination or as disability discrimination). Id. at 348-50. Thus, the dissent errs by asserting that \u201cHegwine is our most recent and relevant case addressing whether to imply a failure to accommodate cause of action into the WLAD.\u201d Dissent at 510. Hegwine is simply not on point.\nSee, e.g., Martini, 137 Wn.2d at 372-73; Fahn, 93 Wn.2d at 376-82.\nThe dissent cites ROW 49.60.040(11), which exempts religious nonprofits from liability for employment discrimination under the WLAD, as evidence that \u201cthe legislature has given due consideration to the complexities and implications of legislating in the religious discrimination arena and has chosen not to do so.\u201d Dissent at 507. We respectfully disagree. While the legislature has chosen to exempt religious nonprofits from liability for discrimination under the WLAD, it has not exempted private non-religious-employers like the defendant in this case. The dissent therefore errs in citing ROW 49.60.040(11) as proof that the legislature does not want non-religious-employers to be liable for discrimination.\nIts most recent relevant case declines to reach that question. Ansonia Bd. of Educ. v. Philbrook, 479 U.S. 60, 67, 107 S. Ct. 367, 93 L. Ed. 2d 305 (1986) (declining the petitioner\u2019s invitation to \u201cdelineat[e] the plaintiff\u2019s prima facie case\u201d).\nAn employee need not be at immediate risk of actual firing or demotion to demonstrate threatened or actual discriminatory treatment. See, e.g., Berry, 447 F.3d at 655 (employee established an \u201c \u2018adverse employment action\u2019 \u201d for purposes of prima facie religious accommodation claim where employer \u201c \u2018formally instructed] him not to pray with or proselytize to clients\u2019 \u201d); Equal Emp\u2019t Opportunity Comm\u2019n v. Townley Eng\u2019g & Mfg. Co., 859 F.2d 610, 614 n.5 (9th Cir. 1988) (\u201cAn employee does not cease to be discriminated against because he temporarily gives up his religious practice and submits to the employment policy.\u201d).\nBerry, 447 F.3d at 655 (risk to public employer of violating the establishment clause is an undue hardship).\nE.g., Knight v. Conn. Dep\u2019t of Pub. Health, 275 F.3d 156, 161 (2d Cir. 2001) (Title VII did not require employer to permit nurse to proselytize while providing services).\nE.g., Harrell v. Donahue, 638 F.3d 975, 981 & n.7 (8th Cir. 2011) (accommodation was unreasonable where it would have required other employees to work weekend shifts that they otherwise would have been exempt from under the seniority system); Peterson v. Hewlett-Packard Co., 358 F.3d 599, 608 (9th Cir. 2004) (undue hardships results where accommodation would \u201callow! ] actions that demean or degrade, or are designed to demean or degrade, members of [employer\u2019s] workforce\u201d); Wilson v. U.S. W. Commc\u2019ns, 58 F.3d 1337, 1339-42 (8th Cir. 1995) (employee not entitled to display religiously motivated image that upset and offended fellow employees to the point of disrupting productivity).\nSee McCurry, 169 Wn.2d at 101-03 (rejecting the more stringent federal standard for stating a claim).",
+        "type": "majority",
+        "author": "Gordon McCloud, J."
+      },
+      {
+        "text": "Madsen, C.J. (dissenting)\n\u00b643 I believe that the\nmajority erred by implying a cause of action for religious accommodation into the Washington Law Against Discrimination (WLAD), chapter 49.60 RCW, in the absence of any legislative or administrative directive. Notwithstanding this error, the majority then misapplies this newly created accommodation cause of action to this case. Even assuming a new cause of action, Kumar fails to allege a requisite adverse employment action and therefore fails to state a prima facie case. I respectfully dissent.\nDiscussion\n\u00b644 To begin with, the majority\u2019s decision to imply an accommodation cause of action encroaches on the exclusive law making function of the legislature and in so doing disrupts the delicate balance between the branches of government mandated by the Washington Constitution. Neither the legislature nor any administrative agency has spoken on the issue of religious accommodation, and \u201c[i]t is not the role of the judiciary to second-guess the wisdom\u201d of this inaction. Rousso v. State, 170 Wn.2d 70, 75, 239 P.3d 1084 (2010).\n\u00b645 It is important to remember that a cause of action for discrimination in private employment is based in statute. The legislature included religion as one of many grounds on which to establish a discrimination claim under RCW 49.60.180(1) and directed the Human Rights Commission (HRC) to promulgate rules to implement the purposes of the WLAD. RCW 49.60.110, .120. At the same time, the legislature chose to entirely exempt nonprofit religious institutions from prosecution under the WLAD. RCW 49-.60.040(11). The existence of this exemption is strong evidence that the legislature has given due consideration to the complexities and implications of legislating in the religious discrimination arena and has chosen not to do so, at least for the time being. This decision may reflect caution to regulate in this complex area, a desire to rely on the federal cause of action provided by Title VII of the Civil Rights Act of 1964 (Title VII), a need for more time to fully vet the likely impact of creating an accommodation cause of action, or perhaps deference to the HRC through its rule making authority to do this vetting and to decide whether to engage in rule making. Whatever the reason, the legislature\u2019s decision not to act deserves respect.\n\u00b646 The legislature has given authority to the HRC, not this court, to create specific rules to effect its general intent. RCW 49.60.110 (\u201cThe commission shall formulate policies to effectuate the purposes of this chapter.\u201d), .120(3) (stating that the HRC has the power \u201c[t]o adopt, amend, and rescind suitable rules to carry out the provisions of this chapter\u201d). The HRC has exercised this authority, most notably when it promulgated rules requiring accommodation for persons with disabilities.\n\u00b647 Rule making gives the public notice of proposed rules and an opportunity to comment thereon. Judicial law making of the type engaged in by the majority, alternately, gives no notice to parties and provides no opportunity for public input to help vet the consequences. Instead, the majority imposes a new cause of action and applies it to Gate Gourmet without any prior notice of how it might have conformed its behavior to the law. The HRC has so far declined to exercise their legislative grant of power and has neither recognized nor provided rules establishing an accommodation cause of action as it did in the context of disability discrimination. Agencies are experts in their fields and have the time, resources, and knowledge to make the most informed decisions. Additionally, rule making provides an important opportunity to those most affected to offer critical input. This court should not announce new regulations where the HRC has chosen not to.\n\u00b648 The majority justifies its decision to bypass the HRC by contending that HRC regulations merely interpret preexisting WLAD law rather than create new law. Majority at 495. The majority cites Holland v. Boeing Co., 90 Wn.2d 384, 583 P.2d 621 (1978), for this proposition, reasoning that in Holland the court found an accommodation action in the disability context \u201cinherent\u201d in the WLAD itself. Majority at 495. Though this court in Holland did recognize the compatibility of a disability accommodation claim with the governing policy of WLAD, this court nowhere said such a disability cause of action was \u201cinherent\u201d and preexisting in the WLAD. Holland, 90 Wn.2d at 388-89. In fact, Holland gave \u201cgreat weight\u201d to an existing administrative regulation that had created an accommodation cause of action for disability discrimination. Id. at 389 (\u201cThe regulation, as the construction of the statute by those whose duty it is to administer its terms, is entitled to be given great weight.\u201d). Moreover, Holland emphasized the unique difficulties faced by handicapped individuals in the workplace and even explicitly distinguished between religious and disability discrimination. Id. at 388 (explaining that, in contrast to other forms of discrimination, \u201cdifferent treatment may eliminate discrimination against the handicapped and open the door to employment opportunities\u201d). Because Congress had also recognized the exceptional challenges faced by disabled employees by providing a cause of action separate from Title VII, this court declined to use the Title VII standard for measuring an unfair employment practice in the employment context. Id. at 390 (\u201cCongress recognized, as do we, that discrimination on the basis of handicap is different in many respects from other types of employment discrimination.\u201d). Though collateral to the court\u2019s decision to imply a cause of action for accommodation of disability, the distinction shows the court\u2019s recognition of disability discrimination and religious discrimination as two different bodies of law. The majority\u2019s reliance on Holland is misplaced.\n\u00b649 Instead, this court should heed the teaching of Hegwine v. Longview Fibre Co., 162 Wn.2d 340, 349-52, 172 P.3d 688 (2007), where we declined to imply an accommodation claim for sex discrimination. In Hegwine a woman challenged an employer\u2019s refusal to hire her because she was pregnant, reasoning that the employer was liable for sex discrimination under the WLAD. Id. at 345-48. We noted the legislature\u2019s silence and reasoned that \u201c[i]t is not for this court to impose such an accommodation analysis where the legislature has not seen fit to do so.\u201d Id. at 352. The majority contends that Hegwine is \u201cinapposite\u201d based on a \u201cstraightforward application of the HRC\u2019s interpretive guidelines.\u201d Majority at 500 n.26. Though the Hegwine court did use HRC guidelines to determine that pregnancy fell within the realm of sex rather than disability discrimination, the court went on to hold that the failure to accommodate is not actionable as sex discrimination and declined to imply a cause of action. Whether or not the parties focused on this point is irrelevant; this court reached the issue and chose not to imply an accommodation action. Hegwine is our most recent and relevant case addressing whether to imply a failure to accommodate cause of action into the WLAD, and its reasoning is on point here.\n\u00b650 I also disagree with the majority\u2019s analogy to disparate impact claims as support for implying an accommodation cause of action. The majority reasons that because we have implied a disparate impact cause of action into the WLAD, we can imply a similar religious accommodation cause of action. Majority at 498-501. Contrary to the majority\u2019s contention, I do find a \u201clogical reason\u201d to recognize disparate impact but not accommodation claims in the WLAD. Id. at 500. Unlike religious accommodation, disparate impact is not a \u201ccause of action\u201d but is merely an alternate method of proving discrimination under RCW 49.60.180(1). An employee can prove discrimination by showing actual discriminatory intent or by showing a disparate impact in the absence of intent. A typical discrimination claim, whether proved through treatment or impact, promotes access to employment opportunities for all. Accommodation claims require that the employer not just refrain from discrimination in hiring, firing, and promotion decisions but rather reasonably accommodate employees\u2019 demands for alterations in employment conditions when grounded in bona fide religious belief. The majority cites Fahn v. Cowlitz County, 93 Wn.2d 368, 378, 610 P.2d 857 (1980), to support its proposition that disparate impact is its own cause of action, yet Fahn itself refers to disparate impact and disparate treatment as two \u201cforms\u201d of discrimination. Our disparate impact jurisprudence provides no support for implying an accommodation cause of action into the WLAD.\n\u00b651 Furthermore, though the majority is correct that federal Title VII jurisprudence is relevant to the interpretation of the WLAD, the United States Supreme Court\u2019s decision to recognize a religious accommodation cause of action was motivated by a very different history than its recognition of disparate impact methods of proof. In 1972, Congress created a cause of action for religious accommodation by amending the definition of \u201creligion\u201d in Title VII. 42 U.S.C. \u00a7 2000e(j). The majority credits the employees\u2019 argument that \u201cTitle VII had always imposed a reasonable accommodation duty on the employer and that the 1972 amendment clarified (rather than expanded) that implicit duty ... to reasonably accommodate employees\u2019 religious practices.\u201d Majority at 496. The majority contends that the WLAD must likewise contain an implicit religious accommodation cause of action. But the majority overlooks a crucial fact. Shortly after Congress enacted Title VII, the Equal Employment Opportunity Commission (EEOC) promulgated a rule establishing a religious accommodation cause of action. The EEOC promulgated this rule using their legislatively granted rule making authority to apply the legislative intent of Title VII. So although the Court did recognize an accommodation cause of action before Congress explicitly amended Title VII in 1972, this long standing recognition was supported by a rule crafted by an agency that Congress had granted specific authority to interpret and apply the statute at issue. As addressed above, the HRC, though cloaked with the same authority as the EEOC, never promulgated a rule establishing a religious accommodation cause of action. Unlike the United States Supreme Court, this court has no support, legislative or administrative, for finding an implicit religious accommodation action in the WLAD.\n\u00b652 Even if I agreed with the majority\u2019s decision to imply an accommodation cause of action, I strongly disagree with its application of such a cause of action to these facts. By creating a new accommodation cause of action without any legislative or administrative guidance, this court\u2019s only choice is to create a cause of action identical to the federal Title VII accommodation claim. The majority holds that our new accommodation claim will track the federal equivalent but misapplies the prima facie elements. Federal law requires the existence of a cognizable employment harm to sustain a valid accommodation claim. To state a prima facie case of failure to accommodate under Title VII, the employee must show (1) the employee holds a bona fide religious belief, (2) the employee informed the employer of that belief, and (3) the employee was disciplined for failing to comply with the conflicting employer policy. 2 Charles A. Sullivan et al., Employment Discrimination: Law and Practice 551 (3d ed. 2002). Indeed, this court in Hiatt v. Walker Chevrolet Co., 120 Wn.2d 57, 64-65, 837 P.2d 618 (1992), required actual discharge of the employee in order to satisfy the third prong of a prima facie Title VII accommodation claim.\n\u00b653 Kumar fails to allege discharge or discipline. The Gate Gourmet employees may have held bona fide religious beliefs and did notify their employer of those beliefs, but they did not suffer any sort of punishment, reprimand, threat of punishment, or discharge based on these beliefs. The prima facie requirement of an adverse employment action serves an important purpose in accommodation claims. Private employers are under no constitutional duty to accommodate the religious beliefs of employees, and the requirement of an adverse employment consequence properly limits the statutory accommodation remedy to the most serious cases of employer discrimination.\n\u00b654 Though some cases suggest that actual discharge is not always required, even those cases recognize that there must at the very least be an \u201cimplicit threat\u201d of adverse employment consequences or the existence of constructive discharge. E.g., Berry v. Dep\u2019t of Soc. Servs., 447 F.3d 642, 655 (9th Cir. 2006) (stating that the prima facie elements may be met by showing an implicit threat of adverse employment action); Equal Emp\u2019t Opportunity Comm\u2019n v. Townley Eng\u2019g & Mfg. Co., 859 F.2d 610 (9th Cir. 1988) (addressing constructive discharge in the context of a religious accommodation claim). In a footnote, the majority contends that an \u201cemployee need not be at immediate risk of actual firing or demotion to demonstrate threatened or actual discriminatory treatment.\u201d Majority at 502 n.30. Even following the cases the majority cites, the facts here do not support an adequate prima facie case.\n\u00b655 For example in Berry, 447 F.3d at 655, cited by the majority, the court held that the third prong of the accommodation cause of action was satisfied because \u201c \u2018the employer, at least implicitly, threatened some adverse action by formally instructing [the employee] not to pray or proselytize to clients.\u2019 \u201d Kumar does not come close to showing an \u201cimplicit threat\u201d because the petitioners were never reprimanded, threatened, or \u201cinstructed.\u201d There is no evidence that the Kumar employees would have faced any adverse employment action.\n\u00b656 The majority also quotes Townley for the proposition that \u201c[a]n employee does not cease to be discriminated against because he temporarily gives up his religious practice and submits to the employment policy.\u201d 859 F.2d at 614 n.5; majority at 502 n.30. Though an accurate quotation, the majority overlooks the fact that Townley was a constructive discharge case where the employee was so offended by the employer\u2019s requirement to attend weekly religious services that he felt compelled to quit his job. Townley, 859 F.2d at 612. The Gate Gourmet employees, in contrast, were not moved to quit. Townley does not support the majority\u2019s position.\n\u00b657 In short, I disagree with the majority\u2019s decision to create out of whole cloth a new cause of action for failure to accommodate without any suggestion that the legislature or the HRC intended to provide such a claim. Moreover, Title VII requires some form of actual or threatened adverse employment action to meet the third prong of a prima facie accommodation claim. The majority is wrong to suggest otherwise. Under any reasonable definition of a prima facie case, Kumar failed to allege the requisite employment harm. Thus, even if this court implies an accommodation cause of action into the WLAD, Kumar cannot state a prima facie case.\n\u00b658 I respectfully dissent.\nC. Johnson and Owens, JJ., and J.M. Johnson, J. Pro Tem., concur with Madsen, C.J.\nWe recently rejected a facial challenge to the constitutionality of this exemption in Ockletree v. Franciscan Health System, 179 Wn.2d 769, 317 P.3d 1009 (2014).\nPub. L. 88-352, 78 Stat. 241 (1964); 42 U.S.C. \u00a7 2000e-2(a).",
+        "type": "dissent",
+        "author": "Madsen, C.J. (dissenting)"
+      }
+    ],
+    "attorneys": [
+      "Aaron V. Rocke, D. James Davis, and Mark Symington (of Rocke Law Group PLLC)-, and Seth A. Rosenberg (of Rosenberg Law Group PLLC), for appellants.",
+      "Pamela H. Salgado and Rachelle L. Wills (of Littler Mendelson PC) (S. Shane Sagheb of Epstein Becker Green PC, of counsel), for respondent.",
+      "George M. Ahrend and Bryan P. Harnetiaux on behalf of Washington State Association for Justice Foundation, amicus curiae.",
+      "Tana Lin, Benjamin B. Gould, and Janet S. Chung on behalf of Legal Voice, amicus curiae.",
+      "Jeffrey L. Needle and Jesse A. Wing on behalf of Washington Employment Lawyers Association and American Civil Liberties Union of Washington, amici curiae.",
+      "Robert W. Ferguson, Attorney General, and Stacia E. Hollar and Sharon M. Payant James, Assistants, on behalf of the Washington State Human Rights Commission, amicus curiae."
+    ],
+    "corrections": "",
+    "head_matter": "[No. 88062-0.\nEn Banc.]\nArgued October 22, 2013.\nDecided May 22, 2014.\nJames Kumar et al., Appellants, v. Gate Gourmet, Inc., Respondent.\nAaron V. Rocke, D. James Davis, and Mark Symington (of Rocke Law Group PLLC)-, and Seth A. Rosenberg (of Rosenberg Law Group PLLC), for appellants.\nPamela H. Salgado and Rachelle L. Wills (of Littler Mendelson PC) (S. Shane Sagheb of Epstein Becker Green PC, of counsel), for respondent.\nGeorge M. Ahrend and Bryan P. Harnetiaux on behalf of Washington State Association for Justice Foundation, amicus curiae.\nTana Lin, Benjamin B. Gould, and Janet S. Chung on behalf of Legal Voice, amicus curiae.\nJeffrey L. Needle and Jesse A. Wing on behalf of Washington Employment Lawyers Association and American Civil Liberties Union of Washington, amici curiae.\nRobert W. Ferguson, Attorney General, and Stacia E. Hollar and Sharon M. Payant James, Assistants, on behalf of the Washington State Human Rights Commission, amicus curiae."
+  },
+  "file_name": "0481-01",
+  "first_page_order": 545,
+  "last_page_order": 578
+}

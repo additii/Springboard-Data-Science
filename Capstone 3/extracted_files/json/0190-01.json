@@ -1,0 +1,74 @@
+{
+  "id": 1396958,
+  "name": "Blankenship v. State",
+  "name_abbreviation": "Blankenship v. State",
+  "decision_date": "1928-10-29",
+  "docket_number": "",
+  "first_page": "190",
+  "last_page": "191",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "178 Ark. 190"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [
+    {
+      "cite": "281 S. W. 11",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "170 Ark. 790",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 164,
+    "char_count": 1833,
+    "ocr_confidence": 0.493,
+    "sha256": "d92680c0f2d9de652c2c202c0aa878307df3b22301ce69656de2b3a38eb2cac7",
+    "simhash": "1:02986c74cbd58e02",
+    "word_count": 330
+  },
+  "last_updated": "2024-02-27T17:49:07.238160+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Blankenship v. State."
+    ],
+    "opinions": [
+      {
+        "text": "Kirby, J.\nThis appeal is prosecuted from a conviction for having in possession a still.\nThe officers testified that they had the still under surveillance, being concealed near it, \u00a1and that appellant and his companion appeared about 7 o\u2019clock, and moved some wood back and began to dip water out of the branch and pour it into the mash barrels. Two barrels of mash had been run and the mash in two more was ready to run, and the still was warm from the last run, which must have been made that .night. The boys were filling up the two barrels with more water. Appellant unscrewed the connection and let the refuse run out of the pot, and in carrying it away discovered the officers, and ran. The still was on his grandmother\u2019s place, in the pasture, and he said that he had discovered it before, and that he was down there that morning putting the water in the mash to keep the cows from eating the shorts, under the instruction of his grandmother, who had lost a yearling from eating mash at a still. Said he did not own the still and the mash, and had no control over it, and ran away when he saw the officers because he was frightened.\nHe was found present at the still, which was yet warm from the last run made, and making- the necessary preparations for making another run, and ran away upon ascertaining that his presence was discovered. The testimony is sufficient to support the charge that appellant was in possession of the still, the proof of ownership not being necessary. Day v. State., 170 Ark. 790, 281 S. W. 11.\nNo error was assigned- as to the admission and exclusion of testimony, and the court correctly declared the law. The judgment must be affirmed, and it is so ordered.",
+        "type": "majority",
+        "author": "Kirby, J."
+      }
+    ],
+    "attorneys": [
+      "H. W. Applegate, Attorney General, and John L. Carter, Assistant, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Blankenship v. State.\nOpinion delivered October 29, 1928.\nH. W. Applegate, Attorney General, and John L. Carter, Assistant, for appellee."
+  },
+  "file_name": "0190-01",
+  "first_page_order": 208,
+  "last_page_order": 209
+}

@@ -1,0 +1,512 @@
+{
+  "id": 1428211,
+  "name": "Washington National Insurance Company v. Martin",
+  "name_abbreviation": "Washington National Insurance v. Martin",
+  "decision_date": "1933-12-04",
+  "docket_number": "4-3221",
+  "first_page": "306",
+  "last_page": "312",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "188 Ark. 306"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [
+    {
+      "cite": "28 N. W. 607",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "70 Iowa 693",
+      "category": "reporters:state",
+      "reporter": "Iowa",
+      "case_ids": [
+        8651181
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/iowa/70/0693-01"
+      ]
+    },
+    {
+      "cite": "14 S. W. Rep. 485",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "165 N. W. 474",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "138 Minn. 424",
+      "category": "reporters:state",
+      "reporter": "Minn.",
+      "case_ids": [
+        170832
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/minn/138/0424-01"
+      ]
+    },
+    {
+      "cite": "197 N. W. 957",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "11 Neb. 855",
+      "category": "reporters:state",
+      "reporter": "Neb.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "98 N. W. 227",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.",
+      "weight": 2,
+      "opinion_index": 0
+    },
+    {
+      "cite": "120 Wis. 456",
+      "category": "reporters:state",
+      "reporter": "Wis.",
+      "case_ids": [
+        8702648
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/wis/120/0456-01"
+      ]
+    },
+    {
+      "cite": "20 Am. St. Rep. 281",
+      "category": "reporters:state",
+      "reporter": "Am. St. Rep.",
+      "weight": 2,
+      "opinion_index": 0
+    },
+    {
+      "cite": "24 Pac. 333",
+      "category": "reporters:state_regional",
+      "reporter": "P.",
+      "weight": 2,
+      "opinion_index": 0
+    },
+    {
+      "cite": "14 Colo. 499",
+      "category": "reporters:state",
+      "reporter": "Colo.",
+      "case_ids": [
+        2543916
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/colo/14/0499-01"
+      ]
+    },
+    {
+      "cite": "38 N. W. 216",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.",
+      "weight": 2,
+      "opinion_index": 0
+    },
+    {
+      "cite": "70 Mich. 199",
+      "category": "reporters:state",
+      "reporter": "Mich.",
+      "case_ids": [
+        1368397
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/mich/70/0199-01"
+      ]
+    },
+    {
+      "cite": "77 N. W. 426",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "74 Minn. 530",
+      "category": "reporters:state",
+      "reporter": "Minn.",
+      "case_ids": [
+        1689216
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/minn/74/0530-01"
+      ]
+    },
+    {
+      "cite": "18 Am. St. Rep. 549",
+      "category": "reporters:state",
+      "reporter": "Am. St. Rep.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "13 S. W. 753",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "100 Mo. 400",
+      "category": "reporters:state",
+      "reporter": "Mo.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "31 Atl. 1087",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "168 Pa. 234",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        868556
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/168/0234-01"
+      ]
+    },
+    {
+      "cite": "57 Pac. 524",
+      "category": "reporters:state_regional",
+      "reporter": "P.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "60 Kan. 630",
+      "category": "reporters:state",
+      "reporter": "Kan.",
+      "case_ids": [
+        1117277
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/kan/60/0630-01"
+      ]
+    },
+    {
+      "cite": "18 Pac. 291",
+      "category": "reporters:state_regional",
+      "reporter": "P.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "39 Kan. 396",
+      "category": "reporters:state",
+      "reporter": "Kan.",
+      "case_ids": [
+        1129874
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/kan/39/0396-01"
+      ]
+    },
+    {
+      "cite": "82 N. W. 494",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "28 N. W. 47",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "68 Iowa 737",
+      "category": "reporters:state",
+      "reporter": "Iowa",
+      "case_ids": [
+        2048568
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/iowa/68/0737-01"
+      ]
+    },
+    {
+      "cite": "34 N. E. 830",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "7 Ind. App. 586",
+      "category": "reporters:state",
+      "reporter": "Ind. App.",
+      "case_ids": [
+        2391363
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ind-app/7/0586-01"
+      ]
+    },
+    {
+      "cite": "37 N. E. 584",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "138 Ind. 636",
+      "category": "reporters:state",
+      "reporter": "Ind.",
+      "case_ids": [
+        1608426
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ind/138/0636-01"
+      ]
+    },
+    {
+      "cite": "26 N. E. 1082",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "127 Ind. 536",
+      "category": "reporters:state",
+      "reporter": "Ind.",
+      "case_ids": [
+        1392330
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ind/127/0536-01"
+      ]
+    },
+    {
+      "cite": "69 Fed. 71",
+      "category": "reporters:federal",
+      "reporter": "F.",
+      "case_ids": [
+        3788346
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f/69/0071-01"
+      ]
+    },
+    {
+      "cite": "16 C. C. A. 136",
+      "category": "reporters:federal",
+      "reporter": "C.C.A.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "64 S. W. 758",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "107 Tenn. 371",
+      "category": "reporters:state",
+      "reporter": "Tenn.",
+      "case_ids": [
+        8536556
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/tenn/107/0371-01"
+      ]
+    },
+    {
+      "cite": "97 Am. St. Rep. 532",
+      "category": "reporters:state",
+      "reporter": "Am. St. Rep.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "93 N. W. 608",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "88 Minn. 423",
+      "category": "reporters:state",
+      "reporter": "Minn.",
+      "case_ids": [
+        1679177
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/minn/88/0423-01"
+      ]
+    },
+    {
+      "cite": "18 Atl. 447",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "128 Pa. 553",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        567095
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/128/0553-01"
+      ]
+    },
+    {
+      "cite": "11 S. W. 1016",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "52 Ark. 11",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1913361
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/52/0011-01"
+      ]
+    },
+    {
+      "cite": "41 S. W. 1093",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "64 Ark. 257",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "25 S. W. 835",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "58 Ark. 529",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "99 S. W. 84",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "81 Ark. 296",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1530623
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/81/0296-01"
+      ]
+    },
+    {
+      "cite": "5 S. W. (2d) 732",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "177 Ark. 97",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        8718888
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/177/0097-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 456,
+    "char_count": 6112,
+    "ocr_confidence": 0.492,
+    "pagerank": {
+      "raw": 4.89950402824256e-08,
+      "percentile": 0.3074553767420417
+    },
+    "sha256": "3c8a23558220b62135b9ed200830b146e3c2f438026212b2f82afff4791d2536",
+    "simhash": "1:8168b6c242281572",
+    "word_count": 1135
+  },
+  "last_updated": "2024-02-27T23:51:14.545434+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Washington National Insurance Company v. Martin."
+    ],
+    "opinions": [
+      {
+        "text": "Kirby, J.,\n(after stating the facts). Appellant insists that, since a purported copy of the application was attached to the policy and delivered to the insured, and retained in his possession from the time of the delivery thereof until the trial of the case, without any complaint being made by him to the company of the incorrectness of the answers in the application, that, by reason of these facts, he is bound by the answers contained therein, as though they had been true, because of his failure to complain within a reasonable time of their incorrectness and untruthfulness, and notify the company thereof, and by accepting the policy, and is precluded from rescinding same or denying that it did not conform to his application ; and cites in support thereof the case of Inter-State Southern Life Ins. Co. v. Holzhouer, 177 Ark. 97, 5 S. W. (2d) 732.\nThe above case is quite different from the one at bar, the insured there bringing an action to reform the policy, alleging that it did not contain certain clauses and agreements that the agent who had written the policy assured him would be in it, and the suit to reform the policy was brought after the lapse of 4 months after its issuance, to add something to the policy which it did not contain.\nIn this case, the answers to the questions in the application claimed to constitute false representations and warranties were not written or made by Martin, but by the company\u2019s agent, Cross. Martin had only had the policy in his possession 8 days before he sustained the injury, which is the basis of this action. Cross knew of the injury within a short time after it happened, and accepted Martin\u2019s proof of loss.\nIn Remmel v. Griffin, 81 Ark. 296, 99 S. W. 84, this court said: \u201cIt was his duty to examine the policy in a reasonable time after he received it \u2014 that is, in such time as he could have done so \u2014 and, if he rejected it, to so inform the insurance company or its agent, and, failing to do so, he is deemed to have accepted it. After such acceptance, he cannot avoid the payment of his note on the ground that he did not read the policy, unless he was induced by the insurance company or its agent not to do so.\u201d\nThere is no question here of a failure to accept the policy as in the Griffin case, or a failure to accept it within a reasonable time, as the injury occurred within 8 days after the delivery of the policy, and, although the undisputed testimony shows that the answers in the application as appeared on the purported copy attached to the policy were false and may have constituted false representations and warranties that might have voided the policy, it is also true that the undisputed proof shows that this application was not signed by the insured, who testified that he had not made any such representations and warranties, but stated the truth to the agent, who procured the application, and same were falsely written by him without the knowledge or consent of the applicant. It was also shown that insured did not read his policy, was not aware of the false answers inserted therein by the company\u2019s agent, and, of course, was not bound thereby; and the company is estopped to set up such false answers and representations in avoidance of the policy. Providence Life Ins. Co. v. Reutlinger, 58 Ark. 529, 25 S. W. 835; Southern Insurance Co. v. Hastings, 64 Ark. 257, 41 S. W. 1093; Insurance Co. v. Brodie, 52 Ark. 11, 11 S. W. 1016; Kister v. Lebanon Mutual Ins. Co., 128 Pa. 553, 18 Atl. 447, 5 L. R. A. (Pa.) 646; Otte v. Hartford Life Ins. Co., 88 Minn. 423, 93 N. W. 608, 97 Am. St. Rep. 532; Bennett v. Massachusetts Mutual Life Ins. Co., 107 Tenn. 371, 64 S. W. 758.\nThe insured has done his duty in the premises when he imparts to the agent the requisite truthful information to enable him to write the answers correctly in the application in conformity to the information given him, and the insured had the right to rely upon his performing that duty, and his failure to do so, whether the result of a mistake or a deliberate fraud, cannot operate to prejudice the insured. Fireman\u2019s Fund Ins. Co. v. Norwood, 16 C. C. A. 136, 32 U. S. Appeals 490, 69 Fed. 71; Germania Life Ins. Co. v. Lunkenheimer, 127 Ind. 536, 26 N. E. 1082; Michigan Mutual Life Ins. Co. v. Leon, 138 Ind. 636, 37 N. E. 584; Howe v. Providence Fund Society, 7 Ind. App. 586, 34 N. E. 830; Stone v. Hawkeye Ins. Co., 68 Iowa 737, 28 N. W. 47; Dryer v. Security Fire Ins. Co., 82 N. W. 494; Continental Ins. Co. v. Pearce, 39 Kan. 396, 18 Pac. 291, 7 Am. St. 557; Kansas Mill Owners\u2019 & Mfrs. Mutual Fire Ins. Co. v. Central National Bank, 60 Kan. 630, 57 Pac. 524; Dowling v. Merchants\u2019 Ins. Co., 168 Pa. 234, 31 Atl. 1087; Cottrill v. Krum, 100 Mo. 400, 13 S. W. 753, 18 Am. St. Rep. 549; McCarty v. New York Life Ins. Co., 74 Minn. 530, 77 N. W. 426; Baker v. Ohio Farmers\u2019 Ins. Co., 70 Mich. 199, 38 N. W. 216; State Ins. Co. v. Taylor, 14 Colo. 499, 24 Pac. 333, 20 Am. St. Rep. 281; Welsh v. Fire Association of Philadelphia, 120 Wis. 456, 98 N. W. 227.\nThe fact that a purported copy of the application was attached to the policy and retained hy the insured upon its delivery does not of itself as a matter of law charge him with knowledge of the misrepresentations wrongfully written therein by the company\u2019s agent, or estop the beneficiary from showing that they were not in fact made by the insured. Busboom v. Capital F. Ins. Co., 11 Neb. 855, 197 N. W. 957; Olsson v. Midland Ins. Co., 138 Minn. 424, 165 N. W. 474; Welch v. Fire Ass\u2019n of Phila., 120 Wis. 456, 98 N. W. 227; Baker v. Ohio F. Ins. Co., 70 Mich. 199, 38 N. W. 216, 14 S. W. Rep. 485; State Ins. Co. v. Taylor, 14 Colo. 499, 24 Pac. 333, 20 Am. St. Rep. 281; and Donnelly v. Cedar Rapids Ins. Co., 70 Iowa 693, 28 N. W. 607.\nWe do not find that the court erred in the assessment of the penalty and attorney\u2019s fee, nor any other prejudicial error in the record, and the judgment is affirmed.",
+        "type": "majority",
+        "author": "Kirby, J.,"
+      }
+    ],
+    "attorneys": [
+      "George W. Emerson, for appellant.",
+      "Fred A. Isgrig and Harry Robinson, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Washington National Insurance Company v. Martin.\n4-3221\nOpinion delivered December 4, 1933.\nGeorge W. Emerson, for appellant.\nFred A. Isgrig and Harry Robinson, for appellee."
+  },
+  "file_name": "0306-01",
+  "first_page_order": 324,
+  "last_page_order": 330
+}

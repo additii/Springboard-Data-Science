@@ -1,0 +1,76 @@
+{
+  "id": 12462844,
+  "name": "Grabicki, Respondent, v. Bays et al., Petitioners",
+  "name_abbreviation": "Grabicki v. Bays",
+  "decision_date": "2016-09-28",
+  "docket_number": "No. 93215-8",
+  "first_page": "1013",
+  "last_page": "1013",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "186 Wash. 2d 1013"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Wash.",
+    "id": 9029,
+    "name": "Washington Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 38,
+    "name_long": "Washington",
+    "name": "Wash."
+  },
+  "cites_to": [
+    {
+      "cite": "193 Wn. App. 104",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        12449887
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/193/0104-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 29,
+    "char_count": 201,
+    "ocr_confidence": 0.849,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.25766193318606606
+    },
+    "sha256": "85f72e8d050e23cb8d02856999a6c857396965a06b578bb0dd5bfff704c02a8e",
+    "simhash": "1:8f96e231219dccd8",
+    "word_count": 33
+  },
+  "last_updated": "2024-02-27T18:43:05.207238+00:00",
+  "provenance": {
+    "date_added": "2019-05-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Grabicki, Respondent, v. Bays et al., Petitioners,"
+    ],
+    "opinions": [
+      {
+        "text": "Petition for review of a decision of the Court of Appeals, No. 32336-6-III, March 29, 2016, 193 Wn. App. 104. Denied September 28, 2016.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Grabicki, Respondent, v. Bays et al., Petitioners,\nNo. 93215-8."
+  },
+  "file_name": "1013-01",
+  "first_page_order": 999,
+  "last_page_order": 999
+}

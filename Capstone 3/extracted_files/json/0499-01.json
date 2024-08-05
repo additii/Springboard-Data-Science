@@ -1,0 +1,434 @@
+{
+  "id": 1357181,
+  "name": "Jefferson Standard Life Insurance Company v. Smith",
+  "name_abbreviation": "Jefferson Standard Life Insurance v. Smith",
+  "decision_date": "1923-03-12",
+  "docket_number": "",
+  "first_page": "499",
+  "last_page": "503",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "157 Ark. 499"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [
+    {
+      "cite": "140 Ark. 197",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "108 Ark. 511",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1342250
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/108/0511-01"
+      ]
+    },
+    {
+      "cite": "130 Ark. 257",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        8719400
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/130/0257-01"
+      ]
+    },
+    {
+      "cite": "180 Ind. 335",
+      "category": "reporters:state",
+      "reporter": "Ind.",
+      "case_ids": [
+        1533614
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ind/180/0335-01"
+      ]
+    },
+    {
+      "cite": "84 Neb. 422",
+      "category": "reporters:state",
+      "reporter": "Neb.",
+      "case_ids": [
+        579007
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/neb/84/0422-01"
+      ]
+    },
+    {
+      "cite": "21 Ark. 85",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1868309
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/21/0085-01"
+      ]
+    },
+    {
+      "cite": "25 Ark. 261",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1864507
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/25/0261-01"
+      ]
+    },
+    {
+      "cite": "25 Ark. 625",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1864548
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/25/0625-01"
+      ]
+    },
+    {
+      "cite": "105 Ark. 519",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "97 Ark. 522",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1318775
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/97/0522-01"
+      ]
+    },
+    {
+      "cite": "90 Ark. 256",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1513865
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/90/0256-01"
+      ]
+    },
+    {
+      "cite": "90 Ark. 88",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1513803
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/90/0088-01"
+      ]
+    },
+    {
+      "cite": "84 Ark. 431",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1524479
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/84/0431-01"
+      ]
+    },
+    {
+      "cite": "129 Fed. 207",
+      "category": "reporters:federal",
+      "reporter": "F.",
+      "case_ids": [
+        3851964
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f/129/0207-01"
+      ]
+    },
+    {
+      "cite": "79 N. W. 202",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "120 N. W. 963",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "137 Ark. 374",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "90 Ark. 482",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1513792
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/90/0482-01"
+      ]
+    },
+    {
+      "cite": "96 Ark. 495",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1542027
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/96/0495-01"
+      ]
+    },
+    {
+      "cite": "6 A. L. R. 441",
+      "category": "reporters:specialty",
+      "reporter": "A.L.R.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "48 L. R. A. (N. S.) 265",
+      "category": "reporters:federal",
+      "reporter": "L.R.A.N.S.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "12 L. R. A. (N. S.) 881",
+      "category": "reporters:federal",
+      "reporter": "L.R.A.N.S.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "32 L. R. A. (N. S.) 298",
+      "category": "reporters:federal",
+      "reporter": "L.R.A.N.S.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "95 Ark. 621",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "34 Ark. 410",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1875678
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/34/0410-01"
+      ]
+    },
+    {
+      "cite": "37 Ark. 164",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1870916
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/37/0164-01"
+      ]
+    },
+    {
+      "cite": "20 Ark. 424",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1869326
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/20/0424-01"
+      ]
+    },
+    {
+      "cite": "77 Ark. 582",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1499086
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/77/0582-01"
+      ]
+    },
+    {
+      "cite": "14 Ark. 360",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1862670
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/14/0360-01"
+      ]
+    },
+    {
+      "cite": "6 Ark. 79",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        8726638
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/6/0079-01"
+      ]
+    },
+    {
+      "cite": "34 Ark. 188",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1875646
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/34/0188-01"
+      ]
+    },
+    {
+      "cite": "77 Ark. 148",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1499056
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/77/0148-01"
+      ]
+    },
+    {
+      "cite": "126 Ark. 105",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1551793
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/126/0105-01"
+      ]
+    },
+    {
+      "cite": "88 Ark,. 153",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1517153
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/88/0153-01"
+      ]
+    },
+    {
+      "cite": "41 Atl. 970",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "62 Ark. 562",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1905649
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/62/0562-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 484,
+    "char_count": 7004,
+    "ocr_confidence": 0.511,
+    "pagerank": {
+      "raw": 2.3352800467177912e-07,
+      "percentile": 0.7915635235876686
+    },
+    "sha256": "a704cde8b26ad51e69d18324e33fa853726dec0eb92eccddb8c3eb4ab93af995",
+    "simhash": "1:b5c1e0404283ed0a",
+    "word_count": 1212
+  },
+  "last_updated": "2024-02-27T20:13:54.858580+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Jefferson Standard Life Insurance Company v. Smith."
+    ],
+    "opinions": [
+      {
+        "text": "Smith, J.\nOn April 15,1920, the appellant insurance company issued and delivered to appellee :Smith, as beneficiary, a policy of insurance for one thousand dollars on the life of Smith\u2019s wife. The application for the policy of insurance contained certain answers to questions which, by the recitals of the application, were declared to be material by the company in determining whether or not a policy would issue, and, among others, that the applicant had never suffered from any ailment or disease of the skin. The policy, when issued, contained an incontestable one-year clause reading as follows: \u201cAfter this policy shall be in force for one full year from the date hereof, it shall be incontestable for any-cause except for nonpayment of premiums.\u201d\nThe insured died on March 5, 1921, and on April 13, 1921, the company brought suit in the chancery court to cancel the policy on the ground that its issuance had been procured by the fraud of the insured, in that she had suffered from a disease of the skin, to-wit., pellagra, but had falsely and fraudulently denied that fact in her application.\nIt will be observed that the suit to cancel was brought two days before the expiration of the year after the issuance of the policy, but slightly more than a month after the death of the insured, as the suit on the policy was commenced June 30, 1921.\nThe chancery court transferred the suit to cancel to the circuit court, over the company\u2019s objection, and it was there consolidated with the suit on the policy, to which action the company also objected and excepted.\nAt the trial of the cause conflicting testimony was offered as to whether Mrs. Smith had pellagra, and as to her answers made to the examining physician in regard thereto, but at the conclusion of all the testimony the court directed the jury to return a verdict for the beneficiary, on the ground that a year had expired before the suit thereon was brought. Judgment was rendered accordingly, and the company has appealed.\nInstead of transferring the suit to cancel the policy to the circuit court, that suit should have been dismissed, for the reason that the death of the insured fixed the rights and liabilities of both the insurer and the insured'. Joyce on Insurance, \u00a7 1650b; American Employers\u2019 Liability Ins. Co. v. Fordyce, 62 Ark. 562; Porter v. Mutual Life Ins. Co. of N. Y., 41 Atl. 970.\nBut, inasmuch as the insured died before the year had expired, the incontestable clause did not apply, and the fact that the suit was not brought until after the first anniversary of the policy is unimportant, for, as we have said, the rights and liabilities of the 'parties under the insurance contract had been fixed by the death of the insured.\nThe court should not therefore have directed a verdict, but should have submitted the question of the alleged breach of the warranty, the law of which question has been announced in many cases.\nFor the error indicated the judgment is reversed, and the cause remanded for a new trial.",
+        "type": "majority",
+        "author": "Smith, J."
+      }
+    ],
+    "attorneys": [
+      "Fuhr & Futrall, for appellant.",
+      "Jeff Bratton, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Jefferson Standard Life Insurance Company v. Smith.\nOpinion delivered March 12, 1923.\n1. Insurance \u2014 suit to cancel policy after insured\u2019s death. \u2014 A suit brought after insured\u2019s death to cancel the policy for fraudulent representations in the application should have been dismissed, though brought within the contestable period named in the policy, instead of being transferred .to a court of law for consolidation with a subsequent action on the policy begun after the expiration of such period, as the death of insured fixed the rights and liabilities of the parties.\n2. Insurance \u2014 incontestable clause. \u2014 Where insured died within a year after issuance of a policy containing a one-year incontestable clause, the latter clause did not apply, and it was error to direct a verdict upon the ground that the action on the policy was brought after the year had expired.\nAppeal from Greene Circuit Court, First Division; W. W. Bandy, Judge;\nreversed.\nFuhr & Futrall, for appellant.\nWhen courts have concurrent jurisdiction the first to take acquires exclusive jurisdiction. If circuit court had jurisdiction, it erred in not submitting issues of fact stated in complaint in equity to jury. Dunbar v. Bourlaoid, 88 Ark,. 153. Chancery court first acquired jurisdiction, which became exclusive. 1 Pomeroy Equity Jurisprudence, \u00a7\u00a7 138, 177; Manilla Supply Co. v. Tiger Bros., 126 Ark. 105; Dunbar v. Bourland, 88 Ark. 153; Kastor v. Elliott,, 77 Ark. 148.; Devers v. State, 34 Ark. 188; B-ently v. Dillard) 6 Ark. 79; Conway v. Ellison, 14 Ark. 360, and cases in Crawford\u2019s Ark. Digest, \u00a7 16, 'p. 1865,1920 Supp., pp. 231-2. Jurisdiction is right to hear and determine, and must be tested by allegations of complaint. Rose v. Christinet, 77 Ark. 582, Const. 1874, Chancery Courts; Belloios v. Cheek, 20 Ark. 424; Ry. v. Perry, 37 Ark. 164; Estes v. Martin, 34 Ark. 410. Court erred in consolidating oases and directing verdict. Case\u2019not properly transferred to law court under \u00a7 6156, C. & M. Dig.; Hester v. Bourland, 80 Ark. .145; 95 Ark. 621. Some cases hold remedy by cancellation available, but chancery should not take jurisdiction when remedy at law adequate. Rankin v. Amazon Ins. Co., 23 A. S. R. 462; Metropolitan Life Ins. Co. v. Freedman, 32 L. R. A. (N. S.) 298; 12 L. R. A. (N. S.) 881 and case note; 48 L. R. A. (N. S.) 265. Allegations of complaint warranted cancellation of policy. Incontestable clause bars all defenses to policy in suit brought one year after date. Metropolitan Life Ins, Co. v. Peeler, 6 A. L. R. 441, case note p. 448. National Annuity Association v. Carter, 96 Ark. 495. Also 14 R. C. L. 1199. ' Chancery court erred in transferring case, and circuit court in consolidating. C. & M. Dig., \u00a7 1076.\nJeff Bratton, for appellee.\nNo exceptions saved to order consolidating' causes. 90 Ark. 482. Suit on policy within jurisdiction-of law not chancery court. C. & M. Digest, \u00a7 6156. Question of misrepresentation, false answers, for jury. 137 Ark. 374:; Calle v. U. S. Ufe Ins. Co., 191 TJ. S. 288. No cancellation of policy for fraud in procurement after loss occurs. 9 C. J. 1173; Cable v. TJ. 8. Life Ins. Co., 191 IT. S. 288; Shandhon v. Illinois Life Ins. Co., 100 111. A281; Biermann v. Guaranty Mut. Life Ins. Co., (Iowa) 120 N. W. 963; Globe Mid. Life Ins. Co. v. Beals, 79 N. W. 202; Bes Moines L. Ins. Co. v. Seifer, 112 111. A. 277; Biggs v. Union Ufe Ins. Co., 129 Fed. 207. Policy construed most strongly .against insurer. 84 Ark. 431; 90 Ark. 88; 90 Ark. 256; 97 Ark. 522; 105 Ark. 519. Law providing trial hy jury part of policy, \u00a7 6156, O. & M. Dig.; 13 C. J. 560; 25 Ark. 625; 25 Ark. 261; 21 Ark. 85; 58 S, 994, 113 111. A. 140; 84 Neb. 422; 180 Ind. 335. False statement not alleged part of contract of insurance. Flake v. Hill, 130 Ark. 257; Hubbert v. ill. P. By. Co., 136 Ark. 18\u00a18. Agent taking application was fully informed.of insured\u2019s previous ailments, and company bound by his knowledge. 108 Ark. 511; Walker v. III. Bankers\u2019 Ufe, 140 Ark. 197."
+  },
+  "file_name": "0499-01",
+  "first_page_order": 521,
+  "last_page_order": 525
+}

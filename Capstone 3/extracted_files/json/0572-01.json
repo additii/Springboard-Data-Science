@@ -1,0 +1,201 @@
+{
+  "id": 6793219,
+  "name": "In the Matter of the Personal Restraint of Robert Lee Yates, Jr., Petitioner",
+  "name_abbreviation": "In re the Personal Restraint of Yates",
+  "decision_date": "2015-07-09",
+  "docket_number": "No. 89792-1",
+  "first_page": "572",
+  "last_page": "577",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "183 Wash. 2d 572"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Wash.",
+    "id": 9029,
+    "name": "Washington Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 38,
+    "name_long": "Washington",
+    "name": "Wash."
+  },
+  "cites_to": [
+    {
+      "cite": "466 P.2d 508",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1970,
+      "opinion_index": 0
+    },
+    {
+      "cite": "77 Wn.2d 649",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1076405
+      ],
+      "year": 1970,
+      "pin_cites": [
+        {
+          "page": "653"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/77/0649-01"
+      ]
+    },
+    {
+      "cite": "322 P.3d 1207",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2014,
+      "pin_cites": [
+        {
+          "parenthetical": "quoting In re Rights to Waters of Stranger Creek, 77 Wn.2d 649, 653, 466 P.2d 508 (1970)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "180 Wn.2d 54",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4241959
+      ],
+      "year": 2014,
+      "pin_cites": [
+        {
+          "page": "66",
+          "parenthetical": "quoting In re Rights to Waters of Stranger Creek, 77 Wn.2d 649, 653, 466 P.2d 508 (1970)"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/180/0054-01"
+      ]
+    },
+    {
+      "cite": "868 P.2d 835",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "weight": 2,
+      "year": 1994,
+      "opinion_index": 0
+    },
+    {
+      "cite": "123 Wn.2d 296",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        812805
+      ],
+      "year": 1994,
+      "pin_cites": [
+        {
+          "page": "319-20"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/123/0296-01"
+      ]
+    },
+    {
+      "cite": "296 P.3d 872",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2013,
+      "opinion_index": 0
+    },
+    {
+      "cite": "177 Wn.2d 1",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4131315
+      ],
+      "year": 2013,
+      "pin_cites": [
+        {
+          "page": "15"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/177/0001-01"
+      ]
+    },
+    {
+      "cite": "168 P.3d 359",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2007,
+      "opinion_index": 0
+    },
+    {
+      "cite": "161 Wn.2d 714",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        3802587
+      ],
+      "year": 2007,
+      "pin_cites": [
+        {
+          "page": "737"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/161/0714-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 502,
+    "char_count": 8864,
+    "ocr_confidence": 0.747,
+    "pagerank": {
+      "raw": 4.203259329854584e-08,
+      "percentile": 0.26797527577862645
+    },
+    "sha256": "531bcb7a08a646728a5694839fb1029eae7c3767527698432d3fbd19f58e9c80",
+    "simhash": "1:e21f92384c627935",
+    "word_count": 1431
+  },
+  "last_updated": "2024-02-27T22:09:01.011694+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Madsen, C.J., and Johnson, Fairhurst, Stephens, Wiggins, Gonz\u00e1lez, Gordon McCloud, and Yu, JJ., concur."
+    ],
+    "parties": [
+      "In the Matter of the Personal Restraint of Robert Lee Yates, Jr., Petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "Owens, J.\n\u00b61 Thirteen years ago, a jury convicted Robert Lee Yates Jr. of two counts of aggravated first degree murder and sentenced him to death. We affirmed his conviction and sentence in 2007. Yates now files this personal restraint petition, claiming that he received ineffective assistance of counsel at his trial. However, personal restraint petitions must be filed within one year of a judgment and sentence becoming final (with certain exceptions). RCW 10.73.090, .100 (listing exceptions). Here, Yates filed his personal restraint petition seven years after his judgment and sentence became final. Since his petition does not meet any of the statutory exceptions to the one-year filing requirement, we dismiss it as untimely.\nFACTS\n\u00b62 The bodies of Yates\u2019s victims were found in four Washington counties. The Spokane County prosecutors negotiated a deal with Yates in which he received a life sentence in exchange for pleading guilty to 13 murder charges in three of those counties \u2014 Spokane County, Walla Walla County, and Skagit County. State v. Yates, 161 Wn.2d 714, 737, 168 P.3d 359 (2007). Prosecutors in the fourth county, Pierce County, attended some initial meetings with the other prosecutors about the possible plea deal but ultimately decided to file charges separately rather than participate in the plea deal. Id. at 735-37.\n\u00b63 Pierce County charged Yates with two counts of first degree murder with aggravating circumstances for the deaths of the two women whose bodies were found in Pierce County \u2014 Connie Ellis and Melinda Mercer. Id. at 728-29, 732. In 2002, Yates was convicted of those charges and sentenced to death. Id. at 732-33. We affirmed those convictions and his death sentence in 2007. Id. at 794. In 2008, Yates filed a timely personal restraint petition to challenge his death sentence, claiming ineffective assistance of counsel and 24 other grounds for relief. In re Pers. Restraint of Yates, 177 Wn.2d 1, 15, 296 P.3d 872 (2013). We dismissed that personal restraint petition in 2013. Id. at 66.\n\u00b64 In 2014, Yates filed this personal restraint petition, alleging that his right to effective assistance of counsel under the Sixth Amendment to the United States Constitution was violated by his trial counsel\u2019s failure to move that venue was improper in Pierce County. Yates argues that although the two bodies were found in Pierce County, it is possible that the murders actually occurred in King County. He explains that his trial counsel had been searching for a way to \u201climit the discretion of the Pierce County Prosecuting Attorney\u201d and argues that they were ineffective in failing to move for improper venue. Reply Br. at 7. Notably, Yates\u2019s trial counsel did move for a change of venue, arguing that Yates could not receive a fair trial in Pierce County, but the trial court denied that motion. As part of this personal restraint petition, Yates\u2019s trial lawyers filed declarations stating that it never occurred to them to move for improper venue, and that they now believe that was \u201ca mistake\u201d and \u201ca very significant error.\u201d Decl. of Roger Hunko at 3; Decl. of Mary Kay High at 1-2.\n\u00b65 In his reply brief, Yates implicitly raises a new claim that he received ineffective assistance of counsel from his postconviction counsel (his appointed counsel for his first personal restraint petition) because his attorneys failed to raise this improper venue claim in a timely personal restraint petition. Reply Br. at 9, 13.\nISSUE PRESENTED\n\u00b66 Should Yates\u2019s personal restraint petition be dismissed as untimely because he did not file it within one year of his judgment becoming final?\nANALYSIS\n\u00b67 Generally, personal restraint petitions must be filed within one year of a judgment becoming final. RCW 10.73-.090. There are six statutory exceptions to this one-year requirement, including petitions involving newly discovered evidence, double jeopardy claims, and significant changes in the law. RCW 10.73.100.\n\u00b68 In Yates\u2019s personal restraint petition, he made no argument about its timeliness despite the fact that his petition was untimely on its face (his judgment and sentence became final in 2007, and this personal restraint petition was filed in 2014). In his reply, he acknowledges the one-year time bar imposed by RCW 10.73.090 and \u201cconcedes that his claims do not fit nicely under any of the statutory exceptions set forth in RCW 10.73.100.\u201d Reply Br. at 11. He suggests two possible ways that we might find his petition timely: (1) a broad interpretation of the newly discovered evidence exception or (2) the creation of a new exception for claims involving ineffective assistance of post-conviction counsel in capital cases. Since he did not raise these arguments until his reply, the State has not had an opportunity to respond to them. Further, since he did not raise his claim of ineffective assistance of postconviction counsel until his reply, that claim and related argument for a new time-bar exception are not properly before us as a technical matter. See RAP 16.7(a)(2) (requiring personal restraint petitioners to include the grounds for relief in the personal restraint petition), 10.3(c) (limiting reply briefs to responding to issues in the response brief). Despite these significant procedural flaws, we elect to address Yates\u2019s two arguments regarding the time bar.\n1. Newly Discovered Evidence Exception\n\u00b69 Yates suggests that we could find that his case falls under the \u201c[n]ewly discovered evidence\u201d exception to the one-year time bar, RCW 10.73.100(1), if we broadly interpreted this exception to include newly discovered evidence relating to the ineffectiveness of trial counsel. But even if we were to adopt such a broad interpretation, there is no newly discovered evidence involved in Yates\u2019s claim. The only thing \u201cnew\u201d here is that Yates\u2019s new attorney has a new idea for a claim. That is not newly discovered evidence. Furthermore, Yates failed to address the five requirements that a petitioner must show in order for newly discovered evidence to constitute grounds for relief in a personal restraint petition, such as the requirement that the evidence could not have been discovered earlier by the exercise of due diligence. In re Pers. Restraint of Lord, 123 Wn.2d 296, 319-20, 868 P.2d 835 (1994). We find his argument regarding \u201cnewly discovered evidence\u201d to be meritless.\n2. Ineffective Assistance of Postconviction Counsel\n\u00b610 Yates argues that we should \u201ccraft a new exception to the time bar\u201d specifically for challenges based on ineffective assistance of postconviction counsel in capital cases. Reply Br. at 13. We decline to do so at this time. First, we note that the time bar and its exceptions are creatures of statute and thus adding additional exceptions to the statute is a matter for the legislature, not this court. Second, as described above, Yates failed to raise a claim of ineffective assistance of postconviction counsel until his reply. Third, Yates fails to explore the legal basis or provide substantive legal argument for such an exception beyond alluding to \u201cdue process principles.\u201d Id. Finally, Yates acknowledges that we would have to overturn our precedent in order to adopt such an exception, but he fails to explain why we should overturn our precedent. \u201c[W]e will not overturn prior precedent unless there has been \u2018a clear showing that an established rule is incorrect and harmful.\u2019 \u201d W.G. Clark Constr. Co. v. Pac. Nw. Reg\u2019l Council of Carpenters, 180 Wn.2d 54, 66, 322 P.3d 1207 (2014) (quoting In re Rights to Waters of Stranger Creek, 77 Wn.2d 649, 653, 466 P.2d 508 (1970)). Yates does not attempt to make such a showing. For those reasons, we decline his request to adopt a new exception to the time bar.\nCONCLUSION\n\u00b611 By statute, personal restraint petitions must be filed within one year of a judgment and sentence becoming final unless they fall under certain statutory exceptions. Yates did not file this personal restraint petition within one year of his judgment becoming final, and his petition does not fall under any statutory exception. Therefore, we dismiss his petition.\nMadsen, C.J., and Johnson, Fairhurst, Stephens, Wiggins, Gonz\u00e1lez, Gordon McCloud, and Yu, JJ., concur.\nIn his personal restraint petition, the sole ground for relief stated by Yates was that he \u201creceived defective legal representation during his trial, in violation of the Sixth [Amendment].\u201d Pers. Restraint Pet. at 3 (emphasis added). In his petition, he did not claim that he received defective legal representation postconviction.",
+        "type": "majority",
+        "author": "Owens, J."
+      }
+    ],
+    "attorneys": [
+      "Todd Maybrown (of Allen, Hansen & Maybrown PS), for petitioner.",
+      "Mark E. Lindquist, Prosecuting Attorney for Pierce County, and Kathleen Proctor, Deputy, for respondent."
+    ],
+    "corrections": "",
+    "head_matter": "[No. 89792-1.\nEn Banc.]\nConsidered April 29, 2015.\nDecided July 9, 2015.\nIn the Matter of the Personal Restraint of Robert Lee Yates, Jr., Petitioner.\nTodd Maybrown (of Allen, Hansen & Maybrown PS), for petitioner.\nMark E. Lindquist, Prosecuting Attorney for Pierce County, and Kathleen Proctor, Deputy, for respondent."
+  },
+  "file_name": "0572-01",
+  "first_page_order": 626,
+  "last_page_order": 631
+}

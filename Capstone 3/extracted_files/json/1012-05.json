@@ -1,0 +1,76 @@
+{
+  "id": 12462840,
+  "name": "Critchlow, Petitioner, v. Dex Media W., Inc., Respondent",
+  "name_abbreviation": "Critchlow v. Dex Media W., Inc.",
+  "decision_date": "2016-09-28",
+  "docket_number": "No. 93196-8",
+  "first_page": "1012",
+  "last_page": "1012",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "186 Wash. 2d 1012"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Wash.",
+    "id": 9029,
+    "name": "Washington Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 38,
+    "name_long": "Washington",
+    "name": "Wash."
+  },
+  "cites_to": [
+    {
+      "cite": "192 Wn. App. 710",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        12456086
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/192/0710-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 30,
+    "char_count": 211,
+    "ocr_confidence": 0.878,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2576617401246173
+    },
+    "sha256": "e6113108c0fe7038de20bd638056c5909862babb7930ada0b707b09d77ede725",
+    "simhash": "1:84dd1eb531a7cd79",
+    "word_count": 34
+  },
+  "last_updated": "2024-02-27T18:43:05.207238+00:00",
+  "provenance": {
+    "date_added": "2019-05-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Critchlow, Petitioner, v. Dex Media W., Inc., Respondent,"
+    ],
+    "opinions": [
+      {
+        "text": "Petition for review of a decision of the Court of Appeals, No. 33038-9-III, February 18, 2016, 192 Wn. App. 710. Denied September 28, 2016.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Critchlow, Petitioner, v. Dex Media W., Inc., Respondent,\nNo. 93196-8."
+  },
+  "file_name": "1012-05",
+  "first_page_order": 998,
+  "last_page_order": 998
+}

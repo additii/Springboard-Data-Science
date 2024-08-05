@@ -1,0 +1,78 @@
+{
+  "id": 12462922,
+  "name": "State, Respondent, v. Tolbert, Petitioner",
+  "name_abbreviation": "State v. Tolbert",
+  "decision_date": "2016-11-02",
+  "docket_number": "No. 93371-5",
+  "first_page": "1022",
+  "last_page": "1022",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "186 Wash. 2d 1022"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Wash.",
+    "id": 9029,
+    "name": "Washington Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 38,
+    "name_long": "Washington",
+    "name": "Wash."
+  },
+  "cites_to": [
+    {
+      "cite": "194 Wn. App. 1030",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        12451792,
+        12451789,
+        12451790,
+        12451791
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/194/1030-04",
+        "/wash-app/194/1030-01",
+        "/wash-app/194/1030-02",
+        "/wash-app/194/1030-03"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 27,
+    "char_count": 189,
+    "ocr_confidence": 0.858,
+    "sha256": "d37f6772f0cc64d9401681a3cee0ddec249952ba46890c3493d01f0704da82dc",
+    "simhash": "1:148b2e11295fec65",
+    "word_count": 31
+  },
+  "last_updated": "2024-02-27T18:43:05.207238+00:00",
+  "provenance": {
+    "date_added": "2019-05-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "State, Respondent, v. Tolbert, Petitioner,"
+    ],
+    "opinions": [
+      {
+        "text": "Petition for review of a decision of the Court of Appeals, No. 75035-6-I, June 13, 2016, 194 Wn. App. 1030. Denied November 2, 2016.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "State, Respondent, v. Tolbert, Petitioner,\nNo. 93371-5."
+  },
+  "file_name": "1022-08",
+  "first_page_order": 1008,
+  "last_page_order": 1008
+}

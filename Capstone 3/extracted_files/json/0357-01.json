@@ -1,0 +1,421 @@
+{
+  "id": 12462733,
+  "name": "David Cooper et al., Respondents, v. Alsco, Inc., Appellant",
+  "name_abbreviation": "Cooper v. Alsco, Inc.",
+  "decision_date": "2016-08-04",
+  "docket_number": "No. 91801-5",
+  "first_page": "357",
+  "last_page": "371",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "186 Wash. 2d 357"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Wash.",
+    "id": 9029,
+    "name": "Washington Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 38,
+    "name_long": "Washington",
+    "name": "Wash."
+  },
+  "cites_to": [
+    {
+      "cite": "93 P.3d 108",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2004,
+      "opinion_index": 0
+    },
+    {
+      "cite": "151 Wn.2d 853",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        428175
+      ],
+      "year": 2004,
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/151/0853-01"
+      ]
+    },
+    {
+      "cite": "103 Stat. 939",
+      "category": "laws:leg_session",
+      "reporter": "Stat.",
+      "weight": 2,
+      "opinion_index": 0
+    },
+    {
+      "cite": "331 F.2d 442",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        132759
+      ],
+      "year": 1964,
+      "pin_cites": [
+        {
+          "page": "447-48"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/331/0442-01"
+      ]
+    },
+    {
+      "cite": "418 F.2d 1019",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        2166231
+      ],
+      "year": 1969,
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/418/1019-01"
+      ]
+    },
+    {
+      "cite": "66 S. Ct. 379",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        413870
+      ],
+      "weight": 2,
+      "year": 1946,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/327/0173-01"
+      ]
+    },
+    {
+      "cite": "327 U.S. 173",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        413870,
+        413982
+      ],
+      "year": 1946,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/327/0173-01",
+        "/us/327/0816-04"
+      ]
+    },
+    {
+      "cite": "2013 U.S. Dist. LEXIS 48553",
+      "category": "reporters:specialty_lexis",
+      "reporter": "U.S. Dist. LEXIS",
+      "year": 2013,
+      "pin_cites": [
+        {
+          "parenthetical": "court order"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "2013 WL 1365939",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "year": 2013,
+      "pin_cites": [
+        {
+          "parenthetical": "court order"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "2008 U.S. Dist. LEXIS 25862",
+      "category": "reporters:specialty_lexis",
+      "reporter": "U.S. Dist. LEXIS",
+      "year": 2008,
+      "pin_cites": [
+        {
+          "parenthetical": "court order"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "2008 WL 878456",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "year": 2008,
+      "pin_cites": [
+        {
+          "parenthetical": "court order"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "383 U.S. 190",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6168808
+      ],
+      "weight": 6,
+      "year": 1966,
+      "pin_cites": [
+        {
+          "page": "208"
+        },
+        {
+          "page": "192-93"
+        },
+        {
+          "page": "206"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/383/0190-01"
+      ]
+    },
+    {
+      "cite": "310 F. Supp. 761",
+      "category": "reporters:federal",
+      "reporter": "F. Supp.",
+      "case_ids": [
+        167166
+      ],
+      "year": 1970,
+      "pin_cites": [
+        {
+          "page": "766",
+          "parenthetical": "\"There can be no question that [the 1949] amendments have broadened the scope of the \u00a7 13(a) (2) exemption.\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp/310/0761-01"
+      ]
+    },
+    {
+      "cite": "63 Stat. 911",
+      "category": "laws:leg_session",
+      "reporter": "Stat.",
+      "weight": 2,
+      "opinion_index": 0
+    },
+    {
+      "cite": "29 U.S.C. \u00a7 207",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "pin_cites": [
+        {
+          "page": "(a)(1)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "2010 U.S. Dist. LEXIS 37807",
+      "category": "reporters:specialty_lexis",
+      "reporter": "U.S. Dist. LEXIS",
+      "year": 2010,
+      "pin_cites": [
+        {
+          "page": "*12",
+          "parenthetical": "court order"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "2010 WL 1541585",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "year": 2010,
+      "pin_cites": [
+        {
+          "page": "*12",
+          "parenthetical": "court order"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "136 F. Supp. 3d 433",
+      "category": "reporters:federal",
+      "reporter": "F. Supp. 3d",
+      "case_ids": [
+        4180852
+      ],
+      "year": 2015,
+      "pin_cites": [
+        {
+          "parenthetical": "first alteration in original"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp-3d/136/0433-01"
+      ]
+    },
+    {
+      "cite": "29 C.F.R. \u00a7\u00a7 779.318",
+      "category": "laws:admin_compilation",
+      "reporter": "C.F.R.",
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "(a)"
+        },
+        {
+          "page": "(b)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "782 F.3d 365",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        6053146
+      ],
+      "weight": 2,
+      "year": 2015,
+      "pin_cites": [
+        {
+          "page": "369"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/782/0365-01"
+      ]
+    },
+    {
+      "cite": "29 U.S.C. \u00a7\u00a7 201-219",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "64 P.3d 10",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2003,
+      "opinion_index": 0
+    },
+    {
+      "cite": "148 Wn.2d 876",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        609209
+      ],
+      "year": 2003,
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/148/0876-01"
+      ]
+    },
+    {
+      "cite": "951 P.2d 770",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1998,
+      "opinion_index": 0
+    },
+    {
+      "cite": "134 Wn.2d 523",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        452291
+      ],
+      "year": 1998,
+      "pin_cites": [
+        {
+          "page": "530"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/134/0523-01"
+      ]
+    },
+    {
+      "cite": "995 P.2d 31",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 2000,
+      "opinion_index": 0
+    },
+    {
+      "cite": "140 Wn.2d 138",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1119530
+      ],
+      "year": 2000,
+      "pin_cites": [
+        {
+          "page": "140-41"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/140/0138-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1045,
+    "char_count": 24257,
+    "ocr_confidence": 0.886,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.25765710664984715
+    },
+    "sha256": "97fc6c7ab7779814403e89521c48964b91218843d466a24c7cc8344b46e39dd3",
+    "simhash": "1:b5e498b9f67428a1",
+    "word_count": 3979
+  },
+  "last_updated": "2024-02-27T18:43:05.207238+00:00",
+  "provenance": {
+    "date_added": "2019-05-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Madsen, C.J., and Owens, Fairhurst, Stephens, Wiggins, Gonz\u00e1lez, Gordon McCloud, and Yu, JJ., concur."
+    ],
+    "parties": [
+      "David Cooper et al., Respondents, v. Alsco, Inc., Appellant."
+    ],
+    "opinions": [
+      {
+        "text": "Johnson, J.\n\u00b61 This case requires us to determine if Alsco Inc. is a \u201cretail or service establishment\u201d (RSE) under chapter 49.46 RCW for purposes of an exemption to the overtime pay requirement. See RCW 49.46.010(6). The trial court granted the employees\u2019 motion for summary judgment regarding entitlement to overtime pay, finding that Alsco is not an RSE for purposes of the overtime pay exception. In granting the employees\u2019 subsequent motion for summary judgment on the issue of calculating the amount of overtime due, the court calculated the \u201cregular rate of pay\u201d by dividing the total weekly compensation actually paid by 40 hours, not by hours actually worked. We accepted direct review. We reverse the trial court and hold that Alsco is an RSE for purposes of the overtime pay requirement.\nFacts and Procedural History\n\u00b62 Alsco is a textile rental and sales company that supplies uniforms, linens, and other products to other businesses in industrial, hospitality, health care, and other fields. Alsco does not provide products or services for resale. Alsco and its employees are covered by a collective bargaining agreement (CBA).\n\u00b63 Alsco provides three services to its customers: (1) the rental and servicing of linens and uniforms, (2) the rental and servicing, including repair, replacement, and refilling, of washroom and hygiene products, and (3) the direct sale of janitorial products, garments, and linens. Its employees deliver clean goods, such as uniforms and towels, to other businesses and pick up soiled goods, which Alsco takes back to its facilities for washing. Alsco sells some goods to businesses, such as mops and paper towels. Both parties agree that Alsco does not provide any goods for resale by their customers.\n\u00b64 Alsco employees who deliver and pick up the goods can choose to be paid either by the hour or by commission with a base salary. For those who choose to be paid on commission, the commission portion comprises over half of their total pay. Alsco does not pay commissioned employees any greater compensation for hours they work over 40 in a week.\n\u00b65 A class of commissioned delivery employees filed suit against Alsco, claiming entitlement to overtime pay under the Washington Minimum Wage Act (MWA), chapter 49.46 RCW, and alleging Alsco willfully withheld wages in violation of the MWA. Alsco and the employees filed cross motions for summary judgment. Alsco argued that it is exempt from paying commissioned workers overtime because it is an RSE for purposes of the overtime exemption in RCW 49.46.130(3). Alsco also claimed it had not willfully withheld wages because the commission-based wage system was negotiated as part of the CBA.\n\u00b66 The trial court granted the employees\u2019 motion regarding entitlement to overtime, finding that Alsco is not an RSE for purposes of the overtime exemption. In the same order, the trial court granted Alsco\u2019s motion that the alleged wrongful withholding of overtime was not willful and also denied, without prejudice, the employees\u2019 motion as to the method for calculating unpaid overtime, leaving that issue for later.\n\u00b67 Next, the trial court certified the questions regarding the applicability of the retail or service exemption and willful withholding of wages to the Court of Appeals, which declined to grant discretionary review. The Court of Appeals explained that the trial court could resolve the remaining issues relatively quickly and that immediate review would not materially advance the ultimate resolution of the litigation. The parties, back in trial court, filed cross motions on the remaining issue of how to calculate the amount of overtime owed to the employees by Alsco. The court granted the employees\u2019 motion and denied Alsco\u2019s. The court calculated the \u201cregular rate of pay\u201d for overtime purposes by dividing the total weekly compensation actually paid by 40 hours rather than all hours actually worked.\n\u00b68 Alsco appealed directly to this court, arguing that there are conflicting decisions among the divisions of the Court of Appeals and a conflict with this court\u2019s decisions, and that this case involved a fundamental issue of broad public importance requiring prompt and ultimate determination. RAP 4.2(a)(4). We accepted direct review.\nAnalysis\n\u00b69 The issue is one of statutory interpretation. We review statutory interpretation questions de novo. State v. Azpitarte, 140 Wn.2d 138, 140-41, 995 P.2d 31 (2000). Unambiguous statutes are not subject to judicial interpretation; we must determine the meaning of the statute based on the statutory language. Harmon v. Dep\u2019t of Soc. & Health Servs., 134 Wn.2d 523, 530, 951 P.2d 770 (1998).\n\u00b610 Alsco contends that its commission-based-pay employees are exempt employees under the \u201cretail or service\u201d exemption under the MWA. RCW 49.46.010(6). Washington\u2019s MWA generally requires employers to pay employees one and one-half times their regular rate of pay for any hours worked over 40 hours in a week. RCW 49.46.130(1). However, at issue here, the MWA expressly exempts employees who work for an RSE if their regular rate of pay exceeds one and one-half times the minimum wage and more than half of the employee\u2019s compensation represents commissions on goods or services.\n\u00b611 The RSE exemption to the MWA states:\nNo employer shall be deemed to have violated subsection (1) of this section by employing any employee of a retail or service establishment for a workweek in excess of the applicable workweek specified in subsection (1) of this section if:\n(a) The regular rate of pay of the employee is in excess of one and one-half times the minimum hourly rate required under RCW 49.46.020; and\n(b) More than half of the employee\u2019s compensation for a representative period, of not less than one month, represents commissions on goods or services.\nRCW 49.46.130(3) (emphasis added). It is uncontested that the commission-based-pay employees here are paid over one and a half times the minimum wage and that commissions make up over half of their pay. The issue then is whether Alsco is an RSE under the statute.\n\u00b612 RCW 49.46.010(6) defines an RSE as \u201can establishment seventy-five percent of whose annual dollar volume of sales or goods or services, is not for resale and is recognized as retail sales or services in the particular industry.\u201d It is undisputed that the products sold by Alsco to other businesses are used by the businesses and are not resold to individuals. The dispositive question is whether it is \u201crecognized as retail sales or services in the particular industry.\u201d\n\u00b613 The trial court reasoned that Alsco\u2019s sales are not recognized as retail sales or services in the particular industry because they are to other businesses pursuant to long term contracts and because Alsco lacks a retail concept. The trial court explained that Alsco\u2019s customers may be \u201cthe end of the line\u201d in the sense that the customer\u2019s employees wear the uniforms, but they do so only as a means to assist their own employers in their efforts to make a profit by selling their own goods or services to the general public. In essence, the trial court seemingly determined Alsco is not an RSE because it contracts with other businesses on a long term basis. That reasoning misreads the statute.\n\u00b614 While there is little guiding Washington precedent on whether a business meets the definition of an RSE, we considered whether a vending machine business was an RSE in Stahl v. Delicor of Puget Sound, Inc., 148 Wn.2d 876, 64 P.3d 10 (2003). Alsco primarily asserts the trial court\u2019s determination that Alsco is not an RSE conflicts with our decision in Stahl. In that case, we addressed whether sales of goods and services are recognized as retail in the particular industry. In Stahl, 95 percent of the employer\u2019s revenue came from direct sales to consumers, but the question remained whether sales from vending machines were \u201crecognized in the industry\u201d as retail sales. Stahl, 148 Wn.2d at 882. We held that vending machine sales are recognized as retail sales by the industry, observing that vending machine sales are subject to the retail sales tax and are \u201cend of the line\u201d transactions between the vending company and the ultimate consumer. Stahl, 148 Wn.2d at 882.\n\u00b615 The factors discussed in Stahl are helpful in the situation present here. First, Alsco\u2019s sales are taxed under Washington\u2019s retail sales tax under RCW 82.08.0202, which provides:\n[P]roviding customers with a supply of clean linen, towels, uniforms, gowns, protective apparel, clean room apparel, mats, rugs, and similar items, whether ownership of the item is in the person operating the linen and uniform supply service or in the customer!, is a retail sale and subject to retail sales tax].\nThis tax treatment factors heavily in deciding the applicability of the RSE exemption. It makes sense that if the business transactions are taxed as being retail, then the business is, in fact, engaged in retail sales under the exemption. Second, Alsco\u2019s sales are \u201cend of the line\u201d sales. None of Alsco\u2019s goods or services are resold. This also weighs heavily in the RSE determination. These factors are those on which Stahl focused.\n\u00b616 The distinction between the present case and Stahl is that here, Alsco\u2019s customers are other businesses, which the trial court focused on in its conclusion that Alsco was not an RSE because its business customers used Alsco\u2019s products and services \u201cas a means to assist their own . . . efforts to make a profit by selling their own goods or services to the general public.\u201d Clerk\u2019s Papers at 803. But such a distinction is not found in RCW 82.08.0202. Many businesses sell products to other businesses at retail. That Alsco\u2019s sales are predominately high volume does not control whether those sales are retail. A business can sell services at large volume and still be considered retail. High volume sales do not negate the definition of \u201cretail.\u201d\n\u00b617 While Alsco\u2019s \u201cproducts\u201d do not fit into the category of what one intuitively considers retail, the statutory language controls. Alsco provides its customers three services: (1) the rental and servicing of linens and uniforms, (2) the rental and servicing of washroom and hygiene products, and (3) the direct sale of janitorial products, garments, and linens. These \u201cproducts\u201d are providing goods and services. The statute applies to both goods and services. The statutory definition of \u201cretail\u201d undercuts the intuitive sense of what is retail. But we are analyzing those statutory definitions. Retail businesses are not limited to establishments where consumers enter, take goods off shelves, and purchase at a register. Retail businesses are also entities that sell \u201cgoods and services.\u201d The service here that Alsco provides includes supplying uniforms, towels, and linens that the customer purchases or rents from Alsco. The core of Alsco\u2019s business is selling a \u201cservice\u201d in the statutory sense, specifically the rental of linens and garments. The laundering of the product by Alsco could be performed by another company or the customer themselves. Here, the essence of the transaction subject to the sales tax is the providing of the clean linens and uniforms. RCW 82.08.0202 includes \u201cproviding customers with a supply of clean linens, towels, uniforms, . . . and similar items, whether ownership of the item is in the person operating the linen and uniform supply service or in the customer,\u201d as a retail sale and subject to retail sales tax.\n\u00b618 Simplifying the transaction in analyzing RCW 82.08.0202 is somewhat helpful. Where a business rents uniforms to a customer for an event, RCW 82.08.0202 provides that this is a retail transaction. Where the customer is another business, the transaction retains its retail treatment. The statute draws no distinction between individual versus business customers. The laundering and return of uniforms to the customer, under RCW 82.08.0202, is similarly designated a retail transaction. The statutory characterization is not affected or limited based on the duration of the relationship, the volume of business, or the fact that businesses are involved. Under RCW 82.08.0202, no language exists supporting the trial court\u2019s conclusion.\n\u00b619 Alsco identifies a similar federal case that interprets the Fair Labor Standards Act of 1938 (FLSA), 29 U.S.C. \u00a7\u00a7 201-219, as exempting business-to-business sales of goods or services as retail sales as long as the receiving business is the ultimate user. In Alvarado v. Corporate Cleaning Services, Inc., 782 F.3d 365 (7th Cir. 2015), where employees of a window washing business sued their employer, seeking overtime pay allegedly due to them under the FLSA, the court held that the business met the RSE requirement because it sold its window cleaning services to the ultimate customers, even though most of their customers were other businesses, namely building owners and managers. Particularly instructive here, the court in Alvarado rejected the argument that the window washing company\u2019s services were not retail because other business used the services to make a profit, explaining:\nIt would be absurd to suggest that a dealer in motor vehicles, when it sells a truck to a moving company, is \u201cwholesaling\u201d the truck because the buyer will doubtless try to recover the cost of the purchase in the price he charges for his moving services, which utilize the truck.\nAlvarado, 782 F.3d at 369. This case and the factors analyzed in Stahl support the determination that Alsco is an RSE.\n\u00b620 The employees argue that Alsco is not an RSE because most of its business involves long term contracts and high volume sales. They cite federal regulations implementing the FLSA that provide an RSE is one that typically \u201csells goods or services to the general public ... in small quantities\u201d and that generally \u201cwill not be considered a retail or service establishment ... if it is not ordinarily available to the general consuming public.\u201d 29 C.F.R. \u00a7\u00a7 779.318(a), 779.319. However, those same regulations also provide that the retail exemption is intended to \u201cextend in some measure beyond consumer goods and services to embrace certain products almost never purchased for family or noncommercial use.\u201d 29 C.F.R. \u00a7 779.318(b). Further, federal courts have recognized that \u2018\u201c[d] espite this reference to supplying goods and services to the general public, . . . the provision of goods and services to commercial customers does not necessarily prevent an establishment from qualifying as a retail or service establishment.\u2019 \u201d Charlot v. Ecolab, Inc., 136 F. Supp. 3d 433 (E.D.N.Y. 2015) (first alteration in original) (quoting Kelly v. A1 Tech., No. 09 Civ. 962(LAK)(MHD), 2010 WL 1541585, at *12, 2010 U.S. Dist. LEXIS 37807, at *12 (S.D.N.Y. Apr. 12, 2010) (court order) (holding that the supplier of cleaning and related equipment to restaurants, hotels, and other businesses may be an RSE for purposes of commission-based-pay employee exemption under FLSA)).\n\u00b621 Importantly, the federal regulations cited by the employees do not directly control interpretation of our state\u2019s MWA, and we find no language in the definition of an RSE under our act restricting the definition to businesses that sell to individuals. Like the MWA, the FLSA requires overtime pay of one and one-half times the regular rate for every hour worked beyond 40. 29 U.S.C. \u00a7 207(a)(1). Alsco correctly points out that the FLSA does not require that a business sell to individuals to qualify as an RSE. And, Congress amended the FLSA in 1949 to specifically allow business-to-business sales to qualify as retail sales.\n\u00b622 After the 1949 amendments, the definition of \u201cretail sales\u201d was broadened to include sales to customers who are businesses in addition to individuals. Ch. 736, \u00a7 3, 63 Stat. 911; see Schultz v. Crotty Bros. Tex., 310 F. Supp. 761, 766 (E.D. Tex. 1970) (\u201cThere can be no question that [the 1949] amendments have broadened the scope of the \u00a7 13(a) (2) exemption.\u201d). Congress replaced the previous \u201cconsumer use\u201d test when it amended the FLSA in 1949 to allow employers who sell goods and services to other businesses to qualify for the retail sales exemption. Ch. 736, \u00a7 3, 63 Stat. 911.\n\u00b623 Since then, federal courts have held that the retail sales or service establishment exemption under the FLSA applies to employers engaged in business-to-business sales even where the business engages in those types of sales exclusively. In Idaho Sheet Metal Works, Inc. v. Wirtz, 383 U.S. 190, 86 S. Ct. 737, 15 L. Ed. 2d 694 (1966), the Court held that a tire merchant was not an RSE on the basis that it sold tires at discount prices to businesses for use on their vehicle fleets. The employees draw a comparison between Alsco\u2019s large volume contracts and the equipment sold in Idaho Sheet Metal. However, the decision in Idaho Sheet Metal was guided not by the volume of sales in question, but by the secretary of labor\u2019s rule specifying that sales to fleets of five or more vehicles at wholesale prices are not retail sales. Idaho Sheet Metal, 383 U.S. at 208. The Idaho Sheet Metal opinion noted that the secretary\u2019s rule was intended to further specific legislative intent to exclude certain types of sales made at deep discounts and in quantity. See Idaho Sheet Metal, 383 U.S. at 192-93. In this state, no similar rule excluding businesses that sell in quantity from the RSE definition under the MWA exists. Idaho Sheet Metal is not that helpful because that case involved a former version of the FLSA, under which all retail employees, not just those paid on commission, were exempt from overtime pay requirements.\n\u00b624 Additional federal cases support Alsco\u2019s position. English v. Ecolab, Inc., No. 06 Civ. 5672, 2008 WL 878456, 2008 U.S. Dist. LEXIS 25862 (S.D.N.Y. Mar. 31, 2008) (court order), held that sales to other businesses pursuant to long term contracts\u2014in that case, pest extermination services\u2014 were retail sales. The employees attempt to distinguish this case by pointing to the facts that the exterminators were free to set their own schedules, which would allow them to \u201cgame\u201d the overtime system, and that they were skilled workers, so the company could not hire more workers to avoid overtime. However, whether the employees do or do not control their schedules is not helpful in deciding whether the exemption applies. As we discussed in Stahl, an employee\u2019s job duties do not affect whether he or she is paid a bona fide commission for purposes of the retail service exemption. An employee who has no involvement in sales is exempt from overtime as long as the employee\u2019s commission is tied to the amount charged to the customer and the remaining requirements of the exemption are met. Stahl, 148 Wn.2d at 886-87.\n\u00b625 The employees point out that the businesses in English that purchase the pest extermination services primarily benefit from those services, as opposed to the individuals who patronage the ostensibly pest-free businesses. But the employees cite no authority that the RSE determination turns on who receives the benefit. As Alsco points out, such a definition would mean that a business-to-business sale could never be retail, which, as explained above, is contrary to both federal and Washington law.\n\u00b626 In an attempt to further distinguish the present case from English, the employees cite to another federal case. Cancilla v. Ecolab, Inc., No. C 12-03001 CRB, 2013 WL 1365939, 2013 U.S. Dist. LEXIS 48553 (N.D. Cal. Apr. 3, 2013) (court order) (denying Ecolab\u2019s summary judgment motion asserting the RSE; Ecolab eventually settled following certification of an FLSA collective action). The facts in Cancilla are distinguishable from the present case. Unlike the service technicians involved in that case, who had no way to increase their compensation, the employees here can and do sell more products to increase their commission-based pay.\n\u00b627 Lastly, the employees rely on four federal cases in support of their argument that Alsco\u2019s sales should not be recognized as retail because Alsco limits its operation to long term volume rental to commercial customers. Resp\u2019ts/Pls.\u2019 Resp. to Appellant Alsco Inc.\u2019s Opening Br. at 13; see Idaho Sheet Metal, 383 U.S. at 206; Martino v. Mich. Window Cleaning Co., 327 U.S. 173, 66 S. Ct. 379, 90 L. Ed. 603 (1946); Schultz v. Instant Handling, Inc., 418 F.2d 1019 (5th Cir. 1969); Acme Car & Truck Rentals, Inc. v. Hooper, 331 F.2d 442, 447-48 (5th Cir. 1964). All four of these cases rely on a definition of an RSE under a section of the FLSA that was repealed in 1989. Pub. L. No. 101-157, 103 Stat. 939. Under the previous subsection 213(a)(2) of the FLSA, RSE was defined to include those employers who operated only on a small scale in the local community, so-called \u201cmom and pop\u201d businesses. Subsection 213(a)(2) did not require that employees be paid on a commission basis because that section was not concerned with the exempt status of employees paid on a commission, unlike the exemption at issue here. Significantly, Congress repealed subsection 213(a)(2) in 1989. Pub. L. No. 101-157, 103 Stat. 939. Federal courts in those previous cases necessarily found that the businesses were not RSEs because the definition of an RSE was much narrower. Since this provision was repealed, these cases are not helpful. High volume sales no longer control; a business now can sell a larger or smaller quantity of goods and services, which does not negate the definition of \u201cretail.\u201d\n\u00b628 Under the statute, the exemption extends to businesses where its customers are other businesses, as long as its sales are not for resale and are recognized in the industry as retail\u2014in other words, as long its sales are subject to the retail sales tax, its sales are \u201cend of the line\u201d transactions, and the goods and services being sold are not for resale. Alsco meets these requirements. We reverse and remand for entry of judgment for Alsco.\nMadsen, C.J., and Owens, Fairhurst, Stephens, Wiggins, Gonz\u00e1lez, Gordon McCloud, and Yu, JJ., concur.\nNo dispute exists that the employees received what the CBA provided. A CBA cannot evade Washington Minimum Wage Act, chapter 49.46 RCW, requirements if it applies. See Hisle v. Todd Pac. Shipyards Corp., 151 Wn.2d 853, 93 P.3d 108 (2004).\nThe issue of willful withholding of wages has not been pursued here.\n\u201cExcept as otherwise provided in this section, no employer shall employ any of his or her employees for a workweek longer than forty hours unless such employee receives compensation for his or her employment in excess of the hours above specified at a rate not less than one and one-half times the regular rate at which he or she is employed.\u2019\u2019\nThe statute does not differentiate between sales of services or goods. We similarly make no effort to distinguish Alsco\u2019s transactions that are sales of goods from those that are sales of services.\nBecause the MWA is patterned on the FLSA, we will often turn to federal authority interpreting the FLSA for guidance. See Hisle, 151 Wn.2d at 862 n.6 (recognizing that the FLSA is persuasive authority because the MWA is based on the FLSA).\nThe statute is limited by its own terms; the RSE exemption applies only if the employer is an RSE and the employees\u2019 regular rate of pay exceeds one and one-half times the minimum wage, and more than half of the employees\u2019 compensation represents commissions on goods or services. Any concern about an ostensibly broad definition of an RSE is tempered by the other wage-based statutory requirements to the exemption.\nBecause we hold that Alsco is an RSE and therefore its employees are not entitled to overtime pay, we need not address whether the trial court erred in determining the formula for calculating the overtime rate.",
+        "type": "majority",
+        "author": "Johnson, J."
+      }
+    ],
+    "attorneys": [
+      "Portia R. Moore, Harry J.F. Korrell III, Kathryn S. Rosen, and Taylor S. Ball (of Davis Wright Tremaine LLP), for appellant.",
+      "Adam J. Berger and Martin S. Garfinkel (of Schroeter Goldmark & Bender)-, and Geoffrey D. Swindler (of Law Office of Geoffrey D. Swindler), for respondents.",
+      "Toby J. Marshall, Elizabeth A. Adams, and Jeffrey L. Needle on behalf of Washington Employment Lawyers Association, amicus curiae."
+    ],
+    "corrections": "",
+    "head_matter": "[No. 91801-5.\nArgued June 7, 2016.\nDecided August 4, 2016.\nDavid Cooper et al., Respondents, v. Alsco, Inc., Appellant.\nPortia R. Moore, Harry J.F. Korrell III, Kathryn S. Rosen, and Taylor S. Ball (of Davis Wright Tremaine LLP), for appellant.\nAdam J. Berger and Martin S. Garfinkel (of Schroeter Goldmark & Bender)-, and Geoffrey D. Swindler (of Law Office of Geoffrey D. Swindler), for respondents.\nToby J. Marshall, Elizabeth A. Adams, and Jeffrey L. Needle on behalf of Washington Employment Lawyers Association, amicus curiae."
+  },
+  "file_name": "0357-01",
+  "first_page_order": 395,
+  "last_page_order": 409
+}

@@ -1,0 +1,85 @@
+{
+  "id": 1431970,
+  "name": "Futrall v. Bowen",
+  "name_abbreviation": "Futrall v. Bowen",
+  "decision_date": "1933-04-17",
+  "docket_number": "4-2946",
+  "first_page": "288",
+  "last_page": "291",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "187 Ark. 288"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [
+    {
+      "cite": "292 S. W. 659",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "173 Ark. 489",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        8722195
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/173/0489-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 393,
+    "char_count": 6760,
+    "ocr_confidence": 0.483,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.0538641442030018
+    },
+    "sha256": "8dab9ee8ae89828374bc48045683e3e97960a755d40c2de4a20fec8c0a811287",
+    "simhash": "1:164c74f1ee892676",
+    "word_count": 1254
+  },
+  "last_updated": "2024-02-27T21:18:50.990705+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Futrall v. Bowen."
+    ],
+    "opinions": [
+      {
+        "text": "Smith, J.\nRobert Bowen, who is a farmer and operates a gin at Altheimer, purchased a Ford car from F. G. Smart Motor Company, of Pine Bluff, and executed a note for $270, with interest at 8 per cent., covering the amount of. purchase money unpaid in cash. The note was transferred by the motor company to the National Bank of Arkansas in Pine Bluff, which later became insolvent and was placed in the hands of a receiver, who sent Bowen a notice just before the maturity of the note that there would be due $279.95 for principal and interest on November 1,1930, the maturity date. Immediately upon receipt of this notice, Bowen drew a check on the Bank of Altheimer, at Altheimer, for the amount stated in the notice, and made notation on the check, reading: \u201cBal. note Ford auto.\u201d Bowen sent this check, not to the bank holding the note, but to the motor company, and Miss Boston, its cashier, presented the check to the bank in payment of the note which Bowen had made and the motor company had indorsed. The check was presented to Frank Boone, who was the receiver\u2019s assistant. Boone discovered that the check had not been drawn for a sufficient amount, and so advised Miss Boston. His testimony as to the circumstances under which the check was delivered was as follows: \u201cA. Miss Boston, as I said before, brought the check up there, and I told her it was lacking $10 being enough to pay the note, and that I would have to have the additional $10. That I couldn\u2019t use the check because it marked to indicate that it was payment in full of the note. At that time I told her, I ask her if she rather, or if she wanted me to write to Mr. Bowen or if she would, and as I remember she said she would get another $10 and bring it to me. Relying on that, I just put the check away and waited for the $10 and forgot all about it, to tell the truth.\u201d\nThereafter Miss Boston dictated a letter dated November 3, 1930, reading as follows: \u201cWe are in receipt of your check in the amount of $279.95 to cover note due November 1st amounting to $270 and $9.95 to apply on the interest.\n\u201cThe bank advised us this morning that they made a mistake of $10 in figuring the interest on this note, as it should have been $19.95 instead of $9.95.\n\u2018\u201cPlease let us have your check for $1.0 by return mail and we will forward you your canceled note.\u201d\nMiss Boston had quit the service of the motor company and was residing in Texas at the time of the trial and did not testify, but Miss Cox, who was employed as a stenographer by the motor company, testified that the letter was dictated by Miss Boston to her, and by her typewritten, and that she mailed the letter to Bowen.\nThe $10 was never paid, and the bank made no attempt to cash the check, but retained possession of it, and on November 17, 1930, the bank upon which it was drawn failed to open its doors.\nBowen testified that he received the notice during the ginning season, and that he was employed about his gin from 4 a. m. until late at night, and that he stopped work upon receipt of the notice only long enough to write a check, which he pinned to the notice and mailed both to the motor company without writing a letter. He did not know any mistake had been made in calculating the interest. At no time for two months prior to the closing of the bank on which the check was drawn was his deposit less than $940, and the check would have been paid upon demand. This bank remained open through Saturday, November 15, but failed to open on Monday, November 17. When asked if he had any recollection of having received the letter set out above from the motor company, Bowen answered, \u201cNo, sir, not that I know of,\u2019\u2019 and when asked, \u201cAre you prepared to say that you did not receive the letter?\u201d answered, \u201cNo, sir; I wouldn\u2019t say positively I did not. I don\u2019t know anything about it.\u201d Witness assumed that his note had been paid, and he did not have any notice from the receiver of the National Bank of Arkansas that there was any balance due on the note, and he testified further that \u201cI never dreamed that the check had not gone through until the Bank of Altheimer closed,\u201d and a representative of the National Bank had been to see him about paying the note.\nIt was shown that Bowen had on deposit in the Bank of Altheimer at the time it closed its doors the sum of $1,234.33, but it was shown also that he was indebted to that bank in the sum of $6,000, evidenced by two notes for $3,000 each, and this deposit was credited upon one of the notes when the bank closed. Bowen testified that he had negotiated a settlement of his liability to the Altheimer bank, which was unaffected by the unpaid check, this settlement resulting from the conclusion of the liquidating ag\u2019ent for the Altheimer bank that it was more advantageous to the bank than a suit would be, which would force Bowen into bankruptcy, and that he was therefore damaged to the extent of the face of the check.\nIt was the opinion of the trial court, in which a majority of this court concurs, that the receiver of the National Bank should have collected the check in due course, and that, had any diligence been employed in this respect, the check would have been paid before the bank upon which it was drawn had closed its doors.\nIt is provided by \u00a7 7952, Crawford & Moses\u2019 Digest, that \u201ca check must be presented for payment within a reasonable time after its issue or the drawer will be discharg\u2019ed from liability thereon to the extent of the loss caused by the delay.\u201d\nWe had occasion to consider, in the recent case of Federal Land Bank of St. Louis v. Goodman, 173 Ark. 489, 292 S. W. 659, what was a reasonable time, for presentation of a check for payment, and, upon the authority of that case, and under the rule there announced, the check in the instant case was held for more than a reasonable time, indeed, it was never presented, and the delay resulted in the failure to collect it and thereby to pay the note in satisfaction of which it had been drawn.\nThe majority are of the opinion that the court below, sitting, by consent, as a jury, was warranted in drawing the inference from the testimony in the case that there was no direction to the National Bank, given either by the motor company, and certainly not by Bowen, to hold the check until the additional $10 had been paid, and that the bank should have collected the check in the usual course, and that the neglect of its receiver had resulted in the failure to make the collection which should have been made.\nThe writer and Mr. Justice McHaney do not concur in that view.\nThe judgment of the court below must therefore be affirmed, and it is so ordered.",
+        "type": "majority",
+        "author": "Smith, J."
+      }
+    ],
+    "attorneys": [
+      "Harry T. Wooldridge, for appellant.",
+      "Coleman & Gantt, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Futrall v. Bowen.\n4-2946\nOpinion delivered April 17, 1933.\nHarry T. Wooldridge, for appellant.\nColeman & Gantt, for appellee."
+  },
+  "file_name": "0288-01",
+  "first_page_order": 308,
+  "last_page_order": 311
+}

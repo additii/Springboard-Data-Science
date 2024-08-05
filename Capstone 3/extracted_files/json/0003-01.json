@@ -1,0 +1,68 @@
+{
+  "id": 8718129,
+  "name": "Moran v. State",
+  "name_abbreviation": "Moran v. State",
+  "decision_date": "1929-02-18",
+  "docket_number": "",
+  "first_page": "3",
+  "last_page": "7",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "179 Ark. 3"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 426,
+    "char_count": 7393,
+    "ocr_confidence": 0.479,
+    "pagerank": {
+      "raw": 2.417802174863246e-07,
+      "percentile": 0.8006928203150068
+    },
+    "sha256": "c76cc8de5d54486aa52c65ecac5fe98e68ac431f244a0fad3bcc42f0f0fc0140",
+    "simhash": "1:cc282ae1cc5ba7fc",
+    "word_count": 1232
+  },
+  "last_updated": "2023-07-14T22:44:09.982065+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Hart, C. J., Smith and McHaney, JJ., dissent."
+    ],
+    "parties": [
+      "Moran v. State."
+    ],
+    "opinions": [
+      {
+        "text": "Humphreys, J.\nAppellant was indicted, tried, convicted and sentenced in the'circuit court of Lonoke County to pay a fine-of one hundred dollars and to serve thirty days in jail on an indictment charging him with criminal libel, in the following- language, omitting the formal parts:\n\u201cUnlawfully, willfully, maliciously, did defame by causing to be printed, and by writing, and caused to be published of and concerning Jack See, Arthur Eobinson and Joe Wilson, in words and figures as, follows: (Then follows the alleged libelous printed circular, consisting of fifty-seven interrogative and affirmative statements, each beginning with, \u201cDid you know,\u201d etc., or \u201cDo you know,\u201d etc.) which words in their common acceptation are false, and tended to and did impeach the honesty, integrity and veracity, virtue and reputation of the said Jack See, Arthur Eobinson and Joe Wilson, who were at the time living, and thereby did unlawfully, willfully, maliciously and falsely expose the said Jack See, Arthur Eobinson and Joe Wilson to public hatred, contempt and ridicule, against the peace and dig-nity of the State of Arkansas.\u201d\nThe above indictment was based on \u00a7 2390 of Crawford & Moses\u2019 Digest, which reads as follows: \u201cA libel is a malicious defamation, expressed either by writing, printing, or by signs or pictures or the like, tending to blacken the memory of one' who is dead, or to impeach the honesty, integrity, veracity, virtue or reputation, or to publish the natural defects of one who is living, and thereby expose him to public hatred, contempt and ridicule.\u201d The penalty for a violation of said section of the statute is. fixed by \u00a7 2391 of Crawford & Moses\u2019 Digest, and is as follows: \u201cEvery person, whether writer, printer or publisher, convicted of the crime of libel, shall be fined in any sum not exceeding five thousand dollars, and may also be imprisoned not exceeding one year.\u201d\n(1). Appellant demurred to this indictment on the ground that it does not state the offense with such a degree, of certainty as to enable the defendant to know what he is charged with in order that he may prepare for his defense and meet the issues.\nAppellant is in error in this contention. The indictment charges the offense substantially in the language of the statute, and the alleged libelous article consisted of a printed circular making certain statements regarding Jack See, Arthur Robinson and Joe Wilson, in the form of interrogative accusations which directly tended to impeach the honesty, integrity, virtue and reputation of all three parties. These statements, which we do not deem it necessary to set out herein, were libelous per se, and the appellant could not misunderstand the nature of the offense with which he was charged.\n(2). It is further urged as a ground of demurrer that the indictment is defective because it did not point out the particular questions or statements that were alleged to be libelous. This was not necessary. The fact that several of the statements referred to other parties were properly inserted in order to show the connection between the statements made about the persons named in the indictment with the other matters contained therein. Several of the statements contained in the circular called these gentlemen by name, and accused them of unlawful acts and immorality.\n(3). It is further said that the indictment is bad in that it charges more than one offense in the same indictment, contrary to the provisions of \u00a7 3015 of Crawford & Moses.\u2019 Digest, and several decisions of this court, cited by appellant.\nThe indictment charged only one offense, that of libeling three persons. A person may be guilty of libeling two or more persons in one written statement, and we know of no rule of procedure that would prevent the offender from being indicted therefor under one indictment. The cases cited by appellant in this regard are not in point. If a person be indicted for selling liquor to Smith, and Jones, proof that he sold to either would he sufficient to support a conviction. So here the indictment charges that appellant libeled See, Robinson and Wilson, and proof that he libeled either or all would support a conviction.\n(4). It is next said that the court should have given appellant\u2019s request for a peremptory instruction at the conclusion of the testimony, on the ground, among others, that, although the venue was laid in Lonoke County, no testimony was introduced to show that appellant caused the alleged defamatory article to be written, printed or published in Lonoke County, where the venue wasi laid. There is no proof .at all in the record tending to show that the article was written in Lonoke County. The testimony introduced by the State tended to show that the article was printed by Frank Porbeck, in Pulaski County. Frank Porbeck, a printer in Little Rock, testified that appellant brought the article to him in typewritten form to be printed, and delivered it to him personally in Little Rock, and that he printed five hundred copies of it, after appellant read the proof; that the article was dated Pasadena, California, August 13, 1927, and signed \u201cKarl;\u201d that, while he was at lunch, the original and printed copies of the article were delivered to some one by the office boy, named Steele, who is now in Canada; that the office boy had authority to deliver supplies and receive the money therefor.\nCopies of the article were mailed in Pasadena, California, to many persons in Lonoke County, in and about Cabot, the home of the prosecuting witnesses. Several witnesses testified that they knew appellant was the author of the article, because they were familiar with his style of writing, and that he had written other letters like the one set out in the indictment.\nAppellant denied writing the article, or that he delivered it to Frank Porbeck to be printed, or that he got the original and printed copies thereof' from the office boy in Porbeck\u2019s office, or that he mailed copies of the printed article, or had them mailed from Pasadena, California, to parties in Lonoke County. There is no testimony in the record to the effect that appellant published the printed copies of. the article in Lonoke County. Two inferences must be indulged, one dependent upon the other, to show that appellant published the printed copies of the article in Lonoke County, the first being that the office boy delivered the printed copies of the original' article to appellant at Porbeck\u2019s printing office, and the second being that appellant either took them or sent them to California and mailed them at Pasadena, California, to parties in Lonoke County. It is not allowable, under the rules of evidence, to draw one inference from another, or to indulge presumption upon presumption to establish a fact. Reasonable inferences may be drawn from positive or circumstantial evidence, but to allow inferences to be drawn from other inferences, or presumptions to be indulged from other presumptions, would carry .the deduction into the realm of speculation and conjecture.\n\"We do not think the venue was shown, and for that reason the judgment is reversed, and the cause remanded for a new trial.\nHart, C. J., Smith and McHaney, JJ., dissent.",
+        "type": "majority",
+        "author": "Humphreys, J."
+      }
+    ],
+    "attorneys": [
+      "O. E. Williams and John G. Waggoner, for appellant.",
+      "Hal L. Norwood, Attorney General, and Robert F. Smith, Assistant, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Moran v. State.\nOpinion delivered February 18, 1929.\nO. E. Williams and John G. Waggoner, for appellant.\nHal L. Norwood, Attorney General, and Robert F. Smith, Assistant, for appellee."
+  },
+  "file_name": "0003-01",
+  "first_page_order": 21,
+  "last_page_order": 25
+}

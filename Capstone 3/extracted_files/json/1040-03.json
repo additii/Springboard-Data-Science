@@ -1,0 +1,78 @@
+{
+  "id": 12457163,
+  "name": "State, Respondent, v. Furr, Petitioner",
+  "name_abbreviation": "State v. Furr",
+  "decision_date": "2016-08-03",
+  "docket_number": "No. 92819-3",
+  "first_page": "1040",
+  "last_page": "1040",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "185 Wash. 2d 1040"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Wash.",
+    "id": 9029,
+    "name": "Washington Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 38,
+    "name_long": "Washington",
+    "name": "Wash."
+  },
+  "cites_to": [
+    {
+      "cite": "192 Wn. App. 1023",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        12456184,
+        12456185,
+        12456182,
+        12456183
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/192/1023-03",
+        "/wash-app/192/1023-04",
+        "/wash-app/192/1023-01",
+        "/wash-app/192/1023-02"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 30,
+    "char_count": 210,
+    "ocr_confidence": 0.862,
+    "sha256": "93f42c1ad640d5ba0e572b2dbe1a0b72ce0a5b9165772cc379d83c65e48ef80b",
+    "simhash": "1:08d9ca3239044361",
+    "word_count": 35
+  },
+  "last_updated": "2024-02-28T00:06:59.447104+00:00",
+  "provenance": {
+    "date_added": "2019-05-22",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "State, Respondent, v. Furr, Petitioner,"
+    ],
+    "opinions": [
+      {
+        "text": "Petition for review of a decision of the Court of Appeals, No. 32543-1-III, January 21, 2016, 192 Wn. App. 1023. Granted on a specific issue August 3, 2016.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "State, Respondent, v. Furr, Petitioner,\nNo. 92819-3."
+  },
+  "file_name": "1040-03",
+  "first_page_order": 992,
+  "last_page_order": 992
+}

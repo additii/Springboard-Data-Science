@@ -1,0 +1,282 @@
+{
+  "id": 1388579,
+  "name": "Barry v. Armstrong",
+  "name_abbreviation": "Barry v. Armstrong",
+  "decision_date": "1923-12-10",
+  "docket_number": "",
+  "first_page": "314",
+  "last_page": "323",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "161 Ark. 314"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [
+    {
+      "cite": "54 Ark. 30",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1320443
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/54/0030-01"
+      ]
+    },
+    {
+      "cite": "45 Ark. 318",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1892042
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/45/0318-01"
+      ]
+    },
+    {
+      "cite": "136 S. W. 435",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "case_ids": [
+        8277979
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/sw/136/0435-01"
+      ]
+    },
+    {
+      "cite": "199 Mass. 254",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        3496962
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mass/199/0254-01"
+      ]
+    },
+    {
+      "cite": "111 Ark. 337",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1540398
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/111/0337-01"
+      ]
+    },
+    {
+      "cite": "80 Mo. App. 638",
+      "category": "reporters:state",
+      "reporter": "Mo. App.",
+      "case_ids": [
+        1463900
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mo-app/80/0638-01"
+      ]
+    },
+    {
+      "cite": "154 Ark. 92",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1361202
+      ],
+      "pin_cites": [
+        {
+          "page": "94"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/154/0092-01"
+      ]
+    },
+    {
+      "cite": "88 Ark. 557",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1517109
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/88/0557-01"
+      ]
+    },
+    {
+      "cite": "126 Ark. 562",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1551689
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/126/0562-01"
+      ]
+    },
+    {
+      "cite": "150 Ark. 43",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1367945
+      ],
+      "pin_cites": [
+        {
+          "page": "51"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/150/0043-01"
+      ]
+    },
+    {
+      "cite": "24 Fed. 439",
+      "category": "reporters:federal",
+      "reporter": "F.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "150 N. W. 669",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "139 Ark. 590",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1596424
+      ],
+      "pin_cites": [
+        {
+          "page": "593"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/139/0590-01"
+      ]
+    },
+    {
+      "cite": "90 Ark. 316",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1513899
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/90/0316-01"
+      ]
+    },
+    {
+      "cite": "55 N. Y. App. Div. 292",
+      "category": "reporters:state",
+      "reporter": "A.D.",
+      "case_ids": [
+        4776224,
+        7703454
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ad/55/0292-01",
+        "/nys/67/0165-01"
+      ]
+    },
+    {
+      "cite": "53 N. J. Eq. 91",
+      "category": "reporters:state",
+      "reporter": "N.J. Eq.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "154 Ark. 92",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1361202
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/154/0092-01"
+      ]
+    },
+    {
+      "cite": "139 Ark. 590",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1596424
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/139/0590-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 620,
+    "char_count": 17357,
+    "ocr_confidence": 0.469,
+    "pagerank": {
+      "raw": 2.38648277059564e-07,
+      "percentile": 0.7973796927929003
+    },
+    "sha256": "d467f3da4ba6506ad9ba0422dd90841f94d1d136d7e14d8ccff61ad55d6733bf",
+    "simhash": "1:fff274f8615865a6",
+    "word_count": 2985
+  },
+  "last_updated": "2024-02-27T21:32:42.656819+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Barry v. Armstrong."
+    ],
+    "opinions": [
+      {
+        "text": "McCulloch, C. J.\nAppellees purchased two hundred bales of cotton from appellants during the month of January, 1920, at thirty-nine cents per pound, and it was agreed that payment for the cotton should be made according to gin weights, but that final- settlement was to be made in accordance with compress weights after the cotton should be shipped by appellants to appellees- and received by the latter. ' Appellants shipped the cotton by rail from Okemah, Oklahoma, to Fort Smith, consigned to themselves, and mailed to appellees a draft for the price, according to gin weights, with bills of lading attached. The shipment was diverted from Fort Smith to Van Bur\u00e9n on account of the embargo at Fort Smith, but the testimony introduced in the present litigation establishes the fact that this diversion was not made by the carrier at the instigation either of the appellees or appellants. Appellees paid the draft and took up the bills of lading, and caused the cotton to be weighed at the compress at Van Bur\u00e9n. According to these weights there was a loss in the weight of the- cotton sufficient to amount to the sum of $683.18 at the purchase price paid for the cotton, -and appellees instituted this action in the -circuit court of Sebastian County (Fort Smith District) to recover this amount.\nAppellants moved to quash the service on the ground that they resided in the State of Oklahoma but were served with process in Sebastian County, and that.they were induced by appellees to go from their place of residence in Oklahoma to the city of Fort Smith for the ostensible purpose of adjusting the differences between the parties, but that plaintiffs fraudulently took advantage of their presence thus obtained in Sebastian County to cause process to be served on them in this case.\nThe court heard oral testimony on the motion to quash the service, and overruled the motion, whereupon appellants filed their answer, and also filed a cross-complaint against the Missouri Pacific Railroad Company, the carrier of the cotton, over whose lines it was shipped, and asked that the latter be made a defendant in the case, which was done.\nThere was a trial of the issues before the jury, which resulted in a verdict in favor of' appellees for the amount claimed, and judgment was rendered accordingly.\nIt is first contended that the court erred in refusing to quash the service, but we must treat the motion to quash as having been waived by reason of the fact that appellants, without preserving their rights in that respect by an express reservation in their subsequent pleadings, filed an answer as well as a cross-complaint, thus voluntarily submitting to the jurisdiction of the court. This constituted a waiver, and it is too late now to raise the question of insufficiency of the service, or fraud in procuring the service. Tindall v. Layne, 139 Ark. 590.\nObjection is made to portions of the court\u2019s charge on the ground that it failed to submit appellants\u2019 theory of the case to the jury. There is very little, if any, material conflict in the testimony concerning the contract between the parties and its effect. Appellees were engaged in the cotton business in Muskogee, Oklahoma, and appellants were engaged in the same business at Okemah, Oklahoma, and during the month of January, 1920, the parties entered into an agreement for the sale of two hundred bales of cotton by appellants to appellees at the price of thirty-nine cents per pound, the price to be paid according to gin weights, subject, to final adjustment in accordance with compress weights after shipment and delivery to appellees. It was agreed that the cotton should be shipped by rail to Fort Smith, consigned to appellants\u2019 order, with draft on appellees attached to the bills of lading. There is a slight difference in the statements of the parties as to the precise words of the agreement, but little difference as to the effect. Mr. Vann, one of the appellees, who conducted the negotiations with appellants, testified that there was an embargo on compresses in that locality, except at Fort Smith and Van Bur\u00e9n, and that he expressed a willingness to have the cotton shipped to either place, but that appellants claimed that they had had trouble with weig\u2019hts at the Van Bur\u00e9n compress, and preferred to ship to Fort Smith, to which he readily agreed. Mr. Barry, one of the appellants, testified that he objected to shipping to Van Bur\u00e9n, and declined to do so on account of having had trouble with the compress weights at that place, and that he insisted on shipping the cotton to Fort Smith, to which Mr. Vann agreed.\nThe evidence is sufficient to show that appellants were unwilling to ship the cotton to Van Bur\u00e9n, and that there was an express agreement that it was to be shipped to Fort Smith, consigned to appellants\u2019 own order.\nThere is no testimony at all that either party was responsible for the diversion of the shipment from Fort Smith to Van Bur\u00e9n.\nCounsel for appellants contend that the court excluded their defense by refusing to give the following instructions:\n\u201c1. If you believe from the evidence that defendants sold to plaintiffs two hundred bales of cotton, to be weighed at Fort Smith compress, and with the distinct understanding that the cotton was not to be weighed at Van Bur\u00e9n compress, and was delivered to plaintiffs at Okemah, Oklahoma, and you further believe that said cotton was weighed at Van Bur\u00e9n, Arkansas, without the consent of Barry Bros., then your verdict should be for the defendants.\u201d\n\u201c3. You are instructed that the defendants had the right to sell the cotton in question with a stipulation or agreement that they would not be bound by the weights of said cotton if weighed at the compress at Van Bur\u00e9n, Arkansas, and if you find from a preponderance of the evidence that this agreement was made at or before the time of sale, and that the defendants, after said sale was made, and at the request and under the direction of the purchasers, Armstrong-V\u00e1nn & Co., delivered said cotton to the Fort Smith and Western Railroad at Okemah, Oklahoma, to be delivered to Fort Smith, Arkansas, and was thereafter, without fault on the part of the defendants, diverted to and weighed at the compress at Van Bur\u00e9n, Arkansas, then the defendants would not be bound by such weights as shown by the Van Bur\u00e9n compress, nor liable to the plaintiff for any damage on account of loss of weight, if any is shown.\u201d\nThere was no testimony tending to show that there was a delivery of the cotton to appellees at Okemah, Oklahoma, therefore the court was correct in refusing to give this instruction on that account. The undisputed evidence gs that the cotton was to be shipped to appellants\u2019 own order at Fort Smith, and delivered there to appellees, upon payment of the draft attached to the bills of lading. That instruction was also erroneous, as will be seen in the discussion of the other instructions hereafter, in denying appellees recovery on account of loss in weights merely because the cotton was not weighed in Fort Smith.\nInstruction No. 3 was erroneous in telling the jury that the shipment of the cotton to Fort Smith constituted a delivery to appellees, and that for that, reason appellees could not recover for loss of weights except as shown by the compress weights at Fort Smith. According to the undisputed evidence, shipment was made to appellants\u2019 own order, and, nothing else being proved to manifest the contrary intention of the parties, this constituted a reservation of the title, and the delivery to the carrier was not a delivery to the purchaser. In a recent case we said that \u201cwhere the seller consigns the shipment to his own order, thus.manifesting his intention to reserve his dominion and right of disposition over the property, nothing else appearing to manifest an intention to pass the title, such consignment does not constitute a delivery to the purchaser.\u201d Richardson v. Fowler Commission Co., 154 Ark. 92, and cases there cited. Appellants having reserved their dominion and control over the cotton by consigning it to their own order at Fort Smith, made the carrier their own agent, and they alone are responsible for the unauthorized diversion. Appellees were therefore not bound by the agreement to settle according to the Fort Smith weights, unless appellants gave an opportunity to ,carry out that agreement by re-weighing the cotton at Fort Smith. There is no 'contention that appellants gave an opportunity to re-weigh the cotton at Fort Smith, and they could not, therefore, escape liability for loss in weights merely because the carrier, as their agent, had diverted the cotton to another place. The agreement was, as before stated, to make final settlement upon the compress weights at Fort Smith. The agreement was that the cotton was to be shipped to Fort Smith, and that the compress weights were to be the basis of final settlement, and this necessarily meant the compress at Fort Smith. There was no agreement that the parties should be bound by the compress weights at Van Bur\u00e9n, or at any place other than Fort Smith, but, since the cotton was not delivered to the compress in Fort Smith, appellees were entitled to recover for actual losses in weight. The parties were not bound by the compress weights at Van Bur\u00e9n unless they were correct weights, and the burden of proof was on appellees to show that those weights were correct.\nIt is insisted that the court erred in giving the following instruction at the instance of appellees:\n\u201c9. Even though you may find that it was a part of the agreement of sale, if you so find, that the cotton was to be shipped to Fort Smith, yet if you believe from a preponderance of the evidence that there was actual loss in weights, the defendants would be liable for such loss in weights, if' any shown by the evidence, and the plaintiff would be entitled to recover the value thereof according to the sale price, together with interest at the rate of six per cent, per annum. \u2019 \u2019\nThis instruction was in accordance with the views of the law which we have just expressed, and there was no error. It told the jury, in substance, that, even though the cotton was to be shipped to Fort Smith, if there was, in fact, an actual loss in the weights, appellants would be liable for the loss, based on the price of the cotton. There was, as before stated, no issue of fact as to the appellees being responsible for the diversion of the shipment.\nObjection was also made to the following instruction given by the court of its own motion:\n\u201cA. If you believe from the evidence defendants sold plaintiff certain cotton, and it was agreed that said cotton was to be weighed at a certain point, and settlement for loss of weight, if any, was to be made accordingly, then the burden of proof rests upon the plaintiff to show what the loss of weight would have been if said cotton had been weighed as agreed.\u201d\nIf there was any error in this instruction, it was not to appellants\u2019 prejudice. As we have already said, the burden was on appellees to prove the actual weight of the cotton, as the parties had not agreed to be bound by the Van Bur\u00e9n compress weights, and were not bound. But the instruction was too favorable to appellants in telling the jury that, if there was an agreed place for the re-weighing of the cotton, the burden would be upon appellees to show what the weights would have been if it had been re-weighed there. Appellees were not bound to cause the cotton to be weighed at the agreed place, after it had been diverted by the carrier, without their consent, therefore they were not bound to show what the weights would be at that place before they could recover. They had the right to ascertain the actual weights, and were entitled to recover on that basis. Appellees introduced the Van Bur\u00e9n compress weights, and proved that they were correct, and the recovery is authorized, based on these weights, not because there was any agreement to be bound thereby, but because the weights were founl by the jury to be correct.\nFinally, it is insisted that the court erred in permitting appellees to introduce testimony as to the good reputation of the man who weighed the cotton at Van Bur\u00e9n. The answer to this contention is that appellants themselves attached the reputation of the weigher at Van Bur\u00e9n, and this invited the introduction of the testimony on that subject. They are therefore in no attitude to complain of the error of the court in permitting testimony in that direction to be introduced. In other words, the error was invited by appellants themselves.-\nNo error' is found in the record, and the judgment is therefore affirmed.",
+        "type": "majority",
+        "author": "McCulloch, C. J."
+      }
+    ],
+    "attorneys": [
+      "Cravens, Oglesby & Cravens, for appellants.",
+      "Warner, Hardin & Warner, for appellees."
+    ],
+    "corrections": "",
+    "head_matter": "Barry v. Armstrong.\nOpinion delivered December 10, 1923.\n1. Process \u2014 waiver op objection \u2014 Error in refusing to quash service of process is waived by filing an answer and cross-complaint without expressly reserving defendant\u2019s rights.\n2. Sales \u2014 instruction as to place .op delivery. \u2014 Where a shipper of cotton agreed to deliver same to buyer at destination, an instruction which assumed that delivery was to be made at the point of delivery to the carrier was properly refused.\n3. Sales \u2014 consignment to shipper\u2019s order. \u2014 Where a seller consigns a shipment to his own order, thus manifesting his intention to reserve his dominion and right of disposition over the property, nothing else appearing to manifest an intention to pass the title, such consignment does not constitute a delivery to the purchaser.\n4. Sales \u2014 agreement to settle by weights at designated point.\u2014 Where sellers of cotton made shipment to their own order at a designated point, for delivery to the purchasers on payment of a draft attached to bill of lading, they made the carrier their own agent and were responsible for its unauthorized diversion of the shipment to another point, so that the purchasers were not hound by an agreement to settle according to the weights at the agreed destination, but could recover for actual losses in weight at the point to which the shipment was diverted, on proving that they were correct.\n5. Appeal and error \u2014 instruction\u2014harmless error.- \u2014 In an action for loss in weight of cotton consigned to plaintiffs\u2019 order at a designated place, from which the carrier diverted it to another place, an instruction that, if -it was agreed between plaintiffs and defendants that settlement -should be made according to the weights at original destination, the burden was on plaintiffs to -show what the loss would have been if it had been weighed there as agreed, was not prejudicial to defendants, as plaintiffs were entitled to recover on the basis of the weights at the place -of actual delivery.\n6. Appeal and error \u2014 invited error. \u2014 In an action for loss of weight in cotton, ,as shown by the compress weights at a place to which it was diverted by the carrier, where defendants attacked the reputation of -the weigher at such point, they cannot complain that plaintiffs -introduced testimony as to such weigher\u2019s good reputation.\nAppeal from Sebastian Circuit Court, Fort .Smith District; John Briszolara. Judge;\naffirmed.\nCravens, Oglesby & Cravens, for appellants.\n1. Personal service obtained by inveigling or inducing one into the territorial jurisdiction of a court by fraudulent means, or by trick or device, is illegal, and should be quashed. 32 Cvc.. 448; 53 N. J. Eq. 91; 55 N. Y. App. Div. 292; 67 N. Y. Sup. 165.\n2. None of the instructions given covered the appellant\u2019s theory of the case, although there was evidence to support it, and it was therefore error to refuse requested instructions covering that theory. 149' Ark. 225.\nWarner, Hardin & Warner, for appellees.\n1. Having pleaded to the merits, not only answering, but also having filed a cross-complaint, without reservation as to the point raised by the motion to quash the service, appellants entered their appearance and waived the error, if any, in overruling that motion. 90 Ark. 316; 4 C. J. 1337, \u00a7 28; 139 Ark. 590, 593. However, on the merits of this proposition, there was no evidence which lants to come within the jurisdiction of the court. 150 N. W. 669, syllabus 4; 49 L. ed. (U. S.) 988; 24 Fed. 439; Ann. Cas., 1916-C, 614. The trial court heard the testimony on the issues of fact involved in the motion and made its finding' upon them. Its finding- is conclusive here. 150 Ark. 43, 51.\n\u25a0 2. Appellants, having failed to abstract the instructions given, requested and refused, will not be heard to urge error in refusing to instruct on their theory of the case. 126 Ark. 562.\n3. There was no breach of the contract on the part of appellees, growing out of the delivery of the cotton at Van Bur\u00e9n. If there was any breach in that respect, it was on the part of appellants. 88 Ark. 557. The consignment was to appellants\u2019 own order, did not constitute delivery to appellees. 154 Ark. 92, 94.\n4. The reputation of Keith, the weigher at Van Bur\u00e9n, was, under the issues raised in this case, competent, and it was not error to admit testimony to prove it, appellants having attacked his reputation as a weigher, by attacking the reliability of the weights at this compress. 34 Cyc. 1624; 80 Mo. App. 638; 111 Ark. 337; 3 Labatt on Master & Servant, 2 ed., \u00a7 1079; 199 Mass. 254; 136 S. W. 435; 45 Ark. 318. If this testimony was not competent, appellants invited it, and therefore cannot complain. 54 Ark. 30."
+  },
+  "file_name": "0314-01",
+  "first_page_order": 342,
+  "last_page_order": 351
+}

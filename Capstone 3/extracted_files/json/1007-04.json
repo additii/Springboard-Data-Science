@@ -1,0 +1,76 @@
+{
+  "id": 12462801,
+  "name": "Driggs, Respondent, v. Howlett et al., Petitioners",
+  "name_abbreviation": "Driggs v. Howlett",
+  "decision_date": "2016-08-31",
+  "docket_number": "No. 93128-3",
+  "first_page": "1007",
+  "last_page": "1007",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "186 Wash. 2d 1007"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Wash.",
+    "id": 9029,
+    "name": "Washington Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 38,
+    "name_long": "Washington",
+    "name": "Wash."
+  },
+  "cites_to": [
+    {
+      "cite": "193 Wn. App. 875",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        12449929
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/193/0875-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 29,
+    "char_count": 197,
+    "ocr_confidence": 0.843,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2576590372643347
+    },
+    "sha256": "64c54c17ccf0761557a237d2e4c1bf19d0bba2a5a83edd18cdfddb874aac0ff7",
+    "simhash": "1:28951a3954352cc4",
+    "word_count": 33
+  },
+  "last_updated": "2024-02-27T18:43:05.207238+00:00",
+  "provenance": {
+    "date_added": "2019-05-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Driggs, Respondent, v. Howlett et al., Petitioners,"
+    ],
+    "opinions": [
+      {
+        "text": "Petition for review of a decision of the Court of Appeals, No. 32381-1-III, May 10, 2016, 193 Wn. App. 875. Denied August 31, 2016.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Driggs, Respondent, v. Howlett et al., Petitioners,\nNo. 93128-3."
+  },
+  "file_name": "1007-04",
+  "first_page_order": 993,
+  "last_page_order": 993
+}

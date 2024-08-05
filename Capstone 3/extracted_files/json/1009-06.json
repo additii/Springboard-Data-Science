@@ -1,0 +1,76 @@
+{
+  "id": 12462818,
+  "name": "In re Det. of P.K.",
+  "name_abbreviation": "In re Det. of P.K.",
+  "decision_date": "2016-09-28",
+  "docket_number": "No. 92106-7",
+  "first_page": "1009",
+  "last_page": "1009",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "186 Wash. 2d 1009"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Wash.",
+    "id": 9029,
+    "name": "Washington Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 38,
+    "name_long": "Washington",
+    "name": "Wash."
+  },
+  "cites_to": [
+    {
+      "cite": "189 Wn. App. 317",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        6778651
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/189/0317-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 27,
+    "char_count": 167,
+    "ocr_confidence": 0.879,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.25766077481737354
+    },
+    "sha256": "a004e833d47f53156ad2e9b0826e0102d6d0f1d5cf4841847690cc5c9ff4cd0c",
+    "simhash": "1:03fbb054ba7794c9",
+    "word_count": 31
+  },
+  "last_updated": "2024-02-27T18:43:05.207238+00:00",
+  "provenance": {
+    "date_added": "2019-05-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Det. of P.K.,"
+    ],
+    "opinions": [
+      {
+        "text": "Petition for review of a decision of the Court of Appeals, No. 71290-0-I, July 13, 2015, 189 Wn. App. 317. Denied September 28, 2016.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "In re Det. of P.K.,\nNo. 92106-7."
+  },
+  "file_name": "1009-06",
+  "first_page_order": 995,
+  "last_page_order": 995
+}

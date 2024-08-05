@@ -1,0 +1,62 @@
+{
+  "id": 1435061,
+  "name": "Shook v. Morrison",
+  "name_abbreviation": "Shook v. Morrison",
+  "decision_date": "1932-04-04",
+  "docket_number": "",
+  "first_page": "522",
+  "last_page": "523",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "185 Ark. 522"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 173,
+    "char_count": 2120,
+    "ocr_confidence": 0.495,
+    "sha256": "c6cf170798812b742bc8610dca10ba01ce39413d5c589608dfab89317690f4ab",
+    "simhash": "1:8379b494a445cb16",
+    "word_count": 362
+  },
+  "last_updated": "2023-07-14T16:31:44.100435+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Shook v. Morrison."
+    ],
+    "opinions": [
+      {
+        "text": "Humphreys, J.\nThis is an appeal from the circuit court of Washington County dismissing the petition of appellants to the county board of education to change the. boundary lines of Winslow Special School District No. 9 so as to bring within its boundary all of the territory in Common School Districts Nos. 37, 129 and 145 under the provisions of act No. 156 of 1927 (page 549).\nThe record reflects that notices of the intention to file the petition for consolidation of said school districts with the county board of education were not posted thirty days before but thirty days after filing the petition. The statute governing the notices to be posted is found in \u00a7 8821 of Crawford & Moses\u2019 Digest, and is as follows:\n\u201cWhen a change is proposed in any school district, notice shall be given by parties proposing the change by putting up hand-bills in four or more conspicuous places in each district to be affected, one of said notices to be placed on the public school building in each affected district. All of said notices to be posted thirty days before the convening of the court to which they propose to present their petition. Said notices shall give a geographical description of the proposed change.\u201d\nThis court has construed the statute with reference to the time of posting the notices in the recent case of Texarkana Special School District v. Consolidated Special School District No. 2, ante p. 213, to mean that same must be posted before, and not after, the filing of the petition in order to give the county board of education jurisdiction to hear and determine the application. It is argued in appellants \u2019 reply brief very earnestly that the court should recede from the interpretation placed upon the statute in the case'referred to, but the court is of opinion that it correctly construed the statute and adheres to the construction placed upon it in that case.\nThis case is therefore ruled by the case cited.\nNo error appearing, the judgment is affirmed.",
+        "type": "majority",
+        "author": "Humphreys, J."
+      }
+    ],
+    "attorneys": [
+      "J. V. Walker and Karl Greenhaw, for appellant.",
+      "Earl Blansett and John Mayes, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Shook v. Morrison.\nOpinion delivered April 4, 1932.\nJ. V. Walker and Karl Greenhaw, for appellant.\nEarl Blansett and John Mayes, for appellee."
+  },
+  "file_name": "0522-01",
+  "first_page_order": 542,
+  "last_page_order": 543
+}

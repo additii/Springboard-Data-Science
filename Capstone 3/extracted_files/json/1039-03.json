@@ -1,0 +1,78 @@
+{
+  "id": 12457155,
+  "name": "State, Respondent, v. Pena, Petitioner",
+  "name_abbreviation": "State v. Pena",
+  "decision_date": "2016-06-29",
+  "docket_number": "No. 92914-9",
+  "first_page": "1039",
+  "last_page": "1039",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "185 Wash. 2d 1039"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Wash.",
+    "id": 9029,
+    "name": "Washington Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 38,
+    "name_long": "Washington",
+    "name": "Wash."
+  },
+  "cites_to": [
+    {
+      "cite": "192 Wn. App. 1037",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        12456234,
+        12456235,
+        12456236,
+        12456237
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/192/1037-01",
+        "/wash-app/192/1037-02",
+        "/wash-app/192/1037-03",
+        "/wash-app/192/1037-04"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 27,
+    "char_count": 187,
+    "ocr_confidence": 0.852,
+    "sha256": "6949ead4a931b3f76bba48fcfcae63cbedfb781ea8738f6aac466d1e013ac5ff",
+    "simhash": "1:20f942a37145d170",
+    "word_count": 31
+  },
+  "last_updated": "2024-02-28T00:06:59.447104+00:00",
+  "provenance": {
+    "date_added": "2019-05-22",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "State, Respondent, v. Pena, Petitioner,"
+    ],
+    "opinions": [
+      {
+        "text": "Petition for review of a decision of the Court of Appeals, No. 46589-2-II, February 9, 2016, 192 Wn. App. 1037. Denied June 29, 2016.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "State, Respondent, v. Pena, Petitioner,\nNo. 92914-9."
+  },
+  "file_name": "1039-03",
+  "first_page_order": 991,
+  "last_page_order": 991
+}

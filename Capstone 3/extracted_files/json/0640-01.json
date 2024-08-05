@@ -1,0 +1,62 @@
+{
+  "id": 1428368,
+  "name": "Weishaupt v. Bank of Russellville",
+  "name_abbreviation": "Weishaupt v. Bank of Russellville",
+  "decision_date": "1934-01-22",
+  "docket_number": "4-3299",
+  "first_page": "640",
+  "last_page": "642",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "188 Ark. 640"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 269,
+    "char_count": 4367,
+    "ocr_confidence": 0.478,
+    "sha256": "4ea59625db88be01680d959a7aa52caaad0d4db7bddedb25bf935201c9730337",
+    "simhash": "1:5a3b8f4697c90fe7",
+    "word_count": 746
+  },
+  "last_updated": "2023-07-14T22:44:11.517500+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Weishaupt v. Bank of Russellville."
+    ],
+    "opinions": [
+      {
+        "text": "Humphreys, J.\nAppellee brought suit against appellant and J. C. Fincher in the circuit court of Pope County for a balance due. on two notes executed by appellant to J. O. Fincher on the 11th day of May, 1929, due and payable in two and three years after date, which notes were assigned to appellee by J. C. Fincher before maturity in payment of indebtedness Fincher owed it.\nAppellant filed an answer admitting the execution of the notes but denying liability for the balance due on account of the want of title in Fincher to a part of the property for which the notes were given and on account of the fraudulent misrepresentation of appellee as to the ownership of part of said property by Fincher.\nAppellee filed a reply to the answer denying each material allegation therein.\nBased upon the allegations in the answer, appellant filed a motion to transfer the cause to the chancery court, which was overruled by the court over appellant\u2019s objection and exception.\nThe cause was then submitted upon the pleadings and testimony, at the conclusion of which the court instructed the jury to render a verdict in favor of appellee for the amount due upon the notes and rendered a judgment in accordance with the verdict, from which is this appeal.\nThe record reflects that the notes were given by appellant as a part of the purchase price for the entire equipment used in and about the operation of a certain coal mine known as the Hoing 'Coal Mine located in Johnson County, Arkansas, in section 20, township 9 north, range 25 west, consisting of two tipples, one wash house, one. locomotive engine, one supply house, 3,600 feet of, tramroad and right-of-way for same, including side tracks and switches, 25 cars more or less, one blacksmith shop\u2018 complete; also that, at the time of the execution of the notes, a written contract for the transfer of said property, which was in the nature of a bill of sale, was executed between J. C. Fincher, as party of the first part, and appellant, as party of the second part; that the written contract contained the following provision:\n\u201cThe said party of the second part on his part agrees and does by these presents accept the aforesaid property, with which he is familiar, in its present condition and quantities, taking the lease contract of the said Quick without recourse on .the said party of the first part.\u201d\nAppellant introduced testimony, over the objection and exception of appellee, tending to show that appellee\u2019s representative, who was president of appellee bank, represented that J. C. Fincher was the owner of all the property; whereas, E. C. Quick was the owner of a part thereof by purchase under a \u00a1mortgage foreclosure sale of the southwest quarter, southeast quarter of section 2, township 9, range 25 west, on which some of the property or equipment was located.\nAppellant contends the trial court erred in refusing to transfer the cause to the chancery court under the allegations of bis answer. We think not, because the defenses interposed in the answer, if available to him, were just as available in law as in equity.\nAppellant also contends the trial court erred in disregarding the testimony tending to show that there was an outstanding interest of a third person in a part of the property or equipment and that there was a misrepresentation by appellee\u2019s agent to the effect that J. C. Fincher was the sole owner of all the property or equipment. This, of course, was the effect of instructing a verdict for appellee. The action of the court was tantamount to excluding such testimoiry.\nThe defenses interposed and the evidence introduced in support thereof were not available to appellant on account of the contract he made when he boug\u2019ht the property or equipment. The clause in the contract alluded to is as follows:\n\u201cThe said party of the second part on his part agrees and does by these presents accept the aforesaid property, with which he is familiar, in its present condir tion and quantities, taking the lease contract of the said Quick without recourse on the said party of the first part.\u201d\nThe peremptory instruction given by the court was based upon this clause in the contract and was correct.\nNo error appearing, the judgment is affirmed.",
+        "type": "majority",
+        "author": "Humphreys, J."
+      }
+    ],
+    "attorneys": [
+      "Williams & Williams, for appellant.",
+      "Ward & Caudle, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Weishaupt v. Bank of Russellville.\n4-3299\nOpinion delivered January 22, 1934.\nWilliams & Williams, for appellant.\nWard & Caudle, for appellee."
+  },
+  "file_name": "0640-01",
+  "first_page_order": 658,
+  "last_page_order": 660
+}

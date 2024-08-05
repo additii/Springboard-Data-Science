@@ -1,0 +1,78 @@
+{
+  "id": 12462957,
+  "name": "In re Det. of Hancock",
+  "name_abbreviation": "In re Det. of Hancock",
+  "decision_date": "2016-12-07",
+  "docket_number": "No. 93441-0",
+  "first_page": "1027",
+  "last_page": "1027",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "186 Wash. 2d 1027"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Wash.",
+    "id": 9029,
+    "name": "Washington Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 38,
+    "name_long": "Washington",
+    "name": "Wash."
+  },
+  "cites_to": [
+    {
+      "cite": "194 Wn. App. 1045",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        12451848,
+        12451845,
+        12451846,
+        12451847
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/194/1045-04",
+        "/wash-app/194/1045-01",
+        "/wash-app/194/1045-02",
+        "/wash-app/194/1045-03"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 26,
+    "char_count": 170,
+    "ocr_confidence": 0.872,
+    "sha256": "f96b2c7782e406372337d1c1ceb5b4d12d2501f760157eb85b3c4196cbd36f64",
+    "simhash": "1:0d238b37a1bfd4c5",
+    "word_count": 31
+  },
+  "last_updated": "2024-02-27T18:43:05.207238+00:00",
+  "provenance": {
+    "date_added": "2019-05-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Det. of Hancock,"
+    ],
+    "opinions": [
+      {
+        "text": "Petition for review of a decision of the Court of Appeals, No. 47336-4-II, June 28, 2016, 194 Wn. App. 1045. Denied December 7, 2016.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "In re Det. of Hancock,\nNo. 93441-0."
+  },
+  "file_name": "1027-04",
+  "first_page_order": 1013,
+  "last_page_order": 1013
+}

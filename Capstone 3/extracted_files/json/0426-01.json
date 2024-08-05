@@ -1,0 +1,79 @@
+{
+  "id": 1388534,
+  "name": "Parker v. Bodcaw Bank",
+  "name_abbreviation": "Parker v. Bodcaw Bank",
+  "decision_date": "1923-12-24",
+  "docket_number": "",
+  "first_page": "426",
+  "last_page": "427",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "161 Ark. 426"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [
+    {
+      "cite": "73 Ark. 37",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1504044
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/73/0037-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 171,
+    "char_count": 2733,
+    "ocr_confidence": 0.491,
+    "pagerank": {
+      "raw": 3.0961898570065423e-07,
+      "percentile": 0.8589703492365771
+    },
+    "sha256": "2211557f342189e374a06be8abf386c59a36ecc188b9b036084f77737dab0957",
+    "simhash": "1:57caeae9431a9c08",
+    "word_count": 454
+  },
+  "last_updated": "2024-02-27T21:32:42.656819+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Parker v. Bodcaw Bank."
+    ],
+    "opinions": [
+      {
+        "text": "McCulloch, C. J.\nAppellee instituted' this action in the chancery court of Columbia County to recover the amount of certain promissory notes executed by appellants, and to foreclose a mortgage on land given as security for said notes. Appellants answered, and filed a cross-complaint setting forth claim for damages in an amount sufficient to extinguish appellee\u2019s debt if the counter-claim be sustained. Final decree was rendered by the court on September 22, 1922, in favor of appellee against appellants for the recovery of said debt, and for the foreclosure of the mortgage, and dismissing the cross-complaint of appellants for want of equity. There was a sale of the land by the court\u2019s commissioner, and on December 21, 1922, the sale came on for confirmation, and the court overruled the exceptions of appellants and confirmed the sale.\nThe appeal was not perfected by the filing of the transcript in this court until March 29, 1923, which was too late to bring up for review the original decree of Sentember 22, 1922. On motion of appellee we have heretofore dismissed the appeal as to the first decree, leaving only the appeal from the hist decree, which confirmed the sale.\nThe original decree foreclosing the mortgage was final and appealable, and the later decree confirming the sale was also final, from which an appeal could be prosecuted. Cooper v. Ryan, 73 Ark. 37.\nAppellants have failed to abstract the record with respect to the proceedings before the court when the sale came up for confirmation, therefore we have nothing before us to decide as to that feature of the record. The abstract shows that there were exceptions to the confirmation, but the grounds of the exceptions are not shown, nor is there an argument made in support of them.\nThe decree confirming the sale is therefore affirmed.",
+        "type": "majority",
+        "author": "McCulloch, C. J."
+      }
+    ],
+    "attorneys": [
+      "Joe Joiner, for appellant.",
+      "Wade Kitchens, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Parker v. Bodcaw Bank.\nOpinion delivered December 24, 1923.\n1. Appeal and error \u2014 final decrees. \u2014 A decree foreclosing a mortgage and a later decree confirming the foreclosure sale were both final and appealable.\n2. Appeal and error \u2014 time for appealing. \u2014 Where a decree foreclosing a mortgage was rendered on September 22, 1922, and a decree confirming the sale on December 21, 1922, an appeal perfected on March 29, 1923, was too late to bring up for review the decree of September 22, 1922.'\n3. Appeal and error \u2014 matters for review. \u2014 Where, in an appeal from a decree confirming a foreclosure sale, the abstract showed that there were exceptions to the confirmation of the sale, but the grounds were not shown nor any argument made to support them, the decree must foe affirmed.\nAppeal from Columbia Chancery Court; J. 7. Stevens, Chancellor;\naffirmed.\nJoe Joiner, for appellant.\nWade Kitchens, for appellee."
+  },
+  "file_name": "0426-01",
+  "first_page_order": 454,
+  "last_page_order": 455
+}

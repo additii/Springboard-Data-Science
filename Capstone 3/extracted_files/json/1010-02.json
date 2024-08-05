@@ -1,0 +1,76 @@
+{
+  "id": 12462821,
+  "name": "In re Marriage of Eklund",
+  "name_abbreviation": "In re Marriage of Eklund",
+  "decision_date": "2016-09-28",
+  "docket_number": "No. 92864-9",
+  "first_page": "1010",
+  "last_page": "1010",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "186 Wash. 2d 1010"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Wash.",
+    "id": 9029,
+    "name": "Washington Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 38,
+    "name_long": "Washington",
+    "name": "Wash."
+  },
+  "cites_to": [
+    {
+      "cite": "192 Wn. App. 1008",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        12456128,
+        12456129,
+        12456130
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/192/1008-01",
+        "/wash-app/192/1008-02",
+        "/wash-app/192/1008-03"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 26,
+    "char_count": 177,
+    "ocr_confidence": 0.881,
+    "sha256": "fe3a9ea8220df2e38a58e43a7a63d85391d135170216e1f04aac8d74b011eac6",
+    "simhash": "1:41d930907969e27d",
+    "word_count": 31
+  },
+  "last_updated": "2024-02-27T18:43:05.207238+00:00",
+  "provenance": {
+    "date_added": "2019-05-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Marriage of Eklund,"
+    ],
+    "opinions": [
+      {
+        "text": "Petition for review of a decision of the Court of Appeals, No. 72927-6-I, January 11, 2016, 192 Wn. App. 1008. Denied September 28, 2016.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "In re Marriage of Eklund,\nNo. 92864-9."
+  },
+  "file_name": "1010-02",
+  "first_page_order": 996,
+  "last_page_order": 996
+}

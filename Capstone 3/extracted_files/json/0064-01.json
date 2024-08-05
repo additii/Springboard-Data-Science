@@ -1,0 +1,79 @@
+{
+  "id": 1435265,
+  "name": "Grossman v. Taylor",
+  "name_abbreviation": "Grossman v. Taylor",
+  "decision_date": "1932-01-18",
+  "docket_number": "",
+  "first_page": "64",
+  "last_page": "70",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "185 Ark. 64"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [
+    {
+      "cite": "37 S. W. (2d) 84",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "183 Ark. 526",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 261,
+    "char_count": 4341,
+    "ocr_confidence": 0.461,
+    "pagerank": {
+      "raw": 1.527101244301421e-07,
+      "percentile": 0.6704388943139156
+    },
+    "sha256": "de1f1dfb021b6b19545893ffddd8592930ec1f70d4706c6d535e0916d835d76d",
+    "simhash": "1:bb9bcc9d1811be9b",
+    "word_count": 758
+  },
+  "last_updated": "2024-02-27T17:51:09.396208+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Grossman v. Taylor."
+    ],
+    "opinions": [
+      {
+        "text": "Kirby, J.,\n(after stating the facts). The larv designates all creditors of a failed bank, of which the bank commissioner has taken charge, as either \u201csecured creditors, prior creditors or general creditors;\u201d and in act 107 of 1927, \u00a7 1, defines a prior creditor as follows:\n\u201c(5) The beneficiary of an express trust, as distinguished from a constructive trust, a resulting trust, or a trust ex-maleficio, of which the said bank was the trustee, and which was evidenced by a writing signed by said bank at the time thereof.\u201d The instrument cre-^ ating the express trust of the funds deposited in the bank and naming the American Trust Company as trustee, defining its powers and duties as such, was accepted in writing by said American Trust Company in accordance with the terms thereof, and the bank\u2019s record of the transaction shows it as a trust fund, and that the trust was being executed by the trustee in accordance with the terms of the instrument creating it.\nIt is true the amount of money set aside for this trust was already in the bank at the time of the execution of the agreement creating the trust duly accepted by the bank, but the instrument was as effectual to create an express trust as though the money had been checked out and redeposited. It is likewise true that this trust fund was not a special deposit within the meaning of the provisions of said act classifying creditors entitled to a preference, but neither was it required to be such in order to entitle the beneficiaries to a prior claim, since the express trust constituting the bank trustee was evidenced by a writing signed by the bank at the time prescribing the duties of such trustee.\nTaylor v. Street Improvement District, 183 Ark. 526, 37 S. W. (2d) 84, furnishes no authority for holding otherwise, that case being easily distinguishable from the instant case. There the money was placed in the bank to its credit as treasurer of the districts, the districts being allowed to check it out without restrictions, and the districts were not entitled to priority in payment of their claims because no express trust in writing was created at the time, and neither was any special deposit of the funds made within the meaning of the act; the chancellor there having found that they were entitled to such priority because the funds were trust funds of which special deposit was made.\nThe act provides all prior creditors as defined in the act, not specified in the exception, \u201cshall have such priority to the extent that they, respectively, may specifically identify their property in its original or traceable form into the hands of the Commissioner, and, if unable so to identify such property, to the extent that the assets in the hands of the Commissioner, in the form of the lowest amount of cash on hand, exclusive of deposits in other banks and all other assets, remaining in said bank continuously after their said respective priorities arose, where necessarily increased by such property, such cash on hand being deemed to have been so increased to the extent of any priorities which may be acquired under classification number (7) as hereinabove set forth, and if such cash on hand is not sufficient to pay all such prior creditors in full the same shall be prorated among them.\u201d The balance of any such claims that can not be so paid in full to be paid as the claims of general creditors of the bank. Act 107 of 1927, p. 301.\nThe trust fund was not a special deposit, the actual cash being used by the bank as other funds regularly deposited therein, and could not be specifically identified in the hands of the Commissioner, and is to be paid along with the claims of such other prior creditors out of the fund as designated in the statute, and the balance, if said fund is not sufficient to pay all such claims, to be paid as the claims of the general creditors of such bank.\nIt necessarily follows that the court erred in holding otherwise, and the decree is reversed and the cause remanded with directions to enter a decree in accordance with this opinion holding said claims entitled to prioritv of payment along with such other prior claims or creditors under the terms of said act.",
+        "type": "majority",
+        "author": "Kirby, J.,"
+      }
+    ],
+    "attorneys": [
+      "Charles Frierson, Jr., and Chas. D. Frierson, for appellant.",
+      "Sam Borex and Lamb <S Adams, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Grossman v. Taylor.\nOpinion delivered January 18, 1932.\nCharles Frierson, Jr., and Chas. D. Frierson, for appellant.\nSam Borex and Lamb <S Adams, for appellee."
+  },
+  "file_name": "0064-01",
+  "first_page_order": 84,
+  "last_page_order": 90
+}

@@ -1,0 +1,85 @@
+{
+  "id": 1435103,
+  "name": "Pulaski Mining Company v. Vance",
+  "name_abbreviation": "Pulaski Mining Co. v. Vance",
+  "decision_date": "1932-04-25",
+  "docket_number": "",
+  "first_page": "653",
+  "last_page": "658",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "185 Ark. 653"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [
+    {
+      "cite": "107 S. W. 380",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "85 Ark. 89",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1523286
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/85/0089-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 357,
+    "char_count": 7022,
+    "ocr_confidence": 0.474,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.054020910099391896
+    },
+    "sha256": "b6b446e3fd664ab7ef0cee4865b88f3c52751fb12b4423a6d85f06ac860445a7",
+    "simhash": "1:e735a5b2c607dcef",
+    "word_count": 1217
+  },
+  "last_updated": "2024-02-27T17:51:09.396208+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Pulaski Mining Company v. Vance."
+    ],
+    "opinions": [
+      {
+        "text": "Kirby, J.,\n(after stating the facts). It is insisted by appellant that the court erred in holding the lease invalid as being executed by the Commissioner without authority of law, and also in declaring the suit could be maintained by the appellees.\nThe conveyance of the lands upon which the Ex-Confederate Home was already constructed was made by individuals, trustees for the establishment of the home, for the use of soldiers of the Confederate Army. It will suffice to say that the deed conveying the lands to the State conveyed the whole title without any trust being imposed upon the State, the grantee, for the maintenance of the home thereafter that could be enforced to prevent the disposition of the lands by the State.\nThe statute, which it is claimed authorized the lease made by the Commissioner of Revenues, is \u00a7 6789, Crawford & Moses\u2019 Digest, as amended by act 212 of 1929, and reads as follows:\n\u201cSection 6789. Hereafter it shall be unlawful for any person, firm, company, corporation or association to take sand and gravel, oil and coal, or other minerals from the beds or bars of navigable rivers and lakes, or from any and all other lands held in the name of the State of Arkansas, without first procuring the consent of the Commissioner of Revenues. Such consent may be withheld unless such person, firm, company, corporation or association shall agree in writing to keep an accurate record and account of all sand and gravel, oil, coal and other minerals taken by him or them from said rivers and lakes, and from any other lands owned by the State of Arkansas, and render to the said Commissioner of Revenues at the end of each month an itemized, verified statement of all the number of cubic yards of sand and gravel, and gallons of oil and tons of coal and other minerals taken out each day during the month. At the time of making such statement the person, firm, company, corporation, or association shall pay into the State Treasury two and one-half cents for each cubic yard of sand and five cents per cubic yard of gravel so taken, and one-half cent for each gallon of oil and six cents per ton of coal, and, if any other valuable minerals be found in such rivers, lakes or under other lands owned by the State of Arkansas, any firm, company, corporation or association taking the same out shall make a contract with the Commissioner of Revenues stating the amount due the State of Arkansas under said contract.\u201d\nThis section makes it unlawful to take sand and gravel, oil and coal, and other minerals from the bed and bars of navigable rivers and lakes, \u201cand from any and all other lands owned by the State of Arkansas,\u201d or \u201cheld in the name of the State of Arkansas,\u201d or \u201cunder other lands owned by the State of Arkansas.\u201d It provides also the procedure for obtaining the consent of the Commissioner of Revenues therefor and for payment for such minerals taken from the said lands owned by or held in the name of the State of Arkansas, or under lands owned by the State of Arkansas.\nAppellant insists that these phrases necessarily include any lands owned by the State or held in the name of the State, and authorized the Commissioner of Revenues to dispose of the minerals thereon or thereunder; while appellees insist that the \u201clands of the State\u201d under the provisions of this statute would be such as are included within the chapter 107, Crawford & Moses\u2019 Digest, which it has authority to sell.\nIt was the evident purpose of this statute to allow the sale and disposition of these minerals from the bed and bars of navigable rivers and lakes and any other lands owned by or held in the name of the State of Arkansas \u2014 \u201clands of the State\u201d being such as are included within the said chapter 107 of the digest of the statutes\u2014 and the meaning could not be extended to lands that were in fact owned by the State already dedicated to other uses with improvements thereon. The lands here constituted one of the State\u2019s charitable institutions, and there was no intention of the Legislature, under a proper \u2022construction of any of the language used in said act, to authorize the disposition of minerals under the foundations or grounds of the buildings constituting its charitable institutions, or its Capitol, for instance. These-lands, while owned by the State, are a part of such institutions, arid no fair construction of such statute gives authority for the disposition of minerals that might be found under the buildings or within the grounds of such institutions.\nThe parties to the lease evidently doubted that authority was granted by the statute for the disposition of the minerals made in the execution of the lease therefor, since the Governor and the Attorney General were required to approve the lease and did do so, although the statute does not require it done. Such approval could give the lease no greater validity bhan it had already as executed by the Commissioner under the authority of the statute, which does not require the execution and approval of the lease by them. Neither could the Commissioner execute a valid lease of the minerals, as was attempted to be done in this case, since the statute, neither by express words or necessary implication, granted him the authority to make such disposition of minerals under a part of the grounds and foundations of the buildings of one of the State\u2019s charitable institutions. The Legislature could have done so, of course, the State having the title to the property, but it did not, and, if there was any such intention, it is not fairly deducible from the language of the statute, which should use such language as shows an unmistakable intention to authorize it done\u2014 too plain to admit of construction.\nNeither did the court err in refusing to dismiss the suit as one that could not be prosecuted by the appellees as taxpayers and eligible to be inmates of the charitable institution and beneficiaries of the use of 'it. It was not necessary for the appellees to first request the Attorney General to bring the suit and then allege his refusal to do so in order to proceed, since the law does not require a vain thing done, and the Attorney General was a party to the lease, having given his approval thereto as shown by the lease exhibited with the complaint. Griffin v. Rhoton, 85 Ark. 89, 107 S. W. 380.\nIt makes no difference that the lease does not appear to have been improvidently made, or without due regard for the protection of the improvements in the mining of the minerals, nor whether the purpose was good in attempting to dispose of the minerals for the better maintenance of the home, and in providing increased comforts for the inmates thereof, since the statute did not authorize its execution.\nThe lease having been executed without authority, it was necessarily void, and the court did not err in so holding. The decree is accordingly affirmed.",
+        "type": "majority",
+        "author": "Kirby, J.,"
+      }
+    ],
+    "attorneys": [
+      "Robinson, House Moses and Frank Bird, for appellant.",
+      "Carmichael & Hendricks, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Pulaski Mining Company v. Vance.\nOpinion delivered April 25, 1932.\nRobinson, House Moses and Frank Bird, for appellant.\nCarmichael & Hendricks, for appellee."
+  },
+  "file_name": "0653-01",
+  "first_page_order": 673,
+  "last_page_order": 678
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1885676,
+  "name": "CARTER et al. Ex Parte",
+  "name_abbreviation": "Ex parte Carter",
+  "decision_date": "1872-12",
+  "docket_number": "",
+  "first_page": "532",
+  "last_page": "534",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "27 Ark. 532"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 219,
+    "char_count": 3498,
+    "ocr_confidence": 0.337,
+    "sha256": "7665c3603fda0104e3d00fda515a44e54390206d9467646997bb6a9fb9b0e4b9",
+    "simhash": "1:62b38c1ea2fa2f9f",
+    "word_count": 582
+  },
+  "last_updated": "2023-07-14T21:05:16.282217+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "CARTER et al. Ex Parte."
+    ],
+    "opinions": [
+      {
+        "text": "Searle, J.\nThe appellants, in this case, brought their ex parte action, in equity, to the Randolph Circuit Court, for the settlement, sale, division, etc., of the estate of Amy C. Man\u2019, deceased,\u2019to which they were beirs. The estate was referred by the court to diaries F. Bode, as commissioner, for settlement,. salo, etc., wlio acted in pursuance of his appointment and made his report to the court. The court, by an .order, fixed bis compensation for these services at five per centum, on a sum not to exceed ten thousand dollars. The appellants objected to this amount as being excessive, and asked for a re-hearing of the matter, and to be permitted to introduce evidence to sliow what would be a reasonable allowance to the commissioner for bis services. The re-liearing was granted, \u2022and the court appointed a spoeial master to determine such allowance. In pursuance of his appointment, the special master incido his investigation, and reported to the court that over ten thousand dollars of assets passed through the commissioner\u2019s hands ; whereupon the court, by an order, fixed the compensation of the commissioner at five per centum of this amount. The appellants again objected, upon the ground that the allowance was unreasonable, and that they should be permitted to introduce evidence to tlio court, as to what was reasonable, and they appealed to this court. Circuit Courts have a large discretion in 'determining the allowances to be made to commissioners and officers of similar character for their services; and this court is not disposed to interfere with such discretion, unless palpable injustice should result from its exercise. In this case the allowance made to Bode, though it seems to he unreasonably large, is not so absurdly large as to justify us in inquiring into it, were it not for tlio manner tlio Circuit Court arrived at its ascertainment. In-, deed, this is the only question wo arc disposed to direct our attention to. The court should have ascertained, directly from the commissioner\u2019s report, and other evidence, if necessary, in order to satisfy itself what should be allowed the commissioner in payment for bis services, and not indirectly by the interposition of a special master.\nBode, himself, acted in the capacity of a special master in chancery, in the settlement of the estate; and it was certainly improper for the court to appoint a special master to determine what amount should be his compensation. Had there been objections as to the allowances of this last special master, would the court have appointed a third ? There certainly would have been as good reason for the appointment of a third, as of the second, and a fourth for that'matter, and so on ad infinitum.\nThe order of the court below is reversed, and the cause 1 remanded to be proceeded in, in a manner not inconsistent with this opinion.",
+        "type": "majority",
+        "author": "Searle, J."
+      }
+    ],
+    "attorneys": [
+      "A. II. Garland and T. J. lialdiffe, for Appellants."
+    ],
+    "corrections": "",
+    "head_matter": "CARTER et al. Ex Parte.\nCommissioners or Courts \u2014 Compensation of, etc.- \u2014 Courts have a large discretion in determining the allowances to be made commissioners and similar officers appointed 1^ them, and that discretion will not be interfered with, unless palpable injustice should result from its exorcise; but the exercise of that discretion must be done by the court acting directly upon the report or matter before it, and not by or through the intervention of a master or other person appointed for that purpose.\nAPPEAL PROM RANDOLPH CIRCUIT COURT.\nIEon, Elisha Baxter, Circuit Judge.\nA. II. Garland and T. J. lialdiffe, for Appellants."
+  },
+  "file_name": "0532-02",
+  "first_page_order": 548,
+  "last_page_order": 550
+}

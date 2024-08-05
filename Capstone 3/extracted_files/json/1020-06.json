@@ -1,0 +1,78 @@
+{
+  "id": 12462904,
+  "name": "Cohen, Petitioner, v. Carr et al., Respondents",
+  "name_abbreviation": "Cohen v. Carr",
+  "decision_date": "2016-11-02",
+  "docket_number": "No. 93330-8",
+  "first_page": "1020",
+  "last_page": "1020",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "186 Wash. 2d 1020"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Wash.",
+    "id": 9029,
+    "name": "Washington Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 38,
+    "name_long": "Washington",
+    "name": "Wash."
+  },
+  "cites_to": [
+    {
+      "cite": "192 Wn. App. 1025",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        12456192,
+        12456189,
+        12456190,
+        12456191
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/192/1025-04",
+        "/wash-app/192/1025-01",
+        "/wash-app/192/1025-02",
+        "/wash-app/192/1025-03"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 29,
+    "char_count": 197,
+    "ocr_confidence": 0.857,
+    "sha256": "28c3e870eb48c8ae1bf9da9b53b076c9982158212a3698ae7684162f8bf7d6d4",
+    "simhash": "1:8bfb1a4209c46743",
+    "word_count": 33
+  },
+  "last_updated": "2024-02-27T18:43:05.207238+00:00",
+  "provenance": {
+    "date_added": "2019-05-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Cohen, Petitioner, v. Carr et al., Respondents,"
+    ],
+    "opinions": [
+      {
+        "text": "Petition for review of a decision of the Court of Appeals, No. 72718-4-I, January 25, 2016, 192 Wn. App. 1025. Denied November 2, 2016.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Cohen, Petitioner, v. Carr et al., Respondents,\nNo. 93330-8."
+  },
+  "file_name": "1020-06",
+  "first_page_order": 1006,
+  "last_page_order": 1006
+}

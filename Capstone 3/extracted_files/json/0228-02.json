@@ -1,0 +1,62 @@
+{
+  "id": 8725851,
+  "name": "Burton vs. Feild et al.",
+  "name_abbreviation": "Burton v. Feild",
+  "decision_date": "1857-07",
+  "docket_number": "",
+  "first_page": "228",
+  "last_page": "229",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "19 Ark. 228"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 125,
+    "char_count": 1591,
+    "ocr_confidence": 0.515,
+    "sha256": "06deac0bd539fba6fe7a104fe58d3b91b816ba3e91fec0445369ea5449b0acf9",
+    "simhash": "1:2ae19de1c1aeb3dc",
+    "word_count": 267
+  },
+  "last_updated": "2023-07-14T20:38:03.385026+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Burton vs. Feild et al."
+    ],
+    "opinions": [
+      {
+        "text": "Mr. Chief Justice English\ndelivered the opinion of the Court.\nFeild & Dolly brought an action of debt against Patrick P. Burton, in tbe Pulaski Circuit Court. The defendant was described by that name both in the declaration and the writ, but the sheriff returned the writ served upon Phillip P. Burton. The plaintiffs obtained judgment by default, and the defendant brought error, assigning for cause of reversal the misnomer in the sheriff\u2019s return. The defendants in error, before joinder, by leave of the Court below, caused the sheriff to amend his return, and then, by certiorari from this Court, brought up the amended record, by which the error assigned has been cured.\nThe counsel for the plaintiff in error insists that, in affirming the judgment, under the circumstances, it should be done upon the terms of taxing the defendants in error with the costs, and requiring them to release the recognizance, as in case of affirmance on remittitur.\nCases have frequently occurred in this Court where the only error complained of has been cured by an amendment, as in this case, and the practice has been to affirm without terms,\nThe judgment is affirmed.",
+        "type": "majority",
+        "author": "Mr. Chief Justice English"
+      }
+    ],
+    "attorneys": [
+      "Fowler & Stillweel, for the plaintiff.",
+      "William II. Feild, for the defendants."
+    ],
+    "corrections": "",
+    "head_matter": "Burton vs. Feild et al.\nIt is not the practice of this Court to require terms of the defendant in affirming the judgment, where the error complained of has been cured by an amendment of the record of the Circuit Court, and then the transcript perfected by certiorari.\nError to the Circuit Court of Pulaski county.\nPi\u00f3n. John J. Clendenin, Circuit Judge.\nFowler & Stillweel, for the plaintiff.\nWilliam II. Feild, for the defendants."
+  },
+  "file_name": "0228-02",
+  "first_page_order": 228,
+  "last_page_order": 229
+}

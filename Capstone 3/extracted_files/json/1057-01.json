@@ -1,0 +1,153 @@
+{
+  "id": 8726125,
+  "name": "Arkansas Railroad Commission v. Bovay",
+  "name_abbreviation": "Arkansas Railroad Commission v. Bovay",
+  "decision_date": "1927-10-10",
+  "docket_number": "",
+  "first_page": "1057",
+  "last_page": "1061",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "174 Ark. 1057"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [
+    {
+      "cite": "43 Ark. 193",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1894482
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/43/0193-01"
+      ]
+    },
+    {
+      "cite": "252 S. W. 917",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "159 Ark. 652",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        8724283
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/159/0652-01"
+      ]
+    },
+    {
+      "cite": "91 S. W. 186",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "77 Ark. 258",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1499048
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/77/0258-01"
+      ]
+    },
+    {
+      "cite": "238 S. W. 60",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "weight": 2,
+      "opinion_index": 0
+    },
+    {
+      "cite": "152 Ark. 291",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1364157
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/152/0291-01"
+      ]
+    },
+    {
+      "cite": "293 S. W. 2",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "173 Ark. 645",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        8723387
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/173/0645-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 468,
+    "char_count": 9722,
+    "ocr_confidence": 0.427,
+    "pagerank": {
+      "raw": 8.138363859351185e-08,
+      "percentile": 0.470167179630936
+    },
+    "sha256": "99533cba8dbfce4fdb3e5b3ce3531efd8174b72130444fc9e66826a857c3a551",
+    "simhash": "1:47f38376c5362ada",
+    "word_count": 1663
+  },
+  "last_updated": "2024-02-27T16:23:40.975481+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Arkansas Railroad Commission v. Bovay."
+    ],
+    "opinions": [
+      {
+        "text": "Smith, J.\nThis case originated in the Pulaski Chancery Court on a bill for an injunction against the Arkansas Railroad Commission to restrain that body from hearing a certain petition filed before it by J. C. Childers, county judge of Lawrence County, and other persons, asking the Commission to regulate and fix the tolls to be charged on a certain toll bridge spanning Black River, on State Highways Nos. 63, 67 and 25, at Powhatan, Lawrence County, Arkansas, on the grounds that the schedule of rates fixed in the franchise under which the bridge was constructed is excessive and discriminatory, and that the county court of Lawrence County had no .jurisdiction to fix the schedule of rates at the time it attempted to do so, as the Railroad Commission had sole jurisdiction of the subject-matter, and still has, under act 571 of the Acts of 1919 (General Acts 1919, page 411) and act 124 of the Acts of 1921 (Acts 1921, page 177),' respectively. Attached to the complaint as an exhibit thereto was the order of the county court granting the franchise to erect the bridge and to collect tolls thereon, the various items of which were specified. There was a provision in the franchise whereby the named tolls might be increased, if they were unremunerative, or, on the other hand, might be reduced if they were excessive.\nNotice was given by the Railroad Commission that a hearing would he had on the petition addressed to it asking- a reduction of the tolls, and the holders of the franchise appeared before the Commission and made objection to the hearing, on the ground that the Commission was without jurisdiction, which motion was overruled, whereupon this suit was begun to enjoin the Commission from proceeding-.\nA demurrer to the complaint was filed, which was overruled, and, the Commission refusing to plead further and electing to stand on the demurrer, the court entered an order restraining and prohibiting the Railroad Commission from hearing the petition for a reduction of tolls and from assuming any jurisdiction over or making any order regulating tolls on said bridg-e. The Railroad Commission excepted to this order, and was granted an appeal to this court. The matter is now before us on a writ of certiorari which issued out of this court.\nThe pleadings in the case raise the question of the jurisdiction of the Railroad, Commission to regulate the tolls upon the bridge in controversy. It is the contention of the Commission that it has this jurisdiction, uncle]- the acts of the General Assembly above referred to, and that the recent opinion of this court in the case of Fulton Ferry & Bridye Co. v. Blackwood, 173 Ark. 645, 293 S. W. 2, is a recognition of this jurisdiction.\nThe act of 1919 was amended by act 124 of the Acts of 1921, entitled \"An act to amend act No. 571 of the General Acts of the State of Arkansas for the year 1919, entitled 'An act to create the Arkansas Corporation Commission and to define its powers and duties,\u2019 approved April 1, 1919, and to regulate public utilities and public service corporations, and for other purposes.\u201d\nThe Commission asserts its jurisdiction to act under subsection (A) of \u00a7 5 of the act of 1921, which provides that \"the jurisdiction of the Commission shall extend to and include all matters pertaining to the regulation and operation of (A) * * * toll bridges, ferries * *\nThis identical section of the act in question was construed by this court in the case of Gray v. Duffy, 152 Ark. 291, 238 S. W. 60. The county court of Independence County entered an order fixing the rates of the tolls for the ferries in that county, and attempted to enforce these orders, whereupon certain citizens of that county brought an action in the chancery court to restrain the county judge from attempting to enforce the orders. A demurrer to this complaint was overruled, and the court made perpetual a temporary restraining order issued at the commencement of the action. In the opinion on the appeal it was said that: \u201cThe main question in the case is whether or not the power to fix ferry tolls is vested in the county court by the Constitution, or in the Railroad Commission by the recent statute creating that Commission. (Act 124, Acts 1921, p. 177).\u201d\nIt was there contended that article 7, \u00a7 '28, of the Constitution of 1874, which provides, \u201ccounty courts shall have exclusive original jurisdiction in all matters relating to county taxes, roads, bridges, ferries, paupers, bastardy, vagrants,\u201d etc., related only to jurisdiction to establish ferries, and left the Legislature free to provide any agency it saw fit to regulate rates, but, in answering this contention, it was said:\n\u201cWe do not agree to this interpretation of the constitutional provision, which in plain terms confers jurisdiction on the county court \u00a3in all matters relating to county taxes, roads, bridges, ferries,\u2019 etc. This undoubtedly includes the regulation of ferry rates, because it is a part of the control of ferries. It was the plain purpose of the framers of the Constitution to place within the jurisdiction of the county court all control and regulation of ferries. The jurisdiction was exercised by the county court without objection in the case of Covington v. St. Francis Co., 77 Ark. 258, 91 S. W. 186.\u201d\nThe decree of the chancery court was reversed, and the cause remanded with directions to sustain the demurrer to the complaint.\nThat case is exactly in point here, as the word \u201cbridges\u201d immediately precedes the word \u201cferries\u201d in the section of the Constitution quoted.\nThe doctrine of that case was expressly reaffirmed in the case of White River Bridge Co. v. Hurd, 159 Ark. 652, 252 S. W. 917, which case involved the toll to be charged on a bridge instead of a ferry, as in the present case, and it was there said:\n\u201cUnder article 7 of \u00a7 28 of the Constitution of 1874 the county courts of this State have exclusive original jurisdiction in all matters relating to county taxes, roads, bridges, ferries, etc. Under this provision of the Constitution county courts have exclusive jurisdiction of the matter of building bridges over watercourses. The Legislature might authorize county courts to build such bridges at the public expense, or it might authorize them to grant the privilege to any person or corporation to build a toll bridge in the county over any navigable stream or other watercourse when it might be deemed necessary for the public convenience and too burdensome to be constructed by general taxation. Wright v. Norris, 43 Ark. 193; Gray v. Duffy, 152 Ark. 291, 238 S. W. 60.\u201d\nAppellant insists that the recent case of Fulton Ferry & Bridge Co. v. Blackwood, supra, is a recognition of the authority of the Legislature to create an agency which may regulate tolls on bridges which are a part of the highway system, and that the Railroad Commission is such an agency and has had conferred upon it that jurisdiction.\nThe complaint here under review does allege that the bridge in question supplies a link in certain highways, which had been designated as State highways, but it does not allege that the bridge has ever been taken over as a part of the State Highway system. The allegations are to the contrary, their purport being that certain persons are m charge of the bridge and are operating it as such under the franchise authorizing them so to do, and that petitioners before the Railroad Commission allege that tliese private persons are charging excessive tolls, which the petitioners seek to have reduced.\nThe Fulton Ferry & Bridge Company case, supra, does hold that it is within the power of the Legislature to grant to the State Highway Commission, or to any other State agency, the right to enter upon, take over, construct, improve and repair any existing public highway as a part of the State Highway system, and to construct, maintain and repair any bridges thereon, so long as it does not involve the levying of a tax on the general public for such purpose, and that a bridge may he taken over and incorporated into the State Highway system, although it was erected under a franchise from the county court, upon making compensation for any property so taken.\nWe have here no such proceeding. There is no attempt to take over the bridge and incorporate it into the State Highway system. On the contrary, the attempt is on the part of an agency of the State to exercise a jurisdiction vested in the county court, which cannot he done, according to the decisions of this court in the case of Gray v. Duffy and White v. Hurd, supra.\nAppellee also insists that act 135 of the Acts of 1927 (Acts 1927, p. 452) repeals, by implication, so much of the act of 1921 as attempts to confer jurisdiction on the Railroad Commission to fix and regulate tolls on bridges, but, as we have concluded that the power was never in fact conferred on the Railroad Commission, it will not be necessary to consider any effect accomplished by the act of 1927.\nThe decree of the court below is correct, and it is therefore affirmed.",
+        "type": "majority",
+        "author": "Smith, J."
+      }
+    ],
+    "attorneys": [
+      "II. W. Applegate., Attorney General, and John L. Carter, Assistant, for appellant.",
+      "George M. Gibson and Charles B. Thweatt, for appel-lee."
+    ],
+    "corrections": "",
+    "head_matter": "Arkansas Railroad Commission v. Bovay.\nOpinion delivered October 10, 1927.\nBridges \u2014 authority op railroad commission to regulate tolls.\u2014 Under Const. 1874, art. 7, \u00a7 28, the Railroad Commission is without jurisdiction to hear a petition to regulate and fix tolls of bridges not alleged to have been taken over as part of the State Highway System, such jurisdiction being vested in the county court; Acts 1919, p. 411, as amended by Acts 1921, p. 177, not conferring such jurisdiction on the Commission.\nAppeal from Pulaski Chancery Court; Frank II. Dodge, Chancellor;\naffirmed.\nII. W. Applegate., Attorney General, and John L. Carter, Assistant, for appellant.\nGeorge M. Gibson and Charles B. Thweatt, for appel-lee."
+  },
+  "file_name": "1057-01",
+  "first_page_order": 1075,
+  "last_page_order": 1079
+}

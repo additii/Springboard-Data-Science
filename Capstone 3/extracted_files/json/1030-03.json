@@ -1,0 +1,78 @@
+{
+  "id": 12462980,
+  "name": "State, Respondent, v. Jackson, Petitioner",
+  "name_abbreviation": "State v. Jackson",
+  "decision_date": "2016-12-07",
+  "docket_number": "No. 93504-1",
+  "first_page": "1030",
+  "last_page": "1030",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "186 Wash. 2d 1030"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Wash.",
+    "id": 9029,
+    "name": "Washington Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 38,
+    "name_long": "Washington",
+    "name": "Wash."
+  },
+  "cites_to": [
+    {
+      "cite": "192 Wn. App. 1074",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        12456376,
+        12456373,
+        12456374,
+        12456375
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/192/1074-04",
+        "/wash-app/192/1074-01",
+        "/wash-app/192/1074-02",
+        "/wash-app/192/1074-03"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 32,
+    "char_count": 272,
+    "ocr_confidence": 0.877,
+    "sha256": "ad10210ae3e2c99413279c63842115076eec70495f943d6c65106d1403c11e32",
+    "simhash": "1:85f9ce6a11c375bf",
+    "word_count": 43
+  },
+  "last_updated": "2024-02-27T18:43:05.207238+00:00",
+  "provenance": {
+    "date_added": "2019-05-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "State, Respondent, v. Jackson, Petitioner,"
+    ],
+    "opinions": [
+      {
+        "text": "Petition for review of a decision of the Court of Appeals, No. 72944-6-I, March 14, 2016, 192 Wn. App. 1074. Petitioner\u2019s petition for review denied and review of issues raised by respondent denied December 7, 2016.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "State, Respondent, v. Jackson, Petitioner,\nNo. 93504-1."
+  },
+  "file_name": "1030-03",
+  "first_page_order": 1016,
+  "last_page_order": 1016
+}

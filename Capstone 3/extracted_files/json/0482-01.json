@@ -1,0 +1,85 @@
+{
+  "id": 1435110,
+  "name": "United States Fidelity & Guaranty Company v. State use Arkansas Fertilizer Company",
+  "name_abbreviation": "United States Fidelity & Guaranty Co. v. State use Arkansas Fertilizer Co.",
+  "decision_date": "1932-03-28",
+  "docket_number": "",
+  "first_page": "482",
+  "last_page": "484",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "185 Ark. 482"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [
+    {
+      "cite": "215 S. W. 581",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "140 Ark. 187",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1594401
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/140/0187-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 206,
+    "char_count": 3008,
+    "ocr_confidence": 0.508,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.054021296222289406
+    },
+    "sha256": "959a87c4030c64d179fc040582670474d07f204197945e7c91045feb64d87be0",
+    "simhash": "1:2f2bcec1854448a7",
+    "word_count": 503
+  },
+  "last_updated": "2024-02-27T17:51:09.396208+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "United States Fidelity & Guaranty Company v. State use Arkansas Fertilizer Company."
+    ],
+    "opinions": [
+      {
+        "text": "Humphreys, J.\nAppellee, a creditor of the estate of S. A. Gregory, deceased, brought this suit in the name of the 'State of Arkansas for its use and benefit in the circuit court of Jackson 'County against Arthur Gregory, as administrator of said estate, and his bondsmen, the appellants herein, to recover $248.16 surcharged against the administrator\u2019s account in the probate court, for failure to pay said amount to the administrator in succession. It was alleged in the complaint that appellee\u2019s claim in the full amount of $509.62 was allowed and declared a fourth-class claim hy the probate court on September 3, 1921; that, on account of the indebtedness of said estate being greater than the assets, said administrator reported to the court that he could pay only 42 per cent, of claims allowed in said class, and that he was thereupon authorized and directed hy the court to pay such dividend on the claim's allowed, and to obtain and file receipts therefor; that he filed his first and final report on November 3, 1923, showing payment of the 42 per cent, dividend to all the creditors whose claims had been allowed, except appellee; that on January 2, 1924, appellee filed exceptions to the report, which were sustained, and said settlement was surcharged with $248.16 as the amount due it.\nTo this complaint a general demurrer was filed hy appellants, which was overruled, and, appellants saving their exceptions and standing upon their demurrer and refusing to plead further, judgment was rendered against them for the amount of the dividend, from which is this appeal.\nApp\u00e9llant\u2019s contention is that the court erred in overruling the demurrer since the complaint was fatally defective, because it did not allege that, after surcharging the settlement, the probate court ordered the administrator to pay over to the use of appellee or to the administrator in succession the sum so found due from him. Appellant overlooks the allegation in the complaint that theretofore an order had been made hy the probate court ordering the administrator to pay the creditors, including appellee, 42 per cent, of its original claim, which original claim had been allowed in the full amount of $509.62. The surcharge was the exact amount of the 42 per cent, which the court had authorized and directed the administrator to pay said appellee on September 3, 1921. It was unnecessary to repeat this order, as no change had been made in the amount hy the surcharge. This court ruled in the case of Statham v. Brooke, 140 Ark. 187, 215 S. W. 581, that an order of distribution or an order to pay over, and a failure to comply with, the order by an executor or administrator is what constitutes a breach of the administrator\u2019s or executor\u2019s bond, and fixes the liability on the bondsmen.\nNo error appearing, the judgment is affirmed.",
+        "type": "majority",
+        "author": "Humphreys, J."
+      }
+    ],
+    "attorneys": [
+      "John W. Stayton, for appellant.",
+      "Culbert L. Pearce, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "United States Fidelity & Guaranty Company v. State use Arkansas Fertilizer Company.\nOpinion delivered March 28, 1932.\nJohn W. Stayton, for appellant.\nCulbert L. Pearce, for appellee."
+  },
+  "file_name": "0482-01",
+  "first_page_order": 502,
+  "last_page_order": 504
+}

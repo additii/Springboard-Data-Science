@@ -1,0 +1,601 @@
+{
+  "id": 6793259,
+  "name": "The State of Washington, Respondent, v. Chadwick Leonard Kalebaugh, Petitioner",
+  "name_abbreviation": "State v. Kalebaugh",
+  "decision_date": "2015-07-09",
+  "docket_number": "No. 89971-1",
+  "first_page": "578",
+  "last_page": "589",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "183 Wash. 2d 578"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Wash.",
+    "id": 9029,
+    "name": "Washington Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 38,
+    "name_long": "Washington",
+    "name": "Wash."
+  },
+  "cites_to": [
+    {
+      "cite": "558 P.2d 173",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1976,
+      "opinion_index": 0
+    },
+    {
+      "cite": "87 Wn.2d 829",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1113758
+      ],
+      "year": 1976,
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/87/0829-01"
+      ]
+    },
+    {
+      "cite": "647 P.2d 6",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1982,
+      "pin_cites": [
+        {
+          "parenthetical": "citing State v. Kroll, 87 Wn.2d 829, 558 P.2d 173 (1976)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "97 Wn.2d 493",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1155018
+      ],
+      "year": 1982,
+      "pin_cites": [
+        {
+          "page": "499",
+          "parenthetical": "citing State v. Kroll, 87 Wn.2d 829, 558 P.2d 173 (1976)"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/97/0493-01"
+      ]
+    },
+    {
+      "cite": "278 P.3d 653",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2012,
+      "opinion_index": 0
+    },
+    {
+      "cite": "174 Wn.2d 741",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4022108
+      ],
+      "year": 2012,
+      "pin_cites": [
+        {
+          "page": "759"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/174/0741-01"
+      ]
+    },
+    {
+      "cite": "935 P.2d 656",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1997,
+      "opinion_index": 0
+    },
+    {
+      "cite": "86 Wn. App. 48",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        1279112
+      ],
+      "year": 1997,
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/86/0048-01"
+      ]
+    },
+    {
+      "cite": "155 P.3d 125",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "weight": 2,
+      "year": 2007,
+      "pin_cites": [
+        {
+          "parenthetical": "alteration in original"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "159 Wn.2d 918",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        3592675
+      ],
+      "year": 2007,
+      "pin_cites": [
+        {
+          "page": "935"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/159/0918-01"
+      ]
+    },
+    {
+      "cite": "781 P.2d 483",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1989,
+      "opinion_index": 0
+    },
+    {
+      "cite": "113 Wn.2d 631",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1172089
+      ],
+      "year": 1989,
+      "pin_cites": [
+        {
+          "page": "640"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/113/0631-01"
+      ]
+    },
+    {
+      "cite": "656 P.2d 1064",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1983,
+      "opinion_index": 0
+    },
+    {
+      "cite": "98 Wn.2d 484",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1151178
+      ],
+      "year": 1983,
+      "pin_cites": [
+        {
+          "page": "488"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/98/0484-01"
+      ]
+    },
+    {
+      "cite": "165 P.3d 1241",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2007,
+      "opinion_index": 0
+    },
+    {
+      "cite": "161 Wn.2d 303",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        3801719
+      ],
+      "year": 2007,
+      "pin_cites": [
+        {
+          "page": "315"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/161/0303-01"
+      ]
+    },
+    {
+      "cite": "899 P.2d 1251",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1995,
+      "opinion_index": 0
+    },
+    {
+      "cite": "127 Wn.2d 322",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        433058
+      ],
+      "year": 1995,
+      "pin_cites": [
+        {
+          "page": "333"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/127/0322-01"
+      ]
+    },
+    {
+      "cite": "327 P.3d 46",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2014,
+      "pin_cites": [
+        {
+          "parenthetical": "citing State v. McFarland, 127 Wn.2d 322, 333, 899 P.2d 1251 (1995)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "180 Wn.2d 576",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4242104
+      ],
+      "year": 2014,
+      "pin_cites": [
+        {
+          "page": "582",
+          "parenthetical": "citing State v. McFarland, 127 Wn.2d 322, 333, 899 P.2d 1251 (1995)"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/180/0576-01"
+      ]
+    },
+    {
+      "cite": "757 P.2d 492",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1988,
+      "opinion_index": 0
+    },
+    {
+      "cite": "110 Wn.2d 682",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1182871
+      ],
+      "year": 1988,
+      "pin_cites": [
+        {
+          "page": "686-87"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/110/0682-01"
+      ]
+    },
+    {
+      "cite": "217 P.3d 756",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2009,
+      "opinion_index": 0
+    },
+    {
+      "cite": "167 Wn.2d 91",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4004888
+      ],
+      "year": 2009,
+      "pin_cites": [
+        {
+          "page": "98"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/167/0091-01"
+      ]
+    },
+    {
+      "cite": "327 P.3d 54",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2014,
+      "opinion_index": 0
+    },
+    {
+      "cite": "180 Wn.2d 1013",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "year": 2014,
+      "opinion_index": 0
+    },
+    {
+      "cite": "318 P.3d 288",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2014,
+      "opinion_index": 0
+    },
+    {
+      "cite": "179 Wn. App. 414",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        4100734
+      ],
+      "year": 2014,
+      "pin_cites": [
+        {
+          "page": "420"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/179/0414-01"
+      ]
+    },
+    {
+      "cite": "835 P.2d 251",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1992,
+      "opinion_index": 1
+    },
+    {
+      "cite": "67 Wn. App. 339",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        1715096
+      ],
+      "weight": 2,
+      "year": 1992,
+      "pin_cites": [
+        {
+          "page": "342"
+        },
+        {
+          "page": "344"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-app/67/0339-01"
+      ]
+    },
+    {
+      "cite": "980 P.2d 1257",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1999,
+      "opinion_index": 1
+    },
+    {
+      "cite": "138 Wn.2d 595",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        887413
+      ],
+      "year": 1999,
+      "pin_cites": [
+        {
+          "page": "603"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/138/0595-01"
+      ]
+    },
+    {
+      "cite": "155 P.3d 125",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2007,
+      "opinion_index": 1
+    },
+    {
+      "cite": "159 Wn.2d 918",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        3592675
+      ],
+      "year": 2007,
+      "pin_cites": [
+        {
+          "page": "926-27"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/159/0918-01"
+      ]
+    },
+    {
+      "cite": "899 P.2d 1251",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1995,
+      "opinion_index": 1
+    },
+    {
+      "cite": "127 Wn.2d 322",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        433058
+      ],
+      "year": 1995,
+      "pin_cites": [
+        {
+          "page": "333"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/127/0322-01"
+      ]
+    },
+    {
+      "cite": "327 P.3d 46",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2014,
+      "opinion_index": 1
+    },
+    {
+      "cite": "180 Wn.2d 576",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4242104
+      ],
+      "year": 2014,
+      "pin_cites": [
+        {
+          "page": "583"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/180/0576-01"
+      ]
+    },
+    {
+      "cite": "757 P.2d 492",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1988,
+      "opinion_index": 1
+    },
+    {
+      "cite": "110 Wn.2d 682",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1182871
+      ],
+      "year": 1988,
+      "pin_cites": [
+        {
+          "page": "688"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/110/0682-01"
+      ]
+    },
+    {
+      "cite": "217 P.3d 756",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2009,
+      "opinion_index": 1
+    },
+    {
+      "cite": "167 Wn.2d 91",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4004888
+      ],
+      "year": 2009,
+      "pin_cites": [
+        {
+          "page": "100"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/167/0091-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 875,
+    "char_count": 18491,
+    "ocr_confidence": 0.739,
+    "pagerank": {
+      "raw": 1.3208906709282308e-07,
+      "percentile": 0.6266597010095956
+    },
+    "sha256": "f3efaee904b48043e0fe52947e632e87cb67caf92cce5ace97bf06278a370b77",
+    "simhash": "1:d47aa527d2270425",
+    "word_count": 3044
+  },
+  "last_updated": "2024-02-27T22:09:01.011694+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Johnson, Owens, Fairhurst, Stephens, Wiggins, and Gordon McCloud, JJ., concur.",
+      "Madsen, C.J., concurs with Gonz\u00e1lez, J."
+    ],
+    "parties": [
+      "The State of Washington, Respondent, v. Chadwick Leonard Kalebaugh, Petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "Yu, J.\n\u00b61 Chadwick Leonard Kalebaugh appeals his first degree child molestation conviction and claims reversible error based on the trial judge\u2019s misstatements regarding the meaning of \u201creasonable doubt\u201d in his preliminary remarks to the jury venire. Kalebaugh did not object and raises the issue for the first time on appeal. We reach the unpreserved error because it is a manifest constitutional error under RAP 2.5(a)(3), but we affirm because the error was harmless beyond a reasonable doubt.\nFacts and Procedural History\n\u00b62 On October 28, 2011, Kristal Strong had a birthday party for her son at their Napavine home. Strong and her children lived there with several other individuals, including Tiffany S., Tiffany\u2019s two sons, and Kalebaugh. Tiffany\u2019s six-year-old daughter, H.S., who typically lived with her grandparents, was also staying at the house that day. The party ended sometime in the evening, and Tiffany put her three children down to sleep in the living room. The two boys settled in on a couch and H.S. on an adjacent love seat. The adults then retreated to the garage.\n\u00b63 Jacob Murphy, a friend who had come over earlier to join the gathering in the garage, stayed overnight. Murphy slept in the same room on the couch opposite H.S.\u2019s love seat. During the night, Murphy saw Kalebaugh lay next to the love seat, reach his hand under the blanket covering H.S., and make a rubbing motion in the area between her knees and her belly button. Murphy confronted Kalebaugh and alerted Tiffany, who found the girl\u2019s shorts bunched up so that her underwear was exposed. Kalebaugh was charged with first degree child molestation, though he denied touching the girl, and the case proceeded to trial.\n\u00b64 On the first day of trial, a panel of potential jurors were brought into the courtroom to begin jury selection. The presiding judge introduced himself and made some preliminary remarks about the trial process and what jurors might expect. The judge read the charge against Kalebaugh and explained how evidence would be presented during trial. The judge further advised prospective jurors that Kale-baugh was presumed innocent and that the State had the burden of proving each and every element beyond a reasonable doubt. The judge also read the pattern instruction on reasonable doubt, including:\nA \u201creasonable doubt\u201d is one for which a reason exists and may arise from the evidence or lack of evidence. It is such a doubt as would exist in the mind of a reasonable person after fully, fairly and carefully considering all of the evidence or lack of evidence. If after such consideration you have an abiding belief in the truth of the charge, you are satisfied beyond a reasonable doubt.\nVerbatim Report of Proceedings (Jan. 3,2012) (VRP) at 9; cf. 11 Washington Practice: Washington Pattern Jury Instructions: Criminal 4.01, at 85 (3d ed. 2008) (WPIC). The judge then continued:\nIf after your deliberations you do not have a doubt for which a reason can be given as to the defendant\u2019s guilt, then, you are satisfied beyond a reasonable doubt.\nOn the other hand, if after your deliberations you do have a doubt for which a reason can be given as to the defendant\u2019s guilt, then, you are not satisfied beyond a reasonable doubt.\nVRP at 9. Kalebaugh did not object to any of these remarks. After two hours of voir dire, a 12 person jury (plus one alternate) was sworn and empaneled to hear the case.\n\u00b65 The judge then read to the jury what he called \u201cpreliminary instructions,\u201d which included another explanation that it was the State that bore the burden of proof. He twice told jurors that he would instruct them on the law at the end of the case and would require the jury to follow those instructions. The judge concluded by admonishing jury members to keep their minds open and not to decide any issue in the case until they heard all the evidence. The jury subsequently heard testimony for the next two days.\n\u00b66 At the close of evidence, the trial judge orally instructed the jury on the law and provided them with several written copies of the court\u2019s instructions. These final instructions were unremarkable in that they were the relevant Washington pattern jury instructions. They included instructions to follow the law as given, to presume Kale-baugh innocent, and to acquit if a reasonable doubt existed as to any element of the crime. More importantly and relevant to our review, the court\u2019s instructions included the complete and proper version of WPIC 4.01, the instruction on reasonable doubt. The jury deliberated six hours and returned a guilty verdict.\n\u00b67 Kalebaugh challenged the trial judge\u2019s opening remark for the first time on appeal, arguing the comment deprived him of a fair trial. In a split decision, the Court of Appeals held the error was not reviewable because Kalebaugh failed to object at trial, and affirmed the conviction. State v. Kalebaugh, 179 Wn. App. 414, 420, 318 P.3d 288 (2014). We granted review. State v. Kalebaugh, 180 Wn.2d 1013, 327 P.3d 54 (2014).\nAnalysis\n\u00b68 An established rule of appellate review in Washington is that a party generally waives the right to appeal an error unless there is an objection at trial. RAP 2.5(a). Although this rule insulates some errors from review, it encourages parties to make timely objections, gives the trial judge an opportunity to address an issue before it becomes an error on appeal, and promotes the important policies of economy and finality. State v. O\u2019Hara, 167 Wn.2d 91, 98, 217 P.3d 756 (2009).\n\u00b69 But as with many general rules, there are exceptions, and we will review some errors even without an objection below. One exception is for \u201cmanifest error[s] affecting a constitutional right.\u201d RAP 2.5(a)(3). This exception strikes a careful policy balance. On the one hand, a procedural rule should not prevent an appellate court from remedying errors that result in serious injustice to an accused. At the same time, if applied too broadly RAP 2.5(a)(3) will devalue objections at trial and deprive judges of the opportunity to correct errors as they happen. State v. Scott, 110 Wn.2d 682, 686-87, 757 P.2d 492 (1988).\n\u00b610 So before we review the merits of an unpreserved error under RAP 2.5(a)(3), we ask two questions: (1) Has the party claiming error shown the error is truly of a constitutional magnitude, and if so, (2) has the party demonstrated that the error is manifest? O\u2019Hara, 167 Wn.2d at 98. These gatekeeping questions open meritorious constitutional claims to review without treating RAP 2.5(a)(3) as a method to secure a new trial every time any error is overlooked. State v. Lamar, 180 Wn.2d 576, 582, 327 P.3d 46 (2014) (citing State v. McFarland, 127 Wn.2d 322, 333, 899 P.2d 1251 (1995)).\n\u00b611 Kalebaugh meets the first part of the RAP 2.5(a)(3) analysis, as his asserted error clearly implicates a constitutional interest. The presumption of innocence \u201cis the bedrock upon which the criminal justice system stands.\u201d State v. Bennett, 161 Wn.2d 303, 315, 165 P.3d 1241 (2007). Instructions that misstate reasonable doubt or shift the burden of proof to the defendant are constitutional errors. State v. McCullum, 98 Wn.2d 484, 488, 656 P.2d 1064 (1983). The error arises from the fundamental constitutional due process requirement that the State bear the burden of proving every element of a crime beyond a reasonable doubt. State v. Camara, 113 Wn.2d 631, 640, 781 P.2d 483 (1989); Const, amend. XIV. The State does not dispute that the judge\u2019s remarks are of constitutional magnitude.\n\u00b612 Kalebaugh also meets the second part of the RAP 2.5(a)(3) analysis because the asserted error is manifest from the record. In O\u2019Hara, we held that under RAP 2.5(a)(3), manifestness \u201c \u2018requires a showing of actual prejudice.\u2019 \u201d 167 Wn.2d at 99 (quoting State v. Kirkman, 159 Wn.2d 918, 935, 155 P.3d 125 (2007)). \u201cTo demonstrate actual prejudice, there must be a \u2018plausible showing by the [appellant] that the asserted error had practical and identifiable consequences in the trial of the case.\u2019 \u201d Id. (alteration in original) (internal quotation marks omitted) (quoting Kirkman, 159 Wn.2d at 935). Next, \u201cto determine whether an error is practical and identifiable, the appellate court must place itself in the shoes of the trial court to ascertain whether, given what the trial court knew at that time, the court could have corrected the error.\u201d Id. at 100. The trial judge instructed that a \u201creasonable doubt\u201d is a doubt for which a reason can be given, rather than the correct jury instruction that a \u201creasonable doubt\u201d is a doubt for which a reason exists. WPIC 4.01, at 85. The jury instruction given was a misstatement of the law that the trial court should have known, and the mistake is manifest from the record. Thus, Kalebaugh\u2019s claim is a manifest constitutional error and can be raised for the first time on appeal.\n\u00b613 While the judge gave an erroneous instruction, the error was harmless because it did not lower the State\u2019s burden of proof or affect the outcome of the trial. Harmless error analysis occurs after the court determines the error is a manifest constitutional error and is a separate inquiry. O\u2019Hara, 167 Wn.2d at 99. The judge gave the proper instruction from WPIC 4.01 in his preliminary remarks to prospective jurors before jury selection. He followed the instruction by attempting to further explain reasonable doubt, paraphrasing WPIC 4.01\u2019s \u201ca doubt for which a reason exists\u201d as \u201ca doubt for which a reason can be given.\u201d VRP at 9 (emphasis added). Kalebaugh is correct that the law does not require that a reason be given for a juror\u2019s doubt, and we have previously acknowledged that reasonable doubt is a difficult concept that can challenge lawyers and jurors alike. See, e.g., Bennett, 161 Wn.2d at 316-17 (rejecting the common law Castle instruction on reasonable doubt (citing State v. Castle, 86 Wn. App. 48, 935 P.2d 656 (1997)). Nevertheless, Kalebaugh conceded at oral argument that the judge\u2019s remark \u201ccould live quite comfortably\u201d with the final instructions given here and could have been cured with an additional instruction that jurors did not need to articulate a reason for their doubt. Wash. Supreme Court oral argument, State v. Kalebaugh, No. 89971-1 (Sept. 18,2014), at 37 min., 43 sec., audio recording by TVW, Washington State\u2019s Public Affairs Network, http://www.tvw .org. We do not agree that the judge\u2019s effort to explain reasonable doubt was a directive to convict unless a reason was given or akin to the \u201cfill in the blank\u201d approach that we held improper in State v. Emery, 174 Wn.2d 741, 759, 278 P.3d 653 (2012).\n\u00b614 Kalebaugh also suggests the timing of the remark makes it reversible error since jurors \u201cmust have had [the remark] in mind while listening to evidence\u201d and \u201chad no reason to disregard it when it came time to deliberate.\u201d Pet. for Review at 8. Even accepting Kalebaugh\u2019s first premise\u2014 that jurors parsed out a comment about the intricate concept of reasonable doubt and remembered it verbatim through two days of testimony \u2014 the jury had ample reason to disregard it before deliberations.\n\u00b615 The trial judge properly instructed the potential jurors before these offending remarks, gave clear preliminary instructions after voir dire when the potential jurors became actual jurors, reviewed the presumption of innocence and the State\u2019s burden, and told the jury twice that they would receive written instructions at the end of the case. Most importantly, at the end of the case the jurors were provided with the correct legal instruction on reasonable doubt and paper copies of such instructions were available to the jury during deliberations.\n\u00b616 We disfavor the judge\u2019s offhand explanation of reasonable doubt at the beginning of this case and any subtle suggestion that a reason must be given to doubt a defendant\u2019s guilt. But we do not find it plausible to believe that the jury retained these particular oral remarks made before jury selection three days earlier, ignored the other oral and written instructions, and applied the incorrect legal standard. Jurors are presumed to follow the court\u2019s instructions, State v. Grisby, 97 Wn.2d 493, 499, 647 P.2d 6 (1982) (citing State v. Kroll, 87 Wn.2d 829, 558 P.2d 173 (1976)), and Kalebaugh does not provide any facts to rebut this presumption. The judge\u2019s correct instructions given throughout the case cured any potential prejudice that could have possibly arisen. Therefore, the judge\u2019s remark was harmless beyond a reasonable doubt.\nConclusion\n\u00b617 RAP 2.5(a)(3) provides an avenue for courts of appellate jurisdiction to review unpreserved errors when the errors affect a constitutional right and are manifest from the record. In this case, even though the error was constitutional in nature and manifest under RAP 2.5(a)(3), the error was harmless beyond a reasonable doubt because it did not lower the State\u2019s burden of proof or affect the outcome of the trial. We affirm the conviction.\nJohnson, Owens, Fairhurst, Stephens, Wiggins, and Gordon McCloud, JJ., concur.\nWe have redacted the mother\u2019s last name and the child victim\u2019s full name to protect the child\u2019s privacy.",
+        "type": "majority",
+        "author": "Yu, J."
+      },
+      {
+        "text": "Gonz\u00e1lez, J.\n\u00b618 (concurring) \u2014 I agree with the majority that the trial court\u2019s preliminary oral instruction was improper and implicated the constitutional due process requirement that the State prove every element of a crime beyond a reasonable doubt. Const, amend. XIV. I also agree with the majority that in the context of the instructions as a whole, however, the oral instruction did not actually lower the State\u2019s burden of proof. Given that, Kalebaugh made no plausible showing the oral instruction had any practical and identifiable consequences in his trial. In my view, the wisest way to dispose of this case is to decline to reach this unpreserved error.\n\u00b619 I cannot join the majority\u2019s RAP 2.5 analysis because it could be read to eliminate an appellant\u2019s burden to make a plausible showing that an unpreserved error had practical and identifiable consequences in the trial of a case. The majority reviews the unpreserved claim under RAP 2.5 because Kalebaugh identifies an error that \u201cimplicates a constitutional interest\u201d and the trial \u201c \u2018court could have corrected the error.\u2019 \u201d Majority at 583-84 (quoting State v. O\u2019Hara, 167 Wn.2d 91, 100, 217 P.3d 756 (2009)). But we have consistently emphasized that RAP 2.5 does not afford review of every error that implicates a constitutional right but only errors that actually prejudiced a defendant\u2019s constitutional rights at trial. See, e.g., O\u2019Hara, 167 Wn.2d at 98 (\u201c[T]he appellant must \u2018identify a constitutional error and show how the alleged error actually affected the [appellant]\u2019s rights at trial.\u2019 \u201d (second alteration in original) (quoting State v. Kirkman, 159 Wn.2d 918, 926-27, 155 P.3d 125 (2007))). Thus it is an appellant\u2019s burden when raising an unpreserved error to make a plausible showing that the error had practical and identifiable consequences in the trial of the case. See, e.g., id. at 99 (\u201cTo demonstrate actual prejudice, there must be a \u2018plausible showing by the [appellant] that the asserted error had practical and identifiable consequences in the trial of the case.\u2019 \u201d (alteration in original) (internal quotation marks omitted) (quoting Kirkman, 159 Wn.2d at 935)); State v. Lamar, 180 Wn.2d 576, 583, 327 P.3d 46 (2014); State v. WWJ Corp., 138 Wn.2d 595, 603, 980 P.2d 1257 (1999); State v. McFarland, 127 Wn.2d 322, 333, 899 P.2d 1251 (1995); State v. Scott, 110 Wn.2d 682, 688, 757 P.2d 492 (1988). Additionally, the appellant must show that the practical and identifiable consequences \u201cshould have been reasonably obvious to the trial court,\u201d and the facts necessary to adjudicate the claimed error must be in the record. O\u2019Hara, 167 Wn.2d at 108, 99 (citing McFarland, 127 Wn.2d at 333).\n\u00b620 Requiring a plausible showing of practical and identifiable consequences promotes fairness and efficiency. As the Court of Appeals has aptly noted, \u201cCriminal law is so largely constitutionalized that most claimed errors can be phrased in constitutional terms.\u201d State v. Lynn, 67 Wn. App. 339, 342, 835 P.2d 251 (1992). Permitting review of essentially all unpreserved errors that implicate constitutional rights \u201c \u2018undermines the trial process, generates unnecessary appeals,\u2019 \u201d and wastes resources. McFarland, 127 Wn.2d at 333 (quoting Lynn, 67 Wn. App. at 344).\n\u00b621 I would find Kalebaugh has not made a plausible showing that the oral instruction had practical and identifiable consequences. Kalebaugh alleges that the trial judge\u2019s preliminary explanation of reasonable doubt violated his Fourteenth Amendment right to due process because it undermined the presumption of innocence and lessened the State\u2019s burden of proof. But as the majority notes,\nThe trial judge properly instructed the potential jurors before these offending remarks, gave clear preliminary instructions after voir dire when the potential jurors became actual jurors, reviewed the presumption of innocence and the State\u2019s burden, and told the jury twice that they would receive written instructions at the end of the case. Most importantly, at the end of the case the jurors were provided with the correct legal instruction on reasonable doubt and paper copies of such instructions were available to the jury during deliberations.\nMajority at 586. It is not plausible to believe the jury was misled by the preliminary oral instruction delivered to the entire venire before voir dire when they were later given specific and accurate oral and written instructions. As the majority acknowledges, in the context of the instructions as a whole, the oral instruction \u201cdid not lower the State\u2019s burden of proof\u201d and was not \u201ca directive to convict unless a reason was given.\u201d Id. at 585. Kalebaugh has not made a plausible showing that the improper instruction actually affected his due process rights.\n\u00b622 While I join the majority in result, I would hold Kalebaugh has not made a sufficient threshold showing of actual prejudice to a constitutional right to warrant review of the unpreserved error.\n\u00b623 With these observations, I concur.\nMadsen, C.J., concurs with Gonz\u00e1lez, J.",
+        "type": "concurrence",
+        "author": "Gonz\u00e1lez, J."
+      }
+    ],
+    "attorneys": [
+      "Manek R. Mistry and Jodi R. Backlund (of Backlund & Mistry), for petitioner.",
+      "Jonathan L. Meyer, Prosecuting Attorney, and Sara I, Beigh, Deputy, for respondent."
+    ],
+    "corrections": "",
+    "head_matter": "[No. 89971-1.\nEn Banc.]\nArgued September 18, 2014.\nDecided July 9, 2015.\nThe State of Washington, Respondent, v. Chadwick Leonard Kalebaugh, Petitioner.\nManek R. Mistry and Jodi R. Backlund (of Backlund & Mistry), for petitioner.\nJonathan L. Meyer, Prosecuting Attorney, and Sara I, Beigh, Deputy, for respondent."
+  },
+  "file_name": "0578-01",
+  "first_page_order": 632,
+  "last_page_order": 643
+}

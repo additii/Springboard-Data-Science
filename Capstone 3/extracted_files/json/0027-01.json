@@ -1,0 +1,278 @@
+{
+  "id": 1357206,
+  "name": "St. Louis-San Francisco Railway Company v. Davis",
+  "name_abbreviation": "St. Louis-San Francisco Railway Co. v. Davis",
+  "decision_date": "1923-01-29",
+  "docket_number": "",
+  "first_page": "27",
+  "last_page": "32",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "157 Ark. 27"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [
+    {
+      "cite": "41 Kan. 521",
+      "category": "reporters:state",
+      "reporter": "Kan.",
+      "case_ids": [
+        1183567
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/kan/41/0521-01"
+      ]
+    },
+    {
+      "cite": "13 Ind. 103",
+      "category": "reporters:state",
+      "reporter": "Ind.",
+      "case_ids": [
+        1436735
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ind/13/0103-01"
+      ]
+    },
+    {
+      "cite": "83 Mo. 660",
+      "category": "reporters:state",
+      "reporter": "Mo.",
+      "case_ids": [
+        429684
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mo/83/0660-01"
+      ]
+    },
+    {
+      "cite": "119 Ark. 263",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        8718921
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/119/0263-01"
+      ]
+    },
+    {
+      "cite": "95 Ark. 47",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "60 Ark. 146",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1903717
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/60/0146-01"
+      ]
+    },
+    {
+      "cite": "3 L. R. A. (N. S.) 225",
+      "category": "reporters:federal",
+      "reporter": "L.R.A.N.S.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "50 L. R. A. 828",
+      "category": "reporters:federal",
+      "reporter": "L.R.A.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "115 Tenn. 172",
+      "category": "reporters:state",
+      "reporter": "Tenn.",
+      "case_ids": [
+        8535872
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/tenn/115/0172-01"
+      ]
+    },
+    {
+      "cite": "120 Ky. 686",
+      "category": "reporters:state",
+      "reporter": "Ky.",
+      "case_ids": [
+        4451171
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ky/120/0686-01"
+      ]
+    },
+    {
+      "cite": "18 Pac. 636",
+      "category": "reporters:state_regional",
+      "reporter": "P.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "24 Okla. 96",
+      "category": "reporters:state",
+      "reporter": "Okla.",
+      "case_ids": [
+        8879700
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/okla/24/0096-01"
+      ]
+    },
+    {
+      "cite": "50 L. R. A. 161",
+      "category": "reporters:federal",
+      "reporter": "L.R.A.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "127 S. W. 472",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "18 Pac. 502",
+      "category": "reporters:state_regional",
+      "reporter": "P.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "118 Ark. 402",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1562500
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/118/0402-01"
+      ]
+    },
+    {
+      "cite": "63 Ark. 259",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        8722118
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/63/0259-01"
+      ]
+    },
+    {
+      "cite": "24 Ark. 177",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        8726601
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/24/0177-01"
+      ]
+    },
+    {
+      "cite": "125 Ark. 400",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1553245
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/125/0400-01"
+      ]
+    },
+    {
+      "cite": "41 Kan. 521",
+      "category": "reporters:state",
+      "reporter": "Kan.",
+      "case_ids": [
+        1183567
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/kan/41/0521-01"
+      ]
+    },
+    {
+      "cite": "63 Ark. 259",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        8722118
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/63/0259-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 508,
+    "char_count": 8260,
+    "ocr_confidence": 0.503,
+    "pagerank": {
+      "raw": 1.705696339428798e-07,
+      "percentile": 0.7016113680758994
+    },
+    "sha256": "550a641ef1eb5983a7c8e2f7a8e1bd9a2675c2e278691a13adbf41d8a5561c5f",
+    "simhash": "1:05f142c83af080f9",
+    "word_count": 1510
+  },
+  "last_updated": "2024-02-27T20:13:54.858580+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "St. Louis-San Francisco Railway Company v. Davis."
+    ],
+    "opinions": [
+      {
+        "text": "Smith, J.\nOn September 15, 1921, appellees filed seven separate suits before a justice of the peace against the appellant railroad company to recover damages for seven head of cattle which they alleged were killed and crippled by one of defendant\u2019s trains on the 6th day of August, 1921. A summons was issued in each case, and on September 29, 1921, a separate judgment was rendered in each case for the amount sued for. The judgment in the first case was for $60 for one heifer; that in the second case was for $60 for another heifer, and the judgments in the four other cases were for different amounts aggregating $180.\nOn October 7, 1921, the railroad company paid and satisfied the judgment in the first case filed, and on October 12, 1921, appealed the remaining six cases to the circuit court.\nThere is some controversy about the conversation which occurred between the attorney for appellee and the attorney for appellant at the time the first judgment was satisfied, as to the purpose in satisfying' it and in not satisfying the other judgments; but we regard this conflict as unimportant, for the reason that the railroad company had the right to satisfy the judgment if it saw proper to do so.\nUpon the appeal the cases were consolidated and tried together, after the railroad company had filed an answer setting up the facts stated above, and pleading the satisfaction of the first judgment in abatement of the other suits.\nThere was testimony from which the jury might have found that the railroad company had not overcome the statutory presumption of negligence arising from the killing of the animals by a moving train. The animals were struck about 9:50 p. m. by a night passenger train, during a drenching rain, and the engineer and fireman testified that the cattle were bunched together and were lying near the point of a curve, and were not seen by them in time to have avoided striking them, because of the curve. The testimony on the part of appellees was to the effect that the animals were found lying along the track, and one witness stated that the last animal killed was lying 225 feet from the first animal killed. The other animals were lying between. Other witnesses .for appellees placed the animals nearer together than we have stated, but none of them place the entire distance at more than 225 feet, and we state the testimony most favorably to appellees. One of the animals struck by the train was not killed, but was' injured, and strayed away from the railroad, and was not found for several days.\nThe jury found for appellees, and the court rendered judgment in their favor for the value of the stock as found by the'jury, but assessed the costs against appellees, and the railroad has appealed.\nWe think the plea in abatement should have been sustained, as appellees had but one cause of action, and had no right to split this cause of action into parts.\nIn Sutherland on Damages, page 381, (4th ed.) it is said: \u201cThe principle is settled beyond dispute that .a judgment concludes the rights of the parties in respect to the canse of action stated in the pleadings on which it is rendered, whether the suit embraces the whole- or only a part of the demand constituting the cause of action. It results from this principle, and the rule is fully established, that an entire claim arising either upon a contract or from a wrong cannot be divided and made the subject of several suits; and if several suits be brought for different parts of such a claim, the pendency of the first may be pleaded in abatement of the others, and a judgment upon the merits of either will be available as a bar in the others.\u201d\nThis statement of the law accords with our own cases on the subject. Reynolds v. Jones, 63 Ark. 259; Hemingway v. Grayling Lumber Co., 125 Ark. 400. Numerous cases are cited in the brief of counsel for appellant which support the text we have quoted.\nCounsel for appellee cite the case of Mo. Pac. Ry. Co. v. Scammon, 41 Kan. 521, in which the owner of a mare was permitted to sue for and recover its value after having sued for and recovered the value of a colt which had been killed by the same train which had killed the mare. The facts recited in the opinion of the court were that the colt was first struck and killed, and then the mare was struck and injured at a point thirty rods from where the colt was struck. The court said there was a difference of time and locality, and that this difference made and constituted separate and distinct causes of action. The court stated the fact that the killing of the colt might have been prevented by the exercise of ordinary care, while the injury of the mare must have been the result of gross negligence. The court, however, recognized and stated the principle which controls here, for it was there said: \u201cWhen two horses are killed by the cars of a railroad company at the same time, or when different chattels are taken by one trespass, or converted by one person at the same time, but one recovery can be had. This rule applies in all such cases where the tort, trespass, or conversion consists of one entire and undivided act.\u201d\nWe think the jury was warranted in finding that the injury to the stock could have been averted had the proper precautions been taken, notwithstanding the character and the location of the curve at the point where the .animals were struck; but we think there was but a single act of negligence, and that there was no intervening time during which anything could have been done, or was omitted, which constituted an additional act of negligence. A train moving at the rate of 40 to .45 miles per hour would travel the distance of 225 feet in such a short space of time that nothing could have been done, after striking the first animal, to prevent striking the others, even though we assume that the animals were not thrown or carried any part of that distance by the train but were in fact that far apart when the first one was struck.\nThe first suit is a bar to the others, and the judgment-must therefore be reversed and the cause dismissed.",
+        "type": "majority",
+        "author": "Smith, J."
+      }
+    ],
+    "attorneys": [
+      "W. F. Evans, Warner, Hardin & Warner, for appellant.",
+      "George Stockard, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "St. Louis-San Francisco Railway Company v. Davis.\nOpinion delivered January 29, 1923.\nActions \u2014 splitting cause of action. \u2014 Where a train running 40 miles an hour struck and killed or crippled 7 head of cattfe belonging to plaintiff in a distance of 225 feet, there was a single act of negligence and one cause of action, and where a judgment in the first of seven separate causes of action was paid by the defendant, the causes of action in the other six cases should have been abated.\nAppeal from Crawford Circuit Court; James Cochran; Judge;\nreversed.\nW. F. Evans, Warner, Hardin & Warner, for appellant.\nA single cause of action cannot be split in order that separate suits may be brought for the various parts of wjiat really constitutes but one demand, whether ex contract or ex delicto. 24 Ark. 177; 63 Ark. 259; 118 Ark. 402; 1 C. J. sec. 276, p. 1106, note 48; 1 Suth. on Damages (3d ed.) sec. 106; 18 Pac. 502; 127 S. W. 472; 50 L. R. A. 161; 38 Mo. Ap. 511; 24 Okla. 96; 18 Pac. 636; 120 Ky. 686; 115 Tenn. 172.\nA single tort can be the basis of but one action. 1 Suth. on Dam., sec. 110, p. 315; L. R. A. 1917-C, 543'; L. R. A. 1916-E, 974; 50 L. R. A. 828; Id. 161; 3 L. R. A. (N. S.) 225; 1 Freeman on Judgments, sec. 241; 23 Cyc. p. 1178; 25 Mo. Ap. 650; 1 C. J., sec. 301, p. 1118.\nWhere an attempt is made to split the cause of action and bring successive suits for parts, a recovery in the first suit, though for less than the whole demand, will be a bar to the second action. 118 Ark. 402; 60 Ark. 146; 95 Ark. 47; 119 Ark. 263.\nFor other authorities holding that there was but one cause of action see 1 R. C. L. 326, p. 346; 120 A. S. R. 379; 83 Mo. 660; 13 Ind. 103.\nGeorge Stockard, for appellee.\nWhere several judgments are rendered upon the same cause of action, .a satisfaction of one of them will operate to discharge the others, provided the costs of all the suits be paid, also the interest on the judgment which is urged as a bar. 16 Stand. Proc., p. 593. The killing of each animal was a separate offense, althoug\u2019h occasioned by the same agency. A case illustrative of our contention, where separate suits were brought under similar facts, see 41 Kan. 521."
+  },
+  "file_name": "0027-01",
+  "first_page_order": 49,
+  "last_page_order": 54
+}

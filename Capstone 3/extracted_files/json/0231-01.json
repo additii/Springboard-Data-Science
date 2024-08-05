@@ -1,0 +1,282 @@
+{
+  "id": 8720773,
+  "name": "Snider v. Dennis",
+  "name_abbreviation": "Snider v. Dennis",
+  "decision_date": "1923-05-28",
+  "docket_number": "",
+  "first_page": "231",
+  "last_page": "234",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "159 Ark. 231"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [
+    {
+      "cite": "59 Ark. 441",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1327691
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/59/0441-01"
+      ]
+    },
+    {
+      "cite": "140 S. W. 200",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "122 Ark. 189",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1558140
+      ],
+      "pin_cites": [
+        {
+          "page": "235"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/122/0189-01"
+      ]
+    },
+    {
+      "cite": "100 Ark. 55",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "120 Ark. 37",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1561067
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/120/0037-01"
+      ]
+    },
+    {
+      "cite": "121 Ark. 518",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1559434
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/121/0518-01"
+      ]
+    },
+    {
+      "cite": "90 Ark. 40",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1513804
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/90/0040-01"
+      ]
+    },
+    {
+      "cite": "106 Ark. 157",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1345615
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/106/0157-01"
+      ]
+    },
+    {
+      "cite": "104 Ark. 466",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1350602
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/104/0466-01"
+      ]
+    },
+    {
+      "cite": "102 Ark. 380",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1354060
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/102/0380-01"
+      ]
+    },
+    {
+      "cite": "123 Ark. 504",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1556202
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/123/0504-01"
+      ]
+    },
+    {
+      "cite": "213 S. W. 409",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "139 Ark. 121",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1596413
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/139/0121-01"
+      ]
+    },
+    {
+      "cite": "164 S. W. 746",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "111 Ark. 362",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1540392
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/111/0362-01"
+      ]
+    },
+    {
+      "cite": "21 Wall. 36",
+      "category": "reporters:scotus_early",
+      "reporter": "Wall.",
+      "case_ids": [
+        3410328
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/88/0036-01"
+      ]
+    },
+    {
+      "cite": "4 S. W. 282",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "49 Ark. 100",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1309286
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/49/0100-01"
+      ]
+    },
+    {
+      "cite": "3 Ark. 364",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        8728559
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/3/0364-01"
+      ]
+    },
+    {
+      "cite": "75 Ark. 288",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1502532
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/75/0288-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 358,
+    "char_count": 6219,
+    "ocr_confidence": 0.502,
+    "pagerank": {
+      "raw": 5.97950146143624e-08,
+      "percentile": 0.37187380422565175
+    },
+    "sha256": "304b1a768f8a626b11136e23b10db8d544970410f522f619b03297be2cdd2725",
+    "simhash": "1:11cbbd88abe6345c",
+    "word_count": 1108
+  },
+  "last_updated": "2024-02-27T18:54:00.643605+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Snider v. Dennis."
+    ],
+    "opinions": [
+      {
+        "text": "Smith, J.\nThis suit was brought to foreclose a deed of trust, and the appeal is from a decree ordering its foreclosure.\nThe complaint alleged that on February 14, 1916, Calvin Snider executed a note due October 1, 1916, to the order of J. H. Askew, and, to secure its payment, also executed on the same day a deed of trust conveying an eighty-acre tract of land to P. H. Alsobrooks as trustee for Askew. Snider died intestate May 14, 1916, and his heirs are the defendants to this suit. A -credit of $219.82 of date February 15, 1919, was indorsed on the note by Askew, and on the same date Askew assigned the note and deed of trust to Charles Clark, who, in turn, assigned the note and deed of trust on February 14, 1920, to B. D. Dennis, appellee, the plaintiff in the foreclosure.\nSubsequent to the recording of said deed of trust, and prior to the assignment thereof to Clark, Askew, on February 14, 1919, under the power of substitution contained in said deed -of trust, by indorsement on the margin of the record thereof, appointed W. H. Bussell as substituted trustee in lieu of Alsobrooks.\nDefendants demurred to tbe complaint on the ground that there was a defect of parties, in that the trustee was not a party thereto. The demurrer was overruled, and exceptions saved. On January 23, 1922, plaintiff amended the complaint and made Alsobrooks a party plaintiff. On April 28, 1922, defendants again demurred to the complaint on the ground that Russell, the substituted trustee, was a necessary party to the action. This demurrer was overruled, the court holding that the substituted trustee was not a necessary party.\nIt is now insisted that the decree of the court below should he reversed for the failure to sustain the demurrers. There was testimony challenging the credit indorsed on the note under date of February 15, 1919, it being the insistence of the defendants that no such payment was ever made, and that the note was barred by the statute of limitations. The court found the payment had been made, and allowed credit therefor; but we do not review this testimony, as, in our opinion, the debt was not barred, whether that payment was ever made or not.\nIt is true that the trustee was not originally made a party, and, as he is a necessary party in a proceeding of this character, the original demurrer should have been sustained, but, before the rendition of the decree, that error was cured by making Alsobrooks a party.\nIt is insisted that Alsobrooks was not made a party until the bar of the statute had fallen, and that the cause of action was therefore barred. It is true that full five years expired after the maturity of the note before the trustee was made a party, but this did not bar the cause of action, for the reason that before the bar of the statute had fallen suit liad been begun by the owner of the debt secured \u2014 the real party in interest; and before the rendition of the decree the trustee to whom the title had been conveyed was made a party. The party who had the right to foreclose was the plaintiff, and lie commenced the action before the statute of limitations had run, and the heirs of the mortgagor were the defendants.\nIt is unimportant that the substituted trustee was never made a party. The substituted trustee was not a necessary party. By the act of substitution he had merely been clothed with- the power which the deed of trust authorized the beneficiary to confer. The title was conveyed to Alsobrooks, as was also the power to sell. By the substitution which the deed of trust authorized the beneficiary to make, this power to sell was transferred from Alsobrooks to Russell, but the title remained in Alsobrooks, and he was made a party before the rendition of the decree.\nWe conclude therefore that the proper and necessary parties to foreclose the deed of trust were before the court, and that decree is affirmed.",
+        "type": "majority",
+        "author": "Smith, J."
+      }
+    ],
+    "attorneys": [
+      "Wade Kitchens and II. M. Barney, of counsel, for appellants.",
+      "Henry Stevens, for appellees."
+    ],
+    "corrections": "",
+    "head_matter": "Snider v. Dennis.\nOpinion delivered May 28, 1923.\n1. Mortgages \u2014 foreclosure\u2014necessary parties. \u2014 In a suit to foreclose a deed of trust executed to secure an indebtedness of the grantor, the original trustee, as holder of the legal title, is a necessary party, but a substituted trustee need not be made a party.\n2. Mortgages \u2014 limitation.\u2014Where a suit to foreclose a deed of trust is brought before the note which is secured is barred, and service is had upon the mortgagor, the fact that the trustee was not made a party until after the period of' limitation had expired is immaterial.\nAppeal from Columbia Chancery Court; J. 7. Stevens, Chancellor;\naffirmed.\nWade Kitchens and II. M. Barney, of counsel, for appellants.\nUnder the deed of trust the' trustee was a necessary party t othe foreclosure suit, and the chansellor erred in not sustaining the demurrer to the complaint. Secs. 1189, 1192, C. & M. Digest; 75 Ark. 288; \u00a7\u00a7 1092, 8126, C. & M. Digest; \u00a7 537, Civil Code; 3 Ark. 364; 32 Ark. \u2022297; 49 Ark. 100, 4 S. W. 282; 21 Wall. 36; 2 Jones on . Mortgages, \u00a7 1397; 111 Ark. 362, 164 S. W. 746; 139 Ark. 121, 213 S. W. 409. Court should have had trustee made a party. Sec. 1011, C. & M. Digest. The trustee was not made a party. Sec. 1011, C. & M. Digest. The trustee was not made a party till after note was barred by statute of limitations. Case should be reversed and dismissed.\nHenry Stevens, for appellees.\n- The original trustee was made a party by amendment to the complaint, and the complaint, not showing the substituted trustee, was not demurrable. Sec. 1189, C. & M. Digest. German National Bank y. Young, 123 Ark. 504. Answer was-filed Jan. 1, 1922, and the demurrer April 27, 1922, without withdrawing the answer, and it was properly overruled. 6 Am. Encyc. of Pleading & Practice 424; Baxt. (Tenn.) 217; 11 Heisk. (Penn.) 711. The complaint as amended showed Alsobrooks was trustee, and the demurrer admitted truth of allegation. Adams v. Primmer, 102 Ark. 380; 104 Ark. 466; 106 Ark. 157. The action was not barred by limitation. 90 Ark. 40; 121 Ark. 518; 120 Ark. 37 and 99; 100 Ark. 55; 122 Ark. 189, 235, 370 and 600. Suit was brought within 5 years of date note became due. 140 S. W. 200; 59 Ark. 441. No new case of action was stated by the amendment, and Dennis, plaintiff, was the owner of the note sued on."
+  },
+  "file_name": "0231-01",
+  "first_page_order": 257,
+  "last_page_order": 260
+}

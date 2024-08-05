@@ -1,0 +1,90 @@
+{
+  "id": 8726223,
+  "name": "Swinney vs. The State",
+  "name_abbreviation": "Swinney v. State",
+  "decision_date": "1860-10",
+  "docket_number": "",
+  "first_page": "215",
+  "last_page": "216",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "22 Ark. 215"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [
+    {
+      "cite": "5 Ark. 409",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        8727456
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/5/0409-01"
+      ]
+    },
+    {
+      "cite": "20 Ark. 440",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1869301
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/20/0440-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 174,
+    "char_count": 1884,
+    "ocr_confidence": 0.559,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2086046329341981
+    },
+    "sha256": "1f61bb92f88a6f469f572012bb3220d32904b283afaba92e8f9d1eed932e8959",
+    "simhash": "1:5cbd0e3d2991aa2c",
+    "word_count": 327
+  },
+  "last_updated": "2024-02-27T19:24:29.863772+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Swinney vs. The State."
+    ],
+    "opinions": [
+      {
+        "text": "Mr. Justice Compton,\ndelivered the opinion of the Court.\nIn the court below, the appellant, Swinney, was convicted and fined two hundred dollars, for an assault and battery upon the person of one Gibson.\nThe evidence adduced on the trial, is briefly as follows:\nGibson, upon whom the assault was made, was a very small boy, and, in the language of the witnesses who testified in the case, was \u201c whipped unmercifully,\u201d his back and arms being so severely bruised as to endanger his life. The only reason for the assault, as given by Swinney himself, was that Gibson had been in his water-melon patch.\nThe court charged the jury in substance, that if they believed from the evidence, that Swinney violently struck or beat Gibson, and the assault was not in necessary self-defence, they should find' Swinney guilty and assess his fine at any sum not exceeding two hundred dollars. The only objection that can be taken to this charge is, that so much of it as relates to self-defence, is abstract, there being no evidence whatever in the record tending to prove that the boy Gibson offered, or attempted to offer any violence to the person, of his unfeeling and malignant assailant. But this error can avail Swinney nothing, as it was in his favor; or, - at all events, was not to his prejudice. Clark vs. Bomford & Shumard, 20 Ark. 440; Ashley vs. May, 5 Ark. 409.\nNor can it be seriously insisted that the fine was excessive. In view of the relentless ferocity of Swinney, and the severity of the injury inflicted, the jury were doubtless induced to visit him with the highest fine known to the law for the offence charged, and in doing so, they did right.\nLet the judgment be affirmed.",
+        "type": "majority",
+        "author": "Mr. Justice Compton,"
+      }
+    ],
+    "attorneys": [
+      "Hollowell, Attorney General, for the State."
+    ],
+    "corrections": "",
+    "head_matter": "Swinney vs. The State.\nAn erroneous instruction, not prejudicial to the party excepting to it, is no ground for reversal.\nAppeal from Scott Circuit Court.\nHollowell, Attorney General, for the State."
+  },
+  "file_name": "0215-02",
+  "first_page_order": 223,
+  "last_page_order": 224
+}

@@ -1,0 +1,103 @@
+{
+  "id": 1432152,
+  "name": "Stokes v. Farmers' Bank of Hardy",
+  "name_abbreviation": "Stokes v. Farmers' Bank",
+  "decision_date": "1933-06-26",
+  "docket_number": "4-3040",
+  "first_page": "682",
+  "last_page": "685",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "187 Ark. 682"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [
+    {
+      "cite": "17 S. W. (2d) 324",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "179 Ark. 615",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        8724562
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/179/0615-01"
+      ]
+    },
+    {
+      "cite": "293 S. W. 749",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "173 Ark. 846",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        8724735
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/173/0846-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 179,
+    "char_count": 2002,
+    "ocr_confidence": 0.505,
+    "pagerank": {
+      "raw": 2.119195045139504e-07,
+      "percentile": 0.7643018955931408
+    },
+    "sha256": "5407b850bb59bc0618b0f8d6c4fb51f07a75e00bb44325ad670ddefe01b580cc",
+    "simhash": "1:d738c1735e772d77",
+    "word_count": 342
+  },
+  "last_updated": "2024-02-27T21:18:50.990705+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Stokes v. Farmers\u2019 Bank of Hardy."
+    ],
+    "opinions": [
+      {
+        "text": "Kirby, J.,\n(after stating- the facts). Appellants insist that the court erred in not holding the note invalid as executed for accommodation of the bank, with the understanding it was not to be paid and without consideration.\nThe testimony showed that the- president of the bank, Metcalf, who had just taken charge of the bank\u2019s affairs to save it if it could be done, Avas not responsible for its condition any more than appellants, that he stated the bank\u2019s condition to them and the necessity for the contribution or assessment in order to prevent and avoid the necessity for assessments against the stockholders that it might continue business without such assessment and with capital unimpaired. That they gave their note for the purpose of taking- up the bad paper upon the agreement of the bank president to match the amount thereof in cash,, which was done. This furnished, of course, sufficient consideration for the note. Jones v. Green, 173 Ark. 846, 293 S. W. 749; Ellis v. Jonesboro Trust Co., 179 Ark. 615, 17 S. W. (2d) 324.\nIt makes no difference, so far as such consideration was concerned, that Metcalf later bought and took up $1,428.worth of the notes in the bank, whether they were bad paper or not, since he paid in cash the value thereof.\nThe note sued on was not conditional, and Metcalf, with whom the agreement was made for its execution, paid the amount as he agreed to do and used same in taking- out the bad paper of the bank and prevented an assessment of stockholders or impairment of the capital.\nThe note was a valid obligation made for a valuable consideration, of which the court correctly found there was no failure, upon testimony amply sufficient to sustain the finding, and returned judgment thereon accordingly. Ellis v. Jonesboro Trust Co., supra.\nWe find no error in the record, and the judgment is affirmed.",
+        "type": "majority",
+        "author": "Kirby, J.,"
+      }
+    ],
+    "attorneys": [
+      "Coleman & Reeder, for appellant.",
+      "Sidney Kelley and Gus Causbie, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Stokes v. Farmers\u2019 Bank of Hardy.\n4-3040\nOpinion delivered June 26, 1933.\nColeman & Reeder, for appellant.\nSidney Kelley and Gus Causbie, for appellee."
+  },
+  "file_name": "0682-01",
+  "first_page_order": 702,
+  "last_page_order": 705
+}

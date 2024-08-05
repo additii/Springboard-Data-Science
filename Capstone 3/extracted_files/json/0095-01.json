@@ -1,0 +1,513 @@
+{
+  "id": 12462723,
+  "name": "John D. Kovacs, Petitioner, v. The Department of Labor and Industries, Respondent",
+  "name_abbreviation": "Kovacs v. Department of Labor & Industries",
+  "decision_date": "2016-07-14",
+  "docket_number": "No. 92122-9",
+  "first_page": "95",
+  "last_page": "102",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "186 Wash. 2d 95"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Wash.",
+    "id": 9029,
+    "name": "Washington Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 38,
+    "name_long": "Washington",
+    "name": "Wash."
+  },
+  "cites_to": [
+    {
+      "cite": "686 P.2d 509",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "weight": 5,
+      "year": 1984,
+      "pin_cites": [
+        {
+          "page": "555"
+        },
+        {
+          "page": "553, 556"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "38 Wn. App. 553",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        1791563
+      ],
+      "year": 1984,
+      "pin_cites": [
+        {
+          "page": "556"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/38/0553-01"
+      ]
+    },
+    {
+      "cite": "869 P.2d 1034",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1994,
+      "opinion_index": 0
+    },
+    {
+      "cite": "123 Wn.2d 621",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        812811
+      ],
+      "year": 1994,
+      "pin_cites": [
+        {
+          "page": "627-28"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/123/0621-01"
+      ]
+    },
+    {
+      "cite": "929 P.2d 1120",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1996,
+      "opinion_index": 0
+    },
+    {
+      "cite": "84 Wn. App. 401",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        121842
+      ],
+      "year": 1996,
+      "pin_cites": [
+        {
+          "page": "405"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/84/0401-01"
+      ]
+    },
+    {
+      "cite": "2005 WL 1658424",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "*2"
+        },
+        {
+          "page": "*3-4"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "964 P.2d 380",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1998,
+      "opinion_index": 0
+    },
+    {
+      "cite": "92 Wn. App. 660",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        853384
+      ],
+      "year": 1998,
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/92/0660-01"
+      ]
+    },
+    {
+      "cite": "202 P.3d 1014",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2009,
+      "pin_cites": [
+        {
+          "parenthetical": "quoting DCR, Inc. v. Pierce County, 92 Wn. App. 660, 683 n.16, 964 P.2d 380 (1998)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "149 Wn. App. 297",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        5744281
+      ],
+      "year": 2009,
+      "pin_cites": [
+        {
+          "page": "305",
+          "parenthetical": "quoting DCR, Inc. v. Pierce County, 92 Wn. App. 660, 683 n.16, 964 P.2d 380 (1998)"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/149/0297-01"
+      ]
+    },
+    {
+      "cite": "1 P.2d 234",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1931,
+      "pin_cites": [
+        {
+          "parenthetical": "claim filed five years after injury"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "163 Wash. 251",
+      "category": "reporters:state",
+      "reporter": "Wash.",
+      "case_ids": [
+        846681
+      ],
+      "year": 1931,
+      "pin_cites": [
+        {
+          "parenthetical": "claim filed five years after injury"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash/163/0251-01"
+      ]
+    },
+    {
+      "cite": "13 P.2d 39",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1932,
+      "pin_cites": [
+        {
+          "parenthetical": "claim filed six years after injury"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "168 Wash. 677",
+      "category": "reporters:state",
+      "reporter": "Wash.",
+      "case_ids": [
+        852072
+      ],
+      "year": 1932,
+      "pin_cites": [
+        {
+          "parenthetical": "claim filed six years after injury"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash/168/0677-01"
+      ]
+    },
+    {
+      "cite": "16 P.2d 623",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1932,
+      "pin_cites": [
+        {
+          "parenthetical": "claim filed year and a half after injury"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "170 Wash. 380",
+      "category": "reporters:state",
+      "reporter": "Wash.",
+      "case_ids": [
+        855660
+      ],
+      "year": 1932,
+      "pin_cites": [
+        {
+          "parenthetical": "claim filed year and a half after injury"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash/170/0380-01"
+      ]
+    },
+    {
+      "cite": "58 P.2d 1025",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1936,
+      "opinion_index": 0
+    },
+    {
+      "cite": "186 Wash. 505",
+      "category": "reporters:state",
+      "reporter": "Wash.",
+      "case_ids": [
+        480314
+      ],
+      "year": 1936,
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash/186/0505-01"
+      ]
+    },
+    {
+      "cite": "28 P.3d 720",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "weight": 2,
+      "year": 2001,
+      "opinion_index": 0
+    },
+    {
+      "cite": "144 Wn.2d 472",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        970387
+      ],
+      "year": 2001,
+      "pin_cites": [
+        {
+          "page": "480"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/144/0472-01"
+      ]
+    },
+    {
+      "cite": "31 P.3d 1155",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "weight": 2,
+      "year": 2001,
+      "opinion_index": 0
+    },
+    {
+      "cite": "144 Wn.2d 829",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        970396
+      ],
+      "year": 2001,
+      "pin_cites": [
+        {
+          "page": "837"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/144/0829-01"
+      ]
+    },
+    {
+      "cite": "43 P.3d 4",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2002,
+      "pin_cites": [
+        {
+          "parenthetical": "citing State v. Breazeale, 144 Wn.2d 829, 837, 31 P.3d 1155 (2001)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "146 Wn.2d 1",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        960829
+      ],
+      "year": 2002,
+      "pin_cites": [
+        {
+          "page": "9",
+          "parenthetical": "citing State v. Breazeale, 144 Wn.2d 829, 837, 31 P.3d 1155 (2001)"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/146/0001-01"
+      ]
+    },
+    {
+      "cite": "364 P.3d 119",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2016,
+      "opinion_index": 0
+    },
+    {
+      "cite": "184 Wn.2d 1026",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        12441138,
+        12441139,
+        12441140,
+        12441141,
+        12441142,
+        12441143,
+        12441144,
+        12441145
+      ],
+      "year": 2016,
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/184/1026-01",
+        "/wash-2d/184/1026-02",
+        "/wash-2d/184/1026-03",
+        "/wash-2d/184/1026-04",
+        "/wash-2d/184/1026-05",
+        "/wash-2d/184/1026-06",
+        "/wash-2d/184/1026-07",
+        "/wash-2d/184/1026-08"
+      ]
+    },
+    {
+      "cite": "355 P.3d 1192",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "weight": 2,
+      "year": 2015,
+      "pin_cites": [
+        {
+          "parenthetical": "plurality opinion"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "188 Wn. App. 933",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        4281276
+      ],
+      "year": 2015,
+      "pin_cites": [
+        {
+          "page": "934",
+          "parenthetical": "plurality opinion"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/188/0933-01"
+      ]
+    },
+    {
+      "cite": "115 P.3d 1014",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 1941,
+      "opinion_index": 0
+    },
+    {
+      "cite": "9 Wn.2d 621",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        5300068
+      ],
+      "weight": 9,
+      "year": 1941,
+      "pin_cites": [
+        {
+          "page": "623"
+        },
+        {
+          "page": "625"
+        },
+        {
+          "page": "626"
+        },
+        {
+          "page": "632-33"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/9/0621-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 636,
+    "char_count": 12119,
+    "ocr_confidence": 0.887,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.25765672052694966
+    },
+    "sha256": "ee5040e438ad6f6147a238f038fa5d3e483e5a766881e55b5a9f3b534c8b5439",
+    "simhash": "1:a8e5e683958c0c88",
+    "word_count": 2062
+  },
+  "last_updated": "2024-02-27T18:43:05.207238+00:00",
+  "provenance": {
+    "date_added": "2019-05-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Madsen, C.J., and Johnson, Owens, Fairhurst, Stephens, Wiggins, Gordon McCloud, and Yu, JJ., concur."
+    ],
+    "parties": [
+      "John D. Kovacs, Petitioner, v. The Department of Labor and Industries, Respondent."
+    ],
+    "opinions": [
+      {
+        "text": "Gonz\u00e1lez, J.\n\u00b61 Applications for workers\u2019 compensation benefits must be filed \u201cwithin one year after the day upon which the injury occurred.\u201d RCW 51.28.050. Generally, the day of injury is excluded from time calculations. RCW 1.12.040; CR 6(a). We must decide whether the legislature intended to include the day of injury in calculating the time to file a worker\u2019s compensation claim. We conclude it did not. Accordingly, we hold the one-year statute of limitations begins to run the day after the injury and reverse.\nFacts\n\u00b62 John Kovacs injured his back while working for Pro Heating & Air Conditioning Inc. on September 29, 2010. Kovacs filed an application for benefits on September 29, 2011. The Department of Labor and Industries initially found that Kovacs qualified for benefits, which he began to receive. Kovacs\u2019s employer challenged the award, arguing that Kovacs\u2019s application was not timely under Nelson v. Department of Labor & Industries, 9 Wn.2d 621, 115 P.3d 1014 (1941). Nelson suggested that the statute of limitations for workers\u2019 compensation claims began to run the day of injury. Id. at 632. In response, the department reversed its decision, rejected the claim, and ordered Kovacs to pay back the benefits already paid to him. Kovacs appealed to the Board of Industrial Insurance Appeals, which affirmed the department\u2019s decision that the application was untimely.\n\u00b63 Kovacs appealed again to the superior court, which reversed the board\u2019s decision, held that Kovacs\u2019s claim was \u201ctimely within the meaning of RCW 51.28.050,\u201d entered judgment for Kovacs, and granted Kovacs\u2019s motion for attorney fees. Clerk\u2019s Papers at 21-23. By divided opinion, the Court of Appeals reversed the superior court. Kovacs v. Dep\u2019t of Labor & Indus., 188 Wn. App. 933, 934, 355 P.3d 1192 (2015) (plurality opinion). The Court of Appeals concluded that \u201cRCW 51.28.050 unambiguously means Mr. Kovacs had one year to file his application for benefits from the day of his injury, September 29, 2010; his application filed on September 29, 2011, was untimely.\u201d Id. at 939 (citing Nelson, 9 Wn.2d 621; In re Carey, No. 03 13790, at 4 (Wash. Bd. of Indus. Ins. Appeals Mar. 30, 2005)).\n\u00b64 We granted Kovacs\u2019s petition for review. Kovacs v. Dep\u2019t of Labor & Indus., 184 Wn.2d 1026, 364 P.3d 119 (2016).\nAnalysis\n\u00b65 We are asked to determine the meaning of a statute, RCW 51.28.050. The meaning of a statute is a question of law reviewed de novo. Dep\u2019t of Ecology v. Campbell & Gwinn, LLC, 146 Wn.2d 1, 9, 43 P.3d 4 (2002) (citing State v. Breazeale, 144 Wn.2d 829, 837, 31 P.3d 1155 (2001)). \u201cThe court\u2019s fundamental objective is to ascertain and carry out the Legislature\u2019s intent, and if the statute\u2019s meaning is plain on its face, then the court must give effect to that plain meaning as an expression of legislative intent.\u201d Id. at 9-10 (citing State v. J.M., 144 Wn.2d 472, 480, 28 P.3d 720 (2001)). To determine this plain meaning, we look to \u201call that the Legislature has said in the statute and related statutes which disclose legislative intent about the provision in question,\u201d including existing statutes. Id. at 11 (citing 2A Norman J. Singer, Statutes and Statutory Construction \u00a7 48A:16, at 809-10 (6th ed. 2000)).\n\u00b66 Washington\u2019s statute of limitations for filing workers\u2019 compensation claims says in relevant part, \u201cNo application shall be valid or claim thereunder enforceable unless filed within one year after the day upon which the injury occurred.\u201d RCW 51.28.050 (emphasis added). As a general rule, \u201c [t] he time within which an act is to be done, as herein provided, shall be computed by excluding the first day, and including the last, unless the last day is a holiday, Saturday, or Sunday, and then it is also excluded.\u201d RCW 1.12.040. Kovacs contends that the general rule applies. The department contends that there is a different rule for workers\u2019 compensation claims and that the one-year time limit on workers\u2019 compensation claims includes the date of the injury. We must decide whether the legislature intended to treat the statute of limitations for workers\u2019 compensation claims differently from other statutes of limitations.\n\u00b67 The workers\u2019 compensation statute of limitations has not substantially changed since 1911. See Laws of 1911, ch. 74, \u00a7 12(d). Read in isolation, it does not clearly establish whether the statute of limitations begins to run on the day of the injury or the next day. Washington\u2019s general statute on computing time specifically excludes the date of injury:\nThe time within which an act is to be done, as herein provided, shall be computed by excluding the first day, and including the last, unless the last day is a holiday, Saturday, or Sunday, and then it is also excluded.\nRCW 1.12.040; see also CR 6(a) (\u201cIn computing any period of time prescribed ... by any applicable statute, the day of the act, event, or default from which the designated period of time begins to run shall not be included.\u201d). This statute has also not substantially changed since 1854 and was in force when RCW 51.28.050 was enacted in 1911. See Laws of 1854, \u00a7 486, at 219; Laws of 1911, ch. 74, \u00a7 12(d). While not determinative, we find this strong evidence that the legislature intended the workers\u2019 compensation statute of limitations to begin to run the day after the injury.\n\u00b68 The department argues that RCW 1.12.040 is not controlling because it is a general statute. Certainly, if the statute of limitations for a workers\u2019 compensation claim plainly started to run the day of injury, the department would be correct. But the workers\u2019 compensation statute of limitations does not plainly do that. We find this argument unavailing.\n\u00b69 Next, the department argues that we must affirm based on language in a prior case, Nelson, 9 Wn.2d 621. Nelson was injured on the job when a tree fell on him, knocking him hard to the ground and breaking his ankle. Id. at 623. He promptly and successfully filed a claim for the ankle injury. Id. Almost two years later, he sought to reopen the claim, arguing that he had also suffered a back injury in the original accident that had worsened progressively. Id. at 625. The Nelson case raised two issues: (1) whether an intervening statute, known as the \u201cpresent jury act,\u201d deprived the superior court of jurisdiction and (2) whether the discovery rule applied. Id. at 626, 632 (citing Laws of 1939, ch. 184, \u00a7 1, at 579). We concluded the court could hear the claim and the discovery rule applied. Id. at 632-33, 636 (citing Crabb v. Dep\u2019t of Labor & Indus., 186 Wash. 505, 58 P.2d 1025 (1936)). In our discussion of the discovery rule, we observed in passing that \u201c[t]his court has established the rule that the one year period in which the claim must be filed commences to run on the day of the accident.\u201d Id. at 632. The court cited three cases for that proposition: Sandahl v. Department of Labor & Industries, 170 Wash. 380, 16 P.2d 623 (1932) (claim filed year and a half after injury); Ferguson v. Department of Labor & Industries, 168 Wash. 677, 13 P.2d 39 (1932) (claim filed six years after injury); and Read v. Department of Labor & Industries, 163 Wash. 251, 1 P.2d 234 (1931) (claim filed five years after injury). But none of these cases \u201cestablish the rule\u201d or even discuss whether the statute \u201ccommences to run on the day of the accident\u201d as the Nelson court seemed to suggest. More importantly, given the issues before the Nelson court, its statement that the period commences on the day of the accident is dictum. Neither it nor the cases it relied on turned on whether the statute began to run the day of the accident or the day after. Dictum is not a holding of this court. See Pierson v. Hernandez, 149 Wn. App. 297, 305, 202 P.3d 1014 (2009) (quoting DCR, Inc. v. Pierce County, 92 Wn. App. 660, 683 n.16, 964 P.2d 380 (1998)).\n\u00b610 Relying on Nelson, the Washington Board of Industrial Insurance Appeals (Board) also found that the statute of limitations began to run on the day of the injury. In re Carey, 2005 WL 1658424, at *2, 2005 WA Wrk. Comp. LEXIS 57, at *3. In In re Carey, the Board considered the timeliness of an industrial injury claim. Carey was injured on November 20, 2001 and filed her claim on November 20, 2002. Based on Nelson, the Board abandoned years of department precedent and dismissed the claim as untimely. 2005 WL 1658424, at *3-4, 2005 WA Wrk. Comp. LEXIS 57, at *7 (citing Nelson, 9 Wn.2d 621). While we give appropriate deference to the Board\u2019s expertise in its special area of law, it has no particular expertise in interpreting statutes of limitations and seems to have been led astray by dictum in Nelson. See Superior Asphalt & Concrete Co. v. Dep\u2019t of Labor & Indus., 84 Wn. App. 401, 405, 929 P.2d 1120 (1996); Waste Mgmt. of Seattle, Inc. v. Utils. & Transp. Comm\u2019n, 123 Wn.2d 621, 627-28, 869 P.2d 1034 (1994).\n\u00b611 The Court of Appeals, in an opinion that appears to have overlooked the dictum in Nelson, concluded that the statute of limitations began to run the day after the injury in Wilbur v. Department of Labor & Industries, 38 Wn. App. 553, 556, 686 P.2d 509 (1984). In Wilbur, the department rejected the claimant\u2019s claim on the basis that the application was untimely since it was not filed \u201cwithin 1 year of the date of the accident.\u201d Id. at 555. In that case, the claimant was injured on August 5, 1977, and filed his claim on August 8, 1978. Id. at 553, 556. The court found that Wilbur\u2019s claim had to be filed on or before August 5, 1978, but, since that was a Saturday, he had until Monday, August 7, 1978. Id. As a result, the court found that Wilbur was one day too late in filing his claim, one year after the injury. Id. Impliedly, the court found that the statute of limitations began to run the day after the injury.\n\u00b612 We find the Wilbur approach sound. Read in light of the general counting statute and rule, we conclude that the statute of limitations begins to run the day after the injury. See RCW 1.12.040; CR 6(a).\n\u00b613 We turn now briefly to Kovacs\u2019s belated request for attorney fees. Under the Industrial Insurance Act,\n[i]f, on appeal to the superior or appellate court from the decision and order of the board, said decision and order is reversed or modified and additional relief is granted to a worker . . . , a reasonable fee for the services of the worker\u2019s or beneficiary\u2019s attorney shall be fixed by the court.\nRCW 51.52.130(1). Kovacs\u2019s employer challenged the department\u2019s award of benefits based only on the timeliness of his application. The superior court found the claim was timely filed, reversed the decision to deny benefits, and awarded attorney fees. Given that the State did not object to the late request for attorney fees, and given that attorney fees were granted to Kovacs at the trial court, Kovacs\u2019s request for attorney fees is granted.\nConclusion\n\u00b614 We hold that the statute of limitations on filing workers\u2019 compensation claims begins to run on the day following injury. Accordingly, we reverse the Court of Appeals, reinstate the superior court\u2019s decision affirming the timeliness of Kovacs\u2019s claim, and remand back to the superior court for any further proceedings necessary consistent with this opinion.\nMadsen, C.J., and Johnson, Owens, Fairhurst, Stephens, Wiggins, Gordon McCloud, and Yu, JJ., concur.\nAt oral argument, counsel suggested that Kovacs\u2019s eligibility for benefits is still under review at the department. The record before us demonstrates a challenge only to Kovacs\u2019s eligibility for benefits based on the timeliness of his claim. Our attorney fee decision rests on this record. If in fact there is a properly raised challenge to Kovacs\u2019s eligibility that is before us, the fee decision may have to be revisited by the trial court, but that issue is not properly before us at this time. See RCW 51.52.130(1).",
+        "type": "majority",
+        "author": "Gonz\u00e1lez, J."
+      }
+    ],
+    "attorneys": [
+      "Thomas L. Doran (of Law Offices of Thomas L. Doran), for petitioner.",
+      "Robert W. Ferguson, Attorney General, and James P. Mills, Assistant, for respondent."
+    ],
+    "corrections": "",
+    "head_matter": "[No. 92122-9.\nArgued May 26, 2016.\nDecided July 14, 2016.\nJohn D. Kovacs, Petitioner, v. The Department of Labor and Industries, Respondent.\nThomas L. Doran (of Law Offices of Thomas L. Doran), for petitioner.\nRobert W. Ferguson, Attorney General, and James P. Mills, Assistant, for respondent."
+  },
+  "file_name": "0095-01",
+  "first_page_order": 133,
+  "last_page_order": 140
+}

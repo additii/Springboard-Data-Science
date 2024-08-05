@@ -1,0 +1,187 @@
+{
+  "id": 1367936,
+  "name": "Hughes v. Garrett",
+  "name_abbreviation": "Hughes v. Garrett",
+  "decision_date": "1921-11-07",
+  "docket_number": "",
+  "first_page": "404",
+  "last_page": "406",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "150 Ark. 404"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [
+    {
+      "cite": "124 Ark. 536",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "114 Ark. 170",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1536293
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/114/0170-01"
+      ]
+    },
+    {
+      "cite": "5 Ark. 298",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "91 Ark. 465",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "213 S. W. 737",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "138 Ark. 38",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1566941
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/138/0038-01"
+      ]
+    },
+    {
+      "cite": "146 U. S. 499",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3563815
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/146/0499-01"
+      ]
+    },
+    {
+      "cite": "98 Ark. 294",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1316024
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/98/0294-01"
+      ]
+    },
+    {
+      "cite": "108 Ark. 411",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1342330
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/108/0411-01"
+      ]
+    },
+    {
+      "cite": "114 Ark. 170",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1536293
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/114/0170-01"
+      ]
+    },
+    {
+      "cite": "138 Ark. 38",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1566941
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/138/0038-01"
+      ]
+    },
+    {
+      "cite": "98 Ark. 294",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1316024
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/98/0294-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 305,
+    "char_count": 5427,
+    "ocr_confidence": 0.497,
+    "pagerank": {
+      "raw": 9.779386173779556e-08,
+      "percentile": 0.5320101673881373
+    },
+    "sha256": "3675ade192ba8aa4277058d7cb6888978a64e4c5684db178ea4c0a0404f01f9b",
+    "simhash": "1:afcd841ea8b0f1d1",
+    "word_count": 1007
+  },
+  "last_updated": "2024-02-27T17:22:06.736121+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Hughes v. Garrett."
+    ],
+    "opinions": [
+      {
+        "text": "Hart, J.\n(after stating the facts). The judgment of the circuit court was wrong. At the time the bank failed it had made no appropriation whatever of the amount of the general deposit of Hughes towards the payment of any of Ms notes dne the bank. When the receiver was appointed, Hughes directed-him to apply the amount due him on general deposit by the bank to the payment of the note sued on first, and the balance to the payment of other indebtedness. The receiver had no right to refuse to make the appropriation as directed.\nThis court has held that, the relation between a bank and a general depositor being that of debtor and creditor, if the bank becomes insolvent, a depositor who is also indebted to the bank may set off the amount of his deposit in an action by the receiver or assignee to recover on the indebtedness due the bank. Funk v. Young, 138 Ark. 38, and Steelman v. Atchley, 98 Ark. 294,\nAs we have already seen, the record in this case shows that the bank did not appropriate the deposit of Hughes to the payment of any indebtedness due the bank until after Hughes had directed it to be applied to the payment of the note sued on.\nIt is true that the note sued on was signed by Hughes and Bundle as his sureties. It is well settled in this State that a debt due from a sole plaintiff to one of several defendants may be pleaded under our statute as a set-off by the defendant to whom such debt is due. Burton v. Blytheville Realty Co., 108 Ark. 411, and Rush v. Citizens\u2019 National Bank, 114 Ark. 170, and cases cited.\nIt follows from the facts stated that Hughes had a right to set-off against the note sued on his individual indebtedness to the bank, and the court erred in directing the jury to find a verdict for appellee.\nFor that error the judgment will be reversed, and the cause will be remanded for a new trial.",
+        "type": "majority",
+        "author": "Hart, J."
+      }
+    ],
+    "attorneys": [
+      "John E. Miller and G. E. Yingling, for appellants.",
+      "Brundidge & Neelly, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Hughes v. Garrett.\nOpinion delivered November 7, 1921.\n1. Set-off and counterclaim \u2014 against insolvent bank. \u2014 Where a bank becomes insolvent, a depositor who is indebted to the bank may set off the amount of his deposit in an action by the receiver or assignee to recover on the indebtedness due to the bank.\n2. Banks and banking \u2014 insolvency\u2014set-off.\u2014Where a bank becomes insolvent, a depositor indebted to the bank may set off the amount of his deposit in an, action by the receiver or assignee to recover the indebtedness due the bank.\n3. Set-off and counterclaim \u2014 by one of several defendants.\u2014 A debt due from a sole plaintiff to one of several defendants may be pleaded under our statute as a set-off by the defendant to whom such debt is due.\nAppeal from White Circuit Court; J. M. Jackson, Judge;\nreversed.\nSTATEMENT OF FACTS.\nOn November 16, 1920, appellee instituted this action against appellants to recover the sum of $150 alleged to be due and payable to appellee on the joint promissory note of appellants.\nOn September 8, 1919, S. T. Hughes executed his note, with M. T. R/undle as security, for the sum of $150 due and payable to the First National Bank of Judsonia, six months after date. The bank became insolvent, and a receiver was appointed to take charge of its assets and wind up its affairs. S. T. Hughes had on general deposit in the bank, at the time the receiver was appointed, the sum of $410.10. He also owed the bank three other notes besides the one sued on. Two of these notes were for small amounts, and the third one was for the sum of $1290.\nHughes directed the first receiver of the bank to pay the note sued on out of the general deposit owed him 'by the bank. The receiver failed to apply the general deposit of Hughes to the payment of the note sued on. Subsequently Robert D. Garrett was appointed receiver, and he refused to make the application. He applied the amount of the general deposit due Hughes towards the payment of other notes which Hughes owed the bank, either as principal or surety.\nThe court directed the jury to return a verdict in f\u00e1vor of appellee, and to reverse the judgment rendered appellants have prosecuted this appeal.\nJohn E. Miller and G. E. Yingling, for appellants.\nAppellant had the right to offset any amount that he might owe the bank with the amount that the bank owed him. 98 Ark. 294. The fact that the bank is in the hands of a receiver does not alter the rule. 146 U. S. 499; 2 Bolles on Banking p. 858; 138 Ark. 38; 3 B. C. L. p. 686, Sec. 317. He had the right to demand that his deposit be applied on this note instead of others. 213 S. W. 737; 91 Ark. 465. He made such demand.\nBy failing to make the application of appellant\u2019s funds to the payment of the note in suit, the surety was thereby released from liability. 5 Ark. 298; 114 Ark. 170; 3 B. C. L. 596.\nBrundidge & Neelly, for appellee.\nAppellant made no request that the amount of his deposit in the bank, or so much as was necessary, be applied to the note in suit.\nThe \u00a1money deposited by Hughes was a general deposit, not a special one, and when so deposited became the property of the bank absolutely, and Hughes had no right to direct the application of it. 124 Ark. 536 and cases cited. Where there is no specific application of the fund directed, the bank may apply it to any indebtedness due it. 3 B. C. L. 588.\nThe indebtedness of Hughes and Bundle was a joint one. There was no such mutuality of claims between Bundle and the bank as would give the receiver the right to set-off Hughes\u2019 deposit against this note. 3 B. C. L. p. 591."
+  },
+  "file_name": "0404-01",
+  "first_page_order": 430,
+  "last_page_order": 432
+}

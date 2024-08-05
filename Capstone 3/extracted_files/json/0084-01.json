@@ -1,0 +1,215 @@
+{
+  "id": 6792121,
+  "name": "Scott Walter Maziar, Respondent, v. The Department of Corrections et al., Petitioners",
+  "name_abbreviation": "Maziar v. Department of Corrections",
+  "decision_date": "2015-04-30",
+  "docket_number": "No. 90377-8",
+  "first_page": "84",
+  "last_page": "90",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "183 Wash. 2d 84"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Wash.",
+    "id": 9029,
+    "name": "Washington Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 38,
+    "name_long": "Washington",
+    "name": "Wash."
+  },
+  "cites_to": [
+    {
+      "cite": "530 P.2d 309",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1975,
+      "opinion_index": 0
+    },
+    {
+      "cite": "85 Wn.2d 133",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1120461
+      ],
+      "year": 1975,
+      "pin_cites": [
+        {
+          "page": "138"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/85/0133-01"
+      ]
+    },
+    {
+      "cite": "43 P.3d 4",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "weight": 2,
+      "year": 2002,
+      "pin_cites": [
+        {
+          "page": "11"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "146 Wn.2d 1",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        960829
+      ],
+      "year": 2002,
+      "pin_cites": [
+        {
+          "page": "9-10"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/146/0001-01"
+      ]
+    },
+    {
+      "cite": "333 P.3d 395",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "weight": 2,
+      "year": 2014,
+      "opinion_index": 0
+    },
+    {
+      "cite": "181 Wn.2d 360",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4356290
+      ],
+      "year": 2014,
+      "pin_cites": [
+        {
+          "page": "368"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/181/0360-01"
+      ]
+    },
+    {
+      "cite": "337 P.3d 326",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2014,
+      "opinion_index": 0
+    },
+    {
+      "cite": "181 Wn.2d 1021",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "year": 2014,
+      "opinion_index": 0
+    },
+    {
+      "cite": "327 P.3d 1251",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2014,
+      "opinion_index": 0
+    },
+    {
+      "cite": "180 Wn. App. 209",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        4187691
+      ],
+      "year": 2014,
+      "pin_cites": [
+        {
+          "page": "225, 234"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/180/0209-01"
+      ]
+    },
+    {
+      "cite": "216 P.3d 430",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2009,
+      "opinion_index": 0
+    },
+    {
+      "cite": "151 Wn. App. 850",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        3989364
+      ],
+      "year": 2009,
+      "pin_cites": [
+        {
+          "page": "852"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/151/0850-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 524,
+    "char_count": 9753,
+    "ocr_confidence": 0.765,
+    "pagerank": {
+      "raw": 6.167927073211349e-08,
+      "percentile": 0.38305457190747416
+    },
+    "sha256": "f70c66ee86bfd8e55ec6e04969d9d4559db898369fd74e30fcf2586776aa2de8",
+    "simhash": "1:848e020f701da9be",
+    "word_count": 1673
+  },
+  "last_updated": "2024-02-27T22:09:01.011694+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Madsen, C.J., and Johnson, Fairhurst, Stephens, Wiggins, Gonz\u00e1lez, Gordon McCloud, and Yu, JJ., concur."
+    ],
+    "parties": [
+      "Scott Walter Maziar, Respondent, v. The Department of Corrections et al., Petitioners."
+    ],
+    "opinions": [
+      {
+        "text": "Owens, J.\n\u00b61 Scott Walter Maziar sustained injuries while on board a ferry operated by the Washington State Department of Corrections (DOC). Since Maziar was injured at sea, he brought a general maritime negligence claim against the DOC. He initially requested a jury trial, but he moved to strike his demand because he thought that no jury trial right existed for general maritime negligence cases. The DOC objected, but the trial court agreed with Maziar, struck his jury request, and awarded him damages after a bench trial. The Court of Appeals affirmed the trial court on the jury trial issue but on different grounds. It held that although a jury trial right generally applies to general maritime negligence actions in state court, the State does not have a constitutional or statutory jury trial right in tort actions.\n\u00b62 This case requires us to determine whether the State has a jury trial right in tort actions. We hold that it does. Several statutes read together demonstrate that the legislature meant to treat the State as if it were a private party with regard to matters of civil procedure and confer on any party (including the State) the right to have a jury determine most matters of fact. Accordingly, we reverse the Court of Appeals and remand for a jury trial.\nFACTS\n\u00b63 Maziar worked as a prison guard for the DOC at the McNeil Island Corrections Center, and he used a DOC-operated ferry to get to and from work. After getting off work one day, Maziar went to the ferry\u2019s upper deck and sat down on a bench. He propped his feet on a loose chair, \u201cleaned back, and closed his eyes.\u201d Suppl. Clerk\u2019s Papers at 348. The ferry captain observed Maziar and \u201cyanked the chair out from ... Maziar\u2019s feet.\u201d Id. Maziar fell, injuring his \u201cback, left ankle, knee, left shoulder and wrist.\u201d Id. at 349. The ferry captain told Maziar, \u201c T am not an asshole, just don\u2019t block the walkway.\u2019 \u201d Id.\n\u00b64 Maziar brought a general maritime law negligence claim against the DOC. The trial court granted the DOC\u2019s summary judgment motion to dismiss the case, concluding that the Industrial Insurance Act, Title 51 RCW, and sovereign immunity precluded Maziar\u2019s claim. The Court of Appeals reversed and remanded for trial, holding that Maziar\u2019s claims were not barred by the Industrial Insurance Act or sovereign immunity. Maziar v. Dep\u2019t of Corr., 151 Wn. App. 850, 852, 216 P.3d 430 (2009).\n\u00b65 On remand, Maziar moved to strike his jury demand, arguing that there is no right to a jury trial in maritime tort cases. The trial court granted Maziar\u2019s motion over the DOC\u2019s objection.\n\u00b66 The Court of Appeals affirmed, holding that although a jury trial right generally applies in general maritime negligence actions in state court, the State does not have a constitutional or statutory jury trial right in civil actions. Maziar v. Dep\u2019t of Corr., 180 Wn. App. 209, 225, 234, 327 P.3d 1251 (2014). First, the court concluded that the State does not have a constitutional jury trial right because article I of the Washington Constitution \u201c \u2018is a source of individual protection\u2019 \u201d that grants individuals, not the State, a jury-trial right. Id. at 226 (quoting Robert F. Utter & Hugh D. Spitzer, The Washington State Constitution: A Reference Guide 15 (2002)). Second, the court concluded that the legislature could not have intended to grant the State a statutory jury trial right when it passed two territorial statutes dealing with jury trials because when those statutes were enacted, \u201cthere was no State of Washington.\u201d Id. at 231. The court further reasoned that the territorial statutes could not have been intended to grant the State a jury trial right because sovereign governments were immune from civil suits at the time the statutes were enacted. Id. at 233-34. We granted discretionary review to decide whether the State has a jury trial right in tort actions against it. Maziar v. Dep\u2019t of Corr., 181 Wn.2d 1021, 337 P.3d 326 (2014).\nISSUE\n\u00b67 Does the State have a jury trial right in tort actions against it?\nANALYSIS\n\u00b68 The State argues that it has both a statutory and constitutional jury trial right in tort actions against it. We hold that the State has a statutory jury trial right in tort actions based on several statutes. Because of our holding, we do not address the constitutional issue.\n\u00b69 \u201cStatutory construction is an issue of law that we review de novo.\" Anderson v. Dussault, 181 Wn.2d 360, 368, 333 P.3d 395 (2014). \u201c[0]ur primary purpose is to ascertain and effectuate the intent of the legislature.\u201d Id. When a \u201cstatute\u2019s meaning is plain on its face, . . . the court must give effect to that plain meaning.\u201d Dep\u2019t of Ecology v. Campbell & Gwinn, LLC, 146 Wn.2d 1, 9-10, 43 P.3d 4 (2002). We derive the plain meaning of a provision \u201cfrom all that the Legislature has said in the statute and related statutes which disclose legislative intent about the provision in question.\u201d Id. at 11. We presume that the legislature enacts laws \u201cwith full knowledge of existing laws.\u201d Thurston County v. Gorton, 85 Wn.2d 133, 138, 530 P.2d 309 (1975).\n\u00b610 The State cites two sets of statutory provisions that it contends grant it a jury trial right in tort actions. The first set deals with the situations in which a jury trial right attaches in general, and the second set deals with civil procedure in actions involving the State.\n\u00b611 The first set consists of three provisions, originally enacted before 1889, that generally state that the jury trial right attaches to issues of fact. The first provision states, \u201cAn issue of fact, in an action for the recovery of money only, . . . shall be tried by a jury.\u201d RCW 4.40.060. Second, \u201c[a] 11 questions of fact other than those mentioned in RCW 4.44.080, shall be decided by the jury.\u201d RCW 4.44.090. Finally, \u201c[a]ny party shall have the right in an action at law, upon an issue of fact, to demand a trial by jury.\u201d RCW 4.48.010. This last provision was reenacted in its current form in 1984. Laws of 1984, ch. 258, \u00a7 512.\n\u00b612 The second set consists of two provisions that appear in the RCW chapter titled \u201cActions and Claims Against State,\u201d ch. 4.92 RCW. The first provision states that the attorney general shall act as counsel for the State and that \u201c[t]he action shall proceed in all respects as other actions.\u201d RCW 4.92.030. The second provision is the one in which the State waived sovereign immunity. It provides, \u201cThe state of Washington, whether acting in its governmental or proprietary capacity, shall be liable for damages arising out of its tortious conduct to the same extent as if it were a private person or corporation.\u201d RCW 4.92.090. That statute was originally enacted in 1961 and was reenacted in its current form in 1963. See Laws of 1961, ch. 136, \u00a7 1; Laws of 1963, ch. 159, \u00a7 2.\n\u00b613 Read together, those sets of statutory provisions grant the State a jury trial right in tort actions. When the legislature waived sovereign immunity in 1961 and said the State was liable \u201cto the same extent as if it were a private person or corporation,\u201d the laws in effect at that time already provided that all issues of fact would be tried by a jury and that actions involving the State would \u201cproceed in all respects as other actions\u201d Laws of 1961, ch. 136, \u00a7 1 (emphasis added) (currently codified as RCW 4.92.090); Laws of 1895, ch. 95, \u00a7 3 (emphasis added) (currently codified as RCW 4.92.030); Laws of 1869, ch. 15, \u00a7 228 (currently codified as RCW 4.44.090). Since we presume the legislature knows the existing legal framework when it enacts a new law and derive the plain meaning of a provision from related statutes that disclose legislative intent, we conclude that the legislature meant to grant the State a jury trial right for the same actions in which private parties have that right through its language waiving sovereign immunity. The language of the provisions indicates that the legislature intended to treat the State as any other private person or corporation in a tort action. That conclusion is further supported by the fact that the legislature reenacted RCW 4.48.010 in 1984 to say, \u201cAny party shall have the right in an action at law, upon an issue of fact, to demand a trial by jury.\u201d Laws of 1984, ch. 258, \u00a7 512 (emphasis added). The legislature used the phrase \u201cany party\u201d knowing that the State was a potential party in a tort action. Thus, we hold that the legislature intended to grant the State a jury trial right in tort actions.\nCONCLUSION\n\u00b614 We hold that the State has a statutory jury trial right in tort actions. The statute in which the legislature waived sovereign immunity, read together with several other statutes, demonstrates that the legislature intended to grant the State a jury trial right. Accordingly, we reverse the Court of Appeals and remand for a jury trial.\nMadsen, C.J., and Johnson, Fairhurst, Stephens, Wiggins, Gonz\u00e1lez, Gordon McCloud, and Yu, JJ., concur.\nThe exception in RCW 4.44.080 relates to preliminary fact-finding relevant to the admissibility of testimony.\nWe find additional support for our holding in CR 38. That rule provides, \u201cAt or prior to the time the ease is called to be set for trial, any party may demand a trial by jury of any issue triable of right by a jury.\u201d CR 38(b) (emphasis added). Also, \u201c[a] demand for trial by jury made as herein provided may not be withdrawn without the consent of the parties.\u201d CR 38(d) (emphasis added).",
+        "type": "majority",
+        "author": "Owens, J."
+      }
+    ],
+    "attorneys": [
+      "Robert W. Ferguson, Attorney General, Patricia D. Todd and Michael P. Lynch, Managing Assistants, and Jeffrey T Even, Assistant, for petitioners.",
+      "Karl E. Dickman (of E. Dickman Law Firm), for respondent."
+    ],
+    "corrections": "",
+    "head_matter": "[No. 90377-8.\nEn Banc.]\nArgued March 10, 2015.\nDecided April 30, 2015.\nScott Walter Maziar, Respondent, v. The Department of Corrections et al., Petitioners.\nRobert W. Ferguson, Attorney General, Patricia D. Todd and Michael P. Lynch, Managing Assistants, and Jeffrey T Even, Assistant, for petitioners.\nKarl E. Dickman (of E. Dickman Law Firm), for respondent."
+  },
+  "file_name": "0084-01",
+  "first_page_order": 138,
+  "last_page_order": 144
+}

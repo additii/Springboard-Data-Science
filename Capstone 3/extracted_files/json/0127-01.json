@@ -1,0 +1,845 @@
+{
+  "id": 12456824,
+  "name": "Brian Long, Petitioner, v. Brusco Tug & Barge, Inc., et al., Respondents",
+  "name_abbreviation": "Long v. Brusco Tug & Barge, Inc.",
+  "decision_date": "2016-02-25",
+  "docket_number": "No. 90976-8",
+  "first_page": "127",
+  "last_page": "142",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "185 Wash. 2d 127"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Wash.",
+    "id": 9029,
+    "name": "Washington Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 38,
+    "name_long": "Washington",
+    "name": "Wash."
+  },
+  "cites_to": [
+    {
+      "cite": "65 P. 776",
+      "category": "reporters:state_regional",
+      "reporter": "P.",
+      "year": 1901,
+      "pin_cites": [
+        {
+          "parenthetical": "granting new trial due to one juror's statements during deliberations that he knew the defendant to be a member of a gang and to have been implicated in a murder; the juror had falsely denied any knowledge during voir dire"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "25 Wash. 405",
+      "category": "reporters:state",
+      "reporter": "Wash.",
+      "case_ids": [
+        5159007
+      ],
+      "year": 1901,
+      "pin_cites": [
+        {
+          "page": "410",
+          "parenthetical": "granting new trial due to one juror's statements during deliberations that he knew the defendant to be a member of a gang and to have been implicated in a murder; the juror had falsely denied any knowledge during voir dire"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash/25/0405-01"
+      ]
+    },
+    {
+      "cite": "426 P.2d 824",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1967,
+      "pin_cites": [
+        {
+          "parenthetical": "misconduct when venire member failed to disclose prejudice in favor of schoolteachers in a personal injury action against a schoolteacher"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "71 Wn.2d 119",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1095277
+      ],
+      "year": 1967,
+      "pin_cites": [
+        {
+          "page": "121",
+          "parenthetical": "misconduct when venire member failed to disclose prejudice in favor of schoolteachers in a personal injury action against a schoolteacher"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/71/0119-01"
+      ]
+    },
+    {
+      "cite": "776 P.2d 676",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1989,
+      "pin_cites": [
+        {
+          "parenthetical": "misconduct when venire member failed to disclose bias against Californians in personal injury action by a California resident"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "113 Wn.2d 154",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1172033
+      ],
+      "year": 1989,
+      "pin_cites": [
+        {
+          "page": "158-59",
+          "parenthetical": "misconduct when venire member failed to disclose bias against Californians in personal injury action by a California resident"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/113/0154-01"
+      ]
+    },
+    {
+      "cite": "730 P.2d 1333",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1987,
+      "pin_cites": [
+        {
+          "parenthetical": "stating that courts have a strong interest in upholding jury verdicts"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "107 Wn.2d 541",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1192479
+      ],
+      "year": 1987,
+      "pin_cites": [
+        {
+          "page": "551",
+          "parenthetical": "stating that courts have a strong interest in upholding jury verdicts"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/107/0541-01"
+      ]
+    },
+    {
+      "cite": "756 P.2d 142",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1988,
+      "pin_cites": [
+        {
+          "parenthetical": "granting new trial due to misconduct of bailiff and jury, where bailiff provided jury with Black's Law Dictionary (1933) to look up definitions of \"negligence\" and \"proximate cause\""
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "750 P.2d 1257",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1988,
+      "pin_cites": [
+        {
+          "parenthetical": "granting new trial due to misconduct of bailiff and jury, where bailiff provided jury with Black's Law Dictionary (1933) to look up definitions of \"negligence\" and \"proximate cause\""
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "110 Wn.2d 128",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1182907
+      ],
+      "year": 1988,
+      "pin_cites": [
+        {
+          "page": "131",
+          "parenthetical": "granting new trial due to misconduct of bailiff and jury, where bailiff provided jury with Black's Law Dictionary (1933) to look up definitions of \"negligence\" and \"proximate cause\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/110/0128-01"
+      ]
+    },
+    {
+      "cite": "143 P. 146",
+      "category": "reporters:state_regional",
+      "reporter": "P.",
+      "year": 1914,
+      "pin_cites": [
+        {
+          "parenthetical": "finding juror misconduct when, during deliberations, one juror \"produced a pamphlet which purported to contain the forest protection laws of this state, and . . . portions of the pamphlet were read and commented upon\""
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "81 Wash. 678",
+      "category": "reporters:state",
+      "reporter": "Wash.",
+      "case_ids": [
+        609674
+      ],
+      "year": 1914,
+      "pin_cites": [
+        {
+          "page": "680",
+          "parenthetical": "finding juror misconduct when, during deliberations, one juror \"produced a pamphlet which purported to contain the forest protection laws of this state, and . . . portions of the pamphlet were read and commented upon\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash/81/0678-01"
+      ]
+    },
+    {
+      "cite": "66 P. 131",
+      "category": "reporters:state_regional",
+      "reporter": "P.",
+      "year": 1901,
+      "pin_cites": [
+        {
+          "parenthetical": "affidavit that jury used improper method to calculate damages inhered in the verdict"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "26 Wash. 50",
+      "category": "reporters:state",
+      "reporter": "Wash.",
+      "case_ids": [
+        5166247
+      ],
+      "year": 1901,
+      "pin_cites": [
+        {
+          "page": "60",
+          "parenthetical": "affidavit that jury used improper method to calculate damages inhered in the verdict"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash/26/0050-01"
+      ]
+    },
+    {
+      "cite": "335 P.2d 598",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1959,
+      "pin_cites": [
+        {
+          "parenthetical": "in action for injuries sustained while horseback riding, the fact that two jurors relayed their experiences about horseback riding inhered in the verdict"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "53 Wn.2d 630",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1011317
+      ],
+      "year": 1959,
+      "pin_cites": [
+        {
+          "page": "631-32",
+          "parenthetical": "in action for injuries sustained while horseback riding, the fact that two jurors relayed their experiences about horseback riding inhered in the verdict"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/53/0630-01"
+      ]
+    },
+    {
+      "cite": "355 P.2d 834",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1960,
+      "opinion_index": 0
+    },
+    {
+      "cite": "56 Wn.2d 897",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1020712
+      ],
+      "year": 1960,
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/56/0897-01"
+      ]
+    },
+    {
+      "cite": "796 P.2d 737",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1990,
+      "pin_cites": [
+        {
+          "parenthetical": "finding no misconduct when jurors applied specialized medical knowledge during deliberations because that information was disclosed during voir dire"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "59 Wn. App. 266",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        1751117
+      ],
+      "year": 1990,
+      "pin_cites": [
+        {
+          "page": "274",
+          "parenthetical": "finding no misconduct when jurors applied specialized medical knowledge during deliberations because that information was disclosed during voir dire"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/59/0266-01"
+      ]
+    },
+    {
+      "cite": "260 P.3d 967",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2011,
+      "pin_cites": [
+        {
+          "parenthetical": "finding no misconduct when juror drew on disclosed background in real estate and piping in tort action involving a failed pipe drainage system"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "163 Wn. App. 744",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        4020444
+      ],
+      "year": 2011,
+      "pin_cites": [
+        {
+          "page": "763-64",
+          "parenthetical": "finding no misconduct when juror drew on disclosed background in real estate and piping in tort action involving a failed pipe drainage system"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/163/0744-01"
+      ]
+    },
+    {
+      "cite": "75 P.3d 944",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2003,
+      "opinion_index": 0
+    },
+    {
+      "cite": "150 Wn.2d 197",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        9194118
+      ],
+      "year": 2003,
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/150/0197-01"
+      ]
+    },
+    {
+      "cite": "866 P.2d 631",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1994,
+      "opinion_index": 0
+    },
+    {
+      "cite": "123 Wn.2d 114",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        812822
+      ],
+      "year": 1994,
+      "pin_cites": [
+        {
+          "page": "117"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/123/0114-01"
+      ]
+    },
+    {
+      "cite": "134 P. 1097",
+      "category": "reporters:state_regional",
+      "reporter": "P.",
+      "weight": 2,
+      "year": 1913,
+      "opinion_index": 0
+    },
+    {
+      "cite": "75 Wash. 430",
+      "category": "reporters:state",
+      "reporter": "Wash.",
+      "case_ids": [
+        622711
+      ],
+      "weight": 2,
+      "year": 1913,
+      "pin_cites": [
+        {
+          "page": "436"
+        },
+        {
+          "page": "436"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash/75/0430-01"
+      ]
+    },
+    {
+      "cite": "422 P.2d 515",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1967,
+      "opinion_index": 0
+    },
+    {
+      "cite": "70 Wn.2d 173",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1060178
+      ],
+      "year": 1967,
+      "pin_cites": [
+        {
+          "page": "179-80"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/70/0173-01"
+      ]
+    },
+    {
+      "cite": "376 P.2d 651",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1962,
+      "opinion_index": 0
+    },
+    {
+      "cite": "60 Wn.2d 836",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1031652
+      ],
+      "year": 1962,
+      "pin_cites": [
+        {
+          "page": "841"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/60/0836-01"
+      ]
+    },
+    {
+      "cite": "818 P.2d 1337",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1991,
+      "opinion_index": 0
+    },
+    {
+      "cite": "117 Wn.2d 747",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1373871
+      ],
+      "year": 1991,
+      "pin_cites": [
+        {
+          "page": "768"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/117/0747-01"
+      ]
+    },
+    {
+      "cite": "345 P.3d 785",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2015,
+      "opinion_index": 0
+    },
+    {
+      "cite": "182 Wn.2d 1021",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "year": 2015,
+      "opinion_index": 0
+    },
+    {
+      "cite": "65 P. 776",
+      "category": "reporters:state_regional",
+      "reporter": "P.",
+      "weight": 3,
+      "year": 1901,
+      "opinion_index": 1
+    },
+    {
+      "cite": "25 Wash. 405",
+      "category": "reporters:state",
+      "reporter": "Wash.",
+      "case_ids": [
+        5159007
+      ],
+      "year": 1901,
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash/25/0405-01"
+      ]
+    },
+    {
+      "cite": "2 L. Ed. 60",
+      "category": "reporters:federal",
+      "reporter": "L. Ed.",
+      "case_ids": [
+        12121622
+      ],
+      "year": 1803,
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/5/0137-01"
+      ]
+    },
+    {
+      "cite": "198 P.3d 1021",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2009,
+      "pin_cites": [
+        {
+          "parenthetical": "quoting Marbury v. Madison, 5 U.S. (1 Cranch) 137, 177, 2 L. Ed. 60 (1803)"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "165 Wn.2d 494",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        5751954
+      ],
+      "year": 2009,
+      "pin_cites": [
+        {
+          "page": "506",
+          "parenthetical": "quoting Marbury v. Madison, 5 U.S. (1 Cranch) 137, 177, 2 L. Ed. 60 (1803)"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/165/0494-01"
+      ]
+    },
+    {
+      "cite": "970 P.2d 828",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1999,
+      "opinion_index": 1
+    },
+    {
+      "cite": "94 Wn. App. 268",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        83389
+      ],
+      "year": 1999,
+      "pin_cites": [
+        {
+          "page": "282"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-app/94/0268-01"
+      ]
+    },
+    {
+      "cite": "887 P.2d 424",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1994,
+      "opinion_index": 1
+    },
+    {
+      "cite": "76 Wn. App. 705",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        490146
+      ],
+      "year": 1994,
+      "pin_cites": [
+        {
+          "page": "712"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-app/76/0705-01"
+      ]
+    },
+    {
+      "cite": "60 P.3d 106",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2002,
+      "pin_cites": [
+        {
+          "parenthetical": "quoting Graves v. Dep't of Game, 76 Wn. App. 705, 712, 887 P.2d 424 (1994)"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "114 Wn. App. 611",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        163104
+      ],
+      "year": 2002,
+      "pin_cites": [
+        {
+          "page": "619",
+          "parenthetical": "quoting Graves v. Dep't of Game, 76 Wn. App. 705, 712, 887 P.2d 424 (1994)"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-app/114/0611-01"
+      ]
+    },
+    {
+      "cite": "750 P.2d 1257",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1988,
+      "pin_cites": [
+        {
+          "parenthetical": "footnote omitted"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "110 Wn.2d 128",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1182907
+      ],
+      "year": 1988,
+      "pin_cites": [
+        {
+          "page": "137-38",
+          "parenthetical": "footnote omitted"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/110/0128-01"
+      ]
+    },
+    {
+      "cite": "143 P. 146",
+      "category": "reporters:state_regional",
+      "reporter": "P.",
+      "year": 1914,
+      "pin_cites": [
+        {
+          "parenthetical": "reversible misconduct for juror to bring in a pamphlet on relevant law into the jury room"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "81 Wash. 678",
+      "category": "reporters:state",
+      "reporter": "Wash.",
+      "case_ids": [
+        609674
+      ],
+      "year": 1914,
+      "pin_cites": [
+        {
+          "page": "683-84",
+          "parenthetical": "reversible misconduct for juror to bring in a pamphlet on relevant law into the jury room"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash/81/0678-01"
+      ]
+    },
+    {
+      "cite": "75 P.3d 944",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2003,
+      "opinion_index": 1
+    },
+    {
+      "cite": "150 Wn.2d 197",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        9194118
+      ],
+      "year": 2003,
+      "pin_cites": [
+        {
+          "page": "204"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/150/0197-01"
+      ]
+    },
+    {
+      "cite": "376 P.2d 651",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1962,
+      "pin_cites": [
+        {
+          "parenthetical": "citing State v. Parker, 25 Wash. 405, 65 P. 776 (1901)"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "60 Wn.2d 836",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1031652
+      ],
+      "year": 1962,
+      "pin_cites": [
+        {
+          "page": "841",
+          "parenthetical": "citing State v. Parker, 25 Wash. 405, 65 P. 776 (1901)"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/60/0836-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1302,
+    "char_count": 27165,
+    "ocr_confidence": 0.89,
+    "pagerank": {
+      "raw": 5.881958177012176e-08,
+      "percentile": 0.3684929121350318
+    },
+    "sha256": "4aac11e044501feb06f86fbbc0000fb053f76b5c4ad9f88b474b9e123479bd8c",
+    "simhash": "1:07da41f136dc245a",
+    "word_count": 4496
+  },
+  "last_updated": "2024-02-28T00:06:59.447104+00:00",
+  "provenance": {
+    "date_added": "2019-05-22",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Madsen, C.J., and Owens, Gordon McCloud, and Yu, JJ., concur.",
+      "Johnson, Fairhurst, and Wiggins, JJ., concur with Gonz\u00e1lez, J."
+    ],
+    "parties": [
+      "Brian Long, Petitioner, v. Brusco Tug & Barge, Inc., et al., Respondents."
+    ],
+    "opinions": [
+      {
+        "text": "Stephens, J.\n\u00b61 Brian Long appeals the denial of his motion for a new trial based on a claim of juror misconduct. The question before us is whether the juror declarations Long submitted in support of his motion describe actual misconduct by jurors or instead reveal matters that inhere in the verdict. We conclude the declarations expose the jury\u2019s deliberative process behind closed doors and cannot be considered to impeach the verdict. Accordingly, we affirm the trial court and the Court of Appeals\u2019 conclusion that Long is not entitled to a new trial.\nFACTS AND PROCEDURAL HISTORY\n\u00b62 Long sued his former employer, Bo Brusco and Brusco Tug & Barge Inc. (Brusco), alleging wrongful termination in retaliation for opposing Brusco\u2019s discriminatory conduct against another employee. The underlying facts were hotly disputed and centered on Brusco\u2019s response to Long\u2019s having hired as a deckhand Anthony Morgan, an individual who had a prosthetic leg. Morgan was not a party to this lawsuit. As Judge William Downing explained in his order denying Long\u2019s motion for a new trial, \u201cIt was repeatedly conveyed to the jury that whether or not, in hindsight, Mr. Morgan was discriminated against was not their concern; rather, their focus should begin with the question of whether or not Mr. Long, at that time, had a reasonable belief that Mr. Morgan was being discriminated against.\u201d Clerk\u2019s Papers (CP) at 1948.\n\u00b63 The reasonable belief element of Long\u2019s claim was not strongly disputed. Indeed, Brusco conceded that Long reasonably believed Morgan was discriminated against. 19 Verbatim Report of Proceedings (VRP) (May 7, 2013) at 2329-30. \u201cThe elements that developed as constituting the crux of the jury\u2019s work were (a) whether the plaintiff engaged in opposition conduct (or did his support for Mr. Morgan cease once the discriminatory act was done?), (b) whether the plaintiff suffered an adverse employment action (or was he given a lateral transfer to a higher paying position?), and (c) whether any such adverse employment action was taken with a retaliatory motive (or was it because of his missing a ship assist job?).\u201d CP at 1949. To establish his claim, Long needed to prevail at trial on all of these disputed issues.\n\u00b64 Following a two-week trial and at the end of two days of deliberations, the jury returned a verdict in favor of Brusco, by a vote of 10-2. Long\u2019s attorneys thereafter interviewed jurors who were willing to talk and secured declarations from 4 of the 12. In support of his motion for a new trial, Long submitted the 4 jurors\u2019 declarations, which address various aspects of the trial and deliberations. CP at 1768-79, 1780-92.\n\u00b65 The trial court denied Long\u2019s motion, and the Court of Appeals affirmed in an unpublished opinion. Long v. Brusco, No. 70529-6-I, slip op. at 16 (Wash. Ct. App. Aug. 11, 2014) (unpublished), http://www.courts.wa.gov/opinions/pdf/705296.pdf. We granted Long\u2019s petition for review. 182 Wn.2d 1021, 345 P.3d 785 (2015).\nANALYSIS\n\u00b66 Central to our jury system is the secrecy of jury deliberations. Courts are appropriately forbidden from receiving information to impeach a verdict based on revealing the details of the jury\u2019s deliberations. Thus, in considering whether to declare a mistrial based on alleged juror misconduct, the first question is whether the facts alleged \u201cinhere! ] in the verdict\u201d; this is a question of law we review de novo. Ayers v. Johnson & Johnson Baby Prods. Co., 117 Wn.2d 747, 768, 818 P.2d 1337 (1991).\n\u00b67 Our case law recognizes two tests for determining whether facts in a juror declaration inhere in the verdict. Under the first test, facts \u201clinked to the juror\u2019s motive, intent, or belief, or describing] their effect upon\u201d the jury inhere in the verdict and cannot be considered. Gardner v. Malone, 60 Wn.2d 836, 841, 376 P.2d 651 (1962). This includes facts touching on the mental processes by which individual jurors arrived at the verdict, the effect the evidence may have had on the jurors, and the weight particular jurors may have given to particular evidence. Cox v. Charles Wright Acad., Inc., 70 Wn.2d 173, 179-80, 422 P.2d 515 (1967). A second test asks whether facts alleged in juror declarations can be rebutted by other testimony without probing any juror\u2019s mental processes. Gardner, 60 Wn.2d at 841.\n\u00b68 Circumstances in which it is \u201c \u2018universally agreed\u2019 \u201d that matters inhere in the verdict include when \u201c \u2018one or more jurors misunderstood the judge\u2019s instruction-, or were influenced by an illegal paper or by an improper remark of a fellow juror;... or had miscalculated accounts by errors of fact or of law.\u2019 \u201d Id. at 841-42 (footnotes omitted) (quoting 8 John Henry Wigmore, Evidence in Trials at Common Law 681 (McNaughton rev. ed. 1961)). The policy behind refusing to consider matters that inhere in the verdict is to protect the sanctity of the jury room by \u201c \u2018prevent [ing] the jury from divulging what considerations entered into its deliberations or controlled its action [s].\u2019 \u201d Id. at 843 (quoting Md. Cas. Co. v. Seattle Elec. Co., 75 Wash. 430, 436, 134 P. 1097 (1913)). At the same time, the rule \u201c \u2018does not close what is often the only avenue to a showing of actual facts constituting misconduct.\u2019 \u201d Id. (quoting Md. Cas., 75 Wash. at 436).\n\u00b69 Only if a court concludes that juror declarations allege actual facts constituting misconduct, rather than matters inhering in the verdict, does it proceed to \u201cdecide the effect the proved misconduct could have had upon the jury.\u201d Id. at 841. A trial court\u2019s decision in this regard will not be reversed on appeal unless the court abused its discretion. State v. Balisok, 123 Wn.2d 114, 117, 866 P.2d 631 (1994).\n\u00b610 As noted, Long submitted declarations from 4 of the 12 empaneled jurors. He argues that the \u201cunrebutted juror declarations prove that two jurors instructed the jury about outside Maritime and Coast Guard laws,\u201d and that their statements introduced into the deliberations \u201cdefinitive legal premises\u201d comparable to erroneous jury instructions. Suppl. Br. of Pet\u2019r Long at 8-9. We find the declarations to be more equivocal than Long suggests. We conclude they reveal matters that inhere in the verdict. Accordingly, there is no need to further consider the effect the alleged statements may have had on the verdict.\n\u00b611 We begin by noting that the four juror declarations are not uniform in their description of the facts Long relies on to establish misconduct. For example, two of the declarations omit any reference to the second juror alleged to have introduced \u201cdefinitive legal premises\u201d into the deliberations. CP at 1783-89. With respect to juror 12, who is mentioned in all the declarations, the characterization of his actual statements varies among the four accounts. All give the impression that juror 12 was persuasive, opining that he \u201cpresented his position well,\u201d CP at 1781, that he was \u201cvery authoritative about the content of his presentation,\u201d CP at 1784, and that he \u201cpersuasively commanded the floor,\u201d CP at 1788. And, they all note that he mentioned he had spent many years in the navy and was familiar with maritime laws, navy rules, boats, and boat safety. CP at 1780-92. But, exactly what juror 12 said about any applicable laws is less clear. For one thing, a second juror, identified in two of the declarations as \u201cRobert P.\u201d or \u201cBob P.,\u201d reportedly offered his view that coast guard law would not allow a person with a prosthesis to work on the deck of a ship or boat. CP at 1781, 1791. This same juror is described as having \u201capplied his experience in construction\u201d to offer opinions on \u201csending people home from job sites if they didn\u2019t have their physical or [urinary analysis test] completed.\u201d CP at 1791.\n\u00b612 Reading the declarations as a whole, it is difficult to ascertain the \u201cdefinitive legal premises\u201d that were allegedly introduced into the deliberations. Was it that navy and coast guard rules (or maritime law generally) disallow people with prosthetic limbs from working on ship decks; or instead that juror 12, being familiar with maritime laws generally, was unaware of any law that would have allowed Long to hire Morgan as a deckhand; or that it showed bad judgment to hire someone with a prosthesis to work on a deck; or something else? Indeed, one declaration states that the \u201cpoint [juror 12] emphasized the most\u201d was that \u201c[h]e knew from serving on ships that boats are very dangerous, and that someone like Anthony Morgan should not be on a boat by law.\u201d CP at 1788. Although this statement relates a general sense of \u201claw,\u201d it also reflects juror 12\u2019s (strongly held) view based on his personal experience.\n\u00b613 We conclude that the matters revealed in the declarations inhere in the verdict and cannot be considered. Although portions of the declarations identify (in varying accounts) statements made by fellow jurors touching on questions of fact or law, these statements were expressions of personal belief based on life experiences. During jury deliberations, jurors may \u201crely on their personal life experience to evaluate the evidence presented at trial.\u201d Breckenridge v. Valley Gen. Hosp., 150 Wn.2d 197, 199 n.3, 75 P.3d 944 (2003). Juror 12\u2019s relevant life experiences were known to both parties, as he disclosed during voir dire that he was a retired member of the navy and an avid boater. See 1 VRP (Apr. 22, 2013) at 172 (juror 12 stated, \u201cI\u2019m retired from the U.S. Navy.. . . [M]y favorite activities are boating on Puget Sound, motorcycling, backpacking, and being a grandfather.\u201d). Neither party exercised a peremptory strike against him. Drawing from his personal experiences, it is unsurprising that juror 12 opined about the legality and safety of allowing someone with a prosthetic leg to work on a ship. We have been reluctant to find juror misconduct when a juror injects personal knowledge and experience known to the parties into deliberations. McCoy v. Kent Nursery, Inc., 163 Wn. App. 744, 763-64, 260 P.3d 967 (2011) (finding no misconduct when juror drew on disclosed background in real estate and piping in tort action involving a failed pipe drainage system); Richards v. Overlake Hosp. Med. Ctr., 59 Wn. App. 266, 274, 796 P.2d 737 (1990) (finding no misconduct when jurors applied specialized medical knowledge during deliberations because that information was disclosed during voir dire).\n\u00b614 This case is similar to others in which we have rejected attempts to set aside a jury verdict on the ground that a juror brought specialized experience to bear on jury deliberations. In Breckenridge, the plaintiff sued her physician for medical negligence after she suffered a brain aneurysm, alleging that he \u201cshould have ordered a CT (computerized tomography) scan\u201d during her emergency room visit. 150 Wn.2d at 198-99. Following a defense verdict, the plaintiff alleged juror misconduct because one of the jurors \u201crelated his experiences with his wife\u2019s migraines during jury deliberations, comparing her symptoms to [the plaintiff\u2019s symptoms].\u201d Id. at 199. The juror also opined that the defendant was not negligent in treating the plaintiff because his wife received similar treatment. Id. at 206 (\u201cBecause [the juror] felt that his wife\u2019s symptoms were similar to [the plaintiff\u2019s] and his wife had not been given a CT scan, [the juror] believed that [the physician] was not negligent in his diagnosis and treatment of [the plaintiff].\u201d). We concluded that the juror\u2019s statements inhered in the verdict because the juror used his experience with his wife\u2019s migraine headaches to evaluate the evidence presented at trial. Id.\n\u00b615 In State v. McKenzie, this court reversed an order granting a new trial premised in part on juror misconduct. 56 Wn.2d 897, 355 P.2d 834 (1960). Concerning an eminent domain claim, we held that the trial judge improperly considered a juror declaration stating that \u201cduring the course of deliberations, one of the other jurors had argued (despite the trial court\u2019s instruction to the contrary) that, as the juror understood the law, respondent had no right of access to primary state highway No. 18, for which compensation should be paid by the [S]tate.\u201dM. at 900. Finding the matter attested to inhered in the verdict, though clearly a statement of the law, we \u201crather summarily dispose [d]\u201d of the claim of misconduct. Id.; see also Johnston v. Sound Transfer Co., 53 Wn.2d 630, 631-32, 335 P.2d 598 (1959) (in action for injuries sustained while horseback riding, the fact that two jurors relayed their experiences about horseback riding inhered in the verdict); Marvin v. Yates, 26 Wash. 50, 60, 66 P. 131 (1901) (affidavit that jury used improper method to calculate damages inhered in the verdict).\n\u00b616 Like the juror statements at issue in these prior cases, the juror statements here inhered in the verdict because they reflected personal beliefs based on life experiences. It is true that juror 12 and Robert R sometimes declared their views as a matter of fact or law; their fellow jurors\u2014or at least the four who signed declarations\u2014 understood them to believe that a person with a prosthetic leg could not lawfully work as a deckhand. But, attaching the word \u201claw\u201d to their remarks, without more, does not change the fact that the jurors naturally used their life experiences to evaluate Long\u2019s wrongful termination claim. We cannot know their intent and are not allowed to probe any juror\u2019s thought processes. See Ayers, 117 Wn.2d at 768 (\u201c[J]uror affidavits may not be used for the purpose of contesting the thought processes involved in reaching a verdict.\u201d).\n\u00b617 The circumstances here stand in contrast to those in which we have granted a new trial on the ground that empaneled jurors improperly introduced extrinsic evidence into jury deliberations. In such cases, the juror statements were plainly not matters of opinion based on personal experience, but expressions of law or fact based on outside sources. See, e.g., Bouton-Perkins Lumber Co. v. Huston, 81 Wash. 678, 680, 143 P. 146 (1914) (finding juror misconduct when, during deliberations, one juror \u201cproduced a pamphlet which purported to contain the forest protection laws of this state, and . . . portions of the pamphlet were read and commented upon\u201d); Adkins v. Alum. Co. of Am., 110 Wn.2d 128, 131, 750 P.2d 1257, 756 P.2d 142 (1988) (granting new trial due to misconduct of bailiff and jury, where bailiff provided jury with Black\u2019s Law Dictionary (1933) to look up definitions of \u201cnegligence\u201d and \u201cproximate cause\u201d). Such misconduct warrants a new trial, just as surely as when an empaneled juror introduces into deliberations extrinsic facts about one of the parties. See, e.g., State v. Parker, 25 Wash. 405, 410, 65 P. 776 (1901) (granting new trial due to one juror\u2019s statements during deliberations that he knew the defendant to be a member of a gang and to have been implicated in a murder; the juror had falsely denied any knowledge during voir dire). Here, we have only the somewhat conflicting declarations of four jurors, which characterize what one or two of their fellow jurors said based on their disclosed experiences. To consider such declarations would open the door to the impeachment of verdicts any time jurors make categorical assertions about what they believe the law to be based on their personal experience. This would undermine our \u201clong held and cherished ambition [of] rendering . . . final and definitive judgments.\u201d Cox, 70 Wn.2d at 180; see also Alger v. City of Mukilteo, 107 Wn.2d 541, 551, 730 P.2d 1333 (1987) (stating that courts have a strong interest in upholding jury verdicts).\nCONCLUSION\n\u00b618 Because the matters relayed in the juror declarations inhere in the verdict and cannot be considered, Long\u2019s claim of juror misconduct fails. We affirm the lower courts\u2019 denial of his motion for a new trial.\nMadsen, C.J., and Owens, Gordon McCloud, and Yu, JJ., concur.\nAll four declarations address statements made during deliberations by juror 12 (and two mention a second juror) regarding whether a person with a prosthesis could lawfully and safely work on a boat deck. Additionally, three of the declarations address statements made by jurors about what Long could earn as a firefighter or emergency medical technician. CP at 1781, 1785, 1791. Two of the declarations also address the jury\u2019s reaction to a photograph defense counsel displayed of Bo Brusco and his wife on their honeymoon. CP at 1782, 1791. Although Long\u2019s argument now focuses solely on juror statements concerning the first issue, the motion for new trial raised a separate allegation of juror misconduct concerning damages, as well as issues of misconduct by counsel. Long offered the juror declarations in support of all of these claims.\nOne juror said juror 12 talked about \u201cNavy laws, and that none of the Coast Guard/Ocean/Maritime laws would allow anyone with prosthesis to work on the deck of either a ship or boat,\u2019\u2019 adding that \u201cRobert P.\u201d agreed as to coast guard law. CP at 1781. A second juror said juror 12 \u201ctalked at length about maritime laws, navy rules and repeated multiple times that no laws existed that would allow a deckhand with a prosthetic leg to be on a boat.\u2019\u2019 CP at 1784. A third declared that juror 12 \u201cstarted by telling us that he had spent many years on ships and in the U.S. Navy and knew about the law, and about boats, and about safety. He said that he did not know of any law on the books including the Coast Guard laws that would every [sic] let someone [with a prosthesis] work as a deckhand on a boat.\u2019\u2019 CP at 1788. The fourth juror stated, \u201cDave [juror 12] mentioned that he spent many years in the Navy and is quite familiar with the laws of the organization and stated that there would be no way that the Navy (or other maritime organizations such as the Coast Guard) would have let a man with a prosthetic leg work on the deck of a ship. . . . Bob P. agreed.\u2019\u2019 CP at 1791.\nOne juror described juror 12 as having stated that \u201c[Long\u2019s] hiring Morgan showed very bad judgment.\u2019\u2019 CP at 1789.\nApart from their varying accounts of the facts, it is also notable that the four declarations reveal more about each juror\u2019s impression of their fellow juror\u2019s statements than the content of the statements. One juror observed that juror 12 \u201cpresented his position well, and relied on notes that appeared organized and prepared in advance.\u2019\u2019 CP at 1781. She stated, \u201cI felt the expectation from [juror 12] to not interrupt.\u2019\u2019/d.Anotherjurornoted that juror 12 was \u201cvery authoritative\u2019\u2019 about the content of his presentation, even describing his manner as \u201cvery aggressive.\u2019\u2019 CP at 1784. A third juror felt that juror 12 \u201cvery persuasively commanded the floor,\u2019\u2019 and was \u201cvery convincing,\u2019\u2019 stating, \u201cIt really seemed to turn things around and get things heated up when he was done.\u2019\u2019 CP at 1788. With respect to \u201cBob R,\u201d whose statements on this and other issues are identified, one juror declaration stated, \u201cHe became quite intense and vociferous several times which seemed to dominate the attitude in the room.\u2019\u2019 CP at 1791. These statements all describe the declarants\u2019 perceptions of the other jurors\u2019 remarks, which unquestionably inhere in the verdict.\nHad any jurors failed to disclose their relevant background, this may have been a basis for finding misconduct. See Robinson v. Safeway Stores, Inc., 113 Wn.2d 154, 158-59, 776 P.2d 676 (1989) (misconduct when venire member failed to disclose bias against Californians in personal injury action by a California resident); Gordon v. Deer Park Sch. Dist. No. 414, 71 Wn.2d 119, 121, 426 P.2d 824 (1967) (misconduct when venire member failed to disclose prejudice in favor of schoolteachers in a personal injury action against a schoolteacher).",
+        "type": "majority",
+        "author": "Stephens, J."
+      },
+      {
+        "text": "Gonz\u00e1lez, J.\n\u00b619 (dissenting) I respectfully dissent. Despite the trial judge\u2019s instruction to follow the law as set forth in the jury instructions, one juror forcefully inserted his own definitive statement of the law on a critical issue into the jury\u2019s deliberations. I have grave doubts the juror was right about the law, which, given it was not either party\u2019s theory of the case, has not been tested by them. At the very least, the juror\u2019s insistent statement of supposed law undermined the instructions given by the judge and the case presented by the parties. I would hold that it is misconduct for a juror to make a legal assertion during deliberations that undermines the court\u2019s instructions. Since the court today countenances that misconduct, I respectfully dissent.\n\u00b620 Brian Long sued his former employer, Brusco Tug & Barge Inc., for discrimination, claiming it had fired him for hiring Anthony Morgan, a man with a prosthetic leg. If in fact Brusco had fired Long for hiring Morgan, it would likely have violated Washington\u2019s Law Against Discrimination, chapter 49.60 RCW\u2014but only if Brusco had retaliated against Long for opposing what he reasonably believed was unlawful discrimination. RCW 49.60.210(1); see also Renz v. Spokane Eye Clinic, PS, 114 Wn. App. 611, 619, 60 P.3d 106 (2002) (quoting Graves v. Dep\u2019t of Game, 76 Wn. App. 705, 712, 887 P.2d 424 (1994)). The jury was instructed consistently:\n[P]laintiff Brian Long has the burden of proving each one of the following propositions by a preponderance of the evidence:\n(1) That the plaintiff was opposing what he reasonably believed to be discrimination on the basis of disability;\n(2) That the plaintiff was subjected to an adverse employment action by his employer; and\n(3) That the plaintiff\u2019s opposition to discrimination was a substantial factor in the defendant\u2019s decision-making in taking the adverse employment action.\nClerk\u2019s Papers (CP) at 1756. Brusco conceded that Long reasonably believed Brusco had discriminated against Morgan, but it vigorously defended against the other two elements.\n\u00b621 Fairly read, the juror declarations establish that one juror brought in a prepared presentation on the law that gutted the jury instructions and Long\u2019s ability to make his case according to the law as given to the jury. Taken together, these declarations establish that one juror insisted, backed by his status as a navy veteran, that naval laws \u201csimply do not allow people to crew boats and act as Able Bodied Seamen with prosthetics.\u201d CP at 1788, 1780-92. If that juror was correct and Morgan was not legally allowed to work as a deckhand, then Brusco had a legitimate, nondiscriminatory reason to take adverse actions against Long for hiring him.\n\u00b622 This case could have been tried that way. Brusco could have insisted it had the law on its side for not wanting Morgan on its boats and that Long was unreasonable in believing it was discriminating in so doing. But Brusco did not make that argument. For whatever reason, it conceded that element of Long\u2019s case. Perhaps its research suggested what mine did: that Washington law forbids discrimination based on disability and that this civil rights protection is not preempted by federal maritime law. Hoddevik v. Arctic Alaska Fisheries Corp., 94 Wn. App. 268, 282, 970 P.2d 828 (1999). Perhaps it did not want to call attention to Morgan\u2019s federal Equal Employment Opportunity Commission complaint. Perhaps it did not want to argue to this jury it had a right to discriminate. But the simple fact is it conceded the issue, and thus Long had no cause to contest the legal underpinnings of it.\n\u00b623 I agree with the majority that there is much in these declarations that inheres in the verdict and thus cannot be considered. I disagree, however, that the juror\u2019s definitive statements about the content of naval law inheres. Washington common law recognizes two tests for determining what inheres in a verdict. See Gardner v. Malone, 60 Wn.2d 836, 841, 376 P.2d 651 (1962) (citing State v. Parker, 25 Wash. 405, 65 P. 776 (1901)). First, when \u201cthat to which the juror testifies to can be rebutted by other testimony without probing a juror\u2019s mental processes,\u201d it may not inhere in the verdict. Id. The jurors\u2019 declarations that one of them definitively declared that naval law would prohibit someone with a prosthetic limb from working on a boat survives this test. These statements could have been (but were not) rebutted by other jurors\u2019 testimony that no such statements had been made without probing the jurors\u2019 mental processes. This does not inhere in the verdict. Second, when \u201cthe facts alleged are linked to the juror\u2019s motive, intent, or belief, or they describe their effect upon [the juror] . . . , the statements cannot be considered for they inhere in the verdict.\u201d Id. While some of the material in the declarations does not survive this test, the fact the juror made definitive statements about alleged naval law does. It is a statement of supposed law. It does not inhere in the verdict.\n\u00b624 I also agree with the majority that it is entirely proper for jurors to bring their life experience to bear on deliberations. See Breckenridge v. Valley Gen. Hosp., 150 Wn.2d 197, 204, 75 P.3d 944 (2003). But these statements went beyond one juror recounting his own life experience. The statements instead intruded into the fundamental role of the judge: to say what the law is. Wash. Const. art. IV, \u00a7 6; Hale v. Wellpinit Sch. Dist. No. 49, 165 Wn.2d 494, 506, 198 P.3d 1021 (2009) (quoting Marbury v. Madison, 5 U.S. (1 Cranch) 137, 177, 2 L. Ed. 60 (1803)). Allowing jurors to substitute their potentially erroneous and untested views of the law for the law set forth in the jury instructions undermines the constitutional division of authority between judges and jurors. Wash. Const. art. IV, \u00a7 6; Hale, 165 Wn.2d at 506; see also Wash. Const. art. I, \u00a7 21. \u201c[W]here a juror supplies the jury with evidence which was not admitted at trial, jury misconduct results. Jury misconduct also results where a juror provides the jury with erroneous statements of the law.\" Adkins v. Alum. Co. of Am., 110 Wn.2d 128, 137-38, 750 P.2d 1257 (1988) (footnote omitted) (reversible misconduct for jurors to consult Black\u2019s Law Dictionary (1933)); see also Bouton-Perkins Lumber Co. v. Huston, 81 Wash. 678, 683-84, 143 P. 146 (1914) (reversible misconduct for juror to bring in a pamphlet on relevant law into the jury room). I would extend these cases and hold that a juror who provides the jury with a statement of the law that undermines the judge\u2019s instructions commits misconduct that does not inhere in the verdict.\n\u00b625 The juror\u2019s definitive, and likely incorrect, statements about naval law went to the heart of Long\u2019s case. It was misconduct. I have little doubt it prejudiced Long\u2019s ability to make his case. I would reverse the courts below and remand for a new trial. Accordingly, I respectfully dissent.\nJohnson, Fairhurst, and Wiggins, JJ., concur with Gonz\u00e1lez, J.",
+        "type": "dissent",
+        "author": "Gonz\u00e1lez, J."
+      }
+    ],
+    "attorneys": [
+      "Scott C.G. Blankenship and Richard Goldsworthy {o\u00ed The Blankenship Law Firm PS), for petitioner.",
+      "Amanda T. Gamblin, Averil B. Rothrock, Christopher H. Howard, and Colin J. Folawn (of Schwabe Williamson & Wyatt PC)\\ and Brian K. Keeley (of Schlemlein Goetz Fick & Scruggs PLLC), for respondents."
+    ],
+    "corrections": "",
+    "head_matter": "[No. 90976-8.\nArgued June 25, 2015.\nDecided February 25, 2016.\nBrian Long, Petitioner, v. Brusco Tug & Barge, Inc., et al., Respondents.\nScott C.G. Blankenship and Richard Goldsworthy {o\u00ed The Blankenship Law Firm PS), for petitioner.\nAmanda T. Gamblin, Averil B. Rothrock, Christopher H. Howard, and Colin J. Folawn (of Schwabe Williamson & Wyatt PC)\\ and Brian K. Keeley (of Schlemlein Goetz Fick & Scruggs PLLC), for respondents."
+  },
+  "file_name": "0127-01",
+  "first_page_order": 181,
+  "last_page_order": 196
+}

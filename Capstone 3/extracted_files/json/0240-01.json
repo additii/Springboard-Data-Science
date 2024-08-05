@@ -1,0 +1,79 @@
+{
+  "id": 1428382,
+  "name": "Whitner v. Thompson",
+  "name_abbreviation": "Whitner v. Thompson",
+  "decision_date": "1933-11-27",
+  "docket_number": "4-3211",
+  "first_page": "240",
+  "last_page": "243",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "188 Ark. 240"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [
+    {
+      "cite": "42 Ark. 93",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        8721311
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/42/0093-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 359,
+    "char_count": 6225,
+    "ocr_confidence": 0.506,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.053723595468307225
+    },
+    "sha256": "16a326d78bfaa38be6611c0d578e69c5fcad0427a0259bbe53c877e16a37efbf",
+    "simhash": "1:a6c6e7239c0112c8",
+    "word_count": 1085
+  },
+  "last_updated": "2024-02-27T23:51:14.545434+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Whitner v. Thompson."
+    ],
+    "opinions": [
+      {
+        "text": "Humphreys, J.\nThis is a suit by appellee against appellant for unlawful detainer of a part of the Grlen Hotel building on lots 8 and 9 in block 20 of Blythe Addition to the city of Blytheville, Arkansas, and for accrued rents thereon.\nAppellant filed a demurrer to the complaint on the ground that three days\u2019 notice to vacate was not given him as required by statute, which demurrer was overruled over his objection and exception.\nHe also filed an answer, denying the allegations of the complaint and a cross-complaint, claiming damages in excess of accrued rents on account of appellee\u2019s failure to repair the roof and pipes to the heating plant as required by the original lease, and contractual assignment thereof, which was signed by appellee.\nUpon a hearing of the canse, the trial court directed the jury to return a verdict against appellant for the possession of the leased property and the accrued rent thereon, less damages in the sum of $125, on account of a failure of appellee to repair the roof.\nThere was a conflict in the evidence as to whether appellant sustained any damages on account of appellee\u2019s failure to repair the return water pipes of the heating plant underlying the cement and tile floor in the basement of the building. The testimony introduced by appellant tended to show that the pipes leaked on account of age and long usage and that, in order to run the heating plant, it took more water and coal than it would have taken had the pipes been replaced with new ones.\nThe trial court excluded this testimony, over appellant\u2019s objection and exception, on the ground that, under the terms of the lease, appellee was only required to keep the outside of the building in repair, and that appellant Avas required by its terms to make all repairs inside the building, holding that the heating pipes were inside the building. The clause in the original lease relative to the repairs is as follows:\n\u201cIt is understood and agreed that the lessor shall make all necessary repairs to the roof and outside of the building in order to maintain the building in a habitable condition and fit for its occupancy by the lessee in the conduct of his business. But that the lessee shall make all repairs or necessary alterations on the inside of the building, including windows in the rooms occupied as a part of the hotel business, at his OAvn expense, and he agrees and binds himself to keep the building so occupied and used in as good state of repairs as he received same.\u201d\nThe construction of this clause by the learned trial court Avas correct. The heating pipes were inside and not outside the building, so it was the duty of appellant to keep them in repair. All testimony as to damages resulting from the condition of the pipes was properly excluded, as no duty under the lease rested upon appellee to repair or replace them.\nAppellant contends that the contract for the assignment of the lease to him by the prior lessee, which was approved and signed by appellee, contained a clause which imposed the duty upon appellee to repair and replace the heating pipes. The clause is as follows: \u201cIt is further understood and agreed that the owner of said property shall make all necessary repairs to all of said buildings, in order to maintain said buildings in a good and habitable condition. And the said buildings and premises shall be kept in such condition by the owner as to make them fit for their use in the conduct of the business for which they are leased. The lessee agreed that he will use and keep said buildings in a good and husbandlike manner, and that he will not destroy, tear down or impair the use of any of said buildings through any misuse or bad conduct on his part. That he will use his best efforts in seeing that the buildings and premises are maintained and kept in as good condition as possible.\u201d\nThe clause quoted would have the effect contended for if it stood in the contract of assignment alone. It was in the contract of assignment which appellant prepared and presented to the appellee for his approval and signature, but appellee refused to approve and sign it until the'following paragraph was inserted, to-wit:\n\u201cRegardless of the terms hereinbefore expressed, it is understood and agreed that the said F. W. Whitner accepts said hotel and cafe rooms under the terms of the original lease of May 10, 1928, and supplemental thereto under date of February 13, 1930, and agrees to pay rents in accordance to the terms of said contracts; that in consideration of the substitution of said F. W. Whitner in lieu of said\" R. J. Alston, the present owner of said property, the said John Thompson, does not agree to do anything not specifically set out in said contract of May 10, 1928, and supplemental contract of February 13, 1930, even though this contract has undertaken to state such terms and conditions.\u201d\nIt is apparent that the paragraph was added so that, as between appellant and appellee, the clause relative to repairs contained in the original lease should govern in case any dispute should arise between them.\nAppellant also contends for a reversal of the judgment on the ground that the suit was prematurely brought. It is argued that three full days\u2019 notice was not given to vacate the property before the suit was brought; and, in support of his contention, he cites the case of Jones v. State, 42 Ark. 93. The statute under which Jones was indicted provided for \u201cat least three days\u2019 actual notice\u201d before being required to work on the roads. This statute was properly construed to mean that he was entitled to three full days\u2019 notice.\nThe statute applicable in the instant case is \u00a7 4838 of Crawford & Moses\u2019 Digest, which provides that suits may be brought in unlawful detainer after three days\u2019 notice to quit. Under the language used, the day of serving the notice may be counted. The notice was served on appellant to vacate on September 2, and suit was not brought until September 5, which was after three days\u2019 notice had expired, counting the day of service.\nNo error appearing, the judgment is affirmed.",
+        "type": "majority",
+        "author": "Humphreys, J."
+      }
+    ],
+    "attorneys": [
+      "Bruce Ivy and Harrison, Smith & Taylor, for appellant.",
+      "Frank G. Douglas, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Whitner v. Thompson.\n4-3211\nOpinion delivered November 27, 1933.\nBruce Ivy and Harrison, Smith & Taylor, for appellant.\nFrank G. Douglas, for appellee."
+  },
+  "file_name": "0240-01",
+  "first_page_order": 258,
+  "last_page_order": 261
+}

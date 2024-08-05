@@ -1,0 +1,66 @@
+{
+  "id": 1435138,
+  "name": "Treece v. State",
+  "name_abbreviation": "Treece v. State",
+  "decision_date": "1932-02-08",
+  "docket_number": "",
+  "first_page": "126",
+  "last_page": "127",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "185 Ark. 126"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 194,
+    "char_count": 3093,
+    "ocr_confidence": 0.478,
+    "pagerank": {
+      "raw": 4.206747897699882e-08,
+      "percentile": 0.2680399513639598
+    },
+    "sha256": "a9f8597a285a09e25efa458afc041c0a76eab90eaf2b80433e42ae85db4d03a2",
+    "simhash": "1:f343619113b75abf",
+    "word_count": 547
+  },
+  "last_updated": "2023-07-14T16:31:44.100435+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Treece v. State."
+    ],
+    "opinions": [
+      {
+        "text": "Butler, J.\nEd Treece was tried and convicted on a charge of selling alcoholic liquor, and from the verdict and judgment is this appeal.\nThe testimony on the part of the State was to the effect that one Godbey, on the evening of Thanksgiving Day, 1930, was arrested for drunkenness, and a pint bottle of whisky was discovered in his possession. This bottle was taken by the officer who made the arrest and labeled for the purpose of identification, and by him given to another person in the mayor\u2019s office for safekeeping. It was again delivered to the officer, who exhibited it at the trial, over the objection of the defendant. Godbey testified that on the evening of Thanksgiving Day, 1930, he bought -a half-gallon fruit .jar of whisky from the defendant and paid him $4 for.it; that it was on this liquor that he had become drunk when he was arrested; that a part of the liquor in the fruit jar had been drunk, and that he had poured what was left into a pint bottle, but did not remember where he got the bottle.\nThis testimony was corroborated by the testimony of other witnesses, all of which was denied by the defendant, who testified that Godbey and his companions had' inquired of him where they could buy some liquor, and that he informed them that he did not know; that he never sold any liquor to Godbey, and that Godbey had not entered his house. The defendant\u2019s daughter testified corroborating the testimony of defendant, stating that she was with her father on the occasion when God-bey came to their house, and that Godbey did not come into the house, and did not purchase any liquor.\nThe only ground urged for reversal of the judgment is for the alleged error of the trial court in permitting to be introduced in evidence the bottle of liquor taken from the person of Godbey by the officer, on the ground that the bottle of liquor was not identified as the same as that taken from Godbey. This objection is not tenable, for the reason that the evidence plainly shows that the bottle introduced in evidence was the same as that taken from the person of Godbey, who testified that it contained part of the liquor sold to him by the defendant. We are of the opinion that no prejudice could have resulted, for the reason that it was immaterial whether the liquor offered in evidence was the same as that taken from Godbey. There was no question as to whether it was alcoholic liquor or a different kind of beverage that was sold, and the introduction of the liquor could have served no useful purpose or have prejudiced defendant.\nThe only question in the case was whether or not Godbey had purchased alcoholic liquor from the defendant. Godbey and the other witnesses for the State testified that he did, while the defendant testified that he had sold Godbey no liquor or beverage of any kind. The evidence was amply sufficient to sustain the verdict of the jury, and the judgment will therefore be affirmed.",
+        "type": "majority",
+        "author": "Butler, J."
+      }
+    ],
+    "attorneys": [
+      "Keometh G. Koffelt, for appellant.",
+      "Hal L. Norwood, Attorney General, and Robert F. Smith, Assistant, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Treece v. State.\nOpinion delivered February 8, 1932.\nKeometh G. Koffelt, for appellant.\nHal L. Norwood, Attorney General, and Robert F. Smith, Assistant, for appellee."
+  },
+  "file_name": "0126-01",
+  "first_page_order": 146,
+  "last_page_order": 147
+}

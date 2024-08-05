@@ -1,0 +1,157 @@
+{
+  "id": 8725271,
+  "name": "Pemberton v. Bank of Eastern Arkansas",
+  "name_abbreviation": "Pemberton v. Bank of Eastern Arkansas",
+  "decision_date": "1927-05-02",
+  "docket_number": "",
+  "first_page": "949",
+  "last_page": "956",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "173 Ark. 949"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [
+    {
+      "cite": "207 S. W. 439",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "137 Ark. 37",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1568022
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/137/0037-01"
+      ]
+    },
+    {
+      "cite": "202 S. W. 139",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "133 Ark. 224",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1575129
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/133/0224-01"
+      ]
+    },
+    {
+      "cite": "55 S. W. 1083",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "155 Mo. 166",
+      "category": "reporters:state",
+      "reporter": "Mo.",
+      "case_ids": [
+        461791
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mo/155/0166-01"
+      ]
+    },
+    {
+      "cite": "13 S. W. 137",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "52 Ark. 547",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1913382
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/52/0547-01"
+      ]
+    },
+    {
+      "cite": "39 S. W. 713",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "63 Ark. 540",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        8724410
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/63/0540-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 587,
+    "char_count": 12734,
+    "ocr_confidence": 0.513,
+    "pagerank": {
+      "raw": 1.686931385113185e-07,
+      "percentile": 0.6984517244055541
+    },
+    "sha256": "c77f4633a696c37c76f15246ff1211ac1d1d156eac90444ed1db73290f839f1f",
+    "simhash": "1:03908d346479dac5",
+    "word_count": 2229
+  },
+  "last_updated": "2024-02-27T16:22:26.640555+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Pemberton v. Bank of Eastern Arkansas."
+    ],
+    "opinions": [
+      {
+        "text": "Mehaffy, J.\nSuit was begun in the justice of the peace court in St. Francis County on the 19th day of November, 1923, upon a promissory not\u00e9 for $300, executed and delivered by appellant and Lee Crews to appellee, Bank of Eastern Arkansas. Summons and attachment were issued and served, and judgment was rendered against appellant and Crews. Crews filed schedule and claimed his personal property as exempt, and his claim was allowed. The appellant filed a schedule of his personal property totaling $543, and of that amount he claimed articles aggregating $420, according to his verified schedule.\nThe justice court refused to allow a supersedeas, and appellant appealed to the circuit court. Evidence was taken in the circuit court, the plaintiff testifying that the property claimed as exempt by him .was worth less than $500 and the other witnesses testifying that it was worth more than $500.\nThe list as claimed by appellant with their values is as follows: I\nOne-half of the cotton and seed on 30 or 35 acres.$250.00\nOne-half of corn.:. 68.00\nOne blue or dapple mule. 40.00\nOne Ford touring car. 30.00\nTwo turning plows . 5.00\nTwo middle-busters. 10.00\nOne stalk cutter. 10.00\nTwo scrapers . 4.00\nOne orchard harrow . 2.00\nFive field hoes . 1.50\nTotal-.$420.00\nIt is unnecessary to set out the testimony. The court found, after hearing all the testimony, that the value of the property was $793, and this finding we do not think is against the preponderance of the testimony, and it is therefore conclusive' on this court. The property was afterwards sold and brought much less than the value fixed by the court, but the kind of property owned by the appellant, at a forced sale under the circumstances in this case, would probably sell for very much less than its real value. The only question to be determined here is whether the appellant had complied with the law requiring him to select the specific articles which he claimed as exempt when his schedule, according to the valuation found by the court, exceeded $500, which he would be entitled to claim as exempt, as he was a married man and the head of a family.\nSection 20, article 9, of the Constitution reads as follows:\n\u201cThe personal property of any resident of this State, who is married or the head of a family, in specific articles to be selected by such resident, not exceeding in value the sum of $500, in addition to his or her wearing apparel and that of his or her family, shall be exempt from seizure on attachment or sale on execution or other process from any court on debt by contract.\u201d\nThe above section of the Constitution is repeated as \u00a7 5544 of Crawford & Moses\u2019 Digest. It will be observed that the Constitution and statute allow exemptions in specific articles to be selected by himself not exceeding in value the sum of $500. The circuit court held that, when the value .of the articles in appellant\u2019s schedule exceeded $500, it then became the duty of appellant to select from that list articles whose aggregate value did not exceed $500, and that, because he did not do that, he waived his right to exemption.\n\"We think the court erred in this ruling. This court has many times held that he must select the articles he claims as exempt. But the question of whether he has complied with that law when the articles selected by him and claimed by him to be worth less than $500 and the court finds they are worth more, has never been decided by this court. While this court has held that he must make the selection, it has also held uniformly that the exemption clause of the Constitution is highly.remedial and should be liberally construed. This court has said:\n\u201cIt is said that the effect of such a ruling would be to deprive Gruiling of his exemptions; but, if he was entitled to exemptions in this case, still there is nothing in the transcript before us to show that he had claimed his exemptions, as required by the statute. Prima facie, all personal property is subject to sale on execution, and defendant cannot be allowed exemptions unless they are claimed' in the manner provided by statute.\u201d Scanlan v. Guiling, 63 Ark. 540, 39 S. W. 713.\n\u201cIt is settled in the decisions of this court that, as to property exempt from execution, there are no creditors ; that, as they cannot sell it under execution, they are not injured by a sale of it by the owner, and are not concerned with the motives which may prompt the sale. * * * Under our statute a debtor, claiming property to be exempt from execution, is required to make a schedule of all his or her property, including moneys, rights, credits and choses in action, specifying the particular property claimed as exempt under article 9 of the Constitution of 1874, and file the same with the officer issuing the execution, after having given five days\u2019 notice in writing to the opposite party. * * * If he Avould claim exemption for any of said property, he must bring himself and his property within the exceptions of some statute by proper jDroof.\u201d Blythe v. Jett, 52 Ark. 547, 13 S. W. 137.\n\u201cLaws exempting a reasonable sum out of insolvent debtors\u2019 estates to provide insurance for their wives and children have received a liberal construction in other jurisdictions. The Supreme Court of Missouri, in Judson v. Walker, 155 Mo. 166, 55 S. W. 1083, construing somewhat similar statutes, says: \u2018 These statutes are now pronounced by the courts praiseworthy, and construed with liberality.\u2019 \u201d Davis, State Bank Commr., v. Cramer, 133 Ark. 224, 202 S. W. 139.\nThis court has also said that, where a debtor\u2019s property is worth more than $500, he must make a schedule of all of his property and specify particular property which he wishes exempted under the Constitution. Griffin v. Botterall Shoe Co., 137 Ark. 37, 207 S. W. 439.\nUnder constitutional provisions and statutes which require the debtor to make the selection, many courts hold that it is his duty to make the selection, and that it is not the duty of the officer to make it for him. But there are many cases holding otherwise, and practically all the authorities that we have examined hold that a judgment debtor is not required to select property at all when all of his property is exempt from execution. Simply a claim to the officer that his property is exempt is all that is required when all of his property is exempt. That is, when the aggregate value of his property does not exceed his exemptions.\nSection 5554 of Crawford & Moses\u2019 Digest is as follows:\n\u2018 \u2018 If the decision shall be that the property described exceeds in value the amount exempted by the Constitution, . then the justice or clerk shall revoke the super-sedeas so far as concerns such items of property described as the said appraisers may designate as in excess of the amount of exemption by the Constitution provided for, and the cost of the proceeding shall be paid by the defendant in the action.\u201d\nWe take \u00abthat to mean that, when the list selected by the debtor as exempt and shown, according to his estimate, to be within the $500, but the appraisers fixed it about $500, the debtor does not have to reselect, but it then becomes the duty of the officer, whether the court or the clerk, to revoke the supersedeas as to that in excess of his exemptions. That being true with reference to the procedure in the .justice court and before the clerk, we think it should apply in the circuit court also when the value is fixed by testimony taken in the circuit court.\nWhen the debtor files his list and swears that the aggregate value of the property claimed as exempt is less than $500, and the court finds that it exceeds $500, the defendant has made a selection, he has complied with the law, and we think it then becomes the duty of the court, under this statute, to sell that portion of his property only which is in excess of the amount allowed the debtor as exempt.\nThe controversy here was about the value of the property, and there was no controversy about the debtor claiming it as exempt. He was claiming it all the time as exempt. The officers and court knew that he was entitled to $500 as exempt.\nAs said by the Illinois court: \u201cThese statutes have not declared what shall be done in a- case like the present, and we are left to ascertain the legislative intention by inference or interpretation. Seeing the intentions or purposes of the legislation in adopting these acts, we cannot doubt that, had such a case occurred to them, they would have embraced it in the language of the law, because it is fully within its reason.\u201d Thompson on Homestead and Exemptions, 675.\nThe author further said in this connection: \u201cAn apt illustration of the results which are frequently reached by extending to statutes of exemption a liberal construction will be found in a case in Illinois, where a debtor claimed .the right to reserve from execution a liorse worth more than $100, but not more than $160. There were in force two statutes of exemption, one allowing the debtor certain specific chattels, and also permitting him to select \u2018 sixty dollars \u2019 worth of other property suited to his or her condition in life,\u2019 and a later one exempting certain additional chattels, among them \u2018one yoke of oxen, or one horse in lieu thereof, not exceeding one hundred dollars in value.\u2019 Putting the two. together, the court sustained the right of the debtor to select the horse in question.\u201d Thompson on Homestead and Exemptions, 675.\nExemption laws are enacted by tbe Legislature for tbe benefit of tbe debtor, and, as this court bas frequently said, must be liberally construed. And, as we have already said, there is no statute prescribing what shall be done under circumstances like we have here. All the property that this debtor owned was worth very little, if any, more than his exemptions. According to his judgment, it was worth less than his exemptions. And the subsequent sale of the property seems to justify the debtor\u2019s estimate of the value.\nIn speaking of how exemptions should be claimed, it is said in Thompson on Homestead and Exemptions, 663 : \u201cIt is enough if it is made to the levying officer in a way in which he cannot, or ought not to, misunderstand it. \u2018Men whose property is levied on are generally under some degree of mental excitement. It is not to be expected that their words should be calmly weighed.\u2019 \u201d\nThe officer here could not doubt that the debtor was claiming his exemptions. He was bound to know that he was entitled to at least $500 exempt. The value of the articles claimed as fixed by the court exceeded that amount. Since the debtor had selected the property that, according to the proof taken by the court, exceeded the amount that he was entitled to claim as exempt, it was the duty of the court to allow the debtor or to set apart to the debtor $500-worth of articles claimed as exempt, and to sell the balance only.\nPersons for whose benefit - statutes of exemption are enacted are usually very poor people. It frequently happens that all the property they possess would not sell for $500, although it may be worth more than that to them. And we hold that, when a debtor makes it clear that he is claiming his exemptions and specifies the particular articles that he claims, it is the duty of the court to set aside those articles as exempt, and, if they are in excess of the amount the debtor is entitled to claim, the court should deliver to him as exempt articles not exceeding the value of $500, and sell the balance only.\nThe judgment of the court is reversed, and remanded with directions to allow the debtor his exemptions hy delivering to him the property claimed as exempt, not exceeding $500, or, if the property cannot be restored to him in as good condition as when taken from him, that he he given the value in money of such articles as cannot be so restored.",
+        "type": "majority",
+        "author": "Mehaffy, J."
+      }
+    ],
+    "attorneys": [
+      "W. J. Lanier, for appellant.",
+      "G. W. Norton, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Pemberton v. Bank of Eastern Arkansas.\nOpinion delivered May 2, 1927.\n1. Appeal and error \u2014 conclusiveness of finding of court. \u2014 The court\u2019s finding as to the value of property, claimed by defendant to be exempt, not against the preponderance of the testimony, is conclusive on the Supreme Court.\n2. Exemptions \u2014 construction of exemption laws. \u2014 Constitution, art. 9, \u00a7 2, relating to exemptions, and Crawford & Moses\u2019 Dig., \u00a7\u00a7 5544, 5554, being enacted for the benefit of debtors, must be liberally construed.\n3. Exemptions \u2014 amount allowed. \u2014 Where a debtor claims specific exemptions, and the court finds the value of the articles claimed exceed $500, it is the duty of the court, under \u00a7 5554, to deliver to the debtor as exemptions articles not exceeding the value of $500, and to sell the balance only.\nAppeal from St. Francis Circuit Court; E. D. Robertson, Judge;\nreversed.\nW. J. Lanier, for appellant.\nG. W. Norton, for appellee."
+  },
+  "file_name": "0949-01",
+  "first_page_order": 965,
+  "last_page_order": 972
+}

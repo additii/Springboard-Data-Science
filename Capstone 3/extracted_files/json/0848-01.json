@@ -1,0 +1,85 @@
+{
+  "id": 8726080,
+  "name": "Wolff v. Alexander Film Company",
+  "name_abbreviation": "Wolff v. Alexander Film Co.",
+  "decision_date": "1933-01-23",
+  "docket_number": "4-2828",
+  "first_page": "848",
+  "last_page": "851",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "186 Ark. 848"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [
+    {
+      "cite": "255 S. W. 7",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "160 Ark. 574",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        8724307
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/160/0574-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 289,
+    "char_count": 4302,
+    "ocr_confidence": 0.52,
+    "pagerank": {
+      "raw": 1.3322502534477175e-07,
+      "percentile": 0.6291658316759008
+    },
+    "sha256": "2984f109327291cdfc0d80ce422786239cb8c8b9a443e3be743c562c77f3eca5",
+    "simhash": "1:0f6a77d2d6c2d824",
+    "word_count": 759
+  },
+  "last_updated": "2024-02-27T17:52:01.123529+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Wolff v. Alexander Film Company."
+    ],
+    "opinions": [
+      {
+        "text": "McHaNey, J.\nAppellee contracted in writing with, appellant for the rent of \u201ca series of advertising films for a continuous period of twelve months from the date the first film is shipped,\u201d to be screened in the Siegel Theatre of McG-ehee at a cost to appellant for screening of $10 per month. He also agreed to pay appellee for rent of the advertising films in installments of $15 per month, the first to be and was paid at the date of the contract, March 7, 1930; the second to be due and payable 30 days after the first shipment of service, and the others every 30 days thereafter, covering twelve months. The first shipment of film service was April 5, 1930, and the service was thereafter continued as per contract until said theatre was closed, about May 20,1930. Thereafter, on July 30, 1930, the theatre was reopened by Mr. Bara-del under the name of the Ritz Theatre. Shipments of film service was then continued to the Ritz Theatre, which screened the films under agreement between appellee and Baradel that a monthly charge of only $7.50 should be made to appellant. This new arrangement with the Ritz was brought to the attention of appellant by appellee, and he made no objection thereto. These shipments continued to September 20, 1930, when they were suspended by appellee because appellant had breached the contract by refusing to pay it the rental price of $15 per month. The contract provides that \u201cthe film company may, in case of delinquency in payments, suspend service until such payments are made.\u201d Upon appellant\u2019s refusal to proceed further under the contract, or to pay therefor, this suit was instituted for the recovery of $150, the balance due, appellant having paid the cash payment and one installment of $15. Trial before the court sitting as a jury resulted in a .judgment for appellee for the amount sued for with interest.\nFor a reversal of the judgment, it is first urged that the closing of the Siegel Theatre terminated the contract, and that the evidence fails to show it was thereafter revived. We think appellant is wrong in both contentions, but, assuming without deciding that the closing of the Siegel Theatre did terminate the contract, we are of the opinion that the evidence is sufficient to support the judgment of the court on the finding that it was thereafter revived. The evidence shows that, after the opening of the Ritz Theatre, appellee arranged with Mr. Baradel to screen the same film service for $7.50 per month, a cost to appellant of $2.50 per month less than was to have been paid to the Siegel, and that appellant was imm.fi-diately notified of such arrangement and made no objection thereto. The films were thereafter exhibited at the Ritz with his knowledge and without objection, and it is admitted that he made at least one payment to the Ritz. The proof further shows, viewed in the light most favorable to appellee, as we must do, that he promised appel-lee that he would pay, would mail his check in payment for the service under the contract. This conduct on appellant\u2019s part is strong evidence of a waiver of the right to insist on a breach, and this court has many times so held. In Clear Creek Oil & Gas Co. v. Brunk, 160 Ark. 574, 255 S. W. 7, we said: \u201cThe principle is elemental that one party to a contract who, with knowledge of a breach by the other party, continues to accept benefits under the contract and suffers the other party to continue in performance thereof, waives the right to insist on a breach\u201d- \u2014 citing cases. This principle applies here in bar of the rig\u2019bt of appellant to insist on a breach when sued for the price of the service agreed to be rendered.\nIt is next urged that the court erred in rendering judgment for the full amount of rentals less payments, as that is not the correct measure of damages. That was not an issue in the court below. Appellant defended on the sole ground of a breach of the contract. The question of the measure of damages was raised in the motion for a new trial for the first time. Since it was not an issue in the court below, it cannot be considered here on appeal.\nNo error appearing, the judgment must be affirmed. It is so ordered.",
+        "type": "majority",
+        "author": "McHaNey, J."
+      }
+    ],
+    "attorneys": [
+      "P. 8. Seamans, for appellant.",
+      "A. R. Cooper, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Wolff v. Alexander Film Company.\n4-2828\nOpinion delivered January 23, 1933.\nP. 8. Seamans, for appellant.\nA. R. Cooper, for appellee."
+  },
+  "file_name": "0848-01",
+  "first_page_order": 868,
+  "last_page_order": 871
+}

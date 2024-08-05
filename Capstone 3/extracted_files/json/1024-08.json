@@ -1,0 +1,78 @@
+{
+  "id": 12441129,
+  "name": "State, Respondent, v. Wade, Petitioner",
+  "name_abbreviation": "State v. Wade",
+  "decision_date": "2015-12-02",
+  "docket_number": "No. 92019-2",
+  "first_page": "1024",
+  "last_page": "1024",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "184 Wash. 2d 1024"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Wash.",
+    "id": 9029,
+    "name": "Washington Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 38,
+    "name_long": "Washington",
+    "name": "Wash."
+  },
+  "cites_to": [
+    {
+      "cite": "188 Wn. App. 1032",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        4280064,
+        4280921,
+        4277725,
+        4278622
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/188/1032-02",
+        "/wash-app/188/1032-03",
+        "/wash-app/188/1032-01",
+        "/wash-app/188/1032-04"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 27,
+    "char_count": 186,
+    "ocr_confidence": 0.861,
+    "sha256": "af6dcf0a07583e7366fae105f8616dd95aa5655d1ab374180fe4c79d7b8e92b9",
+    "simhash": "1:85b9ec661d9bc2b1",
+    "word_count": 31
+  },
+  "last_updated": "2024-02-27T21:13:25.899037+00:00",
+  "provenance": {
+    "date_added": "2019-05-21",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "State, Respondent, v. Wade, Petitioner,"
+    ],
+    "opinions": [
+      {
+        "text": "Petition for review of a decision of the Court of Appeals, No. 71095-8-I, June 29, 2015, 188 Wn. App. 1032. Denied December 2, 2015.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "State, Respondent, v. Wade, Petitioner,\nNo. 92019-2."
+  },
+  "file_name": "1024-08",
+  "first_page_order": 1002,
+  "last_page_order": 1002
+}

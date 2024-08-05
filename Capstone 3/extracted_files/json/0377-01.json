@@ -1,0 +1,177 @@
+{
+  "id": 1358483,
+  "name": "First National Bank v. Duvall",
+  "name_abbreviation": "First National Bank v. Duvall",
+  "decision_date": "1923-01-08",
+  "docket_number": "",
+  "first_page": "377",
+  "last_page": "383",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "156 Ark. 377"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [
+    {
+      "cite": "122 Ark. 141",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1558193
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/122/0141-01"
+      ]
+    },
+    {
+      "cite": "34 Ark. 691",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1875653
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/34/0691-01"
+      ]
+    },
+    {
+      "cite": "52 Ark. 158",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1913408
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/52/0158-01"
+      ]
+    },
+    {
+      "cite": "31 Ark. 131",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1879233
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/31/0131-01"
+      ]
+    },
+    {
+      "cite": "67 Ark. 455",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1152527
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/67/0455-01"
+      ]
+    },
+    {
+      "cite": "60 Ark. 357",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1903745
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/60/0357-01"
+      ]
+    },
+    {
+      "cite": "67 Ark. 362",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1152528
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/67/0362-01"
+      ]
+    },
+    {
+      "cite": "91 Ark. 20",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1511833
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/91/0020-01"
+      ]
+    },
+    {
+      "cite": "34 Ark. 691",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1875653
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/34/0691-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 448,
+    "char_count": 10739,
+    "ocr_confidence": 0.496,
+    "pagerank": {
+      "raw": 7.135516889422737e-08,
+      "percentile": 0.42817206717457273
+    },
+    "sha256": "e8c80abc7f8cf087e3a73cf5b6c007679055b670951f9b8957e7c5ff90f3938d",
+    "simhash": "1:bfdebc5bac0bff80",
+    "word_count": 1866
+  },
+  "last_updated": "2024-02-27T21:52:19.957046+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "First National Bank v. Duvall."
+    ],
+    "opinions": [
+      {
+        "text": "Wood, J.\nThis is an action in justice court by S. A. Duvall, hereafter called appellee, against the First National Bank, hereafter called appellant, and others. The appellee in his complaint alleged that he rented certain lands to one L. Kibby for the year 1920, for which Kibby agreed to pay one-fourth of certain bales of cotton, describing the same by the ginner\u2019s and warehousemen\u2019s numbers. The appellee alleged that the cotton was stored in the Morrilton Cotton Warehouse Company, and that the appellant held the warehouse receipts. The appellee further alleged that, in addition to one-fourth of the cotton due as rent, he had furnished to Kibby, in order to enable him to make the crop for the year 1920, supplies in the sum of $85. The appellee prayed for an order for specific attachment of the cotton and judgment for the amount due him for rents and supplies, and that the cotton be subjected to the payment of the same. The attachment was duly issued and levied and a forthcoming bond executed by the appellant. In his complaint the appellee named L. Kibby, the appellant, .and the Morrilton Cotton Warehouse Company as defendants. He did not name W. A. Duvall, but before the cause was heard in the justice court W. A. Duvall, by written petition, asked to be made a party. He waived service. In his petition he set up that he rented the land upon which the cotton in controversy was grown, and that the appellee furnished him supplies to make the crop, and admitted that the appellee had a valid and subsisting lien on the cotton and for his rents and supplies. He further alleged that before he had completed gathering the crop he sold his interest to L. Kibby. He prayed that, if the cause were appealed by the bank, he be relieved from all costs.\nThe appellant demurred in the justice court, setting up that the complaint did not state a cause of action against it, and that the court was without jurisdiction. The trial in the justice court resulted in a judgment in favor of the appellee against the appellant for his claim, and sustaining the attachment. The cause was appealed to the circuit court. The testimony at the trial was substantially as follows:\nThe appellee testified that he rented the land upon which the cotton was grown to his son, W. A. Duvall, for the year 1920, who was indebted to appellee in the sum of $243 for supplies and for rent. Kibby bought the crop in the first part of the fall from W. A. Duvall and agreed to settle his debt to the appellee for the supplies and rent. W. A. Duvall owed the appellee for supplies the sum of $85 and the sum of $45 for rent, one-fourth the value of the three bales of cotton,- which amounts were due and liad not been paid. Appellee instituted this action and had the attachment issued and levied on the cotton, which had been stored in the warehouse by Kibby, and for which the appellant held the warehouse receipts. The appellee did not mention the matter to the bank himself, but had another to do so for him. Appellee knew where the cotton was all the time.\nL. Kibby testified that lie bought, the crop from (Bud) W. A. Duvall; that he gathered the cotton and placed it in a -warehouse and.turned the receipts over to Mr. Massey of the Citizens\u2019 Bank, and told him at the time that there was a landlord\u2019s lien against one-fonrtlv of the cotton. The cotton was stored in the name of Duvall and Kibby. It was the understanding between witness W. A. Duvall and the appellee, at the time of the purchase, that witness was to pay the supply bill and the rent. He paid part of the supply bill, leaving something like $85 unpaid.\nMassey testified that the warehouse receipts for the cotton in controversy were transferred by Kibby to the Citizens\u2019 Bank, and the Citizens\u2019 Bank later sold them and transferred them, along with other assets, to the appellant. The Citizens \u2019 Bank had a mortgage on the cotton crop grown by W. A. Drivall on the land of S. A. Duvall for the year 1920. When Kibby bought the crop from W. A. Duvall, he assumed the payment of W. A. Duvall\u2019s notes to the Citizens\u2019 Bank. The warehouse receipts transferred to the appellant were put up with the Citizens\u2019 Bank as collateral to secure the bank for money advanced to Kibby. The Citizens\u2019 Bank thought it owned the receipts. It never had authority from Kibby or Duvall to apply this collateral to Kibby\u2019s debt. The bank only held them as collateral. It borrowed money on them two or three times in Little Rock. The receipts were negotiable instruments. They were first transferred to the Citizens\u2019 Bank, and the Citizens\u2019 Bank transferred them to the American Bank of Commerce & Trust Company \"at Little Rock. When the Citizens\u2019 Bank sold out to the appellant, the latter paid off the indebtedness of the Citizens\u2019 Bank to the Little Rock bank and got the receipts in that way. When the appellant took over the- assets of the Citizens\u2019 Bank, witness went with the appellant as its employee. Witness\u2019 duties were to look after the affairs of the Citizens \u2019 Bank which the appellant had taken over. He ivas a clerk of the appellant, and assisted it in collecting the indebtedness due the Citizens1 Bank. \"When the transfer was made of all of-the assets of the Citizens\u2019 Bank to the appellant, nothing was said about the names in which the warehouse receipts were' issued. The cotton was stored in the warehouse in the first part of 1921, and was sold by the appellant for twenty and five-eighths cents per pound, less expenses.\nClifton Moose testified that he was the cashier of the appellant. That the appellant became the owner of the cotton through the warehouse receipts. The appellant did not know anything about any landlord\u2019s lien on the cotton, or.the claim of a lien. None of the bank\u2019s officials knew about that. Witness transacted the business of making the transfer. .The Citizens\u2019 Bank had transferred all of its assets to the appellant. Witness saw the receipts, but paid no attention to the name, as the appellant bought them by number. Warehouse receipts are negotiable instruments.\nAt the conclusion of the testimony the court withdrew the cause from the jury and declared that under the testimony, as a matter of law, the appellant was liable to the appellee in the sum of $130. Judgment was rendered in appellee\u2019s favor for that sum,' from which is this appeal.\nWhile Moose, the cashier of appellant, testified that he negotiated the transaction for the appellant resulting in the transfer of the cotton in controversy to the appellant, and that the appellant knew nothing of the appellee\u2019s claim for rents and supplies, nevertheless it occurs to us that, under the undisputed facts established by the evidence, appellant was charged with notice of the appellee\u2019s claim. The undisputed testimony shews that Massey was the cashier of the Citizens\u2019 Bank at the time it acquired the warehouse receipts as collateral. These receipts were issued in the name of Duvall and Kibby. At that time the Citizens\u2019 Bank had a mortgage on this cotton, Avhich specifically stated that the cotton Avas grown on the land of the appellee. Massey Avas also informed at the time of the transfer of the warehouse receipts to the Citizens\u2019 Bank that there was a landlord\u2019s lien upon the same. Massey testified that when the assets of the Citizens\u2019 Bank, including the warehouse receipts, were transferred to the appellant, he was employed by the appellant to look after the business of the Citizens\u2019 Bank that had been taken over by the appellant.\nThe testimony of Massey was not disputed. His testimony, taken in connection with the warehouse receipts themselves, and the mortgage showing that the cotton was grown on the land of the appellee, and the testimony of Kibby, which was undisputed, that, at the time of the transfer of the warehouse receipts for the cotton to the Citizens \u2019 Bank, he informed its cashier, Massey, that there was a landlord\u2019s lien, all together certainly constituted notice to appellant of the lien of the appellee. Moreover, notice to Massey, under the circumstances, was notice to appellant, because Massey was specially designated by appellee to collect the Citizens\u2019 Bank accounts. The undisputed testimony shows that the appellee had not released his lien. His consent that Kibby purchase the crop, ungathered in the field, from W. A. Duvall, upon the agreement of Kibby to pay appell\u00e9e his rents and supply bill, was but tantamount to the substitution by appellee of one tenant for another. It did not constitute, on the part of the appellee, a waiver or relinquishment of his lien.' He brought his action to enforce his lien by specific attachment, pursuant to the provisions of \u00a7\u00a7 6897 and 6899 of Crawford & Moses\u2019 Digest. Both Kibby and W. A. Duvall were parties. The court had jurisdiction. See Ferniman v. Nowlin, 91 Ark. 20, and cases there cited.\nThe appellant, as we have seen, was not an innocent purchaser of the cotton. When the attachment was levied and it executed a forthcoming bond and sold the cotton, it became liable to the appellee for the amount due him for rents and supplies. The court was correct in so declaring as a matter of law. See \u00a7\u00a7 6889 and 6890, C. & M. Digest, and Volmer v. Wharton, 34 Ark. 691.\nThe judgment is therefore affirmed.",
+        "type": "majority",
+        "author": "Wood, J."
+      }
+    ],
+    "attorneys": [
+      "Strait & Strait, for appellant.",
+      "Edward Gordon, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "First National Bank v. Duvall.\nOpinion delivered January 8, 1923.\n1. Landlord and tenant \u2014 notice op landlord\u2019s lien. \u2014 Where a bank, upon taking oyer the affairs of another bank, employed the cashier of the closing bank to settle its accounts, and there-, after through him came into possession of cotton warehouse receipts which, at the time they were accepted-by him as cashier' of the closing bank, were known to be subject to a landlord\u2019s lien, the second bank was chargeable .with notice of the landlord\u2019s lien, and liable therefor.\n2. Landlord and tenant \u2014 release op lien \u2014 evidence.\u2014Evidence that one holding a landlord\u2019s lien on a cotton crop had in effect permitted a substitution of 'one tenant for another upon the substituted tenant\u2019s agreement to pay the rent and supply bill held insufficient to prove a release of his lien.\nAppeal from Conway Circuit Court; J. T. Bullock, special judge;\naffirmed.\nStrait & Strait, for appellant.\nThe court was without jurisdiction to hear and determine the cause. It was error to withdraw the case from the jury. 67 Ark. 362; 60 Ark. 357; 67 Ark. 455; 31 Ark. 131; 52 Ark. 158. The consent by appellee to the removal of the crop waived his landlord\u2019s lien. 60 Ark. 357; 34 Ark. 691. The court should have sustained the motion to dismiss. 122 Ark. 141.\nEdward Gordon, for appellee.\nThe landlord has a lien upon the crop grown upon his land for the rent and supplies furnished the tenant. Crawford & Moses \u2019 Digest, \u00a7\u00a7 6889-90; 34 Ark. 691."
+  },
+  "file_name": "0377-01",
+  "first_page_order": 403,
+  "last_page_order": 409
+}

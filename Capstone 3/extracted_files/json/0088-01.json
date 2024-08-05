@@ -1,0 +1,139 @@
+{
+  "id": 1428232,
+  "name": "General Motors Acceptance Corporation v. Driver",
+  "name_abbreviation": "General Motors Acceptance Corp. v. Driver",
+  "decision_date": "1933-11-06",
+  "docket_number": "4-3173",
+  "first_page": "88",
+  "last_page": "92",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "188 Ark. 88"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [
+    {
+      "cite": "273 Pac. 122",
+      "category": "reporters:state_regional",
+      "reporter": "P.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "95 Cal. App. 647",
+      "category": "reporters:state",
+      "reporter": "Cal. App.",
+      "case_ids": [
+        2138014
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app/95/0647-01"
+      ]
+    },
+    {
+      "cite": "177 N. W. 893",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "171 Wis. 637",
+      "category": "reporters:state",
+      "reporter": "Wis.",
+      "case_ids": [
+        8697805
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wis/171/0637-01"
+      ]
+    },
+    {
+      "cite": "132 So. 817",
+      "category": "reporters:state_regional",
+      "reporter": "So.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "101 Fla. 913",
+      "category": "reporters:state",
+      "reporter": "Fla.",
+      "case_ids": [
+        1293985
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/fla/101/0913-01"
+      ]
+    },
+    {
+      "cite": "229 S. W. 22",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "148 Ark. 156",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        8718457
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/148/0156-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 496,
+    "char_count": 8575,
+    "ocr_confidence": 0.487,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.05372069954657588
+    },
+    "sha256": "ed16d39719aa00e13c6f519b5b67881591ea61bbed94932f11c80d9fc43d8425",
+    "simhash": "1:a52b61436915624e",
+    "word_count": 1427
+  },
+  "last_updated": "2024-02-27T23:51:14.545434+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "General Motors Acceptance Corporation v. Driver."
+    ],
+    "opinions": [
+      {
+        "text": "Smith, J.\nThe question involved in this appeal is whether the estate of Mrs. Mamie B. Driver, deceased, is liable to the General Motors Acceptance Corporation (referred to in the briefs as GMAC) for certain liabilities of the Driver Chevrolet Company, an Arkansas corporation, formerly engaged in the retail automobile business in Osceola, Arkansas.\nThe Driver Company, referred to in the contracts between the parties as the dealer, sold automobiles to various persons under conditional sales contracts, reserving the title, which contracts were sold and assigned to GMAC, with a guaranty of payment. Various purchasers made default in their payments, and the dealer was required \u2014 that event happening \u2014 to repossess the cars and pay the unpaid purchase money to GMAC as the holder of the sales contracts evidencing* ownership. This contract or plan was modified to permit the dealer to pay, not upon repossessing the car, but upon the resale thereof, a receipt for the repossessed car being signed by the dealer and delivered to GMAC.\nCertain sales of cars were made, the proceeds of which were not delivered to GMAC, Avhereupon, as a condition for the extension of further credit to the dealer by way of purchasing its sales contracts, the GMAC required the execution of the guaranty which forms the basis of this suit. It reads as follows:\n\u201cIn consideration of General Motors Acceptance Corporation, hereinafter called the \u2018Corporation,\u2019 hereafter extending credit at any time and to any extent to Driver Chevrolet Company, hereinafter called the \u2018Dealer,\u2019 or to any one else at the request or for the benefit of said Dealer, through issuing, drawing, accepting, indorsing, discounting, purchasing or acquiring any draft, note, acceptance, bill of exchange, letter of credit, or other instrument or obligation, for the account or in the behalf of said Dealer, or hereafter refraining to any extent from inforcing any rights under any contract or arrangement entered into by said Dealer, and of other good and valuable consideration, the undersigned agrees to hold the Corporation harmless from, and does hereby unconditionally at all times guarantee the performance and payment at maturity of, each and all drafts, notes, acceptances, bills of exchange, letters of credit, negotiable instruments, and agreements and other obligations between the Dealer and the Corporation, heretofore or hereafter issued, draAvn, accepted, executed, entered into, indorsed, discounted, purchased, or acquired, by the Corporation, for the account or in behalf of said Dealer, including all costs, expenses, and attorney\u2019s fees, heretofore or hereafter incurred by said Corporation in connection Avith the default of said Dealer.\n\u201cThis is a contract of continuing guaranty, and, until canceled as hereinafter provided, shall not be limited to any amount, and shall at all times include the full indebtedness of said Dealer to the said Corporation.\n\u201cThe liability of the undersigned for any unpaid balance shall not lie affected by any indulgence, compromise, settlement, extension of credit, or variation of terms, effected by or with the Dealer or any other person interested, nor 'by the amount of Dealer\u2019s obligations outstanding at any one time, nor by payments previously made by the Dealer or the undersigned, nor shall it be necessary for the Corporation to procure the consent of the undersigned or give any notice in reference thereto.\n\u201cThe undersigned hereby does expressly waive and dispense with notice of acceptance of this guaranty, notices of nonpayment and nonperformance, notices of amount of indebtedness outstanding at any time, protests, demands, and prosecution of collection, foreclosure and possessory remedies.\n\u201cThis guarantee is to remain in full force and effect until written notice of the withdrawal of the same has been served by the undersigned upon the Corporation at its principal office at New York City, provided that such withdrawal shall in no case be effective except as to new transactions subsequent to the actual receipt of such notice.\n\u201cThe obligation of all parties signing this guaranty, where more than one, shall be joint and several.\n\u201cThe benefits and obligations hereof shall extend to and bind the heirs, administrators, successors and assigns of the respective parties hereto.\n\u201cThis guaranty and the performance thereunder shall be construed and determined according to the law of the State of New York.\u201d\nIn March, 1930, the dealer had accumulated many repossessed cars on which balances of purchase money were due, and D. S. Donovan, a representative of the GMAC, was sent to Osceola to dispose of this accumulation. Donovan remained in Osceola about six weeks, during which time twenty-five of the repossessed cars were disposed of, and the controlling question in the case is the one of fact whether these cars were sold for the account and credit of the dealer, or were taken charge of by the GMAC\u2019s representative and sold for its accounts.\nThe balance of purchase money due on the twenty-five repossessed cars and sold by Donovan is the subject of this litigation. There was a separate contract for each ear executed at the time of its sale by the dealer and transferred to the GMAC. These contracts were filed with and as parts of the demand of the GMAC against the estate of Mrs. Driver as guarantor under the instrument above copied. The probate court disallowed the claim, and so also did the circuit court on the appeal from this probate order.\nThe circuit court, on the hearing of the appeal from the probate court, made no special finding of fact, and it does not appear that request was made for special findings of fact. There was a general finding for defendant, and judgment accordingly, from which is this appeal.\nIt appears to be conceded that, under the contract under which the GMAC bought purchase money notes and contracts from the Dealer, the latter was required to repay any unpaid purchase money which could not be collected on any such contract. Usually the repossessed cars were sold and the proceeds of such sale paid to the GMAC, and the deficiency was paid by the Dealer.\nThe testimony is sharply conflicting as to how the twenty-five cars in question were disposed of, that is, whether Donovan disposed of the cars for the Dealer or for the GMAC; and the testimony is legally sufficient to support a finding either way. There is a presumption that this issue of fact was found in the defendant\u2019s favor, and, as the testimony is sufficient to sustain that finding, this appeal is concluded thereby. It was said, in the case of International Harvester Co. v. Layton, 148 Ark. 156, 229 S. W. 22, (to quote a headnote in that case), that: \u201cA general finding of the trial court, sitting as a jury, in favor of the defendant, will be sustained if there is any substantial evidence to sustain any of the grounds of defense set up in the answer. \u2019 \u2019\nIt is therefore unnecessary to consider or decide the interesting questions of law which opposing counsel have discussed, as the court\u2019s finding upon this question of fact is' decisive of the case.\nIt is not questioned by either party that under the law the vendor in a conditional sales contract has the option to retake the property sold upon failure of the purchaser to pay the purchase price, in which event the debt is canceled. The vendor may, if he prefers, treat the sale as absolute and sue for the unpaid purchase money. It is not questioned that the twenty-five oars involved in this litigation were taken over from the defaulting purchasers, and this action cancels those debts; These cars were all sold for less than the amount of purchase money then due, and the purpose of this suit is to collect the difference between th\u00e9 balance due on each car when it was repossessed and the price for which it was sold.\nBut if the GMAC took possession of these cars as owner, and sold them to whom they pleased and for such price as they saw proper to ask, as the defendant contends and as the court, no doubt, found, such action operated to cancel the debt as to each car so disposed of. Baer v. General Motors Acceptance Corporation, 101 Fla. 913, 132 So. 817; Singer v. Millard, 171 Wis. 637, 177 N. W. 893; Frankel v. Rosenfield, 95 Cal. App. 647, 273 Pac. 122.\nThus viewed, the judgment of the court below is correct, and it must be affirmed. It is so ordered.",
+        "type": "majority",
+        "author": "Smith, J."
+      }
+    ],
+    "attorneys": [
+      "Charles E. Sullenger and Royden Dixon, for appellant.",
+      "E. S. Driver and Sylvanus W. Polk, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "General Motors Acceptance Corporation v. Driver.\n4-3173\nOpinion delivered November 6, 1933.\nCharles E. Sullenger and Royden Dixon, for appellant.\nE. S. Driver and Sylvanus W. Polk, for appellee."
+  },
+  "file_name": "0088-01",
+  "first_page_order": 106,
+  "last_page_order": 110
+}

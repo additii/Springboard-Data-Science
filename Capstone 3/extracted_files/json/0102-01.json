@@ -1,0 +1,776 @@
+{
+  "id": 4355991,
+  "name": "The State of Washington, Petitioner, v. Russell David Homan, Respondent",
+  "name_abbreviation": "State v. Homan",
+  "decision_date": "2014-07-31",
+  "docket_number": "No. 88339-4",
+  "first_page": "102",
+  "last_page": "116",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "181 Wash. 2d 102"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Wash.",
+    "id": 9029,
+    "name": "Washington Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 38,
+    "name_long": "Washington",
+    "name": "Wash."
+  },
+  "cites_to": [
+    {
+      "cite": "535 U.S. 234",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        354556
+      ],
+      "weight": 3,
+      "year": 2002,
+      "pin_cites": [
+        {
+          "page": "255",
+          "parenthetical": "explaining that an affirmative defense does not cure overbreadth because the \"speaker must himself prove, on pain of a felony conviction, that his conduct falls within the affirmative defense\""
+        },
+        {
+          "parenthetical": "explaining that an affirmative defense does not cure overbreadth because the \"speaker must himself prove, on pain of a felony conviction, that his conduct falls within the affirmative defense\""
+        },
+        {
+          "parenthetical": "explaining that an affirmative defense does not cure overbreadth because the \"speaker must himself prove, on pain of a felony conviction, that his conduct falls within the affirmative defense\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/535/0234-01"
+      ]
+    },
+    {
+      "cite": "100 Yale L.J. 853",
+      "category": "journals:journal",
+      "reporter": "Yale L.J.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "575 F. Supp. 656",
+      "category": "reporters:federal",
+      "reporter": "F. Supp.",
+      "case_ids": [
+        3622102
+      ],
+      "year": 1983,
+      "pin_cites": [
+        {
+          "page": "662"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp/575/0656-01"
+      ]
+    },
+    {
+      "cite": "166 P.3d 1174",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2007,
+      "opinion_index": 0
+    },
+    {
+      "cite": "161 Wn.2d 470",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        3801823
+      ],
+      "year": 2007,
+      "pin_cites": [
+        {
+          "page": "482"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/161/0470-01"
+      ]
+    },
+    {
+      "cite": "267 P.3d 305",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2011,
+      "pin_cites": [
+        {
+          "parenthetical": "internal quotation marks omitted"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "173 Wn.2d 1",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4019997
+      ],
+      "year": 2011,
+      "pin_cites": [
+        {
+          "page": "6",
+          "parenthetical": "internal quotation marks omitted"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/173/0001-01"
+      ]
+    },
+    {
+      "cite": "619 P.2d 344",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "case_ids": [
+        394490
+      ],
+      "year": 1980,
+      "opinion_index": 0,
+      "case_paths": [
+        "/kan-app-2d/5/0538-01"
+      ]
+    },
+    {
+      "cite": "94 Wn.2d 645",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1164023
+      ],
+      "year": 1980,
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/94/0645-01"
+      ]
+    },
+    {
+      "cite": "659 P.2d 514",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1983,
+      "pin_cites": [
+        {
+          "parenthetical": "since Allen Hudlow properly preserved the issue of his habitual criminal status for appeal, the issue deserves appellate court consideration; remanding the issue to Court of Appeals"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "99 Wn.2d 1",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1145924
+      ],
+      "year": 1983,
+      "pin_cites": [
+        {
+          "parenthetical": "since Allen Hudlow properly preserved the issue of his habitual criminal status for appeal, the issue deserves appellate court consideration; remanding the issue to Court of Appeals"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/99/0001-01"
+      ]
+    },
+    {
+      "cite": "83 P.3d 410",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2004,
+      "pin_cites": [
+        {
+          "parenthetical": "on sufficiency of evidence challenge, reviewing court must draw reasonable inferences in favor of State"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "150 Wn.2d 774",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        9195663
+      ],
+      "year": 2004,
+      "pin_cites": [
+        {
+          "page": "781",
+          "parenthetical": "on sufficiency of evidence challenge, reviewing court must draw reasonable inferences in favor of State"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/150/0774-01"
+      ]
+    },
+    {
+      "cite": "794 P.2d 850",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1990,
+      "pin_cites": [
+        {
+          "parenthetical": "reviewing court may not reweigh credibility of witnesses"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "115 Wn.2d 60",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1379122
+      ],
+      "year": 1990,
+      "pin_cites": [
+        {
+          "page": "71",
+          "parenthetical": "reviewing court may not reweigh credibility of witnesses"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/115/0060-01"
+      ]
+    },
+    {
+      "cite": "176 P.3d 616",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2008,
+      "opinion_index": 0
+    },
+    {
+      "cite": "142 Wn. App. 941",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        3973085
+      ],
+      "year": 2008,
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/142/0941-01"
+      ]
+    },
+    {
+      "cite": "926 P.2d 344",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1996,
+      "opinion_index": 0
+    },
+    {
+      "cite": "84 Wn. App. 166",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        121616
+      ],
+      "year": 1996,
+      "pin_cites": [
+        {
+          "page": "176"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/84/0166-01"
+      ]
+    },
+    {
+      "cite": "397 U.S. 358",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12054393
+      ],
+      "weight": 3,
+      "year": 1970,
+      "pin_cites": [
+        {
+          "page": "362-65"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/397/0358-01"
+      ]
+    },
+    {
+      "cite": "84 P.3d 1215",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2004,
+      "pin_cites": [
+        {
+          "parenthetical": "Owens, J., dissenting"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "151 Wn.2d 36",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        428153
+      ],
+      "year": 2004,
+      "pin_cites": [
+        {
+          "page": "57-58",
+          "parenthetical": "Owens, J., dissenting"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/151/0036-01"
+      ]
+    },
+    {
+      "cite": "225 P.3d 237",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2010,
+      "opinion_index": 0
+    },
+    {
+      "cite": "168 Wn.2d 23",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4007503
+      ],
+      "year": 2010,
+      "pin_cites": [
+        {
+          "page": "35"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/168/0023-01"
+      ]
+    },
+    {
+      "cite": "829 P.2d 1068",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1992,
+      "opinion_index": 0
+    },
+    {
+      "cite": "119 Wn.2d 192",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1370291
+      ],
+      "year": 1992,
+      "pin_cites": [
+        {
+          "page": "201"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/119/0192-01"
+      ]
+    },
+    {
+      "cite": "182 P.3d 426",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2008,
+      "opinion_index": 0
+    },
+    {
+      "cite": "163 Wn.2d 534",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        5682455
+      ],
+      "year": 2008,
+      "pin_cites": [
+        {
+          "page": "539"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/163/0534-01"
+      ]
+    },
+    {
+      "cite": "795 P.2d 1143",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1990,
+      "opinion_index": 0
+    },
+    {
+      "cite": "115 Wn.2d 148",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1379109
+      ],
+      "year": 1990,
+      "pin_cites": [
+        {
+          "page": "169"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/115/0148-01"
+      ]
+    },
+    {
+      "cite": "114 P.3d 699",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "weight": 2,
+      "year": 2005,
+      "opinion_index": 0
+    },
+    {
+      "cite": "128 Wn. App. 179",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        3274431
+      ],
+      "year": 2005,
+      "pin_cites": [
+        {
+          "page": "193"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/128/0179-01"
+      ]
+    },
+    {
+      "cite": "210 P.3d 1007",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2009,
+      "opinion_index": 0
+    },
+    {
+      "cite": "166 Wn.2d 572",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4001373
+      ],
+      "year": 2009,
+      "pin_cites": [
+        {
+          "page": "576"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/166/0572-01"
+      ]
+    },
+    {
+      "cite": "303 P.3d 1064",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2013,
+      "opinion_index": 0
+    },
+    {
+      "cite": "177 Wn.2d 1022",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "year": 2013,
+      "opinion_index": 0
+    },
+    {
+      "cite": "290 P.3d 1041",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "weight": 2,
+      "year": 2012,
+      "opinion_index": 0
+    },
+    {
+      "cite": "172 Wn. App. 488",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        4141048
+      ],
+      "weight": 5,
+      "year": 2012,
+      "pin_cites": [
+        {
+          "page": "493"
+        },
+        {
+          "page": "492-93"
+        },
+        {
+          "page": "493",
+          "parenthetical": "Hunt, J., dissenting"
+        },
+        {
+          "page": "492"
+        },
+        {
+          "page": "494-95",
+          "parenthetical": "Hunt, J., dissenting"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/172/0488-01"
+      ]
+    },
+    {
+      "cite": "231 P.3d 166",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2010,
+      "pin_cites": [
+        {
+          "parenthetical": "citing Wash. Const. art. I, \u00a7 5; U.S. Const, amend. I"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "168 Wn.2d 789",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4007761
+      ],
+      "year": 2010,
+      "pin_cites": [
+        {
+          "page": "801",
+          "parenthetical": "citing Wash. Const. art. I, \u00a7 5; U.S. Const, amend. I"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/168/0789-01"
+      ]
+    },
+    {
+      "cite": "466 U.S. 789",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6206324
+      ],
+      "weight": 7,
+      "year": 1984,
+      "pin_cites": [
+        {
+          "page": "801"
+        },
+        {
+          "page": "801"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/466/0789-01"
+      ]
+    },
+    {
+      "cite": "487 U.S. 1",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1775005
+      ],
+      "weight": 3,
+      "year": 1988,
+      "pin_cites": [
+        {
+          "page": "14"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/487/0001-01"
+      ]
+    },
+    {
+      "cite": "413 U.S. 601",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11342234
+      ],
+      "weight": 6,
+      "year": 1973,
+      "pin_cites": [
+        {
+          "page": "613, 615"
+        },
+        {
+          "page": "613"
+        },
+        {
+          "page": "615"
+        },
+        {
+          "page": "615"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/413/0601-01"
+      ]
+    },
+    {
+      "cite": "539 U.S. 113",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        8897431
+      ],
+      "weight": 6,
+      "year": 2003,
+      "pin_cites": [
+        {
+          "page": "118-19",
+          "parenthetical": "citations omitted"
+        },
+        {
+          "parenthetical": "citations omitted"
+        },
+        {
+          "parenthetical": "citations omitted"
+        },
+        {
+          "page": "119"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/539/0113-01"
+      ]
+    },
+    {
+      "cite": "210 P.3d 1011",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2009,
+      "opinion_index": 1
+    },
+    {
+      "cite": "166 Wn.2d 581",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4001354
+      ],
+      "year": 2009,
+      "pin_cites": [
+        {
+          "page": "585"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/166/0581-01"
+      ]
+    },
+    {
+      "cite": "926 P.2d 344",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1996,
+      "opinion_index": 1
+    },
+    {
+      "cite": "84 Wn. App. 166",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        121616
+      ],
+      "year": 1996,
+      "pin_cites": [
+        {
+          "page": "176"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-app/84/0166-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1202,
+    "char_count": 25990,
+    "ocr_confidence": 0.765,
+    "pagerank": {
+      "raw": 2.771977457016681e-07,
+      "percentile": 0.8344067549884182
+    },
+    "sha256": "d18eb3c2c06193dcfb8bb718ded976bf4e7c25ed9f7a04ffaa865703983713de",
+    "simhash": "1:d594b470495db6e7",
+    "word_count": 4244
+  },
+  "last_updated": "2024-02-27T19:47:16.443836+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "The State of Washington, Petitioner, v. Russell David Homan, Respondent."
+    ],
+    "opinions": [
+      {
+        "text": "\u00b61 Russell David Homan was convicted of child luring under Washington\u2019s luring statute, RCW 9A-.40.090. On appeal, Homan argued that his conviction violated his Fourteenth Amendment right to due process because the evidence was insufficient for conviction and that ROW 9A.40.090 is unconstitutionally overbroad in violation of the First Amendment. The Court of Appeals reversed the conviction due to insufficiency of evidence.\nWiggins, J.\n\u00b62 The State timely appealed the reversal, and we granted review on the sufficiency of evidence issue. We decline to rule on the overbreadth issue because it would benefit from additional briefing and argument. We hold that there was sufficient evidence to find that Homan lured a minor and remand the case to the Court of Appeals to decide the overbreadth issue.\nFACTS\n\u00b63 Early one summer evening in the small rural community of Doty, Washington, 9-year-old C.C.N. was sent by his mother to the nearby store to buy milk. As he was walking along the road toward the general store, Homan, a 37-year-old man, rode past on a child\u2019s Superman BMX bicycle. As Homan rode by, he said, \u201cDo you want some candy? I\u2019ve got some at my house.\u201d C.C.N. said nothing and continued walking. Homan rode on without slowing, stopping, or looking back. There were two other children nearby, but Homan was closest to C.C.N. when he spoke.\n\u00b64 C.C.N. did not know Homan and told his mother about the incident when he returned home. She drove him back into town where they saw Homan on his Superman BMX bicycle. C.C.N.\u2019s mother called the sheriff\u2019s office, and Sergeant Robert Snaza spoke with Homan, who admitted to riding his bicycle in the general store\u2019s vicinity.\n\u00b65 The State charged Homan with one count of luring. During his bench trial, Homan moved for dismissal based on insufficiency of evidence. The trial court denied his motion and found Homan guilty as charged. After denying Homan\u2019s motion for reconsideration, again based on a sufficiency challenge, the trial court imposed a standard range sentence of 120 days.\nf 6 Homan timely appealed his conviction, arguing that the State produced insufficient evidence to support his conviction and that the luring statute, RCW 9A.40.090, is unconstitutionally overbroad. The Court of Appeals found the evidence insufficient to support Homan\u2019s conviction and reversed and remanded for dismissal with prejudice. State v. Homan, 172 Wn. App. 488, 493, 290 P.3d 1041 (2012). Accordingly, the appellate court did not reach the overbreadth issue. Id. The State timely appealed the reversal, and we granted review. State v. Homan, 177 Wn.2d 1022, 303 P.3d 1064 (2013).\nANALYSIS\n\u00b67 To determine whether sufficient evidence supports a conviction, we view the evidence in the light most favorable to the prosecution and determine whether any rational fact finder could have found the elements of the crime beyond a reasonable doubt. State v. Engel, 166 Wn.2d 572, 576, 210 P.3d 1007 (2009). Specifically, following a bench trial, appellate review is limited to determining whether substantial evidence supports the findings of fact and, if so, whether the findings support the conclusions of law. State v. Stevenson, 128 Wn. App. 179, 193, 114 P.3d 699 (2005). \u201cSubstantial evidence\u201d is evidence sufficient to persuade a fair-minded person of the truth of the asserted premise. Id. We treat unchallenged findings of fact and findings of fact supported by substantial evidence as verities on appeal. Schmidt v. Cornerstone Invs., Inc., 115 Wn.2d 148, 169, 795 P.2d 1143 (1990). We review challenges to a trial court\u2019s conclusions of law de novo. State v. Gatewood, 163 Wn.2d 534, 539, 182 P.3d 426 (2008).\n\u00b68 In claiming insufficient evidence, the defendant necessarily admits the truth of the State\u2019s evidence and all reasonable inferences that can be drawn from it. State v. Salinas, 119 Wn.2d 192, 201, 829 P.2d 1068 (1992); State v. Drum, 168 Wn.2d 23, 35, 225 P.3d 237 (2010). These inferences \u201cmust be drawn in favor of the State and interpreted most strongly against the defendant.\u201d Salinas, 119 Wn.2d at 201; accord State v. Kilburn, 151 Wn.2d 36, 57-58, 84 P.3d 1215 (2004) (Owens, J., dissenting). Further, we must defer to the trier of fact for purposes of resolving conflicting testimony and evaluating the persuasiveness of the evidence. State v. Jackson, No. 30980-7-II, slip op. (unpublished portion) at 15 (Wash. Ct. App. Aug. 16, 2005).\nf9 We hold that there was sufficient evidence that Homan lured a child under ROW 9A.40.090. The State has met its burden by proving all the necessary elements of luring beyond a reasonable doubt. See In re Winship, 397 U.S. 358, 362-65, 90 S. Ct. 1068, 25 L. Ed. 2d 368 (1970).\n\u00b610 A person commits the crime of luring if the person:\n(l)(a) Orders, lures, or attempts to lure a minor or a person with a developmental disability into any area or structure that is obscured from or inaccessible to the public, or away from any area or structure constituting a bus terminal, airport terminal, or other transportation terminal, or into a motor vehicle;\n(b) Does not have the consent of the minor\u2019s parent or guardian or of the guardian of the person with a developmental disability; and\n(c) Is unknown to the child or developmentally disabled person.\n(2) It is a defense to luring, which the defendant must prove by a preponderance of the evidence, that the defendant\u2019s actions were reasonable under the circumstances and the defendant did not have any intent to harm the health, safety, or welfare of the minor or the person with the developmental disability.\nRCW 9A.40.090. Case law defines \u201clure\u201d as an invitation accompanied by an enticement. State v. Dana, 84 Wn. App. 166, 176, 926 P.2d 344 (1996).\n\u00b611 The parties do not dispute that Homan was a stranger to C.C.N. and that Homan did not have C.C.N.\u2019s mother\u2019s consent to speak to C.C.N. Thus, the only issue is whether Homan attempted to lure C.C.N. into an area or structure obscured from or inaccessible to the public. The Court of Appeals held that the evidence failed to prove both an invitation and an enticement. We disagree and reverse the appellate court.\nI. Sufficient Evidence of Invitation and Enticement\n\u00b612 We hold that Homan\u2019s statement \u201cdo you want some candy? I\u2019ve got some at my house\u201d is an invitation and an enticement, proof of which is sufficient to sustain a luring conviction. RCW 9A.40.090 does not require proof of unlawful purpose or intent.\n\u00b613 The Court of Appeals incorrectly held that Homan\u2019s statements did not constitute an invitation because his words were only an offer of candy and a statement regarding its location. Homan, 172 Wn. App. at 492-93. But considering Homan\u2019s statements in context, a rational trier of fact could find beyond a reasonable doubt that Homan invited C.C.N. to his house to receive the offered candy. RCW 9A.40.090 does not require that a particular form of statement or address be used to lure. Homan\u2019s statements can easily be interpreted as an implied enticement and invitation, even though they are phrased as a question and an assertion of fact. Accord id. at 493 (Hunt, J., dissenting).\n\u00b614 The Court of Appeals also reasoned that the statements were neither an invitation nor an enticement because Homan did not slow down or stop or even look backward when he spoke. Id. at 492. But the statute does not require that there be conduct. A person commits the crime of luring if the person \u201c[o]rders, lures, or attempts to lure ....\u201d RCW 9A.40.090(l)(a). These acts may be committed with words alone. See, e.g., Webster\u2019s Third New International Dictionary 1347, 1588 (2002) (\u201clure\u201d means to \u201centice\u201d; \u201corder\u201d means to \u201ccommand\u201d or \u201cto give orders\u201d). With his words, Homan attempted to lure C.C.N. when he told C.C.N. he had candy at his house and asked if C.C.N. wanted some. Accord Homan, 172 Wn. App. at 494-95 (Hunt, J., dissenting).\nII. Sufficient Evidence That Homan Attempted To Lure a Minor \u201cinto\u201d an Area Inaccessible to the Public\nf 15 Homan also argues that the brief communication he had with C.C.N. does not prove an attempt to lure C.C.N. inside a house. At most, the evidence shows an invitation to a house, which does not prove luring, unless the house is on property obscured from or inaccessible to the public. We reject this argument.\n\u00b616 RCW 9A.40.090 makes it unlawful for any person to invite a child \u201cinto any area or structure\u201d away from the public. Thus, the statute does not require that the invitation be into an enclosed structure. Rather, it recognizes that some open-air \u201careas\u201d are obscured from public access. Indeed, the provision was amended in 1995 to specifically address the act of luring minors into a secluded area, whether or not the area is a structure. H.B. Rep. on S.B. 5039, 54th Leg., Reg. Sess. (Wash. 1995). And because there is no way to go \u201cinto\u201d an area without going \u201cto\u201d that area and vice versa, we reject this distinction. By adding \u201carea\u201d to the statute, the legislature intended to make criminal invitations to or into places inaccessible to the public. Requiring that Homan explicitly invite C.C.N. into his home ignores the plain purpose of the statute.\n\u00b617 In any case, we hold that there was substantial evidence that Homan attempted to lure C.C.N. \u201cinto\u201d a \u201cstructure\u201d away from the public. RCW 9A.40.090(l)(a). A reasonable trier of fact could have found that an invitation \u201cto a house\u201d implied an invitation to enter the house to receive the offered candy. See Salinas, 119 Wn.2d at 201 (all reasonable inferences found from evidence must be drawn in favor of state). This is unlike State v. McReynolds, 142 Wn. App. 941, 176 P.3d 616 (2008), where the defendant signaled for a minor to approach a truck. The Court of Appeals found that the gesture was \u201cinsufficient in and of itself to prove that Mr. McReynolds was trying to get L.S. into his truck\u201d because McReynolds never said anything or made any gestures beyond the initial signaling. Id. at 948. By contrast, Homan, with his words, impliedly invited C.C.N. to his home: Homan told C.C.N. that he had candy at his house and asked C.C.N. if he wanted some. Thus, we should find that there was substantial evidence to find that Homan lured C.C.N. into an area or structure obscured from public view when he asked C.C.N. if he wanted candy located at Homan\u2019s house.\nIII. Sufficient Evidence That Homan Was Speaking to C.C.N.\n\u00b618 Homan argues that the prosecution failed to prove that Homan\u2019s words were directed at C.C.N. rather than the other two children. We reject this argument because a reasonable trier of fact could have found that based on the evidence, Homan was speaking to C.C.N.\n\u00b619 Homan rode a bicycle past C.C.N. while traveling in the same direction as C.C.N. While riding past C.C.N., Homan asked, \u201c[D]o you want some candy? I\u2019ve got some at my house.\u201d C.C.N. told police that there were two other children in the vicinity when Homan rode by on his bicycle but testified that he believed Homan was talking to him when Homan made the remarks about the candy.\n\u00b620 Homan does not offer any evidence that he knew the other children or that he was speaking to them. The fact that he did not slow down when he made his remarks is not evidence that he was addressing the two unidentified children rather than C.C.N. Thus, we should accept the trial court\u2019s finding that Homan was speaking to C.C.N. State v. Camarillo, 115 Wn.2d 60, 71, 794 P.2d 850 (1990) (reviewing court may not reweigh credibility of witnesses); see also State v. Goodman, 150 Wn.2d 774, 781, 83 P.3d 410 (2004) (on sufficiency of evidence challenge, reviewing court must draw reasonable inferences in favor of State).\nCONCLUSION\n\u00b621 We hold there was sufficient evidence to support Homan\u2019s luring conviction. We reverse the Court of Appeals and remand for a determination of whether ROW 9 A.40.090 is unconstitutionally overbroad in violation of the First Amendment and for further proceedings consistent with this opinion.\nMadsen, C.J.; Fairhurst, Stephens, Gonz\u00e1lez, and Gordon McCloud, JJ.; and J.M. Johnson, J. Pro Tem., concur.\nU.S. Const, amend XIV.\nU.S. Const, amend. I.\nOn December 26, 2013, we asked parties for additional briefing on the overbreadth issue, giving parties just two weeks over the holiday season to submit supplemental briefs. To make an informed decision on this complex First Amendment issue, we believe more briefing is necessary. Indeed, as the State points out, had we accepted review of the overbreadth issue initially, there might have been significant interest from several potential amici, such as Washington Defenders Association, Washington Association of Criminal Defense Attorneys, American Civil Liberties Union of Washington, Washington Association of Prosecuting Attorneys, and victim advocacy groups. Thus, the proper course of action here is to remand the issue because it was raised but not decided in the Court of Appeals. See State v. Hudlow, 99 Wn.2d 1, 659 P.2d 514 (1983) (since Allen Hudlow properly preserved the issue of his habitual criminal status for appeal, the issue deserves appellate court consideration; remanding the issue to Court of Appeals); Courtright Cattle Co. v. Dolsen Co., 94 Wn.2d 645, 619 P.2d 344 (1980). Once the Court of Appeals issues its decision, if adverse to Homan, Homan is free to petition this court for review.\nAlternatively, there is sufficient evidence that Homan attempted to lure C.C.N. \u201cinto\u201d a secluded area given that Homan\u2019s mobile home is in a rural residential area with few surrounding homes.\nThe dissent finds that there is insufficient evidence of an invitation, focusing on the fact that Homan rode past C.C.N. and never slowed or looked back. This reasoning fails to give proper deference to the trier of fact \u2014 in this case, the trial judge. The trial judge heard the testimony and found that Homan was, in fact, talking to C.C.N. That is a reasonable inference from the evidence, and we should not disturb it.\nIn his original statement to Sergeant Snaza, C.C.N. indicated that the two children were about 10 feet behind him and it appeared as if Homan was \u201clooking toward the middle\u201d (between C.C.N. and the other children) when he spoke. At trial, C.C.N. clarified that it was probably more than 10 feet and that he believed Homan was talking to him. C.C.N. explained that he did not really understand how far 10 feet was when he made his original statement.\nWe agree with the dissent that ROW 9A.40.090 has a broad legitimate sweep; the State has a substantial interest in protecting children and developmentally disabled persons and may validly proscribe luring or attempted luring of such persons into vehicles, areas, and structures for criminal purposes, although that attempt may involve speech. However, we take issue with portions of the dissent\u2019s First Amendment analysis. First, it is true that we generally presume that legislative enactments are constitutional and the party challenging a statute bears the burden of proving its unconstitutionality. Dissent at 113. However, in the free speech context, \u201c \u2018the State usually bears the burden of justifying a restriction on speech.\u2019 \u201d State v. Immelt, 173 Wn.2d 1, 6, 267 P.3d 305 (2011) (internal quotation marks omitted) (quoting Voters Educ. Comm. v. Pub. Disclosure Comm\u2019n, 161 Wn.2d 470, 482, 166 P.3d 1174 (2007)). Second, the dissent dismisses concerns that the statute will be applied against protected speech, finding that there is little possibility that innocent parties (a student inviting peers to his or her house, a good Samaritan offering a ride, a bus driver, etc.) will be prosecuted. Dissent at 115. But selective enforcement does not cure overbreadth. Indeed, a danger inherent in overbroad statutes is that such statutes provide unbridled administrative and prosecutorial discretion that may result in selective prosecution based on certain views deemed objectionable by law enforcement. Little v. City of Greenfield, 575 F. Supp. 656, 662 (E.D. Wis. 1983); see Richard H. Fallon, Jr., Making Sense of Overbreadth, 100 Yale L.J. 853, 868 n.94 (1991) (rationale underlying overbreadth doctrine advances two goals: to prevent a \u201cchilling effect! ]\u201d on free speech and to prevent selective enforcement of a statute, which would target and discriminate against certain classes of people). Last, we question whether the affirmative defense protects the statute from an overbreadth challenge (dissent at 115) because it applies only after prosecution has begun. Accordingly, it alleviates neither the risk that protected speech will be \u201cchilled\u201d nor the danger of selective enforcement. See also Ashcroft v. Free Speech Coal., 535 U.S. 234, 255, 122 S. Ct. 1389, 152 L. Ed. 2d 403 (2002) (explaining that an affirmative defense does not cure overbreadth because the \u201cspeaker must himself prove, on pain of a felony conviction, that his conduct falls within the affirmative defense\u201d).",
+        "type": "majority",
+        "author": "Wiggins, J."
+      },
+      {
+        "text": "\u00b622 (dissenting) \u2014 It is a crime to order or lure a child into a secluded area. This case hinges on what comments or conduct constitute \u201cluring.\u201d As the majority indicates, luring requires an invitation and an enticement. In this case, Russell David Homan made an extremely inappropriate remark to a child as he rode by on his bicycle. But given that Homan did not slow down, stop, or even look back at the child after making the comment, his actions did not constitute an invitation. I disagree with the majority\u2019s conclusion that sufficient evidence supported Homan\u2019s conviction. I also disagree with the majority\u2019s decision to avoid Homan\u2019s constitutional challenge. This significant constitutional question has been fully briefed, and the court should take this opportunity to rule that the statute is not overbroad. I respectfully dissent.\nOwens, J.\nANALYSIS\n1. Homan\u2019s Conviction Is Not Supported by Sufficient Evidence\n\u00b623 As the majority notes, a \u201clure\u201d requires an invitation accompanied by an enticement. Majority at 107 (citing State v. Dana, 84 Wn. App. 166, 176, 926 P.2d 344 (1996)). When viewed as a whole, Homan\u2019s actions did not constitute an invitation into a nonpublic structure or area. His words, when viewed in isolation, could be construed as an offer of candy. However, he spoke those words while riding past C.C.N. on his bicycle \u2014 never slowing, stopping, or even looking back to indicate that his words were an invitation to follow him to his house. Thus, the evidence is insufficient to show that he attempted to lure C.C.N. because it does not show an actual invitation.\n\u00b624 The majority is correct that the statute does not require conduct to elevate words to the level of an invitation. Majority at 108. But it does require an invitation. Thus, if a defendant\u2019s conduct indicates that the words are not an invitation, then there is insufficient evidence to support a luring conviction. Homan\u2019s actions indicate that his words did not mean that he was inviting C.C.N. to his house when Homan spoke while riding past C.C.N. and never slowed down or looked back. The interaction must be viewed as a whole, and the majority improperly focuses on his words in isolation to find sufficient evidence. Given all the circumstances, there was insufficient evidence to support a luring conviction and therefore I dissent on this issue.\n2. We Should Consider the Constitutional Challenge and Hold That the Luring Statute Is Not Unconstitutionally Overbroad\n\u00b625 The majority chooses to remand this case to the Court of Appeals to determine whether the luring statute violates the constitutional protection against overbroad criminal statutes. It chooses this option even though both parties have fully briefed this significant question of law. Though I would hold that Homan\u2019s conviction is not supported by sufficient evidence, I separately disagree with the majority\u2019s choice to remand this important constitutional issue. I would hold that the luring statute is constitutional.\n\u00b626 Statutes are presumed constitutional, and the party challenging a particular statute has the burden to prove that it is unconstitutional. City of Bellevue v. Lee, 166 Wn.2d 581, 585, 210 P.3d 1011 (2009). The United States Supreme Court has articulated the rule for overbreadth challenges as follows:\nThe First Amendment doctrine of overbreadth is an exception to [the] normal rule regarding the standards for facial challenges. The showing that a law punishes a \u201csubstantial\u201d amount of protected free speech, \u201cjudged in relation to the statute\u2019s plainly legitimate sweep,\u201d suffices to invalidate all enforcement of that law, \u201cuntil and unless a limiting construction or partial invalidation so narrows it as to remove the seeming threat or deterrence to constitutionally protected expression.\u201d\nVirginia v. Hicks, 539 U.S. 113, 118-19, 123 S. Ct. 2191, 156 L. Ed. 2d 148 (2003) (citations omitted) (quoting Broadrick v. Oklahoma, 413 U.S. 601, 613, 615, 93 S. Ct. 2908, 37 L. Ed. 2d 830 (1973) and citing U.S. Const, amend. I). Finding a statute to be overbroad is \u201cstrong medicine\u201d and should be used \u201csparingly and only as a last resort.\u201d Broadrick, 413 U.S. at 613.\n\u00b627 The concern is \u201cchilling\u201d otherwise constitutionally protected speech, \u201cespecially when the overbroad statute imposes criminal sanctions.\u201d Hicks, 539 U.S. at 119. \u201c[H]ow-ever, there comes a point at which the chilling effect of an overbroad law, significant though it may be, cannot justify prohibiting all enforcement of that law.\u201d Id. That is particularly true for laws that reflect \u201c \u2018legitimate state interests in maintaining comprehensive controls over harmful, constitutionally unprotected conduct.\u2019 \u201d Id. (quoting Broadrick, 413 U.S. at 615). That is why the amount of potentially protected speech affected by the law must be \u201c \u2018judged in relation to the statute\u2019s plainly legitimate sweep.\u2019 \u201d Id. at 118-19 (quoting Broadrick, 413 U.S. at 615). \u201cThe over-breadth claimant bears the burden of demonstrating, \u2018from the text of [the law] and from actual fact,\u2019 that substantial overbreadth exists.\u201d Id. at 122 (alteration in original) (quoting N. Y State Club Ass\u2019n v. City of New York, 487 U.S. 1, 14, 108 S. Ct. 2225, 101 L. Ed. 2d 1 (1988)). Importantly, \u201cthere must be a realistic danger that the statute itself will significantly compromise recognized\u201d free speech. Members of City Council v. Taxpayers for Vincent, 466 U.S. 789, 801, 104 S. Ct. 2118, 80 L. Ed. 2d 772 (1984).\n\u00b628 The plainly legitimate sweep of RCW 9A.40.090(1) outweighs the concern that legitimate speech may be encroached on by its enforcement. Children and the developmentally disabled are the most vulnerable members of our society, and the luring statute protects them from some of the most evil types of criminal activity, such as child abduction. The State has a very strong interest in protecting its most vulnerable from such attacks. That strong interest must be balanced against the concern that protected speech will be punished or chilled under the law.\n\u00b629 Homan does not meaningfully engage in this necessary balancing. Rather, he offers several absurd examples of potentially affected speech while ignoring the requirement that there must be a \u201crealistic danger\u201d that the statute will curtail protected speech. Id. For example, students will not fear a luring prosecution when inviting other students over to talk about school. See Resp\u2019t\u2019s Second Suppl. Br. at 8. Similarly, an adult would likely drive a critically injured child to the hospital without concern of a luring prosecution. See id. And school bus drivers need not worry that prosecutors will bring luring charges when the driver tells students to \u201chop in\u201d at a bus stop. See id. The statute is not designed to target these innocent interactions. These unrealistic concerns are outweighed by the State\u2019s strong interest in protecting its most vulnerable citizens.\n\u00b630 Additionally, the affirmative defense portion of the statute protects individuals from prosecution for innocent communications with children and the developmentally disabled. It is an affirmative defense to luring if the defendant shows that his or her \u201cactions were reasonable under the circumstances and the defendant did not have any intent to harm the health, safety, or welfare of the minor or the person with the developmental disability.\u201d RCW 9A.40.090(2). Whether or not this section protects the statute from an overbreadth challenge on its own, it weighs on the side of validity because it significantly limits the realistic danger that the luring statute will significantly compromise recognized free speech. Members of City Council, 466 U.S. at 801. Realistically, it is doubtful that the statute significantly compromises free speech. The realities of its application in innocent contexts, taken with the affirmative defense clause, sufficiently protects free speech.\nCONCLUSION\n\u00b631 I would hold that sufficient evidence does not support Homan\u2019s conviction for luring because his conduct indicated that he did not invite C.C.N. into a nonpublic area or structure. I also disagree with the majority\u2019s decision to remand an important question of constitutional law that has been fully briefed to this court. We should consider the overbreadth challenge to the luring statute and hold that the statute is constitutional. I respectfully dissent.\nC. Johnson, J, concurs with Owens, J.\nWhether challenged under the federal or state constitution, the analysis is the same. As this court has said, \u201c[I]n deciding whether [a law] suffers from overbreadth under article I, section 5, our analytical approach aligns with the approach taken under the First Amendment.\u201d Bradburn v. N. Cent. Reg\u2019l Library Dist., 168 Wn.2d 789, 801, 231 P.3d 166 (2010) (citing Wash. Const. art. I, \u00a7 5; U.S. Const, amend. I).",
+        "type": "dissent",
+        "author": "Owens, J."
+      }
+    ],
+    "attorneys": [
+      "Jonathan L. Meyer, Prosecuting Attorney, and Sara I. Beigh, Deputy, for petitioner.",
+      "Jodi R. Backlund {o\u00edBacklund & Mistry), for respondent."
+    ],
+    "corrections": "",
+    "head_matter": "[No. 88339-4.\nEn Banc.]\nArgued January 16, 2014.\nDecided July 31, 2014.\nThe State of Washington, Petitioner, v. Russell David Homan, Respondent.\nJonathan L. Meyer, Prosecuting Attorney, and Sara I. Beigh, Deputy, for petitioner.\nJodi R. Backlund {o\u00edBacklund & Mistry), for respondent."
+  },
+  "file_name": "0102-01",
+  "first_page_order": 144,
+  "last_page_order": 158
+}

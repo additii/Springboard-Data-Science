@@ -1,0 +1,59 @@
+{
+  "id": 12457161,
+  "name": "State, Respondent, v. Brooks, Petitioner",
+  "name_abbreviation": "State v. Brooks",
+  "decision_date": "2016-06-29",
+  "docket_number": "No. 92829-1",
+  "first_page": "1040",
+  "last_page": "1040",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "185 Wash. 2d 1040"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Wash.",
+    "id": 9029,
+    "name": "Washington Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 38,
+    "name_long": "Washington",
+    "name": "Wash."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 23,
+    "char_count": 170,
+    "ocr_confidence": 0.882,
+    "sha256": "dc803f837d941f241b7787eb09c96b56d6ec93f7de7497f0fba814f6fe4712f2",
+    "simhash": "1:0099ca7b1f454dc4",
+    "word_count": 27
+  },
+  "last_updated": "2023-07-14T23:00:48.670033+00:00",
+  "provenance": {
+    "date_added": "2019-05-22",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "State, Respondent, v. Brooks, Petitioner,"
+    ],
+    "opinions": [
+      {
+        "text": "Petition for review of a decision of the Court of Appeals, No. 46899-9-II, January 20, 2016. Denied June 29, 2016.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "State, Respondent, v. Brooks, Petitioner,\nNo. 92829-1."
+  },
+  "file_name": "1040-01",
+  "first_page_order": 992,
+  "last_page_order": 992
+}

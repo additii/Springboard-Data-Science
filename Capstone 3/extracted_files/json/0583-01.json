@@ -1,0 +1,243 @@
+{
+  "id": 1357171,
+  "name": "Bank of Dyer v. Cole",
+  "name_abbreviation": "Bank of Dyer v. Cole",
+  "decision_date": "1923-03-19",
+  "docket_number": "",
+  "first_page": "583",
+  "last_page": "586",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "157 Ark. 583"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [
+    {
+      "cite": "127 Ark. 450",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "122 Ark. 460",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "46 Ark. 70",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1890504
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/46/0070-01"
+      ]
+    },
+    {
+      "cite": "128 Ark. 180",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1581939
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/128/0180-01"
+      ]
+    },
+    {
+      "cite": "76 Ark. 261",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1501015
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/76/0261-01"
+      ]
+    },
+    {
+      "cite": "59 Ark. 463",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "140 Ind. 393",
+      "category": "reporters:state",
+      "reporter": "Ind.",
+      "case_ids": [
+        1631485
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ind/140/0393-01"
+      ]
+    },
+    {
+      "cite": "141 N. W. 566",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "175 Mich. 414",
+      "category": "reporters:state",
+      "reporter": "Mich.",
+      "case_ids": [
+        1672520
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mich/175/0414-01"
+      ]
+    },
+    {
+      "cite": "59 Ark. 460",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1327680
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/59/0460-01"
+      ]
+    },
+    {
+      "cite": "34 Ark. 530",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "48 Ark. 419",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1887753
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/48/0419-01"
+      ]
+    },
+    {
+      "cite": "134 Ark. 161",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1573315
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/134/0161-01"
+      ]
+    },
+    {
+      "cite": "35 Ark. 470",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1873848
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/35/0470-01"
+      ]
+    },
+    {
+      "cite": "30 Ark. 657",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1881124
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/30/0657-01"
+      ]
+    },
+    {
+      "cite": "127 Ark. 438",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1550260
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/127/0438-01"
+      ]
+    },
+    {
+      "cite": "122 Ark. 457",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1558175
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/122/0457-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 439,
+    "char_count": 7155,
+    "ocr_confidence": 0.53,
+    "pagerank": {
+      "raw": 1.2240919645422112e-07,
+      "percentile": 0.6004788310052053
+    },
+    "sha256": "08b85c1ee25d84c870c1b98efe10ebc6b54903132304271ce02647c4e135369d",
+    "simhash": "1:812a550242fe7c9b",
+    "word_count": 1239
+  },
+  "last_updated": "2024-02-27T20:13:54.858580+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Bank of Dyer v. Cole."
+    ],
+    "opinions": [
+      {
+        "text": "Humphreys, J.\nThe questions presented for determination on this appeal grow out of a contest between appellant and appellee, J. H. Cole, as to the priority of mortgages held by each on the lands of J. F. Davidson.\nOn the 17th day of October, 1917, J. F. Davidson and his wife, B. Davidson, executed a mortgage on the following described real estate in Crawford County, Arkansas, to-wit: W\u00bd NW, 35-10-30, 80 acres; W\u00bd NW SW, 35-10-30, 20 acres; W\u00bd SW SW, 35-10-30, 20 acres, to J. H. Cole to secure a note dated October 17, 1917, for $6,000, which was immediately recorded, and upon which $4,967.63 was due May 5, 1922, the day judgment was rendered in this case.\nOn the 5th day of May, 1921, the Davidsons executed a mortgage to appellant to secure , two notes, one for $885.85 and the other for $3,600, upon the following described real estate in Crawford County, Arkansas, to-wit: W\u00bd NW\u00bc, W\u00bd NW\u00bc SW\u00bc, and W\u00bd SW\u00bc SW\u00bc, all in section 35, township 10 north, range 30 west. The mortgage was recorded May 27, 1921. On the 5th day of May, 1922, the day judgment was rendered in this case, $4,734.02 was due upon the mortgage.\nIn the mortgage executed, by the Davidsons to J. H. Cole the $6,000 note was described as follows: \u201cWhereas, the said J. F. Davidson and B. Davidson are justly indebted unto the said J. II. Cole in the sum of six thousand and no/100 dollars, evidenced by a promissory note of even date for six thousand dollars, with interest from date at the rate of ten per -cent, per annum, if interest be not paid at interest paying time to become principal and bear the same rate of interest.\u201d The note was not stamped with an internal revenue stamp, and appellant objected to its introduction in evidence for that reason, which objection was overruled by the court.\nThe trial court rendered a judgment against J. F. Davidson in favor of appellant and appellee, J. H. Cole, for t'he respective amounts due them, and decreed a foreclosure of the lands to pay same, but declared the mortgage lien of J. H. Cole prior and paramount to that of appellant.\nAppellant contends that the court erred in giving preference to the lien of said appellee for three reasons. First, that the description of the lands in the Cole mortgage Was indefinite; second, that t'he $6,000 note was not sufficiently described in the mortgage; third, that the note was not admissible in evidence because it had not been stamped -with an internal revenue stamp.\nThe objection made to the description of the lands was that the words \u201csection\u201d before 35, \u201ctownship\u201d before 10, and \u201crange\u201d before 30, must be inferred in order to definitely describe the lands. We do not think the certainty of the description was dependent upon mere inference. The lands were described as being in Crawford County, Arkansas. The calls in the first part of each description referred unmistakably to United States Grovernment surveys. In government surveys lands are described as being in -sections, townships and ranges in the order mentioned. It is a necessary implication therefore that the figures 35-10-30, used in connection with government surveys, mean section 35, township 10, range 30. The base line is south and the meridian line east of Crawford County, so the lands are situated necessarily in township 10 north, range 30 west. We do not think a surveyor would have any trouble in locating the lands from the description in the mortgage.\nThe $6,000 note was sufficiently identified in the mortgage. The date and amount were given, together with the interest it bore. The only requirement is that the description be sufficient to put interested parties upon inquiry, which, when followed up, will inform them of the extent of the incumbrance. Word v. Cole, 122 Ark. 457; Blackburn v. Thompson, 127 Ark. 438.\nThe note was admissible in evidence without being stamped. The act of Congress of October 3, 1917, did not require notes to be stamped until the first day of December of that year. 40 U. S. Stat. 319. The Stamp Act of Congress of 1914 was repealed by an.act of Congress of October 3, 1916, and the clause in the Stamp Act of. 1898, making unstamped notes inadmissible in evidence, had long since been repealed by implication.\nNo error appearing, the decree is affirmed.",
+        "type": "majority",
+        "author": "Humphreys, J."
+      }
+    ],
+    "attorneys": [
+      "James B. McDonough, for appellant.",
+      "Starbird & Starbird, for appellee Cole."
+    ],
+    "corrections": "",
+    "head_matter": "Bank of Dyer v. Cole.\nOpinion delivered March 19, 1923.\n1. Mortgages \u2014 description of land. \u2014 As government lands are described as being in section, township and range, a mortgage which describes the lands conveyed as being in Crawford County, Arkansas, and as being a certain subdivision of 35-10-30, being used in reference to the government surveys, undoubtedly means section 35 in \"township 10 north, range 30 west.\n2. Mortgages \u2014 identification of indebtedness secured. \u2014 The only requirement in the description of an indebtedness' secured by mortgage being that it be sufficient to put interested parties on inquiry, a note was sufficiently identified in a mortgage where the debt was described as evidenced by a promissory note of even date for $600 with interest from date at the rate of 10 per cent, per annum.\n3. Evidence \u2014 unstamped note. \u2014 An unstamped promissory note dated October 17, 1917, was admissible in evidence; the act of Congress of October 3, 1917, not requiring notes to be stamped till December 1, 1917.\nAppeal from Crawford Chancery Court; J. V. Bourland, Chancellor;\naffirmed.\nJames B. McDonough, for appellant.\nDescription of land mortgaged to appellee Cole is void for uncertainty. Fuller v. Fellows, 30 Ark. 657; Hotoell v. Rye, 35 Ark. 470; Peters v. Priest, 134 Ark. 161. There w!as no effort to introduce testimony to show description in Cole mortgage could be corrected, and, it being imperfect, appellant\u2019s mortgage constituted a \u2022superior lien. Adams v. Edgerton, 48 Ark. 419; C. & M. Dig., \u00a7 1381 and cases. Deeds held void for insufficient description of lands. Jack v. Chaff\u00e9e, 34 Ark. 530; Howell v. Bye, 35 Ark. 470; Adams v. Edgerton, 48 Ark. 419; Cooper v. Lee, 59 Ark. 460. Appellant\u2019s mortgage contains a correct description of the lands and is a first lien on the 120 acres. Hamilton v. Ogre, 10 Kan. A. 241; Hartigan v. Hoffman, 47 Pac. (Wash.) 217; Miller v. Beardsley, 175 Mich. 414, 141 N. W. 566. Note of appellant not sufficiently described in mortgage. Bowen v. Ratcliff, 140 Ind. 393. Was inadmissible, not being stamped as required by U. S. Revenue Act. Sec. 9, act of Congress 1914; 38 IT. S. Statutes, sec. 755, schedule A; Act 1898, 30 U. S. Statutes at Large, sec. 465. Law was in effect on Oct. 17, 1917. Note to sec. 6318 hh 1919 Supp. to IT. S. Compiled Statutes.\nStarbird & Starbird, for appellee Cole.\nDescription of land in mortgage' sufficient. Cooper v. Lee, 59 Ark. 463. Little Bock By. C'o. v. Evins, 76 Ark. 261; Bucker v. Ark. L. <& T. Co., 128 Ark. 180. Note also sufficiently described. 27' Cyc. 1095. Curtis v. Flinn, 46 Ark. 70; Wood v. Cole, 122 Ark. 460; Blackburn v. Thompson, 127 Ark. 450. No stamp was required to be put on note made Oct. 17, 1917. Other laws repealed, and act of 1917 does not require notes stamped made before Dec. 1, 1917. Act Oct. 3, 1917, .sec. 800. 40 IT. S. Statutes, 319. Decree should be affirmed."
+  },
+  "file_name": "0583-01",
+  "first_page_order": 605,
+  "last_page_order": 608
+}

@@ -1,0 +1,76 @@
+{
+  "id": 12462981,
+  "name": "State, Respondent, v. Barnes, Petitioner",
+  "name_abbreviation": "State v. Barnes",
+  "decision_date": "2016-12-07",
+  "docket_number": "No. 93510-6",
+  "first_page": "1030",
+  "last_page": "1030",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "186 Wash. 2d 1030"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Wash.",
+    "id": 9029,
+    "name": "Washington Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 38,
+    "name_long": "Washington",
+    "name": "Wash."
+  },
+  "cites_to": [
+    {
+      "cite": "195 Wn. App. 1008",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        12454290,
+        12454291,
+        12454292
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/195/1008-01",
+        "/wash-app/195/1008-02",
+        "/wash-app/195/1008-03"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 31,
+    "char_count": 218,
+    "ocr_confidence": 0.866,
+    "sha256": "43f4c4d8e3528a06a0efedf766c22d88b30e0dd9e5f9ae5159edec9bfeaa6097",
+    "simhash": "1:85e1eeb149ed5ded",
+    "word_count": 34
+  },
+  "last_updated": "2024-02-27T18:43:05.207238+00:00",
+  "provenance": {
+    "date_added": "2019-05-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "State, Respondent, v. Barnes, Petitioner,"
+    ],
+    "opinions": [
+      {
+        "text": "Petition for review of a decision of the Court of Appeals, Nos. 47611-8-II, 47171-0-II, and 47621-5-II, July 19, 2016, 195 Wn. App. 1008. Denied December 7, 2016.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "State, Respondent, v. Barnes, Petitioner,\nNo. 93510-6."
+  },
+  "file_name": "1030-04",
+  "first_page_order": 1016,
+  "last_page_order": 1016
+}

@@ -1,0 +1,115 @@
+{
+  "id": 8723843,
+  "name": "Sugg v. Utley",
+  "name_abbreviation": "Sugg v. Utley",
+  "decision_date": "1932-11-28",
+  "docket_number": "4-2749",
+  "first_page": "560",
+  "last_page": "563",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "186 Ark. 560"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [
+    {
+      "cite": "50 S. W. 866",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "66 Ark. 367",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1909809
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/66/0367-01"
+      ]
+    },
+    {
+      "cite": "41 S. W. 55",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "64 Ark. 150",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1907350
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/64/0150-01"
+      ]
+    },
+    {
+      "cite": "31 Ark. 314",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1879289
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/31/0314-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 331,
+    "char_count": 6003,
+    "ocr_confidence": 0.513,
+    "pagerank": {
+      "raw": 9.662170294177528e-08,
+      "percentile": 0.5283452819063968
+    },
+    "sha256": "107983899ac1044096438ac07e9a3bc1cbaa5a9401c8c26210d6e9065c1a7f47",
+    "simhash": "1:ac1b855434e76c24",
+    "word_count": 1054
+  },
+  "last_updated": "2024-02-27T17:52:01.123529+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Sugg v. Utley."
+    ],
+    "opinions": [
+      {
+        "text": "Kibby, J.\nThis appeal challenges the correctness of a decree of foreclosure on certain lands as being erroneous because of an excessive amount recovered and the failure of the court to dismiss the action and render judgment for the amount of taxes paid by appellant under a void tax sale of the lands in accordance with the statute, ^ 3709, 3710, Crawford & Moses\u2019 Digest.\nThe suit was filed August 22, 1931, alleging that on July 23, 1926, the note and mortgage was given to the Pittsburg Mortgage & Investment Company to secure a loan of $2,500 bearing 6 ,per cent, interest from date until maturity, interest payable semi-annually, represented by 14 interest notes to bear 10 per cent, interest after maturity, and reciting that failure to pay any. one at maturity should cause the entire indebtedness to become due and payable. The note and mortgage were made exhibits A and B to the complaint, and had been sold and assigned to the plaintiff before maturity.\nIt was alleged that the interest note for $75, due February 1, 1930, the one for $75 due August 1,1930, and another for $75 due February 1,1931, were past due and unpaid; and that plaintiff elects to declare the entire indebtedness due.\nThe principal note provides: \u201cThat the sums promised to be paid shall bear ten per cent, interest after maturity, whether the same becomes due according to the terms hereof or by reason of default of any payments of principal or interest.\u201d The mortgage recites: \u201cThat the principal note of $2,500 shall bear six per cent, interest until due and, after maturity, eight per cent.\u201d\nThe not\u00e9 is made due and payable 7 years after date; and the mortgage also provides that, if default be made in the payment of the notes when due, the whole indebtedness shall, at the option of the holder, become immediately due and payable.\nA general demurrer was filed but not passed on, and later an answer denying all the allegations of the complaint was filed by appellant.\nThe execution of the note and mortgage, the recording thereof and the assignment to the plaintiff, as alleged, is conceded, as is also the nullity of the State\u2019s proceedings and the deed to appellant, on account of the nonpayment of the taxes. A ppellant paid the State $90 for the deed under the tax sale.\nIt is first insisted that the court erred in not. dismissing this suit for failure to comply with the statute, \u00a7\u00a7 3709, 3710, Crawford & Moses\u2019 Digest, requiring an affidavit of tender of taxes first filed, etc. This assignment of error can be disposed of simply by stating that no motion was made for dismissal of the suit or any objection made to the proceedings therein because of any such failure, and it was a matter which could be waived, and was, in fact, waived by such failure to make timely objection thereto. Spain v. Johnson, 31 Ark. 314; Trigg v. Ray, 64 Ark. 150, 41 S. W. 55. Then, too, this is only a proceeding to foreclose a mortgage on certain lands with an allegation that the tax forfeiture thereon and deed thereunder was void, as the court held them to be.\nNeither was the decree rendered for an excessive amount as claimed. The note contains the following clause:\n\u201cAll sums herein promised to he paid shall hear ten per cent, per annum interest after maturity, payable annually, whether the same becomes due according to the terms hereof or by reason of default of any payment of principal or interest. This clause is preceded by the following acceleration clause: \u201cIf default be made for ten days in the payment of any sum, either principal or interest, after the same becomes due and payable according to the terms thereof, then the whole amount herein promised to be paid shall, at the option of the holder hereof, at once become due and payable.\u201d\nIn that part of the mortgage pertaining to the interest rate after maturity the figure 8 is printed, and, by oversight evidently, was not marked out or erased and the fignre 10 substituted therefor. The note, however, as already recited, provides: \u201cAll sums herein promised to be paid shall bear ten per cent, per annum interest after maturity, payable annually, whether the same becomes due according to the terms hereof or by reason of default of any payment of principal 'or interest.\u201d The provisions of the note would control as against the recite in the mortgage, which is only a security and incident to the debt. 1 Jones on Mortgages (7th ed.), page 484; Farnsworth v. Hoover, 66 Ark. 367, 50 S. W. 866.\nIt is contended that the principal note did not bear an increased rate of interest until the date of its maturity 7 years after date, and then that such increased rate should only be calculated from August 22, 1931, the day suit was filed, to January 11,1932, the date of the decree. The interest was calculated at 10 per cent, from August 1, 1931, the date when the last interest note due became delinquent, and when the principal and other indebtedness was declared due by reason of the default. Under the terms of the contract, it was agreed that all sums promised to be paid should bear interest at 10 per cent, per annum after maturity, whether same became due according to the contract or by reason of the acceleration clause for default made in payment of principal or interest, and the payment of the interest on the principal contract at the increased rate became due upon any default made in payment of principal or interest according to the terms of the contract; and the court did not err in so holding.\nNeither was appellee liable to the payment of the amount of the consideration for the void tax deed from the State attempting to convey the lands. It is conceded that the court properly held the tax forfeiture and deed void, and certainly appellee could not be required to pay such amount, not being bound in the first instance to pay the taxes on the land.\nWe find no error in the record, and the decree is affirmed.",
+        "type": "majority",
+        "author": "Kibby, J."
+      }
+    ],
+    "attorneys": [
+      "Rice >& Ric.e, for appellant.",
+      "J. T. McGill, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Sugg v. Utley.\n4-2749\nOpinion delivered November 28, 1932.\nRice >& Ric.e, for appellant.\nJ. T. McGill, for appellee."
+  },
+  "file_name": "0560-01",
+  "first_page_order": 580,
+  "last_page_order": 583
+}

@@ -1,0 +1,730 @@
+{
+  "id": 6792399,
+  "name": "The State of Washington, Respondent, v. William Michael Reis, Petitioner",
+  "name_abbreviation": "State v. Reis",
+  "decision_date": "2015-05-07",
+  "docket_number": "No. 90281-0",
+  "first_page": "197",
+  "last_page": "218",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "183 Wash. 2d 197"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Wash.",
+    "id": 9029,
+    "name": "Washington Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 38,
+    "name_long": "Washington",
+    "name": "Wash."
+  },
+  "cites_to": [
+    {
+      "cite": "590 F.3d 942",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3504054
+      ],
+      "year": 2009,
+      "pin_cites": [
+        {
+          "page": "948",
+          "parenthetical": "requiring state law enforcement officers to indicate pursuits of violations of federal law in their affidavits, or to seek a search warrant from a federal magistrate, to support a finding of probable cause for the violation of a federal crime"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/590/0942-01"
+      ]
+    },
+    {
+      "cite": "228 P.3d 1",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2010,
+      "opinion_index": 0
+    },
+    {
+      "cite": "168 Wn.2d 1",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4007461
+      ],
+      "year": 2010,
+      "pin_cites": [
+        {
+          "page": "6"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/168/0001-01"
+      ]
+    },
+    {
+      "cite": "682 P.2d 869",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1984,
+      "opinion_index": 0
+    },
+    {
+      "cite": "101 Wn.2d 536",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1139577
+      ],
+      "year": 1984,
+      "pin_cites": [
+        {
+          "page": "545"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/101/0536-01"
+      ]
+    },
+    {
+      "cite": "931 P.2d 885",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "weight": 2,
+      "year": 1997,
+      "opinion_index": 0
+    },
+    {
+      "cite": "131 Wn.2d 309",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1547131
+      ],
+      "year": 1997,
+      "pin_cites": [
+        {
+          "page": "315-16"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/131/0309-01"
+      ]
+    },
+    {
+      "cite": "399 P.2d 8",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1965,
+      "opinion_index": 0
+    },
+    {
+      "cite": "65 Wn.2d 573",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1966249
+      ],
+      "year": 1965,
+      "pin_cites": [
+        {
+          "page": "578"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/65/0573-01"
+      ]
+    },
+    {
+      "cite": "614 P.2d 164",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1980,
+      "opinion_index": 0
+    },
+    {
+      "cite": "94 Wn.2d 1",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1164000
+      ],
+      "year": 1980,
+      "pin_cites": [
+        {
+          "page": "8"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/94/0001-01"
+      ]
+    },
+    {
+      "cite": "25 P.2d 91",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1933,
+      "opinion_index": 0
+    },
+    {
+      "cite": "174 Wash. 402",
+      "category": "reporters:state",
+      "reporter": "Wash.",
+      "case_ids": [
+        867091
+      ],
+      "year": 1933,
+      "pin_cites": [
+        {
+          "page": "408"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash/174/0402-01"
+      ]
+    },
+    {
+      "cite": "104 P.2d 478",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1940,
+      "pin_cites": [
+        {
+          "parenthetical": "\"When referring to what the legislature intended, we must not forget that the governor . . . [is] acting in a legislative capacity, and we cannot therefore consider the intent of the house and the senate apart from the intent of the governor.\""
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "4 Wn.2d 498",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        5280898
+      ],
+      "year": 1940,
+      "pin_cites": [
+        {
+          "page": "506",
+          "parenthetical": "\"When referring to what the legislature intended, we must not forget that the governor . . . [is] acting in a legislative capacity, and we cannot therefore consider the intent of the house and the senate apart from the intent of the governor.\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/4/0498-01"
+      ]
+    },
+    {
+      "cite": "619 P.2d 357",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1980,
+      "pin_cites": [
+        {
+          "parenthetical": "quoting Shelton Hotel Co. v. Bates, 4 Wn.2d 498, 506, 104 P.2d 478 (1940"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "94 Wn.2d 671",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1164067
+      ],
+      "year": 1980,
+      "pin_cites": [
+        {
+          "page": "677",
+          "parenthetical": "quoting Shelton Hotel Co. v. Bates, 4 Wn.2d 498, 506, 104 P.2d 478 (1940"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/94/0671-01"
+      ]
+    },
+    {
+      "cite": "89 P.3d 217",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2004,
+      "opinion_index": 0
+    },
+    {
+      "cite": "151 Wn.2d 359",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        428154
+      ],
+      "year": 2004,
+      "pin_cites": [
+        {
+          "page": "367"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/151/0359-01"
+      ]
+    },
+    {
+      "cite": "243 P.3d 1283",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2010,
+      "pin_cites": [
+        {
+          "parenthetical": "quoting Arborwood Idaho, LLC v. City of Kennewick, 151 Wn.2d 359, 367, 89 P.3d 217 (2004)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "169 Wn.2d 516",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4010031
+      ],
+      "year": 2010,
+      "pin_cites": [
+        {
+          "page": "526",
+          "parenthetical": "quoting Arborwood Idaho, LLC v. City of Kennewick, 151 Wn.2d 359, 367, 89 P.3d 217 (2004)"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/169/0516-01"
+      ]
+    },
+    {
+      "cite": "50 P.3d 638",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2002,
+      "opinion_index": 0
+    },
+    {
+      "cite": "147 Wn.2d 16",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        103696
+      ],
+      "year": 2002,
+      "pin_cites": [
+        {
+          "page": "23"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/147/0016-01"
+      ]
+    },
+    {
+      "cite": "309 P.3d 472",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "weight": 3,
+      "year": 2013,
+      "pin_cites": [
+        {
+          "parenthetical": "explaining that an affirmative defense is necessary only when one's conduct falls outside the specific conduct protected under RCW 69.51A.040"
+        },
+        {
+          "page": "476",
+          "parenthetical": "emphasis added"
+        },
+        {
+          "parenthetical": "emphasis added"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "178 Wn.2d 466",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4298334
+      ],
+      "year": 2013,
+      "pin_cites": [
+        {
+          "page": "478",
+          "parenthetical": "explaining that an affirmative defense is necessary only when one's conduct falls outside the specific conduct protected under RCW 69.51A.040"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/178/0466-01"
+      ]
+    },
+    {
+      "cite": "66 P.3d 1050",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2003,
+      "opinion_index": 0
+    },
+    {
+      "cite": "149 Wn.2d 178",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1292574
+      ],
+      "year": 2003,
+      "pin_cites": [
+        {
+          "page": "187-88"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/149/0178-01"
+      ]
+    },
+    {
+      "cite": "69 P.3d 318",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2003,
+      "opinion_index": 0
+    },
+    {
+      "cite": "149 Wn.2d 444",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1292565
+      ],
+      "year": 2003,
+      "pin_cites": [
+        {
+          "page": "450"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/149/0444-01"
+      ]
+    },
+    {
+      "cite": "237 P.3d 256",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2010,
+      "pin_cites": [
+        {
+          "parenthetical": "\" '[statutes must be interpreted and construed so that all the language used is given effect, with no portion rendered meaningless or superfluous' \" (internal quotation marks omitted) (quoting State v. J.P., 149 Wn.2d 444, 450, 69 P.3d 318 (2003))"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "169 Wn.2d 304",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4010346
+      ],
+      "year": 2010,
+      "pin_cites": [
+        {
+          "page": "309",
+          "parenthetical": "\" '[statutes must be interpreted and construed so that all the language used is given effect, with no portion rendered meaningless or superfluous' \" (internal quotation marks omitted) (quoting State v. J.P., 149 Wn.2d 444, 450, 69 P.3d 318 (2003))"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/169/0304-01"
+      ]
+    },
+    {
+      "cite": "309 P.3d 451",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "weight": 2,
+      "year": 2013,
+      "opinion_index": 0
+    },
+    {
+      "cite": "178 Wn.2d 417",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4298572
+      ],
+      "year": 2013,
+      "pin_cites": [
+        {
+          "page": "424"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/178/0417-01"
+      ]
+    },
+    {
+      "cite": "259 P.3d 190",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2011,
+      "pin_cites": [
+        {
+          "parenthetical": "plurality opinion"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "172 Wn.2d 398",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4017964
+      ],
+      "year": 2011,
+      "pin_cites": [
+        {
+          "page": "423",
+          "parenthetical": "plurality opinion"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/172/0398-01"
+      ]
+    },
+    {
+      "cite": "750 P.2d 258",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1988,
+      "opinion_index": 0
+    },
+    {
+      "cite": "110 Wn.2d 90",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1182911
+      ],
+      "year": 1988,
+      "pin_cites": [
+        {
+          "page": "92"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/110/0090-01"
+      ]
+    },
+    {
+      "cite": "814 P.2d 652",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1991,
+      "pin_cites": [
+        {
+          "parenthetical": "\" 'Words are given the meaning provided by the statute or, in the absence of specific definition, their ordinary meaning.' \" (quoting State v. Standifer, 110 Wn.2d 90, 92, 750 P.2d 258 (1988))"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "117 Wn.2d 263",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1373933
+      ],
+      "year": 1991,
+      "pin_cites": [
+        {
+          "page": "271",
+          "parenthetical": "\" 'Words are given the meaning provided by the statute or, in the absence of specific definition, their ordinary meaning.' \" (quoting State v. Standifer, 110 Wn.2d 90, 92, 750 P.2d 258 (1988))"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/117/0263-01"
+      ]
+    },
+    {
+      "cite": "336 P.3d 1165",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "weight": 2,
+      "year": 2014,
+      "opinion_index": 0
+    },
+    {
+      "cite": "182 Wn.2d 1022",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "year": 2014,
+      "opinion_index": 0
+    },
+    {
+      "cite": "322 P.3d 1246",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "180 Wn. App. 455",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        4186871
+      ],
+      "pin_cites": [
+        {
+          "page": "464"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/180/0455-01"
+      ]
+    },
+    {
+      "cite": "43 P.3d 4",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "weight": 4,
+      "year": 2002,
+      "pin_cites": [
+        {
+          "parenthetical": "as passed by the legislature"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "146 Wn.2d 1",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        960829
+      ],
+      "year": 2002,
+      "pin_cites": [
+        {
+          "page": "9-10"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/146/0001-01"
+      ]
+    },
+    {
+      "cite": "340 P.3d 849",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "weight": 2,
+      "year": 2015,
+      "opinion_index": 0
+    },
+    {
+      "cite": "182 Wn.2d 342",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4075595
+      ],
+      "year": 2015,
+      "pin_cites": [
+        {
+          "page": "350"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/182/0342-01"
+      ]
+    },
+    {
+      "cite": "322 P.3d 1238",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2014,
+      "opinion_index": 0
+    },
+    {
+      "cite": "180 Wn. App. 438",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        4185549
+      ],
+      "year": 2014,
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/180/0438-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1333,
+    "char_count": 36063,
+    "ocr_confidence": 0.774,
+    "pagerank": {
+      "raw": 1.2892763211176874e-07,
+      "percentile": 0.6193940264471017
+    },
+    "sha256": "8ad7da3ad16bbea6113e369a0e726ce8afa46cdc519c41440f768f326d6ecf25",
+    "simhash": "1:fbb462deb49c3e63",
+    "word_count": 5669
+  },
+  "last_updated": "2024-02-27T22:09:01.011694+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Madsen, C.J., and Johnson, Owens, Fairhurst, Stephens, Gonz\u00e1lez, Goedon McCloud, and Yu, JJ., concur."
+    ],
+    "parties": [
+      "The State of Washington, Respondent, v. William Michael Reis, Petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "Wiggins, J.\n\u00b61 William Reis was charged with manufacturing a controlled substance after a search of his home produced evidence of a marijuana grow operation. Reis moved to suppress the results of the search on the ground that the search warrant was invalid, arguing that the 2011 amendments to the Washington State Medical Use of Cannabis Act (MUCA), chapter 69.51A RCW, decriminalized the possession of cannabis for medical use. The trial court denied Reis\u2019s motion to suppress, and the Court of Appeals granted discretionary review and affirmed.\n\u00b62 The 2011 amendments to RCW 69.51A.040 provide in relevant part that the \u201cmedical use of cannabis in accordance with the terms and conditions of this chapter does not constitute a crime ...\u201d (Emphasis added.) One of these \u201cterms and conditions\u201d is that a medical user must be registered with a registry established by section 901 of the 2011 MUCA amendments. RCW 69.51A.040(2), (3). But the governor vetoed section 901, and no registry currently exists. It is thus impossible to register \u201cin accordance with the terms and conditions of this chapter . . .\u201d after the governor\u2019s veto.\n\u00b63 We hold that the plain language of MUCA, supported by the context in which the language appears, the overall statutory scheme, and the legislative intent as captured by the governor\u2019s veto message, does not support the conclusion that the medical use of marijuana is not a crime. Therefore, we affirm the Court of Appeals and remand for trial.\nFACTS\n\u00b64 Detective Thomas Calabrese received an anonymous tip in 2012 from an individual living in the Shorewood area of Burien, informing him that a man named \u201cWilliam\u201d was actively growing marijuana in a house in that neighborhood. The informant, who feared retaliation by Reis, declined to provide any additional information. Calabrese later drove through Shorewood and was able to observe six marijuana plants growing on the back porch of a home. He then observed an individual tending those plants. He noted the address and left.\n\u00b65 Calabrese then asked and was granted permission to use a neighbor\u2019s yard to observe the porch. From this vantage point, Calabrese was able to observe the plants on the porch. He also heard a distinct humming sound coming from the northwest side of the target home and observed black plastic covering the daylight basement window. Calabrese also noticed condensation on this window.\n\u00b66 Leaving his vantage point, Calabrese drove past the target house and noted the license plate number on the vehicle parked in front of the house. A directory search of the plate indicated that the vehicle belonged to William Reis. Calabrese began checking that name and discovered that Reis had been arrested in 2005 for domestic violence. During that arrest, officers discovered a large marijuana grow operation in the basement, as well as a rifle and $18,000 cash hidden in the attic. Additional searches of Reis\u2019s financial records in 2005 connected him to a large marijuana grow operation in California. Calabrese also learned that Reis had been arrested in 2011 for possession of 1.3 grams of marijuana.\n\u00b67 Calabrese obtained Reis\u2019s 2005 booking photo and found that it matched the individual he had observed tending the marijuana plants on the porch. He then returned to Shorewood to interview neighbors in an effort to determine whether Reis was selling or distributing marijuana. However, none of Reis\u2019s neighbors would talk to him. They each asserted that they were afraid of Reis and that they did not want Reis to retaliate against them. One of the neighbors even informed Calabrese that they had purchased a firearm specifically to protect themselves from Reis.\n\u00b68 Calabrese put all of this information in an affidavit of probable cause to support a search warrant of Reis\u2019s home. Judge Eide granted a search warrant, finding probable cause to believe that Reis was violating Washington\u2019s Uniform Controlled Substances Act, chapter 69.50 RCW. A search of Reis\u2019s home pursuant to the search warrant revealed plants, scales, ledgers, sales receipts, and tools indicative of a marijuana grow operation. The search also revealed 37 plants and 210.72 ounces of cannabis.\n\u00b69 The State charged Reis with violating chapter 69.50 RCW, the Uniform Controlled Substances Act. Reis moved to suppress the evidence found in his home, asserting that the search warrant was not supported by probable cause. The trial court denied Reis\u2019s motion to suppress. The trial court granted Reis\u2019s motion for expedited discretionary review in the Court of Appeals and certified this issue for immediate review under RAP 2.3(b)(4) before Reis\u2019s scheduled trial date. The Court of Appeals, Division One, granted discretionary review and held in a published opinion that the authorized use of medical marijuana under RCW 69-.51A.040 does not preclude an officer from searching; compliant use under the statute is an affirmative defense that does not negate probable cause required for a search warrant. State v. Reis, 180 Wn. App. 438, 322 P.3d 1238 (2014). We granted review and now affirm.\nANALYSIS\n\u00b610 This case asks us to determine whether RCW 69-.51A.040, as enacted following Governor Gregoire\u2019s 2011 veto, decriminalizes the medical use of marijuana. In answering this question, we apply well-established principles of statutory interpretation to chapter 69.51A RCW. These principles lead to the conclusion that the medical use of marijuana is not lawful because compliance with RCW 69.51A.040 is currently impossible. Further, we reject Reis\u2019s arguments regarding the effect of the governor\u2019s veto; nothing about the veto process changes our analysis of the enacted statute.\nI. Standard of Review\n\u00b611 We review questions of statutory interpretation de novo. Ass\u2019n of Wash. Spirits & Wine Distribs. v. Wash. State Liquor Control Bd., 182 Wn.2d 342, 350, 340 P.3d 849 (2015). The court discerns legislative intent from the plain language enacted by the legislature, considering the text of the provision in question, the context of the statute in which the provision is found, related provisions, amendments to the provision, and the statutory scheme as a whole. Id. (citing Dep\u2019t of Ecology v. Campbell & Gwinn, LLC, 146 Wn.2d 1, 9-10, 43 P.3d 4 (2002)).\nII. Overview of Washington\u2019s Medical Marijuana Laws\n\u00b612 Marijuana is generally a schedule I unlawful controlled substance, the possession or cultivation of which is prohibited. RCW 69.50.204(c)(22), .401(1). It has maintained this classification by the Washington State Legislature since 1971. RCW 69.50.204(c)(22). Since 1971, the possession, manufacture, and distribution of marijuana has been generally prohibited. See RCW 69.50.401-.455. However, in 1998, the legislature enacted the MUCA, chapter 69.51 A RCW, creating an exception for the medicinal use of marijuana. This exception created an affirmative defense for qualifying patients and designated caregivers who could establish that they complied with the requirements of that chapter. Former RCW 69.51A.040(1) (1998).\n\u00b613 In 2011, the legislature amended MUCA by adopting Engrossed Second Substitute Senate Bill (E2SSB) 5073. The stated purpose of these amendments, as asserted in section 101 (vetoed), was to ensure that\n(a) Qualifying patients and designated providers complying with the terms of this act and registering with the department of health will no longer be subject to arrest or prosecution, other criminal sanctions, or civil consequences based solely on their medical use of cannabis;\n(b) Qualifying patients will have access to an adequate, safe, consistent, and secure source of medical quality cannabis; and\n(c) Health care professionals may authorize the medical use of cannabis in the manner provided by this act without fear of state criminal or civil sanctions.\nE2SSB 5073, \u00a7 101, 62d Leg., Reg. Sess. (Wash. 2011) (as passed by the legislature) (vetoed); see Laws of 2011, ch. 181, \u00a7 101. In order to achieve these goals, the legislature created a two-tiered system of medical exceptions to the general prohibitions on possessing or cultivating marijuana. E2SSB 5073, \u00a7\u00a7 401, 402, 406 (codified as RCW 69.51A.040, .043(1), (2)).\n\u00b614 Section 901 of the bill directed the state Department of Health and the state Department of Agriculture to \u201cadopt rules for the creation, implementation, maintenance, and timely upgrading of a secure and confidential registration system.\u201d Id. \u00a7 901(1). Any established registry was required to allow\n(a) A peace officer to verify at any time whether a health care professional has registered a person as either a qualifying patient or a designated provider; and\n(b) A peace officer to verify at any time whether a person, location, or business is licensed ....\nId. (as passed by the legislature) (vetoed); see Laws of 2011, ch. 181, \u00a7 901. Registration of qualifying patients and designated providers was optional. Registration would place the burden on law enforcement officials to establish that the terms and conditions of the medical marijuana exceptions were not being satisfied. E2SSB 5073, \u00a7 901(4) (vetoed); see RCW 69.51A.040. Once established, the registry would provide registered users heightened protection from arrest, prosecution, criminal sanctions, and civil consequences based solely on their medical use of marijuana. E2SSB 5073, \u00a7 102(2)(a) (codified as RCW 69.51A.005(2)). Otherwise compliant but nonregistered, users were entitled to raise an affirmative defense. Id. \u00a7 402 (codified as RCW 69.51A.043).\n\u00b615 In April 2011, the United States Attorneys for the Eastern and Western Districts of Washington wrote an advisory letter to Governor Gregoire regarding Laws of 2011, chapter 181. This letter explained the Department of Justice\u2019s position on the bill:\n\u201cThe Washington legislative proposals will create a licensing scheme that permits large-scale marijuana cultivation and distribution. This would authorize conduct contrary to federal law and thus, would undermine the federal government\u2019s efforts to regulate the possession, manufacturing, and trafficking of controlled substances. ... In addition, state employees who conducted activities mandated by the Washington legislative proposals would not be immune from liability under the CSA [Controlled Substances Act, 21 U.S.C. ch. 13]. Potential actions the Department could consider include injunctive actions to prevent cultivation and distribution of marijuana and other associated violations of the CSA; civil fines; criminal prosecution; and the forfeiture of any property used to facilitate a violation of the CSA.\u201d\nCannabis Action Coal. v. City of Kent, 180 Wn. App. 455, 464, 322 P.3d 1246 (first alteration in original) (footnote omitted), review granted, 182 Wn.2d 1022, 336 P.3d 1165 (2014). Following receipt of this letter, the governor vetoed 36 sections that would have established and monitored a state licensed medical marijuana registry, including the legislature\u2019s statement of intent in section 101. See Laws of 2011, ch. 181, at 1376 (governor\u2019s veto message). No registry currently exists. However, the governor did not veto sections 401, 402, or 406, reasoning that the latter sections were still meaningful because they \u201cestablish affirmative defenses\u201d and \u201cgovern those who have not registered.\u201d Id. Sections 402 and 406 (codified as RCW 69.51A.043(1) and (2), respectively) establish affirmative defenses for patients who have not registered. Section 401 (codified as RCW 69.51A.040) identifies the requirements for qualifying patients to receive heightened protections, beyond the ability to establish an affirmative defense. As enacted, RCW 69.51A.040 provides heightened protection for qualifying patients and designated providers who, among other things, register with the Department of Health.\nIII. Statutory Interpretation\n\u00b616 RCW 69.51A.040, as passed, does not decriminalize the medical use of marijuana. Instead, the plain language of the statute establishes a limited exception to the general prohibition against marijuana that existed at the time that the search warrant in this case issued. This interpretation is supported by the context in which the statute appears, the statute\u2019s placement within the statutory scheme, and the governor\u2019s veto message accompanying E2SSB 5073. See id. at 1374-76. The legislature may have intended to create heightened protections for qualifying patients who registered. However, because registration is currently impossible, the statute provides qualifying patients with only an affirmative defense until the legislature is able to establish a registry. Therefore, we reject Reis\u2019s argument and affirm the Court of Appeals.\nA. Plain language of the statute\n\u00b617 We begin with the plain language of the statute. As enacted, RCW 69.51A.040 reads in relevant part:\nThe medical use of cannabis in accordance with the terms and conditions of this chapter does not constitute a crime and a qualifying patient or designated provider in compliance with the terms and conditions of this chapter may not be arrested, prosecuted, or subject to other criminal sanctions or civil consequences ... if:\n(2) The qualifying patient or designated provider presents his or her proof of registration with the department of health, to any peace officer who questions the patient or provider . . . ;\n(3) The qualifying patient or designated provider keeps a copy of his or her proof of registration with the registry established in section 901 of this act and the qualifying patient or designated provider\u2019s contact information posted prominently next to any cannabis plants, cannabis products, or useable cannabis located at his or her residence;\n(6) The investigating peace officer has not observed evidence of any of the circumstances identified in [ ]section 901(4) of this act.\n\u00b618 The language of this statute is clear and unambiguous: the medical use of cannabis is not a crime if each of the terms and conditions is complied with by either qualifying patients or designated providers. The terms and conditions are provided for in RCW 69.51A.040, and the terms \u201cqualifying patient\u201d and \u201cdesignated provider\u201d are defined. See RCW 69.51A.010. Because the terms are defined within the statute, we need not look outside the statute to determine their meaning. State v. Smith, 117 Wn.2d 263, 271, 814 P.2d 652 (1991) (\u201c \u2018Words are given the meaning provided by the statute or, in the absence of specific definition, their ordinary meaning.\u2019 \u201d (quoting State v. Standifer, 110 Wn.2d 90, 92, 750 P.2d 258 (1988))). It follows that one who does not satisfy the terms and conditions, or who is not a qualifying patient or a designated provider, is not entitled to the enumerated protections in this statute.\nB. Chapter 69.51A RCW creates an affirmative defense to the general prohibition on marijuana\n\u00b619 The context of the statute supports our plain language interpretation. We interpret laws dealing with the same or similar issues by considering them together. Bainbridge Island Police Guild v. City of Puyallup, 172 Wn.2d 398, 423, 259 P.3d 190 (2011) (plurality opinion). This is particularly relevant when analyzing exceptions \u2014 we do not analyze individual subsections in isolation from the other sections of the statute when doing so would undermine the overall statutory purpose. In re Pers. Restraint of Adams, 178 Wn.2d 417, 424, 309 P.3d 451 (2013).\n\u00b620 The Controlled Substances Act makes it a crime to possess, manufacture, or distribute marijuana in Washington. See RCW 69.50.401-.455. The medical use of marijuana is an exception to this general prohibition, RCW 69.51A-.020. The protections available through this exception vary based on a qualifying patient\u2019s or designated provider\u2019s adherence to the terms and conditions governing the exception. RCW 69.51A.040. In this context, the amended MUCA clearly establishes a tiered system of protections for compliant, qualifying users of medical marijuana: RCW 69.51A-.040 and a series of affirmative defenses for qualifying patients failing the requirements of RCW 69.51A.040. RCW 69.51A.043, .045, .047.\n\u00b621 RCW 69.51A.040 decriminalizes cannabis used for medical purposes in accordance with the statutory scheme. This statute affords the highest level of protections for qualifying patients and designated providers who use cannabis \u201cin accordance with the terms and conditions of this chapter.\u201d RCW 69.51A.040. There are six required \u201cterms and conditions\u201d contained within RCW 69.51A.040. Subsection (1) places limits on the quantity of cannabis that a qualifying patient or designated provider may possess. Subsections (2) and (3) require registration with the Department of Health \u2014 now impossible in light of the governor\u2019s veto \u2014 and require that the patient keep their registration within their home and present it to inquiring investigating officers. Subsections (4), (5), and (6) require that the investigating officer not possess evidence that the qualifying patient or designated provider is converting marijuana for their own use or benefit, or otherwise violating distribution requirements or registration requirements. If a qualifying patient or designated provider complies with all of these requirements, including registration, the use of marijuana \u201cdoes not constitute a crime.\u201d Id.\n\u00b622 RCW 69.51A.043 provides an affirmative defense for the medical use of cannabis. The legislature made the distinction between section .040 and section .043 rest on whether the user was registered in the state registry. RCW 69.51A.040 (expressly requiring registration and display of registration), .043(2) (\u201cA qualifying patient or designated provider who is not registered with the registry . . . may assert an affirmative defense to charges of violations of state law relating to cannabis through proof at trial, by a preponderance of the evidence, that he or she otherwise meets the requirements of RCW 69.51A.040.\u201d).\n\u00b623 Reis argues that this language is ambiguous because \u201cRCW 69.51A.040 decriminalizes the same activity which RCW 69.51A.043 affords an affirmative defense.\u201d But nothing in the text of the statute enacted following the governor\u2019s veto supports this interpretation. Even though there is no registry, we cannot simply read that requirement out of the statute. See G-P Gypsum Corp. v. Dep\u2019t of Revenue, 169 Wn.2d 304, 309, 237 P.3d 256 (2010) (\u201c \u2018[statutes must be interpreted and construed so that all the language used is given effect, with no portion rendered meaningless or superfluous\u2019 \u201d (internal quotation marks omitted) (quoting State v. J.P., 149 Wn.2d 444, 450, 69 P.3d 318 (2003))). By its language, RCW 69.51A.040 decriminalizes activities for individuals who have, among other things, registered with the Department of Health, while RCW 69.51A.043 provides an affirmative defense for those who have not registered.\n\u00b624 An affirmative defense admits the defendant committed a criminal act but pleads an excuse for doing so. State v. Votava, 149 Wn.2d 178, 187-88, 66 P.3d 1050 (2003). Reis\u2019s reading would render RCW 69.51A.043 superfluous \u2014 there is no need for an affirmative defense to provide an excuse for conduct that is not unlawful. See State v. Kurtz, 178 Wn.2d 466, 478, 309 P.3d 472 (2013) (explaining that an affirmative defense is necessary only when one\u2019s conduct falls outside the specific conduct protected under RCW 69.51A.040). Thus, Reis\u2019s argument turns the plain language of the statute on its head: the affirmative defense provisions are essential protections for qualifying patients and designated providers because no one can enjoy the heightened protections of RCW 69.51A.040 in the absence of a registry.\nC. Legislative Intent\n\u00b625 For the reasons discussed above, we hold that chapter 69.51 A RCW provides medical marijuana patients with only an affirmative defense. Reis responds to these plain language arguments by asserting that RCW 69.51A.040 plainly reads, \u201c[T]he medical use of cannabis . . . does not constitute a crime,\u201d citing to our opinion in Kurtz, 178 Wn.2d at 478. He also argues that the codified legislative intent of RCW 69.51A.005 plainly articulates the purpose of the amendment and that our reading should give effect to this purpose.\n\u00b626 Kurtz addressed whether the 2011 amendments to MUCA abrogated the common law medical necessity defense. The court, in holding that the amendments did not abrogate the common law medical necessity defense, stated that \u201cthe legislature amended the Act making qualifying marijuana use a legal use, not simply an affirmative defense.\u201d Id. at 476 (emphasis added). Later in that paragraph, the court repeated that \u201c[t]he 2011 amendment legalizing qualifying marijuana use strongly suggests that the Act was not intended to abrogate or supplant the common law [medical] necessity defense.\u201d Id. (emphasis added). Rather than interpret the statute, these statements mirror the language in RCW 69.51 A.040 that \u201c[t]he medical use of cannabis in accordance with the terms and conditions of this chapter does not constitute a crime.\u201d (Emphasis added.) Because registration is a requirement for qualifying marijuana use under RCW 69.51A.040, Kurtz does not support Reis\u2019s argument.\n\u00b627 Reis also argues that the legislature intended to decriminalize the medical use of marijuana by giving patients heightened protections from searches and arrest. This may be true; however, the legislative intent codified as RCW 69.51A.005 does not trump the plain language of the statute to create an ambiguity. Declarations of intent are not controlling; instead, they serve \u201conly as an important guide in determining the intended effect of the operative sections.\u201d Kilian v. Atkinson, 147 Wn.2d 16, 23, 50 P.3d 638 (2002). This is true even when the codified intent speaks directly to the enacted statute. Here, the governor\u2019s veto struck 36 of the 58 original sections; the legislature\u2019s statement of intent speaks to a statute that was never enacted.\n\u00b628 Though the legislature\u2019s initial intent in passing this statute was never realized, Governor Gregoire articulated her intent for the surviving portions of the amendments in her veto message. See Laws of 2011, ch. 181, at 1374-76 (governor\u2019s veto message). Our \u201c \u2018fundamental objective in construing a statute is to ascertain and carry out the legislature\u2019s intent,\u2019 \u201d Lake v. Woodcreek Homeowner\u2019s Ass\u2019n, 169 Wn.2d 516, 526, 243 P.3d 1283 (2010) (quoting Arborwood Idaho, LLC v. City of Kennewick, 151 Wn.2d 359, 367, 89 P.3d 217 (2004)), and \u201c[i]n approving or disapproving legislation, the Governor acts in a legislative capacity and as part of the legislative branch of government.\u201d Hallin v. Trent, 94 Wn.2d 671, 677, 619 P.2d 357 (1980) (quoting Shelton Hotel Co. v. Bates, 4 Wn.2d 498, 506, 104 P.2d 478 (1940) (\u201cWhen referring to what the legislature intended, we must not forget that the governor . . . [is] acting in a legislative capacity, and we cannot therefore consider the intent of the house and the senate apart from the intent of the governor.\u201d)). Here, the governor\u2019s veto message is the only statement of legislative intent speaking to the removal of the registry from the bill as enacted. The veto message conveys the governor\u2019s recognition that the bill will not provide heightened arrest and seizure protection and that qualifying patients and designated providers will instead be able to assert an affirmative defense. Laws of 2011, ch. 181, at 1374-76 (governor\u2019s veto message).\n\u00b629 Governor Gregoire explained that she decided to veto the registry because she was \u201copen to legislation that establishes a secure and confidential registration system to provide arrest and seizure protections under state law to qualifying patients-\u201d Id. at 1376. This strongly suggests that the governor recognized that this bill would not provide those protections. She then announced that she would veto sections 901 and 902, stating that \u201c[w]ithout a registry, these sections are not meaningful.\u201d Id. However, the governor declined to veto sections 402 and 406; these sections provide an affirmative defense for qualifying patients and designated providers who are not registered. Id. The governor explicitly recognized that these sections remain meaningful without a registry \u201c[b]ecause these sections govern those who have not registered.\u201d Id. Thus, the legislative intent does not support Reis\u2019s argument.\n\u00b630 Applying each of these well-established principles of statutory interpretation leads to the conclusion that RCW 69.51A.040 does not decriminalize the medical use of cannabis. It is currently impossible to comply with each of the requirements in RCW 69.51A.040 because a registry does not currently exist. Following the governor\u2019s veto, chapter 69.51A RCW does not provide for the heightened search and arrest protections that the legislature may have intended. See RCW 69.51A.005(2); E2SSB 5073, \u00a7 101 (vetoed). Instead, qualifying patients and designated providers are provided with an affirmative defense and RCW 69.51A-.040 establishes the elements for raising that defense. The possibility remains that the legislature may yet amend the statute to create a registry; this does not suggest that the current statute has multiple reasonable interpretations. It also does not suggest that the legislature intended to decriminalize marijuana without the benefits of a registry.\nD. We may not modify the plain and unambiguous statutory language\n\u00b631 Despite Reis\u2019s arguments, we do not have the authority to rewrite the statute to provide the enhanced protections that the legislature may have intended had it anticipated the governor\u2019s veto. The court is not permitted to \u201cspeculate as to what the legislature intended, had it foreseen the veto.\u201d Shelton Hotel Co., 4 Wn.2d at 509. Instead, we are left with the statute \u201c \u2018to be considered now just as it would have been if the vetoed provisions had never been written into the bill at any stage of the proceedings.\u2019 \u201d Id. at 506 (quoting State ex rel. Stiner v. Yelle, 174 Wash. 402, 408, 25 P.2d 91 (1933)). Indeed, this situation is analogous to a legislative omission, a situation in which we have long recognized that\nwe do not have the power to read into a statute that which we may believe the legislature has omitted, be it an intentional or an inadvertent omission. . . . [I]t would be a clear judicial usurpation of legislative power for us to correct that legislative oversight.\nState v. Martin, 94 Wn.2d 1, 8, 614 P.2d 164 (1980). It is not this court\u2019s job to remove words from statutes or to create judicial fixes, even if we think the legislature would approve. Statutes that frustrate the purpose of others, though perhaps unintentionally, are \u201cpurely a legislative problem.\u201d State ex rel. Hagan v. Chinook Hotel, Inc., 65 Wn.2d 573, 578, 399 P.2d 8 (1965). Until the legislature amends the statute or creates a registry, the MUCA provides qualifying patients with only an affirmative defense.\nIV. The Veto Does Not Undermine Our Analysis of the Enacted Statute\n\u00b632 This statutory analysis has interpreted the relative statutes as if the legislature had written the statutes as they were enacted following the governor\u2019s veto. Nothing about the governor\u2019s veto changes the way we interpret these statutes.\n\u00b633 The governor\u2019s veto power, broadly construed since the territorial days, has evolved over time. See generally Wash. State Legislature v. Lowry, 131 Wn.2d 309, 315-16, 931 P.2d 885 (1997). Initially, the governor\u2019s veto extended to full bills, sections of bills, and items in bills. Wash. Const. of 1889, art. Ill, \u00a7 12. This power was limited by the 62nd amendment in 1974. Lowry, 131 Wn.2d at 316. Today, the Washington Constitution confers on the governor general veto authority over legislation and a different \u201cline item\u201d veto power over \u201cappropriation items\u201d:\nIf any bill presented to the governor contain several sections or appropriation items, he may object to one or more sections or appropriation items ... Provided, That he may not object to less than an entire section, except that if the section contain one or more appropriation items he may object to any such appropriation item or items.\nWash. Const, art. Ill, \u00a7 12 (amend. 62). Thus, under the general veto power exercised in this case, the governor may veto a whole bill or a section of a bill but cannot veto individual items or lines in bills. Id.\n\u00b634 Governor Gregoire lawfully vetoed 36 of the 58 sections of chapter 181. Laws of 2011, ch. 181, at 1376 (governor\u2019s veto message). She vetoed section 901, which would have established and monitored a state-licensed medical marijuana registry, but did not veto references to section 901 in the amended MUCA. As a result of the governor\u2019s choice not to veto references to the registry, these references remain in the bill, codified as chapter 69.51A RCW. Therefore, we must analyze the effect that Governor Gregoire\u2019s veto has on the remaining references to the vetoed sections. Specifically, we must address the references to a state registry.\n\u00b635 The governor\u2019s veto completely removes the vetoed material from the legislation. Hallin, 94 Wn.2d at 677. The act is \u201c \u00a3to be considered now just as it would have been if the vetoed provisions had never been written into the bill at any stage of the proceedings.\u2019 \u201d Shelton Hotel Co., 4 Wn.2d at 506 (quoting State ex rel. Stiner, 174 Wash, at 408). Reis relies on these cases, as well as Washington Federation of State Employees v. State, 101 Wn.2d 536, 545, 682 P.2d 869 (1984), to argue that we must disregard not only the vetoed provisions themselves but also all remaining references to the vetoed sections. But this case differs from Hallin, Shelton Hotel Co., and Washington Federation in one major way: in those cases, the disregarded language was actually vetoed; in this case, the references to the registry were never vetoed from RCW 69.51A.040. Since the references to section 901 were not vetoed from RCW 69.51A.040, we cannot disregard them. Accordingly, we reject Reis\u2019s argument that the medicinal use of cannabis is no longer a crime.\n\u00b636 Contrary to Reis\u2019s assertions, Washington Federation does not require this court to strike references to vetoed legislation. Washington Federation concerned a challenge to Governor Spellman\u2019s veto of Substitute House Bill 1226, 47th Leg., 1st Ex. Sess., ch. 53, at 511 (Wash. 1982). Id. at 538. The veto explicitly removed section 30 and all references to that section. Id. The petitioner in Washington Federation argued that the removal of the related items was a line item veto in violation of article III, section 12 of the Washington State Constitution. Id. In rejecting that argument, this court held:\nThe veto of Governor Spellman was of an entire section and was valid. The deleted references to section 30 were incidentally vetoed purely as a ministerial act. If not deleted, the code reviser, pursuant to RCW 1.08.015(2)(m), would have taken out such \u201cmanifestly obsolete\u201d references.\nId. at 544. Thus, Washington Federation permitted the incidental veto by the executive branch of individual line items, despite the general prohibitions of Washington Constitution article III, section 12 (amend. 62). Id. It does not address whether a court must evaluate and disregard individual items of legislation that reference a vetoed section when those items survived the governor\u2019s veto. We decline to read these requirements out of the statute when they were not actually vetoed by the governor.\n\u00b637 Governor Gregoire\u2019s veto message carefully and deliberately distinguishes between references that \u201care not meaningful\u201d and those that \u201cremain meaningful\u201d following her veto of the registry. But even if we believed that the governor overlooked these particular references, we do not have the power to edit the language of the enacted statute. In exercising the veto power, the governor is acting in a legislative capacity. Shelton Hotel Co., 4 Wn.2d at 506. This court does not have the authority to read language out of a statute, even when we believe that the statute contains errors or inadvertent omissions. Cf. Martin, 94 Wn.2d at 8 (court does not have the power to \u201cread into a statute that which we may believe the legislature has omitted, be it an intentional or an inadvertent omission\u201d ). The governor\u2019s veto did not eliminate the statutory language requiring registration in RCW 69.51A.040, and we cannot eliminate that language ourselves. We instead must limit our interpretation to the enacted statute; we therefore regard \u201cthe excised material... as though it had never been written by the legislature.\u201d Hallin, 94 Wn.2d at 678.\nV. Lawfulness of the Search Warrant\n\u00b638 We hold that the search was valid because the plain language of the statute and the legislative intent as expressed in the governor\u2019s veto message lead to the conclusion that a user or possessor of cannabis may raise only an affirmative defense under MUCA. Reis concedes that the possibility of proving the affirmative defense does not undermine probable cause for a search warrant. State v. Fry, 168 Wn.2d 1, 6, 228 P.3d 1 (2010).\nCONCLUSION\n\u00b639 We affirm the Court of Appeals and remand for trial consistent with this opinion.\nMadsen, C.J., and Johnson, Owens, Fairhurst, Stephens, Gonz\u00e1lez, Goedon McCloud, and Yu, JJ., concur.\nCalabrese\u2019s affidavit did not allege a violation of federal law, and the record does not suggest that he was pursuing a violation of federal law. Therefore, the sole question on appeal is whether Calabrese had probable cause of a violation of state law. See United States v. $186,416.00 in U.S. Currency, 590 F.3d 942, 948 (9th. Cir. 2009) (requiring state law enforcement officers to indicate pursuits of violations of federal law in their affidavits, or to seek a search warrant from a federal magistrate, to support a finding of probable cause for the violation of a federal crime).\nThe \u201cterms and conditions\u201d of RCW 69.51A.040(l)(a)(i) that render the medical use of marijuana legal require that a qualifying patient or designated provider possess no more than 15 marijuana plants and no more than 24 ounces of useable cannabis.\nRAP 2.3(b)(4) provides for discretionary review when \u201c[t]he superior court has certified ... that the order involves a controlling question of law as to which there is substantial ground for a difference of opinion and that immediate review of the order may materially advance the ultimate termination of the litigation.\u201d\nReis concedes the search was valid if we conclude that chapter 69.51 A RCW provides only an affirmative defense. This opinion does not discuss the propriety of the search because we hold that the statute provides qualifying patients and designated providers with only an affirmative defense.\nInitiative Measure 502, approved in November 2012, legalized the possession of small amounts of marijuana. The initiative was not in effect when this search warrant issued, and the parties agree that the initiative has no bearing on this case. We do not consider or analyze the initiative in this opinion.\nRCW 69.51A.005(2) reads as follows:\nTherefore, the legislature intends that:\n(a) Qualifying patients with terminal or debilitating medical conditions who, in the judgment of their health care professionals, may benefit from the medical use of cannabis, shall not be arrested, prosecuted, or subject to other criminal sanctions or civil consequences under state law based solely on their medical use of cannabis, notwithstanding any other provision of law;\n(b) Persons who act as designated providers to such patients shall also not be arrested, prosecuted, or subject to other criminal sanctions or civil consequences under state law, notwithstanding any other provision of law, based solely on their assisting with the medical use of cannabis ....",
+        "type": "majority",
+        "author": "Wiggins, J."
+      }
+    ],
+    "attorneys": [
+      "Kurt E. Boehl and Stephanie J. Boehl (of KB Law Group PLLC), for petitioner.",
+      "Daniel T Satterberg, Prosecuting Attorney, and James M. Whisman, Deputy, for respondent."
+    ],
+    "corrections": "",
+    "head_matter": "[No. 90281-0.\nEn Banc.]\nArgued February 10, 2015.\nDecided May 7, 2015.\nThe State of Washington, Respondent, v. William Michael Reis, Petitioner.\nKurt E. Boehl and Stephanie J. Boehl (of KB Law Group PLLC), for petitioner.\nDaniel T Satterberg, Prosecuting Attorney, and James M. Whisman, Deputy, for respondent."
+  },
+  "file_name": "0197-01",
+  "first_page_order": 251,
+  "last_page_order": 272
+}

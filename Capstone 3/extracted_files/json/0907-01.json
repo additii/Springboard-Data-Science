@@ -1,0 +1,597 @@
+{
+  "id": 1428215,
+  "name": "Missouri State Life Insurance Company v. Martin",
+  "name_abbreviation": "Missouri State Life Insurance v. Martin",
+  "decision_date": "1934-02-19",
+  "docket_number": "4-3365",
+  "first_page": "907",
+  "last_page": "923",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "188 Ark. 907"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [
+    {
+      "cite": "58 S. W. (2d) 199",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "187 Ark. 49",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1432045
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/187/0049-01"
+      ]
+    },
+    {
+      "cite": "232 N. W. 848",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "202 Wis. 470",
+      "category": "reporters:state",
+      "reporter": "Wis.",
+      "case_ids": [
+        8693832
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wis/202/0470-01"
+      ]
+    },
+    {
+      "cite": "186 Ark. 198",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        8719793
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/186/0198-01"
+      ]
+    },
+    {
+      "cite": "49 S. W., (2d) 364",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "185 Ark. 660",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1435072
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/185/0660-01"
+      ]
+    },
+    {
+      "cite": "53 S. W. (2d) 10",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.2d",
+      "opinion_index": 1
+    },
+    {
+      "cite": "190 Pac. 366",
+      "category": "reporters:state_regional",
+      "reporter": "P.",
+      "opinion_index": 1
+    },
+    {
+      "cite": "61 A. L. R. 840",
+      "category": "reporters:specialty",
+      "reporter": "A.L.R.",
+      "opinion_index": 1
+    },
+    {
+      "cite": "164 N. E. 628",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.",
+      "opinion_index": 1
+    },
+    {
+      "cite": "200 Ind. 472",
+      "category": "reporters:state",
+      "reporter": "Ind.",
+      "case_ids": [
+        1503365
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/ind/200/0472-01"
+      ]
+    },
+    {
+      "cite": "215 S. W. 672",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 1
+    },
+    {
+      "cite": "140 Ark. 313",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1594402
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/ark/140/0313-01"
+      ]
+    },
+    {
+      "cite": "217 S. W. 462",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 1
+    },
+    {
+      "cite": "140 Ark. 612",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1594393
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/ark/140/0612-01"
+      ]
+    },
+    {
+      "cite": "226 Mo. App. 143",
+      "category": "reporters:state",
+      "reporter": "Mo. App.",
+      "case_ids": [
+        1842545
+      ],
+      "weight": 2,
+      "opinion_index": 1,
+      "case_paths": [
+        "/mo-app/226/0143-01"
+      ]
+    },
+    {
+      "cite": "299 S. W. 995",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 1
+    },
+    {
+      "cite": "175 Ark. 565",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1403643
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/ark/175/0565-01"
+      ]
+    },
+    {
+      "cite": "83 A. L. R. 384",
+      "category": "reporters:specialty",
+      "reporter": "A.L.R.",
+      "opinion_index": 1
+    },
+    {
+      "cite": "69 A. L. R. 331",
+      "category": "reporters:specialty",
+      "reporter": "A.L.R.",
+      "opinion_index": 1
+    },
+    {
+      "cite": "61 A. L. R. 846",
+      "category": "reporters:specialty",
+      "reporter": "A.L.R.",
+      "opinion_index": 1
+    },
+    {
+      "cite": "14 A. L. R. 986",
+      "category": "reporters:specialty",
+      "reporter": "A.L.R.",
+      "opinion_index": 1
+    },
+    {
+      "cite": "43 F. (2d) 517",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1784136
+      ],
+      "year": 1930,
+      "pin_cites": [
+        {
+          "page": "520"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/f2d/43/0517-01"
+      ]
+    },
+    {
+      "cite": "124 So. 817",
+      "category": "reporters:state_regional",
+      "reporter": "So.",
+      "year": 1929,
+      "opinion_index": 1
+    },
+    {
+      "cite": "98 Fla. 1044",
+      "category": "reporters:state",
+      "reporter": "Fla.",
+      "case_ids": [
+        1302450
+      ],
+      "year": 1929,
+      "opinion_index": 1,
+      "case_paths": [
+        "/fla/98/1044-01"
+      ]
+    },
+    {
+      "cite": "233 N. Y. S. 500",
+      "category": "reporters:state",
+      "reporter": "N.Y.S.",
+      "year": 1929,
+      "opinion_index": 1
+    },
+    {
+      "cite": "133 Misc. 780",
+      "category": "reporters:state",
+      "reporter": "Misc.",
+      "case_ids": [
+        788339
+      ],
+      "year": 1929,
+      "opinion_index": 1,
+      "case_paths": [
+        "/misc/133/0780-01"
+      ]
+    },
+    {
+      "cite": "318 Mo. 363",
+      "category": "reporters:state",
+      "reporter": "Mo.",
+      "case_ids": [
+        8734858
+      ],
+      "weight": 2,
+      "opinion_index": 1,
+      "case_paths": [
+        "/mo/318/0363-01"
+      ]
+    },
+    {
+      "cite": "265 Pac. 400",
+      "category": "reporters:state_regional",
+      "reporter": "P.",
+      "year": 1928,
+      "opinion_index": 1
+    },
+    {
+      "cite": "89 Cal. App. 779",
+      "category": "reporters:state",
+      "reporter": "Cal. App.",
+      "case_ids": [
+        2116518
+      ],
+      "year": 1928,
+      "opinion_index": 1,
+      "case_paths": [
+        "/cal-app/89/0779-01"
+      ]
+    },
+    {
+      "cite": "17 F. (2d) 370",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1690814
+      ],
+      "year": 1927,
+      "opinion_index": 1,
+      "case_paths": [
+        "/f2d/17/0370-01"
+      ]
+    },
+    {
+      "cite": "252 S. W. 976",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "year": 1923,
+      "opinion_index": 1
+    },
+    {
+      "cite": "89 So. 418",
+      "category": "reporters:state_regional",
+      "reporter": "So.",
+      "year": 1921,
+      "opinion_index": 1
+    },
+    {
+      "cite": "82 Fla. 128",
+      "category": "reporters:state",
+      "reporter": "Fla.",
+      "case_ids": [
+        1281822
+      ],
+      "year": 1921,
+      "opinion_index": 1,
+      "case_paths": [
+        "/fla/82/0128-01"
+      ]
+    },
+    {
+      "cite": "14 A. L. R. 983",
+      "category": "reporters:specialty",
+      "reporter": "A.L.R.",
+      "year": 1921,
+      "opinion_index": 1
+    },
+    {
+      "cite": "112 Atl. 859",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "year": 1921,
+      "opinion_index": 1
+    },
+    {
+      "cite": "95 N. J. Law 533",
+      "category": "reporters:state",
+      "reporter": "N.J.L.",
+      "case_ids": [
+        8864810
+      ],
+      "year": 1921,
+      "opinion_index": 1,
+      "case_paths": [
+        "/njl/95/0533-01"
+      ]
+    },
+    {
+      "cite": "58 S. W. (2d) 199",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.2d",
+      "opinion_index": 1
+    },
+    {
+      "cite": "187 Ark. 49",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1432045
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/ark/187/0049-01"
+      ]
+    },
+    {
+      "cite": "186 Ark. 198",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        8719793
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/ark/186/0198-01"
+      ]
+    },
+    {
+      "cite": "47 S. Ct. 764",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "opinion_index": 2
+    },
+    {
+      "cite": "274 U. S. 750",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "opinion_index": 2
+    },
+    {
+      "cite": "112 A. 859",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "opinion_index": 2
+    },
+    {
+      "cite": "147 N. E. 156",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.",
+      "weight": 2,
+      "opinion_index": 2
+    },
+    {
+      "cite": "57 A. L. R. 625",
+      "category": "reporters:specialty",
+      "reporter": "A.L.R.",
+      "opinion_index": 2
+    },
+    {
+      "cite": "40 A. L. R. 1176",
+      "category": "reporters:specialty",
+      "reporter": "A.L.R.",
+      "opinion_index": 2
+    },
+    {
+      "cite": "57 A. L. R. 622",
+      "category": "reporters:specialty",
+      "reporter": "A.L.R.",
+      "weight": 2,
+      "opinion_index": 2
+    },
+    {
+      "cite": "61 A. L. R. 840",
+      "category": "reporters:specialty",
+      "reporter": "A.L.R.",
+      "weight": 2,
+      "opinion_index": 2
+    },
+    {
+      "cite": "164 N. E. 628",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.",
+      "opinion_index": 2
+    },
+    {
+      "cite": "200 Ind. 472",
+      "category": "reporters:state",
+      "reporter": "Ind.",
+      "case_ids": [
+        1503365
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/ind/200/0472-01"
+      ]
+    },
+    {
+      "cite": "215 S. W. 672",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 2
+    },
+    {
+      "cite": "140 Ark. 313",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1594402
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/ark/140/0313-01"
+      ]
+    },
+    {
+      "cite": "299 S. W. 995",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "weight": 2,
+      "opinion_index": 2
+    },
+    {
+      "cite": "175 Ark. 565",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1403643
+      ],
+      "weight": 2,
+      "opinion_index": 2,
+      "case_paths": [
+        "/ark/175/0565-01"
+      ]
+    },
+    {
+      "cite": "61 A. L. R. 846",
+      "category": "reporters:specialty",
+      "reporter": "A.L.R.",
+      "opinion_index": 2
+    },
+    {
+      "cite": "14 A. L. R. 986",
+      "category": "reporters:specialty",
+      "reporter": "A.L.R.",
+      "opinion_index": 2
+    },
+    {
+      "cite": "14 A. L. R. 983",
+      "category": "reporters:specialty",
+      "reporter": "A.L.R.",
+      "year": 1921,
+      "opinion_index": 2
+    },
+    {
+      "cite": "95 N. J. Law 533",
+      "category": "reporters:state",
+      "reporter": "N.J.L.",
+      "case_ids": [
+        8864810
+      ],
+      "year": 1921,
+      "opinion_index": 2,
+      "case_paths": [
+        "/njl/95/0533-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1097,
+    "char_count": 30656,
+    "ocr_confidence": 0.494,
+    "pagerank": {
+      "raw": 3.4194152742293783e-07,
+      "percentile": 0.8785386715596161
+    },
+    "sha256": "9dadb3abc52bbedce413dc044ab589695a3af4b2d61dedf3ccaf5f22d7b3555b",
+    "simhash": "1:71bb822d502d8cf7",
+    "word_count": 5283
+  },
+  "last_updated": "2024-02-27T23:51:14.545434+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Missouri State Life Insurance Company v. Martin."
+    ],
+    "opinions": [
+      {
+        "text": "Kirby, J.,\n(after stating the facts). There is but one question involved in this appeal, viz., whether the death of the insured under the circumstances herein resulted from an accident covered by the double indemnity provision of the policy which excepts bodily injuries received \u201cfrom participation in aviation or submarine, operations.\u201d\nAviation is defined in Funk & Wagnall\u2019s Dictionary as follows: \u201cAviation- \u2014 -is the art of flying, especially the management of aeroplanes.\u201d\n\u201cParticipation\u201d is defined in Webster\u2019s Dictionary as follows: 1. The state of sharing in common with others. 2. The act or state of receiving or having a part of something. 3. Distribution or division into shares.\nIt has been held that it was not necessary for one to have mechanical control over a plane in order to participate in its operation, but, when one imposes and enforces his judgment in the venture or about-an undertaking solely for his purpose, he is effectively participating in the operation of the plane. First Nat. Bank of Chattanooga v. Phoenix Mut. Life Ins. Co., 62 Fed. (2d) 681.\nIt appears here, however, that there was no contractual relation between the pilot of the plane and the insured, and no expectation of a fare to be paid and collected for the trip, the insured being an invited guest only, and not a passenger, and it cannot be said that insured received the injuries from which he died \u201cfrom participation in aviation operations,\u201d within the meaning of the terms of the policy, and is thereby excluded from its coverage.\nThe contract of insurance was ambiguous and susceptible to more than one reasonable construction, and the one most favorable to the insured should be adopted. Travelers\u2019 Protective Ass\u2019n v. Stephens, 185 Ark. 660, 49 S. W., (2d) 364; National Life Ins. Co. v. Whitfield, 186 Ark. 198; Gits v. N. Y. Life Ins. Co., 32 Fed. (2d) 7; Charette v. Prudential Ins. Co., 202 Wis. 470, 232 N. W. 848.\nNo error was committed in allowing attorney\u2019s fee and the statutory penalty, since the entire sum contracted to be paid under the rider in the policy was recovered herein, and the appellee was therefore entitled to a judgment for the penalty and a reasonable attorney\u2019s fee, \u2018 \u2018 and the fact that the company believes it has a meritorious defense, and in good faith defends the case does not excuse it from the application of the statute.\u201d Life & Casualty Ins. Co. of Terin. v. McCray, 187 Ark. 49, 58 S. W. (2d) 199.\nWe find no error in the record, and the judgment is affirmed.",
+        "type": "majority",
+        "author": "Kirby, J.,"
+      },
+      {
+        "text": "Butler, J.,\n(supplemental opinion on rehearing). To sustain the contention that the death of the insured resulted from an accident within exemption from liability within the meaning of the terms of the policy, counsel for appellant refer us to the following cases: Bew v. Travelers\u2019 Ins. Co., 95 N. J. Law 533, 112 Atl. 859, 14 A. L. R. 983; Travelers\u2019 Ins. Co. v. Peek, 82 Fla. 128, 89 So. 418 (1921); Meredith v. Bus. Men\u2019s Acc. Co., (Mo.) 252 S. W. 976 (1923); Pittman v. Lamar Life Ins. Co., 17 F. (2d) 370 (1927); Tierney v. Occ. Life Ins. Co., 89 Cal. App. 779, 265 Pac. 400 (1928); Wendorff v. Mo. St. Life Ins. Co., 318 Mo. 363, 1 S. W. (2d) 99 (1927); Gits v. N. Y. Life Ins. Co., 32 Fed. (2d) 7 (1929); Peters v. Prudential Ins. Co., 133 Misc. 780, 233 N. Y. S. 500 (1929); Price v. Prudential Ins. Co., 98 Fla. 1044, 124 So. 817 (1929); Head v. N. Y. Life, 43 F. (2d) 517, 520 (1930); First Natl. Bk. v. Phoenix Co., (C. C. A.) 62 Fed. (2d) 681. We are also referred to the notes assembled in 14 A. L. R. 986; 61 A. L. R. 846; 69 A. L. R. 331; 83 A. L. R. 384, and to the case of Benefit Ass\u2019n v. Hayden, 175 Ark. 565, 299 S. W. 995. In their'brief for rehearing, the following additional authorities are cited in support of their contention: Irwin v. Prudential Ins. Co., 5 Fed. Supp. 382, February 19, 1934; Goldsmith v. New York Life, 69 Fed. (2d) 273; 6 Couch\u2019s Enc. Ins. Law, p. 1252; 6 Cooley\u2019s Briefs on Ins., (2d ed.) p. 5309.\nCounsel for the appellant admit that where the words \u201cengaged in aviation\u201d are used in the exempting' clause of a policy, the exemption from liability will not apply to the case of a mere passenger, but they contend, on the authorities cited, that the words \u201cparticipate in aviation\u201d are to be distinguished from \u201cengaged in aviation\u201d and are sufficiently broad in their meaning to include any one riding in an aeroplane whether as a pilot or a passenger only. Upon an examination of the cases cited, we find those most nearly sustaining the contention are Bew v. Travelers\u2019 Ins. Co.; Travelers\u2019 Ins. Co. v. Peek, and Meredith v. Bus. Men\u2019s Acc. Co., supra. In the first mentioned case the applicable clause is as follows: \u201cThe insurance hereunder shall not cover * * * injuries, fatal or non-fatal, sustained by the insured while participating in, or in consequence of having participated in, aeronautics.\u201d The insured was killed while a passenger in an airplane. After quoting the definition of the word \u201caeronautics\u201d given by the Ency. Britt, \u201caeronautics is the art or practice of sailing in, or navigating, the air,\u201d the court held that there was nothing in the definition to confine it to- those active in piloting air vessels and to exclude those who are inactive users thereof. The court also quoted from the Standard Dictionary the definition of the word \u201cparticipate\u201d as meaning, \u201cto receive or have a part or share of; to partake of; experience in common with others; to have or enjoy a part or share in common with others; partake; as to participate in a discussion; to take a part in; as to participate in joys or sorrows.\u201d Prom these definitions it was the conclusion of the court that one who is a passenger in an aeroplane partakes of the pleasure and benefits of the art or practice of sailing in the air and thereby participates in aeronautics. In reaching* this conclusion, the court, however, appears to have given no effect to one of the definitions, supra, vis, \u201cto take part in.\u201d\nIn Travelers\u2019 Ins. Co. v. Peek, supra, the court had before it a contract similar to that in the Bew case and based its decision solely on the authority of the latter case. In Meredith v. Bus. Men\u2019s Acc. Co., supra, the court followed the views expressed in the Bew and Peek cases without any further elucidation.\nA number of cases discussing the meaning of the words \u201cengaged in aeronautics\u201d used in the policies under consideration profess to find a distinction between the meaning of that term and \u201cparticipating in aeronautics,\u201d but give no particular reason for the discovery of the difference. Thus, in Price v. Prudential Ins. Co., supra, the court merely says, \u201c'Being engaged in aviation operations means taking part in the operations of an airplane in some direct way other than merely participating in aeronautics by being in an airplane while it is in the air\u201d; and, in Flanders v. Benefit Ass\u2019n, 226 Mo. App. 143, 42 S. W. (2d) 973, the court found that \u201cengaged\u201d involved the idea of continuity of action and contented itself with stating the difference between \u201cengaged in\u201d and \u201cparticipating in\u201d in the following way: \u201cIt means that one must take part in the operation of the airplane in some way other than merely participating in flying.\u201d So also, in Head v. New York Life Ins. Co., supra, a distinction is stated without giving the reason why.\nThe distinction thought by the courts to exist between \u201cengage in aeronautics\u201d and \u201cparticipation in aviation\u201d may be apparent to, and approved by, those learned in the niceties of the language and accustomed to its precise use, but it is to be doubted whether these hair-splitting and subtle distinctions would occur to, or be understood by, the majority of the thousands of persons who seek insurance against the many hazards to life and limb which are likely to occur to the most prudent and fortunate. Words and phrases used in insurance policies should be construed by their meaning as used in the ordinary speech of the people and not as understood by scholars.\nIt might well be imagined that if the average tradesman, artisan or farmer, although he had many times taken passage on a railroad train and intended again soon to do so, if asked if he had participated, or intended to participate, in railroading, would at once answer, \u201cNo\u201d; and, if then asked if he had engaged in, or intended to engage in, railroading, would reply, \u201cI have just told you, \u2018No\u2019.\u201d It might well be assumed that to his mind the word \u201cparticipate\u201d in the connection used in the question would imply some action, some \u201ctaking part in\u201d the movement of the trains, the upkeep of the property, or management of its business. He likely would not think that by the question was meant to learn if he had, or intended merely \u201cto have, enjoy, or share in common with others \u2019 \u2019 the privilege of being transported as a passenger on the lines of railway companies.\nIt is interesting, however, to note that in these cases and others which discover a distinction between \u201cengaged in\u201d and \u201cparticipate in,\u201d the courts, when they abandon the role of the \u201cprecisian\u201d and discuss the case in the language of the ordinary person, they sometimes use the words \u201cengaged\u201d and \u201cparticipate\u201d or \u201cparticipation\u201d as conveying a similar idea. In the case of Peters v. Prudential Ins. Co., supra, in discussing the word \u201cengaged\u201d the court said: \u201cIt gives the impression of participation as an occupation.\u201d In Benefit Ass\u2019n v. Hayden, supra, the court found for the beneficiary, saying: \u201cThe proper construction of those words (engaged in) is that actual employment or participation was contemplated and not merely riding as a passenger.\u201d This case followed the case of Benham v. Insurance Co., 140 Ark. 612, 217 S. W. 462, where the court defined the word \u201cengaged\u201d as denoting action, thus: \u201cIt means to take part in.\u201d This is precisely one of the meanings of the word \u201cparticipate\u201d which is apparent from the etymology of the word: \u201cParticipate \u2014 a word coming from the Latin words \u2018pars,\u2019 a part, and \u2018capio,' to take,\u201d therefore meaning to take part in. 6 Words & Phrases, p. 5185.\nAs defined by the leading lexicographers, \u201caviation\u201d is a more exact and specific term than \u201caeronautics\u201d and means \u201cthe art or science of locomotion by means of aeroplanes.\u201d Webster. It might appear that if aviation is the science of locomotion by aeroplane and the word \u201cparticipate\u201d means \u201cto take part in,\u201d the phrase \u201cparticipate in aviation\u201d would connote an active share in its management; as, where a person of First Nat. Bank v. Phoenix, supra, where he owned the plane and had authority to, and did, direct the pilot as to when he should make the flight. It would seem that this interpretation of the phrase \u201cparticipate in aviation\u201d is not wholly unjustified. We pass this question, however, without deciding it because it is unnecessary to do so under the language of the exemption clause in the contract before us which is dissimilar to that of any of the cases denying the right to recover relied on by learned counsel.\nAs noted in the Bew, Peek and Meredith cases, the phrase in the exemption clause was \u201cparticipating in aeronautics. \u2019 \u2019 In Benefit Ass\u2019n v. Hayden, and Flanders v. Benefit Ass\u2019n, supra, the phrase was \u201cengaged in aeronautics.\u201d In Peters v. Prudential Ins. Co., supra, it was \u201cengaged in aviation.\u201d In Wendorff v. Mo. State Life Ins. Co., supra, the applicable exemption phrase is \u201cwhile on or in any mechanical device for aerial navigation.\u201d In Gits v. N. Y. Life, supra, the phrase was, \u201cengaged in submarine or aeronautic operations,\u201d and in First Nat. Bank v. Phoenix, supra, it was \u201cparticipation in aeronautic operations.\u201d\nIn the cases cited, the phrase quoted above from the last case named is the one most similar to the. phrase used in the contract involved in the instant case, but in that case the insured, when killed, was not a mere passenger. The court thus found his relationship to the flight: \u2018 \u2018 Though the insured was not personally piloting the plane, the venture was his, initiated and undertaken solely for his purposes. He owned the plane, employed a pilot to operate it, determined whether weather conditions would permit of the flight and when it should be made. We agree with the lower court that one who interposes and enforces his judgment in matters so vital as these to the flight of an aeroplane is participating in aeronautic operations.\u201d\nWe have examined the additional authorities cited by counsel in their brief on rehearing, except that of Goldsmith v. New York Life Ins. Co., supra, to which we do not have access. In Irwin v. Prudential Ins. Co., supra, the exempting phrase is, \u201cfrom having been engaged in military or naval service, or in aviation, or submarine operations.\u201d The facts were that the insured was killed by the crash of a glider, a device for aerial transport, while he was riding as a pilot and the sole occupant. While the operation of gliders was not his regular business, it was an avocation in which he frequently indulged. He was killed on October 23, 1931, and had flown a glider during the two preceding years approximately 203 times. Under these facts, the court held that he was engaged in aviation within the meaning of the policy and denied recovery.\nIn the page of Couch\u2019s Cyc. Ins. Law, cited supra, there is this statement: \u201cA passenger in an aeroplane flying in the air, whether he takes part in the operation of the plane or not, is participating in aeronautics within the intent and meaning\u2019 of a provision in an insurance policy specifically excepting such a risk.\u201d For authority for this statement the author cites one Arkansas case\u2014 that of Sov. Camp W. O. W. v. Compton, 140 Ark. 313, 215 S. W. 672. This case does not support the text. The question there was whether an exemption of liability, where the insured \u201cengaged in aviation,\u201d was applicable, if the insured were killed while flying as an army aviator. It was the holding of the court that the exemption clause referred to private occupation and not to those of the same character performed while in military service.\nThe doctrine announced in Cooley\u2019s Brief, supra, was that under a policy exempting from liability while \u201cengaged in aviation\u201d excluded recovery where the. insured was killed while flying in the air, whether piloting or riding as a passenger, and for authority for this the author cites Masonic Acc. Ins. Co. v. Jackson, a case from one of the. Indiana courts of appeal, reported in 147 N. E. at page 156. This case is against the weight of authority and also is not authority in Indiana, as it was superseded in the same case by a decision of the Supreme Court of Indiana, reported in 200 Ind. 472, 164 N. E. 628, 61 A. L. R. 840.\nThe double indemnity clause in the instant case excepts the insurance company from liability for \u201cbodily injuries received while engaged in military or naval se.rvice in time of war, or for participation in aviation or submarine operations.\u201d It is the word \u201coperations\u201d which distinguishes this exemption from those relied upon by counsel for the appellant and which creates the ambiguity referred to in the original opinion. Counsel for appellant erroneously contend that because the language relied upon does not create a forfeiture of the policy, but simply states a risk which was never assumed, the rule that the language of the phrase involved should be strictly construed \u2014 and, where ambiguous, against the insurance company \u2014 has no application. The rule of strict construction applies to exemption from liability as well as to forfeitures. Irwin v. Prudential Ins. Co.; Wendorff v. Mo. State Life Ins. Co., supra; Wilson v. Trav. Ins. Co., 183 Calif. 183, 190 Pac. 366; National Life Ins. Co. v. Whitfield, 186 Ark. 198, 53 S. W. (2d) 10.\nIt may be, as argued by counsel, that if the word \u201caviation\u201d is intended to qualify the word \u201coperations,\u201d the phrase is not in accord with grammatical rules, and, to be correct under those rules, some adjective form of the word aviation should have been used. The word \u201caviation\u201d is of comparatively recent origin, and we know of no adjective term for it yet formulated. It is used indiscriminately as a noun and as an adjective, just as the word \u201csubmarine.\u201d The use of the word \u201ceither\u201d after \u201cor\u201d is frequently implied (see Webster\u2019s Dict.) and it is not an unreasonable construction to say that \u201coperations\u201d is limited by both aviation and submarine participation. At least, this is an interpretation which the ordinary person, not skilled in the niceties of grammatical construction, might give to it. It will be noticed that no comma is used after the word \u201caviation,\u201d and this is an additional reason for concluding that it as well as submarine was intended to refer to and limit the word operations.\nIn Peters v. Prudential Ins. Co., supra, the phrase, \u201cfrom having been engaged in aviation or submarine operations or military or naval service in time of war\u201d was held to be ambiguous, and that it might not include death resulting to a passenger in an airplane in time of peace. It was the contention of the plaintiff that the exception intended to apply only to an accidental death occurring while engaged in aviation in time of war. The court found this construction a reasonable one when the punctuation employed was considered. It pointed out that the use of\u2019a comma after the word \u201caviation\u201d and one after the word \u201coperations\u201d would clearly show that the insurer intended to limit the expression \u201cin time of war\u201d to the last antecedent, but, having omitted it, it might be inferred that the danger from aviation excepted from the risk was only that occurring in time of war, and, as the phrase was ambiguous, the construction most favorable to the insured should be placed upon it, since the insurer chose the language and was responsible for its ambiguity.\nThe ambiguity and doubt as to the exact meaning of the phrase involved in the instant case is emphasized by the ease with which the insurer could have made its meaning clear, as was done in the contracts under consideration in Head v. New York Life Ins. Co.; Pittman v. Lamar Life Ins. Co., and Tierney v. Occ. Life Ins. Co., supra. In these cases the limitation was for injury while \u201cparticipating as a passenger or otherwise in aviation or aeronautics.\u201d It would not have been difficult for the insurer to have clearly informed the insured that it would not be liable for his death while riding or being in a plane either as a passenger or otherwise; but, having elected to use general expressions which might mean one thing or another, the ambiguity thus created must be resolved against it.\nThe effect of the word \u201coperations\u201d in connection with the phrase \u201cparticipation in aviation\u201d necessarily limits the scope of the meaning of the word \u201cparticipation,\u201d and, though the word \u201cparticipate,\u201d standing alone, might denote activities not included in the narrow compass of \u201cengaged in,\u201d when the effect of the word \u201coperations\u201d is considered, (which can only mean the management and control of the airplane) it becomes more apparent that \u201cparticipation\u201d is to be considered in its active sense and viewed as the equivalent of \u201cengaged in.\u201d\nThe question of penalty and attorney\u2019s fees is ruled by the recent case of Life & Casualty Ins. Co. of Term. v. McCray, 187 Ark. 49, 58 S. W. (2d) 199, the holding of which was affirmed by the Supreme Court of the United States on the 5th day of March, 1934. We reaffirm the conclusion reached in the original opinion and overrule the petition for rehearing.",
+        "type": "rehearing",
+        "author": "Butler, J.,"
+      },
+      {
+        "text": "Smith, J.,\n(dissenting). The original opinion states that the facts in this case are undisputed. And so they are. The insured, who paid no fare, was invited by an amateur aviator to fly with him from Augusta, Arkansas, to St. Louis, Missouri. They did not reach their destination, as the plane \u201ccrashed and struck the ground,\u201d killing the insured. The insured had no control over the plane, but it occurs to me that neither this fact nor the failure to pay fare affected the hazard of the journey.\nThe original opinion cited only one case to support the conclusion announced that the insured was not participating in aviation at the time of his death, this being the case of First National Bank v. Phoenix Mutual Life Ins. Co., 62 Fed. (2d) 681. The headnote in that case reads as follows: \u201cInsurer held not liable under double indemnity provision 'excepting death from \u2018participation in aeronautics operations,\u2019 where insured was killed while passenger in aeroplane. \u2019 \u2019 It requires no argument to show that this case affords no support for the conclusion announced.\nThe labored supplemental opinion on rehearing is equally unconvincing to me, and I therefore respectfully dissent. Quotations appearing in this opinion from a number of cases there cited show clearly that they do not support the conclusions which the majority have reached. These cases are brushed aside with the observation that they are hair-splitting and appeal only to the grammarian and the precisian.\nIt is a wise and just rule of construction, and one of universal application, that all doubt, or any ambiguity, as to the meaning of an insurance policy is resolved against the insurer, for the reason, often stated, that the language expressing or limiting the liability insured against is carefully chosen by the insurer. But the rule is equally as well established, and is equally as wise-and as just, that courts may not create ambiguities by strained constructions which would not otherwise be found to exist. Insurance policies are to be construed like other contracts, where their meaning plainly appe\u00e1rs, and it has never been questioned that insurers may assume and insure against some risks and exempt themselves from liability for others.\nThe courts \u2014 all of them \u2014 are reluctant to permit insurance companies to forfeit their policies, upon which premiums have been paid, especially upon purely technical grounds, but there is no question of forfeiture in this case. The question is rather whether we shall search for an ambiguity whereby, when it has been found, the insurer may be held liable for a risk from which, in my opinion, it has expressly exempted itself.\nInsurance companies first undertook to exempt themselves from liability to persons \u201cengaged in aviation or aeronautics,\u201d but when some of the courts followed our opinion in the case of Benefit Ass\u2019n v. Hayden, 175 Ark. 565, 299 S. W. 995, 57 A. L. R. 622, and held that a passenger having no control over the machine in which he flew was not \u201cengaged in aviation or aeronautics,\u201d the companies writing insurance of this character attempted to clarify their exemption by providing that they should not be liable to persons \u201cparticipating in aviation.\u201d The. distinction appears to be invisible to the majority, but it is one which has been recognized by a line of decisions previously unbroken.\nThe exemption existing in the policy here sued on is not merely against the aviator flying the machine, but it is against all persons participating in aviation. Can it be true that the aviator is in any more danger than his passenger? Is not the hazard as great in the one case as in the other? Now, the majority say that a different result would have been reached had the exemption from liability read \u201cwhile participating as a passenger or otherwise in aviation or aeronautics.\u201d Why so? This is not broader than the language employed. The insurer attempted to exempt itself from liability to the insured from injuries received \u201cfrom participation in aviation or submarine operations,\u201d not merely as a passenger, but at all. There is no qualification as to- the extent of the participation. If the tradesman, artisan or farmer, to whom the majority refer, had promised his wife, before leaving home, that he would not participate in aviation while gone, he would probably have had trouble convincing her, upon his return, that he had kept his word, if he admitted that a part or all of his journey had been made in a flying machine. But the cases uniformly distinguish between engaging in aviation and participating in aviation. In pointing out this distinction the Supreme Court of Indiana, in the case of Masonic Accident Insurance Co. v. Jackson, 200 Ind. 472, 164 N. E. 628, 61 A. L. R. 840, said: \u201cTo say that one is \u2018engaged\u2019 in an occupation signifies much more than the doing of one act in the line of such occupation.\u201d (Citing cases.) Further reference will be made to this case, as it appears to have afforded the majority some support for their conclusion.\nI might defer to the majority if the text writers on insurance had not construed the numerous cases on the question here under consideration just as I do.\nFor instance, at \u00a7 1252 of Couch\u2019s 'Cyclopedia of Insurance Law, vol. 6, the author says: \u201cSection 1252. Death or injury while participating or engaging in aeronautics, aviation, etc. A passenger in an aeroplane flying in the air, whether he takes part in the operation of the plane or not, is \u2018participating in aeronautics,\u2019 within the intent and meaning of a provision of an insurance policy specifically excepting such a risk.\u201d\nThe majority inadvertently say that Sovereign Camp W. O. W. v. Compton, 140 Ark. 313, 215 S. W. 672, is the only ease cited, and that it does not support the text. On the contrary, the annotated cases reported in 14 A. L. R. 986; 40 A. L. R. 1176; 57 A. L. R. 625; and 61 A. L. R. 846, are cited in note 1 to the paragraph above quoted, and these annotated cases collect innumerable cases on the subject. Note 2 to this paragraph cites cases from California, Florida, Missouri and New Jersey in addition to the Arkansas case.\nThe majority quote from Cooley\u2019s Briefs on Insurance, but treat the quotation as being without authority because it was based upon the decision of an inferior court of Indiana, which has been superseded by a later decision of the Supreme Court of that State. This statement is as unfortunate as was the reference to Couch\u2019s Cyclopedia of Insurance Law, supra. I give the exact statement from Cooley\u2019s Briefs on Insurance, (vol. 6, 2d ed., page 5309). It reads as follows: \u201cWhere insured died from injuries received while riding as passenger in aeroplane, there could he no recovery on a policy which excepted death or disability while \u2018engaged in aviation, \u2019 that phrase meaning the act of flying in the air in machine heavier than air, whether piloting or riding as passenger (Masonic Acc. Ins. Co. v. Jackson, (Ind. App.) 147 N. E. 156). A passenger in an airplane was \u2018participating\u2019 in \u2018aeronautics\u2019 within the meaning of a provision in an insurance policy providing that it should not cover any person or injuries, fatal or nonfatal, sustained by insured while participating in aeronautics (Bew v. Travelers\u2019 Ins. Co., 95 N. J. Law 533, 112 A. 859, 14 A. L. R. 983).\u201d Numerous cases are cited in the note to this text which fully support it.\nThis Indiana case was first decided by \u201cAppellate Court of Indiana, \u2019 \u2019 and is reported in 147 N. E. 156. The headnote \u2014 and the only one \u2014 to that case reads as follows: \u201cWhere insured died from injuries received while riding as passenger in aeroplane, beneficiary held not entitled to recover on policy which excepted death or disability while \u2018engaged in aviation,\u2019 that phrase meaning the act of flying in the air in machine heavier than air, whether piloting or riding as passenger.\u201d It will be observed that the exemption contained in the policy there construed was from, death or disability while \u201cengaged in aviation.\u201d This case reached the Supreme Court of Indiana and is the case to which I have previously referred to as being reported in 61 A. L. R. 840. The Supreme Court of Indiana quoted at length from our case of Benefit Ass\u2019n R. R. Employees v. Hayden, 175 Ark. 565, 299 S. W. 995, 57 A. L. R. 622, and appears to have adopted its reasoning, but, as appears from the. language already quoted from that opinion, the Supreme Court of Indiana recognized the distinction between being engaged in aviation and participating in aviation. The annotator, in his note to this case, says: \u201cThese cases make a distinction between \u2018engaged\u2019 in aviation and \u2018participating\u2019 in aviation or aeronautics, and proceed upon theory that to be \u2018engaged\u2019 in aviation imports something more than (as expressed in the latter ease) \u2018occasional participation\u2019.\u201d\nIn the late work of Richards on the Law of Insurance (4th ed.), at page 660, it is said: \u201cA construction urged upon the courts, but consistently refused is, that one participates only when he is physically active in the management and control of an instrument or agency and that the word \u2018aeronautics\u2019 is necessarily descriptive of an occupation. Such a construction would give too narrow a meaning to both words. The Standard Dictionary defines \u2018participate\u2019 as meaning \u2018to receive or have a part or share of; to partake of; experience in common with others; to have or enjoy a part or share in common with others; partake; as to participate in a discussion.\u2019 Nothing in the definition, or in the common use of the word confines it to those who are active in navigating balloons or aeroplanes and to exclude those who are inactive occupants of such vessels.\u201d\nIn Vance on Insurance, (2d ed.), page 901, \u00a7 269, it is said: \u201cIf the policy excepts the risk of the insured \u2018while participating in aeronautics,\u2019 his injury or death on account of riding as a passenger in an aeroplane is generally held to be within the exception, but not so if the language of the exception is \u2018while engaged in aviation\u2019.\u201d\nIn the case of Pittman v. Lamar Life Ins. Co., 17 Fed. (2d) 370, the Circuit Court of Appeals for the Fifth Circuit held (to quote the syllabus in that case) that: \u201cAssured, killed when struck by airplane propeller blade as he was leaving ship after completing flight, held to have met his death while participating in an \u2018aeronautic activity, \u2019 within the meaning of provision of policy limiting insurer\u2019s liability to premiums paid.\u201d A petition for a writ of certiorari in this case was denied by the Supreme Court of the United States. 274 U. S. 750, 47 S. Ct. 764. It is apparent that this case goes much farther than I am now contending in the instant case, as the insured had not operated the airplane which killed him, after he had gotten out of it.\nInasmuch as the text writers on the subject of insurance construe the adjudged cases as I do, I am constrained to register my dissent.",
+        "type": "dissent",
+        "author": "Smith, J.,"
+      }
+    ],
+    "attorneys": [
+      "Allen May, J. R. Burcham, Charles D. Frierson and Charles Frierson, Jr., for appellant.",
+      "J. Ford Smith and W. J. Fungan, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Missouri State Life Insurance Company v. Martin.\n4-3365\nOpinion delivered February 19, 1934.\nAllen May, J. R. Burcham, Charles D. Frierson and Charles Frierson, Jr., for appellant.\nJ. Ford Smith and W. J. Fungan, for appellee."
+  },
+  "file_name": "0907-01",
+  "first_page_order": 925,
+  "last_page_order": 941
+}

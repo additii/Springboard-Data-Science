@@ -1,0 +1,78 @@
+{
+  "id": 12457170,
+  "name": "State, Respondent, v. Asbach, Petitioner",
+  "name_abbreviation": "State v. Asbach",
+  "decision_date": "2016-08-03",
+  "docket_number": "No. 92936-0",
+  "first_page": "1041",
+  "last_page": "1041",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "185 Wash. 2d 1041"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Wash.",
+    "id": 9029,
+    "name": "Washington Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 38,
+    "name_long": "Washington",
+    "name": "Wash."
+  },
+  "cites_to": [
+    {
+      "cite": "192 Wn. App. 1056",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        12456305,
+        12456306,
+        12456307,
+        12456308
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/192/1056-01",
+        "/wash-app/192/1056-02",
+        "/wash-app/192/1056-03",
+        "/wash-app/192/1056-04"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 27,
+    "char_count": 187,
+    "ocr_confidence": 0.855,
+    "sha256": "4ae193597ccd5e7623872ad85bfb086b19bf42c9ecc62525dc7ac7619e2b298d",
+    "simhash": "1:1899ea39194542f5",
+    "word_count": 31
+  },
+  "last_updated": "2024-02-28T00:06:59.447104+00:00",
+  "provenance": {
+    "date_added": "2019-05-22",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "State, Respondent, v. Asbach, Petitioner,"
+    ],
+    "opinions": [
+      {
+        "text": "Petition for review of a decision of the Court of Appeals, No. 46865-4-II, March 1, 2016, 192 Wn. App. 1056. Denied August 3, 2016.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "State, Respondent, v. Asbach, Petitioner,\nNo. 92936-0."
+  },
+  "file_name": "1041-02",
+  "first_page_order": 993,
+  "last_page_order": 993
+}

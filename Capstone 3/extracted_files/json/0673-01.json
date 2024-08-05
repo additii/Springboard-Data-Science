@@ -1,0 +1,2158 @@
+{
+  "id": 12456851,
+  "name": "The State of Washington, Respondent, v. Nakia Lee Otton, Petitioner",
+  "name_abbreviation": "State v. Otton",
+  "decision_date": "2016-06-09",
+  "docket_number": "No. 91669-1",
+  "first_page": "673",
+  "last_page": "702",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "185 Wash. 2d 673"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Wash.",
+    "id": 9029,
+    "name": "Washington Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 38,
+    "name_long": "Washington",
+    "name": "Wash."
+  },
+  "cites_to": [
+    {
+      "cite": "60 P.3d 1234",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2003,
+      "pin_cites": [
+        {
+          "parenthetical": "same"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "115 Wn. App. 29",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        221850
+      ],
+      "year": 2003,
+      "pin_cites": [
+        {
+          "page": "48",
+          "parenthetical": "same"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/115/0029-01"
+      ]
+    },
+    {
+      "cite": "79 P.3d 473",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2003,
+      "pin_cites": [
+        {
+          "parenthetical": "same"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "119 Wn. App. 157",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        1349975
+      ],
+      "year": 2003,
+      "pin_cites": [
+        {
+          "page": "161-62",
+          "parenthetical": "same"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/119/0157-01"
+      ]
+    },
+    {
+      "cite": "184 Wn.2d 1008",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        12440998,
+        12440999,
+        12441000,
+        12441001,
+        12441002,
+        12441003,
+        12441004,
+        12441005
+      ],
+      "year": 2015,
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/184/1008-01",
+        "/wash-2d/184/1008-02",
+        "/wash-2d/184/1008-03",
+        "/wash-2d/184/1008-04",
+        "/wash-2d/184/1008-05",
+        "/wash-2d/184/1008-06",
+        "/wash-2d/184/1008-07",
+        "/wash-2d/184/1008-08"
+      ]
+    },
+    {
+      "cite": "345 P.3d 36",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "186 Wn. App. 307",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        4172594
+      ],
+      "pin_cites": [
+        {
+          "page": "319"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/186/0307-01"
+      ]
+    },
+    {
+      "cite": "721 P.2d 515",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1986,
+      "pin_cites": [
+        {
+          "parenthetical": "noting that a statement to police that was not given under oath and subject to the penalty of perjury is not admissible as substantive evidence pursuant to ER 801(d)(1)(i)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "106 Wn.2d 340",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1195545
+      ],
+      "year": 1986,
+      "pin_cites": [
+        {
+          "page": "343",
+          "parenthetical": "noting that a statement to police that was not given under oath and subject to the penalty of perjury is not admissible as substantive evidence pursuant to ER 801(d)(1)(i)"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/106/0340-01"
+      ]
+    },
+    {
+      "cite": "11 Colum. J. Gender & L. 1",
+      "category": "journals:journal",
+      "reporter": "Colum. J. Gender & L.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "290 P.3d 942",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2012,
+      "pin_cites": [
+        {
+          "parenthetical": "noting the considerations that support reviewing decisions for abuse of discretion"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "175 Wn.2d 607",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4024116
+      ],
+      "year": 2012,
+      "pin_cites": [
+        {
+          "page": "621",
+          "parenthetical": "noting the considerations that support reviewing decisions for abuse of discretion"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/175/0607-01"
+      ]
+    },
+    {
+      "cite": "162 P.3d 396",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2007,
+      "opinion_index": 0
+    },
+    {
+      "cite": "160 Wn.2d 910",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        3630797
+      ],
+      "year": 2007,
+      "pin_cites": [
+        {
+          "page": "922"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/160/0910-01"
+      ]
+    },
+    {
+      "cite": "399 U.S. 149",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6168934
+      ],
+      "weight": 5,
+      "year": 1970,
+      "pin_cites": [
+        {
+          "page": "155"
+        },
+        {
+          "page": "158",
+          "parenthetical": "discussing the purposes of the confrontation clause"
+        },
+        {
+          "page": "164"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/399/0149-01"
+      ]
+    },
+    {
+      "cite": "789 F.2d 1217",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1573886
+      ],
+      "year": 1986,
+      "pin_cites": [
+        {
+          "page": "1223"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/789/1217-01"
+      ]
+    },
+    {
+      "cite": "498 So. 2d 1280",
+      "category": "reporters:state_regional",
+      "reporter": "So. 2d",
+      "case_ids": [
+        7613380
+      ],
+      "year": 1986,
+      "pin_cites": [
+        {
+          "page": "1283",
+          "parenthetical": "Glickstein, J., dissenting in part and concurring in part"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/so2d/498/1280-01"
+      ]
+    },
+    {
+      "cite": "874 P.2d 170",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1994,
+      "pin_cites": [
+        {
+          "parenthetical": "\"Any motive to lie is therefore much less compelling in this case than if [the witness] had been questioned as a suspect.\""
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "74 Wn. App. 380",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        418841
+      ],
+      "year": 1994,
+      "pin_cites": [
+        {
+          "page": "388",
+          "parenthetical": "\"Any motive to lie is therefore much less compelling in this case than if [the witness] had been questioned as a suspect.\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/74/0380-01"
+      ]
+    },
+    {
+      "cite": "661 F.2d 239",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        3686139,
+        1181919
+      ],
+      "weight": 2,
+      "year": 1981,
+      "pin_cites": [
+        {
+          "page": "240"
+        },
+        {
+          "page": "243"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us-app-dc/213/0018-01",
+        "/f2d/661/0239-01"
+      ]
+    },
+    {
+      "cite": "213 U.S. App. D.C. 18",
+      "category": "reporters:state",
+      "reporter": "U.S. App. D.C.",
+      "case_ids": [
+        3686139
+      ],
+      "year": 1981,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us-app-dc/213/0018-01"
+      ]
+    },
+    {
+      "cite": "854 F.2d 1056",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10535959
+      ],
+      "weight": 3,
+      "year": 1988,
+      "pin_cites": [
+        {
+          "page": "1061"
+        },
+        {
+          "parenthetical": "internal quotation marks omitted"
+        },
+        {
+          "page": "1061-62"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/854/1056-01"
+      ]
+    },
+    {
+      "cite": "217 P.3d 1172",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2009,
+      "opinion_index": 0
+    },
+    {
+      "cite": "167 Wn.2d 341",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4004550
+      ],
+      "year": 2009,
+      "pin_cites": [
+        {
+          "page": "348"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/167/0341-01"
+      ]
+    },
+    {
+      "cite": "303 P.3d 1042",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2013,
+      "opinion_index": 0
+    },
+    {
+      "cite": "177 Wn.2d 520",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4131520
+      ],
+      "year": 2013,
+      "pin_cites": [
+        {
+          "page": "527"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/177/0520-01"
+      ]
+    },
+    {
+      "cite": "269 P.3d 207",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2012,
+      "opinion_index": 0
+    },
+    {
+      "cite": "173 Wn.2d 405",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4020264
+      ],
+      "year": 2012,
+      "pin_cites": [
+        {
+          "page": "428"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/173/0405-01"
+      ]
+    },
+    {
+      "cite": "497 So. 2d 1199",
+      "category": "reporters:state_regional",
+      "reporter": "So. 2d",
+      "case_ids": [
+        7607522
+      ],
+      "year": 1986,
+      "pin_cites": [
+        {
+          "page": "1199"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/so2d/497/1199-01"
+      ]
+    },
+    {
+      "cite": "471 So. 2d 74",
+      "category": "reporters:state_regional",
+      "reporter": "So. 2d",
+      "case_ids": [
+        7596908
+      ],
+      "weight": 5,
+      "year": 1985,
+      "pin_cites": [
+        {
+          "page": "79"
+        },
+        {
+          "page": "75"
+        },
+        {
+          "page": "78"
+        },
+        {
+          "page": "79"
+        },
+        {
+          "page": "75"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/so2d/471/0074-01"
+      ]
+    },
+    {
+      "cite": "150 P.3d 545",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2007,
+      "opinion_index": 0
+    },
+    {
+      "cite": "159 Wn.2d 413",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        3592623
+      ],
+      "year": 2007,
+      "pin_cites": [
+        {
+          "page": "417"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/159/0413-01"
+      ]
+    },
+    {
+      "cite": "983 P.2d 653",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1999,
+      "pin_cites": [
+        {
+          "parenthetical": "adhering to precedent in part because \"Key Design proposes no alternative rule which would provide the clarity and certainty it says the [previous] rule lacks\""
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "138 Wn.2d 875",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        887420
+      ],
+      "year": 1999,
+      "pin_cites": [
+        {
+          "page": "883",
+          "parenthetical": "adhering to precedent in part because \"Key Design proposes no alternative rule which would provide the clarity and certainty it says the [previous] rule lacks\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/138/0875-01"
+      ]
+    },
+    {
+      "cite": "537 F.2d 1055",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1050059
+      ],
+      "weight": 3,
+      "year": 1976,
+      "pin_cites": [
+        {
+          "page": "1057"
+        },
+        {
+          "page": "1058"
+        },
+        {
+          "page": "1058"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/537/1055-01"
+      ]
+    },
+    {
+      "cite": "158 P.3d 1169",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2007,
+      "pin_cites": [
+        {
+          "parenthetical": "emphasis added"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "160 Wn.2d 727",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        3631066
+      ],
+      "year": 2007,
+      "pin_cites": [
+        {
+          "page": "735",
+          "parenthetical": "emphasis added"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/160/0727-01"
+      ]
+    },
+    {
+      "cite": "485 P.2d 77",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1971,
+      "opinion_index": 0
+    },
+    {
+      "cite": "79 Wn.2d 345",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1070575
+      ],
+      "year": 1971,
+      "pin_cites": [
+        {
+          "page": "347"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/79/0345-01"
+      ]
+    },
+    {
+      "cite": "43 P.3d 4",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2002,
+      "pin_cites": [
+        {
+          "parenthetical": "statutory ambiguity may be resolved by considering relevant legislative history"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "146 Wn.2d 1",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        960829
+      ],
+      "year": 2002,
+      "pin_cites": [
+        {
+          "page": "12",
+          "parenthetical": "statutory ambiguity may be resolved by considering relevant legislative history"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/146/0001-01"
+      ]
+    },
+    {
+      "cite": "332 P.3d 408",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "weight": 2,
+      "year": 2014,
+      "opinion_index": 0
+    },
+    {
+      "cite": "181 Wn.2d 170",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4355904
+      ],
+      "year": 2014,
+      "pin_cites": [
+        {
+          "page": "183"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/181/0170-01"
+      ]
+    },
+    {
+      "cite": "541 U.S. 36",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        5873383
+      ],
+      "weight": 6,
+      "year": 2004,
+      "pin_cites": [
+        {
+          "page": "61"
+        },
+        {
+          "page": "61"
+        },
+        {
+          "page": "61"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/541/0036-01"
+      ]
+    },
+    {
+      "cite": "501 U.S. 808",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1108176
+      ],
+      "weight": 3,
+      "year": 1991,
+      "pin_cites": [
+        {
+          "page": "827"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/501/0808-01"
+      ]
+    },
+    {
+      "cite": "935 P.2d 588",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1997,
+      "pin_cites": [
+        {
+          "parenthetical": "quoting Payne v. Tennessee, 501 U.S. 808, 827, 111 S. Ct. 2597, 115 L. Ed. 2d 720 (1991)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "131 Wn.2d 822",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1547085
+      ],
+      "year": 1997,
+      "pin_cites": [
+        {
+          "page": "831",
+          "parenthetical": "quoting Payne v. Tennessee, 501 U.S. 808, 827, 111 S. Ct. 2597, 115 L. Ed. 2d 720 (1991)"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/131/0822-01"
+      ]
+    },
+    {
+      "cite": "248 P.3d 494",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2011,
+      "opinion_index": 0
+    },
+    {
+      "cite": "170 Wn.2d 854",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4013006
+      ],
+      "year": 2011,
+      "pin_cites": [
+        {
+          "page": "863"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/170/0854-01"
+      ]
+    },
+    {
+      "cite": "215 F.3d 136",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        11208059
+      ],
+      "year": 2000,
+      "pin_cites": [
+        {
+          "page": "141"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/215/0136-01"
+      ]
+    },
+    {
+      "cite": "322 P.3d 1207",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2014,
+      "pin_cites": [
+        {
+          "parenthetical": "internal quotation marks omitted"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "180 Wn.2d 54",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4241959
+      ],
+      "year": 2014,
+      "pin_cites": [
+        {
+          "page": "66",
+          "parenthetical": "internal quotation marks omitted"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/180/0054-01"
+      ]
+    },
+    {
+      "cite": "466 P.2d 508",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "weight": 2,
+      "year": 1970,
+      "opinion_index": 0
+    },
+    {
+      "cite": "77 Wn.2d 649",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1076405
+      ],
+      "year": 1970,
+      "pin_cites": [
+        {
+          "page": "653"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/77/0649-01"
+      ]
+    },
+    {
+      "cite": "163 P.3d 786",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2007,
+      "opinion_index": 0
+    },
+    {
+      "cite": "161 Wn.2d 168",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        3802343
+      ],
+      "year": 2007,
+      "pin_cites": [
+        {
+          "page": "174"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/161/0168-01"
+      ]
+    },
+    {
+      "cite": "268 P.3d 924",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "weight": 2,
+      "year": 2012,
+      "opinion_index": 0
+    },
+    {
+      "cite": "173 Wn.2d 467",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4020251
+      ],
+      "year": 2012,
+      "pin_cites": [
+        {
+          "page": "473"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/173/0467-01"
+      ]
+    },
+    {
+      "cite": "360 P.3d 819",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2015,
+      "opinion_index": 0
+    },
+    {
+      "cite": "184 Wn.2d 1017",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        12441068,
+        12441069,
+        12441070,
+        12441071,
+        12441072,
+        12441073,
+        12441074
+      ],
+      "year": 2015,
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/184/1017-01",
+        "/wash-2d/184/1017-02",
+        "/wash-2d/184/1017-03",
+        "/wash-2d/184/1017-04",
+        "/wash-2d/184/1017-05",
+        "/wash-2d/184/1017-06",
+        "/wash-2d/184/1017-07"
+      ]
+    },
+    {
+      "cite": "187 Wn. App. 1001",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        4237168,
+        4235173,
+        4237646
+      ],
+      "year": 2015,
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/187/1001-01",
+        "/wash-app/187/1001-03",
+        "/wash-app/187/1001-02"
+      ]
+    },
+    {
+      "cite": "106 P.3d 782",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2005,
+      "opinion_index": 0
+    },
+    {
+      "cite": "126 Wn. App. 297",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        1016192
+      ],
+      "weight": 2,
+      "year": 2005,
+      "pin_cites": [
+        {
+          "page": "308"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/126/0297-01"
+      ]
+    },
+    {
+      "cite": "651 P.2d 207",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1982,
+      "opinion_index": 0
+    },
+    {
+      "cite": "97 Wn.2d 856",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1154939
+      ],
+      "weight": 5,
+      "year": 1982,
+      "pin_cites": [
+        {
+          "page": "863"
+        },
+        {
+          "page": "857"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/97/0856-01"
+      ]
+    },
+    {
+      "cite": "672 F. Supp. 1043",
+      "category": "reporters:federal",
+      "reporter": "F. Supp.",
+      "case_ids": [
+        1179898
+      ],
+      "year": 1986,
+      "pin_cites": [
+        {
+          "parenthetical": "affidavit given in proceeding before the federal Equal Employment Opportunity Commission was admissible under FRE 801(d)(1)(A), citing Castro-Ayon"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/f-supp/672/1043-01"
+      ]
+    },
+    {
+      "cite": "426 So. 2d 1033",
+      "category": "reporters:state_regional",
+      "reporter": "So. 2d",
+      "case_ids": [
+        9539412
+      ],
+      "year": 1983,
+      "pin_cites": [
+        {
+          "parenthetical": "citing Castro-Ayon for the principle that grand jury testimony is admissible under state equivalent to FRE 801(d)(1)(A)"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/so2d/426/1033-01"
+      ]
+    },
+    {
+      "cite": "699 P.2d 221",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1985,
+      "pin_cites": [
+        {
+          "parenthetical": "citing Castro-Ayon for the principle that 'Rot every sworn statement given during a police interrogation would be admissible\" and holding witness' prior statements inadmissible because they were either oral or unsigned"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "40 Wn. App. 371",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        1796342
+      ],
+      "year": 1985,
+      "pin_cites": [
+        {
+          "page": "378",
+          "parenthetical": "citing Castro-Ayon for the principle that 'Rot every sworn statement given during a police interrogation would be admissible\" and holding witness' prior statements inadmissible because they were either oral or unsigned"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-app/40/0371-01"
+      ]
+    },
+    {
+      "cite": "555 F.2d 191",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        961728
+      ],
+      "year": 1977,
+      "pin_cites": [
+        {
+          "page": "193",
+          "parenthetical": "citing Castro-Ayon for principle that grand jury proceedings are \"other proceeding[s]\" within the scope of FRE 801(d)(1)(A"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/f2d/555/0191-01"
+      ]
+    },
+    {
+      "cite": "850 F.2d 1345",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1792845
+      ],
+      "year": 1988,
+      "pin_cites": [
+        {
+          "page": "1356",
+          "parenthetical": "citing Castro-Ayon for the principle that \"other proceeding\" in FRE 801(d)(1)(A) is defined broadly, but approving admission of prior inconsistent statement given in a deposition, consistent with the rule's plain language"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/f2d/850/1345-01"
+      ]
+    },
+    {
+      "cite": "897 F.2d 976",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10536954
+      ],
+      "year": 1990,
+      "pin_cites": [
+        {
+          "page": "980"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/f2d/897/0976-01"
+      ]
+    },
+    {
+      "cite": "92 N.M. 135",
+      "category": "reporters:state",
+      "reporter": "N.M.",
+      "case_ids": [
+        1557135
+      ],
+      "weight": 2,
+      "year": 1978,
+      "pin_cites": [
+        {
+          "page": "144-45",
+          "parenthetical": "citing Castro-Ayon for the principle that \"inconsistent statements spoken by the victim under oath and 'on the stand' were admissible as substantive evidence\""
+        },
+        {
+          "parenthetical": "citing Castro-Ayon for the principle that \"inconsistent statements spoken by the victim under oath and 'on the stand' were admissible as substantive evidence\""
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/nm/92/0135-01"
+      ]
+    },
+    {
+      "cite": "59 V.I. 480",
+      "category": "reporters:state",
+      "reporter": "V.I.",
+      "case_ids": [
+        3589171
+      ],
+      "year": 2013,
+      "pin_cites": [
+        {
+          "page": "489-503",
+          "parenthetical": "trial court erred by admitting police interview statement under local rather than federal evidentiary rule but error was harmless (citing Castro-Ayon for discussion of FRE 801(d)(1)(A)'s legislative history)"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/vi/59/0480-01"
+      ]
+    },
+    {
+      "cite": "455 So. 2d 481",
+      "category": "reporters:state_regional",
+      "reporter": "So. 2d",
+      "case_ids": [
+        7610820
+      ],
+      "year": 1984,
+      "opinion_index": 1,
+      "case_paths": [
+        "/so2d/455/0481-01"
+      ]
+    },
+    {
+      "cite": "37 A.L.R. Fed. 855",
+      "category": "reporters:federal",
+      "reporter": "A.L.R. Fed.",
+      "year": 1978,
+      "pin_cites": [
+        {
+          "page": "856-58"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "243 F.3d 681",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        11124524
+      ],
+      "year": 2001,
+      "pin_cites": [
+        {
+          "page": "684",
+          "parenthetical": "per curiam"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/f3d/243/0681-01"
+      ]
+    },
+    {
+      "cite": "142 P.3d 599",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2006,
+      "pin_cites": [
+        {
+          "parenthetical": "citing Stranger Creek, 77 Wn.2d at 653"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "158 Wn.2d 157",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        3086306
+      ],
+      "year": 2006,
+      "pin_cites": [
+        {
+          "page": "168",
+          "parenthetical": "citing Stranger Creek, 77 Wn.2d at 653"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/158/0157-01"
+      ]
+    },
+    {
+      "cite": "194 P.3d 212",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2008,
+      "pin_cites": [
+        {
+          "parenthetical": "citing State v. Devin, 158 Wn.2d 157, 168, 142 P.3d 599 (2006) (citing Stranger Creek, 77 Wn.2d at 653)"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "164 Wn.2d 798",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        3996206
+      ],
+      "year": 2008,
+      "pin_cites": [
+        {
+          "page": "804-05",
+          "parenthetical": "citing State v. Devin, 158 Wn.2d 157, 168, 142 P.3d 599 (2006) (citing Stranger Creek, 77 Wn.2d at 653)"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/164/0798-01"
+      ]
+    },
+    {
+      "cite": "336 P.3d 1134",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2014,
+      "pin_cites": [
+        {
+          "parenthetical": "prior precedent violated due process protections"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "181 Wn.2d 757",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4356270
+      ],
+      "year": 2014,
+      "pin_cites": [
+        {
+          "page": "769",
+          "parenthetical": "prior precedent violated due process protections"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/181/0757-01"
+      ]
+    },
+    {
+      "cite": "947 P.2d 700",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1997,
+      "pin_cites": [
+        {
+          "parenthetical": "prior precedent harmful because it overruled well-reasoned precedent without showing that precedent was incorrect and harmful, and because it precluded lesser included offense instructions in too many cases"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "133 Wn.2d 541",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        331081
+      ],
+      "year": 1997,
+      "pin_cites": [
+        {
+          "page": "548",
+          "parenthetical": "prior precedent harmful because it overruled well-reasoned precedent without showing that precedent was incorrect and harmful, and because it precluded lesser included offense instructions in too many cases"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/133/0541-01"
+      ]
+    },
+    {
+      "cite": "500 P.2d 1244",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "weight": 2,
+      "year": 1972,
+      "opinion_index": 1
+    },
+    {
+      "cite": "81 Wn.2d 215",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1064066
+      ],
+      "year": 1972,
+      "pin_cites": [
+        {
+          "page": "221"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/81/0215-01"
+      ]
+    },
+    {
+      "cite": "647 P.2d 21",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1982,
+      "pin_cites": [
+        {
+          "parenthetical": "quoting Dean v. McFarland, 81 Wn.2d 215, 221, 500 P.2d 1244 (1972)"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "97 Wn.2d 528",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1154945
+      ],
+      "year": 1982,
+      "pin_cites": [
+        {
+          "page": "532",
+          "parenthetical": "quoting Dean v. McFarland, 81 Wn.2d 215, 221, 500 P.2d 1244 (1972)"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/97/0528-01"
+      ]
+    },
+    {
+      "cite": "13 M.J. 958",
+      "category": "reporters:specialty",
+      "reporter": "M.J.",
+      "case_ids": [
+        3574676
+      ],
+      "weight": 2,
+      "year": 1982,
+      "pin_cites": [
+        {
+          "page": "960",
+          "parenthetical": "rejecting Castro-Ayon to the extent that that case is not limited to its facts, i.e., to proceedings fundamentally similar to grand jury hearings"
+        },
+        {
+          "page": "960"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/mj/13/0958-01"
+      ]
+    },
+    {
+      "cite": "15 M.J. 872",
+      "category": "reporters:specialty",
+      "reporter": "M.J.",
+      "case_ids": [
+        3532594
+      ],
+      "weight": 2,
+      "year": 1983,
+      "pin_cites": [
+        {
+          "page": "878",
+          "parenthetical": "stating that prior inconsistent statement made to investigating officer was not given in an \"other proceeding\" for purposes of hearsay exception; noting that Castro-Ayon is contrary"
+        },
+        {
+          "page": "878"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/mj/15/0872-01"
+      ]
+    },
+    {
+      "cite": "17 M.J. 975",
+      "category": "reporters:specialty",
+      "reporter": "M.J.",
+      "case_ids": [
+        3546237
+      ],
+      "weight": 2,
+      "year": 1984,
+      "pin_cites": [
+        {
+          "page": "976",
+          "parenthetical": "rejecting Castro-Ayon to the extent that it would allow admission of \"a statement made in a policeman's office during a non-advocatory, inquisitorial police investigation merely because an oath was administered\""
+        },
+        {
+          "page": "976"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/mj/17/0975-01"
+      ]
+    },
+    {
+      "cite": "414 F.3d 783",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        8971137
+      ],
+      "year": 2005,
+      "opinion_index": 1,
+      "case_paths": [
+        "/f3d/414/0783-01"
+      ]
+    },
+    {
+      "cite": "746 F.2d 1205",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        649071
+      ],
+      "year": 1984,
+      "pin_cites": [
+        {
+          "parenthetical": "noting in dicta that district court probably erred by admitting witness' sworn statement to investigator under FRE 801(d)(1)(A); noting that Castro-Ayon might be contrary"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/f2d/746/1205-01"
+      ]
+    },
+    {
+      "cite": "877 F.2d 1450",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10541240
+      ],
+      "weight": 2,
+      "year": 1989,
+      "pin_cites": [
+        {
+          "page": "1462",
+          "parenthetical": "rejecting argument that witness' statement to Federal Bureau of Investigation agents was admissible under FRE 801(d)(1)(A) because Castro-Ayon was \"not persuasive and . .. clearly distinguishable\""
+        },
+        {
+          "page": "1462"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/f2d/877/1450-01"
+      ]
+    },
+    {
+      "cite": "251 Neb. 23",
+      "category": "reporters:state",
+      "reporter": "Neb.",
+      "case_ids": [
+        1010692
+      ],
+      "weight": 4,
+      "year": 1996,
+      "pin_cites": [
+        {
+          "page": "33-34"
+        },
+        {
+          "page": "33-34"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/neb/251/0023-01"
+      ]
+    },
+    {
+      "cite": "220 Neb. 392",
+      "category": "reporters:state",
+      "reporter": "Neb.",
+      "case_ids": [
+        2884530
+      ],
+      "weight": 4,
+      "year": 1985,
+      "pin_cites": [
+        {
+          "page": "394, 398-99",
+          "parenthetical": "victim's statement during interview with attorney was not an \"other proceeding\" under state equivalent of FRE 801(d)(1)(A); to the extent that Castro-Ayon supported that conclusion, it was \"unique-and likely to remain so\""
+        },
+        {
+          "parenthetical": "victim's statement during interview with attorney was not an \"other proceeding\" under state equivalent of FRE 801(d)(1)(A); to the extent that Castro-Ayon supported that conclusion, it was \"unique-and likely to remain so\""
+        },
+        {
+          "page": "394, 398-99"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/neb/220/0392-01"
+      ]
+    },
+    {
+      "cite": "573 So. 2d 306",
+      "category": "reporters:state_regional",
+      "reporter": "So. 2d",
+      "case_ids": [
+        7501429
+      ],
+      "year": 1990,
+      "pin_cites": [
+        {
+          "page": "314-16",
+          "parenthetical": "distinguishing proceeding in Castro-Ayon (admissible as an \"other proceeding\" under FRE 801(d)(1)(A)) from prosecutor's transcribed investigative interrogation (inadmissible because it did not even remotely resemble a grand jury proceeding)"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/so2d/573/0306-01"
+      ]
+    },
+    {
+      "cite": "186 W. Va. 1",
+      "category": "reporters:state",
+      "reporter": "W. Va.",
+      "case_ids": [
+        8574651
+      ],
+      "weight": 2,
+      "year": 1990,
+      "pin_cites": [
+        {
+          "parenthetical": "noting that Castro-Ayon is an outlier that has been criticized in scholarship on FRE 801(d)(1)(A)"
+        },
+        {
+          "parenthetical": "noting that Castro-Ayon is an outlier that has been criticized in scholarship on FRE 801(d)(1)(A)"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/w-va/186/0001-01"
+      ]
+    },
+    {
+      "cite": "560 F.2d 1376",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        938088
+      ],
+      "weight": 2,
+      "year": 1977,
+      "opinion_index": 1,
+      "case_paths": [
+        "/f2d/560/1376-01"
+      ]
+    },
+    {
+      "cite": "97 Wn.2d 859",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "860-61"
+        },
+        {
+          "page": "862"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "231 P.3d 186",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2010,
+      "pin_cites": [
+        {
+          "parenthetical": "\"we interpret a statute to give effect to all language, so as to render no portion meaningless or superfluous\""
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "168 Wn.2d 775",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4007614
+      ],
+      "year": 2010,
+      "pin_cites": [
+        {
+          "page": "783",
+          "parenthetical": "\"we interpret a statute to give effect to all language, so as to render no portion meaningless or superfluous\""
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/168/0775-01"
+      ]
+    },
+    {
+      "cite": "60 P.3d 1234",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2003,
+      "pin_cites": [
+        {
+          "parenthetical": "citing Castro-Ayon when summarizing Smith's holding; finding witness statement at issue inadmissible even under Smith because it was not given under oath or subject to penalty of perjury"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "115 Wn. App. 29",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        221850
+      ],
+      "year": 2003,
+      "pin_cites": [
+        {
+          "page": "46-49",
+          "parenthetical": "citing Castro-Ayon when summarizing Smith's holding; finding witness statement at issue inadmissible even under Smith because it was not given under oath or subject to penalty of perjury"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-app/115/0029-01"
+      ]
+    },
+    {
+      "cite": "184 Wn.2d 1008",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        12440998,
+        12440999,
+        12441000,
+        12441001,
+        12441002,
+        12441003,
+        12441004,
+        12441005
+      ],
+      "year": 2015,
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/184/1008-01",
+        "/wash-2d/184/1008-02",
+        "/wash-2d/184/1008-03",
+        "/wash-2d/184/1008-04",
+        "/wash-2d/184/1008-05",
+        "/wash-2d/184/1008-06",
+        "/wash-2d/184/1008-07",
+        "/wash-2d/184/1008-08"
+      ]
+    },
+    {
+      "cite": "345 P.3d 36",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "opinion_index": 1
+    },
+    {
+      "cite": "186 Wn. App. 307",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        4172594
+      ],
+      "pin_cites": [
+        {
+          "page": "314-17"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-app/186/0307-01"
+      ]
+    },
+    {
+      "cite": "789 F.2d 1217",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1573886
+      ],
+      "weight": 2,
+      "year": 1986,
+      "pin_cites": [
+        {
+          "page": "1222-23",
+          "parenthetical": "declining to follow Castro-Ayon \"to the extent the facts are not distinguishable\""
+        },
+        {
+          "page": "1222-23"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/f2d/789/1217-01"
+      ]
+    },
+    {
+      "cite": "498 So. 2d 1280",
+      "category": "reporters:state_regional",
+      "reporter": "So. 2d",
+      "case_ids": [
+        7613380
+      ],
+      "weight": 2,
+      "year": 1986,
+      "pin_cites": [
+        {
+          "page": "1282",
+          "parenthetical": "embracing Delgado-Santos' interpretation of rule equivalent to FRE 801(d)(1)(A) and explicitly rejecting Smith's contrary interpretation"
+        },
+        {
+          "page": "1282",
+          "parenthetical": "\"the congressional dichotomy between House and Senate and the ultimate compromise giving rise to federal rule 801(d)(l)(A"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/so2d/498/1280-01"
+      ]
+    },
+    {
+      "cite": "874 P.2d 170",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1994,
+      "pin_cites": [
+        {
+          "parenthetical": "police interrogation is an \"other proceeding\" under Smith"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "74 Wn. App. 380",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        418841
+      ],
+      "weight": 2,
+      "year": 1994,
+      "pin_cites": [
+        {
+          "page": "391",
+          "parenthetical": "police interrogation is an \"other proceeding\" under Smith"
+        },
+        {
+          "page": "383"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-app/74/0380-01"
+      ]
+    },
+    {
+      "cite": "661 F.2d 239",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        3686139,
+        1181919
+      ],
+      "weight": 6,
+      "year": 1981,
+      "pin_cites": [
+        {
+          "page": "243",
+          "parenthetical": "holding that Castro-Ayon proceeding was distinguishable, for purposes of FRE 801(d)(1)(A"
+        },
+        {
+          "page": "240"
+        },
+        {
+          "page": "243"
+        },
+        {
+          "page": "243",
+          "parenthetical": "statement given to investigating officers inadmissible under FRE 801(d)(1)(A) because \"the circumstances fall far short of those in a grand jury proceeding, the paradigmatic 'other proceeding' under the Rule\""
+        },
+        {
+          "page": "242-43"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us-app-dc/213/0018-01",
+        "/f2d/661/0239-01"
+      ]
+    },
+    {
+      "cite": "213 U.S. App. D.C. 18",
+      "category": "reporters:state",
+      "reporter": "U.S. App. D.C.",
+      "case_ids": [
+        3686139
+      ],
+      "year": 1981,
+      "opinion_index": 1,
+      "case_paths": [
+        "/us-app-dc/213/0018-01"
+      ]
+    },
+    {
+      "cite": "854 F.2d 1056",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10535959
+      ],
+      "weight": 5,
+      "year": 1988,
+      "pin_cites": [
+        {
+          "page": "1061-62"
+        },
+        {
+          "page": "1061"
+        },
+        {
+          "page": "1061"
+        },
+        {
+          "page": "1061"
+        },
+        {
+          "page": "1061-62"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/f2d/854/1056-01"
+      ]
+    },
+    {
+      "cite": "497 So. 2d 1199",
+      "category": "reporters:state_regional",
+      "reporter": "So. 2d",
+      "case_ids": [
+        7607522
+      ],
+      "year": 1986,
+      "opinion_index": 1,
+      "case_paths": [
+        "/so2d/497/1199-01"
+      ]
+    },
+    {
+      "cite": "471 So. 2d 74",
+      "category": "reporters:state_regional",
+      "reporter": "So. 2d",
+      "case_ids": [
+        7596908
+      ],
+      "weight": 2,
+      "year": 1985,
+      "pin_cites": [
+        {
+          "page": "78",
+          "parenthetical": "\"the overwhelming weight of authority on the issue is that no variation of police investigatory activity constitutes an [FRE] 801(d)(1)(A)... proceeding\" (collecting cases)"
+        },
+        {
+          "page": "78"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/so2d/471/0074-01"
+      ]
+    },
+    {
+      "cite": "537 F.2d 1055",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1050059
+      ],
+      "weight": 4,
+      "year": 1976,
+      "pin_cites": [
+        {
+          "page": "1058"
+        },
+        {
+          "page": "1058",
+          "parenthetical": "footnote omitted"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/f2d/537/1055-01"
+      ]
+    },
+    {
+      "cite": "248 P.3d 494",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2011,
+      "pin_cites": [
+        {
+          "parenthetical": "collecting cases"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "170 Wn.2d 854",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4013006
+      ],
+      "year": 2011,
+      "pin_cites": [
+        {
+          "page": "865",
+          "parenthetical": "collecting cases"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/170/0854-01"
+      ]
+    },
+    {
+      "cite": "466 P.2d 508",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1970,
+      "pin_cites": [
+        {
+          "parenthetical": "\"The true doctrine of stare decisis ... requires a clear showing that an established rule is incorrect and harmful before it is abandoned.\""
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "77 Wn.2d 649",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1076405
+      ],
+      "year": 1970,
+      "pin_cites": [
+        {
+          "page": "653",
+          "parenthetical": "\"The true doctrine of stare decisis ... requires a clear showing that an established rule is incorrect and harmful before it is abandoned.\""
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/77/0649-01"
+      ]
+    },
+    {
+      "cite": "106 P.3d 782",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2005,
+      "opinion_index": 1
+    },
+    {
+      "cite": "126 Wn. App. 297",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        1016192
+      ],
+      "year": 2005,
+      "pin_cites": [
+        {
+          "page": "308"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-app/126/0297-01"
+      ]
+    },
+    {
+      "cite": "651 P.2d 207",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1982,
+      "opinion_index": 1
+    },
+    {
+      "cite": "97 Wn.2d 856",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1154939
+      ],
+      "year": 1982,
+      "pin_cites": [
+        {
+          "page": "863"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/97/0856-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1879,
+    "char_count": 56340,
+    "ocr_confidence": 0.884,
+    "pagerank": {
+      "raw": 1.0388372450221733e-07,
+      "percentile": 0.5502259012011897
+    },
+    "sha256": "33b509aad02e946cddaff7fb99813f1c7bfd69b6f7ad7ecf1012c42531bac0e9",
+    "simhash": "1:9a3f762d7afea8ac",
+    "word_count": 9124
+  },
+  "last_updated": "2024-02-28T00:06:59.447104+00:00",
+  "provenance": {
+    "date_added": "2019-05-22",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Madsen, C.J., and Johnson, Owens, Fairhurst, Stephens, Wiggins, and Gonz\u00e1lez, JJ., concur."
+    ],
+    "parties": [
+      "The State of Washington, Respondent, v. Nakia Lee Otton, Petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "Yu, J.\n\u00b6 1 While ostensibly concerning the interpretation of an evidentiary rule, this is actually a case about stare decisis. Petitioner Nakia Lee Otton seeks reversal of his convictions for second degree assault and felony harassment. The victim testified at Otton\u2019s trial, and because her testimony was inconsistent with her prior sworn statement to police about the incident, the trial court admitted the victim\u2019s prior statement as substantive evidence. Otton acknowledges that the trial court\u2019s decision and the Court of Appeals opinion affirming that decision were proper in accordance with this court\u2019s long-standing precedent. He asks us to reject that precedent. We decline the invitation and affirm the Court of Appeals.\nFACTUAL AND PROCEDURAL HISTORY\n\u00b62 Otton and the victim had a romantic relationship and lived in the same household. The victim was disabled due to a history of multiple brain surgeries and sometimes had difficulties with memory and speaking. Late one night in December 2012, Otton and the victim had a confrontation. After Otton left the house, the victim called 911. When the police arrived, the victim gave a written statement, signed under penalty of perjury, alleging that Otton held her on the bed and against the wall by her neck so that she could not breathe and told her he was going to kill her. The State charged Otton with second degree assault and felony harassment.\n\u00b63 At trial, the victim testified that while she would not have intentionally lied to police, her allegations against Otton were false, and that she had called 911 because she was \u201cangry\u201d and \u201chad a couple of drinks.\u201d 2A Verbatim Report of Proceedings (VRP) (Aug. 7, 2013) at 132. At the State\u2019s request and over Otton\u2019s objection, the trial court admitted the victim\u2019s written statement as substantive evidence pursuant to ER 801(d)(1)(i), in accordance with State v. Smith, 97 Wn.2d 856, 651 P.2d 207 (1982), and State v. Binh Thach, 126 Wn. App. 297, 106 P.3d 782 (2005). 2A VRP at 212. The jury convicted Otton as charged, and the Court of Appeals affirmed in an unpublished opinion. State v. Otton, noted at 187 Wn. App. 1001, review granted, 184 Wn.2d 1017, 360 P.3d 819 (2015).\nISSUE\n\u00b64 Should this court reject Smith\u2019s interpretation of ER 801(d)(l)(i)?\nANALYSIS\nA. Standard of review and principles of stare decisis\n\u00b65 A decision to admit or exclude evidence is generally reviewed for abuse of discretion. State v. Griffin, 173 Wn.2d 467, 473, 268 P.3d 924 (2012). But in this case, Otton does not challenge the manner in which the trial court exercised its discretion; he challenges the way this court previously interpreted ER 801(d)(1)(i). \u201c\u2018Interpretation of an evidentiary rule is a question of law, which we review de novo,\u2019\u201d id. (quoting State v. Foxhoven, 161 Wn.2d 168, 174, 163 P.3d 786 (2007)), but we have previously addressed the precise question Otton now raises. We must therefore be mindful of stare decisis.\n\u00b66 \u201cStare decisis is a doctrine developed by courts to accomplish the requisite element of stability in court-made law, but is not an absolute impediment to change.\u201d In re Rights to Waters of Stranger Creek, 77 Wn.2d 649, 653, 466 P.2d 508 (1970). In order to effectuate the purposes of stare decisis, this court will reject its prior holdings only upon \u201ca clear showing that an established rule is incorrect and harmful.\u201d Id. There are also \u201c \u2018relatively rare\u2019 occasions when a court should eschew prior precedent in deference to intervening authority\u201d where \u201cthe legal underpinnings of our precedent have changed or disappeared altogether.\u201d W.G. Clark Constr. Co. v. Pac. Nw. Reg\u2019l Council of Carpenters, 180 Wn.2d 54, 66, 322 P.3d 1207 (2014) (internal quotation marks omitted) (quoting Carpenters Local Union No. 26 v. U.S. Fid. & Guar. Co., 215 F.3d 136, 141 (1st Cir. 2000)).\n\u00b67 When a party asks this court to reject its prior decision, it \u201cis an invitation we do not take lightly.\u201d State v. Barber, 170 Wn.2d 854, 863, 248 P.3d 494 (2011). The question is not whether we would make the same decision if the issue presented were a matter of first impression. Instead, the question is whether the prior decision is so problematic that it must be rejected, despite the many benefits of adhering to precedent\u2014\u201c \u2018promoting] the evenhanded, predictable, and consistent development of legal principles, fosterling] reliance on judicial decisions, and contribu\u00ed [ing] to the actual and perceived integrity of the judicial process.\u2019\u201d Keene v. Edie, 131 Wn.2d 822, 831, 935 P.2d 588 (1997) (quoting Payne v. Tennessee, 501 U.S. 808, 827, 111 S. Ct. 2597, 115 L. Ed. 2d 720 (1991)). With these principles in mind, we turn to the precedent Otton asks us to reject\u2014Smith, 97 Wn.2d 856.\nB. The Smith decision and its application in this case\n\u00b68 Smith was a case about the proper interpretation of ER 801(d)(l)(i), an evidentiary rule concerning the definition of \u201chearsay.\u201d \u201cHearsay\u201d is defined generally as \u201ca statement, other than one made by the declarant while testifying at the trial or hearing, offered in evidence to prove the truth of the matter asserted.\u201d ER 801(c). \u201cHearsay is not admissible except as provided by these [evidentiary] rules, by other court rules, or by statute.\u201d ER 802. However, ER 801(d)(1) provides that an out-of-court statement is not hearsay if\n[t]he declarant testifies at the trial or hearing and is subject to cross examination concerning the statement, and the statement is (i) inconsistent with the declarant\u2019s testimony, and was given under oath subject to the penalty of peijury at a trial, hearing, or other proceeding, or in a deposition.\nBecause such a statement is not hearsay, it is admissible at trial as substantive evidence, that is, to prove the truth of matter asserted in the statement.\n\u00b69 As noted, it is undisputed on appeal that the victim in this case testified at Otton\u2019s trial, that she was subject to cross-examination about her prior written statement, that the prior written statement was inconsistent with the victim\u2019s trial testimony, and that the prior written statement was given under oath and subject to the penalty of peijury. The only question is whether her police interview was an \u201cother proceeding\u201d within the meaning of ER 801(d)(l)(i).\n\u00b610 When confronted with the same question in 1982, this court declined to issue a categorical ruling that a police interview is either always or never considered an \u201cother proceeding.\u201d Smith, 97 Wn.2d at 861. Rather, we held that \u201c[t]he purposes of the rule and the facts of each case must be analyzed. In determining whether evidence should be admitted, reliability is the key.\u201d Id. Applying this approach to the facts presented, Smith held that the police interview at issue in that case was an \u201cother proceeding\u201d because \u201cthe complaining witness-victim voluntarily wrote the statement herself, swore to it under oath with penalty of perjury before a notary, admitted at trial she had made the statement and gave an inconsistent statement at trial where she was subject to cross examination.\u201d Id. at 863. The victim\u2019s sworn statement was therefore admissible as substantive evidence. Id. at 857.\n\u00b611 We have not reexamined Smith since it was issued. However, based on Smith, the Court of Appeals has formulated a four-factor test for determining whether an out-of-court statement by a nonparty witness is admissible pursuant to ER 801(d)(l)(i):\n(1) whether the witness voluntarily made the statement, (2) whether there were minimal guaranties of truthfulness, (3) whether the statement was taken as standard procedure in one of the four legally permissible methods for determining the existence of probable cause, and (4) whether the witness was subject to cross examination when giving the subsequent inconsistent statement.\nThach, 126 Wn. App. at 308. Otton does not challenge the trial court\u2019s discretionary determinations that the police interview at issue here qualified as an \u201cother proceeding\u201d and that the victim\u2019s written statement was properly admitted in accordance with this four-factor test. He also does not contend that the four-factor test is anything but a faithful application of Smith. Rather, he argues that we should reject Smith.\nC. Otton has not shown that Smith is incorrect or harmful\n\u00b612 Smith reasonably held that the phrase \u201cother proceeding\u201d must be interpreted in a way that gives effect to its plainly \u201copen-ended\u201d language, Smith, 97 Wn.2d at 861, and the constraints of the four-factor test articulated by the Court of Appeals prevent the harmfulness that could theoretically flow from an unrestrained, subjective inquiry into \u201camorphous notions of \u2018reliability,\u2019\u201d Crawford v. Washington, 541 U.S. 36, 61, 124 S. Ct. 1354, 158 L. Ed. 2d 177 (2004). We therefore hold that Otton has not shown that Smith\u2019s interpretation of an \u201cother proceeding\u201d for purposes of ER 801(d)(l)(i) is clearly incorrect or harmful.\n1. Otton has not shown that Smith is incorrect\n\u00b613 Where a party asks this court to reject its previous decision, the party must show that the previous decision is \u201cincorrect.\u201d Stranger Creek, 77 Wn.2d at 653. Otton contends that Smith is incorrect because it conflicts with (1) the plain language of ER 801(d)(l)(i) and applicable principles of rule interpretation and (2) decisions of other jurisdictions that have considered similar evidentiary rules. We disagree with both contentions.\na. Interpretation of evidentiary rules\n\u00b614 \u201cThis court interprets court rules the same way it interprets statutes, using the tools of statutory construction.\u201d State v. Hawkins, 181 Wn.2d 170, 183, 332 P.3d 408 (2014). We therefore begin with the plain language of the rule. Id. ER 801(d)(l)(i)\u2019s plain language allows prior inconsistent statements by nonparty witnesses to be admitted as substantive evidence if the statements were \u201cgiven under oath subject to the penalty of perjury at a trial, hearing, or other proceeding, or in a deposition.\u201d \u201cOther proceeding\u201d is not defined in the rule, and its meaning is not apparent from the rule\u2019s plain language. Smith therefore appropriately looked to the \u201chistory and purposes\u201d of the federal counterpart to ER 801(d)(l)(i). Smith, 97 Wn.2d at 859; see Dep\u2019t of Ecology v. Campbell & Gwinn, LLC, 146 Wn.2d 1, 12, 43 P.3d 4 (2002) (statutory ambiguity may be resolved by considering relevant legislative history).\n\u00b615 Smith noted that the first proposed version of the federal rule would have allowed \u201call prior inconsistent statements to be used as substantive evidence,\u201d but a requirement \u201cthat the statement be made under oath, subject to penalty for perjury\u201d was later added \u201cto assure reliability.\u201d Smith, 97 Wn.2d at 859-60. However, further proposals to restrict the rule by requiring greater procedural formalities (that the statements be given during grand jury proceedings and subject to cross-examination at the time they were given) were rejected. Id. at 860. This history shows that statements admitted under the rule must meet a certain level of reliability and must have been given with some level of procedural formality, but that the phrase \u201cother proceeding\u201d was intentionally left \u201copen-ended.\u201d Id. at 861.\n\u00b616 Smith also considered \u201cthe original purpose of the sworn statement,\u201d and noted that the statement given in that case \u201cwas taken as standard procedure in one of the four legally permissible methods for determining the existence of probable cause.\u201d Id. at 862 (citing State v. Jefferson, 79 Wn.2d 345, 347, 485 P.2d 77 (1971)). The court noted that \u201c\u2018[o]ther proceeding\u2019 under the rule would clearly cover\u201d three of the four methods\u2014grand jury proceedings, inquest proceedings, and filing a criminal complaint before a magistrate. Id. at 863. It would therefore be an anomaly to categorically exclude the fourth method\u2014\u201cpolice investigations into alleged criminal activity, and the taking of statements from witnesses and the presentment of them to the prosecuting attorney.\u201d Id. at 862.\n\u00b617 Otton, however, argues that based on applicable principles of statutory interpretation, this court must hold that an \u201cother proceeding\u201d \u201cmean[s] something similar to the preceding specific terms \u2018trial\u2019 or \u2018hearing.\u2019 \u201d Suppl. Br. of Pet\u2019r at 6. This, according to Otton, would include \u201cjudicial proceedings, often adversarial, where the declar-ant is officially placed under oath and subject to questioning\u201d but not proceedings like those at issue here, where voluntary, sworn witness statements are given outside \u201ca courtroom or governmental office.\u201d Id. at 6-7. Even if we were to assume that this could be a reasonable interpretation in the first instance, it is not compelled by the plain language of ER 801(d)(l)(i).\n\u00b618 By focusing on the terms \u201ctrial\u201d and \u201chearing,\u201d Otton takes into account only some of the context in which the term \u201cother proceeding\u201d is used. However, we must \u201cgive[ ] effect to the plain language of a court rule, as discerned by reading the rule in its entirety and harmonizing all of its provisions.\u201d State v. George, 160 Wn.2d 727, 735, 158 P.3d 1169 (2007) (emphasis added). This means we must consider the fact that the plain language of ER 801(d)(l)(i) also includes statements made at depositions, which are not necessarily judicial proceedings and may take place outside of a courtroom or governmental office. Otton\u2019s proposed interpretation also reads into the phrase \u201cother proceeding\u201d terms that are not there. ER 801(d)(l)(i) does not refer to other judicial proceedings or other adversarial proceedings or other formal proceedings. It refers only to an \u201cother proceeding,\u201d a phrase that \u201cdoes not, in itself, reveal its own dimension.\u201d United States v. Castro-Ayon, 537 F.2d 1055, 1057 (9th Cir. 1976).\n\u00b619 Perhaps most problematically, even if we were to agree that the victim\u2019s statement here was not given at an \u201cother proceeding,\u201d Otton does not propose a workable analytical framework for future cases. See Key Design, Inc. v. Moser, 138 Wn.2d 875, 883, 983 P.2d 653 (1999) (adhering to precedent in part because \u201cKey Design proposes no alternative rule which would provide the clarity and certainty it says the [previous] rule lacks\u201d). He certainly proposes a bright-line rule that witness statements given to investigating police officers are never admissible under ER 801(d)(l)(i), but the suggestions that an \u201cother proceeding\u201d must be adversarial and occur in a governmental building seem untenable. It is not clear how the physical location where a statement is given would necessarily advance the plain language or underlying purposes of the rule, and a grand jury proceeding is clearly an \u201cother proceeding,\u201d even though it is \u201cinvestigatory,\u201d rather than adversarial, in nature. Castro-Ayon, 537 F.2d at 1058.\n\u00b620 We thus conclude that Smith\u2019s interpretation of ER 801(d)(l)(i) was reasonable and that Otton\u2019s reading of ER 801(d)(l)(i) is not compelled by the rule\u2019s plain language.\nb. Decisions from other jurisdictions\n\u00b621 Where our prior interpretation is inconsistent with the decisions of \u201cthe vast majority of our sister states,\u201d there may be good reason to reconsider our own approach. Davis v. Baugh Indus. Contractors, Inc., 159 Wn.2d 413, 417, 150 P.3d 545 (2007). However, a decision is not necessarily incorrect merely because it lacks universal acceptance. See Key Design, 138 Wn.2d at 883 (argument \u201cabout the rule being extreme, unusually strict, and not generally accepted or favored\u201d held insufficient). In this case, the decisions of other jurisdictions do not show that Smith\u2019s interpretation of ER 801(d)(l)(i) is clearly incorrect.\n\u00b622 We begin with the one jurisdiction that clearly and completely disagrees with Smith\u2014Florida. Florida courts have specifically rejected Smith\u2019s case-by-case approach and instead use a \u201c \u2018bright line\u2019 test\u201d to interpret Florida\u2019s version of ER 801(d)(l)(i). Delgado-Santos v. State, 471 So. 2d 74, 79 (Fla. Dist. Ct. App. 1985). Under that test, an \u201c \u2018other proceeding\u2019 \u201d does not ever include a \u201cpolice interrogation.\u201d State v. Delgado-Santos, 497 So. 2d 1199, 1199 (Fla. 1986). However, while the Florida evidentiary rule is textually similar to ER 801(d)(l)(i), the Florida courts faced different considerations than the Smith court did. In light of these different considerations, we cannot say that the Florida courts\u2019 disagreement with Smith clearly shows that Smith is incorrect.\n\u00b623 Notably, in the seminal case establishing Florida\u2019s bright-line test, the court was plainly troubled by the circumstances under which the statement at issue in that case was made: the witness who gave the statement was 16 years old at the time, he was accused of participating in the homicide then under investigation, and he did not give his statement until he had been in custody (\u201calthough supposedly not \u2018under arrest\u2019 \u201d) for over six hours and subjected to \u201ca long process of \u2018pre-statement interrogation.\u2019\u201d Delgado-Santos, 471 So. 2d at 75. The Florida court freely acknowledged that the \u201cadmixture of Ortiz\u2019s youth and the improprieties involved in confining him without arrest and without transporting him to a youth facility\u201d would have been sufficient, in and of themselves, to exclude the proffered statement as substantively unreliable. Id. at 78.\n\u00b624 Nevertheless, the Florida court rejected a case-by-case approach, and it did so explicitly as a matter of legislative deference:\nWhile the legislature and Congress may have been ultimately concerned with the \u201creliability\u201d of a particular statement, they sought to vindicate that concern only by establishing given and objective criteria as to the circumstances, including the kind of forum, under which it was given. And it is for the legislature, not the courts, to determine not only the policy to be promoted, but the means by which that end is to be achieved.\nId. at 79. In Washington, however, evidentiary rules are adopted by this court pursuant to its inherent powers under the state constitution. State v. Gresham, 173 Wn.2d 405, 428, 269 P.3d 207 (2012). \u201c[W]hen interpreting court rules we are not concerned about usurping the role of the legislature because we alone are uniquely positioned to declare the correct interpretation of any court-adopted rule.\u201d Jafar v. Webb, 177 Wn.2d 520, 527, 303 P.3d 1042 (2013).\n\u00b625 Moreover, ER 801 is subject to amendment according to prescribed procedures, and ER 801(d)(l)(i) has never been amended to reject Smith. See GR 9 (procedures for rule making by this court). When considering challenges to previous statutory interpretations, \u201c[t] his court presumes that the legislature is aware ofjudicial interpretations of its enactments and takes its failure to amend a statute following a judicial decision interpreting that statute to indicate legislative acquiescence in that decision.\u201d City of Federal Way v. Koenig, 167 Wn.2d 341, 348, 217 P.3d 1172 (2009). We may comfortably presume that this court is aware of its own interpretations of evidentiary rules, and here, over 30 years have elapsed since Smith was decided and ER 801(d)(l)(i) has not been amended to reject it.\n\u00b626 Otton also suggests that federal courts interpreting the federal equivalent of ER 801(d)(l)(i) have rejected Smith\u2019s interpretation. In United States v. Dietrich, 854 F.2d 1056, 1061 (7th Cir. 1988), the Seventh Circuit held that \u201c[t]he term \u2018other proceeding\u2019 is not unlimited. A typical police station interrogation, for example, is not an \u2018other proceeding\u2019 within the meaning of the [federal] Rule [, Fed. R. Evid. 801(d)(1)(A)].\u201d Instead, Dietrich posited that \u201c \u2018[t]he [federal] Rule seems to contemplate situations in which an official verbatim record is routinely kept, whether stenographically or by electronic means, under legal authority.\u2019 \u201d Id. (internal quotation marks omitted) (quoting United States v. Livingston, 213 U.S. App. D.C. 18, 661 F.2d 239, 240 (1981)). That might be a reasonable way to limit the phrase \u201cother proceeding,\u201d but it is not clear why it is more reasonable than Smith\u2019s interpretation, let alone so clearly correct that we must adopt it and reject Smith. The text of ER 801(d)(l)(i) makes absolutely no reference to official verbatim records, and does not clearly intend to limit an \u201cother proceeding\u201d on the basis of specific procedural indicia of reliability beyond those required by the rule\u2019s plain language.\n\u00b627 Moreover, like the Florida court in Delgado-Santos, the federal court in Dietrich was plainly concerned about the fact that the statements at issue were of questionable substantive reliability, in part because they were given by an individual who was under imminent threat of arrest for allegations related to the ultimate crime at issue. 854 F.2d at 1061-62; Delgado-Santos, 471 So. 2d at 75. That concern is fully addressed by Smith and the four-factor test developed by the Court of Appeals, without imposing the inflexibility created by a bright-line rule. See, e.g., State v. Nelson, 74 Wn. App. 380, 388, 874 P.2d 170 (1994) (\u201cAny motive to lie is therefore much less compelling in this case than if [the witness] had been questioned as a suspect.\u201d); see also Tisdale v. State, 498 So. 2d 1280, 1283 (Fla. Dist. Ct. App. 1986) (Glickstein, J., dissenting in part and concurring in part) (\u201cIn my view, the \u2018bright line\u2019 test effects a lockstep or mind-set that could produce the injustice the test seeks to prevent.\u201d).\n\u00b628 Other federal cases also do not advance Otton\u2019s argument. Some cases, though holding statements made to investigating police were not given at an \u201cother proceeding,\u201d explicitly acknowledge that the purpose of the rule is \u201cto ensure the reliability and truthfulness of any prior inconsistent statement,\u201d and therefore look to \u201cthe totality of the circumstances\u201d under which the statement was given. United States v. Day, 789 F.2d 1217, 1223 (6th Cir. 1986); see also Livingston, 661 F.2d at 243. This clearly indicates an approval of a case-by-case approach turning on some indicia of reliability. And the Ninth Circuit has interpreted the federal rule in a manner entirely consistent with Smith, holding that an interrogation by immigration officials is an \u201cother proceeding\u201d under the rule and noting that \u201cthe choice of the open-ended term \u2018other proceedings\u2019 was intentional.\u201d Castro-Ayon, 537 F.2d at 1058.\n\u00b629 If Washington were an extreme outlier in its interpretation of ER 801(d)(l)(i), we might reconsider Smith, even though it was a reasonable decision at the time it was made and has not been rejected by any intervening rule amendments. However, Washington is not such an outlier. Otton thus fails to show that Smith is clearly incorrect.\n2. Otton has not shown that Smith is harmful\n\u00b630 Even if Otton could show that Smith is clearly incorrect, we will not reject our precedent unless it is \u201cboth incorrect and harmful.\u201d Barber, 170 Wn.2d at 864. However, the four-factor test formulated by the Court of Appeals creates a principled framework for determining whether a prior, inconsistent, out-of-court statement is sufficiently reliable, and ER 801(d)(l)(i) actually requires more objective procedural indicia of reliability than many other states\u2019 rules. Otton therefore has not shown that Smith is harmful.\n\u00b631 Relying primarily on Crawford, 541 U.S. 36, Otton contends that any substantive, case-by-case reliability determination is simply too subjective to be allowed. See Suppl. Br. of Pet\u2019r at 12-14. This argument confuses the requirements of the confrontation clause at issue in Crawford, U.S. Const. amend. VI, with those of the eviden-tiary rule defining hearsay at issue here, ER 801(d)(l)(i). They are clearly not the same:\nWhile it may readily be conceded that hearsay rules and the Confrontation Clause are generally designed to protect similar values, it is quite a different thing to suggest that the overlap is complete and that the Confrontation Clause is nothing more or less than a codification of the rules of hearsay and their exceptions as they existed historically at common law.\nCalifornia v. Green, 399 U.S. 149, 155, 90 S. Ct. 1930, 26 L. Ed. 2d 489 (1970).\n\u00b632 The confrontation clause is a procedural guaranty that statements will be tested in \u201cthe crucible of cross-examination.\u201d Crawford, 541 U.S. at 61; see also Green, 399 U.S. at 158 (discussing the purposes of the confrontation clause). An alleged confrontation clause violation is therefore appropriately reviewed as a matter of law\u2014either the confrontation clause was violated or it was not, and the individual perspective and observations of the trial court are not at issue. State v. Mason, 160 Wn.2d 910, 922, 162 P.3d 396 (2007). Meanwhile, evidentiary rules should be applied and interpreted in a manner that promotes their substantive purpose\u2014\u201cthat the truth may be ascertained and proceedings justly determined\u201d in each individual case. ER 102. Evidentiary rulings are therefore appropriately reviewed for abuse of discretion. See State v. Sisouvanh, 175 Wn.2d 607, 621, 290 P.3d 942 (2012) (noting the considerations that support reviewing decisions for abuse of discretion).\n\u00b633 Moreover, admissibility pursuant to ER 801(d)(l)(i) is not conditioned on each individual trial court\u2019s unrestrained assessment of reliability. Washington courts must work within a specific four-factor framework. Otton does not point to any published Washington cases that have applied this framework and reached conflicting conclusions, and we can find none. Washington courts have proved themselves well up to the task of evaluating evidence sought to be admitted pursuant to ER 801(d)(l)(i) in a consistent, evenhanded manner.\n\u00b634 To the extent that Otton implies that it is inherently harmful to allow prior inconsistent statements to be admitted as substantive evidence without requiring specific procedural formalities beyond those found in the plain language of ER 801(d)(l)(i), we disagree. Indeed, many states allow the admission of prior inconsistent statements as substantive evidence, even where the prior statements were given with few or no procedural formalities. See Douglas E. Beloof & Joel Shapiro, Let the Truth Be Told: Proposed Hearsay Exceptions to Admit Domestic Violence Victims\u2019 Out of Court Statements as Substantive Evidence, 11 Colum. J. Gender & L. 1, 11 n.29 (2002) (collecting statutes and court rules). Otton does not show those states have suffered any harm. And the beneficial effects of the procedural formalities that are required by ER 801(d)(l)(i)\u2019s plain language are clearly preserved by Smith and its progeny. State v. Lavaris, 106 Wn.2d 340, 343, 721 P.2d 515 (1986) (noting that a statement to police that was not given under oath and subject to the penalty of perjury is not admissible as substantive evidence pursuant to ER 801(d)(1)(i)); State v. McComas, 186 Wn. App. 307, 319, 345 P.3d 36 (same), review denied, 184 Wn.2d 1008 (2015); State v. Nieto, 119 Wn. App. 157, 161-62, 79 P.3d 473 (2003) (same); State v. Sua, 115 Wn. App. 29, 48, 60 P.3d 1234 (2003) (same).\n\u00b635 Otton has not made a clear showing that Smith is incorrect or harmful. We thus adhere to the doctrine of stare decisis and reaffirm Smith\u2019s interpretation of an \u201cother proceeding\u201d for purposes of ER 801(d)(l)(i).\nCONCLUSION\n\u00b636 A party asking this court to reject its precedent faces a challenging task. The party must show not merely that it would have been reasonable to reach a different conclusion in the first instance, but that the prior decision is so incorrect and harmful that it would be unreasonable to adhere to it. Otton has not made such a showing. We affirm the Court of Appeals.\nMadsen, C.J., and Johnson, Owens, Fairhurst, Stephens, Wiggins, and Gonz\u00e1lez, JJ., concur.\nThe statement\u2019s admissibility is subject, of course, to other applicable eviden-tiary and constitutional limitations.\nThis is not to imply that the court would be unwilling to revisit the interpretation of the rule and modify it for clarity through the rule making process.\nTo the extent that Otton argues Smith is harmful because it is incorrect, we reject that argument. Incorrectness and harmfulness are separate inquiries. Barber, 170 Wn.2d at 864-65.\nWe note that the focus of Otton\u2019s argument has shifted somewhat over the course of this appeal. His petition for review to this court appears to contend that Smith is no longer good law following Crawford. Pet. for Review at 9. At oral argument, however, Otton\u2019s attorney acknowledged that Smith's interpretation of ER 801(l)(d)(i) is not jeopardized by Crawford as a matter of constitutional law. Wash. Supreme Court oral argument, State v. Otton, No. 91669-1 (Feb. 18, 2016), at 38 min., 3 sec., audio recording by TVW, Washington State\u2019s Public Affairs Network, http://www.tvw.org. We agree. ER 801(l)(d)(i), by its plain language, applies only when \u201c[t]he declarant testifies at the trial or hearing and is subject to cross examination concerning the statement,\u201d so the confrontation clause is necessarily satisfied for any statement admitted pursuant to ER 801(l)(d)(i). See Crawford, 541 U.S. at 61; Green, 399 U.S. at 164.",
+        "type": "majority",
+        "author": "Yu, J."
+      },
+      {
+        "text": "Gordon McCloud, J.\n\u00b637 (concurring) \u2014 I agree with the majority that this is a case about stare decisis. The petitioner, Nakia Lee Otton, concedes that the Court of Appeals\u2019 decision is correct under this court\u2019s holding in State v. Smith, 97 Wn.2d 856, 863, 651 P.2d 207 (1982), and he asks us to overrule that holding. Thus, this case requires us to decide whether Smith should be abandoned as incorrect and harmful. See In re Rights to Water of Stranger Creek, 77 Wn.2d 649, 653, 466 P.2d 508 (1970) (\u201cThe true doctrine of stare decisis ... requires a clear showing that an established rule is incorrect and harmful before it is abandoned.\u201d).\n\u00b638 I also agree with the majority that the phrase at issue in this case\u2014\u201cother proceeding\u201d in Evidence Rule (ER) 801(d)(l)(i)\u2014is open ended. Had the drafters intended to strictly enumerate the \u201cproceedings\u201d covered by the rule, they would have done so. See Rivard v. State, 168 Wn.2d 775, 783, 231 P.3d 186 (2010) (\u201cwe interpret a statute to give effect to all language, so as to render no portion meaningless or superfluous\u201d). But I disagree with the majority\u2019s conclusion that the phrase \u201cother proceeding\u201d in ER 801(d)(l)(i) is so open ended that it includes police interviews or permits the kind of fact-specific, case-by-case reliability test that this court crafted in Smith.\n\u00b639 Indeed, among all the jurisdictions with identical rules whose courts have addressed the issue, Washington is the only one that interprets the phrase in this way. Other courts have consistently held that the \u201cother proceedingfs]\u201d covered by rules equivalent to ER 801(d)(l)(i) are limited to routinized proceedings, bearing hallmarks of formality such as oversight by a neutral officer and simultaneous transcription under authority of law, and thus exclude statements taken as part of a police officer\u2019s investigation. For the reasons given in Part I below, I conclude that Washington\u2019s contrary interpretation is inconsistent with ER 801(d)(l)(i)\u2019s plain language and is therefore incorrect. I nevertheless concur in the majority\u2019s decision to affirm the Court of Appeals because I agree that Otton has not met his burden to show that Smith is clearly harmful.\nI. SMITH WAS INCORRECTLY DECIDED\n\u00b640 As the majority correctly notes, ER 801(d)(l)(i)\u2019s federal equivalent\u2014the rule on which ER 801(d)(l)(i) was based\u2014reflected a compromise between drafters who wanted an \u201cunrestricted version\u201d admitting all prior inconsistent statements and drafters who wanted a rule limiting admission to statements made \u201cat a \u2018trial, hearing, deposition, or before a grand jury.\u2019\u201d Smith, 97 Wn.2d 859-60 (quoting draft rule). In light of that legislative history, and consistent with the statute\u2019s plain language, the Smith court concluded that the compromise term \u201cother proceeding\u201d in the rule included, but was not limited to, grand jury proceedings. Id. at 860-61. This conclusion is sound; it is consistent with the legislative history and the case law interpreting the federal rule or other state equivalents. See discussion infra Section I.B. To the extent the majority endorses this aspect of Smith, I concur.\n\u00b641 But the Smith court went on to address a more specific question: whether the open-ended phrase \u201cother proceeding\u201d in ER 801(d)(l)(i) included a situation in which detectives contacted a witness to request a statement, the witness talked with detectives and then wrote out a statement at the police station, and the witness subsequently signed the statement and swore to its accuracy before a notary. 97 Wn.2d at 858. It held that the answer was yes because the statement came with \u201c[m]inimal guaranties of truthfulness.\u201d Id. at 862.\n\u00b642 To reach that conclusion, the Smith court relied on a single Ninth Circuit case, United States v. Castro-Ayon, 537 F.2d 1055 (9th Cir. 1976), interpreting the federal equivalent rule, Fed. R. Evid. (FRE) 801(d)(1)(A). But the Smith court misinterpreted Castro-Ayon and distinguished, without any explanation, cases holding that sworn statements made to investigating officers are not admissible under that rule. 97 Wn.2d at 860-61. In the 34 years since Smith was decided, many more courts have interpreted FRE 801(d)(1)(A) and equivalent state rules. Every court to do so has rejected Washington\u2019s interpretation; consequently, we are now an extreme outlier. The interpretation adopted by other jurisdictions is clear, consistent with the rule\u2019s plain language and legislative history, and much more amenable to fair application than Smith\u2019s ad hoc approach is. I would therefore hold that Smith was incorrect.\nA. To conclude that a police interview can be an \u201cother proceeding\u201d within the meaning of ER 801(d)(l)(i), the Smith court relied on a misreading of Castro-Ayon and distinguished, without explanation, more apposite cases reaching the opposite conclusion\n\u00b643 In Castro-Ayon, the Ninth Circuit held that a tape-recorded interrogation by border agents was admissible under FRE 801(d)(1)(A). 537 F.2d at 1058. The Smith court acknowledged, in a footnote, that some federal courts had reached a very different conclusion, and would exclude sworn statements made to investigating officers from FRE 801(d)(l)(A)\u2019s \u201cother proceeding\u201d hearsay exception. 97 Wn.2d at 861 n.1 (citing United States v. Livingston, 213 U.S. App. D.C. 18, 661 F.2d 239 (1981); United States v. Ragghianti, 560 F.2d 1376 (9th Cir. 1977)). But it dismissed these decisions without analysis as \u201cnot dealing] with facts identical to the ones before us.\u201d Id. The Smith court then went on to hold that admissibility under ER 801(d)(1)(i) is a fact-specific, case-by-case determination that hinges on the prior statement\u2019s \u201creliability\u201d rather than on the proceeding at which that statement was given: \u201ceach case depends on its facts with reliability the key.\u201d Id. at 863. It explained that a statement was admissible under ER 801(d)(l)(i) so long as it bore \u201c\u2018minimal guarantees of truthfulness.\u2019 \u201d Id. at 861-62 (quoting David W. Louisell & Christopher B. Mueller, Federal Evidence \u00a7 419, at 169-71 (1980)).\n\u00b644 In this respect, Smith is actually inconsistent with Castro-Ayon. The Castro-Ayon court did not endorse the idea that certain statements might be reliable enough to fall within FRE 801(d)(l)(A)\u2019s \u201cother proceeding\u201d exception regardless of the proceeding at which they were given. Instead, that court held that the particular proceeding at issue in that case was sufficiently similar to a grand jury proceeding to fall within the ambit of FRE 801(d)(l)(A)\u2019s \u201cother proceeding\u201d exception:\n[W]e note that the immigration proceeding before Agent Pearce bears many similarities to a grand-jury proceeding: both are investigatory, ex parte, inquisitive, sworn, basically prosecu-torial, held before an officer other than the arresting officer, recorded, and held in circumstances of some legal formality. Indeed, this immigration proceeding provides more legal rights for the witnesses than does a grand jury: the right to remain totally silent, the right to counsel, and the right to have the interrogator inform the witness of these rights.\nWe do not hold, as the question is not before us, that every sworn statement given during a police-station interrogation would be admissible. While this immigration proceeding bears many similarities to the station-house interrogation, we believe that it qualifies as an \u201cother proceeding\u201d within the meaning of the statute.\n537 F.2d at 1058 (footnote omitted). Thus, Castro-Ayon was a holding about a particular semiformal proceeding, not a particular statement. Id. It does not support Smith\u2019s holding that trial courts should determine \u201cother proceeding\u201d admissibility under ER 801(d)(l)(i) through an open-ended, case-by-case evaluation of a particular statement for \u201c[m]inimal guarantees of truthfulness.\u201d Smith, 97 Wn.2d at 862.\nB. Contrary to the majority\u2019s assertion, Smith is an extreme outlier; in the 30 years since Smith was decided, every other court to address the question has held that the \u201cother proceeding^]\u201d covered by rules equivalent to FRE 801(d)(1)(A) do not include interviews by investigating officers\n\u00b645 As noted above, Smith adopted the minority position when it was decided 34 years ago. It held that witness statements taken during a police investigation could fall within ER/FRE 801\u2019s \u201cother proceeding\u201d exception, even though the majority of federal courts to examine that question had reached the opposite conclusion. Smith, 97 Wn.2d at 861 n.1. Back then, however, the numbers were close: Castro-Ayon provided some support for Smith\u2019s holding\u2014albeit tenuous and indirect support\u2014and two other federal cases rejected Smith\u2019s interpretation of the rule. Thus, while Smith adopted a minority position, it could not be said to be contrary to an overwhelming majority of relevant precedent.\n\u00b646 That is no longer true today, when many more cases have addressed the question. With the exception of Castro-Ayon, federal cases all hold that the \u201cother proceeding[s]\u201d contemplated in FRE 801(d)(1)(A) are proceedings in which \u201c \u2018an official verbatim record is routinely kept . . . under legal authority,\u2019 \u201d and that investigations by law enforcement do not meet this standard. And relevant cases from other states reach the same conclusion.\n\u00b647 Indeed, outside of Washington, no case has relied on Castro-Ayon to admit, under FRE 801(d)(1)(A) or an equivalent state rule, a prior inconsistent statement given to law enforcement during an investigation. A Westlaw search yields 25 controlling decisions that cite Castro-Ayon for the principle that an investigation by law enforcement may be an \u201cother proceeding\u201d for purposes of FRE 801(d)(1)(A). Of these 25, only 16 actually address that question. Three of these are unhelpful to this analysis because they are Washington cases (Smith and its progeny). But all of the remaining 13 cases either reject Castro-Ayon\u2019s holding entirely or limit that holding to its facts:\n\u2022 State v. Collins, 186 W. Va. 1, 7-8 & n.8, 409 S.E.2d 181 (1990) (noting that Castro-Ayon is an outlier that has been criticized in scholarship on FRE 801(d)(1)(A)).\n\u2022 State v. Smith, 573 So. 2d 306, 314-16 (Fla. 1990) (distinguishing proceeding in Castro-Ayon (admissible as an \u201cother proceeding\u201d under FRE 801(d)(1)(A)) from prosecutor\u2019s transcribed investigative interrogation (inadmissible because it did not even remotely resemble a grand jury proceeding)).\n\u2022 State v. Johnson, 220 Neb. 392, 394, 398-99, 370 N.W.2d 136 (1985) (victim\u2019s statement during interview with attorney was not an \u201cother proceeding\u201d under state equivalent of FRE 801(d)(1)(A); to the extent that Castro-Ayon supported that conclusion, it was \u201cunique\u2014and likely to remain so\u201d), abrogated on other grounds by State v. Morris, 251 Neb. 23, 33-34, 554 N.W.2d 627 (1996).\n\u2022 Delgado-Santos v. State, 471 So. 2d 74, 78 (Fla. Dist. Ct. App. 1985) (\u201cthe overwhelming weight of authority on the issue is that no variation of police investigatory activity constitutes an [FRE] 801(d)(1)(A)... proceeding\u201d (collecting cases)).\n\u2022 Tisdale v. State, 498 So. 2d 1280, 1282 (Fla. Dist. Ct. App. 1986) (embracing Delgado-Santos\u2019 interpretation of rule equivalent to FRE 801(d)(1)(A) and explicitly rejecting Smith\u2019s contrary interpretation).\n\u2022 United States v. Bonnett, 877 F.2d 1450, 1462 (10th Cir. 1989) (rejecting argument that witness\u2019 statement to Federal Bureau of Investigation agents was admissible under FRE 801(d)(1)(A) because Castro-Ayon was \u201cnot persuasive and . .. clearly distinguishable\u201d).\n\u2022 United States v. Dietrich, 854 F.2d 1056, 1061-62 (7th Cir. 1988) (reading Castro-Ayon as limited to \u201cpro-ceedingfs] . . . [that] contain! ] many of the same procedural protections as a grand jury proceeding\u201d and distinguishing the proceeding at issue in Castro-Ayon from a sworn statement made to investigating police officers in an interview that was neither transcribed nor conducted in front of a neutral third party).\n\u2022 United States v. Day, 789 F.2d 1217, 1222-23 (6th Cir. 1986) (declining to follow Castro-Ayon \u201cto the extent the facts are not distinguishable\u201d).\n\u2022 Bell v. City of Milwaukee, 746 F.2d 1205, 1274 n.83 (7th Cir. 1984) (noting in dicta that district court probably erred by admitting witness\u2019 sworn statement to investigator under FRE 801(d)(1)(A); noting that Castro-Ayon might be contrary), overruled on other grounds by Russ v. Watts, 414 F.3d 783 (7th Cir. 2005).\n\u2022 United States v. Powell, 17 M.J. 975, 976 (A.C.M.R. 1984) (rejecting Castro-Ayon to the extent that it would allow admission of \u201ca statement made in a policeman\u2019s office during a non-advocatory, inquisitorial police investigation merely because an oath was administered\u201d).\n\u2022 United States v. Whalen, 15 M.J. 872, 878 (A.C.M.R. 1983) (stating that prior inconsistent statement made to investigating officer was not given in an \u201cother proceeding\u201d for purposes of hearsay exception; noting that Castro-Ayon is contrary).\n\u2022 United States v. Luke, 13 M.J. 958, 960 (A.F.C.M.R. 1982) (rejecting Castro-Ayon to the extent that that case is not limited to its facts, i.e., to proceedings fundamentally similar to grand jury hearings).\n\u2022 Livingston, 661 F.2d at 243 (holding that Castro-Ayon proceeding was distinguishable, for purposes of FRE 801(d)(1)(A) admissibility, from interview by postal inspector that was conducted at home of government witness who gave sworn statement but was afforded no rights, and that was neither transcribed nor conducted in front of an independent officer).\nGiven this overwhelming and consistent authority, I disagree with the majority\u2019s conclusion that \u201cWashington is not such an outlier\u201d in its interpretation of the phrase \u201cother proceeding\u201d in ER 801(d)(l)(i). Majority at 687.\nC. Contrary to the majority\u2019s assertion, Otton proposes a workable framework for analyzing ER 801(d)(l)(i) admissibility; it is the framework adopted by the other jurisdictions and compelled by the rule\u2019s plain language\n\u00b648 I also disagree with the majority\u2019s assertion that \u201cOtton does not propose a workable analytical framework for future cases.\u201d Majority at 683. Otton asks us to adopt the interpretation of \u201cother proceeding\u201d that is used by every single other court that has considered the issue presented in Smith. See Suppl. Br. of Pet\u2019r at 11 (quoting Dietrich, 854 F.2d at 1061). And, as the majority expressly acknowledges, that interpretation holds that FRE 801(d)(1)(A) and state equivalent rules \u201c \u2018 \u201ccontemplate situations in which an official verbatim record is routinely kept, whether steno-graphically or by electronic means, under legal authority.\u201d\u2019\u201d Majority at 686 (emphasis added) (quoting Dietrich, 854 F.2d at 1061 (quoting Livingston, 661 F.2d at 240)). In short, the rules contemplate routinized proceedings bearing hallmarks of formality such as oversight by an independent (i.e., neutral) officer and simultaneous transcription. E.g., Dietrich, 854 F.2d at 1061; Livingston, 661 F.2d at 243.\n\u00b649 The majority acknowledges that such an interpretation is \u201creasonable\u201d but asserts that \u201cit is not clear why it is more reasonable than Smith\u2019s interpretation.\u201d Majority at 686. Again, I disagree. The interpretation of \u201cother proceeding\u201d adopted by the other jurisdictions is compelled by the rule of ejusdem generis, which holds that \u201c \u2018specific terms modify or restrict the application of general terms where both are used in sequence\u2019 \u201d in a statute. State v. Stockton, 97 Wn.2d 528, 532, 647 P.2d 21 (1982) (quoting Dean v. McFarland, 81 Wn.2d 215, 221, 500 P.2d 1244 (1972)). In ER 801(d)(l)(i), as in its federal equivalent, the term \u201cother proceeding\u201d appears after a list of more specific terms: \u201c.. . given under oath subject to the penalty of perjury at a trial, hearing, or other proceeding, or in a deposition.\u201d (Emphasis added.) Applying the interpretive canon of ejusdem generis, the phrase \u201cother proceeding\u201d must be read to encompass only those \u201cproceeding[s]\u201d that are fundamentally similar to a trial or hearing. Id. This is precisely why every other court addressing the question has held that police interviews are not \u201cother proceeding [s]\u201d within the meaning of the rule. See Livingston, 661 F.2d at 243 (statement given to investigating officers inadmissible under FRE 801(d)(1)(A) because \u201cthe circumstances fall far short of those in a grand jury proceeding, the paradigmatic \u2018other proceeding\u2019 under the Rule\u201d).\n\u00b650 In contrast to these other courts\u2019 interpretation, the four-factor reliability test that Washington courts have derived from Smith bears absolutely no relationship to ER 801(d)(l)(i)\u2019s plain language whatsoever. Indeed, the first Smith factor\u2014whether the witness gave the statement voluntarily\u2014is inconsistent with ER 801(d)(l)(i)\u2019s plain language. Since trial testimony is not necessarily given voluntarily, the voluntary nature of a statement is clearly irrelevant under ER 801(d)(l)(i). And the fourth factor\u2014 whether the witness was subject to cross-examination when giving the subsequent inconsistent statement\u2014is unhelpful because it is always satisfied. Moreover, Smith\u2019s ad hoc approach, in which \u201ceach case depends on its facts with reliability the key,\u201d 97 Wn.2d at 863, is inconsistent with the federal rule\u2019s legislative history, which reveals a compromise decision to restrict the rule\u2019s coverage to certain types of proceedings (as opposed to certain types of statements). See Tisdale, 498 So. 2d at 1282 (\u201cthe congressional dichotomy between House and Senate and the ultimate compromise giving rise to federal rule 801(d)(l)(A)[ ] seem to dictate a \u2018bright line\u2019 construction rather than a case-by-case analysis of the circumstances surrounding the taking of the statement to determine reliability and thus admissibility\u201d).\n\u00b651 Because Smith is inconsistent with ER 801(d)(l)(i)\u2019s plain language and the overwhelming majority of precedent interpreting equivalent rules, I would hold that it was incorrectly decided.\nII. OTTON, HOWEVER, HAS NOT MET HIS BURDEN TO SHOW THAT SMITH IS CLEARLY HARMFUL\n\u00b652 Although I conclude that Smith was incorrectly decided, I concur in the majority\u2019s decision because I agree that Otton has not made the requisite showing of harm sufficient to overcome the rule of stare decisis.\n\u00b653 Our cases have identified various kinds of harm that can satisfy this standard. We have found precedent \u201charmful\u201d because it was incorrect and inequitable. State v. Berlin, 133 Wn.2d 541, 548, 947 P.2d 700 (1997) (prior precedent harmful because it overruled well-reasoned precedent without showing that precedent was incorrect and harmful, and because it precluded lesser included offense instructions in too many cases). We have found precedent \u201charmful\u201d because it created serious policy problems. State v. Barber, 170 Wn.2d 854, 865, 248 P.3d 494 (2011) (collecting cases). And precedent is certainly harmful when it infringes a constitutional protection. E.g., State v. W.R., 181 Wn.2d 757, 769, 336 P.3d 1134 (2014) (prior precedent violated due process protections); Barber, 170 Wn.2d at 871 (prior precedent offended separation of powers principles). But whatever underlying harm we have recognized, we have always required a clear showing of harm and we have placed this burden on the party seeking to overturn precedent. State v. Kier, 164 Wn.2d 798, 804-05, 194 P.3d 212 (2008) (citing State v. Devin, 158 Wn.2d 157, 168, 142 P.3d 599 (2006) (citing Stranger Creek, 77 Wn.2d at 653)).\n\u00b654 I agree with the majority that Otton has not met that burden here. To support his argument that Smith is harmful, Otton simply asserts that ad hoc \u201creliability\u201d determinations are inherently subjective and therefore unfair. Suppl. Br. of Pet\u2019r at 12-14. But as the majority points out, these determinations pose no constitutional problems in the context of ER 801(d)(l)(i), majority at 688-89, and Otton offers no evidence that Smith has yielded uneven results in Washington courts.\nCONCLUSION\n\u00b655 Smith\u2019s case-by-case reliability test conflicts with the plain language of ER 801(d)(l)(i) and the overwhelming majority of relevant precedent from other jurisdictions. I therefore conclude that Smith was incorrectly decided. I concur in the decision to adhere to Smith and affirm the Court of Appeals, however, because I agree that the petitioner has not met his burden to show that Smith is clearly harmful.\nWhen Smith was decided, Washington\u2019s ER 801(d)(l)(i) was identical to Fed. R. Evid. (FRE) 801(d)(1)(A). 97 Wn.2d at 859 (noting that the judicial comment on ER 801(d)(1) provided that \u201cthe rule \u2018conforms state law to federal practice\u2019 \u2019\u2019); former ER 801(d)(1) cmt. (1980). All the comments to Washington\u2019s ERs were deleted in 2006 when the Washington State Bar Association \u201cconcluded that the Comments have outlived their usefulness.\u2019\u2019 Purpose statement to proposed amendment to ER Introductory Paragraph\u2014Comment, 156 Wn.2d Proposed-16 (Official Advance SheetNo. 1, Jan. 17, 2006). But ER801(d)(l)(i) remains substantially similar to its federal counterpart. Since then, FRE 801(d)(1)(A) has been amended to omit the phrase \u201cunder oath,\u2019\u2019 but in all other respects the state and federal rules remain the same.\nLivingston, 661 F.2d at 242-43 (quoting 4 David W. Louisell & Christopher B. Mueller, Federal Evidence \u00a7 419, at 171 (1980)); United States v. Bonnett, 877 F.2d 1450, 1462 (10th Cir. 1989); United States v. Dietrich, 854 F.2d 1056, 1061-62 (7th Cir. 1988); United States v. Day, 789 F.2d 1217, 1222-23 (6th Cir. 1986); see also Santos v. Murdock, 243 F.3d 681, 684 (2d Cir. 2001) (per curiam) (endorsing interpretation of ER 801(d)(1) adopted by the District of Columbia Circuit in Livingston, holding that meeting between attorney and witness, in which witness prepared an affidavit drafted by attorney, was not an \u201cother proceeding\u2019\u2019 within meaning of rule); 29 Am. Jur. 2d Evidence \u00a7 681, at 741 (2008) (\u201cIt has been held that a proceeding contemplated by the Rule is a formal action before a judicial tribunal, as well as an action before a quasi-judicial officer or board, invoked to enforce or protect a right. This requirement contemplates situations in which an official verbatim record is routinely kept, whether stenographically or by electronic means, and under legal authority so as to insure its reliability.\u201d (footnotes omitted)); John. R Gillespie, Annotation, What Is \u201cOther Proceeding\u201d under Rule 801(d)(1)(A) of Federal Rules of Evidence, Excepting from Hearsay Rule Prior Inconsistent Statement Given \u201cat a Trial, Hearing, or Other Proceeding,\u201d 37 A.L.R. Fed. 855, 856-58 (1978).\nE.g., State v. Johnson, 220 Neb. 392, 394, 398-99, 370 N.W.2d 136 (1985), abrogated on other grounds by State v. Morris, 251 Neb. 23, 33-34, 554 N.W.2d 627 (1996); United States v. Powell, 17 M.J. 975, 976 (A.C.M.R. 1984); United States v. Whalen, 15 M.J. 872, 878 (A.C.M.R. 1983); United States v. Luke, 13 M.J. 958, 960 (A.F.C.M.R. 1982); Delgado-Santos v. State, 471 So. 2d 74, 78 (Fla. Dist. Ct. App. 1985).\nI have omitted six unpublished opinions and one decision, Robinson v. State, 455 So. 2d 481 (Fla. Dist. Ct. App. 1984), whose agreement with Castro-Ayon was later overruled by State v. Delgado-Santos, 497 So. 2d 1199 (Fla. 1986).\nNine of the remaining cases admit or exclude prior statements under FRE 801(d)(1)(A) or an equivalent rule without deciding whether investigations can ever constitute \u201cother proceeding[s].\u201d Simmonds v. People, 59 V.I. 480, 489-503 (2013) (trial court erred by admitting police interview statement under local rather than federal evidentiary rule but error was harmless (citing Castro-Ayon for discussion of FRE 801(d)(1)(A)\u2019s legislative history)); State v. Maestas, 92 N.M. 135, 144-45, 584 P.2d 182 (1978) (citing Castro-Ayon for the principle that \u201cinconsistent statements spoken by the victim under oath and \u2018on the stand\u2019 were admissible as substantive evidence\u201d); United States v. Tafollo-Cardenas, 897 F.2d 976, 980 (9th Cir. 1990) (citing Castro-Ayon for the principle that prior inconsistent statement is admissible only if given \u201cunder oath subject to the penalty of perjury at a trial, hearing or other proceeding,\u201d and holding that unsworn statement given to arresting officer was not admissible as substantive evidence); Pope v. Sav. Bank of Puget Sound, 850 F.2d 1345, 1356 (9th Cir. 1988) (citing Castro-Ayon for the principle that \u201cother proceeding\u201d in FRE 801(d)(1)(A) is defined broadly, but approving admission of prior inconsistent statement given in a deposition, consistent with the rule\u2019s plain language); United States v. Mosley, 555 F.2d 191, 193 (8th Cir. 1977) (citing Castro-Ayon for principle that grand jury proceedings are \u201cother proceeding[s]\u201d within the scope of FRE 801(d)(1)(A); holding that even if trial court erred by admitting prior inconsistent statement given to investigating prosecutor, error was harmless because the court also properly admitted statement given in grand jury proceeding, which was substantially similar); State v. Sua, 115 Wn. App. 29, 46-49, 60 P.3d 1234 (2003) (citing Castro-Ayon when summarizing Smith's holding; finding witness statement at issue inadmissible even under Smith because it was not given under oath or subject to penalty of perjury); State v. Johnson, 40 Wn. App. 371, 378, 699 P.2d 221 (1985) (citing Castro-Ayon for the principle that \u2018Rot every sworn statement given during a police interrogation would be admissible\u201d and holding witness\u2019 prior statements inadmissible because they were either oral or unsigned); Webb v. State, 426 So. 2d 1033, 1034-35 & n.7 (Fla. Dist. Ct. App. 1983) (citing Castro-Ayon for the principle that grand jury testimony is admissible under state equivalent to FRE 801(d)(1)(A)); Gilardi v. Schroeder, 672 F. Supp. 1043, 1044 & n.1 (N.D. Ill. 1986) (affidavit given in proceeding before the federal Equal Employment Opportunity Commission was admissible under FRE 801(d)(1)(A), citing Castro-Ayon).\nSmith, 97 Wn.2d at 863; State v. McComas, 186 Wn. App. 307, 314-17, 345 P.3d 36 (sworn statement given to investigating police officer was made in an \u201cother proceeding\u201d under ER 801(d)(1)(i) because Court of Appeals is bound by Smith), review denied, 184 Wn.2d 1008 (2015); State v. Nelson, 74 Wn. App. 380, 391, 874 P.2d 170 (1994) (police interrogation is an \u201cother proceeding\u201d under Smith).\nAs the majority notes, subsequent state Court of Appeals decisions have derived from Smith four factors for determining admissibility under ER 801(d)(l)(i): \u201c\u2018(1) whether the witness voluntarily made the statement, (2) whether there were minimal guaranties of truthfulness, (3) whether the statement was taken as standard procedure in one of the four legally permissible methods for determining the existence of probable cause, and (4) whether the witness was subject to cross examination when giving the subsequent inconsistent statement.\u2019\u201d Majority at 680 (quoting State v. Binh Thach, 126 Wn. App. 297, 308, 106 P.3d 782 (2005)); State v. Nelson, 74 Wn. App. at 383.",
+        "type": "concurrence",
+        "author": "Gordon McCloud, J."
+      }
+    ],
+    "attorneys": [
+      "Jan Ti'asen (o\u00ed Washington Appellate Project), for petitioner. Ryan P. Jurvakainen, Prosecuting Attorney, and David Phelan, Deputy, for respondent.",
+      "Gretchen E. Verhoef on behalf of Washington Association of Prosecuting Attorneys, amicus curiae."
+    ],
+    "corrections": "",
+    "head_matter": "[No. 91669-1.\nArgued February 18, 2016.\nDecided June 9, 2016.\nThe State of Washington, Respondent, v. Nakia Lee Otton, Petitioner.\nJan Ti'asen (o\u00ed Washington Appellate Project), for petitioner. Ryan P. Jurvakainen, Prosecuting Attorney, and David Phelan, Deputy, for respondent.\nGretchen E. Verhoef on behalf of Washington Association of Prosecuting Attorneys, amicus curiae."
+  },
+  "file_name": "0673-01",
+  "first_page_order": 727,
+  "last_page_order": 756
+}

@@ -1,0 +1,242 @@
+{
+  "id": 1355719,
+  "name": "Van Etten v. Lesser-Goldman Cotton Company",
+  "name_abbreviation": "Van Etten v. Lesser-Goldman Cotton Co.",
+  "decision_date": "1923-04-23",
+  "docket_number": "",
+  "first_page": "432",
+  "last_page": "437",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "158 Ark. 432"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [
+    {
+      "cite": "76 Ark. 582",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1501029
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/76/0582-01"
+      ]
+    },
+    {
+      "cite": "57 Ark. 158",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "67 Ark. 352",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "60 Ark. 357",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1903745
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/60/0357-01"
+      ]
+    },
+    {
+      "cite": "69 Ark. 306",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        8722321
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/69/0306-01"
+      ]
+    },
+    {
+      "cite": "103 Ark. 91",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1352003
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/103/0091-01"
+      ]
+    },
+    {
+      "cite": "56 Ark. 499",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1326122
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/56/0499-01"
+      ]
+    },
+    {
+      "cite": "132 Ark. 592",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1576686
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/132/0592-01"
+      ]
+    },
+    {
+      "cite": "52 Ark. 158",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1913408
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/52/0158-01"
+      ]
+    },
+    {
+      "cite": "67 Ark. 362",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1152528
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/67/0362-01"
+      ]
+    },
+    {
+      "cite": "70 Ark. 79",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1509431
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/70/0079-01"
+      ]
+    },
+    {
+      "cite": "95 Ark. 37",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "60 Ark. 357",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1903745
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/60/0357-01"
+      ]
+    },
+    {
+      "cite": "103 Ark. 91",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1352003
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/103/0091-01"
+      ]
+    },
+    {
+      "cite": "56 Ark. 499",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1326122
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/56/0499-01"
+      ]
+    },
+    {
+      "cite": "132 Ark. 592",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1576686
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/132/0592-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 489,
+    "char_count": 10031,
+    "ocr_confidence": 0.491,
+    "pagerank": {
+      "raw": 4.825775280467555e-07,
+      "percentile": 0.9319294290902674
+    },
+    "sha256": "c34c81e15deaa2ef669631569d47f1465df161b44606ecbcb1557dd68e37ea65",
+    "simhash": "1:5a4d2945161ff808",
+    "word_count": 1800
+  },
+  "last_updated": "2024-02-27T17:41:16.235499+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Van Etten v. Lesser-Goldman Cotton Company."
+    ],
+    "opinions": [
+      {
+        "text": "Smith, J.\nAppellant rented his farm for the year 1920 for the sum of $499.12 to some colored tenants named McGuire, who did not pay any of the rent. These tenants raised eleven bales of cotton on appellant\u2019s land, and sold eight of them to John Adkins, a buyer for appellee, the Lesser-Goldman Cotton Company. It does not appear whether the cotton bought by Adkins brought enough to pay the rent, but appellee was sued for the rent on the theory that the cotton bought exceeded the rent, and that appellee had become liable for the rent by purchasing the cotton. Appellee admitted buying the cotton, but alleged that its agent bought the cotton in the open market, in the usual course of business, and without actual knowledge that there was a landlord\u2019s lien thereon. The court dismissed the bill as being without equity, and this appeal is from that decree.\nIt is obvious, from the above statement of the issues, that the question in the case is whether Adkins knew there was a lien on the cotton, or was in possession of facts from which knowledge would be imputed to him. For the law is that, while one buying cotton subject to a landlord\u2019s- lien is not liable as for conversion if he has.,no knowledge of the lien, yet ifthe,\u25a0.purchaser- is in possession of facts sufficient to.- put -him-upon notice that the cotton is subject to -the-lien' of ,-'a;-. landlord, good faith requires him to pursue the, inquiry.' to the extent of investigating the facts of which he has-knowledge, and, if reasonable diligence in the investigation of these facts would have led to the knowledge of the actual existence of the lien, then the purchaser is, liable for a conversion, just as he would have been had, he possessed the actual knowledge. The act of purchasring the cotton destroys the landlord\u2019s lien, and. pne.pan-. not do this and escape liability for so doing except, when he has acted in good faith in making the purchase, and good faith requires a reasonable investigation .of any. information of which the purchaser has., possession calculated to warn him that he is being offered cotton upon which there exists a landlord\u2019s lien. Jacobson v. Atkins, 103 Ark. 91; Murphy v. Myar, 95 Ark. 37; Neal v. Brandon, 70 Ark. 79; Merchants & Planters\u2019 Bank v. Meyer, 56 Ark. 499; May v. McGaughey, 60 Ark. 357; Hunter v. Matthews, 67 Ark. 362; Bledsoe v. Mitchell, 52 Ark. 158.\nAppellant cites and relies upon' the case of Security Bank & Trust Co. v. Bond, 132 Ark. 592. But the:, doctrine of that case is not applicable-.here,. for the:rea-' son that it was governed by the laws of the State of: Mississippi, under which a landlord has a lien on 'all-products raised on his premises against a third per-, son who receives such- products -from the tenant and converts the same, either with or without notice, -of the existence of the lien, and, as we-have just said; there is' no such liability under the laws of this State,--unless the purchaser has knowledge, actual or constructive,, of the existence of the lien. - - .-.\n. .The testimony may be summarized, as follows': TheMeGuires had' been renting'the land' for' fifteen\" \u2022\u2018\u25a0drtwenty. years; and Adkins' had- been buying\" bbttbh \u25a0\u00a3or appellee in the neighborhood for twelve -or fifteen years,' and liad bought cotton from the McGuires during this time, and no question had been raised about their au-. . thority to sell it.\nU. L. Craven, appellant\u2019s agent, learned that the McGuires had sold two bales of cotton, and this agent went to the office of the Rose City Mercantile Company, hereinafter referred to' as the mercantile company, and notified the persons in charge of that business that the McGuires had not paid the rent, and that he was claiming a lien upon their cotton. Craven also wrote the mercantile company a letter to that effect. Thereafter Adkins bought six more bales of cotton from the McGuires, and this was paid for at the office of the mercantile company. Upon being advised of this fact, Craven demanded the rent of Adkins, who refused to pay it, whereupon this, suit was brought. Thereafter a representative of appellee wrote Craven advising him that the McGuires had other.cotton on the place out of which he could make a part, at least, of the rent, but no action was taken in regard to that cotton.\n. Adkins testified on behalf of appellee, and gave the following testimony: \u201cQ. Is there any connection between the Rose City Mercantile Company and the Lesser-Goldman Cotton Company in your work down there? A. No sir, none at all. Q. Did Mr. Craven ever give you any notice that he held a lien on the McGuire cotton and ask you \u2014 ? A. No sir. Q. Or any one else give you any notice? A. No sir.\u201d And upon his cross-examination he testified as follows: \u201cQ. You say you didn\u2019t know whether this cotton came off of rented land or not? A. No sir. Q. You knew the McGuires rented some of the land, didn\u2019t you? A. No sir. I. k\u00f1ew probably they were renting land, but I didn\u2019t know who they-were renting from. Q. You knew they were renting from somebody? A. No, I didn\u2019t know that. I didn\u2019t know whether they were renting any land or not. Q. You half-way believed it, didn\u2019t you? A. No; I didn\u2019t know. I didn\u2019t give it a thought. Q. Did you know they owned some of the land themselves? A. I think so, yes. Q. Did you think they owned enough to raise twelve bales of cotton on it? A. I didn\u2019t know how many they raised. Q. And didn\u2019t care? A. No. Q. Do you know where the Van Etten place is? A. I know where part of it is; I don\u2019t know where all of it is located. Q. Do you know what land is rented out there and what\u2019s- \u2014 ? A. Not altogether, no. Q. But pretty well? A. Yes, I know some that rent land and some that don\u2019t. Q. How long have you been engaged in business in that neighborhood? A. I have been buying cotton there 12 or 15 years. Q. In 1920 you stayed most of the time in the Bose City Mercantile Company, didn\u2019t you? A. No time at all. Q. You never were in there? A. Oh, I would go in there, maybe, once or twice a day, I don\u2019t know, but I didn\u2019t have any connection with it in the way of working there.\u201d And on his redirect examination he testified as follows: \u201cQ. When you paid off over there, you paid off just for the convenience of your customers, didn\u2019t you? A. I gave a ticket, and they could go anywhere they wanted to go and get the money. Q. In other words, you gave a due-bill for the amount due, and they could cash it anywhere they wanted? A. Yes sir. Q. Did they ever cash it at other places? A. Quite often at other places.\u201d\nIt was shown that appellee had an office across the street from the mercantile company\u2019s on which its name appeared, together with that of Adkins as its agent, but he appears when buying cotton to have spent most of his time on the streets.\nIn addition to the land rented from appellant, the McGuires also owned a forty-acre tract of land, on a portion of which they raised cotton, and it had been their practice for a number of years to sell Adkins the cotton from both farms, just as was done in 1920, and no question had ever before been raised about their right to do so, it having been the practice of the McGuires to deposit the rent in bank to appellant\u2019s credit, but Adkins had no knowledge of that fact.\nThe case was heard by the court on oral testimony, and we are unable to say that the finding that appellee was an innocent purchaser is contrary to the preponderance of the evidence.\nWe do not think Adkins\u2019 answers set out above indicated any lack of good faith in pursuing the inquiry, suggested by the facts within his possession. It is true he might, by inquiry of the employees of the mercantile company, have ascertained, that the McGuires were tenants and had not paid their rent, but there is nothing in the record to impose that duty on Adkins. There was no connection between that company and appellee, and no one connected with the mercantile company communicated to Adkins what Craven had said to the employees of that company.\nAdkins bought in open market, in the usual course of business, from the McGuires, as he had done for a number of years without any question beinp- rape-''1, and if we credit his testimony, as the court below did \u2014 and we see no reason for not doing so \u2014 we are unable to find that he did not buy the cotton in good faith and without knowledge of appellant\u2019s lien.\nThe decree of the court below must therefore be affirmed.",
+        "type": "majority",
+        "author": "Smith, J."
+      }
+    ],
+    "attorneys": [
+      "John W. Newman, for appellant.",
+      "Sherrill \u00a3 Mallory, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Van Etten v. Lesser-Goldman Cotton Company.\nOpinion delivered April 23, 1923.\n1. Landlord and tenant \u2014 landlord\u2019s lien \u2014 innocent purchaser \u2014One who purchases cotton on which a landlord\u2019s lien exists cannot escape liability therefor except when he has acted in good faith in making such purchase, and good faith requires a reasonable investigation of any information which he has that is calculated to warn him that he is being offered cotton upon which there exists a landlord\u2019s lien.\n2. Landlord and tenant \u2014 landlord\u2019s lien \u2014 innocent purchaser \u2014 evidence.\u2014Evidence\" held to justify a finding that A purchase of cotton on which a landlord\u2019s lien existed was made in good faith and with knowledge of such lien. .\nAppeal from' Pulaski Chancery Court; John E. Martin\u00e9au. Chancellor;\naffirmed.\nJohn W. Newman, for appellant.\nAppellee\u2019s agent purchased the cotton on which there was a landlord\u2019s lien from appellant\u2019s tenants after information that put it upon notice that the rent was unpaid. 132 Ark. 592; 56 Ark. 499; 103 Ark. 91; 69 Ark. 306.\nSherrill \u00a3 Mallory, for appellee.\nAppellee purchased the cotton in the usual course of business, in the open market, without any knowledge of its being subject to a landlord\u2019s lien, and is not liable to the landlord therefor at all. Case of 132 Ark. 592, not applicable, being governed by the laws of Mississippi. Before appellee can be charged with the landlord\u2019s lien on this cotton, it must be shown he had notice of the lieu at the time he purchased the cotton. 60 Ark. 357; 67 Ark. 352; 57 Ark. 158. There was no such proof. Appellant consented to the sale of the cotton. 76 Ark. 582."
+  },
+  "file_name": "0432-01",
+  "first_page_order": 456,
+  "last_page_order": 461
+}

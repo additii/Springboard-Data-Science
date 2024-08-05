@@ -1,0 +1,78 @@
+{
+  "id": 12462913,
+  "name": "In re Det. of Brooks",
+  "name_abbreviation": "In re Det. of Brooks",
+  "decision_date": "2016-11-02",
+  "docket_number": "No. 93350-2",
+  "first_page": "1021",
+  "last_page": "1021",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "186 Wash. 2d 1021"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Wash.",
+    "id": 9029,
+    "name": "Washington Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 38,
+    "name_long": "Washington",
+    "name": "Wash."
+  },
+  "cites_to": [
+    {
+      "cite": "193 Wn. App. 1028",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        12450036,
+        12450037,
+        12450038,
+        12450039
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/193/1028-01",
+        "/wash-app/193/1028-02",
+        "/wash-app/193/1028-03",
+        "/wash-app/193/1028-04"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 26,
+    "char_count": 170,
+    "ocr_confidence": 0.87,
+    "sha256": "26c0c0eaee4624f7d10fa3c2fe83579a5fa41d90caf1a83ed26ffede119c3d97",
+    "simhash": "1:a41932376329d5e7",
+    "word_count": 31
+  },
+  "last_updated": "2024-02-27T18:43:05.207238+00:00",
+  "provenance": {
+    "date_added": "2019-05-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Det. of Brooks,"
+    ],
+    "opinions": [
+      {
+        "text": "Petition for review of a decision of the Court of Appeals, No. 46760-7-II, April 19, 2016, 193 Wn. App. 1028. Denied November 2, 2016.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "In re Det. of Brooks,\nNo. 93350-2."
+  },
+  "file_name": "1021-07",
+  "first_page_order": 1007,
+  "last_page_order": 1007
+}

@@ -1,0 +1,76 @@
+{
+  "id": 12462845,
+  "name": "Thompson et al., Petitioners, v. City of Mercer Island, Respondent",
+  "name_abbreviation": "Thompson v. City of Mercer Island",
+  "decision_date": "2016-09-28",
+  "docket_number": "No. 93219-1",
+  "first_page": "1013",
+  "last_page": "1013",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "186 Wash. 2d 1013"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Wash.",
+    "id": 9029,
+    "name": "Washington Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 38,
+    "name_long": "Washington",
+    "name": "Wash."
+  },
+  "cites_to": [
+    {
+      "cite": "193 Wn. App. 653",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        12449917
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/193/0653-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 31,
+    "char_count": 216,
+    "ocr_confidence": 0.891,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.25766212624751483
+    },
+    "sha256": "9cc1c396b906d9a0de2b357772b68eb74ce3dea5fef167dc63e607af69136391",
+    "simhash": "1:a891ca3c3bd9af3c",
+    "word_count": 36
+  },
+  "last_updated": "2024-02-27T18:43:05.207238+00:00",
+  "provenance": {
+    "date_added": "2019-05-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Thompson et al., Petitioners, v. City of Mercer Island, Respondent,"
+    ],
+    "opinions": [
+      {
+        "text": "Petition for review of a decision of the Court of Appeals, No. 72809-1-I, March 14, 2016, 193 Wn. App. 653. Denied September 28, 2016.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Thompson et al., Petitioners, v. City of Mercer Island, Respondent,\nNo. 93219-1."
+  },
+  "file_name": "1013-02",
+  "first_page_order": 999,
+  "last_page_order": 999
+}

@@ -1,0 +1,109 @@
+{
+  "id": 8724769,
+  "name": "Standard Oil Company of Louisiana v. Hydrick",
+  "name_abbreviation": "Standard Oil Co. of Louisiana v. Hydrick",
+  "decision_date": "1927-07-11",
+  "docket_number": "",
+  "first_page": "813",
+  "last_page": "817",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "174 Ark. 813"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [
+    {
+      "cite": "297 S. W. 1020",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "219 S. W. 1022",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "143 Ark. 122",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1589375
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/143/0122-01"
+      ]
+    },
+    {
+      "cite": "195 S. W. 399",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "129 Ark. 18",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1580498
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/129/0018-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 492,
+    "char_count": 8504,
+    "ocr_confidence": 0.472,
+    "pagerank": {
+      "raw": 1.9488768200814078e-07,
+      "percentile": 0.7364680334644993
+    },
+    "sha256": "0bc3630fb5da2a6b362df06e04d748c78cd7dcc3424078c59a700f2181b55d76",
+    "simhash": "1:a494767e8294f9c9",
+    "word_count": 1524
+  },
+  "last_updated": "2024-02-27T16:23:40.975481+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Standard Oil Company of Louisiana v. Hydrick."
+    ],
+    "opinions": [
+      {
+        "text": "Humphkeys, J.\nThis is an appeal from judgments in favor of appellees, Gr. E. Hydrick, for $1,836.35, and Mrs. Gr. E. Hydrick for $163.65, against appellant, rendered in the circuit court of Cross County, for damages sustained by each for the loss of their home and certain personal property caused by fire resulting from the alleged negligence of appellant in making a delivery of gasoline.\nAppellant denied the allegation of negligence contained in the complaint, and the cause was sent to the jury, over its objection and exception, on the issue of negligence. At the conclusion of the testimony appellant requested the court to direct the jury to return a verdict in its favor, upon the alleged ground that the proof failed to show, directly or substantially, that the fire which destroyed the property originated from sparks or heated pieces of carbon emitted by the motor of the truck in which the gasoline was delivered by appellant\u2019s employee to appellees. The court refused to peremptorily instruct a verdict in its favor, and appellant contends for a reversal of the judgment on that account. The rule is that a verdict of a jury will not he disturbed by this court on appeal if there is any substantial legal evidence to support it, when viewed in its most favorable light to appel-lee and when given its highest probative value with all inferences reasonably deducible therefrom. Hall v. Jones, 129 Ark. 18, 195 S. W. 399; Arkansas Land & Lumber Company v. Fitzhugh, 143 Ark. 122, 219 S. W. 1022; Standard Oil Company of Louisiana v. Gill (Ark.), 297 S. W. 1020.\nThe testimony in the instant case, when viewed in its most favorable light to appellees and given its strongest probative force, is, in substance, as follows:\nAppellees requested appellant to make a delivery of gasoline to the home of appellees, who sent A. L. Bridges, one of its drivers, with a Ford truck equipped with a gasoline tank to make the delivery. Upon arriving at the premises of appellees, Bridges found that the tank into which he was to deliver the gasoline was situated inside of appellees \u2019 barn, eight and one-half or nine feet from the entrance. He hacked his truck up to and about one foot inside the entrance to the barn and drew the gasoline from his truck tank through a faucet on the rear thereof into a 5-gallon gasoline can, and conveyed it to the container of appellees, which was a 54%-gallon standard oil drum. In filling the drum he ran it over, spilling about a quart of gasoline on the dirt floor, which sloped toward the front. He brought more gasoline than was ordered, and put what the mlain drum would not hold into an open-top bucket, which he also ran over, and placed it on top of the main drum, leaving the gasoline exposed. There were quite a lot of chips and shavings lying on the floor near the drum or tank. Bridges then cranked the car, and allowed the motor to run while he wrote a receipt and gave it to Eva May Hydrick, a littfe girl ten years old, who brought the check to him for the gasoline. Fire broke out in the barn about five or six minutes after Bridges drove away, which was discovered by Eva May Hydrick, who had been sent to the barn by her mother to see if the cow had been turned out.\nWilliam Baugh qualified as an expert, and testified as follows:\n\u201cA. Well I-have had a right smart experience\u2014 drove cars and drove tractors \u2014 and an engine that stands idle a-running for a while will throw out hot carbon and is liable to set anything afire. Q. Now, Mr. Baugh, where, in what part, and from what part of the car would those hot sparks and burning carbon come? A. Come from the exhaust. Q. You know where the exhaust is located .on a Ford truck? A. Yes sir, it- is near the rear axle. Q. Describe where is the muffler on that exhaust? A. The muffler is nigh'the rear axle. Q. I am speaking about the exhaust pipe! A. The exhaust pipe runs into the muffler. Q. Does the exhaust pipe run out of the muffler! A. No sir. Q. Did you ever look into one of those mufflers? A. Yes sir. Q. TIow are they constructed on the inside? A. That is double on the inside, and the exhaust has got to go through and make a return in there. Q. What makes sparks fly out of the back end of a Ford car? A. Carbon. Q. Suppose the carbon has been removed out of a car within a reasonable length of time, say a week or ten days, would carbon come out of that car! A. Yes sir, carbon will collect in any gasoline engine in a very short time. Q. I will ask you, Mr. Baugh, suppose a car was in proper condition, would those sparks have a tendency to drop straight down from the end of the muffler or would the explosion of the muffler have a tendency to throw them back? A. Well, that would depend on the way the motor was pulling. If the motor was pulling hard, the harder the motor was pulling the further back it would throw those sparks. Q. Suppose a truck, like the Standard Oil Company truck, was at \u00e1 dead stand, and went to start on a\u00bb pull, would that engine be pulling harder to start than it would after it got started? A. It would be pulling harder when it started than when it got started. Q. Would it be more liable to throw.sparks back when it was pulling hard than when it was after it was moving off? A. It would be more liable to throw sparks when it was getting started than it would when it was moving off on the road. \u2019 \u2019\nThe testimony of William Baugh was corroborated by G-. E. Hydrick, who himself had had a great deal of experience in operating arid repairing automobiles and trucks.\nNo other believable theory of the origin of the fire was advanced and sustained by the proof.\nIn stating the case as favorably to appellee as possible, the writer has drawn largely upon the statement furnished by learned counsel for appellant, with the addition of William Baugh\u2019s and Gr. E. Hydride\u2019s testimony, which Avas not referred to by them. We haye added the testimony of these expert Avitnesses because their evidence furnishes a basis from which the jury might have reasonably inferred that the fire originated from sparks or heated pieces of carbon which could have been emitted by the motor through the exhaust pipe and muffler, when the car was started, which could have fallen on the chips and shavings, causing them to blaze and ignite the gasoline. Counsel for appellant earnestly contend that it is contrary to the very naturS of things that a spark thrown amongst rubbish saturated with gasoline would have smoldered for five or six minutes before causing a blaze. Chips or shavings saturated with gasoline will not blaze any quicker than if not saturated with gasoline. It takes a blaze to ignite gasoline. A spark or piece of heated carbon might not create a blaze in- a pile of shavings for some time. It might smolder until a gust of wind fanned it into 'a flame. We ciannot say that the verdict rests upon conjecture and speculation. No other believable theory was advanced for the origin of the fire. Bridges spilled gasoline on the floor that had shavings and chips on it, and left several gallons of gasoline exposed in an open-top bucket; he then cranked the car and allowed the motor to run while writing a receipt, after which he started the car. According* to the expert testimony, sparks and heated carbon may have been emitted when the car started that could have fallen into the shavings and chips and started the fire. This would haAre been a reasonable .inference, in view of the fact that the fire Avas discovered only five or six minutes after Bridges left and when no other belieAuible theory for the origin of the fire Avas proved.\nWe think there is sufficient legal evidence in the record to sustain the verdict. The judgment is therefore affirmed.",
+        "type": "majority",
+        "author": "Humphkeys, J."
+      }
+    ],
+    "attorneys": [
+      "Moore, Gray, Burrow & McDonnell, for appellant.",
+      "Ogan & Shaver, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Standard Oil Company of Louisiana v. Hydrick.\nOpinion delivered July 11, 1927.\n1. Appeal and'error \u2014 conclusiveness op verdict. \u2014 The jury\u2019s verdict will not be disturbed on appeal, if there is substantial legal evidence to support it, when viewed in the light most favorable to appellee, and given its highest probative value, with all inferences reasonably deductible therefrom.\n2. Explosives \u2014 jury question. \u2014 Whether a fire was caused by heated sparks of carbon from the exhaust of a truck, where the driver filling the tank in a barn spilled gasoline^ on shavings and cranked the car, allowing the motor to run, held under the evidence for the jury.\nAppeal from Cross Circuit Court; W. W. Bmvdy, Judge;\naffirmed.\nMoore, Gray, Burrow & McDonnell, for appellant.\nOgan & Shaver, for appellee."
+  },
+  "file_name": "0813-01",
+  "first_page_order": 831,
+  "last_page_order": 835
+}

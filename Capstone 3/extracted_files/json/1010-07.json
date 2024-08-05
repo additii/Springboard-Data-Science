@@ -1,0 +1,76 @@
+{
+  "id": 12462826,
+  "name": "Garcia et al., Petitioners, v. Franklin County, Respondent",
+  "name_abbreviation": "Garcia v. Franklin County",
+  "decision_date": "2016-09-28",
+  "docket_number": "No. 93137-2",
+  "first_page": "1010",
+  "last_page": "1010",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "186 Wash. 2d 1010"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Wash.",
+    "id": 9029,
+    "name": "Washington Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 38,
+    "name_long": "Washington",
+    "name": "Wash."
+  },
+  "cites_to": [
+    {
+      "cite": "193 Wn. App. 1020",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        12450008,
+        12450009,
+        12450007
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/193/1020-02",
+        "/wash-app/193/1020-03",
+        "/wash-app/193/1020-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 30,
+    "char_count": 211,
+    "ocr_confidence": 0.869,
+    "sha256": "8c2bf77a9c01bec249d563801cc19e038adb20875f36ced28e79a9b7ef8374b3",
+    "simhash": "1:0d9542bf75f9485d",
+    "word_count": 34
+  },
+  "last_updated": "2024-02-27T18:43:05.207238+00:00",
+  "provenance": {
+    "date_added": "2019-05-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Garcia et al., Petitioners, v. Franklin County, Respondent,"
+    ],
+    "opinions": [
+      {
+        "text": "Petition for review of a decision of the Court of Appeals, No. 33204-7-III, April 12, 2016, 193 Wn. App. 1020. Denied September 28, 2016.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Garcia et al., Petitioners, v. Franklin County, Respondent,\nNo. 93137-2."
+  },
+  "file_name": "1010-07",
+  "first_page_order": 996,
+  "last_page_order": 996
+}

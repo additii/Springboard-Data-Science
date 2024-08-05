@@ -1,0 +1,139 @@
+{
+  "id": 1428346,
+  "name": "Helena v. Russwurm",
+  "name_abbreviation": "Helena v. Russwurm",
+  "decision_date": "1934-02-26",
+  "docket_number": "Crim. 3875",
+  "first_page": "968",
+  "last_page": "970",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "188 Ark. 968"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [
+    {
+      "cite": "278 S. W. 649",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "170 Ark. 10",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1371677
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/170/0010-01"
+      ]
+    },
+    {
+      "cite": "218 S. W. 179",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "142 Ark. 91",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1590529
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/142/0091-01"
+      ]
+    },
+    {
+      "cite": "23 L. R. A. (N. S.) 245",
+      "category": "reporters:federal",
+      "reporter": "L.R.A.N.S.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "78 Kan. 859",
+      "category": "reporters:state",
+      "reporter": "Kan.",
+      "case_ids": [
+        1103993
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/kan/78/0859-01"
+      ]
+    },
+    {
+      "cite": "125 Pac. 389",
+      "category": "reporters:state_regional",
+      "reporter": "P.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "41 Utah 154",
+      "category": "reporters:state",
+      "reporter": "Utah",
+      "case_ids": [
+        8873616
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/utah/41/0154-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 352,
+    "char_count": 5417,
+    "ocr_confidence": 0.51,
+    "pagerank": {
+      "raw": 1.6343475431493039e-07,
+      "percentile": 0.6900525860774123
+    },
+    "sha256": "29397635fda94da8426dcc872e079152fe4d1135e39835450c7a3910392c9358",
+    "simhash": "1:12e3be44bc94cca7",
+    "word_count": 926
+  },
+  "last_updated": "2024-02-27T23:51:14.545434+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Helena v. Russwurm."
+    ],
+    "opinions": [
+      {
+        "text": "Smith, J.\nOrdinance No. 1858 of the city of Helena imposed a tax on various occupations. Section 1 thereof reads as follows: \u2018 \u2018 That it shall be unlawful for any person, firm or corporation or individual in the city of Helena, Arkansas, to engage in, follow, or carry on any of the following businesses, trades or occupations, vocations, callings or professions without first having obtained and paid an annual license therefor from t'he city collector; the amounts of such license are hereby fixed in this ordinance.\u201d Item 56 of the ordinance imposed a tax of $50 on all persons practicing the profession of dentistry, and item 58 imposed a tax of $50 on doctors and surgeons. The ordinance required the tax to be paid in advance on or before October 15 of each year, and by section 30 it was provided that: \u201cAny person, firm or corporation violating any of the provisions of this ordinance shall be deemed guilty of a misdemeanor and upon conviction shall be fined twice the amount of the license imposed by this ordinance; each day that such violation shall continue shall constitute a separate offense.\u201d\nCertain doctors and dentists in the city of Helena failed to pay the tax, and were tried in the municipal court of the city for violation of the ordinance, and were fined twice the amount of the taxes provided by the ordinance. An appeal was duly prosecuted to the circuit court, and, pending the appeal, the ordinance was amended on September 7, 1933, by ordinance No. 2118, which reduced the amount of the license to be paid by physicians, surgeons and dentists for the next year by one-half. The amendatory ordinance contained no saving clause, but in the last section thereof it was provided that \u201cThis ordinance to take full force and effect from and after its passage, and all ordinances in conflict therewith to be void. \u2019 \u2019\nThe appeal came on to be heard in the circuit court after the passage of ordinance No. 2118, and a motion was filed in the circuit court to dismiss the case, for the reason that ordinance No. 2118 had repealed ordinance No. 1858, and contained no saving clause. This motion was sustained, and the cases were dismissed, and this appeal has been prosecuted from that order.\nIt is pointed out that \u00a7\u00a7 9758 and 9759, Crawford & Moses\u2019 Digest, do not apply to municipal ordinances, but apply only to the statutes of the State. These sections read as follows:\n\u201cSection 9758. When any criminal or penal statute shall be repealed, all offenses committed or forfeiture accrued under it while it was in force shall be punished or enforced as if it were in force, notwithstanding such repeal, unless otherwise expressly provided in the repealing statute.\n\u201cSection 9759. No action, plea, prosecution or proceeding, civil or criminal, pending at the time any statutory provisions shall be repealed, shall be affected by such repeal, but the same shall proceed in all respects as if such statutory provisions had remained in force. \u2019 \u2019\nThe case of Pleasant Grove City v. Lindsay, 41 Utah 154, 125 Pac. 389, is cited as holding that a State law providing that the repeal of a statute will not affect any action or proceeding commenced under or by virtue of the statute repealed has no application to municipal ordinances or any proceedings instituted under them.\nWe are cited also to \u00a7 7500, Crawford & Moses\u2019 Digest, which reads as follows: \u201cAll laws, ordinances, resolutions or orders heretofore lawfully passed and adopted by the city or town council, not inconsistent with the Constitution or laws of this State, shall be, remain and continue in force until altered or repealed by the city council.\u201d\nIt is argued that ordinance No. 2118 is an \u201calteration\u201d of ordinance No. 1858, within the meaning of \u00a7 7500, Crawford & Moses\u2019 Digest, and operates to repeal it, inasmuch as there was no clause in the later ordinance saving prosecutions pending in the earlier ordinance. See Wichita v. Murphy, 78 Kan. 859, 23 L. R. A. (N. S.) 245.\nWe are of the opinion, however, that this argument is based upon a misconception of the purpose and effect of ordinance No. 2118. No purpose is apparent in the amendatory ordinance to remit the tax for the fiscal year 1932-1933, nor to reduce the amount thereof. On the contrary, the purpose and effect of the amendatory ordinance is merely to reduce the tax for the ensuing fiscal year of 1933-1934, leaving unchanged the tax for the preceding year. The tax for the year 1932-1933 was due and was alleged to be delinquent when the amendatory ordinance was passed.\nThere is no repugnancy between these ordinances, as they relate to different years, and there is therefore no implied repeal. In the case of Sanderson v. Williams, 142 Ark. 91, 218 S. W. 179, it was held that, where there is no express repeal by the last enactment of prior statutes, it is to be presumed that no repeal was intended, and such effect will not be given unless the statutes are in irreconcilable conflict. Babb v. El Dorado, 170 Ark. 10, 278 S. W. 649. This rule of construction applies to municipal ordinances as well as to the statutes of the State. Section 203, McQuillin, Municipal Ordinances.\nWe conclude therefore that the court was in error in dismissing the cases, and that judgment is reversed, and they are remanded for further proceedings.",
+        "type": "majority",
+        "author": "Smith, J."
+      }
+    ],
+    "attorneys": [
+      "Polk & Orr, for appellant.",
+      "Jo. M. Walker, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Helena v. Russwurm.\nCrim. 3875.\nOpinion delivered February 26, 1934.\nPolk & Orr, for appellant.\nJo. M. Walker, for appellee."
+  },
+  "file_name": "0968-01",
+  "first_page_order": 986,
+  "last_page_order": 988
+}

@@ -1,0 +1,115 @@
+{
+  "id": 8718916,
+  "name": "Perry County v. Gatlin",
+  "name_abbreviation": "Perry County v. Gatlin",
+  "decision_date": "1932-07-11",
+  "docket_number": "4-2623",
+  "first_page": "116",
+  "last_page": "121",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "186 Ark. 116"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [
+    {
+      "cite": "2 S. W. (2d) 44",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "176 Ark. 107",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1400045
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/176/0107-01"
+      ]
+    },
+    {
+      "cite": "297 S. W. 817",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "174 Ark. 715",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        8724157
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/174/0715-01"
+      ]
+    },
+    {
+      "cite": "25 Ark. 353",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1864570
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/25/0353-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 429,
+    "char_count": 9223,
+    "ocr_confidence": 0.509,
+    "pagerank": {
+      "raw": 1.6343475431493039e-07,
+      "percentile": 0.6900531652617585
+    },
+    "sha256": "f36d4dbcdfc9d72ddb769f4b1059a9ebb826333cfc4acaffa63063a7f507f3fe",
+    "simhash": "1:bfe4f677c6fabf1a",
+    "word_count": 1618
+  },
+  "last_updated": "2024-02-27T17:52:01.123529+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Perry County v. Gatlin."
+    ],
+    "opinions": [
+      {
+        "text": "Mehaffy, J.\nThe appellant, Perry County, on June 26, 1931, filed in the chancery court of Perry County the following complaint:\n\u201cMOTION POE SUMMARY JUDGMENT AGAINST SHERIFF OF YELL COUNTY, ARKANSAS\n\u2018\u2018Plaintiff states that:\n\u201cPlaintiff is the owner of a valid and subsisting judgment against Morgan Utilities, Inc., in the sum of $10,276.94 obtained in this canse on the first day of September, 1930, which now remains wholly unpaid.\n\u201cOn or about the.day of November, 1930, the plaintiff caused to be issued by the clerk of this court an execution upon said judgment, which said execution was directed to the sheriff of Yell County, Arkansas. Said sheriff was by said execution commanded to make of the estate of said Morgan Utilities, Inc., the sum of $10,-276.94, with interest at the rate of 4 per cent, per annum from April 22,1930, together with $27.70 costs.\n\u201cSaid execution was promptly delivered to Baxter Gratlin, who was then sheriff of Yell County, but the said Baxter Gratlin has wholly failed and refused to return said execution to the clerk of this court, and plaintiff is therefore entitled to summary judgment against said Baxter Gratlin, and his bondsmen, J. W. Lewis, J. W. Wilson, Lynn Wilson, and C. C. Sharpe, in the sum of $11,577.77, which is the amount called for in said execution plus 10 per cent, penalties.\n\u201cA certified copy of the bond of the said Baxter Gatlin, as the former sheriff of Yell County, and signed by said J. W. Wilson, Lynn Wilson, J. W. Lewis and C. C. Sharpe, is filed herein, marked Exhibit A and made part hereof.\n\u201cWherefore plaintiff prays that it be given summary judgment against Baxter Gatlin, J. W. Wilson, Lynn Wilson, J. W. Lewis and C. C. Sharpe in the sum of $11,577.77, together with any and all other legal and equitable relief to which plaintiff may be made to appear entitled, whether specifically herein prayed for or not.\u201d\nA copy of the official bond of Baxter Gatlin as the former sheriff of Yell County, principal, and J. W. Wilson, Lynn Wilson, J. W. Lewis and C. C. Sharpe as sureties is.attached.\nThe motion for summary judgment against the sheriff of Yell County,- Arkansas, and his bondsmen, above set forth, was filed in the 'chancery case of Perry County, plaintiff, against S. R. Morgan et al., defendants, in the Perry Chancery Court, on the 26th day of June, 1931.\nOn that day the plaintiff in that case, tie appellant here, caused the clerk of the Perry Chancery Court to issue the following summons requiring Baxter Gatlin, \u00abT. W. Wilson, Lynn Wilson, J. W. Lewis and C. C. Sharpe to answer the summary motion above set forth:\n\u201cIN THE CHANCERY COURT OF PERRY COUNTY, ARKANSAS\n\u201cPerry County...Plaintiff, v. No. 1006\n\u201cS. R. Morgan et al..Defendants.\n\u201cThe State of Arkansas to the sheriff of Yell County:\n\u201cYou are hereby commanded to summon Baxter Gat-lin, J. W. Wilson, Lynn Wilson, J. W. Lewis, C. C. Sharpe to answer in twenty days after the service of this summons upon them a complaint filed against them by Perry County in the chancery court of Perry County, Arkansas, and warn them that same will be taken for confessed; and you will make due return of this summons on the first day that said court is in session after ten days after the issuance hereof.\n\u201cWitness my hand and the seal of this court this '26th day of June, 1931.\n\u201cJ. R. McBath, Clerk.\u201d\nThis summons was directed to the sheriff of Yell County and was sent to him or delivered to him. It was served by the sheriff of Yell County in Yell County upon each of the appellees on the 6th day of July, 1931, as shown by the following return which was filed in the office of the clerk of the Perry Chancery Court on the 17th day of July, 1931.\n\u201cState of Arkansas, County of Yell.\n\u201cOn the sixth day of July, 1931, I have duly served the within by delivering a copy, and stating the substance thereof, to the within named Baxter Gatlin, J. W. Wilson, J. W. Lewis, Lynn Wilson and C. C. Sharpe,-as I am herein commanded.\n\u201cBuford Compton, Sheriff,\n\u201cBy J. C. Caviness, D. S.\u201d\nOn July 17th, appellees filed a petition for permission to appear for a special purpose. The petition was granted, and appellees filed the following motion to dismiss petition for summary judgment:\n\u201cMOTION TO DISMISS MOTION FOB STTMMABY JUDGMENT\n\u201cComes now Baxter Gatlin, J. W. Wilson, J. W. Lewis, C. C. Sharpe and Lynn Wilson, by permission of this court, for the special purpose of this motion only, and move the court to dismiss the motion for summary judgment filed in this cause, and to quash the writ issued thereon, and for grounds state:\n\u2018 \u2018 That the cause of action, if any, of plaintiff in said summary proceeding, arose in Yell County, and that the venue is wrongfully laid in Perry County, Arkansas.\n\u201cThat plaintiff obtained the issuance of summons for your petitioners from the clerk of the court, directed to the sheriff of Yell County, where service was had.\n\u201cYour petitioners pray this court to dismiss plaintiff\u2019s motion and quash the writ issued thereon for want of jurisdiction.\n\u201cWilson & Wilson,\n\u201cSolicitors for Petitioners.\u201d\nThe court sustained appellee\u2019s motion to dismiss, to which ruling of the court the appellant objected and saved its exceptions, and the case is here on appeal.\nAppellee first contends that the case should be affirmed because appellant did not comply with rule IX. Appellant made a general statement of the issues, but, even if insufficient, the abstract by the appellees supplies this deficiency.\nIt is contended by the appellee that the Perry County Chancery Court had no jurisdiction because the defendants lived in Yell County, and were all served in Yell County, and they cite Milor v. Farrelly, 25 Ark. 353. That was a case brought in the Pulaski Circuit Court, and Milor was sheriff of Sebastian County, and the court said:\n\u201cThe law under which, these proceedings were had is silent as to where the motion should be made, and as nothing can be taken by intendment, and as the general law of the State provides that suits he commenced in the county where the defendant resides or may be found, and as the remedy created is against the securities as well as the sheriff, and as only three days\u2019 notice is required, we cannot place a construction upon the statute which would require parties living in one part of the State to appear before the circuit court of a distant county upon only three days\u2019 notice, especially when such, a construction can only he made by supplying by intendment what the statute does not express.\u201d\nIn the case of Smith v. Drake, 174 Ark. 715, 297 S. W. 817, in discussing the jurisdiction of the court, where judgment was issued on an execution in one county, and served upon the sheriff and the sureties on his bond in another county, we said: \u201cThe circuit court of Jackson County had jurisdiction in this case. There was no suit pending in any other county, and, to hold that the Jackson Circuit Court, the court out of which the execution issued, did not have jurisdiction, would be to deprive the judgment plaintiff of the. remedy given to him by statute.\u201d\nThe same may be said in this case. This judgment was in the court in Perry County, and, unless the judg\u2019ment creditor can file his motion in Perry County, where the judgment is, he would be deprived of the remedy given him by statute. We therefore hold that the court in Perry County had jurisdiction, and that it is the only court where a motion for a summary judgment against these defendants could be filed. There is no judgment in any other court.\n\u201cIn most of these States, proceedings for the enforcement of the officer\u2019s liability are of a summary character. No new or independent action need be commenced. A motion may be made in the suit in which the execution issued, and a judgment obtained therein against the officer and his sureties for the penalty prescribed by statute.\u201d 3 Freeman on Executions, 368; Smith v. Drake, supra.\nIn a case referred to by the appellee, Edwards v. Jackson, 176 Ark. 107, 2 S. W. (2d) 44, the question we have before us now was not involved. That is a case where a suit was brought in Pulaski County against the sheriff of Montgomery County, his deputy, and members of his posse, and the sureties on his official bond for damages for the alleged wrongful act of the sheriff, and wilful, wanton and negligent killing of her husband, Carl Edwards, in Montgomery County, Arkansas.\nIt will be observed that this was an original independent suit against the sheriff and the sureties on his bond, and the statute expressly provides that suits of this character must be brought in the county where the cause of action, or some part of it, arose.\nThis case, as to procedure, is controlled by the case of Smith v. Drake, supra.\nThe court erred in sustaining the motion to quash service and in dismissing the motion.\nThe decree of the chancery court is reversed, and the cause remanded with directions to overrule motion of appellees, and permit them to plead, and to proceed with the trial of the case according to law, and not inconsistent with the principles herein announced.",
+        "type": "majority",
+        "author": "Mehaffy, J."
+      }
+    ],
+    "attorneys": [
+      "Dean, Moore & Brasil, for appellant.",
+      "Evans S Evms, Wilson & Wilson and Bulloch & Priddy, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Perry County v. Gatlin.\n4-2623\nOpinion delivered July 11, 1932.\nDean, Moore & Brasil, for appellant.\nEvans S Evms, Wilson & Wilson and Bulloch & Priddy, for appellee."
+  },
+  "file_name": "0116-01",
+  "first_page_order": 136,
+  "last_page_order": 141
+}

@@ -1,0 +1,222 @@
+{
+  "id": 8727877,
+  "name": "Jones vs. Robinson",
+  "name_abbreviation": "Jones v. Robinson",
+  "decision_date": "1851-01",
+  "docket_number": "",
+  "first_page": "504",
+  "last_page": "512",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "11 Ark. 504"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [
+    {
+      "cite": "1 Pet, Rep. 596",
+      "category": "reporters:scotus_early",
+      "reporter": "Pet.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "3 Mon. 531",
+      "category": "reporters:state",
+      "reporter": "Mon.",
+      "pin_cites": [
+        {
+          "page": "180"
+        }
+      ],
+      "opinion_index": -1
+    },
+    {
+      "cite": "1 Ark. Rep. 243",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "1 Tenn. Rep. 258",
+      "category": "reporters:state",
+      "reporter": "Tenn.",
+      "case_ids": [
+        12140076
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/tenn/1/0258-01"
+      ]
+    },
+    {
+      "cite": "5 Pet. Rep. 680",
+      "category": "reporters:scotus_early",
+      "reporter": "Pet.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "1 Mo. Rep. 205",
+      "category": "reporters:state",
+      "reporter": "Mo.",
+      "case_ids": [
+        8853661
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mo/1/0146-01"
+      ]
+    },
+    {
+      "cite": "3 Wend. 79",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "case_ids": [
+        2144184
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wend/3/0079-01"
+      ]
+    },
+    {
+      "cite": "7 John. 71",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "1 Verm. 136",
+      "category": "reporters:state",
+      "reporter": "Vt.",
+      "case_ids": [
+        8544758
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/vt/1/0136-01"
+      ]
+    },
+    {
+      "cite": "1 Tenn. 260",
+      "category": "reporters:state",
+      "reporter": "Tenn.",
+      "case_ids": [
+        12140341
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/tenn/1/0260-01"
+      ]
+    },
+    {
+      "cite": "7 John. 72",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "case_ids": [
+        369119
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/johns/7/0072-01"
+      ]
+    },
+    {
+      "cite": "7 Porter 184",
+      "category": "reporters:state",
+      "reporter": "Port.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "3 Wend. 78",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "weight": 2,
+      "opinion_index": 0
+    },
+    {
+      "cite": "18 Pick. Rep. 260",
+      "category": "reporters:state",
+      "reporter": "Pick.",
+      "case_ids": [
+        2025414
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/35/0260-01"
+      ]
+    },
+    {
+      "cite": "13 Mass. R. 131",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        2073745
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/13/0109-01"
+      ]
+    },
+    {
+      "cite": "2 Ala. Rep. 294",
+      "category": "reporters:state",
+      "reporter": "Ala.",
+      "case_ids": [
+        11256427
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ala/2/0294-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 689,
+    "char_count": 16568,
+    "ocr_confidence": 0.522,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.20862857255384387
+    },
+    "sha256": "620646687da1d1830baf5c41081592e13a8a513e141154736b15d1fdbee03ded",
+    "simhash": "1:ba9181f27957a8fa",
+    "word_count": 2949
+  },
+  "last_updated": "2024-02-27T22:29:49.400037+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Jones vs. Robinson."
+    ],
+    "opinions": [
+      {
+        "text": "Mr. Justice Scott\ndelivered the opinion of the court.\nThe first objection is against the admissibility of the parol evidence allowed to prove the contents of the instrument upon which the action was founded.\nIt is urged that there was no allegation in the declaration for \u25a0this evidence, and that the profer\u00ed of the original, that the plaintiff had made in his declaration, had not been covered, consequently his case was not made out as he had alleged it. As to the latter he was never called on by oyer to produce the original and he was relieved from such production in this part of his case \u25a0by the pleas of payment and the general issue interposed by the \u25a0defendant (Taylor ad. vs. Peyton\u2019s ad. 1 Wash. R. 252); and was thus enabled to triumph over a difficulty in his case that was originally considered so insurmountable as of itself to drive the owner of a lost bond into equity for relief.\nThe next difficulty to be encountered was the necessity of producing the note in order to prove its execution preparatory to its being read to the jury that its contents might be known, and thus to prove his allegation as to its execution by the defendant, and those as to its contents. And so imperious was the rule that the plaintiff must produce the original in order to prove its execution, when in his declaration he has made pro-fert of it that, although he might prove that the defendant himself had burnt it, the production of the original could not be dispensed with (4 E. 585) and he would thereby be driven to an amendment of his declaration under the gradual modification o\u00ed the original doctrine which the good sense of more modern times had effected. 3 T. R. 151, case of Read vs. Ann Brookman and cases cited in the 3d Amer. Ed. from the 5th London Ed.\nBut in the case before us our statute came to the plaintiff\u2019s aid at this point and relieved him from the necessity of proving the execution of the instrument at all, inasmuch as the defendant filed no sworn plea to bring in issue the execution of the instrument and throw this burden upon him. Thus are all his allegations proven except those relating to the contents of the instrument and he is neither driven into equity nor to an amendment of his declaration.\nBut even if our statute had not come to his aid at this point the case we have already cited from 1 Washington's Reports, is a direct authority that, if the defendant had plead to issue on the merits, without taking oyer of the bond, upon proof of the loss and destruction of the bond, secondary evidence might have been produced without any amendment of the declaration to prove both the execution of the bond and its contents although there was profer\u00ed; because, as is said by the court in that case, such a \u201c case is completely within the spirit of the modern practice stated in the case of Read vs. Brookman, in 3 T. R. and the notes subjoined.\u201d\nThen all that remained to be done in the case before us was for the plaintiff to establish the remaining allegations as to the contents of the note by the mere exhibition to the jury of the instrument itself, the execution of which had been established by operation of law and was in consequence sufficient to establish the remainder of these allegations, ffnd this was done by explicit oral testimony, the foundation for which had been previously laid by proof of the loss of the note long after the suit had been commenced, whereby it appeared that the instrument sued upon was actually in existence at the time of the commencement of the suit; and therefore was within both the letter and the spirit of our statute making such instruments, when the foundation of an action, evidence of its own purport until its execution be denied by sworn plea.\nThe loss of such instrument thus judicially authenticated as an instrument of evidence competent and sufficient for such purpose, would seem to be as clearly susceptible of being\u2019 supplied by secondary evidence as the loss of a record, and there could be no more necessity for a new allegation of the facts to be proven by such instrument so authenticated in which the loss might be incidentally alluded to simply because since the allegation the paper hald been burnt up, than there would be of facts that could be established by a living witness, and which in consequence of his death would have to -be proven by another witness.\nWe are therefore of opinion that there was no error in the ruling of the court below in allowing the parol evidence as to the loss and the contents of the instrument sued upon, upon the allegations in the declaration without amendment.\nThe next objection challenges the finding and the judgment thereon of the court as wholly unsustained by the testimony produced to show due diligence. This objection is well based upon authority and is decisive of the case before us.\nIt was expressly ruled in the case of Ruddell & McGuire vs. Walker (2 Eng. 457) that mere notice of non-payment to the endorser was insufficient to charge him and that there must also be proof of a demand of payment from the maker of the note or of a legal excuse for not making such demand. And the doctrine of that case is beyond all question sound; all the authorities agreeing that by the law merchant nothing short of demand, refusal and notice, all in due time, or their legal equivalent, can fix the endorser. And our statute as to the liability of an endorser is but in affirmance of the law merchant as to the endorser\u2019s liability. (Digest, p. 163, sec. 9.) When a note has been endorsed after its maturity, as in the case at bar, it is in legal effect, as between the endorser and endorsee, an inland bill of exchange payable on demand, while between the endorsee and the maker it remains a note, in effect payable on demand. Consequently to charge the endorser it must be presented within a reasonable time after the transfer, and if payment be refused, immediate notice must be given to the endorser, all the incidents of an inland bill payable on demand having place as between these two parties as to due diligence and lawful excuse for want of it. (Mims vs. The Central Bank of Geo. 2 Ala. Rep. 294. Field vs. Nickerson, 13 Mass. R. 131. Colt vs. Barnard, 18 Pick. Rep. 260. Van Hoesen vs. Van Alstyne, 3 Wend. 78. Smith vs. Gibbs, 2 Smedes & Marsh. 479) : and this because the endorser\u2019s undertaking is predicated upon conditions, and unless these are performed they cannot be made absolute, so as to entitle the holder to an action against him. And in this respect there is no difference whether the paper be endorsed before its maturity or afterwards. Kenner vs. McRea 7 Porter 184-5. Berry vs. Robinson, 9 John. R. 121. Stathart and Bell vs. Parker, 1 Term R. 260 and other cases cited in Chitty on Bills, p. 223, note 1, 10 Amer. Ed. from 9 London Ed.\nAlthough there is a difference in another respect, that is to say, when a note is endorsed before due that is payable at a day certain, it must be demanded on the day, it becomes due without regard to circumstances to fix the endorser; whereas that same note, if endorsed after maturity, need not of necessity be presented on any given day, it having now become in legal effect a note payable on demand.\nBut whether the paper be endorsed before or after maturity, all the reasons which require demand and notice equally apply, and in each case there is the same necessity for prompt notice of non-payment that the endorser may take measurses to secure the payment if, the note be dishonored on presentment. (Slossen vs. Beadle, 7 John. 72. Van Hoesen vs. Van Alstyne, 3 Wend. 78. 1 Tenn. 260. Chitty on Bills 379. Course vs Shackleford, 2 Nott & McCord 283. Bishop vs. Dixter, 2 Conn. R. 419.) And the same rule prevails where a note not negotiable is assigned. Adis & Gadcomb vs. Johnson, 1 Verm. 136. 9 John. R. 92.\nAnd as to what is due dilligence and reasonable time in the presentation and demand of paper payable on demand always-depends upon the circumstances of the case and the situation of the parties. (7 John. 71. Chitty on Bills, 379. 3 Wend. 79.) And although in some cases this is partly a question of fact and partly of law; because the jury have to find the facts, suchas the distance at which the parties are from each other, the course of the post and other circumstances, yet when the facts have been ascertained, the reasonableness of the time is a question of law upon which the judge has to direct the jury, though the judges may take the opinion of the jury as to what is convenient with reference to mercantile transactions. It is however now considered as settled law that the time, when the presentation for payment must be made, is in general a question of law to be pronounced upon the facts proven. Chitty on Bills, 380.\nIn this case, as we shall presently see, the testimony produced, to prove notice of non-payment was - not admissible, but upon the hypothesis that it was admissible and that it established distinctly that notice of non-payment was given to the endorser and that there had also been proof that immediately preceding this notice there was a presentment of the note and a demand of payment and refusal, still under the circumstances and facts shown by the record there would have been a clear and complete want of such dilligence as would have charged the endorser. Nothing would have appeared but ,an endorsement in September, 1841 and demand, refusal and notice at some unknown time in 1842 or 1843 and no excuse at all for such gross negligence.\nIt is perfectly clear then that 'the finding and judgment of the court against the evidence in this case was without testimony to sustain it.\nThe remaining question relates to the admissibility of parol testimony to prove the contents of the notice to the endorser. There was proof that one copy of this written notice was lost or destroyed, but there was no such proof as to the other copy, nor had the endorser been notified to' produce it on trial. One or the other was necessary to authorize secondary evidence of the contents of the paper. The court therefore erred in admitting parol testimony of the contents of the written notice.\nFor these errors the judgment must be reversed and the cause remanded to be proceeded with.",
+        "type": "majority",
+        "author": "Mr. Justice Scott"
+      }
+    ],
+    "attorneys": [
+      "Fowler, for the appellant."
+    ],
+    "corrections": "",
+    "head_matter": "Jones vs. Robinson.\nWhere plaintiff loses a note after declaring upon it, and making profert, and the defendant pleads without craving oyer, plaintiff may prove the loss, and contents of the note, on the trial, without amending the declaration.\nTo fix the liability of the endorser of a note, demand of payment of the maker, refusal, and notice to the endorser, all in due time, or their legal equivalent, are necessary, by the law merchant, and our statute as to the endorser\u2019s liability (Digest.p. 163, sec. 9) is but an affirmance of the law merchant.\nWhen a note has been endorsed after its maturity, it is in. legal effect, as between the endorser and endorsee, an inland bill of exchange payable on demand, while between the endorsee and maker it remains a note, in effect payable on demand. Consequently to charge the endorser, it must be presented within a reasonable time after the transfer, and if payment be refused, immediate notice must be given to the endorser, all the incidents of an inland bill payable on demand having place as between these two parties as to due diligence and lawful excuse for want of it.\nWhen a note is endorsed before due which is payable on a day certain, demand must be made on the day it becomes due, without regard to circumstances, to fix the endorser\u2019s liability, whereas the same note, if endorsed after maturity, need not of necessity be presented for payment on any given day, it having now become in legal effect a note payable on demand.\nBut whether the paper be endorsed before or after -maturity, all reasons which require demand and notice equally apply, and in each case there is the same necessity for prompt notice of non-payment, that the endorser may taire measures to secure the payment, if the note be dishonored on presentment. And the same reason prevails where a note not negotiable is assigned.\nAs to what is due diligence and reasonable time in the presentation and demand of paper payable on demand, always depends upon the circumstances of the case, and the situation of the parties.\nReasonable diligence is' a question of law to be determined upon the facts ascertained by the jury.\nIn this case a note was endorsed, after due, in September, 1841. No evidence of demand, upon the maker, and none of notice of non-payment until some time in 1842 or 1843. No evidence as to the residence of the parties: Held, that the evidence was not sufficient to charge the endorser.\nThe contents of a notice in writing delivered to defendant cannot be proven, until he has been notified to produce it on the trial, and fails to do so.\nAppeal from Johnson Circuit Court.\nAssumpsit by Robinson against Jones in the Johnson Circuit Court.\nThe declaration alleged, in substance, that on the 39th July, 1837, Sharp executed a promisory note to defendant, due at twelve months from that date; of which profert was made. That on the 27th September, 1841, defendant endorsed the said note to plaintiff; and on the same day payment was demanded of Sharp and refused, of which defendant afterwards had notice. (See Jones vs. Robinson, 3 Eng. R. where the declaration is copied, the case having been in this court before.)\nDefendant (after the case was remanded) pleaded non-assump-sit, and payment, to which issues were taken. The issues were submitted to the court sitting as a jury (Floyd, J. presiding at March term, 1850,) and finding and judgment in favor of plaintiff. Defendant took a bill of exceptions setting out the evidence, which was as follows :\nBatson, one of the attorneys for plaintiff, stated that he had the note described in the delaration in his possession twelve months before the trial, since which he had lost it out of his possession, and although he had made diligent search, had been unable to find it. That he had then no knowledge of the note.\nGreen, stated that he saw the note described in the declaration, in the possession of Batson about a year before the trial, and had not seen it since. That before the commencement of this suit, he, being one of the plaintiff\u2019s attorneys, wrote out and delivered to William Adams, a constable, duplicate notices to defendant, notifying him of the non-payment of said note, with directions to A dams to deliver one of the notices to defendant ; which Adams, in a short time afterwards, informed him he had done.\nWilliam Adams testified that some time in 1842 or 1843, Green placed two written notices in his hands, with directions to deliver one of them to defendant. That on the same day he delivered one of them to defendant, and returned the other to Green, with his certificate of service endorsed thereon. That he had no recollection of the contents of the notice, but thought it related to a note.\nGreen, re-called, stated that after Adams returned the copy of the notice to him, he placed it among his papers, where it remained until about a year before the trial, and he had since lost it, and was. unable to find it; which was all the evidence.\nTo the introduction of all which evidence defendant objected, but the court overruled the objection.\nFowler, for the appellant.\nAs profer\u00ed was made of the note it was wholly improper to admit evidence of its loss or parol evidence of its contents without first amending the declaration so as to allege the loss. On the plea of non assumpsit it was necessary to produce both the note and assignment. Wakren-dorffSf Ober vs. Whitaker et ad. 1 Mo. Rep. 205. Henley ad. vs. . Reed ad. ib. 345. Sebree vs. Dow, 5 Pet. Rep. 680.\nTo charge the endorser it was necessary to prove presentment and demand of the maker within a reasonable time and immediate notice to the endorser of non payment. Ruddell & McGuire-vs. Walker, 2 Eng. 459. Smith vs. Gibbs, 2 Smedes & Marshall Rep. 482. Allein vs. The Ag. Bank', 3 ib. 57. 2 Burr R. 676. Chitty on Bills, (9 Amer. from 8 Bond. -Eel.) 384, 385, 401, 402. Stothart & Co. vs. Lewis, 1 Tenn. Rep. 258. Quigley\u2019s ad. vs. Primrose, 8 Porter\u2019s Rep. 240. 1 Dali..Rep. 256.\nThe court erred in permitting secondary evidence of the contents of the notice, until it was shown that the duplicate delivered to Jones was lost or destroyed, or. that he had been notified to produce it and had refused to do so. 1 Ark. Rep. 243, 8 ib. 206. 9 ib. 67. 1 Greenl. Ev. 557 &c. 3 Mon. 531, 180, Arch. Civil Pi. 390. 1 Pet, Rep. 596. 1 Dali. Rep. 209,"
+  },
+  "file_name": "0504-02",
+  "first_page_order": 504,
+  "last_page_order": 512
+}

@@ -1,0 +1,1134 @@
+{
+  "id": 6793756,
+  "name": "Glenda Nissen, Respondent, v. Pierce County et al., Petitioners",
+  "name_abbreviation": "Nissen v. Pierce County",
+  "decision_date": "2015-08-27",
+  "docket_number": "No. 90875-3",
+  "first_page": "863",
+  "last_page": "888",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "183 Wash. 2d 863"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Wash.",
+    "id": 9029,
+    "name": "Washington Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 38,
+    "name_long": "Washington",
+    "name": "Wash."
+  },
+  "cites_to": [
+    {
+      "cite": "433 U.S. 425",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6180181
+      ],
+      "weight": 3,
+      "year": 1977,
+      "pin_cites": [
+        {
+          "page": "457",
+          "parenthetical": "noting public officials have \"constitutionally protected privacy rights in matters of personal life unrelated to any acts done by them in their public capacity\" (emphasis added)"
+        },
+        {
+          "parenthetical": "noting public officials have \"constitutionally protected privacy rights in matters of personal life unrelated to any acts done by them in their public capacity\" (emphasis added)"
+        },
+        {
+          "parenthetical": "noting public officials have \"constitutionally protected privacy rights in matters of personal life unrelated to any acts done by them in their public capacity\" (emphasis added)"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/433/0425-01"
+      ]
+    },
+    {
+      "cite": "218 P.3d 196",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2009,
+      "opinion_index": 0
+    },
+    {
+      "cite": "152 Wn. App. 720",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        5749698
+      ],
+      "year": 2009,
+      "pin_cites": [
+        {
+          "page": "746"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/152/0720-01"
+      ]
+    },
+    {
+      "cite": "240 P.3d 120",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2010,
+      "opinion_index": 0
+    },
+    {
+      "cite": "169 Wn.2d 827",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4010742
+      ],
+      "year": 2010,
+      "pin_cites": [
+        {
+          "page": "836"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/169/0827-01"
+      ]
+    },
+    {
+      "cite": "560 U.S. 746",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3641858,
+        12454870
+      ],
+      "weight": 3,
+      "year": 2010,
+      "pin_cites": [
+        {
+          "page": "756"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/560/0746-01",
+        "/l-ed-2d/177/0216-01"
+      ]
+    },
+    {
+      "cite": "327 P.3d 600",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2013,
+      "opinion_index": 0
+    },
+    {
+      "cite": "177 Wn.2d 417",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4131447
+      ],
+      "year": 2013,
+      "pin_cites": [
+        {
+          "page": "436-37"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/177/0417-01"
+      ]
+    },
+    {
+      "cite": "166 F.3d 473",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        1397107
+      ],
+      "year": 1999,
+      "pin_cites": [
+        {
+          "page": "480-81"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/166/0473-01"
+      ]
+    },
+    {
+      "cite": "25 F.3d 1241",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        10515596
+      ],
+      "year": 1994,
+      "pin_cites": [
+        {
+          "page": "1247"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/25/1241-01"
+      ]
+    },
+    {
+      "cite": "26 F.3d 168",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        10507241,
+        5706413
+      ],
+      "year": 1994,
+      "pin_cites": [
+        {
+          "page": "171"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/26/0168-01",
+        "/us-app-dc/307/0027-01"
+      ]
+    },
+    {
+      "cite": "880 F. Supp. 1",
+      "category": "reporters:federal",
+      "reporter": "F. Supp.",
+      "case_ids": [
+        7835216
+      ],
+      "year": 1995,
+      "pin_cites": [
+        {
+          "page": "11-12"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp/880/0001-01"
+      ]
+    },
+    {
+      "cite": "357 F. Supp. 2d 156",
+      "category": "reporters:federal",
+      "reporter": "F. Supp. 2d",
+      "case_ids": [
+        9170608
+      ],
+      "year": 2004,
+      "pin_cites": [
+        {
+          "page": "163",
+          "parenthetical": "affidavits about \"telephone logs\" and message slips"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp-2d/357/0156-01"
+      ]
+    },
+    {
+      "cite": "455 F.3d 283",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3456664,
+        3253266
+      ],
+      "year": 2006,
+      "pin_cites": [
+        {
+          "page": "288-89",
+          "parenthetical": "affidavits from employees about character of electronic calendars"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us-app-dc/372/0198-01",
+        "/f3d/455/0283-01"
+      ]
+    },
+    {
+      "cite": "372 U.S. App. D.C. 198",
+      "category": "reporters:state",
+      "reporter": "U.S. App. D.C.",
+      "case_ids": [
+        3456664
+      ],
+      "year": 2006,
+      "pin_cites": [
+        {
+          "parenthetical": "affidavits from employees about character of electronic calendars"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us-app-dc/372/0198-01"
+      ]
+    },
+    {
+      "cite": "818 F. Supp. 2d 131",
+      "category": "reporters:federal",
+      "reporter": "F. Supp. 2d",
+      "case_ids": [
+        4192686
+      ],
+      "year": 2011,
+      "pin_cites": [
+        {
+          "page": "139-40",
+          "parenthetical": "declarations sufficient to determine e-mails were not sent in employee's official capacity"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp-2d/818/0131-01"
+      ]
+    },
+    {
+      "cite": "80 Stat. 250",
+      "category": "laws:leg_session",
+      "reporter": "Stat.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "90 P.3d 26",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2004,
+      "opinion_index": 0
+    },
+    {
+      "cite": "151 Wn.2d 439",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        428166
+      ],
+      "year": 2004,
+      "pin_cites": [
+        {
+          "page": "448"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/151/0439-01"
+      ]
+    },
+    {
+      "cite": "530 P.2d 302",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1975,
+      "opinion_index": 0
+    },
+    {
+      "cite": "85 Wn.2d 140",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1120496
+      ],
+      "year": 1975,
+      "pin_cites": [
+        {
+          "page": "145"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/85/0140-01"
+      ]
+    },
+    {
+      "cite": "132 S. Ct. 945",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12446025,
+        12186415
+      ],
+      "weight": 2,
+      "year": 2012,
+      "pin_cites": [
+        {
+          "page": "955",
+          "parenthetical": "Sotomayor, J., concurring"
+        },
+        {
+          "parenthetical": "Sotomayor, J., concurring"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/l-ed-2d/181/0911-01",
+        "/us/565/0400-01"
+      ]
+    },
+    {
+      "cite": "319 P.3d 9",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2014,
+      "pin_cites": [
+        {
+          "parenthetical": "alteration in original"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "179 Wn.2d 862",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4033593
+      ],
+      "year": 2014,
+      "pin_cites": [
+        {
+          "page": "869",
+          "parenthetical": "alteration in original"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/179/0862-01"
+      ]
+    },
+    {
+      "cite": "983 P.2d 635",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1999,
+      "opinion_index": 0
+    },
+    {
+      "cite": "138 Wn.2d 950",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        887343
+      ],
+      "year": 1999,
+      "pin_cites": [
+        {
+          "page": "960"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/138/0950-01"
+      ]
+    },
+    {
+      "cite": "187 P.3d 822",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2008,
+      "opinion_index": 0
+    },
+    {
+      "cite": "145 Wn. App. 913",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        5738591
+      ],
+      "year": 2008,
+      "pin_cites": [
+        {
+          "page": "925"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/145/0913-01"
+      ]
+    },
+    {
+      "cite": "550 P.2d 7",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1976,
+      "opinion_index": 0
+    },
+    {
+      "cite": "87 Wn.2d 195",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1113805
+      ],
+      "year": 1976,
+      "pin_cites": [
+        {
+          "page": "196"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/87/0195-01"
+      ]
+    },
+    {
+      "cite": "210 P.3d 297",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2009,
+      "pin_cites": [
+        {
+          "parenthetical": "citing Garrison v. Wash. State Nursing Bd., 87 Wn.2d 195, 196, 550 P.2d 7 (1976)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "166 Wn.2d 444",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4001228
+      ],
+      "year": 2009,
+      "pin_cites": [
+        {
+          "page": "451",
+          "parenthetical": "citing Garrison v. Wash. State Nursing Bd., 87 Wn.2d 195, 196, 550 P.2d 7 (1976)"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/166/0444-01"
+      ]
+    },
+    {
+      "cite": "618 P.2d 76",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1980,
+      "opinion_index": 0
+    },
+    {
+      "cite": "94 Wn.2d 559",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1164076
+      ],
+      "year": 1980,
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/94/0559-01"
+      ]
+    },
+    {
+      "cite": "958 P.2d 260",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1998,
+      "opinion_index": 0
+    },
+    {
+      "cite": "135 Wn.2d 734",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        812838
+      ],
+      "year": 1998,
+      "pin_cites": [
+        {
+          "page": "746"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/135/0734-01"
+      ]
+    },
+    {
+      "cite": "346 P.3d 737",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2015,
+      "opinion_index": 0
+    },
+    {
+      "cite": "182 Wn.2d 896",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4075676
+      ],
+      "year": 2015,
+      "pin_cites": [
+        {
+          "page": "906"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/182/0896-01"
+      ]
+    },
+    {
+      "cite": "191 P.2d 875",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1948,
+      "opinion_index": 0
+    },
+    {
+      "cite": "30 Wn.2d 439",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        2502923
+      ],
+      "year": 1948,
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/30/0439-01"
+      ]
+    },
+    {
+      "cite": "310 P.2d 880",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1957,
+      "opinion_index": 0
+    },
+    {
+      "cite": "50 Wn.2d 273",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1002069
+      ],
+      "year": 1957,
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/50/0273-01"
+      ]
+    },
+    {
+      "cite": "320 P.2d 311",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1958,
+      "pin_cites": [
+        {
+          "parenthetical": "citing Lunz v. Dep't of Labor & Indus., 50 Wn.2d 273, 310 P.2d 880 (1957); Roletto v. Dep't Stores Garage Co., 30 Wn.2d 439, 191 P.2d 875 (1948)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "51 Wn.2d 569",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1005627
+      ],
+      "year": 1958,
+      "pin_cites": [
+        {
+          "page": "573",
+          "parenthetical": "citing Lunz v. Dep't of Labor & Indus., 50 Wn.2d 273, 310 P.2d 880 (1957); Roletto v. Dep't Stores Garage Co., 30 Wn.2d 439, 191 P.2d 875 (1948)"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/51/0569-01"
+      ]
+    },
+    {
+      "cite": "716 P.2d 814",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1986,
+      "opinion_index": 0
+    },
+    {
+      "cite": "105 Wn.2d 457",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1199156
+      ],
+      "year": 1986,
+      "pin_cites": [
+        {
+          "page": "467-68"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/105/0457-01"
+      ]
+    },
+    {
+      "cite": "149 P.2d 823",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1944,
+      "pin_cites": [
+        {
+          "parenthetical": "as to counties"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "21 Wn.2d 53",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        2602499
+      ],
+      "year": 1944,
+      "pin_cites": [
+        {
+          "page": "58",
+          "parenthetical": "as to counties"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/21/0053-01"
+      ]
+    },
+    {
+      "cite": "586 P.2d 482",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1978,
+      "pin_cites": [
+        {
+          "parenthetical": "as to cities"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "91 Wn.2d 36",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1101822
+      ],
+      "year": 1978,
+      "pin_cites": [
+        {
+          "page": "40",
+          "parenthetical": "as to cities"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/91/0036-01"
+      ]
+    },
+    {
+      "cite": "43 P.3d 4",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2002,
+      "opinion_index": 0
+    },
+    {
+      "cite": "146 Wn.2d 1",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        960829
+      ],
+      "year": 2002,
+      "pin_cites": [
+        {
+          "page": "10-11"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/146/0001-01"
+      ]
+    },
+    {
+      "cite": "580 P.2d 246",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1978,
+      "opinion_index": 0
+    },
+    {
+      "cite": "90 Wn.2d 123",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1104348
+      ],
+      "year": 1978,
+      "pin_cites": [
+        {
+          "page": "127"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/90/0123-01"
+      ]
+    },
+    {
+      "cite": "174 P.3d 60",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2007,
+      "pin_cites": [
+        {
+          "parenthetical": "plurality opinion"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "162 Wn.2d 716",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        3696063
+      ],
+      "year": 2007,
+      "pin_cites": [
+        {
+          "page": "731",
+          "parenthetical": "plurality opinion"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/162/0716-01"
+      ]
+    },
+    {
+      "cite": "246 P.3d 768",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2011,
+      "pin_cites": [
+        {
+          "parenthetical": "quoting Soter v. Cowles Publ'g Co., 162 Wn.2d 716, 731, 174 P.3d 60 (2007) (plurality opinion) (quoting Hearst Corp. v. Hoppe, 90 Wn.2d 123, 127, 580 P.2d 246 (1978))"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "170 Wn.2d 775",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4013186
+      ],
+      "year": 2011,
+      "pin_cites": [
+        {
+          "page": "791",
+          "parenthetical": "quoting Soter v. Cowles Publ'g Co., 162 Wn.2d 716, 731, 174 P.3d 60 (2007) (plurality opinion) (quoting Hearst Corp. v. Hoppe, 90 Wn.2d 123, 127, 580 P.2d 246 (1978))"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/170/0775-01"
+      ]
+    },
+    {
+      "cite": "943 P.2d 1358",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1997,
+      "opinion_index": 0
+    },
+    {
+      "cite": "133 Wn.2d 229",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        331104
+      ],
+      "year": 1997,
+      "pin_cites": [
+        {
+          "page": "239"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/133/0229-01"
+      ]
+    },
+    {
+      "cite": "845 P.2d 995",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1993,
+      "opinion_index": 0
+    },
+    {
+      "cite": "120 Wn.2d 782",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1368172
+      ],
+      "year": 1993,
+      "pin_cites": [
+        {
+          "page": "788"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/120/0782-01"
+      ]
+    },
+    {
+      "cite": "261 P.3d 119",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2011,
+      "opinion_index": 0
+    },
+    {
+      "cite": "172 Wn.2d 702",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4017860
+      ],
+      "year": 2011,
+      "pin_cites": [
+        {
+          "page": "715"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/172/0702-01"
+      ]
+    },
+    {
+      "cite": "755 P.2d 781",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1988,
+      "pin_cites": [
+        {
+          "parenthetical": "quoting 5 Charles Alan Wright & Arthur R. Miller, Federal Practice \u00a7 357, at 604 (1969)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "110 Wn.2d 415",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1182867
+      ],
+      "year": 1988,
+      "pin_cites": [
+        {
+          "page": "420",
+          "parenthetical": "quoting 5 Charles Alan Wright & Arthur R. Miller, Federal Practice \u00a7 357, at 604 (1969)"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/110/0415-01"
+      ]
+    },
+    {
+      "cite": "962 P.2d 104",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1998,
+      "opinion_index": 0
+    },
+    {
+      "cite": "136 Wn.2d 322",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        867945
+      ],
+      "year": 1998,
+      "pin_cites": [
+        {
+          "page": "330"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/136/0322-01"
+      ]
+    },
+    {
+      "cite": "154 P.3d 206",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2007,
+      "pin_cites": [
+        {
+          "parenthetical": "quoting Tenore v. AT&T Wireless Servs., 136 Wn.2d 322, 330, 962 P.2d 104 (1998)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "159 Wn.2d 837",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        3592457
+      ],
+      "year": 2007,
+      "pin_cites": [
+        {
+          "page": "842",
+          "parenthetical": "quoting Tenore v. AT&T Wireless Servs., 136 Wn.2d 322, 330, 962 P.2d 104 (1998)"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/159/0837-01"
+      ]
+    },
+    {
+      "cite": "343 P.3d 759",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2015,
+      "opinion_index": 0
+    },
+    {
+      "cite": "182 Wn.2d 1008",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "year": 2015,
+      "opinion_index": 0
+    },
+    {
+      "cite": "333 P.3d 577",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "weight": 3,
+      "year": 2014,
+      "pin_cites": [
+        {
+          "page": "595"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "183 Wn. App. 581",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        4345136
+      ],
+      "year": 2014,
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/183/0581-01"
+      ]
+    },
+    {
+      "cite": "240 P.3d 1149",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2010,
+      "opinion_index": 0
+    },
+    {
+      "cite": "170 Wn.2d 138",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4013220
+      ],
+      "year": 2010,
+      "pin_cites": [
+        {
+          "page": "150"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/170/0138-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1692,
+    "char_count": 40367,
+    "ocr_confidence": 0.762,
+    "pagerank": {
+      "raw": 2.97041072389969e-07,
+      "percentile": 0.8502501497191535
+    },
+    "sha256": "549057a32b01b68da1581cafdefcaf6007851f41e225d6c37f1ad8c3788d20b7",
+    "simhash": "1:7de4fd83fb2afc13",
+    "word_count": 6541
+  },
+  "last_updated": "2024-02-27T22:09:01.011694+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Madsen, C.J., and Johnson, Owens, Fairhurst, Stephens, Wiggins, Gonz\u00e1lez, and Gordon McCloud, JJ., concur."
+    ],
+    "parties": [
+      "Glenda Nissen, Respondent, v. Pierce County et al., Petitioners."
+    ],
+    "opinions": [
+      {
+        "text": "Yu, J.\n\u00b61 Five years ago, we concluded that the Public Records Act (PRA), chapter 42.56 RCW, applied to a record stored on a personal computer, recognizing that \u201c[i]f government employees could circumvent the PRA by using their home computers for government business, the PRA could be drastically undermined.\u201d O\u2019Neill v. City of Shoreline, 170 Wn.2d 138, 150, 240 P.3d 1149 (2010). Today, we consider if the PRA similarly applies when a public employee uses a private cell phone to conduct government business. We hold that text messages sent and received by a public employee in the employee\u2019s official capacity are public records of the employer, even if the employee uses a private cell phone.\nBACKGROUND\n\u00b62 This case involves two requests for public records that Glenda Nissen, a sheriff\u2019s detective, sent to Pierce County (County). Both requests asked for records related to Pierce County Prosecutor Mark Lindquist. One request stated:\nPlease produce any and all of Mark Lindquist\u2019s cellular telephone records for number 253-861-XXXX[] or any other cellular telephone he uses to conduct his business including text messages from August 2, 2011.\nClerk\u2019s Papers (CP) at 15. The other stated:\nThe new public records request is for Mark Lindquist\u2019s cellular telephone records for number 253-861-[XXXX] for June 7, 2010.[]\nId. at 17 (first alteration in original). The telephone number identified in these requests is connected to Lindquist\u2019s private cell phone. There is no dispute that Lindquist personally bought the phone, personally pays for its monthly service, and sometimes uses it in the course of his job.\n\u00b63 In response to these requests, Lindquist obtained and provided the County with two types of records. The first, which the parties refer to as the \u201ccall log,\u201d is similar to an itemized statement customers might receive from their service provider each month. It contains information about the dates and times of calls made and received, the length of those calls, and the phone number of the incoming or outgoing call. Lindquist\u2019s service provider, Verizon Wireless, generated the call log and provided it to Lindquist at his request. He voluntarily produced it to the County.\n\u00b64 The second type of record reveals information about text messages Lindquist sent and received over two days (\u201ctext message log\u201d). The text message log does not reveal the content of those messages. Instead, similar to the call log, it itemizes the date and time of each message and provides the telephone number of the corresponding party. Lindquist also obtained the text message log from Verizon after receiving Nissen\u2019s PRA requests and produced it to the County.\n\u00b65 The County reviewed the call and text message logs and disclosed partially redacted copies to Nissen. Accompanied by an exemption log, the redactiohs conceal line items for calls and text messages that Lindquist self-described as personal in nature. The remaining unredacted portions relate to calls and text messages that the County and Lindquist admit might be work related. See CP at 490 (Decl. of Mark Lindquist in Supp. of Mot. To Intervene & Join) (\u201cI authorized the release of records of calls that were related to the conduct of government or the performance of any governmental or proprietary function.\u201d); Pierce County\u2019s Pet. for Review at 3 (\u201c[T]he Prosecutor authorized the release of records of calls that \u2018may be work related.\u2019 \u201d); Lindquist\u2019s Pet. for Review at 10 (\u201c[T]he Petitioner provided those communications that may be \u2018work related.\u2019 \u201d). Thus nearly half of the text messages Lindquist sent or received and many of his phone calls during the relevant period potentially related to his job as the elected prosecutor. The County did not produce the contents of any text message, however, though copies of them exist on Verizon\u2019s servers.\n\u00b66 Dissatisfied with the County\u2019s disclosures, Nissen sued the County in Thurston County Superior Court. She sought an in camera review of Lindquist\u2019s text messages and the call and text message logs to determine if all of the information is a public record. Lindquist intervened and moved for a temporary restraining order and preliminary injunction to enjoin further disclosure of records related to his cell phone. He argued that compelling him to disclose his text messages would violate the state and federal constitutions and was prohibited by state and federal statutes. CP at 502-18. That same day, the County moved to dismiss Nissen\u2019s complaint under CR 12(b)(6). It argued the records at issue could not be public records as a matter of law, because they related to a personal cell phone rather than a county-issued one.\n\u00b67 The trial court consolidated the two motions for a hearing. After argument, the trial judge granted the County\u2019s CR 12(b)(6) motion, determining as a matter of law that records of private cell phone use can never be public records under the PRA. The Court of Appeals reversed. Nissen v. Pierce County, 183 Wn. App. 581, 333 P.3d 577 (2014). Applying the PRA\u2019s definition of \u201cpublic record,\u201d the Court of Appeals held that Lindquist\u2019s text messages were public records because he \u201cprepared\u201d them in his official capacity. Id. at 593-94 (citing RCW 42.56.010(3)). The court further held that the factual record was not sufficiently developed on the issue of whether the call logs also qualify as \u201cpublic record [s],\u201d noting that the issue turned on whether Lindquist used or retained the logs in his capacity as prosecuting attorney. Id. at 595.\n\u00b68 We granted the County\u2019s and Lindquist\u2019s petitions for review, Nissen v. Pierce County, 182 Wn.2d 1008, 343 P.3d 759 (2015), and now affirm in part and remand with further instructions.\nSTANDARD OF REVIEW\n\u00b69 We review de novo a CR 12(b)(6) order dismissing a complaint. Dismissal is proper only if we conclude that \u201cthe plaintiff cannot prove \u2018any set of facts which would justify recovery.\u2019 \u201d Kinney v. Cook, 159 Wn.2d 837, 842, 154 P.3d 206 (2007) (quoting Tenore v. AT&T Wireless Servs., 136 Wn.2d 322, 330, 962 P.2d 104 (1998)). Motions to dismiss are granted \u201c \u2018only in the unusual case in which plaintiff includes allegations that show on the face of the complaint that there is some insuperable bar to relief.\u2019 \u201d Hoffer v. State, 110 Wn.2d 415, 420, 755 P.2d 781 (1988) (quoting 5 Charles Alan Wright & Arthur R. Miller, Federal Practice \u00a7 357, at 604 (1969)).\n\u00b610 Our standard of review in PRA cases is also de novo. Neigh. All. of Spokane County v. Spokane County, 172 Wn.2d 702, 715, 261 P.3d 119 (2011).\nANALYSIS\n\u00b611 Before turning to the questions this case presents, it is helpful to clarify the questions it does not. This case does not involve a public employer seizing an employee\u2019s private cell phone to search for public records. It does not involve a records request for every piece of data on a smartphone. And it does not involve a citizen suing a public employee for access to the employee\u2019s phone. Instead, this is an action against an agency for two types of records that, while potentially related to the agency\u2019s public business, are in the exclusive control of the agency\u2019s employee. This case asks whether those records can nonetheless be \u201cpublic records\u201d the agency must disclose and, if so, whether there are limits to how the agency may search for and review those records.\n\u00b612 With that in mind, we first interpret the PRA to determine if a record of government business conducted on a private cell phone is a \u201cpublic record,\u201d as the PRA defines the term. We then apply that definition to the specific records here \u2014 the call and text message logs and text messages. Finally, we address the mechanics of searching for and obtaining public records held by or in the control of public employees. As explained below, we hold that text messages sent or received by Lindquist in his official capacity can be public records of the County, regardless of the public or private nature of the device used to create them; and we order Lindquist to obtain, segregate, and produce those public records to the County.\nI. The PRA Reaches Employee-Owned Cell Phones When Used for Agency Business\n\u00b613 Our analysis begins with the text of the PRA. By its plain language, the PRA applies \u201cwhen an \u2018agency\u2019 is requested to disclose \u2018public records\u2019. \u201d Dawson v. Daly, 120 Wn.2d 782, 788, 845 P.2d 995 (1993). Because those are both defined terms, we must interpret the statutory definitions to decide if records of public business an employee conducts on his or her private cell phone are public records. Senate Republican Campaign Comm. v. Pub. Disclosure Comm\u2019n, 133 Wn.2d 229, 239, 943 P.2d 1358 (1997). The PRA defines \u201cagency\u201d very broadly as\nall state agencies and all local agencies. \u201cState agency\u201d includes every state office, department, division, bureau, board, commission, or other state agency. \u201cLocal agency\u201d includes every county, city, town, municipal corporation, quasi-municipal corporation, or special purpose district, or any office, department, division, bureau, board, commission, or agency thereof, or other local public agency.\nRCW 42.56.010(1). This definition in turn affects what information is a \u201cpublic record\u201d since it is incorporated into the statutory definition of that term. Under the PRA, a \u201cpublic record\u201d is\nany writing containing information relating to the conduct of government or the performance of any governmental or proprietary function prepared, owned, used, or retained by any state or local agency regardless of physical form or characteristics.\nRCW 42.56.010(3) (emphasis added).\n\u00b614 The definitions of \u201cagency\u201d and \u201cpublic record\u201d are each comprehensive on their own and, when taken together, mean the PRA subjects \u201cvirtually any record related to the conduct of government\u201d to public disclosure. O\u2019Neill, 170 Wn.2d at 147. This broad construction is deliberate and meant to give the public access to information about every aspect of state and local government. See Laws of 1973, ch. 1, \u00a7 1(11). As we so often summarize, the PRA \u201c \u2018 \u201cis a strongly worded mandate for broad disclosure of public records.\u201d \u2019 \u201d Yakima County v. Yakima Herald-Republic, 170 Wn.2d 775, 791, 246 P.3d 768 (2011) (quoting Soter v. Cowles Publ\u2019g Co., 162 Wn.2d 716, 731, 174 P.3d 60 (2007) (plurality opinion) (quoting Hearst Corp. v. Hoppe, 90 Wn.2d 123, 127, 580 P.2d 246 (1978))).\nA. Agency Employees Working within the Scope of Employment Create Public Records\n\u00b615 Despite that mandate, the County argues public employees can avoid the PRA simply by using a private cell phone, even if they use it for public business and even if the same information would be a public record had they used a government-issued phone instead. The County finds this large gap in the PRA by isolating the statute\u2019s definition of \u201cagency,\u201d which does not expressly refer to individual employees as \u201cagencies.\u201d RCW 42.56.010(1). Since county employees like Lindquist are not literally a \u201ccounty,\u201d the County argues its employees and the records they control are completely removed from the PRA\u2019s scope.\n\u00b616 While that reasoning may have superficial appeal, it misses the central question here. We cannot interpret statutory terms oblivious to the context in which they are used. Dep\u2019t of Ecology v. Campbell & Gwinn, LLC, 146 Wn.2d 1, 10-11, 43 P.3d 4 (2002). As this case does not ask if a public employee is an \u201cagency\u201d with independent obligations separate from those the PRA imposes on the employer, interpreting \u201cagency\u201d in isolation is unhelpful. Nissen\u2019s request was directed at the County, not Lindquist. Our task instead is to decide if records that a public employee generates while working for an agency are \u201cpublic records\u201d that the agency must disclose. Thus, we must interpret the statutory definitions of \u201cagency\u201d and \u201cpublic record\u201d together, keeping in mind the purpose those definitions are intended to further. See Hearst Corp., 90 Wn.2d at 128.\n\u00b617 One characteristic of a public record is that it is \u201cprepared, owned, used, or retained by any state or local agency.\u201d RCW 42.56.010(3). The County is correct that every agency the PRA identifies is a political body arising under law (e.g., a county). But those bodies lack an innate ability to prepare, own, use, or retain any record. They instead act exclusively through their employees and other agents, and when an employee acts within the scope of his or her employment, the employee\u2019s actions are tantamount to \u201cthe actions of the [body] itself.\u201d Houser v. City of Redmond, 91 Wn.2d 36, 40, 586 P.2d 482 (1978) (as to cities); Hailey v. King County, 21 Wn.2d 53, 58, 149 P.2d 823 (1944) (as to counties). Integrating this basic common law concept into the PRA, a record that an agency employee prepares, owns, uses, or retains in the scope of employment is necessarily a record \u201cprepared, owned, used, or retained by [a] state or local agency.\u201d RCW 42.56.010(3).\n\u00b618 That interpretation is the only logical one considering how agencies conduct business and carry out their obligations under the PRA. See Dawson, 120 Wn.2d at 789 (public records were \u201cprepared by the prosecutor\u2019s office\u201d because two employees created and compiled them). If the PRA did not capture records individual employees prepare, own, use, or retain in the course of their jobs, the public would be without information about much of the daily operation of government. Such a result would be an affront to the core policy underpinning the PRA \u2014 the public\u2019s right to a transparent government. That policy, itself embodied in the statutory text, guides our interpretation of the PRA. RCW 42.56.030; Laws of 1973, ch. 1, \u00a7 1(11); Hearst Corp., 90 Wn.2d at 128.\nB. The PRA Captures Work Product on Employee Cell Phones\n\u00b619 With that understanding, it is clear that an agency\u2019s \u201cpublic records\u201d include the work product of its employees. And we find nothing in the text or purpose of the PRA supporting the County\u2019s suggestion that only work product made using agency property can be a public record. To the contrary, the PRA is explicit that information qualifies as a public record \u201cregardless of [its] physical form or characteristics.\u201d RCW 42.56.010(3). In O\u2019Neill, we held that a city official stored a public record on a private computer in her home by using the computer for city business, 170 Wn.2d at 150, which is consistent with the idea that employees can use their own property and still be within the scope of their employment. Dickinson v. Edwards, 105 Wn.2d 457, 467-68, 716 P.2d 814 (1986). There is no reason to treat cell phones differently. We hold that records an agency employee prepares, owns, uses, or retains on a private cell phone within the scope of employment can be a public record if they also meet the other requirements of RCW 42.56.010(3).\n\u00b620 Applying the PRA to employee cell phone use is not new. Though an issue of first impression in this court, many state and local agencies implementing the PRA already conclude that using a private cell phone to conduct public business can create a public record. Over the last several years, agencies have begun adopting policies about private cell phone use and advising employees of the agencies\u2019 obligation to preserve all public records. Just as examples:\n\u2022 \u201cEmployees utilizing cell phones for City business must not utilize written cell phone capabilities such as text messaging or email for City business unless such phone is synchronized with the City\u2019s computer system so that such electronic records can be maintained according to the State records retention requirements.\u201d City of Prosser, Personnel Policy Manual 32 (2009) (Policy 403: Cell Phone Allowance).\n\u2022 \u201cAll county business generated on personal mobile devices are subject to the Public Records Act.... Text messages sent and received on a personal mobile device are not stored in any other form. Employees shall not use texting for any County business.\u201d Thur-ston County Administrative Manual (2012) \u00a7 10 (Personal Mobile Device Policy).\n\u2022 \u201cEmployees should be aware that work-related texts and voice messages on cell phones are public records subject to the Public Records Act. Employees have a duty to maintain such records in accordance with the Washington Local Government Record Retention Schedules.\u201d City of Grandview, Personnel Policy Manual 88 (2013) (use of personal cellular telephones to conduct city business), http://www.grandview.wa.us /wp-content/uploads/2013/03/Personnel-Policy-Manual l.pdf.\nThese policies are comparable to many others around the state and are consistent with the attorney general\u2019s understanding of the PRA. See WAC 44-14-03001(3). While these interpretations do not bind us, O\u2019Neill, 170 Wn.2d at 149, they discredit the County\u2019s assertion that private cell phone use has always been treated as outside the PRA.\n\u00b621 Similarly unpersuasive is the County\u2019s warning that every \u201cwork-related\u201d personal communication is now a public record subject to disclosure. Traditional notions of principal-agency law alleviate this concern. For information to be a public record, an employee must prepare, own, use, or retain it within the scope of employment. An employee\u2019s communication is \u201cwithin the scope of employment\u201d only when the job requires it, the employer directs it, or it furthers the employer\u2019s interests. Greene v. St. Paul-Mercury Indem. Co., 51 Wn.2d 569, 573, 320 P.2d 311 (1958) (citing Lunz v. Dep\u2019t of Labor & Indus., 50 Wn.2d 273, 310 P.2d 880 (1957); Roletto v. Dep\u2019t Stores Garage Co., 30 Wn.2d 439, 191 P.2d 875 (1948)). This limits the reach of the PRA to records related to the employee\u2019s public responsibilities. For instance, employees do not generally act within the scope of employment when they text their spouse about working late or discuss their job on social media. Nor do they typically act within the scope of employment by creating or keeping records purely for private use, like a diary. None of these examples would result in a public record \u201cprepared, owned, used, or retained\u201d by the employer agency in the usual case.\n\u00b622 Agencies can act only through their employee-agents. With respect to an agency\u2019s obligations under the PRA, the acts of an employee in the scope of employment are necessarily acts of the \u201cstate and local agencies]\u201d under RCW 42.56.010(3). We therefore reject the County\u2019s argument that records related to an employee\u2019s private cell phone can never be public records as a matter of law. Instead, records an employee prepares, owns, uses, or retains within the scope of employment are public records if they meet all the requirements of RCW 42.56.010(3). This inquiry is always case- and record-specific. Cf. Predisik v. Spokane Sch. Dist. No. 81, 182 Wn.2d 896, 906, 346 P.3d 737 (2015).\nII. Applying the PRA to the Call and Text Message Logs and Text Messages\n\u00b623 We next apply RCW 42.56.010(3) to the records at issue here \u2014 the call and text message logs and text messages. To be a public record under RCW 42.56.010(3), information must be (1) a writing (2) related to the conduct of government or the performance of government functions that is (3) prepared, owned, used, or retained by a state or local agency. Confederated Tribes of Chehalis Reserva tion v. Johnson, 135 Wn.2d 734, 746, 958 P.2d 260 (1998). The first element is not in dispute \u2014 the parties agree that the call and text message logs and text messages are \u201cwritings\u201d under the PRA. See RCW 42.56.010(4). The remaining two elements are discussed in turn.\nA. Records Relating to the Conduct of Government\n\u00b624 Public records must \u201crelat[e] to the conduct of government or the performance of any governmental or proprietary function.\u201d RCW 42.56.010(3). This language casts a wide net. In Confederated Tribes, for example, we held that records of money paid by Indian tribes into a common fund related to the conduct of the government even though the records related primarily to tribal gaming operations. 135 Wn.2d at 739-43. Since the state received money from the common fund, we determined tribal contributions impacted state government and therefore records of those contributions were public records. Id. at 748.\n\u00b625 We adopted a similarly broad interpretation in Oliver v. Harborview Medical Center, 94 Wn.2d 559, 618 P.2d 76 (1980), which involved medical records of patients hospitalized at a state-owned facility. The records there unquestionably related to individual patients and did not explicitly discuss government operations, but we still held that the records \u201crelat[ed] to the conduct of government\u201d under RCW 42.56.010(3). From them, the public could learn about the \u201cadministration of health care services, facility availability, use and care, methods of diagnosis, analysis, treatment and costs, all of which are carried out or relate to the performance of a governmental or proprietary function.\u201d Oliver, 94 Wn.2d at 566.\n\u00b626 Together, these cases suggest records can qualify as public records if they contain any information that refers to or impacts the actions, processes, and functions of government.\nB. Records Prepared, Owned, Used, or Retained by an Agency\n\u00b627 As explained previously, a public record must also be \u201cprepared, owned, used, or retained\u201d by an agency, which includes an agency employee acting within the scope of employment. But the parties still quarrel over the meaning of these verbs, which requires that we further interpret RCW 42.56.010(3). Statutory interpretation starts with the plain meaning of the language; the plain meaning controls if it is unambiguous. Campbell, 146 Wn.2d at 11-12. We may use a dictionary to discern the plain meaning of an undefined statutory term. HomeStreet, Inc. v. Dep\u2019t of Revenue, 166 Wn.2d 444, 451, 210 P.3d 297 (2009) (citing Garrison v. Wash. State Nursing Bd., 87 Wn.2d 195, 196, 550 P.2d 7 (1976)).\n\u00b628 \u201cPrepared\u201d \u201cPrepare\u201d is defined as \u201cto put together\u201d; to \u201cmake, produce\u201d; \u201cto put into written form.\u201d Webster\u2019s Third New International Dictionary 1790 (2002). This interpretation is consistent with previous cases that treat \u201cpreparing\u201d a record as creating it. See Dawson, 120 Wn.2d at 787 (agency \u201cprepared\u201d record by \u201ccreat[ing] one of the files\u201d); Oliver, 94 Wn.2d at 566 (records of patient\u2019s hospitalization \u201cprepared\u201d by the hospital).\n\u00b629 \u201cOwned.\u201d To \u201cown\u201d a record means \u201cto have or hold [it] as property.\u201d Webster\u2019s, supra, at 1612; see also O\u2019Neill v. City of Shoreline, 145 Wn. App. 913, 925, 187 P.3d 822 (2008).\n\u00b630 \u201cUsed\u201d We previously addressed what it means for an agency to \u201cuse\u201d a record. We broadly interpreted the term in Concerned Ratepayers Ass\u2019n v. Public Utility District No. 1 of Clark County, 138 Wn.2d 950, 960, 983 P.2d 635 (1999), holding that the \u201ccritical inquiry is whether the requested information bears a nexus with the agency\u2019s decision-making process.\u201d A record that is prepared and held by a third party, without more, is not a public record. But if an agency \u201cevaluates], review[s], or refer[s]\u201d to a record in the course of its business, the agency \u201cuses\u201d the record within the meaning of the PRA. Id. at 962.\n\u00b631 \u201cRetained.\u201d To \u201cretain\u201d a record means \u201cto hold or continue to hold [it] in possession or use.\u201d Webster\u2019s, supra, at 1938.\nC. The Text Messages Are Potentially Public Records; the Call and Text Message Logs Are Not\n\u00b632 We now apply those definitions to decide if the complaint sufficiently alleges that the call logs and text messages are \u201cpublic records.\u201d Absent an allegation that the County used the call and text message logs, the logs in this case are not public records. The call and text message logs were prepared and retained by Verizon, and Nissen does not contend that the County evaluated, reviewed, or took any other action with the logs necessary to \u201cuse\u201d them. Concerned Ratepayers, 138 Wn.2d at 962. Though they evidence the acts of a public employee, the call and text message logs played no role in County business as records themselves. We hold that the complaint fails to allege the call and text message logs are \u201cpublic records\u201d of the County within the meaning of RCW 42.56.010(3) because the County did nothing with them.\n\u00b633 We reach a different conclusion as to text messages. Nissen sufficiently alleges that Lindquist sent and received text messages in his official capacity \u201cto take actions retaliating against her and other official misconduct.\u201d CP at 14. When acting within the scope of his employment, Lindquist \u201cprepares\u201d outgoing text messages by \u201cputting them into written form\u201d and sending them. Similarly, he \u201cused\u201d incoming text messages when he reviewed and replied to them while within the scope of employment. Since the County and Lindquist admit that some text messages might be \u201cwork related,\u201d the complaint sufficiently alleges that those messages meet all three elements of a \u201cpublic record\u201d under RCW 42.56.010(3).\n\u00b634 Transcripts of the content of those text messages are thus potentially public records subject to disclosure, consistent with the procedure discussed below.\nIII. Searching for Public Records within an Employee\u2019s Control\n\u00b635 We finally turn to the mechanics of searching for and obtaining public records stored by or in the control of an employee. The County and Lindquist suggest that various provisions of the state and federal constitutions categorically prohibit a public employer from obtaining public records related to private cell phone use without consent. Because an individual has no constitutional privacy interest in a public record, Lindquist\u2019s challenge is necessarily grounded in the constitutional rights he has in personal information comingled with those public records. We are mindful that today\u2019s mobile devices often contain \u201ca \u2018wealth of detail about [a person\u2019s] familial, political, professional, religious, and sexual associations.\u2019 \u201d State v. Hinton, 179 Wn.2d 862, 869, 319 P.3d 9 (2014) (alteration in original) (quoting United States v. Jones, 565 U.S. _, 132 S. Ct. 945, 955, 181 L. Ed. 2d 911 (2012) (Sotomayor, J., concurring)). As nearly two-thirds of Americans can now communicate, access the Internet, store documents, and manage appointments on their smartphones, cell phones are fast becoming an indispensable fixture in people\u2019s private and professional lives. Text messaging is the most widely used smartphone feature; e-mail is not far behind. Aaron Smith, U.S. Smartphone Use in 2015, Pew Research Ctr. (Apr. 1, 2015), http://www.pewinternet.org/2015/04/01 /us-smartphone-use-in-2015us-smartphone-use-in-2015.\n\u00b636 Yet the ability of public employees to use cell phones to conduct public business by creating and exchanging public records \u2014 text messages, e-mails, or anything else \u2014 is why the PRA must offer the public a way to obtain those records. Without one, the PRA cannot fulfill the people\u2019s mandate to have \u201cfull access to information concerning the conduct of government on every level.\u201d Laws of 1973, ch. 1, \u00a7 1(11). As noted earlier, many counties, cities, and agencies around the state recognize the need to capture and retain public records created on personal devices. Some of those entities provide employees with a way to preserve public records and avoid any inquiry into their private affairs by, for example, syncing work-related documents, e-mails, and text messages to an agency server or other place accessible to the employer. The County apparently has no such policy.\n\u00b637 While a policy easing the burden on employees of preserving public records is certainly helpful, it cannot be a precondition to the public\u2019s right to access those records. If it were, the effectiveness of the PRA would hinge on \u201cthe whim of the public officials whose activities it is designed to regulate.\u201d Mead Sch. Dist. No. 354 v. Mead Educ. Ass\u2019n, 85 Wn.2d 140, 145, 530 P.2d 302 (1975). The legislature tasks us with interpreting the PRA liberally and in light of the people\u2019s insistence that they have information about the workings of the government they created. RCW 42.56.030. Of course, the public\u2019s statutory right to public records does not extinguish an individual\u2019s constitutional rights in private information. But we do not read the PRA as a zero-sum choice between personal liberty and government accountability. Instead, we turn to well-settled principles of public disclosure law and hold that an employee\u2019s good-faith search for public records on his or her personal device can satisfy an agency\u2019s obligations under the PRA.\n\u00b638 Though technology evolves, segregating public records from nonpublic ones is nothing new for agencies responding to a PRA request. Whether stored in a file cabinet or a cell phone, the PRA has never authorized \u201cunbridled searches\u201d of every piece of information held by an agency or its employees to find records the citizen believes are responsive to a request. Hangartner v. City of Seattle, 151 Wn.2d 439, 448, 90 P.3d 26 (2004). The onus is instead on the agency \u2014 necessarily through its employees \u2014 to perform \u201can adequate search\u201d for the records requested. Neigh. All., 172 Wn.2d at 720-21. To satisfy the agency\u2019s burden to show it conducted an adequate search for records, we permit employees in good faith to submit \u201creasonably detailed, nonconclusory affidavits\u201d attesting to the nature and extent of their search. Id. at 721. The PRA allows a trial court to resolve disputes about the nature of a record \u201cbased solely on affidavits,\u201d RCW 42.56.550(3), without an in camera review, without searching for records itself, and without infringing on an individual\u2019s constitutional privacy interest in private information he or she keeps at work.\n\u00b639 Federal courts implementing the Freedom of Information Act (FOIA), Pub. L. No. 89-487, 80 Stat. 250, allow individual employees to use the same method to self-segregate private and public records. See, e.g., Media Research Ctr. v. U.S. Dep\u2019t of Justice, 818 F. Supp. 2d 131, 139-40 (D.D.C. 2011) (declarations sufficient to determine e-mails were not sent in employee\u2019s official capacity); Consumer Fed\u2019n of Am. v. Dep\u2019t of Agric., 372 U.S. App. D.C. 198, 455 F.3d 283, 288-89 (2006) (affidavits from employees about character of electronic calendars); Bloomberg, LP v. U.S. Sec. & Exch. Comm\u2019n, 357 F. Supp. 2d 156, 163 (D.D.C. 2004) (affidavits about \u201ctelephone logs\u201d and message slips); Judicial Watch, Inc. v. Clinton, 880 F. Supp. 1, 11-12 (D.D.C. 1995); Gallant v. Nat\u2019l Labor Relations Bd., 26 F.3d 168, 171 (D.C. Cir. 1994). While \u201c[a]n agency cannot require an employee to produce and submit for review a purely personal document when responding to a FOIA request [,] ... it does control the employee to the extent that the employee works for the agency on agency matters.\u201d Ethyl Corp. v. U.S. Envt\u2019l Prot. Agency, 25 F.3d 1241, 1247 (4th Cir. 1994). Thus, where a federal employee asserts a potentially responsive record is personal, he or she must provide the employer and \u201cthe courts with the opportunity to evaluate the facts and reach their own conclusions\u201d about whether the record is subject to FOIA. Grand Cent. P\u2019ship, Inc. v. Cuomo, 166 F.3d 473, 480-81 (2d Cir. 1999). We already incorporate FOIA\u2019s standard for adequate searches into the PRA,Neigh. All., 172 Wn.2d at 720, and we similarly adopt FOIA\u2019s affidavit procedure for an employee\u2019s personally held public records.\n\u00b640 Therefore, we hold agency employees are responsible for searching their files, devices, and accounts for records responsive to a relevant PRA request. Employees must produce any public records (e-mails, text messages, and any other type of data) to the employer agency. The agency then proceeds just as it would when responding to a request for public records in the agency\u2019s possession by reviewing each record, determining if some or all of the record is exempted from production, and disclosing the record to the requester. See generally Resident Action Council v. Seattle Hous. Auth., 177 Wn.2d 417, 436-37, 327 P.3d 600 (2013).\n\u00b641 Where an employee withholds personal records from the employer, he or she must submit an affidavit with facts sufficient to show the information is not a \u201cpublic record\u201d under the PRA. So long as the affidavits give the requester and the trial court a sufficient factual basis to determine that withheld material is indeed nonresponsive, the agency has performed an adequate search under the PRA. When done in good faith, this procedure allows an agency to fulfill its responsibility to search for and disclose public records without unnecessarily treading on the constitutional rights of its employees.\n\u00b642 We recognize this procedure might be criticized as too easily abused or too deferential to employees\u2019judgment. Certainly, the same can be said of any search for public records, not just for records related to employee cell phone use. But we offer two specific responses. First, an employee\u2019s judgment would often be required to help identify public records on a cell phone, even in an in camera review. Text messages, for example, are short communications whose meaning may not be self-apparent. Unlike a chain of e-mails where the preceding messages are often replicated in the body of each new reply, text messages may contain only a few words. The employee then might be needed to put that message into context to determine if it meets the statutory definition of a \u201cpublic record.\u201d\n\u00b643 Second, those criticisms spotlight why agencies should develop ways to capture public records related to employee cell phone use. The people enacted the PRA \u201cmindful of the right of individuals to privacy,\u201d Laws of 1973, ch. 1, \u00a7 1(11), and individuals do not sacrifice all constitutional protection by accepting public employment. City of Ontario v. Quon, 560 U.S. 746, 756, 130 S. Ct. 2619, 177 L. Ed. 2d 216 (2010). Agencies are in the best position to implement policies that fulfill their obligations under the PRA yet also preserve the privacy rights of their employees. E-mails can be routed through agency servers, documents can be cached to agency-controlled cloud services, and instant messaging apps can store conversations. Agencies could provide employees with an agency-issued device that the agency retains a right to access, or they could prohibit the use of personal devices altogether. That these may be more effective ways to address employee cell phone use, however, does not diminish the PRA\u2019s directive that we liberally construe it here to promote access to all public records. RCW 42.56.010(3).\nReconsideration denied November 4, 2015.\nCONCLUSION\n\u00b644 We affirm the Court of Appeals in part. Records that an agency employee prepares, owns, uses, or retains on a private cell phone within the scope of employment can be \u201cpublic records\u201d of the agency under RCW 42.56.010(3). Nissen\u2019s complaint thus sufficiently alleges that at least some of the text messages at issue may be public records subject to disclosure. Because it is impossible at this stage to determine if any messages are in fact public records, on remand, the parties are directed as follows. Lindquist must obtain a transcript of the content of all the text messages at issue, review them, and produce to the County any that are public records consistent with our opinion. The County must then review those messages \u2014 -just as it would any other public record \u2014 and apply any applicable exemptions, redact information if necessary, and produce the records and any exemption log to Nissen. As to text messages that Lindquist in good faith determines are not public records, he must submit an affidavit to the County attesting to the personal character of those messages. The County must also produce that affidavit to Nissen.\n\u00b645 We note that the County responded to Nissen\u2019s records requests and produced records in a timely manner based on what we presume was its good-faith interpretation of the PRA. Though we now hold that interpretation is incorrect, penalties are not warranted at this early stage before the County has had the opportunity to comply with our opinion and supplement its response to Nissen\u2019s requests accordingly. We reserve for the trial court the issue of penalties going forward.\nMadsen, C.J., and Johnson, Owens, Fairhurst, Stephens, Wiggins, Gonz\u00e1lez, and Gordon McCloud, JJ., concur.\nThe County has not challenged the breadth or specificity of these requests, and we pass no opinion.\nThe messages apparently no longer exist on Lindquist\u2019s phone. In conjunction with her PRA requests, however, Nissen\u2019s lawyer contacted Verizon and asked it to preserve all \u201ccommunications and data [on Lindquist\u2019s account] ... pending the issuance of a subpoena or other legal process.\u201d CP at 200. The propriety of that request is not before us.\nDisclosing that a public record exists in response to a request does not mean the record will ultimately be produced. Agencies must consider whether any applicable exemption precludes production of part or all of a record. Sanders v. State, 169 Wn.2d 827, 836, 240 P.3d 120 (2010).\nThe County admits that this is the natural result of its interpretation of the PRA. Wash. Supreme Court oral argument, Nissen v. Pierce County, No. 90875-3 (June 11, 2015), at 3 min., 4 sec., and 6 min., 57 sec., audio recording by TVW, Washington State\u2019s Public Affairs Network, http://www.tvw.org.\nWhether an elected official is independently subject to the PRA is an unsettled question. See Bldg. Indus. Ass\u2019n of Wash. v. McCarthy, 152 Wn. App. 720, 746, 218 P.3d 196 (2009). Here, however, Nissen did not sue Lindquist, either in his individual or official capacity. She instead sued the County, alleging that Lindquist\u2019s use of his cell phone resulted in public records of the County; Lindquist is a party only because he intervened to enjoin disclosure. The relevant question then is not whether Lindquist is individually subject to the PRA but, rather, whether records he handles in his capacity as the prosecutor are county public records.\nWe offer these generic illustrations in response to hypotheticals raised by the County and some amici. Of course, the facts of every case vary. We do not intend these illustrations to have precedential effect.\nIt is worth repeating that records an employee maintains in a personal capacity will not qualify as public records, even if they refer to, comment on, or mention the employee\u2019s public duties.\nThey primarily cite to the Fourth Amendment to the United States Constitution and article I, section 7 of the Washington Constitution.\nSee Nixon v. Adm\u2019r of Gen. Servs., 433 U.S. 425, 457, 97 S. Ct. 2777, 53 L. Ed. 2d 867 (1977) (noting public officials have \u201cconstitutionally protected privacy rights in matters of personal life unrelated to any acts done by them in their public capacity\u201d (emphasis added)).",
+        "type": "majority",
+        "author": "Yu, J."
+      }
+    ],
+    "attorneys": [
+      "Mark E. Lindquist, Prosecuting Attorney for Pierce County, Philip A. Talmadge (of Talmadge/Fitzpatrick! Tribe) , Daniel R. Hamilton; and Stewart A. Estes {of Keating Bucklin & McCormack Inc.), for petitioners.",
+      "Michele Lynn Earl-Hubbard (of Allied Law Group LLC), for respondent.",
+      "Anita L. Hunter, Aimee S. Iverson, Martin S. Garfinkel, Jeffrey Julius, and Scott R. Peters on behalf of Washington Federation of State Employees, Washington Education Association, Washington Council of Police and Sheriffs, Washington State Patrol Troopers Association, International Association of Firefighters, and Pierce County Prosecuting Attorneys\u2019 Association, amici curiae.",
+      "Ramsey E. Ramerman on behalf of Washington State Association of Municipal Attorneys, amicus curiae.",
+      "Collie A. Castillo, Managing Assistant Attorney General, and Peter B. Gonick, Assistant Attorney General, on behalf of the Attorney General of Washington, amicus curiae.",
+      "Judith A. Endejan on behalf of Allied Daily Newspapers of Washington, Washington Newspaper Publishers Association, The McClatchy Company, Pioneer News Group, Sound Publishing, and Washington Coalition for Open Government, amici curiae.",
+      "William J. Crittenden and Patrick D. Brown on behalf of League of Women Voters of Washington, amicus curiae.",
+      "Nancy L. Talner and Douglas B. Blunder on behalf of American Civil Liberties Union of Washington, amicus curiae.",
+      "Pamela B. Loginsky on behalf of Washington Association of Prosecuting Attorneys, amicus curiae."
+    ],
+    "corrections": "",
+    "head_matter": "[No. 90875-3.\nEn Banc.]\nArgued June 11, 2015.\nDecided August 27, 2015.\nGlenda Nissen, Respondent, v. Pierce County et al., Petitioners.\nMark E. Lindquist, Prosecuting Attorney for Pierce County, Philip A. Talmadge (of Talmadge/Fitzpatrick! Tribe) , Daniel R. Hamilton; and Stewart A. Estes {of Keating Bucklin & McCormack Inc.), for petitioners.\nMichele Lynn Earl-Hubbard (of Allied Law Group LLC), for respondent.\nAnita L. Hunter, Aimee S. Iverson, Martin S. Garfinkel, Jeffrey Julius, and Scott R. Peters on behalf of Washington Federation of State Employees, Washington Education Association, Washington Council of Police and Sheriffs, Washington State Patrol Troopers Association, International Association of Firefighters, and Pierce County Prosecuting Attorneys\u2019 Association, amici curiae.\nRamsey E. Ramerman on behalf of Washington State Association of Municipal Attorneys, amicus curiae.\nCollie A. Castillo, Managing Assistant Attorney General, and Peter B. Gonick, Assistant Attorney General, on behalf of the Attorney General of Washington, amicus curiae.\nJudith A. Endejan on behalf of Allied Daily Newspapers of Washington, Washington Newspaper Publishers Association, The McClatchy Company, Pioneer News Group, Sound Publishing, and Washington Coalition for Open Government, amici curiae.\nWilliam J. Crittenden and Patrick D. Brown on behalf of League of Women Voters of Washington, amicus curiae.\nNancy L. Talner and Douglas B. Blunder on behalf of American Civil Liberties Union of Washington, amicus curiae.\nPamela B. Loginsky on behalf of Washington Association of Prosecuting Attorneys, amicus curiae.\nThough redacted in the record before us, the requests contained the full 10-digit telephone number."
+  },
+  "file_name": "0863-01",
+  "first_page_order": 917,
+  "last_page_order": 942
+}

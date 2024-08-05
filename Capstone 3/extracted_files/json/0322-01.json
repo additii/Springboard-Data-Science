@@ -1,0 +1,329 @@
+{
+  "id": 1366061,
+  "name": "Basin Park Hotel Association v. Arkansas Company",
+  "name_abbreviation": "Basin Park Hotel Ass'n v. Arkansas Co.",
+  "decision_date": "1922-01-16",
+  "docket_number": "",
+  "first_page": "322",
+  "last_page": "331",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "151 Ark. 322"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [
+    {
+      "cite": "99 Ark. 196",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "pin_cites": [
+        {
+          "page": "197"
+        }
+      ],
+      "opinion_index": -1
+    },
+    {
+      "cite": "49 S. E. 1023",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "27 Ark. 50",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1885807
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "153"
+        },
+        {
+          "page": "165"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/27/0050-01"
+      ]
+    },
+    {
+      "cite": "44 Cal. 508",
+      "category": "reporters:state",
+      "reporter": "Cal.",
+      "case_ids": [
+        2316053
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/cal/44/0508-01"
+      ]
+    },
+    {
+      "cite": "57 N. E. 187",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "27 N. H. 529",
+      "category": "reporters:state",
+      "reporter": "N.H.",
+      "case_ids": [
+        4411144
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/nh/27/0529-01"
+      ]
+    },
+    {
+      "cite": "1 Ind. 193",
+      "category": "reporters:state",
+      "reporter": "Ind.",
+      "case_ids": [
+        1508870
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ind/1/0193-01"
+      ]
+    },
+    {
+      "cite": "54 Ala. 459",
+      "category": "reporters:state",
+      "reporter": "Ala.",
+      "case_ids": [
+        5610331
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ala/54/0459-01"
+      ]
+    },
+    {
+      "cite": "47 N. E. 203",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "77 N. Y. Supp. 91",
+      "category": "reporters:state",
+      "reporter": "N.Y.S.",
+      "case_ids": [
+        7670309
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/nys/77/0091-01"
+      ]
+    },
+    {
+      "cite": "43 Am. Rep. 293",
+      "category": "reporters:state_regional",
+      "reporter": "Am. Rep.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "90 N. Y. 293",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2186295
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/90/0293-01"
+      ]
+    },
+    {
+      "cite": "56 N. W. 777",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "84 N. Y. Supp. 740",
+      "category": "reporters:state",
+      "reporter": "N.Y.S.",
+      "case_ids": [
+        5518246
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/nys/84/0740-01"
+      ]
+    },
+    {
+      "cite": "1 Ark. 471",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "163 S. W. 147",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "weight": 2,
+      "opinion_index": -1
+    },
+    {
+      "cite": "102 Ark. 108",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1354044
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/102/0108-01"
+      ]
+    },
+    {
+      "cite": "9 N. J. Law, 139",
+      "category": "reporters:state",
+      "reporter": "N.J.L.",
+      "case_ids": [
+        16864
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/njl/9/0175-01"
+      ]
+    },
+    {
+      "cite": "46 N. Y. 370",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2052682
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/46/0370-01"
+      ]
+    },
+    {
+      "cite": "173 N. W. 563",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "20 N. E. 198",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "132 Ark. 599",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1576807
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/132/0599-01"
+      ]
+    },
+    {
+      "cite": "110 Ark. 504",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1337062
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/110/0504-01"
+      ]
+    },
+    {
+      "cite": "25 Am. Dec. 432",
+      "category": "reporters:federal",
+      "reporter": "Am. Dec.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "15 Pick. 147",
+      "category": "reporters:state",
+      "reporter": "Pick.",
+      "case_ids": [
+        2020287
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/32/0147-01"
+      ]
+    },
+    {
+      "cite": "151 Ark. 255",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1366101
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/151/0255-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 725,
+    "char_count": 18813,
+    "ocr_confidence": 0.493,
+    "pagerank": {
+      "raw": 8.870963106863851e-08,
+      "percentile": 0.4991024573247321
+    },
+    "sha256": "69dbc71975daf73a12508f3293602a2136ea696d37def28fb25cbab03665accc",
+    "simhash": "1:f6c6e5314624d60e",
+    "word_count": 3324
+  },
+  "last_updated": "2024-02-27T17:43:15.351502+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Basin Park Hotel Association v. Arkansas Company."
+    ],
+    "opinions": [
+      {
+        "text": "Hart, J.\n(after stating the facts.) Counsel for the defendants asked the icourt to instruct the jury that under the .evidence in the case the defendants were evicted from the demised premises by paramount title, but the court refused to give the instructions, and gave instead instruction No. 11, which is ns follows:\n\u201cI charge you that, although you may find from the evidence that the mortgages held by the first National Bank of Paris, Texas, and the First National Bank of Eureka Springs, on the Basin Park Hotel property, were duly foreclosed by decree of the Federal court at Harrison, and that the purchaser at the foreclosure sale took said property free of the lease of the defendants, yet, if you further find that the terms of said mortgages and said decree provided that the purchaser at said sale had the option to consider the defendants as his tenants and affirm said lease in all of its provisions and collect rent from them or disaffirm said lease and take immediate possession of said- hotel premises, then, before there would be an eviction in this case, the defendants must show by a preponderance of the evidence that the purchaser at said sale elected to disaffirm said lease or declined to affirm the- terms of the lease as it was originally executed between plaintiffs and defendants.\u201d\nThe court erred in giving instruction No. 11. The undisputed evidence shows that the lessees were evicted by paramount title and were entitled to recover the damages resulting therefrom. The bank had a valid mortgage on the land which was executed prior to the lease. Upon default being made in the payment of the mortgage according to its terms, the mortgagee brought suit to foreclose its mortgage, and the lessees were made defendants to the action together with the mortgagor. There was a judgment in favor of the mortgagee for the mortgage indebtedness and a decree of foreclosure. The mortgagee became the purchaser of the property at the foreclosure sale. Prior to the sale it had notified the lessees that it would not recognize the lease unless the lessees would waive their claim for expenditures made under the terms of the lease and agree to pay the bank rent for the future. The decree of foreclosure fixed the rights of the parties. It specifically provided that the purchaser at the foreclosure sale should take the premises free from any claim by the lessees or any lease on the property. The mortgagee was given the option to dis-affirm the lease and take immediate possession of the property so purchased.\nIt disaffirmed the lease by notifying the lessees that it would not recognize the lease unless the lessees waived their claim for expenditures against the lessor under the lease and paid the bank the rent in the future. This was equivalent to an eviction under paramount title. It was a hostile assertion of the paramount title by the bank, and the lessees had a right to leave the premises without waiting for a writ of assistance and actual physical ouster. The lessees \u2019 rights were fixed by the terms of the lease, and they were not required to waive their rights thereunder. Morrison v. Weinstein, 151 Ark. 255.\nIt would have been a vain and useless thing for the lessees to have waited for the process of the court to put them off the premises when the mortgagee had a valid decree of foreclosure in which it was recited that the purchaser at the sale should take the premises free of the lease. It is true that the mortgagee had the option to continue the lease and offered to allow the lessees to re-remain there a few days after the sale. The mortgagee, however, refused to allow the lessees to remain during the term of the lease unless they waived their claim against the lessor for damages and paid it the rent. Under the decree the mortgagee had a right to expel the lessees from the premises, and its action was equivalent to a threat to do so. The threat to turn out the tenant unless he promised to pay the rent to the mortgagee and waive his claim for damages amounted to a complete ouster or eviction. Smith v. Shepard, 15 Pick. 147, 25 Am. Dec. 432.\nIt follows that the court erred in giving instruction No. 11.\nIt is next insisted that the court erred in modifying instruction No. 7 asked by the defendants, which is as follows:\n\u201cIf you believe from the evidence in this case that the defendants were evicted from the demised premises by paramount title, then the court tells you that the defendants are entitled to recover on their counterclaim the difference between the rent agreed upon and the rental value of the premises for the unexpired portion of the term, as shown by the evidence; also for the value of the option to renew the lease, as shown by the evidence; also the amount expended by defendants, if any, for repairs and improvements which could be used onlv moon the premises, regardless of whether such repairs or improvements were authorized by the plaintiff, or were of any value to plaintiff, also whatever amount the evidence shows the defendants spent for dishes, linens, supplies, repairs or improvements authorized by plaintiff.\u201d\nThe court modified the instruction by striking out the item of damages based upon the defendants\u2019 expenditures for repairs and improvements which could only be used upon the premises. Under the evidence adduced for the defendants, they have expended several hundred dollars in painting the hotel and in making several other necessary repairs upon it.\nIn Byers v. Moore, 110 Ark. 504, the court held that where a tenant is unlawfully evicted by the landlord before the expiration of the lease, he may recover the money expended by him in the repair of the building and fixtures, which would have enabled him to occupy it more profitably; and this would be true, even though the repairs were not of value to the landlord. See also Reeves v. Romines, 132 Ark. 599, and Morrison v. Weinstein, 151 Ark. 255.\nIt follows that the court erred in modifying instruction No. 7 requested by the defendants.\nFor .the errors indicated in the opinion the judgment must be reversed, and the cause will be remanded for a new trial.",
+        "type": "majority",
+        "author": "Hart, J."
+      }
+    ],
+    "attorneys": [
+      "J. N. 8aye and W. G. Riddick, for appellant.",
+      "Charles D. James, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Basin Park Hotel Association v. Arkansas Company.\nOpinion delivered January 16, 1922.\n1. Landlord and tenant \u2014 eviction.\u2014Where leased premises were sold under a paramount title, and the holder of the paramount title, purchasing thereunder, notified the lessee that it would not recognize the lease unless the lessee waived certain rights thereunder, this amounted to an eviction.\n2. Landlord and tenant \u2014 -eviction\u2014recovery of repairs. \u2014 Where a tenant is unlawfully evicted under a paramount title, he may recover of the landlord money expended by him in repair of the building and fixtures which would have enabled him to occupy it more profitably, even though the repairs were of no value to the landlord.\nAppeal from Carroll Circuit Court, Western District; W.,A. Dickson, Judge;\nreversed.\nSTATEMENT OP PACTS.\nThe Arkansas Company, a corporation, brought this action in the circuit court against the Basin Park Hotel Association, operating under a declaration of trust, and the members thereof, to recover the sum of $483.95 alleged to be due for hotel supplies furnished by the plaintiff \u25a0 to the defendants.\nThe suit is based upon a lease by the plaintiff to the defendants of a hotel in the city of Eureka Springs, Ark., and the alleged voluntary surrender of the leased property by the defendants during the term of the lease.\nThe defense of the defendants to the suit was that they had been evicted by a mortgagee under a mortgage given prior to the execution of the lease contract. The defendants by way of counter-claim asked judgment for damages against the plaintiff on account of said eviction.\nThe lease in question was in writing, and was executed in duplicate on the 6th day of March, 1919. By its terms the Arkansas Company leased to the Basin Park Hotel Association a hotel in the city of Eureka Springs, Ark., together with all the fixtures, furnishings and furniture therein. The lessees agreed to pay as rent $300 cash for the month of May, 1919, and $300 per month rent in advance to April 1, 1920. The contract also containing the following:\n\u201cThe right and option is hereby given to the party of the second part to lease said hotel and contents under the same terms and provisions of this lease for a period of two years more from April 1, 1920, at the rental of $350 per month, to be paid in advance; it being understood that if the lessees desire to take advantage of this option to operate and lease said hotel for the two-year period given them April 1, 1920, that they shall, forty days before the first of April, 1920, give written notice to the party of the first part of their desire and intention to take advantage of this option for two years more.\n\u201cThe party of the first part hereby agrees, as a part of the consideration for this lease, that it will supply a sufficient amount of dishes and linens with which to operate said hotel; and that it will also, upon the request of the party of the second part, at once furnish a range for the kitchen.\n\u201cBefore the 1st day of May, 1919, an inventory shall be taken by the parties hereto, of all the furniture, queensware, linens, etc., of said hotel, a copy of which inventory shall be kept by each party hereto; and added to said inventory shall be such supplies as the party of the first part supplies under the terms of this lease, and, at the expiration of this lease, the party of the second part is to return to the party of the first part the property shown upon said inventory, wear and tear excepted.\n\u201cIt is understood that the party of the second part is to pay all water bills due the city for water furnished to the hotel, as well as electric lights and any other bills that may be a lien upon the hotel property by reason of the operation of said hotel by party of the second part; the party of the first part to keep said property insured and to pay the taxes on same.\n\u201cThe party of the first part is to at once begin work and have the office and dining room of said hotel painted, and is from time to time to paint the halls, rooms or walls of the building as may be needed.\u201d\nPossession was given to the Basin Park Hotel Association of the hotel and its contents. On June 28, 1915, the Arkansas Company executed a mortgage to the First National Bank of Paris, Texas, on the hotel and its contents. The mortgage was given to secure a' note, for $31,000 of the same date, payable to the bank on Jan. 1, 1920, and signed by the Arkansas Company. It was expressly agreed between the parties that the failure to pay any installment of interest due on the note should at the option of the holder make the note and entire indebtedness due. The Arkansas Company made default in the payment of the mortgage indebtedness according to the' tenor thereof, and the bank brought suit against it in the Federal court to obtain judgment on the note and a foreclosure of the mortgage. The Basin Park Hotel Association and its members were also made defendants to the action.\nOn Oct. 14,1919, judgment was rendered in favor of said bank against said Arkansas Company for the amount of the mortgage indebtedness and a foreclosure of the mortgage was also decreed. The decree also contained the following:\n\u201cThat the purchaser at such sale shall take said premises free from any claim by the Basin Park Hotel Association or any lease of said premises or property, and shall have the option to consider any such lessee as tenant of said purchaser and collect rent therefrom, or to disaffirm such lease or leases and take immediate possession of such premises or property so purchased.\u201d\nPursuant to the decree on the 25th day of October, 1919, the commissioner appointed by the court advertised the property for sale on the 29th day of November, 1919, according to the directions contained in the decree. The notice of sale contained the following provisions:\n\u201cPurchaser at such sale will take said premises free from any claim by the Basin Park Hotel Association, or any lease of said premises or property; and will have the option to consider any such lessee as tenant of such purchaser, and collect rent therefrom, or to disaffirm such lease or leases, and take immediate possession of such premises or property so purchased upon confirmation of sale and execution of deed.\u201d\nOn the 29th day of November, 1919, the property was duly sold by the commissioners, and was bid in by the mortgagee. On the 5th day of January, 1920, the sale was duly confirmed by the court.\nJas. A. Smith, cashier of the First National Bank of Paris, Texas, was a witness for the plaintiff. According to his testimony, he was in charge of the foreclosure proceedings which were brought in the Federal court at Harrison, Ark., and the bank became the purchaser at the foreclosure sale, but never served any notice on the Basin Park Hotel Association to vacate the hotel. The bank refused to recognize or accept the lease held by the Basin Park Hotel Association. The mortgagor agreed to convey the mortgaged property to them in satisfaction of the mortgaged indebtedness, but they refused to accept this because the manager of the Basin Park Hotel Association claimed that under the lease he had a right to extend certain amounts in repairing the hotel, and the bank was not willing to accept the lease unless the rents were paid to it without any deductions whatever. The bank did not issue any orders for the lessees to vacate the premises, but it refused to accept the lease held by the Basin Park Hotel Association. The bank decided when it became necessary to foreclose the mortgage on the hotel to have it cleared of the lease at the same time, and the lessees were made defendants to the foreclosure proceedings.\nF. 0. Butt was the attorney for the bank in the foreclosure proceedings. According to his testimony, he had a conversation with. Mr. Manning, the manager of the Basin Park Hotel Association, about the lease. Manning claimed that under the terms of the lease they were entitled to certain allowances for repairs and expenditures made by them. The bank was willing to extend the lease if the lessees would waive their claim for improvements and expenditures and pay the rent to the bank. Otherwise, the bank would not recognize the lease, but told Manning personally that if the bank became the purchaser at the foreclosure sale it was not ready to take the premises over and asked Manning if he would hold on for a week or ten days.\nAccording to the testimony of W. M. Duncan, president of the Arkansas Company, the company did not owe anything to the lessees for improvements and expenditures made by them, and the lessees were indebted to the lessor for the amounts claimed in the complaint.\nH. Gr. Manning, the manager of the hotel, was a witness for the defendants. According to his testimony, the defendants took possession of the hotel under the lease on the 20th day of March, 1919, -and gave up possession of it on the 17th day of December, 1919. He gave an itemized statement of the amounts expended by the-lessees under the terms of the lease, and these items aggregated the sum of $708.78. Manning talked with Duncan about allowing these items on several occasions, and at first Duncan did not deny that they were proper charges, but wanted to postpone the payment. The lessees paid the rent in accordance with the terms of the lease. The mortgagee refused to allow the lessees to continue in possession of the hotel unless they would yield their claim for expenditures made under the lease against the lessor and would agree to pay it the rent.\nThe jury returned a verdict for the plaintiff in the sum of $247 and for the defendants on their counterclaim in the sum of $300. Whereupon the court rendered judgment in favor of the defendants on their counterclaim in the sum of $53.\nThe defendants have duly prosecuted an appeal to this court.\nJ. N. 8aye and W. G. Riddick, for appellant.\nAppellant was evicted by paramount title. Such being the case, it could .claim the eviction without waiting to be actually evicted by judicial proceeding. 16 R. C. L., Landlord and Tenant, \u00a7458; 24 Cyc. 1059; 20 N. E. 198; 173 N. W. 563; 46 N. Y. 370-372; 9 N. J. Law, 139. There was no breach of the terms of lease by failure to pay the rent, nor could there have been such breach without the written notice provided for therein. On the contrary, the lessor, having failed to give the notice, will be deemed to have waived the right to revoke the contract. 16 R. C. L., Landlord and Tenant, \u00a7 \u00a7 647-650. If the appellants were evicted by paramount title, they were entitled to recover the resultant damages, and the jury should have been so instructed. To refuse such instructions and give instead instruction numbered 11, was manifest error. The court likewise erred in modifying instruction 7, requested by appellant on the measure of damages. 102 Ark. 108; 132 Id. 599; 76 Id. 468; 163 S. W. 147.\nCharles D. James, for appellee.\nA general verdict is good on two issues, where the finding necessarily shows that the subject-matter of both issues was determined. 1 Ark. 471; Id. 346; 15 Id. 405; 6 Id. 178; 10 Id. 479.\nThe mere fact that the First National Bank obtained the decree of foreclosure in its proceedings against the appellee, and that the sale was confirmed, did not constitute an eviction by paramount title. Constructive eviction cannot be deemed to exist without a surrender of the premises to the landlord. 24 Cyc. 1059. The. mere foreclosure decree, sale and confirmation thereof, of the leased premises does hot constitute a breach of the covenant for quiet enjoyment. The tenant\u2019s possession must be actually disturbed. 84 N. Y. Supp. 740; 91 Id. 348; 35 111. App. 144. The evidence shows a voluntary abandonment, without a surrender of the premises to appellee. 56 N. W. 777; 90 N. Y. 293; 43 Am. Rep. 293; 77 N. Y. Supp. 91; 37 A. S. R. 174; 47 N. E. 203. Mere existence of a paramount title affords no reason for abandonment of .the property without a surrender thereof to the landlord. 54 Ala. 459; 1 Ind. 193; 27 N. H. 529; 54 Am. Rep. (Tenn.) 398; 3 Gratt. (Ya.) 91.\nA tenant in possession under one title can make no valid attornment to a stranger thereto, even though the latter may be the owner of the land or have other paramount title. 57 N. E. 187; 44 Cal. 508; 27 Ark. 50; 28 Id. 153; 48 111. 160; 21 Id. 165; 49 S. E. 1023.\nThe instruction number 11 asked by appellee and given by the court, was right. There is no proof that the bank ever disaffirmed the lease. On the contrary, the evidence shows that it was ready and willing to affirm the lease. 99 Ark. 196, 197; 51 Id. 46; 95 Id. 131; 114 Id. 532. It was also right in modifying instruction 7 requested by appellant. 163 S. W. 147."
+  },
+  "file_name": "0322-01",
+  "first_page_order": 348,
+  "last_page_order": 357
+}

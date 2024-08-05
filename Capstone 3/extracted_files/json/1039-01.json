@@ -1,0 +1,78 @@
+{
+  "id": 12457153,
+  "name": "State, Respondent, v. Stevens, Petitioner",
+  "name_abbreviation": "State v. Stevens",
+  "decision_date": "2016-06-29",
+  "docket_number": "No. 92909-2",
+  "first_page": "1039",
+  "last_page": "1039",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "185 Wash. 2d 1039"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Wash.",
+    "id": 9029,
+    "name": "Washington Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 38,
+    "name_long": "Washington",
+    "name": "Wash."
+  },
+  "cites_to": [
+    {
+      "cite": "192 Wn. App. 1057",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        12456312,
+        12456309,
+        12456310,
+        12456311
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/192/1057-04",
+        "/wash-app/192/1057-01",
+        "/wash-app/192/1057-02",
+        "/wash-app/192/1057-03"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 27,
+    "char_count": 187,
+    "ocr_confidence": 0.832,
+    "sha256": "c2303c49045107ab0dd023d13a325765e57c058f517714a564e836e4ff7938c2",
+    "simhash": "1:88b9463b394fc03d",
+    "word_count": 31
+  },
+  "last_updated": "2024-02-28T00:06:59.447104+00:00",
+  "provenance": {
+    "date_added": "2019-05-22",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "State, Respondent, v. Stevens, Petitioner,"
+    ],
+    "opinions": [
+      {
+        "text": "Petition for review of a decision of the Court of Appeals, No. 46905-7-II, March 1, 2016, 192 Wn. App. 1057. Denied June 29, 2016.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "State, Respondent, v. Stevens, Petitioner,\nNo. 92909-2."
+  },
+  "file_name": "1039-01",
+  "first_page_order": 991,
+  "last_page_order": 991
+}

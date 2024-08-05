@@ -1,0 +1,84 @@
+{
+  "id": 8718276,
+  "name": "State National Bank v. Fisher",
+  "name_abbreviation": "State National Bank v. Fisher",
+  "decision_date": "1932-07-11",
+  "docket_number": "4-2634",
+  "first_page": "42",
+  "last_page": "46",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "186 Ark. 42"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [
+    {
+      "cite": "39 S. W. (2d) 290",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "183 Ark. 826",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1441877
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/183/0826-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 370,
+    "char_count": 7538,
+    "ocr_confidence": 0.528,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.20848879606494433
+    },
+    "sha256": "cac04884248c8a8c5051eedd88e86a5e305731b7c73492237428ed8b3a3e83a7",
+    "simhash": "1:e7053b110595a04c",
+    "word_count": 1311
+  },
+  "last_updated": "2024-02-27T17:52:01.123529+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "State National Bank v. Fisher."
+    ],
+    "opinions": [
+      {
+        "text": "BtjtleR, J.\nThe appellant filed a complaint in the Miller Chancery Conrt alleging that W. A. Coleman died June 9, 1931, leaving surviving him no widow, and leaving \"W. A. Coleman, Jr., a minor who is now abont eight or nine years of age, his sole surviving heir at law.\nIn October, 1927, the said ~W. A. Coleman made a will, by the terms of which the appellant was appointed as executor and also appointed as guardian of the estate of W. A. Coleman, Jr. The will was duly probated on June 23, 1931, letters issued to appellant both as the executor of the estate and as guardian of the minor. It made bond both as executor and guardian and is now acting as sncb.\nAll of tbe property of tbe decedent was devised in trust to tbe bank, and directions given to reduce personal property, except United States bonds, to cash, and to invest same in revenue-bearing investment. It was also directed to take charge of, improve, lease, sell and dispose of all real estate, and re-invest so much of tbe proceeds as is not required for tbe administration of said estate.\nTbe executor was also requested to bold tbe estate intact, if possible, until W. A. Coleman, Jr., arrives at tbe age of twenty-one years; to pay tbe expenses and legacies out of tbe income, if sufficient, and, if not, to use tbe principal for that purpose. Provision was also made for decedent\u2019s mother, but she died before tbe testator.\nTbe will gave to testator\u2019s sisters and brothers $1 each. It directed tbe appellant to superintend tbe manner of W. A. Coleman, Jr\u2019s., living, and see to bis education, and deliver tbe remainder of tbe property to W. A. Coleman, Jr., when be arrived at twenty-one years of age. Tbe will also provided for tbe executors to receive such fees as are allowed administrators and executors and a reasonable compensation as guardian for W. A. Coleman, Jr.\nTbe plaintiff in tbe court below requested instructions and directions in many particulars. Mrs. N. R. Fisher, a sister of testator, was made defendant.\nAfter bearing tbe evidence and considering tbe ease, tbe chancery court decreed as follows:\n\u201c(a) Tbe administration should be closed at tbe end of one year, tbe debts being paid;\n\u201c (b) There was created by tbe will, at tbe end of tbe statutory period, a trust with tbe State National Bank acting as trustee;\n\u201c (c) Said bank as executor should file its final settlement at tbe end of tbe statutory period, there being no debts and then transfer to itself as trustee the remaining assets;\n\u201c(d) That such assets were vested by the will in the bank as trustee, with full authority to handle, administer, sell, dispose of, invest and reinvest funds from the sale of any of the -property of the estate;\n\u201c(e) That under the will the bank is entitled, during the statutory period of administration, to those fees allowed to executors and administrators;\n\u201c (f) At the expiration of the statutory period for administration, the bank should receive reasonable compensation as trustee;\n\u201c(g) Upon final settlement by the bank (at the end of the statutory period of administration) the trustee should take over the remaining property and continue the trust under the provisions of the will;\n\u201c(h) There being no present necessity for advice to the bank, or for interpretation of the will as to whether it was intended to vest a present estate in W. A. Coleman, Jr., a minor, in the residue of property, the court declines to interpret it in this respect.\u201d\nSection 97 of Crawford & Moses\u2019 Digest provides among other things that: \u2018 \u2018 All demands not exhibited to the executor or administrator as required by this act before the end of one year from the granting of letters shall be forever barred.\u201d\nThis section of the Digest was amended by act 211 of the Acts of 1931, but there is no change in the paragraph above quoted.\nSection 1 of Crawford & Moses\u2019 Digest, under administration, also provides that in certain cases no letters of administration shall be granted, or, if granted, the same shall be revoked.\nIt was the intention of the Legislature to close the administration within one year if there were no debts or claims against the estate. The court was therefore correct in holding that the administration should be closed at the end of one year, the debts being paid, and also in bolding that tbe will, at tbe end of tbe statutory period, created a trust with tbe State National Bank as trustee.\nParagraph 2 of the will conveys all of tbe testator\u2019s property in trust for tbe purposes thereafter named.\nHaving held that tbe administration should be closed at tbe end of one year, it necessarily follows that tbe executor should file its final settlement at that time, and, since it was, by tbe terms of tbe will, made trustee, it would be its duty at tbe end of tbe administration to take charge of tbe property as trustee.\nParagraph 4 of tbe will expressly provides that tbe executor shall take charge of, improve, rent, lease, sell, convey and dispose of any and all real estate, and, if it sell tbe same, it is authorized to convey title thereto and reinvest tbe proceeds in some good revenue-bearing investment.\nParagraph 3 of tbe will directs tbe executor to reduce all personal property.to cash, except United States bonds and to invest tbe proceeds, not required for tbe purposes mentioned elsewhere in tbe will, in good revenue-bearing investment.\nThe court therefore correctly held that tbe assets were vested in tbe trustee, with full authority to handle, administer, sell, dispose, invest and reinvest funds from tbe sale of any of tbe property of tbe estate.\nTbe will itself provides that tbe executor shall be allowed such fees as are allowed by law to administrators and executors for its services, together with reasonable compensation for acting as guardian.\nIf tbe will had made no provision for compensation to tbe executor, it would have been entitled to the statutory fees. There is no provision in tbe will naming tbe amount of fees that tbe trustee shall receive. Tbe will directs tbe trustee in tbe matter of tbe management of the estate, and names numbers of things that it is to perform, and it was evidently the intention of tbe testator not only that it should have tbe management of tlie estate, but that it should have a reasonable compensation for its services as trustee. The will fixed the fees that the executor should receive as such, but did not fix any fees for the bank as trustee, but it was manifestly the intention of the testator that the trustee should perform the duties indicated in the will, and that it should be paid a reasonable compensation. This compensation should be presented to and allowed by the probate court.\nIn the case of James v. Echols, 183 Ark. 826, 39 S. W. (2d) 290, it was said: \u201cIn this connection it may be stated that when the trustee accepts the trust, and qualifies and enters upon the discharge of his duties as such trustee, he accepts the trust upon the conditions named in it, and is entitled to no other or greater compensation than the will allows.\u201d\nTherefore if the testator had fixed the fees for the-trustee, it could not accept the trust and receive any other or greater compensation than that named in the will; but, since the will pointed out the duties of the trustee, and did not undertake to fix the compensation, it would be entitled, as the lower court held, to reasonable compensation.\nThe decree of the chancery court is correct, and is therefore affirmed.",
+        "type": "majority",
+        "author": "BtjtleR, J."
+      }
+    ],
+    "attorneys": [
+      "Jas. B. Head, for appellant."
+    ],
+    "corrections": "",
+    "head_matter": "State National Bank v. Fisher.\n4-2634\nOpinion delivered July 11, 1932.\nJas. B. Head, for appellant."
+  },
+  "file_name": "0042-01",
+  "first_page_order": 62,
+  "last_page_order": 66
+}

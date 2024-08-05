@@ -1,0 +1,76 @@
+{
+  "id": 12457108,
+  "name": "In re Custody of L.M.S. Siufanua et al., Petitioners, v. Fuga et al., Respondents",
+  "name_abbreviation": "Siufanua v. Fuga",
+  "decision_date": "2016-06-29",
+  "docket_number": "No. 92897-5",
+  "first_page": "1033",
+  "last_page": "1033",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "185 Wash. 2d 1033"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Wash.",
+    "id": 9029,
+    "name": "Washington Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 38,
+    "name_long": "Washington",
+    "name": "Wash."
+  },
+  "cites_to": [
+    {
+      "cite": "192 Wn. App. 1034",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        12456224,
+        12456225,
+        12456223
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/192/1034-02",
+        "/wash-app/192/1034-03",
+        "/wash-app/192/1034-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 33,
+    "char_count": 230,
+    "ocr_confidence": 0.882,
+    "sha256": "54f1bd7d30b51eccdf8559ecfd05025be9b509354814652c6aaf2bd007df9611",
+    "simhash": "1:83d997bb3f8bf6ef",
+    "word_count": 40
+  },
+  "last_updated": "2024-02-28T00:06:59.447104+00:00",
+  "provenance": {
+    "date_added": "2019-05-22",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Custody of L.M.S. Siufanua et al., Petitioners, v. Fuga et al., Respondents,"
+    ],
+    "opinions": [
+      {
+        "text": "Petition for review of a decision of the Court of Appeals, No. 72938-1-1, February 8, 2016, 192 Wn. App. 1034. Granted June 29, 2016.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "In re Custody of L.M.S. Siufanua et al., Petitioners, v. Fuga et al., Respondents,\nNo. 92897-5."
+  },
+  "file_name": "1033-03",
+  "first_page_order": 985,
+  "last_page_order": 985
+}

@@ -1,0 +1,758 @@
+{
+  "id": 8723617,
+  "name": "Poe v. Street Improvement District No. 340",
+  "name_abbreviation": "Poe v. Street Improvement District No. 340",
+  "decision_date": "1923-06-25",
+  "docket_number": "",
+  "first_page": "569",
+  "last_page": "578",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "159 Ark. 569"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [
+    {
+      "cite": "145 Ark. 51",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1586096
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/145/0051-01"
+      ]
+    },
+    {
+      "cite": "146 Pac. 960",
+      "category": "reporters:state_regional",
+      "reporter": "P.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "20 N. M. 77",
+      "category": "reporters:state",
+      "reporter": "N.M.",
+      "case_ids": [
+        4713198
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/nm/20/0077-01"
+      ]
+    },
+    {
+      "cite": "96 U. S. 97",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3380671
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/96/0097-01"
+      ]
+    },
+    {
+      "cite": "111 U. S. 701",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3506722
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/111/0701-01"
+      ]
+    },
+    {
+      "cite": "97 Ark. 322",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1318815
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/97/0322-01"
+      ]
+    },
+    {
+      "cite": "85 Ark. 346",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1523273
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/85/0346-01"
+      ]
+    },
+    {
+      "cite": "123 Ark. 184",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1556234
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/123/0184-01"
+      ]
+    },
+    {
+      "cite": "112 Ark. 437",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1538787
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/112/0437-01"
+      ]
+    },
+    {
+      "cite": "131 Ark. 429",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1578646
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/131/0429-01"
+      ]
+    },
+    {
+      "cite": "73 Ark. 536",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1504027
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/73/0536-01"
+      ]
+    },
+    {
+      "cite": "76 Ark. 443",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1501020
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/76/0443-01"
+      ]
+    },
+    {
+      "cite": "154 Ark. 139",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1361185
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/154/0139-01"
+      ]
+    },
+    {
+      "cite": "143 Ark. 625",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1589485
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/143/0625-01"
+      ]
+    },
+    {
+      "cite": "149 Ark. 183",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        8718716
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/149/0183-01"
+      ]
+    },
+    {
+      "cite": "117 Ark. 606",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1564961
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/117/0606-01"
+      ]
+    },
+    {
+      "cite": "71 Ark. 556",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1507866
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/71/0556-01"
+      ]
+    },
+    {
+      "cite": "37 Ark. 495",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "35 Ark. 56",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1873839
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/35/0056-01"
+      ]
+    },
+    {
+      "cite": "150 Ark. 486",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1367891
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/150/0486-01"
+      ]
+    },
+    {
+      "cite": "145 Ark. 283",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "106 Ark. 517",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1345618
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/106/0517-01"
+      ]
+    },
+    {
+      "cite": "100 Ark. 175",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1312216
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/100/0175-01"
+      ]
+    },
+    {
+      "cite": "99 Ark. 149",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1314450
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/99/0149-01"
+      ]
+    },
+    {
+      "cite": "95 Ark. 327",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1543578
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/95/0327-01"
+      ]
+    },
+    {
+      "cite": "93 Ark. 168",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1546832
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/93/0168-01"
+      ]
+    },
+    {
+      "cite": "80 Ark. 150",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1491129
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/80/0150-01"
+      ]
+    },
+    {
+      "cite": "94 Ark. 422",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1545342
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/94/0422-01"
+      ]
+    },
+    {
+      "cite": "109 Ark. 556",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1341154
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/109/0556-01"
+      ]
+    },
+    {
+      "cite": "40 Ark. 431",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1897049
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/40/0431-01"
+      ]
+    },
+    {
+      "cite": "140 Ark. 398",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1594410
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/140/0398-01"
+      ]
+    },
+    {
+      "cite": "50 Pac. 522",
+      "category": "reporters:state_regional",
+      "reporter": "P.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "150 N. Y. S. 200",
+      "category": "reporters:state",
+      "reporter": "N.Y.S.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "44 N. E. 779",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "100 Ark. 178",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "60 Ark. 343",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1903690
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/60/0343-01"
+      ]
+    },
+    {
+      "cite": "58 Ark. 113",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1329158
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/58/0113-01"
+      ]
+    },
+    {
+      "cite": "37 Ark. 496",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "35 Ark. 59",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "34 Ark. 267",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "131 Ark. 291",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1578666
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/131/0291-01"
+      ]
+    },
+    {
+      "cite": "133 Ark. 157",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1575063
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/133/0157-01"
+      ]
+    },
+    {
+      "cite": "102 Ark. 411",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1354024
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/102/0411-01"
+      ]
+    },
+    {
+      "cite": "182 U. S. 540",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "183 U. S., 471",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        8297470
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/183/0471-01"
+      ]
+    },
+    {
+      "cite": "68 Tenn. 202",
+      "category": "reporters:state",
+      "reporter": "Tenn.",
+      "case_ids": [
+        8538412
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/tenn/68/0202-01"
+      ]
+    },
+    {
+      "cite": "38 Miss., 424",
+      "category": "reporters:state",
+      "reporter": "Miss.",
+      "case_ids": [
+        9512999
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/miss/38/0424-01"
+      ]
+    },
+    {
+      "cite": "40 Ark. 206",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "122 U. S. 471",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "147 Ark. 363",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "91 Ark. 5",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1511829
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/91/0005-01"
+      ]
+    },
+    {
+      "cite": "147 Ark. 160",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1583314
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/147/0160-01"
+      ]
+    },
+    {
+      "cite": "142 Ark'. 52",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1590517
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/142/0052-01"
+      ]
+    },
+    {
+      "cite": "125 Ark. 57",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1553265
+      ],
+      "weight": 4,
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/125/0057-01"
+      ]
+    },
+    {
+      "cite": "106 Ark. 252",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "224 U. S. 317",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "224 U. S. 271",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "74 N. Y. 183",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        534666
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/74/0183-01"
+      ]
+    },
+    {
+      "cite": "18 Fed. 385",
+      "category": "reporters:federal",
+      "reporter": "F.",
+      "case_ids": [
+        6728432
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f/18/0385-01"
+      ]
+    },
+    {
+      "cite": "36 Fed. 385",
+      "category": "reporters:federal",
+      "reporter": "F.",
+      "case_ids": [
+        6730964
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f/36/0385-01"
+      ]
+    },
+    {
+      "cite": "39 Fed. 891",
+      "category": "reporters:federal",
+      "reporter": "F.",
+      "case_ids": [
+        3734313
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f/39/0891-01"
+      ]
+    },
+    {
+      "cite": "158 Ark. 519",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1355735
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/158/0519-01"
+      ]
+    },
+    {
+      "cite": "147 Ark. 363",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "147 Ark. 160",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1583314
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/147/0160-01"
+      ]
+    },
+    {
+      "cite": "142 Ark'. 52",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1590517
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/142/0052-01"
+      ]
+    },
+    {
+      "cite": "125 Ark. 57",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1553265
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/125/0057-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 731,
+    "char_count": 18096,
+    "ocr_confidence": 0.497,
+    "pagerank": {
+      "raw": 3.94103122053598e-07,
+      "percentile": 0.9034347176225332
+    },
+    "sha256": "e306ab17f6595d3ad9d350e37e229412727929082a0251e4d01accd76a0a5d49",
+    "simhash": "1:075295ef98ab0b42",
+    "word_count": 3062
+  },
+  "last_updated": "2024-02-27T18:54:00.643605+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "\u25a0Smith, J., did not participate."
+    ],
+    "parties": [
+      "Poe v. Street Improvement District No. 340."
+    ],
+    "opinions": [
+      {
+        "text": "Wood, J.\nThe appellant, an owner and taxpayer of real estate in District No. 340 of the city of Little Bock, filed Ms complaint in the Pulaski Chancery Court against the district and its commissioners, the appellee, in which he set up, in substance, that District No. 340 was -duly established for the purpose of paving and improving Broadway Street in the city of Little Bock from Markham Street southward to the north line of Tenth Street; that thereafter a majority in value of the owners of real property abutting on Broadway Street petitioned the. city council of the city of Little Bock to annex the real property extending on-Broadway Street from the north line of -Tenth Street southward to the south line of Twenty-second Street; that the council on May 7, 1923, enacted ordinance No. 3181, which provided for the annexation to Street Improvement District No. 340 of all territory described in the petition; that the commissioners of District No. 340 have accepted the annexation and treated the property s-o annexed as part of the territory of District No. 340, and are proceeding to assess benefits in the annexed territory, and will complete said assessment of benefits and construct the improvement unless restrained; that act No. 280 of the Acts of 1919, under which the council is proceeding to annex the territory, is void because no sufficient provisions are made therein for the assessment of benefits and collection of taxes in the annexed territory, in that no notice of said assessment to the landowners and no opportunity to be heard'thereoh is provided, and no provision is made for the adjustment and correction of assessments, and no appeal from such assessments is provided; that no appointment of assessors is provided for, and no oath of those making the assessment is required; that no provision is made in the aot for the levy or collection of any assessment or tax ont of the assessment of benefits; that the commissioners of District No. 340 have caused plans to he made for the improvement in the annexed territory and incurred expense therefor, and are proceeding and will proceed to incur additional expense in making the assessments, if not restrained; that it is the intention of the commissioners to borrow money and issue bonds for the construction of the improvement in the annexed territory, and to pledge and mortgage the assessment of benefits on all the lands in such territory to secure the payment of these bonds, which will create a cloud upon the title of the appellant.\nThe appellant prayed that ordinance No. 3181, \u00fander which the appellees are proceeding, be declared invalid, and that the intended annexation of the territory thereunder be canceled and held for naught, and that the ap-pellees be enjoined from proceeding thereunder. The appellant made ordinance No. 3181 an exhibit to his' complaint.\nThe appellees demurred to the complaint on the ground that it did not state facts sufficient to constitute a cause of action. The court sustained the demurrer. The appellant stood on his compaint, and the court entered a judgment dismissing the complaint for want of equity, and for costs against the appellant, from which is this appeal.\nAct No. 280 of the acts of 1919 (5733 of Crawford & Moses\u2019 Digest), is as follows: \u201cWhen persons claiming to be a majority in value of the owners of real property in any territory contiguous to any improvement district organized in any city or town desire that said territory shall be annexed to such improvement district, they may present their petition in writing to the city or town council, describing the territory to be annexed and the character of the improvement desired. Thereupon the city or town council shall direct the clerk or recorder to publish for two weeks, in some newspaper issued and having a general circulation in the county where such city or town is situated, a notice calling upon the property owners to appear before said council on <a day named, and show cause for or against such annexation. On the day named in said notice the city or town , council shall' hear all persons who desire to be heard on the question whether a majority in value of the owners of real property in the territory sought to be annexed have signed such petition, and its findings shall have all the force and effect of a judgment, and shall be conclusive, unless, within thirty days thereafter, suit is brought in the chancery court to review it. The finding of the council shall be expressed in an ordinance in case it is in favor of the petitioners, and in that event the territory sought to be annexed shall become a part of the improvement district, and the improvements petitioned for shall be made by the commissioners. The commissioners shall' make the assessment for said improvement on the territory annexed, under the provisions of this act, on the same basis as if said territory was included in the original district. If petitioned for, the improvement in the territory annexed may be of different material or of a different method of construction from that in the original district.\u201d\n, The appellant contends that the act under which the appellees are proceeding provides no fixed place or date for the meeting of the commissioners for the assessment of benefits, and does not provide any notice to the landowner of the assessment of benefits and does not give him any opportunity to be heard on the assessment of benefits, and does not require the commissioners to take an oath that they will truly and justly assess the benefits, and does not provide for the adjustment and correction of the assessment of benefits after it is made, and that therefore the act and the ordinance, thereunder, if carried out, would result in depriving the appellant and other property owners of their property without due process, of law.\nIt will be observed that the act provides as follows: \u201cThe commissioners shall make the assessment for said improvement on the territory annexed under the provisions of this act on the same basis as if said territory was included in the original district.\u201d This language clearly evinces the intention of the Legislature to allow the city or town council the power to annex territory to any improvement district in a city or town when the provisions of \u00a7 5733, supra, are complied with. When this is done, the annexed territory becomes a part of the original improvement district to which it is annexed, and the commissioners of the district are to proceed in making the improvements contemplated in the annexed territory just as they would in making; the original improvement. When the annexation ordinance is passed, then the board of commissioners of the district, which now embraces the original and the annexed territory, shall proceed to form the plans for the improvement to be made in the annexed territory, as prayed in the petition of the property owners in such territory, and proceed in like manner to make the improvement in the annexed territory as they did in making the improvement constituting the original district. In other words, when the territory is annexed under the provisions of act No. 280 (5733, supra), then the improvements in the annexed territory are to be made by the commissioners of the district according to the provisions relating to municipal improvement districts as* contained in \u00a7\u00a7 5656-5701 of Crawford & Moses\u2019 Digest. These provisions meet all the objections enumerated in the complaint, and urged by learned counsel for the appellant in their brief to the statute under review, as not constituting due process. They afford ampie protection to the property owners of the annexed territory.\nIn Easley v. Patterson, 142 Ark. 52-59, the courtj in construing .an act creating an improvement district in which tibe commissioners were required to add additional territory to the district upon certain conditions therein named, but without providing for the assessment of benefits in the territory to be added, said: \u201cGiving the language the force which its use necessarily implies., it seems to confer authority for the creation of entirely new districts, but it is ineffectual for that purpose, for the reason that there is no provision made in the statute for the assessment of benefits and the levy and collection of taxes for that purpose.\u201d\nAnd in White v. Arkansas-Missouri Highway District, 147 Ark. 160, the court had under review certain acts which, in effect, created three new road improvement districts, but did not provide any machinery for the assessment of benefits, and we held such acts void.\nThe appellant contends that, under the doctrine of these cases, the act under review is likewise void. But not so, because this act does make provision for the assessment of benefits in the annexed territory, under the same provisions of law as are applicable to the territory in the original district. The act contemplates that the commissioners, after the territory is annexed, shall cause the assessors of the district to make the assessment for the improvement of the territory annexed on the same basis as the original territory was assessed. This act does not have the effect of creating a new district, but only annexes territory to the original district and makes such territory, when so amiexed, a part of the original district, and provides for the assessment of 'benefits in the annexed territory according to the provisions of the law applicable to the territory in the original district. Where such is the case, it cannot be said that no provision is made for the assessment of benefits in the territory annexed. McCord v. Welch, 147 Ark. 363.\n2. The statute under consideration providing for the annexation of territory to original improvement districts in cities and towns, and making them a part of the original district, and providing that 'the improvement shall be made under the laws applicable to these original districts without reenacting .all these laws, does not violate the provisions of \u00a7 23, .article 5 of the Constitution. That section is as follows: \u201cNo law shall be revived, amended, or the provisions thereof extended or conferred by reference to its title only; 'but so much thereof as is revived, amended, extended or conferred shall be reenacted and published at length.\u201d\nIn the recent case of Farris v. Wright, 158 Ark. 519; we said: \u201cThis court has often considered the application and effect of this provision of the Constitution, and in each instance has adhered to the rule that \u2018when a new right is conferred or cause of action given, the provisions of the Constitution quoted require the whole law governing the remedy to be reenacted in order to enable the court to effect its enforcement,\u2019 but that if the statute \u2018is original in form, and by its own language grants some power, confers some right or creates some burden or obligation, it is not in conflict with the Constitution, although, it may refer to some other existing statute for the purpose of pointing out the procedure in executing the power, enforcing the right, or discharging the burden.\u2019 \u201d (Citing many previous decisions of this court on the subject).\nThe statute under consideration confers upon the city or town council, when the conditions therein prescribed are complied with, the power to pass an ordinance annexing territory to any improvement district, and to as: sess the benefits to the lands in the annexed territory of the contemplated improvements, and to make these improvements under the law applicable to the territory of the original district. Reference is thus made to these laws by which the improvements are made in the district as originally created for the purpose of pointing-out the remedy or procedure to be followed by the commissioners of the district in making the improvements contemplated in the annexed territory.\nAs was said in White v. Loughborough, 125 Ark. 57-64: \u2018 \u2018 It is an instance of the Legislature declaring a right and referring to other existing laws for the remedy, which method of legislation does not offend against that provision of the Constitution which declares that \u2018no law shall be revived, amended, or the provisions thereof extended or conferred by reference to its title only\u2019.\u201d\nOnr conclusion therefore is that act No., 280 of the Acts of 1919, (\u00a7 5733, C. & M. Digest, supra), and ordinance 3181 are valid, and the trial court did not err in so holding and in rendering a decree dismissing the appellant\u2019s complaint for want of equity. The decree is affirmed.\n\u25a0Smith, J., did not participate.",
+        "type": "majority",
+        "author": "Wood, J."
+      }
+    ],
+    "attorneys": [
+      "R. E. Wiley and McConnell & Henderson, for appellant.",
+      "John M. Shachleford, for appellees.",
+      "Rowell & Alexander and Golemcm S Gault, amid curiae."
+    ],
+    "corrections": "",
+    "head_matter": "Poe v. Street Improvement District No. 340.\nOpinion delivered June 25, 1923.\n1. Municipal corporations \u2014 annexation of territory to .improvement district. \u2014 Crawford & Moses\u2019 Dig-., \u00a7 5733, providing for the annexation of contiguous territory to an improvement district, in directing that \u201cthe commissioners shall make the assessment for said improvement on the territory annexed under the provisions of this act on the same basis as if said territory was included in the original act,\u201d contemplates that, when territory is annexed under the provisions of this section, the improvements in the annexed territory are to he made by the commissioners of the district according to the provisions of \u00a7\u00a7 5656-5701, Id., which, among other things, governs as to the mode of assessing benefits.\n2. Statutes \u2014 extension by reference merely.- \u2014 Crawford '& Moses\u2019 Dig., \u00a7 5733, providing- that, when the conditions therein prescribed for annexing territory to an improvement district are complied with, \u201cthe commissioners shall make the assessment for said improvement on the territory annexed under the provisions of this act on the same basis as if said territory was included in the original act,\u201d in declaring the right of annexation and referring to existing laws for the remedy, does not violate art. 5, \u00a7 23, of the Constitution.\n\"Appeal- from Pulaski Chancery Court; John E. Martineau, Chancellor;\naffirmed.\nR. E. Wiley and McConnell & Henderson, for appellant.\nA-law providing for the creation and levying* of an assessment, without giving* the taxpayer an opportunity to he heard in opposition to the assessment or valuation of his property before his liability is fixed, is void. 39 Fed. 891; 36 Fed. 385; 111 IT. S. 701; 18 Fed. 385; 74 N. Y. 183; 224 U. S. 271; 224 U. S. 317. Unless notice sufficient to constitute due process of law the entire assessment is void. Page & Jones, 137. It is not sufficient that the landowner has constitutional remedy to bring suit by injunction to relieve his property against enforcement of an illegal exaction. Sec 13. art 16, Constitution 1874. Act does not adopt the provisions of the general law for making* assessments {% 5733, C. &. M. Dig., 106 Ark. 252). Statutes can not be enacted by reference. Sec. 23 art. 5, Constitution of Arkansas. No provision being* made for the assessment of benefits, the annexation act and proceeding\u2019s thereunder are void. 125 Ark. 57; 142 Ark'. 52; 147 Ark. 160. The complaint alleged a cause of action, and the demurrer should have been overruled.\nJohn M. Shachleford, for appellees.\nThis proceeding challenges the validity of the annexation of territory to an existing improvement district pursuant to provisions of \u00a7 5733, C. & M. Digest. The law is constitutional. Sec. 5647-5720 do not violate due\u2019 process of law clause either Constitution, State or Federal. \u201cBasis\u201d defined. Webster. The general law (\u00a7 5660-5662, C. & M. Digest) provides for notice, hearings and appeals on the assessments when filed, and the annexed territory becomes part of the original district subject to such law. 91 Ark. 5; 147 Ark. 363. Due process of law, 122 U. S. 471; 40 Ark. 206; 38 Miss., 424; 68 Tenn. 202; 183 U. S., 471; 182 U. S. 540. Act 280 of 1919 does not violate \u00a7 23, art. 5, Constitution of Arkansas. 102 Ark. 411; 133 Ark. 157; 131 Ark. 291. All doubts must be resolved in favor of the constitutionality of a law. 34 Ark. 267; 35 Ark. 59; 37 Ark. 496; 58 Ark. 113; 60 Ark. 343; 94- Ark. 420; 100 Ark. 178; 153 S. W. (Ark.) 821; 44 N. E. 779; 150 N. Y. S. 200; 50 Pac. 522; Sutherland on Statutory Construction, \u00a7 236; 140 Ark. 398; State v. Smith, 40 Ark. 431. In ascertaining the legislative intent and in order to conform to it, - error, in an act may be corrected or word rejected and others substituted. 109 Ark. 556; 94 Ark. 422; 80 Ark. 150; 93 Ark. 168; 95 Ark. 327; 99 Ark. 149; 100 Ark. 175; 106 Ark. 517; 2 Sutherland on Statutory Construction, \u00a7 376; 145 Ark. 283; 150 Ark. 486; 35 Ark. 56; 37 Ark. 495; 71 Ark. 556; 117 Ark. 606; 149 Ark. 183. Act 280 of 1919 and a like provision in act 246 of 1909 have been upheld. 125 Ark. 57; 143 Ark. 625; 154 Ark. 139; 76 Ark. 443; 73 Ark. 536; 131 Ark. 429; 112 Ark. 437; 123 Ark. 184. If act of 1919 unconstitutional, act of' 1909 remains' unimpaired. 85 Ark. 346; 97 Ark. 322. The judgment should be affirmed.\nRowell & Alexander and Golemcm S Gault, amid curiae.\nAct 280 of acts 1919, \u00a7 5733, C. & M. Digest, is a valid enactment, and the property annexed to the district becomes part thereof and subject to the law regulating the original district. \u00a7 5656, C. & M. Digest. Rules of construction to \u25a0 arrive at legislative intent. 133 Ark. 157; 40 Ark. 431; 109 Ark. 556; 2 Lewis\u2019 Sutherland, Statutory Construction. To say that the statute makes no provision for the assessment of benefits is to give it a construction which defeats its apparent purpose. Neither is the statute in conflict with \u00a7 23, art. 5, of the Constitution. 125 Ark. 57; 111 U. S. 701; 2i3 L. ed. 569; 96 U. S. 97; 20 N. M. 77; 146 Pac. 960; 145 Ark. 51. Act 246 of acts 1909, which was in force when the act in question was passed, provided a complete method of assessments, as held in White v. Loughborough, 125 Ark. 57. Since the later act only repeals parts of former in conflict, the method of assessment would remain in force. We insist, however, that the act of 1919 intended to provide that the assessment of lands in the annexed territory should be made as though they had been in the district from its organization, and 5656-5701 would apply."
+  },
+  "file_name": "0569-01",
+  "first_page_order": 595,
+  "last_page_order": 604
+}

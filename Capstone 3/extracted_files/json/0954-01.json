@@ -1,0 +1,884 @@
+{
+  "id": 4241822,
+  "name": "FutureSelect Portfolio Management, Inc., et al., Respondents, v. Tremont Group Holdings, Inc., et al., Petitioners",
+  "name_abbreviation": "FutureSelect Portfolio Management, Inc. v. Tremont Group Holdings, Inc.",
+  "decision_date": "2014-07-17",
+  "docket_number": "No. 89303-9",
+  "first_page": "954",
+  "last_page": "974",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "180 Wash. 2d 954"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Wash.",
+    "id": 9029,
+    "name": "Washington Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 38,
+    "name_long": "Washington",
+    "name": "Wash."
+  },
+  "cites_to": [
+    {
+      "cite": "787 P.2d 8",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "weight": 7,
+      "year": 1990,
+      "pin_cites": [
+        {
+          "page": "149"
+        },
+        {
+          "page": "150"
+        },
+        {
+          "page": "148"
+        },
+        {
+          "page": "23"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "114 Wn.2d 127",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1169877
+      ],
+      "year": 1990,
+      "pin_cites": [
+        {
+          "page": "149-50"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/114/0127-01"
+      ]
+    },
+    {
+      "cite": "574 P.2d 371",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1978,
+      "opinion_index": 0
+    },
+    {
+      "cite": "89 Wn.2d 527",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1108611
+      ],
+      "year": 1978,
+      "pin_cites": [
+        {
+          "page": "533"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/89/0527-01"
+      ]
+    },
+    {
+      "cite": "820 P.2d 941",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "weight": 2,
+      "year": 1991,
+      "pin_cites": [
+        {
+          "parenthetical": "emphasis omitted"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "118 Wn.2d 16",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1372122
+      ],
+      "year": 1991,
+      "pin_cites": [
+        {
+          "page": "23"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/118/0016-01"
+      ]
+    },
+    {
+      "cite": "143 P.3d 590",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2006,
+      "pin_cites": [
+        {
+          "parenthetical": "emphasis omitted"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "158 Wn.2d 247",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        3086502
+      ],
+      "year": 2006,
+      "pin_cites": [
+        {
+          "page": "253",
+          "parenthetical": "emphasis omitted"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/158/0247-01"
+      ]
+    },
+    {
+      "cite": "776 P.2d 963",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1989,
+      "opinion_index": 0
+    },
+    {
+      "cite": "113 Wn.2d 148",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1172043
+      ],
+      "year": 1989,
+      "pin_cites": [
+        {
+          "page": "152"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/113/0148-01"
+      ]
+    },
+    {
+      "cite": "425 P.2d 623",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "weight": 3,
+      "year": 1967,
+      "opinion_index": 0
+    },
+    {
+      "cite": "70 Wn.2d 893",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1060094
+      ],
+      "year": 1967,
+      "pin_cites": [
+        {
+          "page": "900"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/70/0893-01"
+      ]
+    },
+    {
+      "cite": "676 P.2d 477",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "weight": 4,
+      "year": 1984,
+      "opinion_index": 0
+    },
+    {
+      "cite": "101 Wn.2d 200",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1139599
+      ],
+      "weight": 2,
+      "year": 1984,
+      "pin_cites": [
+        {
+          "page": "204"
+        },
+        {
+          "page": "204"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/101/0200-01"
+      ]
+    },
+    {
+      "cite": "254 P.3d 818",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2011,
+      "pin_cites": [
+        {
+          "parenthetical": "\"On remand the Court of Appeals will have to review the trial court's choice of law ruling, giving application to the Restatement (Second) of Conflict of Laws \u00a7 146 [Personal Injuries].\""
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "171 Wn.2d 726",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4015795
+      ],
+      "year": 2011,
+      "pin_cites": [
+        {
+          "parenthetical": "\"On remand the Court of Appeals will have to review the trial court's choice of law ruling, giving application to the Restatement (Second) of Conflict of Laws \u00a7 146 [Personal Injuries].\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/171/0726-01"
+      ]
+    },
+    {
+      "cite": "744 P.2d 1032",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1987,
+      "opinion_index": 0
+    },
+    {
+      "cite": "109 Wn.2d 107",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1186038
+      ],
+      "year": 1987,
+      "pin_cites": [
+        {
+          "page": "135-36"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/109/0107-01"
+      ]
+    },
+    {
+      "cite": "555 P.2d 997",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1976,
+      "opinion_index": 0
+    },
+    {
+      "cite": "87 Wn.2d 577",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1113821
+      ],
+      "year": 1976,
+      "pin_cites": [
+        {
+          "page": "580-81"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/87/0577-01"
+      ]
+    },
+    {
+      "cite": "864 P.2d 937",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1994,
+      "opinion_index": 0
+    },
+    {
+      "cite": "123 Wn.2d 93",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        812817
+      ],
+      "year": 1994,
+      "pin_cites": [
+        {
+          "page": "100-01"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/123/0093-01"
+      ]
+    },
+    {
+      "cite": "940 P.2d 261",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1997,
+      "pin_cites": [
+        {
+          "parenthetical": "citing Burnside v. Simpson Paper Co., 123 Wn.2d 93, 100-01, 864 P.2d 937 (1994)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "132 Wn.2d 642",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        498329
+      ],
+      "year": 1997,
+      "pin_cites": [
+        {
+          "page": "648",
+          "parenthetical": "citing Burnside v. Simpson Paper Co., 123 Wn.2d 93, 100-01, 864 P.2d 937 (1994)"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/132/0642-01"
+      ]
+    },
+    {
+      "cite": "497 P.2d 1311",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1972,
+      "opinion_index": 0
+    },
+    {
+      "cite": "80 Wn.2d 707",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1067119
+      ],
+      "year": 1972,
+      "pin_cites": [
+        {
+          "page": "711"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/80/0707-01"
+      ]
+    },
+    {
+      "cite": "783 P.2d 78",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1989,
+      "pin_cites": [
+        {
+          "parenthetical": "quoting Deutsch v. W. Coast Mach. Co., 80 Wn.2d 707, 711, 497 P.2d 1311 (1972)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "113 Wn.2d 763",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1172056
+      ],
+      "year": 1989,
+      "pin_cites": [
+        {
+          "page": "767",
+          "parenthetical": "quoting Deutsch v. W. Coast Mach. Co., 80 Wn.2d 707, 711, 497 P.2d 1311 (1972)"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/113/0763-01"
+      ]
+    },
+    {
+      "cite": "526 P.2d 370",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1974,
+      "opinion_index": 0
+    },
+    {
+      "cite": "84 Wn.2d 360",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1125137
+      ],
+      "year": 1974,
+      "pin_cites": [
+        {
+          "page": "364"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/84/0360-01"
+      ]
+    },
+    {
+      "cite": "757 P.2d 933",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1988,
+      "pin_cites": [
+        {
+          "parenthetical": "citing Werner v. Werner, 84 Wn.2d 360, 364, 526 P.2d 370 (1974)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "110 Wn.2d 752",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1182895
+      ],
+      "year": 1988,
+      "pin_cites": [
+        {
+          "page": "756",
+          "parenthetical": "citing Werner v. Werner, 84 Wn.2d 360, 364, 526 P.2d 370 (1974)"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/110/0752-01"
+      ]
+    },
+    {
+      "cite": "937 P2d 1069",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1997,
+      "opinion_index": 0
+    },
+    {
+      "cite": "132 Wn.2d 333",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        498364
+      ],
+      "year": 1997,
+      "pin_cites": [
+        {
+          "page": "340"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/132/0333-01"
+      ]
+    },
+    {
+      "cite": "137 P.3d 16",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2006,
+      "pin_cites": [
+        {
+          "parenthetical": "citing State v. Squally, 132 Wn.2d 333, 340, 937 P2d 1069 (1997)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "157 Wn.2d 206",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        3004436
+      ],
+      "year": 2006,
+      "pin_cites": [
+        {
+          "page": "209",
+          "parenthetical": "citing State v. Squally, 132 Wn.2d 333, 340, 937 P2d 1069 (1997)"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/157/0206-01"
+      ]
+    },
+    {
+      "cite": "118 P.3d 311",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2005,
+      "opinion_index": 0
+    },
+    {
+      "cite": "155 Wn.2d 198",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        3765668
+      ],
+      "year": 2005,
+      "pin_cites": [
+        {
+          "page": "215"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/155/0198-01"
+      ]
+    },
+    {
+      "cite": "704 P.2d 140",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1985,
+      "opinion_index": 0
+    },
+    {
+      "cite": "104 Wn.2d 181",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1201352
+      ],
+      "year": 1985,
+      "pin_cites": [
+        {
+          "page": "183"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/104/0181-01"
+      ]
+    },
+    {
+      "cite": "730 P.2d 1308",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1986,
+      "opinion_index": 0
+    },
+    {
+      "cite": "107 Wn.2d 444",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1192423
+      ],
+      "year": 1986,
+      "pin_cites": [
+        {
+          "page": "448"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/107/0444-01"
+      ]
+    },
+    {
+      "cite": "755 P.2d 781",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1988,
+      "pin_cites": [
+        {
+          "parenthetical": "citing Lawson v. State, 107 Wn.2d 444, 448, 730 P.2d 1308 (1986); Bowman v. John Doe Two, 104 Wn.2d 181, 183, 704 P.2d 140 (1985)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "110 Wn.2d 415",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1182867
+      ],
+      "year": 1988,
+      "pin_cites": [
+        {
+          "page": "420",
+          "parenthetical": "citing Lawson v. State, 107 Wn.2d 444, 448, 730 P.2d 1308 (1986); Bowman v. John Doe Two, 104 Wn.2d 181, 183, 704 P.2d 140 (1985)"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/110/0415-01"
+      ]
+    },
+    {
+      "cite": "962 P.2d 104",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "weight": 3,
+      "year": 1998,
+      "pin_cites": [
+        {
+          "parenthetical": "quoting Tenore, 136 Wn.2d at 330"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "136 Wn.2d 322",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        867945
+      ],
+      "year": 1998,
+      "pin_cites": [
+        {
+          "page": "329-30"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/136/0322-01"
+      ]
+    },
+    {
+      "cite": "154 P.3d 206",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2007,
+      "pin_cites": [
+        {
+          "parenthetical": "citing Tenore v. AT&T Wireless Servs., 136 Wn.2d 322, 329-30, 962 P.2d 104 (1998)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "159 Wn.2d 837",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        3592457
+      ],
+      "year": 2007,
+      "pin_cites": [
+        {
+          "page": "842",
+          "parenthetical": "citing Tenore v. AT&T Wireless Servs., 136 Wn.2d 322, 329-30, 962 P.2d 104 (1998)"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/159/0837-01"
+      ]
+    },
+    {
+      "cite": "309 P.3d 555",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2013,
+      "opinion_index": 0
+    },
+    {
+      "cite": "175 Wn. App. 840",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        4190525
+      ],
+      "year": 2013,
+      "pin_cites": [
+        {
+          "page": "890-95"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/175/0840-01"
+      ]
+    },
+    {
+      "cite": "500 F.3d 895",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "year": 2007,
+      "opinion_index": 1
+    },
+    {
+      "cite": "774 F.2d 927",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        35684
+      ],
+      "year": 1985,
+      "pin_cites": [
+        {
+          "page": "930",
+          "parenthetical": "per curiam"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/f2d/774/0927-01"
+      ]
+    },
+    {
+      "cite": "486 U.S. 622",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6222106
+      ],
+      "weight": 3,
+      "year": 1988,
+      "pin_cites": [
+        {
+          "page": "653-54"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/486/0622-01"
+      ]
+    },
+    {
+      "cite": "750 P.2d 254",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1987,
+      "opinion_index": 1
+    },
+    {
+      "cite": "776 P.2d 963",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1989,
+      "opinion_index": 1
+    },
+    {
+      "cite": "113 Wn.2d 148",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1172043
+      ],
+      "year": 1989,
+      "pin_cites": [
+        {
+          "page": "152"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/113/0148-01"
+      ]
+    },
+    {
+      "cite": "744 P.2d 1032",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1987,
+      "opinion_index": 1
+    },
+    {
+      "cite": "109 Wn.2d 107",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1186038
+      ],
+      "year": 1987,
+      "pin_cites": [
+        {
+          "page": "130-31"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/109/0107-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1419,
+    "char_count": 32719,
+    "ocr_confidence": 0.744,
+    "pagerank": {
+      "raw": 1.8406528052246507e-07,
+      "percentile": 0.7220849555321565
+    },
+    "sha256": "3af4f9e56ea04f4139c48343b6a58288e4abc05f0e8a3115a9315bc877e2a00e",
+    "simhash": "1:1c6dfc846385adf8",
+    "word_count": 5180
+  },
+  "last_updated": "2024-02-27T18:26:29.759680+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Madsen, C.J.; C. Johnson, Owens, Fairhurst, Stephens, and Wiggins, JJ.; and Kulik, J. Pro Tem., concur."
+    ],
+    "parties": [
+      "FutureSelect Portfolio Management, Inc., et al., Respondents, v. Tremont Group Holdings, Inc., et al., Petitioners."
+    ],
+    "opinions": [
+      {
+        "text": "Gonz\u00e1lez, J.\n\u00b6 1 Between 1997 and 2008, FutureSelect, a Redmond based financial company, invested nearly $200 million in Tremont\u2019s Rye Funds, which pooled and fed money into Bernie Madoff\u2019s fraudulent securities investment scheme. These investments were lost when Madoff\u2019s fraud unraveled. FutureSelect sued Tremont, Oppenheimer Acquisition Corporation and Massachusetts Mutual Life Insurance Company (Mass Mutual) (Tremont\u2019s parent companies), and Ernst & Young and Tremont\u2019s other auditors for their failure to conduct due diligence on Madoff\u2019s operations. FutureSelect alleged violations of the Washington state securities act (WSSA), chapter 21.20 RCW; negligence; and negligent misrepresentation.\n\u00b62 The trial court dismissed on the pleadings, finding Washington\u2019s security law did not apply and that Washington courts did not have jurisdiction over Oppenheimer. The Court of Appeals reversed. Defendants seek to reinstate the trial court\u2019s findings. Oppenheimer argues that it lacks the requisite minimum contacts with Washington for personal jurisdiction. The defendants collectively argue that dismissing for failure to state a claim is appropriate because New York law \u2014 which does not provide for a private cause of action under its state securities act, rather than Washington law, which does \u2014 applies. Ernst & Young also contends that it is not a \u201cseller\u201d under the WSSA. We affirm the Court of Appeals.\nFACTS\n\u00b63 The lead plaintiff, FutureSelect Portfolio Management Inc., is headquartered in Washington and manages a number of investment funds. The first named defendant, Tremont Partners Inc., is headquartered in New York and serves as the general partner to the Rye Funds, whose status as feeder funds to Bernard L. Madoff Investment Securities LLC (Madoff) is at the heart of this dispute.\n\u00b64 The relationship between FutureSelect and Tremont began when a Tremont representative visited FutureSelect\u2019s Redmond offices in 1997 to solicit FutureSelect\u2019s investment in the Rye Funds. This initiated a series of discussions between FutureSelect and Tremont regarding the Rye Funds. Tremont claimed that it was offering FutureSelect a rare, and potentially fleeting, opportunity to invest with Madoff. Tremont also made assurances about its oversight and understanding of Madoff\u2019s operation. Relying on these assurances and the audit opinions of the accounting firm hired by Tremont, FutureSelect decided to invest in the Rye Funds in 1998. FutureSelect and Tremont had monthly ongoing communications about Madoff and the performance of the Rye Funds. Tremont claimed that its ongoing oversight and testing of Madoff proved satisfactory. Tremont also provided FutureSelect with purported facts proving the health of the Rye Funds.\n\u00b65 Between 1998 and late 2008, when Madoff\u2019s Ponzi scheme finally came to light, FutureSelect continued to invest more funds in the Rye Funds as a result of the representations it regularly received from Tremont and its auditors. In all, FutureSelect invested $195 million with Tremont. But, Madoff never invested any of the capital he received through the Rye Funds or any other feeder. Future-Select lost its entire investment. Believing that Tremont had significantly misled it, FutureSelect sued Tremont; MassMutual and Oppenheimer (Tremont\u2019s parent companies); and Ernst & Young, KPMG, and Goldstein Golub Kessler (Tremont\u2019s auditors).\n\u00b66 In its complaint, FutureSelect alleged that the defendants are liable for (1) violating RCW 21.20.010 and RCW 21.20.430, (2) negligence, and (3) negligent misrepresentation. According to the complaint, Tremont\u2019s liability is based on the direct misrepresentations made by Tremont to FutureSelect that FutureSelect relied on in making, maintaining, and adding to its investment in the Rye Funds. It alleged that Tremont acted as MassMutual and Oppenheimer\u2019s agent or apparent agent. It alleged Ernst & Young made direct misrepresentations that FutureSelect relied on in maintaining and adding to its investment in the Rye Funds. The defendants filed separate motions to dismiss on the pleadings. Without stating the specific grounds for dismissal, the trial court granted these motions in full after conducting a hearing and considering a number of pleadings, declarations, and briefs. FutureSelect obtained a CR 54(b) order granting final judgment on the dismissals, allowing this appeal.\n\u00b67 The Court of Appeals reversed in part and affirmed in part, finding that (1) Washington has the most significant relationship to the state securities act claims, negligent misrepresentation claims, and agency claims, (2) the complaint sufficiently alleged personal jurisdiction over Oppenheimer, and (3) the trial court properly dismissed the apparent agency claim against Oppenheimer and negligence claim against Tremont. FutureSelect Portfolio Mgmt., Inc. v. Tremont Grp. Holdings, Inc., 175 Wn. App. 840, 890-95, 309 P.3d 555 (2013). We granted review and now affirm the Court of Appeals.\nANALYSIS\nI. Standard of review\n\u00b68 We review CR 12(b)(6) dismissals de novo. Kinney v. Cook, 159 Wn.2d 837, 842, 154 P.3d 206 (2007) (citing Tenore v. AT&T Wireless Servs., 136 Wn.2d 322, 329-30, 962 P.2d 104 (1998)). \u201cDismissal is warranted only if the court concludes, beyond a reasonable doubt, the plaintiff cannot prove \u2018any set of facts which would justify recovery.\u2019 \u201d Id. (quoting Tenore, 136 Wn.2d at 330). All facts alleged in the complaint are taken as true, and we may consider hypothetical facts supporting the plaintiff\u2019s claim. Id. \u201cTherefore, a complaint survives a CR 12(b)(6) motion if any set of facts could exist that would justify recovery.\u201d Hoffer v. State, 110 Wn.2d 415, 420, 755 P.2d 781 (1988) (citing Lawson v. State, 107 Wn.2d 444, 448, 730 P.2d 1308 (1986); Bowman v. John Doe Two, 104 Wn.2d 181, 183, 704 P.2d 140 (1985)). But, \u201c[i]f a plaintiff\u2019s claim remains legally insufficient even under his or her proffered hypothetical facts, dismissal pursuant to CR 12(b)(6) is appropriate.\u201d Gorman v. Garlock, Inc., 155 Wn.2d 198, 215, 118 P.3d 311 (2005). Similarly, we review a CR 12(b)(2) dismissal de novo. In re Estate of Kordon, 157 Wn.2d 206, 209, 137 P.3d 16 (2006) (citing State v. Squally, 132 Wn.2d 333, 340, 937 P2d 1069 (1997)).\nII. Personal jurisdiction\n\u00b69 Oppenheimer argues that it lacks the requisite minimum contacts with Washington and our courts\u2019 exercise of personal jurisdiction would offend due process. See Suppl. Br. of Oppenheimer at 7. It is mistaken. At this stage of litigation, the allegations of the complaint establish sufficient minimum contacts to survive a CR 12(b)(2) motion. However, Oppenheimer may renew its jurisdictional challenge after appropriate discovery has been conducted.\nA. Specific jurisdiction\n\u00b610 For the exercise of specific jurisdiction under Washington\u2019s long arm statute to be proper, the defendant\u2019s conduct must fall under RCW 4.28.185 and the exercise of jurisdiction must not violate constitutional principles. Grange Ins. Ass\u2019n v. State, 110 Wn.2d 752, 756, 757 P.2d 933 (1988) (citing Werner v. Werner, 84 Wn.2d 360, 364, 526 P.2d 370 (1974)). \u201cIn order to subject nonresident defendants and foreign corporations to the in personam jurisdiction of this state under RCW 4.28.185(1)(a),\u201d Washington\u2019s long arm statute, we must find the following factors:\n\u201c(1) The nonresident defendant or foreign corporation must purposefully do some act or consummate some transaction in the forum state; (2) the cause of action must arise from, or be connected with, such act or transaction; and (3) the assumption of jurisdiction by the forum state must not offend traditional notions of fair play and substantial justice, consideration being given to the quality, nature, and extent of the activity in the forum state, the relative convenience of the parties, the benefits and protection of the laws of the forum state afforded the respective parties, and the basic equities of the situation.\u201d\nShute v. Carnival Cruise Lines, 113 Wn.2d 763, 767, 783 P.2d 78 (1989) (quoting Deutsch v. W. Coast Mach. Co., 80 Wn.2d 707, 711, 497 P.2d 1311 (1972)). This inquiry encompasses both the statutory and due process concerns of exercising personal jurisdiction.\n\u00b611 FutureSelect alleges jurisdiction is proper under RCW 4.28.185(1)(a), which extends jurisdiction arising out of \u201c[t]he transaction of any business within this state,\u201d on the theory that Oppenheimer transacted business in Washington through Tremont, its agent. RCW 4.28.185(1) explicitly permits Washington courts to exercise jurisdiction over a principal based on the actions of its agent. We apply the Shute factors to the allegations contained in FutureSelect\u2019s complaint, which we accept as true given the procedural posture of this case.\nB. Shute factors\n\u00b612 First, we find the complaint sufficiently establishes that Tremont acted as Oppenheimer\u2019s agent for purposes of the CR 12 motion. The complaint asserts that Oppenheimer (1) owned, directed, influenced management, and provided support services to Tremont, (2) directed Tremont to change its auditor from Ernst & Young to KPMG, (3) placed its own president and director, who was also a vice president at MassMutual, on Tremont\u2019s board of directors, and (4) actively managed and used its image to help Tremont with marketing and soliciting investment activity. For the purposes of the motion to dismiss, we find agency.\n\u00b613 Accepting the agency relationship, we find the complaint also adequately alleges that Tremont\u2019s misrepresentations, which we presume without deciding were made on Oppenheimer\u2019s behalf and received in Washington, satisfy the first two Shute factors. Tremont directed numerous representations at FutureSelect. As a result of these representations, FutureSelect maintained and contributed millions of dollars to its initial investment in the Rye Funds. Much of this occurred after Oppenheimer\u2019s acquisition of Tremont. Accordingly, the allegations in the complaint sufficiently establish that Oppenheimer transacted business with FutureSelect in Washington through its agent.\n\u00b614 We turn now to whether the assumption of jurisdiction offends traditional notions of fair play and substantial justice. Weighing (1) the quality, nature, and extent of Oppenheimer\u2019s activity in Washington, (2) the convenience of the parties, (3) the benefits and protection of Washington law, and (4) the basic equities of the situation, we conclude it does not.\n\u00b615 First, the quality, nature, and extent of Tremont\u2019s activity in Washington were significant. The business relationship with FutureSelect extended from 2001 until 2008; involved the solicitation, offer, and sale of securities; and resulted in ongoing transfers of extremely large sums of money from Washington to Oppenheimer via Tremont.\n116 Second, nothing in the record suggests that Washington courts exercising jurisdiction would pose an undue burden on Oppenheimer.\n\u00b617 Finally, the benefits and protections of Washington law as well as the equities of the situation cut squarely in favor of our courts exercising jurisdiction. Our law explicitly protects investors from fraud and misrepresentations made by sellers of securities. See RcW 21.20.010. Not allowing Washington courts to enforce our statutes and regulations against nonresident companies that solicit, offer, and sell securities in this state would undermine the efficacy of this regulatory regime and create a perverse incentive for principals to insulate themselves from liability by operating exclusively through agents.\n\u00b618 Given these considerations, we reverse the trial court and remand for further proceedings. Though we leave open Oppenheimer\u2019s ability to renew its motion, we find the trial court dismissed prematurely. Some limited discovery and a resolution of disputed jurisdictional facts are warranted. The trial court should determine whether an agency relationship existed between Oppenheimer and Tremont at any point during the relevant time period and, if so, whether jurisdiction is proper under the Shute factors.\nIII. Choice of law\n\u00b619 Next, we turn to whether Washington or New York law applies to this case. Defendants argue that New York law applies because New York has the more significant relationship to the dispute and that dismissal on the pleadings was warranted because there is no private cause of action under New York\u2019s state security law. On this record, we disagree. The allegations in the complaint are sufficient to survive the defendants\u2019 CR 12(b)(6) motion.\nA. Actual conflict\n\u00b620 As a preliminary matter, when choice of law is disputed, \u201cthere must be an actual conflict between the laws or interests of Washington and the laws or interests of another state before Washington courts will engage in a conflict of laws analysis.\u201d Seizer v. Sessions, 132 Wn.2d 642, 648, 940 P.2d 261 (1997) (citing Burnside v. Simpson Paper Co., 123 Wn.2d 93, 100-01, 864 P.2d 937 (1994)). Here, an actual conflict exists between the WSSA, ch. 21.20 RCW, and New York\u2019s Martin Act, N.Y. Gen. Bus. Law art. 23-A. Specifically, the WSSA provides for a private right of action, see RCW 21.20.430, while New York\u2019s Martin Act does not, see N.Y. Gen. Bus. Law art. 23-A.\nB. Significant relationship test\n\u00b621 To settle choice of law questions, Washington uses the most significant relationship test as articulated by Restatement (Second) of Conflict of Laws \u00a7 145 (1971). Johnson v. Spider Staging Corp., 87 Wn.2d 577, 580-81, 555 P.2d 997 (1976). FutureSelect argues we should also formally adopt \u00a7 148, which refines the \u00a7 145 factors for the fraud and misrepresentation context. See Suppl. Br. of Resp\u2019ts at 6. Defendants, on the other hand, urge us to take an orthodox interpretation of Haberman v. Washington Public Power Supply System, 109 Wn.2d 107, 135-36, 744 P.2d 1032 (1987), and apply \u00a7 145 exclusively. See Suppl. Br. of Tremont et al. at 5; Ernst & Young LLP\u2019s Suppl. Br. at 2-3. We agree with FutureSelect.\n\u00b622 Haberman and \u00a7 145 provide a basic framework for choice of law questions. But we have not shied from applying a different, more specific section of the Restatement when warranted by a particular tort. E.g., Williams v. Leone & Keeble, Inc., 171 Wn.2d 726, 735 n.6, 254 P.3d 818 (2011) (\u201cOn remand the Court of Appeals will have to review the trial court\u2019s choice of law ruling, giving application to the Restatement (Second) of Conflict of Laws \u00a7 146 [Personal Injuries].\u201d). Given the nature of misrepresentation, we find the factors in \u00a7 148 to be more helpful than those in \u00a7 145.\n\u00b623 Previously, we developed a two-step analysis for the significant relationship inquiry under \u00a7 145. Southwell v. Widing Transp., Inc., 101 Wn.2d 200, 204, 676 P.2d 477 (1984). Our adoption of \u00a7 148 does not alter this approach. Accordingly, first, courts will continue to evaluate the contacts with each interested jurisdiction. Id. The \u201capproach is not merely to count contacts, but rather to consider which contacts are most significant and to determine where these contacts are found.\u201d Johnson, 87 Wn.2d at 581 (citing Baffin Land Corp. v. Monticello Motor Inn, Inc., 70 Wn.2d 893, 900, 425 P.2d 623 (1967)). Second, courts will continue to evaluate the interests and public policies of potentially concerned jurisdictions. Southwell, 101 Wn.2d at 204. \u201cThe extent of the interest of each potentially interested state should be determined on the basis, among other things, of the purpose sought to be achieved by their relevant local law rules and the particular issue involved.\u201d Id. (citing Johnson, 87 Wn.2d at 582).\n1. Evaluation of contacts\n\u00b624 Under \u00a7 148, to determine the jurisdiction with the most significant relationship to the dispute, we must consider (1) the place where plaintiff acted in reliance on the representations, (2) the place where the plaintiff received the representations, (3) the place where the defendant made the representations, (4) the domicile, residence, nationality, place of incorporation, and place of business of the parties, (5) the place where a tangible thing, which is the subject of the transaction between the parties, was situated at the time, and (6) the place where the plaintiff is to render performance under a contract that he has been induced to enter by the false representations of the defendant. Restatement \u00a7 148.\n\u00b625 Much like in Southwell, this case has \u201cnot presented this court with a record that is sufficiently developed to enable us to undertake the factual analysis necessary for proper resolution of the conflicts issue involved.\u201d 101 Wn.2d at 205. But for purposes of reviewing dismissal under a CR 12(b)(6) motion, we look to the complaint and conclude that FutureSelect could show that (1) Washington was the place where FutureSelect acted in reliance on the representations, (2) Washington was the place where FutureSelect received the representations, (3) Washington and New York were the places where the defendants made the representations, (4) Washington and New York were the primary places of business of the parties, and (5) it cannot be determined either way where FutureSelect was to render performance under the contract that it had been induced to enter by the false representations of the defendant.\n\u00b626 To complete this analysis, we must \u201cconsider which contacts are most significant\u201d in addition to finding out where they are found. Johnson, 87 Wn.2d at 581 (citing Baffin Land Corp., 70 Wn.2d at 900). The record is insufficient to permit us to engage in this inquiry, and so we leave it open.\n\u00b627 In short, we find the contacts pleaded by Future-Select to be sufficient to survive the defendants\u2019 CR 12(b)(6) motions on the choice of law issue.\n2. Interests and public policies of jurisdictions\n\u00b628 Next, we turn to the second step of our analysis, which asks us to evaluate the interests and public policies of the jurisdictions. Southwell, 101 Wn.2d at 204. Here, Washington has a more compelling interest in protecting its investors from fraud and misrepresentation than New York does in regulating sellers of securities that may have perpetrated fraud or misrepresentation in another state.\n\u00b629 At its core, this case does not involve a generalized regulation of securities sales, but the weighing of specific representations and assurances that allegedly targeted Washington investors. Washington has a strong interest in giving Washington investors the benefit of Washington law and in requiring the sellers of securities to comply with it.\n\u00b630 We recognize the legislature\u2019s directive to interpret the WSSA to promote uniformity with federal securities law and those of others states. RCW 21.20.900. But \u201c[o]ur examination does not end there.\u201d Kinney, 159 Wn.2d at 844. \u201cThe Washington Act is unique; special emphasis is placed on protecting investors from fraudulent schemes.\u201d Id. (citing Hoffer v. State, 113 Wn.2d 148, 152, 776 P.2d 963 (1989)). Indeed, we have stated that \u201cthe \u2018primary purpose\u2019 of the Act is \u2018to protect investors from speculative or fraudulent schemes of promoters.\u2019 \u201d Go2Net, Inc. v. Freeyellow.com, Inc., 158 Wn.2d 247, 253, 143 P.3d 590 (2006) (emphasis omitted) (quoting Cellular Eng\u2019g, Ltd. v. O\u2019Neill, 118 Wn.2d 16, 23, 820 P.2d 941 (1991)). \u201cThe Act \u2018is remedial in nature and has as its purpose broad protection of the public.\u2019 \u201d Id. (emphasis omitted) (quoting McClellan v. Sundholm, 89 Wn.2d 527, 533, 574 P.2d 371 (1978)). Applying New York rather than Washington law, which would deprive FutureSelect of 'a private cause of action, would necessarily frustrate this purpose. We decline to do so without clear evidence that New York has the more significant relationship to the dispute, which does not necessarily follow from this record.\nTV. Definition of \u201cseller\u201d under WSSA\n\u00b631 The final question at issue involves whether Ernst & Young can be considered a seller under the WSSA. Ernst & Young argues that because FutureSelect refers only to its audits and audit reports, which are purely professional services, and nothing related to the sale of securities, the trial court properly granted its motion to dismiss. Ernst & Young LLP\u2019s Suppl. Br. at 17-18. We disagree.\n\u00b632 The WSSA imposes civil liability on anyone who sells a security in violation of certain provisions of the act. RCW 21.20.430(1). A \u201cseller\u201d includes any party whose acts were a \u201csubstantial contributive factor\u201d to the sale. Haberman, 109 Wn.2d at 131. This is meant to be an expansive definition. Even so, we do require plaintiffs to establish \u201c \u2018something more\u2019 \u201d in addition to the provision of routine professional services. Hines v. Data Line Sys., Inc., 114 Wn.2d 127, 149-50, 787 P.2d 8 (1990). Because it is possible that FutureSelect can. establish the requisite \u201csomething more,\u201d dismissal on the pleadings was inappropriate.\n\u00b633 In Hines, we found that there was no evidence to indicate that the attorneys who were being sued under the WSSA had any personal contact with any of the investors or were in any way involved in the solicitation process. Id. at 149. There, we found that \u00a3\u00a3[t]he advice given by Perkins Coie to Data Line was not a catalyst in the sales transaction between Data Line and the investors.\u201d Id. at 150. This meant that Perkins Coie could not be held liable as a seller. Id.\n\u00b634 The situation here is different. Among other things, Hines was resolved on summary judgment, not on a CR 12(b)(6) motion. Id. at 148. Because the question of whether someone was a substantial contributive factor is \u201cnecessarily a question of fact \u201d Haberman, 109 Wn.2d at 132, it is not easily resolved on the pleadings as long as the complaint contains sufficient allegations.\n\u00b635 Here, FutureSelect has met this requirement. Its complaint alleges that FutureSelect \u201cwould not have invested in the Rye Funds if the funds were not audited\u201d by Ernst & Young. Clerk\u2019s Papers at 37. Moreover, Future-Select has also alleged that Ernst & Young \u201cknew that its audits would be used by Tremont to solicit investors [and] also knew and intended that current investors would rely on the audits when deciding to maintain and increase their investments in the Rye Funds.\u201d Id. Finally, Ernst & Young asked FutureSelect to verify its investment in the Rye Funds and addressed its audits directly to the partners of the Rye Funds, which included FutureSelect. Id. at 23.\n\u00b636 FutureSelect is entitled to an opportunity to prove what it alleged. We reverse the trial court\u2019s CR 12(b)(6) dismissal.\nCONCLUSION\n\u00b637 Because FutureSelect has met its initial burden of production, we reverse the trial court\u2019s dismissal on the pleadings. On remand, the trial court shall (1) allow limited discovery on the jurisdictional issue and, if necessary, conduct a jurisdictional hearing to resolve any contested material facts and (2) give the parties an opportunity to fully develop the record surrounding the sale of securities to FutureSelect so that the trial court can properly consider the Restatement \u00a7 148 factors as they apply to the various defendants and determine whether Ernst & Young\u2019s acts were a substantial contributing factor to FutureSelect\u2019s decision to continue investing in the Rye Funds. We affirm the Court of Appeals and remand to the trial court for further proceedings consistent with this opinion.\nMadsen, C.J.; C. Johnson, Owens, Fairhurst, Stephens, and Wiggins, JJ.; and Kulik, J. Pro Tem., concur.\nTremont Partners serves as the general partner of the Rye Select Broad Market Fund LP, the Rye Select Broad Market Prime Fund LP, and the Rye Select Broad Market XL Fund LP (collectively Rye Funds).\nKPMG and FutureSelect have since entered arbitration.\nGoldstein Golub Kessler and FutureSelect have since settled.\nFutureSelect believes all the defendants are liable for violations of the WSSA. Under the WSSA,\n[i]t is unlawful for any person, in connection with the offer, sale or purchase of any security, directly or indirectly:\n(1) To employ any device, scheme, or artifice to defraud;\n(2) To make any untrue statement of a material fact or to omit to state a material fact necessary in order to make the statements made, in the light of the circumstances under which they are made, not misleading; or\n(3) To engage in any act, practice, or course of business which operates or would operate as a fraud or deceit upon any person.\nRCW 21.20.010.\nFutureSelect brings the negligence claim against Tremont only.\nFutureSelect brings the negligent misrepresentation claim against Tremont and Ernst & Young, not Oppenheimer and MassMutual.\nMassMutual and Oppenheimer purchased Tremont in 2001. FutureSelect believes that these companies exerted sufficient direct control over Tremont that the subsidiary\u2019s liability should be imputed to the parent companies. Further, FutureSelect alleges that both MassMutual and Oppenheimer stood to gain profit from Tremont\u2019s relationship with Madoff and were complicit in the misrepresentations made to FutureSelect.\nErnst & Young audited the Rye Funds from 2000 to 2003. During that time, FutureSelect continued and enhanced its investment in the Rye Funds in reliance on Ernst & Young\u2019s audit statements. FutureSelect believes that Ernst & Young falsely claimed that it followed generally accepted auditing standards and that it improperly verified Madoff\u2019s trades purportedly made on behalf of the Rye Funds. FutureSelect also claims that Ernst & Young omitted material facts such as that it could not rely on Madoff\u2019s auditor and that it had not actually audited Madoff\u2019s own books. Because of a required verification of investment in the Rye Funds and the way the audit statements were addressed, FutureSelect alleges these misrepresentations were made directly to it and the other partners of the Rye Funds.\nIn relevant part, the statute provides that\n(1) Any person, whether or not a citizen or resident of this state, who in person or through an agent does any of the acts in this section enumerated, thereby submits said person, and, if an individual, his or her personal representative, to the jurisdiction of the courts of this state as to any cause of action arising from the doing of any of said acts ....\nRCW 4.28.185 (emphasis added).\nThese services consisted of compliance, audit, finance, and human resources.\nSpecifically, FutureSelect alleges that \u201call five of Tremont\u2019s board members became MassMutual, Oppenheimer and/or OppenheimerFunds employees.\u201d Clerk\u2019s Papers at 18.\nIt is important to remember that for choice of law questions \u201cthe ultimate outcome, in any given case, depends upon the underlying facts of that case.\u201d Southwell v. Widing Transp., Inc., 101 Wn.2d 200, 204, 676 P.2d 477 (1984). This requires a subjective analysis of objective factors. Id. Though we hesitate to articulate any categorical rules, such an analysis does not lend itself readily to disposition on a CR 12(b)(6) motion.\nIn relevant part, \u00a7 145 asks us to consider the following contacts:\n(a) the place where the injury occurred,\n(b) the place where the conduct causing the injury occurred,\n(c) the domicil, residence, nationality, place of incorporation and place of business of the parties, and\n(d) the place where the relationship, if any, between the parties is centered.\nThese contacts are to be evaluated according to their relative importance with respect to the particular issue.\nRestatement \u00a7 145.\nIn Haberman, we were faced with a choice of law question involving the WSSA and we resolved the issue by looking exclusively at \u00a7 145. 109 Wn.2d at 135-36.\nIt is worth noting that in Haberman \u201c[n]o party contended] that another state\u2019s securities act applie[d].\u201d Id. at 135. The question was whether the WSSA could apply to \u201can action brought in a Washington forum where out-of-state parties are under [Washington\u2019s] jurisdiction.\u201d Id. at 134. This is a different dispute than the one we face today, where parties are disputing whether Washington or New York law applies.\nThe remaining factor \u2014 \u201cthe place where a tangible thing which is the subject of the transaction between the parties was situated at the time,\u201d Restatement \u00a7 148 \u2014 is inapplicable because this transaction did not involve a tangible thing.\nErnst & Young encourages us to run a separate analysis for the choice of laws issue. This is proper because the record may show different significant contacts for the claims against Ernst & Young than for the claims against Tremont. However, at this procedural stage, a single analysis is sufficient because too many facts are in dispute and we must accept the allegations in the complaint as true. Accordingly, we accept that Ernst & Young can be established to he a seller of securities under the WSSA, as discussed in the analysis below, and so the claims against Ernst & Young have many of the same contacts as Tremont.",
+        "type": "majority",
+        "author": "Gonz\u00e1lez, J."
+      },
+      {
+        "text": "Gordon McCloud, J.\n\u00b638 (concurring) \u2014 I fully agree with the majority\u2019s well-reasoned analysis and conclusions about jurisdiction and choice of law. I write separately only to comment on how broadly that opinion construes the word \u201csellfer]\u201d in RCW 21.20.430(1) \u2014 so broadly that it includes the nonseller accounting firm Ernst & Young.\n\u00b639 The majority is correct that in 1987, this court imported into Washington\u2019s securities law the majority rule in the federal circuits for interpreting the word \u201csellfer]\u201d under federal securities law; we held that \u201csell[er]\u201d must be construed broadly to include those whose actions were a \u201csubstantial contributive factor\u201d in the sale. Haberman v. Wash. Pub. Power Supply Sys., 109 Wn.2d 107, 130-31, 744 P.2d 1032, 750 P.2d 254 (1987). But one year after Haberman, the United States Supreme Court decided Pinter v. Dahl, 486 U.S. 622, 653-54, 108 S. Ct. 2063, 100 L. Ed. 2d 658 (1988). Pinter construed the word \u201csell[er]\u201d in the related federal securities law, and it expressly rejected the broad interpretation that most circuit courts had adopted under federal law and that we had adopted under state law.\n\u00b640 Predictably, in 1989, we considered a post -Pinter challenge to the Haberman court\u2019s interpretation of our state\u2019s securities law. In Hoffer v. State, 113 Wn.2d 148, 152, 776 P.2d 963 (1989), we rejected the argument that the Supreme Court\u2019s analysis was more persuasive than our own and adhered to the \u201csubstantial contributive factor\u201d interpretation of \u201csell[er]\u201d as adopted in Haberman. The dissent in Hoffer, by contrast, asserted that \u201cRCW 21.20-.430(1), by its plain language, requires privity of the seller and the person buying the security.\u201d Id. at 153 (Pearson, J., dissenting). It also noted that \u201c[t]he underpinnings of Haberman came from lower federal court decisions which are no longer authoritative in light of the Pinter ruling.\u201d Id.\n\u00b641 The Hoffer dissent made good sense at the time it was written. The very federal cases on which the Haberman decision relied were expressly disapproved by Pinter. In fact, that dissent makes even more sense now, 27 years, later, as even more circuits that the Haberman majority relied on have repudiated their earlier adoption of the nontextual \u201csubstantial contributive factor\u201d test. For example, the Haberman majority explicitly relied on a Ninth Circuit case in adopting our test. Haberman, 109 Wn.2d at 127 (citing Anderson v. Aurotek, 774 F.2d 927, 930 (9th Cir. 1985) (per curiam)). In 2007, that case was repudiated by the Ninth Circuit in light of Pinter. Sec. & Exch. Comm\u2019n v. Phan, 500 F.3d 895, 906 n.13 (9th Cir. 2007).\n\u00b642 Nevertheless, the majority is absolutely correct that Haberman is controlling, not the Hoffer dissent. I therefore concur in the majority\u2019s decision. In light of Haberman and Hoffer, FutureSelect has sufficiently alleged that Ernst & Young was a \u201csell[er]\u201d to avoid dismissal on the pleadings.",
+        "type": "concurrence",
+        "author": "Gordon McCloud, J."
+      }
+    ],
+    "attorneys": [
+      "Timothy J. Filer (of Foster Pepper PLLC) (Seth M. Schwartz and Jason C. Vigna (of Skadden, Arps, Slate, Meagher & Flom LLP), of counsel), for petitoners Tremont Group Holdings Inc. and Tremont Partners Inc.",
+      "David F. Taylor and Cori G. Moore (of Perkins Coie LLP) {David A. Kotler {o\u00edDechert LLP), of counsel), for petitioner Oppenheimer Acquisition Corporation.",
+      "Christopher H. Howard, Averil B. Rothrock, and Claire L. Rootjes (of Schwabe Williamson & Wyatt PC), for petitioner Massachusetts Mutual Life Insurance Company.",
+      "Stephen M. Rummage and Roger A. Leishman (of Davis Wright Tremaine LLP) {Robert B. Hubbell (of Morrison Foerster LLP), of counsel), for petitioner Ernst & Young LLP.",
+      "Jeffrey M. Thomas and Jeffrey I. Tilden (of Gordon Tilden Thomas & Cordell LLP) {Emily Alexander and Steven W. Thomas (of Thomas Alexander Forrester LLP), of counsel), for respondents."
+    ],
+    "corrections": "",
+    "head_matter": "[No. 89303-9.\nEn Banc.]\nArgued March 20, 2014.\nDecided July 17, 2014.\nFutureSelect Portfolio Management, Inc., et al., Respondents, v. Tremont Group Holdings, Inc., et al., Petitioners.\nTimothy J. Filer (of Foster Pepper PLLC) (Seth M. Schwartz and Jason C. Vigna (of Skadden, Arps, Slate, Meagher & Flom LLP), of counsel), for petitoners Tremont Group Holdings Inc. and Tremont Partners Inc.\nDavid F. Taylor and Cori G. Moore (of Perkins Coie LLP) {David A. Kotler {o\u00edDechert LLP), of counsel), for petitioner Oppenheimer Acquisition Corporation.\nChristopher H. Howard, Averil B. Rothrock, and Claire L. Rootjes (of Schwabe Williamson & Wyatt PC), for petitioner Massachusetts Mutual Life Insurance Company.\nStephen M. Rummage and Roger A. Leishman (of Davis Wright Tremaine LLP) {Robert B. Hubbell (of Morrison Foerster LLP), of counsel), for petitioner Ernst & Young LLP.\nJeffrey M. Thomas and Jeffrey I. Tilden (of Gordon Tilden Thomas & Cordell LLP) {Emily Alexander and Steven W. Thomas (of Thomas Alexander Forrester LLP), of counsel), for respondents."
+  },
+  "file_name": "0954-01",
+  "first_page_order": 1018,
+  "last_page_order": 1038
+}

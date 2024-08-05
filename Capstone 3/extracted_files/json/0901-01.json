@@ -1,0 +1,175 @@
+{
+  "id": 8726315,
+  "name": "Wilcox v. McCallister",
+  "name_abbreviation": "Wilcox v. McCallister",
+  "decision_date": "1933-02-06",
+  "docket_number": "4-2831",
+  "first_page": "901",
+  "last_page": "905",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "186 Ark. 901"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [
+    {
+      "cite": "269 S. W. 987",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "168 Ark. 229",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        8720657
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/168/0229-01"
+      ]
+    },
+    {
+      "cite": "80 S. W. 148",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "72 Ark. 330",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1505586
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/72/0330-01"
+      ]
+    },
+    {
+      "cite": "182 S. W. 570",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "122 Ark. 114",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1558141
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/122/0114-01"
+      ]
+    },
+    {
+      "cite": "177 S. W. 40",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "118 Ark. 524",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1562527
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/118/0524-01"
+      ]
+    },
+    {
+      "cite": "184 S. W. 67",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "122 Ark. 557",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1558170
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/122/0557-01"
+      ]
+    },
+    {
+      "cite": "192 S. W. 379",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "127 Ark. 470",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1550233
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/127/0470-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 400,
+    "char_count": 7252,
+    "ocr_confidence": 0.484,
+    "pagerank": {
+      "raw": 8.168092524467642e-08,
+      "percentile": 0.4750060717825634
+    },
+    "sha256": "56435a9808a282c9e5fe2a53e65a190fd838f29956dadba20f57cad6b424c6c0",
+    "simhash": "1:d6db3f44077cecde",
+    "word_count": 1289
+  },
+  "last_updated": "2024-02-27T17:52:01.123529+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Wilcox v. McCallister."
+    ],
+    "opinions": [
+      {
+        "text": "Smith, J.\nIn 1925, while J. C. Wilcox was county judge of Arkansas County, a contract was let, upon competitive bidding, for the erection of a bridge in that county. The lowest bid received was made by Ross Duckett, who offered to build the bridge for $177.75. Tbe other bids ran as high as $375.\nThe contract appears to have been let by the county judge, and not by the county court; but the bridge was built, and is now in use, and was accepted by the county, and an allowance was made by the county court covering this claim, upon which a county warrant was issued and delivered in the sum of $177.75.\nAfter the issuance of this warrant, an order was made by the county court calling in all outstanding warrants for the purpose of reissuance, and this warrant was taken up and a new warrant issued therefor, which Wilcox acquired in due course.\nWilcox had a contract with the .St. Louis Southwestern Railroad. Company to furnish the county scrip used by that company in paying its county taxes in Arkansas County. He sent the warrant in question, along with a number of others, to the railroad company, with a letter from the county collector reading as follows:\n\u201cStuttgart, Ark., March 14, 1927.\n\u201cThe county warrants as listed below on this sheet will be accepted for taxes at the face value for the taxes of 1926, provided the warrants do not exceed the amount due the county.\u201d\nUnder the contract for the sale of this scrip, Wilcox had agreed to refund to the railroad company the purchase price of any scrip which the collector refused, for any reason, to accept. The railroad company tendered this scrip to the collector in payment of its county taxes, and all of it was received for that purpose except the warrant in question, which the collector declined to receive for reasons later stated. The railroad company returned this piece of scrip to Wilcox, who also tendered it in payment of taxes, and, upon this tender being refused, lie brought suit to require the collector to receive it in payment of county taxes.\nA few days after Wilcox retired from the office of county judge, Ms successor brought a suit, on the relation of the State for the use of Arkansas County, against the sheriff and collector, the county clerk and the treasurer of the county, praying that the warrant be canceled as having been issued without legal authority. Wilcox testified that he was not a party to this litigation, and was not advised of its pendency until the court had rendered a final decree. No defense was made to this suit, and the warrant was adjudged to have been illegally issued, and the officers named were enjoined from receiving it for o any purpose, and it was decreed that it be canceled.\nThe defendants in the instant case, which is a suit to compel the collecting officers of Arkansas County to accept this scrip in payment of taxes, pleaded this decree of the chancery court as a bar to the suit, and also raised certain other questions which will be discussed.\nWilcox was not and is not bound by this decree, for the reason that he was not a party thereto. The proceeding in which the warrant was declared void was not a proceeding under the statute calling in and reissuing the county scrip, of which notice had been given.\nIt was alleged in the complaint filed in the chancery court, and is here alleged, that the contract to construct the bridge was let by the county judge, and not by the county court, and that \u00a7 '2028, Crawford & Moses\u2019 Digest, relating to the allowance of demands against a county, was not complied with, in that a claim had not been made out and verified as required by that section of the statute.\nThe testimony does not show any fraud or collusion between the county judge and the contractor in letting the contract, and the undisputed testimony establishes the following facts:\nThere was no showing whether there had been an appropriation by the county court to build bridges. The bridge in question was built, and accepted by the county judge, and used by the public. A claim covering the contract price, which Wilcox testified was not increased on account of the depreciated value of the county scrip, was filed with the county clerk. The same was presented to and allowed by the county court, and a warrant covering the allowance was issued on June 6, 1925. It is alleged, in the answer in the instant case, that the claim was issued for a sum $27.75 more than was due for the construction of the bridge and the material furnished therefor; but this allegation was not established by the testimony.\nThe court below denied the prayer for mandamus, and this appeal is from that judgment.\nWe think the court was in error in its judgment. The law is that the county court may ratify an unauthorized contract made by the county judge in behalf of the county if the contract is one which the court could have made in the first instance. Greenberg Iron Co. v. Dixon, 127 Ark. 470, 192 S. W. 379. The contract in question was clearly one which the county court had the power to make, and the undisputed testimony shows its subsequent ratification by the county court.\nIt was also held, in the case just cited, that, when an order has been made by the county court calling in for reissuance the outstanding scrip, the court is not authorized to review its original order allowing the claim upon which scrip was issued for mere errors in the allowance of the claim, but can only reject those warrants presented for reissuance which were illegally or fraudulently issued. It was there also held that \u2018 \u2018 a claim would be illegal where it was one which, under no evidence that might have been adduced, could have been a valid claim against the county. Izard County v. Vincennes Bridge Co., 122 Ark. 557, 184 S. W. 67, and Monroe County v. Brown, 118 Ark. 524, 177 S. W. 40. It will be readily seen that evidence might have been introduced to show that the levying court had made an appropriation for building bridges, and, upon the authorities just cited, it may be said that in the absence of such affirmative showing' the presumption is that such appropriation was made.\u201d See also Leathem & Co. v. Jackson County, 122 Ark. 114, 182 S. W. 570, and Howard County v. Lambright, 72 Ark. 330, 80 S. W. 148. The case of Shofner v. Dowell, 168 Ark. 229, 269 S. W. 987, cites other cases to the same effect.\nAs has been said, the warrant here in question had been reissued by the county court under a calling-in order made by that court, and, as testimony might have been offered, when this was done, that an appropriation had been made for building bridges, the presumption must be indulged that there was such an appropriation. It may be said, aside from this presumption, that there was no testimony at the trial from which this appeal comes that no appropriation for building bridges had been made.\nWe conclude therefore that the warrant in question was and is a valid obligation of Arkansas County, and should be received as such.\nThe judgment of the court below is therefore reversed, and the cause will be remanded with directions to grant the writ of mandamus as prayed, and it is so ordered.",
+        "type": "majority",
+        "author": "Smith, J."
+      }
+    ],
+    "attorneys": [
+      "G. W. Botts, for appellant.",
+      "Bay 8. Gibson, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Wilcox v. McCallister.\n4-2831\nOpinion delivered February 6, 1933.\nG. W. Botts, for appellant.\nBay 8. Gibson, for appellee."
+  },
+  "file_name": "0901-01",
+  "first_page_order": 921,
+  "last_page_order": 925
+}

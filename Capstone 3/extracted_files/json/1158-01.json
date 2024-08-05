@@ -1,0 +1,103 @@
+{
+  "id": 8727116,
+  "name": "Broadway-Main Street Bridge District v. Taylor",
+  "name_abbreviation": "Broadway-Main Street Bridge District v. Taylor",
+  "decision_date": "1933-03-13",
+  "docket_number": "4-2913",
+  "first_page": "1158",
+  "last_page": "1161",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "186 Ark. 1158"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [
+    {
+      "cite": "25 S. W. (2d) 1048",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "181 Ark. 356",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        8721469
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/181/0356-01"
+      ]
+    },
+    {
+      "cite": "28 S. W. 35",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "59 Ark. 548",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1327658
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/59/0548-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 285,
+    "char_count": 5270,
+    "ocr_confidence": 0.509,
+    "pagerank": {
+      "raw": 6.067549986382052e-08,
+      "percentile": 0.3748813154743771
+    },
+    "sha256": "9b787297581e7d9af9b394b690a6e350a5b1d2a2c85e160bca630c459f845d03",
+    "simhash": "1:b951e74949283687",
+    "word_count": 897
+  },
+  "last_updated": "2024-02-27T17:52:01.123529+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Broadway-Main Street Bridge District v. Taylor."
+    ],
+    "opinions": [
+      {
+        "text": "Mehaffy, J.\nThe appellant, Broadway-Main Street Bridge District of Pulaski County, had on deposit in the American Exchange Trust Company on November 22, 1930, when the Commissioner took charge, $62,685.45, and held improvement district and school district bonds pledged to it by the depository in the sum of $43,000, of which $6,500 now remains on hand unrealized upon. This was the sole security for the deposit.\nThe appellant filed an intervention in the Pulaski Chancery Court in the liquidation therein pending, involving the affairs of the American Exchange Trust Company, insolvent. The purpose of the intervention was to establish the basis of intervener\u2019s participation as a secured creditor in the dividends 'payable by the insolvent estate.\nThe rule adopted by this court is announced in the case of Jamison v. Adler-Goldman Commission Co., 59 Ark. 548, 28 S. W. 35, and followed in Merchants\u2019 Nat. Bank of Ft. Smith v. Taylor, 181 Ark. 356, 25 S. W. (2d) 1048.\nIn the last case cited, we stated the rule as follows: \u2018 \u2018 The rule is that when one files a claim he files it for the full amount due at that time. If his claim is secured by collateral, and he collects anything from the collateral before a dividend is paid, then his dividend is calculated on the amount reduced by the amount of the collateral collected. If there is still another collection from the collateral before another dividend, the creditor is entitled to a dividend on the amount reduced by the amount of the collateral received. In other words, he is entitled to a dividend on the amount of his debt at the time the distribution is made, and not entitled to a dividend on the claim as originally filed, if anything has been realized from the collateral.\u201d\nThe above rule was followed by this court until the enactment of act 107 of the Acts of the Legislature of 1927. That part of the act of 1927 applicable is as follows: \u201cAll creditors of a bank of which the Commissioner has taken charge are classifiable either as secured creditors, prior creditors or general creditors. A secured creditor shall be a creditor (1) who has security for his debt upon the property of the said bank of a nature to be assignable under this act, or (2) who owns such a debt for which some indorser, surety or other person secondarily liable for said bank has such security upon the said bank\u2019s property, to the extent in both such instances of the value of such security. The value of the security of a secured creditor shall be determined by converting the same into money (1) according to the terms of the agreement pursuant to which such security was delivered to such creditor or in the absence of applicable terms of such agreement (2) by such creditor and the Commissioner, by agreement, arbitration, compromise or litigation, as the chancery court may direct. The expense of such conversions by such creditor and the Commissioner shall be borne as the said court may direct.\u201d\nIt will be observed that this act established a different rule as to the payment of dividends to secured creditors. The secured creditor files his claim, but the law provides that the value of the security of a secured creditor shall be determined by converting the same into money, according to the terms of the agreement pursuant to which security was delivered to such creditor. It will therefore be seen, if there is an agreement, that the value of the security is to be determined according to the terms of that agreement. If there are no applicable terms of such agreement,, then, the value of the security must be determined by the creditor and Commissioner, either by agreement, arbitration, compromise, or litigation, as the chancery court may direct. This act establishes a new rule for the payment of dividends to secured creditors.\nIt was manifestly the intention of the Legislature to change the rule heretofore announced by this court as to' the payments of dividends to secured creditors, but providing that the value of the security of the secured creditors should be determined in the manner named in the act.\nTherefore, while the secured creditor must file his claim in the manner provided by law, he receives his dividends as provided in act 107, above referred to, and not according to the rule heretofore followed by this court.\nIt is the duty of the court, in interpreting a statute, to give effect to the intention of the Legislature in enacting the law; and the law enacted by the Legislature must be enforced according to such intention of the Legislature when ascerthined.\nWhen a statute is plain and unambiguous so that no doubt arises from its terms, it needs no interpretation, and courts must follow such act implicitly. Lewis\u2019 Sutherland Statutory Construction, vol. 2, 694.\nThis statute either means that dividends to secured creditors are to be paid according to the rule announced in the statute, or it would be meaningless.\nIt would serve no useful purpose to discuss the rules or authorities, because, if this statute is applicable, and we hold that it is, it must be implicitly followed.\nThe decree of the chancery court is affirmed.",
+        "type": "majority",
+        "author": "Mehaffy, J."
+      }
+    ],
+    "attorneys": [
+      "Trieber i& Lasley, for appellant.",
+      "Sam Roreos, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Broadway-Main Street Bridge District v. Taylor.\n4-2913\nOpinion delivered March 13, 1933.\nTrieber i& Lasley, for appellant.\nSam Roreos, for appellee."
+  },
+  "file_name": "1158-01",
+  "first_page_order": 1178,
+  "last_page_order": 1181
+}

@@ -1,0 +1,151 @@
+{
+  "id": 8727480,
+  "name": "Mayers vs. Rogers",
+  "name_abbreviation": "Mayers v. Rogers",
+  "decision_date": "1844-01",
+  "docket_number": "",
+  "first_page": "417",
+  "last_page": "419",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "5 Ark. 417"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [
+    {
+      "cite": "5 Wend. 496",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "case_ids": [
+        2145739
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/wend/5/0496-01"
+      ]
+    },
+    {
+      "cite": "4 Ark. 16",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "8 Wend. 616",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "13 Pick. 281",
+      "category": "reporters:state",
+      "reporter": "Pick.",
+      "case_ids": [
+        2017941
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mass/30/0281-01"
+      ]
+    },
+    {
+      "cite": "15 Mass. 500",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "2 Pick. 292",
+      "category": "reporters:state",
+      "reporter": "Pick.",
+      "case_ids": [
+        2049629
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mass/19/0311-01"
+      ]
+    },
+    {
+      "cite": "1 Peters 455",
+      "category": "reporters:scotus_early",
+      "reporter": "Pet.",
+      "case_ids": [
+        1432408
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/26/0455-01"
+      ]
+    },
+    {
+      "cite": "5 Pick. 395",
+      "category": "reporters:state",
+      "reporter": "Pick.",
+      "case_ids": [
+        2033132
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mass/22/0395-01"
+      ]
+    },
+    {
+      "cite": "4 Ark. Rep. 16",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 317,
+    "char_count": 3603,
+    "ocr_confidence": 0.481,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.20862529050921502
+    },
+    "sha256": "abc44accdeca58c6497d97eae87257eb7a1489087ccd5c0653eb55fe64548dc5",
+    "simhash": "1:2b447c829b0aa5df",
+    "word_count": 656
+  },
+  "last_updated": "2024-02-27T21:30:20.185486+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Mayers vs. Rogers."
+    ],
+    "opinions": [
+      {
+        "text": "By the Court,\nLacy, J.\nThis case falls clearly within the rule laid down in Sayre vs. Craig, 4 Ark. Rep. 16. That authority and the cases cited in support of it, show that the pleas demurred to were bad. The covenants in this suit are totally independent of each other. Indeed, by the express terms of the agreement, Rogers is not bound to convey 'the lot sold until the purchase money is first paid by Mayers. The payment of the money is a condition precedent, and must be performed before a conveyance can be demanded. The law binds every man to perform his contract according to its true intent and meaning. Here Mayers agreed to pay the full amount of the purchase money, although due at different times, before Rogers \u25a0was to eonvey the premises, and consequently he cannot avoid his contract by resisting the payment, upon the ground that Rogers had not conveyed. Judgment affirmed.",
+        "type": "majority",
+        "author": "Lacy, J."
+      }
+    ],
+    "attorneys": [
+      "Oldham & Roane, for plaintiff, cited the following eases.",
+      "Turner, Pike & Baldwin, contra."
+    ],
+    "corrections": "",
+    "head_matter": "Mayers vs. Rogers.\nR. by covenant sold, and agreed to convey to M. a town lot, provided M. should'first pay him the full amount of the purchase money, for which M. had executed his bonds \u2014 M. cannot urge, as a defence, in an action on the bonds, for the purchase money, that the conveyance has not been made or tendered. The covenants are independent. Sayre vs. Craig, 4 Arh, 16, cited, and relied.on.\nThis was an action of debt, determined in the Crawford Circuit Court, in October, 1843, before the Hon. R. C. S. Beqwn, one of the circuit judges. Rogers sued Mayers on three bonds, each dated 7th May, 1840, each for $1,666 86, due respectively at one, two, and three years, each expressed to be in part payment of lot 6, in block 1, in Fort Smith, Mayers pleaded four pleas: The two first set up as a defence, that when the bonds were given, Rogers executed his bond to Mayers in the sum of $10,000 of same date, conditioned that he would execute a deed for the lot, provided Mayers should first pay off and satisfy the bonds given for the purchase money, and'that Rogers had not made or tendered such deed. The third plea was of payment of interest, to which there was issue. The fourth plea was a plea of set-off, to which was replication and issue. Demurrer to first and second pleas sustained, and trial on the others by the court; which found the interest paid up to- the day alleged, and not set-off, and rendered judgment accordingly. Mayers brought error.\nOldham & Roane, for plaintiff, cited the following eases.\nHum1 vs. Livermore, 5 Pick. 395. Cunningham vs. Gwinn, 4 Blackford 342. Bank of Columbia vs. Hagner, 1 Peters 455. Green vs. Rey-nold's, 2' J. R. 207. Jones vs. Gardner, 10 J. R. 276; and cases cited in note a. Cunningham vs. Morrell, 10 J. R. 212. Judsonvs. Wass, 11 J. R. 525. Gazley vs. Price, 16 J. R. 267. Hardin vs. Krelzenger, 17 J. R. 273. Hudson vs. Swift, 20 J. R. 24. Parker vs. Parmele, 20 J. R. 130. Couch vs. Ingersoll, 2 Pick. 292. Gardner vs. Carson, 15 Mass. 500. Leonard vs. Bates, 1 Blackford 172. Kane vs. Hood, 13 Pick. 281. Johnso?i vs. My gait, 11 Wend. 43\u00bb JVorihup vs. JVorihup, 6 Cowen 296. Slocumb vs. Dispard, 8 Wend. 616. Sayre vs. Craig, 4 Ark. 16. Clay vs. Straughan, 5 Mon. Ky. Rep. 386. Speak vs. Sheppard, 6 Har. & John. 85. Tompkins vs. Eliott, 5 Wend. 496. Goodwin vs. Linn,et al., 4 Wash. C. C. R. 714.\nTurner, Pike & Baldwin, contra.\nIt is only necessary to refer to Sayre vs. Craig, 4 Ark., and the cases there cited, to show that the pleas demurred to were bad. Indeed this is the plainest case of to-'telly independent covenants, that ever came before a court. The \u25a0cases quoted by opposing counsel, have not the slightest reference to their case."
+  },
+  "file_name": "0417-02",
+  "first_page_order": 417,
+  "last_page_order": 419
+}

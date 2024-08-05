@@ -1,0 +1,466 @@
+{
+  "id": 1355701,
+  "name": "Lipscomb v. DeLong",
+  "name_abbreviation": "Lipscomb v. DeLong",
+  "decision_date": "1923-03-26",
+  "docket_number": "",
+  "first_page": "24",
+  "last_page": "29",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "158 Ark. 24"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [
+    {
+      "cite": "11 Ark. 754",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        8728036
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/11/0754-01"
+      ]
+    },
+    {
+      "cite": "23 Ark. 115",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1866100
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/23/0115-01"
+      ]
+    },
+    {
+      "cite": "39 Ark. 333",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "67 Ark. 386",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1152561
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/67/0386-01"
+      ]
+    },
+    {
+      "cite": "138 Ark. 70",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1566943
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/138/0070-01"
+      ]
+    },
+    {
+      "cite": "31 Ark. 286",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1879241
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/31/0286-01"
+      ]
+    },
+    {
+      "cite": "73 Ark. 464",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1504039
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/73/0464-01"
+      ]
+    },
+    {
+      "cite": "25 Ark. 386",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "7 Vt. 411",
+      "category": "reporters:state",
+      "reporter": "Vt.",
+      "case_ids": [
+        8545953
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/vt/7/0413-01"
+      ]
+    },
+    {
+      "cite": "55 N. Y. Supp. 970",
+      "category": "reporters:state",
+      "reporter": "N.Y.S.",
+      "case_ids": [
+        3397830
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/nys/55/0970-01"
+      ]
+    },
+    {
+      "cite": "70 N. Y. Supp. 1",
+      "category": "reporters:state",
+      "reporter": "N.Y.S.",
+      "case_ids": [
+        7682311
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/nys/70/0001-01"
+      ]
+    },
+    {
+      "cite": "110 N. Y. Supp. 813",
+      "category": "reporters:state",
+      "reporter": "N.Y.S.",
+      "case_ids": [
+        7680444
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/nys/110/0813-01"
+      ]
+    },
+    {
+      "cite": "32 Barb. 396",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "case_ids": [
+        5050965
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/barb/32/0396-01"
+      ]
+    },
+    {
+      "cite": "85 Am. Dec. 749",
+      "category": "reporters:federal",
+      "reporter": "Am. Dec.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "9 Allen 171",
+      "category": "reporters:state",
+      "reporter": "Allen",
+      "case_ids": [
+        2118842
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mass/91/0171-01"
+      ]
+    },
+    {
+      "cite": "37 Am. Dec. 59",
+      "category": "reporters:federal",
+      "reporter": "Am. Dec.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "20 Me. 391",
+      "category": "reporters:state",
+      "reporter": "Me.",
+      "case_ids": [
+        570128
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/me/20/0391-01"
+      ]
+    },
+    {
+      "cite": "104 S. W. 944",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "case_ids": [
+        11657776
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/indian-terr/7/0717-01"
+      ]
+    },
+    {
+      "cite": "50 So. 284",
+      "category": "reporters:state_regional",
+      "reporter": "So.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "163 Ala. 304",
+      "category": "reporters:state",
+      "reporter": "Ala.",
+      "case_ids": [
+        3553230
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ala/163/0304-01"
+      ]
+    },
+    {
+      "cite": "31 S. W. 631",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "98 Pac. 771",
+      "category": "reporters:state_regional",
+      "reporter": "P.",
+      "case_ids": [
+        1139437,
+        1139462
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/kan/79/0103-01",
+        "/kan/79/0855-01"
+      ]
+    },
+    {
+      "cite": "79 Kan. 855",
+      "category": "reporters:state",
+      "reporter": "Kan.",
+      "case_ids": [
+        1139462
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/kan/79/0855-01"
+      ]
+    },
+    {
+      "cite": "22 Kan. 400",
+      "category": "reporters:state",
+      "reporter": "Kan.",
+      "case_ids": [
+        590158
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/kan/22/0400-01"
+      ]
+    },
+    {
+      "cite": "116 N. W. 704",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "17 Ind. 84",
+      "category": "reporters:state",
+      "reporter": "Ind.",
+      "case_ids": [
+        1454459
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ind/17/0084-01"
+      ]
+    },
+    {
+      "cite": "79 Conn. 81",
+      "category": "reporters:state",
+      "reporter": "Conn.",
+      "case_ids": [
+        800395
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/conn/79/0081-01"
+      ]
+    },
+    {
+      "cite": "52 Pac. 94",
+      "category": "reporters:state_regional",
+      "reporter": "P.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "64 Pac. 1046",
+      "category": "reporters:state_regional",
+      "reporter": "P.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "29 So. 447",
+      "category": "reporters:state_regional",
+      "reporter": "So.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "31 So. 467",
+      "category": "reporters:state_regional",
+      "reporter": "So.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "37 So. 659",
+      "category": "reporters:state_regional",
+      "reporter": "So.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "141 Ala. 671",
+      "category": "reporters:state",
+      "reporter": "Ala.",
+      "case_ids": [
+        8489770
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ala/141/0671-01"
+      ]
+    },
+    {
+      "cite": "149 Ala. 368",
+      "category": "reporters:state",
+      "reporter": "Ala.",
+      "case_ids": [
+        5678407
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/ala/149/0368-01"
+      ]
+    },
+    {
+      "cite": "156 Ark 231",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1358474
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/156/0231-01"
+      ]
+    },
+    {
+      "cite": "39 Ark. 387",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1898705
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/39/0387-01"
+      ]
+    },
+    {
+      "cite": "25 Ark. 380",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1864487
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/25/0380-01"
+      ]
+    },
+    {
+      "cite": "138 Ark. 70",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1566943
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/138/0070-01"
+      ]
+    },
+    {
+      "cite": "31 Ark. 286",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1879241
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/31/0286-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 544,
+    "char_count": 9860,
+    "ocr_confidence": 0.479,
+    "pagerank": {
+      "raw": 1.3732758113084265e-07,
+      "percentile": 0.6387658122153068
+    },
+    "sha256": "1dc7048c674d200b03056970b2744751312776f6b077fc3b76c85c9253aaa439",
+    "simhash": "1:2e16649cae04fc80",
+    "word_count": 1794
+  },
+  "last_updated": "2024-02-27T17:41:16.235499+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Lipscomb v. DeLong."
+    ],
+    "opinions": [
+      {
+        "text": "Hart, J.,\n(after stating the facts). It is the contention of counsel for the plaintiff that the court erred in holding that DeLong converted the cotton at the time he sold it and was only accountable to the McArthur estate for its market value on that date.\nCounsel for the plaintiff insists that Mrs. McArthur did not authorize DeLong to sell it, and that the plaintiff should be entitled to recover the value of the cotton of the date of September 24, 1921, when the administrator requested DeLong to sell it.\nAccording to the testimony of DeLong himself, Mrs. McArthur, after her husband\u2019s death, told him to taire charge of the cotton and sell it to the best advantage, and divide the proceeds after deducting the .amount of her husband\u2019s supply account.\nIf DeLong\u2019s testimony is true, he should only be required to account to the McArthur estate for the price for which he sold the cotton. His own testimony shows that this was the best price obtainable at that time, and his testimony is corroborated by that of cotton-buyers. It is not contradicted or attempted to be contradicted by the other evidence in the case. There is no evidence in the case tending to show that he was negligent in selling the cotton at that time, or that he .acted in bad faith in so doing. On the contrary, the evidence shows that he acted in the utmost good faith in the matter. Hence, under his testimony, he should only account to the estate for its share of the proceeds of the cotton.\nOn the other hand, if the testimony of Mrs. McArthur is accepted as true, the result would be the same. Under her testimony, DeLong converted the cotton to his own use when he sold it on the 10th day of July, 1921. The administrator of the estate of Will McArthur, deceased, was entitled to recover the value of the crop at that time, less one-third going to DeLong for rent and the amount of his supply account. Peterson v. Gresham, 25 Ark. 380; Jefferson v. Hale, 31 Ark. 286; Kelley v. McDonald, 39 Ark. 387; and Parks v. Thomas, 138 Ark. 70.\nDeLong had an interest in the cotton, and the circuit court rightfully held that there was no conversion of it because he carried it from his house and deposited it in his warehouse in his own name for the purpose of storing it. The court was also right in holding that the crop was not converted by DeLong until he sold it on the 10th day of July, 1921.\nThe case of Papan v. Thomason, 156 Ark 231, has no application under the facts presented by the record. Tn that case the tenant was entitled to one-half of a rice crop, and made several demands npon his landlord for a division or a sale of the rice, and the court held that he had a right to treat the date of the last demand and refusal as the date of conversion, and to sue for the value of the rice on that date.\nHere no demand was made on DeLong to sell the cotton before he did sell it. Therefore he was properly held to account for its value at the market price on the clay he sold it and thereby converted it to his own use.\nThe undisputed evidence shows that DeLong sold the cotton for its highest market price on the. 10th day of July, 1921, and that be accounted to the McArthur estate for its share of the proceeds. The undisputed evidence also shows that the McArthur estate is indebted to him in the sum of $601.02, the amount for which judgment was rendered in his favor against said estate.\nIt follows that the judgment will be affirmed.",
+        "type": "majority",
+        "author": "Hart, J.,"
+      }
+    ],
+    "attorneys": [
+      "Edward Gordon, for appellant.",
+      "Strait S Strait, 'for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Lipscomb v. DeLong.\nOpinion delivered March 26, 1923.\n1. Trover and conversion \u2014 measure op damages. \u2014 'Where the widow of a tenant in common permitted defendant, deceased\u2019s co-tenant, to .take charge of cotton belonging to deceased and defendant, and to sell same to the best advantage, which defendant did, he was accountable for the price obtained, and not for the price the cotton would have brought on a subsequent date on which the deceased\u2019s administrator demanded a settlement; the conversion having occurred on the date of sale.\n2. Trover and conversion \u2014 time op conversion. \u2014 Where a tenant in common who had an interest in a crop of cotton, in pursuance of directions of the widow of his co-tenant, took charge of the cotton and deposited it in a warehouse in his own name for the purpose of storing it, and later sold it, the cotton was not converted by the storage, but by the sale.\nAppeal from Conway Circuit Court; A. B. Priddy, Judge;\naffirmed.\nSTATEMENT OE PACTS.\nJ. R. Lipscomb, administrator of the estate of Will, McArthur, deceased, sued W. E. DeLong to recover damages for the wrongful conversion of twenty-two bales of cotton, of the value of $2,218.92.\nDeLong denied the allegations of the complaint, and, by way of cross-complaint, alleged that the estate of Will McArthur, deceased, was indebted to him in the sum of $1,204.89 for supplies furnished as tenant of DeLong.\nMrs. Sarah McArthur, the widow of Will McArthur, deceased, was a witness for the plaintiff. According to her testimony, her husband died on October 25, 1920, and Charley McArthur looked after gathering the crop. She did not give W. E. DeLong permission to sell the cotton. She admitted that her husband was indebted to DeLong for supplies furnished him with which to work the crop. Her husband and DeLong owned the land on which the crop was raised, as tenants in common.\nAccording to the testimony of the administrator, he went to DeLong and demanded settlement of the cotton on the 24th day of September, 1921. DeLong refused to deliver the cotton to him or to pay for it. Cotton was worth 22 and 23 cents per pound at that time. J. R. Lipscomb was appointed administrator of the estate of Will McArthur, deceased, on the 22nd day of September, 1921. There was no administrator of said estate before that time.\nW. E. DeLong was a witness for himself. According to his testimony, Will McArthur owed him $1,992.39 for supplies furnished with which to make the crop on the land in question at the time he died. After the death of her husband, Mrs. McArthur turned over the twenty-two bales of cotton to DeLong to handle as best he could. DeLong was to receive one-third of the cotton for rent and enough of the balance to pay for the supplies furnished. The cotton was first hauled to DeLong\u2019s house and left there for the purpose of keeping it in a dry place. DeLong subsequently removed it to bis warehouse, and deposited it there in his own name. He sold the cotton on July 10 for ten cents per pound, which was the highest market price at that time.\nOther witnesses corroborated the testimony of DeLong to the effect that he sold the cotton for the highest market price.\nDeLong then made up a statement of his account with the estate of Will McArthur, deceased, on this basis, and from, this statement there was a balance due him of $601.02. Subsequently he rendered another statement in which he claimed a balance due him of $787.48.\nMrs. McArthur denies that she gave DeLong permission to sell the cotton, and for this reason the plaintiff demands that he account for the price which it could have 'been sold for on the 24th of September, 1921.\nThe court held that the sale by DeLong of the cotton on the 10th day of July, 1921, constituted a conversion of \u25a0it by him, and that he was accountable to the estate of W. A. McArthur, deceased, for its market value at that time.\nDeLong accounted to the McArthur estate on this basis, and his own statement showed a balance of $601.02 owing him. The case was withdrawn from the jury by the court, and judgment was rendered in DeLong\u2019s favor for that amount. The plaintiff has appealed.\nEdward Gordon, for appellant.\nInstructions 1 and 2, declaring as a matter of law that appellee was only required to account for the market price of the cotton when he sold it, were wrong, since he converted it when he removed it in violation of his obligation as bailee. No right of action accrues against a bailee before a refusal to deliver the property when demanded. McLain v. Buff man, 30. Ark. 428; Wilson v. Gurry, 149 Ala. 368, 42 So. 753; Louisville v. Elec. By. Go. 141 Ala. 671, 37 So. 659; Kink v. Franklin, 31 So. 467; Moore v. Monroe Refrigerator Go., 29 So. 447; Salida Bldg. Assn, v. Davis, 64 Pac. 1046; Maynahan v. Prentice, 52 Pac. 94; Semons v. Adams, 79 Conn. 81, 63 A.tl. 661; Seeger v. Lynch, 72 111. 498; James v. Gregg, 17 Ind. 84; Brewer v. Sivecker, 116 N. W. 704; Auld v. Butcher, 22 Kan. 400. Same rule obtains in other States and U. S. Sup. Court. If rule in foregoing cases not followed, then the conversion took place when appellee bailee put the cotton in the Morrilton warehouse in his own name, .and the market price was 17 cents. Praseie v. Harmon, 79 Kan. 855, 98 Pac. 771; Wagoner v. Marple, 10 Texas Civ. App. 505, 31 S. W. 631, 38 Cyc. 2033; Dixie v. Harrison, 163 Ala. 304, 50 So. 284; Badger v. Batavia Paper Mfg. Go., 70 HI. 302; Follett v. Edwards, 30 HI. App. 386; Purcell Cotton Seed Oil Mills v. Bell, 7 Ind. Ter. 717, 104 S. W. 944; Porter v. Foster,'20 Me. 391, 37 Am. Dec. 59; Gilmore v. Newton, 9 Allen 171, 85 Am. Dec. 749; Andrews v. Shattuck, 32 Barb. 396; Graham v. Purcell, 126 N. Y. App. 407, 110 N. Y. Supp. 813; Schechter v. Watson, 35 Mise. 43, 70 N. Y. Supp. 1; Gorotinsky v. Cooper, 26 Mise. 138, 55 N. Y. Supp. 970; Biford v. Montgomery, 7 Vt. 411; 47 Century Digest, Trover & Conversion.\nStrait S Strait, 'for appellee.\nThe only question here is whether the trial court correctly held that the cotton was converted when appellee sold it, and must account- for its value at that time, and it unquestionably did. Peterson v. Gresham, 25 Ark. 386. The instructions correctly declared this law. American Soda Fountain Go. v. Futrall, 73 Ark. 464; Jefferson v. H\u00e1le, Admr. 31 Ark. 286; Parks v. Thomas, 138 Ark. 70; Brown v. Allen, 67 Ark. 386; Kelley v. McDonald, 39 Ark. 333; Ingram v. Marshall, 23 Ark. 115; Wood v. Wilds, 11 Ark. 754."
+  },
+  "file_name": "0024-01",
+  "first_page_order": 48,
+  "last_page_order": 53
+}

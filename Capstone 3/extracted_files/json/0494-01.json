@@ -1,0 +1,121 @@
+{
+  "id": 8723226,
+  "name": "Allen v. Barnett",
+  "name_abbreviation": "Allen v. Barnett",
+  "decision_date": "1932-11-14",
+  "docket_number": "4-2867",
+  "first_page": "494",
+  "last_page": "496",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "186 Ark. 494"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [
+    {
+      "cite": "298 S. W. 1006",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "174 Ark. 1167",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        8726518
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/174/1167-01"
+      ]
+    },
+    {
+      "cite": "168 S. W. 848",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "113 Ark. 439",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1537539
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/113/0439-01"
+      ]
+    },
+    {
+      "cite": "8 S. W. 188",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "50 Ark. 447",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        8723618
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/50/0447-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 339,
+    "char_count": 5200,
+    "ocr_confidence": 0.502,
+    "pagerank": {
+      "raw": 1.0443609491524371e-07,
+      "percentile": 0.5516767579885932
+    },
+    "sha256": "86e9a22b80988c739661fe66dc90c3807b04f4aaca9dd28f5410c1104846c7cf",
+    "simhash": "1:2ea5cc8a0e4ed65a",
+    "word_count": 907
+  },
+  "last_updated": "2024-02-27T17:52:01.123529+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Allen v. Barnett."
+    ],
+    "opinions": [
+      {
+        "text": "Butler, J.\nIndependence County was the owner of a common claim for deposits it bad on hand in an insolvent bank amounting to the sum of $28,882.42. This bank has been in the course of liquidation since its failure in 1930, and no dividends have been paid on this claim, or any other of its class, except by special trade-out by -conveyance or by assignment by the Bank Commissioner of lands or personal property other than money in satisfaction of such claim.\nWith this condition existing, the county court, on September 5, 1932, entered into a contract with the ap-pellee by which it undertook to sell to him the aforesaid claim at the rate of twenty-five cents on the dollar, aggregating the sum of $7,220.60, and on that date entered an order directing the manner in which said contract should be carried into effect by the clerk and treasurer of said county. These officers questioned the power of the court to make the contract and order, and refused to -comply therewith.\nA petition for mandamus was filed in the circuit court, replies were filed by the appellants, and, upon consideration of the pleadings and testimony, the court found \u201cthat said order made by the county court was fair and just in its terms and without collusion, and that the price obtained for the deposits was fair and reasonable and as good as can be obtained at this time, and that the other deposits in said bank, both State and individual, have been sold for no greater sum. And that, on account of the uncertainty as to the time of liquidation of said bank, and the date when the county and its various agencies would receive any dividend therefrom, that it is to the best interest of the county that said deposit claim be sold and the proceeds made available now for the county, and therefore the court finds that the petition for mandamus of plaintiff should be,' and it is, hereby granted. It is therefore considered,\u201d etc.\nOn appeal the appellants do not question the good faith of the county court in making the order or its beneficial effect. Indeed, the evidence is not in conflict, and fully warrants the findings of fact made by the court. The question presented is one of power in the county court to make the sale to afppellee, it being the contention of the appellants that no express authority is to be found in the Constitution or statutes, and that, as a county court could not pay a claim of the county in any greater amount than the value of the claim in lawful money of the United States, they reason that a demand of the county could not be sold for less than its face value. The county court is a creature of the Constitution, and it is not to be doubted that it has only such power as is expressly granted by the Constitution and statutes in aid thereof, or which are necessarily implied from the authority conferred.\nThe question before us is not the allowance and payment of a claim against the county, but the sale by the county of a demand it has for money due it. Therefore, \u00a7 2088, Crawford & Moses\u2019 Digest, quoted by the appellants to sustain their contention, does not apply. Section 28 of article 7 of the Constitution prescribes the jurisdiction of county courts, and \u00a7 2279 of Crawford & Moses\u2019 Digest is the statute passed in aid of the constitutional provision. The applicable part of the sections of the Constitution and Digest is as follows:\nSection 28, article 7, Constitution: \u201cThe county courts shall have exclusive original jurisdiction in all matters relating\u2019 to county taxes, etc., * * * and in every other case that may be necessary to the internal improvements and local concerns of the respective counties.\u201d\nSection 22791, Digest: \u201cThe county court of each county shall have the following powers and jurisdictions: * * * to have the control and management of all the property, real and personal, for the use of the county; * * * to sell and cause to be conveyed any real estate or personal property belonging to the county and appropriate the proceeds of such sale for the use of the county. \u2019 \u2019\nWe have held that the above provisions of the law authorize the county court, in the exercise of a sound discretion and acting in good faith, to sell real estate in the manner prescribed by statute. State v. Baxter, 50 Ark. 447, 8 S. W. 188; Little Rock Chamber of Commerce v. Pulaski County, 113 Ark. 439, 168 S. W. 848; Ivy v. Edwards, 174 Ark. 1167, 298 S. W. 1006. Indubitably, the power to sell personal property exists, as does the power to sell and convey real property. Section 9736 of 'Crawford & Moses\u2019 Digest, cited by the appellee, defines \u201cpersonal property\u201d as including \u201cmoney, goods, chattels, things in action and evidences of debt\u201d; so, the demand of the county for the deposit in the insolvent bank is personal property within the meaning of the statute, and, under the express provisions of the Constitution and statutes quoted, supra, we are of the opinion that the county court was authorized to make the order, and the circuit court was correct in awarding the mandamus, and its action in so- doing is affirmed.\nKirby, J., dissents.",
+        "type": "majority",
+        "author": "Butler, J."
+      }
+    ],
+    "attorneys": [
+      "Ernest Neill, for appellant.",
+      "8. M. Casey, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Allen v. Barnett.\n4-2867\nOpinion delivered November 14, 1932.\nErnest Neill, for appellant.\n8. M. Casey, for appellee."
+  },
+  "file_name": "0494-01",
+  "first_page_order": 514,
+  "last_page_order": 516
+}

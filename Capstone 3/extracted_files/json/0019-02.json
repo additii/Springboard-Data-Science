@@ -1,0 +1,61 @@
+{
+  "id": 8727981,
+  "name": "Krebs et al. vs. State Bank",
+  "name_abbreviation": "Krebs et al. v. State Bank",
+  "decision_date": "1854-01",
+  "docket_number": "",
+  "first_page": "19",
+  "last_page": "20",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "15 Ark. 19"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 70,
+    "char_count": 623,
+    "ocr_confidence": 0.398,
+    "sha256": "d974c15bccefcbb997d6a0be514c7c83c7dc7da29916443b8080119eb58a3a0d",
+    "simhash": "1:eb14062dcc9865cc",
+    "word_count": 115
+  },
+  "last_updated": "2023-07-14T16:05:00.270239+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "WatKINS, C. J., not sitting."
+    ],
+    "parties": [
+      "Krebs et al. vs. State Bank."
+    ],
+    "opinions": [
+      {
+        "text": "Mr. Justice Scott\ndelivered the opinion of the Court.\nThis c\u00e1se, in its facts material to the point of law involved, differs from that of Danley et al. vs. State Bank, and Allis et al. vs. State Bank, only in this, that a decree was rendered against him and his co-defendants, from which the latter appealed to this court, where the whole decree was reversed, from which the cause by writ of error was taken to the Supreme Court of the United States, where it is alleged in the plea to be still pending. In our opinion, the plea was equally bad. Judgment affirmed.\nWatKINS, C. J., not sitting.",
+        "type": "majority",
+        "author": "Mr. Justice Scott"
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Krebs et al. vs. State Bank."
+  },
+  "file_name": "0019-02",
+  "first_page_order": 19,
+  "last_page_order": 20
+}

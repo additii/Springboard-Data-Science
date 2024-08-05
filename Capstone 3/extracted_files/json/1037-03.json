@@ -1,0 +1,78 @@
+{
+  "id": 12457139,
+  "name": "State, Respondent, v. Tutu, Petitioner",
+  "name_abbreviation": "State v. Tutu",
+  "decision_date": "2016-06-29",
+  "docket_number": "No. 92867-3",
+  "first_page": "1037",
+  "last_page": "1037",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "185 Wash. 2d 1037"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Wash.",
+    "id": 9029,
+    "name": "Washington Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 38,
+    "name_long": "Washington",
+    "name": "Wash."
+  },
+  "cites_to": [
+    {
+      "cite": "192 Wn. App. 1023",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        12456184,
+        12456185,
+        12456182,
+        12456183
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/192/1023-03",
+        "/wash-app/192/1023-04",
+        "/wash-app/192/1023-01",
+        "/wash-app/192/1023-02"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 27,
+    "char_count": 188,
+    "ocr_confidence": 0.857,
+    "sha256": "6346d55df4e03df3953af76ccc9a0948711d4c80cdac4faa7f676c14a701333d",
+    "simhash": "1:20b84260354f627c",
+    "word_count": 31
+  },
+  "last_updated": "2024-02-28T00:06:59.447104+00:00",
+  "provenance": {
+    "date_added": "2019-05-22",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "State, Respondent, v. Tutu, Petitioner,"
+    ],
+    "opinions": [
+      {
+        "text": "Petition for review of a decision of the Court of Appeals, No. 30801-4-III, January 21, 2016, 192 Wn. App. 1023. Denied June 29, 2016.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "State, Respondent, v. Tutu, Petitioner,\nNo. 92867-3."
+  },
+  "file_name": "1037-03",
+  "first_page_order": 989,
+  "last_page_order": 989
+}

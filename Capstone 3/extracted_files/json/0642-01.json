@@ -1,0 +1,850 @@
+{
+  "id": 4356304,
+  "name": "Kristine Failla, Petitioner, v. FixtureOne Corporation et al., Respondents",
+  "name_abbreviation": "Failla v. FixtureOne Corp.",
+  "decision_date": "2014-10-02",
+  "docket_number": "No. 89671-2",
+  "first_page": "642",
+  "last_page": "660",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "181 Wash. 2d 642"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Wash.",
+    "id": 9029,
+    "name": "Washington Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 38,
+    "name_long": "Washington",
+    "name": "Wash."
+  },
+  "cites_to": [
+    {
+      "cite": "134 S. Ct. 1115",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12578282,
+        12701990
+      ],
+      "weight": 5,
+      "year": 2014,
+      "pin_cites": [
+        {
+          "page": "1120-21"
+        },
+        {
+          "page": "1121"
+        },
+        {
+          "page": "1124",
+          "parenthetical": "emphasis added"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/s-ct/134/1115-01",
+        "/us/571/0277-01"
+      ]
+    },
+    {
+      "cite": "134 S. Ct. 746",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12700978,
+        12585500
+      ],
+      "weight": 2,
+      "year": 2014,
+      "pin_cites": [
+        {
+          "page": "754",
+          "parenthetical": "citing the Court's canonical opinion International Shoe Co. v. Washington, 326 U.S. 310, 66 S. Ct. 154, 90 L. Ed. 95 (1945)"
+        },
+        {
+          "parenthetical": "citing the Court's canonical opinion International Shoe Co. v. Washington, 326 U.S. 310, 66 S. Ct. 154, 90 L. Ed. 95 (1945)"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/571/0117-01",
+        "/s-ct/134/0746-01"
+      ]
+    },
+    {
+      "cite": "466 U.S. 408",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6200640
+      ],
+      "weight": 3,
+      "year": 1984,
+      "pin_cites": [
+        {
+          "page": "417"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/466/0408-01"
+      ]
+    },
+    {
+      "cite": "465 U.S. 770",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11337359
+      ],
+      "weight": 3,
+      "year": 1984,
+      "pin_cites": [
+        {
+          "page": "774"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/465/0770-01"
+      ]
+    },
+    {
+      "cite": "471 U.S. 462",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6205101
+      ],
+      "weight": 3,
+      "year": 1985,
+      "pin_cites": [
+        {
+          "page": "475",
+          "parenthetical": "citations omitted"
+        },
+        {
+          "parenthetical": "citations omitted"
+        },
+        {
+          "parenthetical": "citations omitted"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/471/0462-01"
+      ]
+    },
+    {
+      "cite": "444 U.S. 286",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11306135
+      ],
+      "weight": 4,
+      "year": 1980,
+      "pin_cites": [
+        {
+          "page": "297"
+        },
+        {
+          "page": "299"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/444/0286-01"
+      ]
+    },
+    {
+      "cite": "463 P.2d 197",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1969,
+      "opinion_index": 0
+    },
+    {
+      "cite": "1 Wn. App. 678",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        1861701
+      ],
+      "year": 1969,
+      "pin_cites": [
+        {
+          "page": "683"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/1/0678-01"
+      ]
+    },
+    {
+      "cite": "770 P.2d 182",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1989,
+      "opinion_index": 0
+    },
+    {
+      "cite": "112 Wn.2d 216",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1175499
+      ],
+      "year": 1989,
+      "pin_cites": [
+        {
+          "page": "225"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/112/0216-01"
+      ]
+    },
+    {
+      "cite": "22 P.3d 795",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2001,
+      "pin_cites": [
+        {
+          "parenthetical": "rejecting liability based on mere agency"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "143 Wn.2d 514",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        425241
+      ],
+      "year": 2001,
+      "pin_cites": [
+        {
+          "page": "522-23",
+          "parenthetical": "rejecting liability based on mere agency"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/143/0514-01"
+      ]
+    },
+    {
+      "cite": "210 P.3d 995",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2009,
+      "opinion_index": 0
+    },
+    {
+      "cite": "166 Wn.2d 526",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4001601
+      ],
+      "year": 2009,
+      "pin_cites": [
+        {
+          "page": "538"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/166/0526-01"
+      ]
+    },
+    {
+      "cite": "961 P.2d 371",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1998,
+      "opinion_index": 0
+    },
+    {
+      "cite": "136 Wn.2d 152",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        867959
+      ],
+      "year": 1998,
+      "pin_cites": [
+        {
+          "page": "159-60"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/136/0152-01"
+      ]
+    },
+    {
+      "cite": "430 P.2d 600",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1967,
+      "pin_cites": [
+        {
+          "parenthetical": "interpreting RCW 4.28.185 consistently with contemporary business practices"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "71 Wn.2d 679",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1095196
+      ],
+      "year": 1967,
+      "pin_cites": [
+        {
+          "page": "684",
+          "parenthetical": "interpreting RCW 4.28.185 consistently with contemporary business practices"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/71/0679-01"
+      ]
+    },
+    {
+      "cite": "605 P.2d 794",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "weight": 2,
+      "year": 1980,
+      "opinion_index": 0
+    },
+    {
+      "cite": "25 Wn. App. 195",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        1845902
+      ],
+      "year": 1980,
+      "pin_cites": [
+        {
+          "page": "196"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/25/0195-01"
+      ]
+    },
+    {
+      "cite": "666 P.2d 370",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1983,
+      "opinion_index": 0
+    },
+    {
+      "cite": "35 Wn. App. 19",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        1779279
+      ],
+      "year": 1983,
+      "pin_cites": [
+        {
+          "page": "23-25"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/35/0019-01"
+      ]
+    },
+    {
+      "cite": "438 P.2d 578",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1968,
+      "opinion_index": 0
+    },
+    {
+      "cite": "73 Wn.2d 331",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1088521
+      ],
+      "year": 1968,
+      "pin_cites": [
+        {
+          "page": "334"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/73/0331-01"
+      ]
+    },
+    {
+      "cite": "885 F.2d 515",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10529770
+      ],
+      "year": 1989,
+      "pin_cites": [
+        {
+          "page": "522",
+          "parenthetical": "affirming states' authority to assert personal jurisdiction over corporate officers based on contacts performed in that capacity"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/885/0515-01"
+      ]
+    },
+    {
+      "cite": "465 U.S. 783",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11337451
+      ],
+      "weight": 4,
+      "year": 1984,
+      "pin_cites": [
+        {
+          "page": "790"
+        },
+        {
+          "page": "790"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/465/0783-01"
+      ]
+    },
+    {
+      "cite": "331 P.3d 29",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2014,
+      "opinion_index": 0
+    },
+    {
+      "cite": "180 Wn.2d 954",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4241822
+      ],
+      "year": 2014,
+      "pin_cites": [
+        {
+          "page": "964"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/180/0954-01"
+      ]
+    },
+    {
+      "cite": "497 P.2d 1311",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1972,
+      "opinion_index": 0
+    },
+    {
+      "cite": "80 Wn.2d 707",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1067119
+      ],
+      "year": 1972,
+      "pin_cites": [
+        {
+          "page": "711"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/80/0707-01"
+      ]
+    },
+    {
+      "cite": "433 U.S. 186",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6178074
+      ],
+      "weight": 3,
+      "year": 1977,
+      "pin_cites": [
+        {
+          "page": "204"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/433/0186-01"
+      ]
+    },
+    {
+      "cite": "326 U.S. 310",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6157001
+      ],
+      "weight": 3,
+      "year": 1945,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/326/0310-01"
+      ]
+    },
+    {
+      "cite": "783 P.2d 78",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1989,
+      "opinion_index": 0
+    },
+    {
+      "cite": "113 Wn.2d 763",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1172056
+      ],
+      "year": 1989,
+      "pin_cites": [
+        {
+          "page": "766-67"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/113/0763-01"
+      ]
+    },
+    {
+      "cite": "787 P.2d 562",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "weight": 2,
+      "year": 1990,
+      "opinion_index": 0
+    },
+    {
+      "cite": "114 Wn.2d 271",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1169970
+      ],
+      "year": 1990,
+      "pin_cites": [
+        {
+          "page": "274"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/114/0271-01"
+      ]
+    },
+    {
+      "cite": "835 P.2d 221",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "weight": 2,
+      "year": 1992,
+      "pin_cites": [
+        {
+          "parenthetical": "alteration in original"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "119 Wn.2d 667",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1370259
+      ],
+      "year": 1992,
+      "pin_cites": [
+        {
+          "page": "669"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/119/0667-01"
+      ]
+    },
+    {
+      "cite": "321 P.3d 1207",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2014,
+      "opinion_index": 0
+    },
+    {
+      "cite": "180 Wn.2d 1007",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "year": 2014,
+      "opinion_index": 0
+    },
+    {
+      "cite": "312 P.3d 1005",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2013,
+      "opinion_index": 0
+    },
+    {
+      "cite": "177 Wn. App. 813",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        4320604
+      ],
+      "weight": 2,
+      "year": 2013,
+      "pin_cites": [
+        {
+          "page": "823-24"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/177/0813-01"
+      ]
+    },
+    {
+      "cite": "134 S. Ct. 1115",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12578282,
+        12701990
+      ],
+      "weight": 5,
+      "year": 2014,
+      "pin_cites": [
+        {
+          "page": "1122"
+        },
+        {
+          "page": "1126"
+        },
+        {
+          "page": "1122"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/s-ct/134/1115-01",
+        "/us/571/0277-01"
+      ]
+    },
+    {
+      "cite": "311 U.S. 457",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6141572
+      ],
+      "weight": 3,
+      "year": 1940,
+      "pin_cites": [
+        {
+          "page": "463"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/311/0457-01"
+      ]
+    },
+    {
+      "cite": "466 U.S. 408",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6200640
+      ],
+      "weight": 3,
+      "year": 1984,
+      "pin_cites": [
+        {
+          "page": "417"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/466/0408-01"
+      ]
+    },
+    {
+      "cite": "444 U.S. 286",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11306135
+      ],
+      "weight": 5,
+      "year": 1980,
+      "pin_cites": [
+        {
+          "page": "291"
+        },
+        {
+          "page": "291"
+        },
+        {
+          "page": "291-92"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/444/0286-01"
+      ]
+    },
+    {
+      "cite": "326 U.S. 310",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6157001
+      ],
+      "weight": 3,
+      "year": 1945,
+      "pin_cites": [
+        {
+          "page": "316",
+          "parenthetical": "quoting Milliken v. Meyer, 311 U.S. 457, 463, 61 S. Ct. 339, 85 L. Ed. 278 (1940)"
+        },
+        {
+          "parenthetical": "quoting Milliken v. Meyer, 311 U.S. 457, 463, 61 S. Ct. 339, 85 L. Ed. 278 (1940)"
+        },
+        {
+          "parenthetical": "quoting Milliken v. Meyer, 311 U.S. 457, 463, 61 S. Ct. 339, 85 L. Ed. 278 (1940)"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/326/0310-01"
+      ]
+    },
+    {
+      "cite": "321 P.3d 1207",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2014,
+      "opinion_index": 1
+    },
+    {
+      "cite": "180 Wn.2d 1007",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "year": 2014,
+      "opinion_index": 1
+    },
+    {
+      "cite": "312 P.3d 1005",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2013,
+      "opinion_index": 1
+    },
+    {
+      "cite": "177 Wn. App. 813",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        4320604
+      ],
+      "year": 2013,
+      "pin_cites": [
+        {
+          "page": "823"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-app/177/0813-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1334,
+    "char_count": 29434,
+    "ocr_confidence": 0.744,
+    "pagerank": {
+      "raw": 1.198682873376802e-07,
+      "percentile": 0.5931305261426438
+    },
+    "sha256": "af21cac5e3921d15b309d18742c6b375daa760de6e70e0e6dccf981f0d5893f9",
+    "simhash": "1:1bbfd99b75a87709",
+    "word_count": 4688
+  },
+  "last_updated": "2024-02-27T19:47:16.443836+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Kristine Failla, Petitioner, v. FixtureOne Corporation et al., Respondents."
+    ],
+    "opinions": [
+      {
+        "text": "\u00b61 This case asks whether Washington\u2019s long-arm statute, RCW 4.28.185, confers personal jurisdiction over an officer of a foreign corporation that employs a Washington resident. On the facts before us, we conclude it does for wage claims arising from that employment relationship and reverse the Court of Appeals.\nYu, J.\nFacts and Procedural History\n|2 In 2009, Kristine Failla, a Washington resident and experienced salesperson, was looking for a job she could perform from her Gig Harbor home. She e-mailed Kenneth A. Sch\u00fctz, looking for such a position. Sch\u00fctz is the founder and chief executive officer (CEO) of FixtureOne Corporation, which sells fixtures, casework, and displays for use in retail stores. Clerk\u2019s Papers (CP) at 62. Both FixtureOne and Sch\u00fctz are based in Pennsylvania, and at the time of Failla\u2019s e-mail, FixtureOne had no physical presence or customers in Washington.\n|3 Failla\u2019s inquiry caught the interest of Sch\u00fctz, who replied to Failla that she \u201cmay be a fit\u201d for FixtureOne because the company did \u201cnot have a sales representative in [this] area of the country.\u201d CP at 93. The parties continued negotiating, and Sch\u00fctz eventually invited Failla to interview with FixtureOne in Pennsylvania, knowing she lived and planned to work in Washington. Sch\u00fctz admits the nature of FixtureOne\u2019s business allows sales representatives to work anywhere with Internet and telephone access. CP at 63.\n\u00b64 FixtureOne hired Failla as an account executive in November 2009 and agreed to pay her an annual salary of $75,000, plus an additional three percent commission on sales. Failla\u2019s job responsibilities included, among other duties, \u201cleading the company\u201d in \u201c[planning, execution and management of profitable growth and expansion of the company\u2019s revenue base and market share.\u201d CP at 30. The job also involved the \u201c[d]esign, implementation and management of business development, client acquisition, and sales strategies.\u201d Id. Failla reported directly to Sch\u00fctz, and the two communicated extensively by e-mail.\n\u00b65 In December 2010, Failla requested a promotion and a raise. Sch\u00fctz agreed and promoted her to FixtureOne\u2019s vice president of sales, increasing her salary to $135,000. Although there were outstanding commissions owed, Failla accepted the promotion and salary increase based on the assurances that the commissions would be paid. CP at 36. Sch\u00fctz provided a draft employment agreement for Failla to sign in connection with the promotion. Among other things, the agreement contained a provision that it would be interpreted in accordance with Pennsylvania law. Failla proposed revisions to the agreement, but for reasons unknown neither Failla nor Sch\u00fctz ever signed it.\n\u00b66 Failla continued working for FixtureOne from her Washington home until May 2011. She received regular paychecks, and the only issue in this case is the sales commissions owed to her that were not paid. On May 26, 2011, Sch\u00fctz e-mailed Failla to tell her that FixtureOne was \u201cclos[ing] its doors\u201d and ending her employment the following day. CP at 44. He assured Failla that FixtureOne would \u201cpay your commissions and expenses asap in the next several weeks.\u201d Id. For two months following her termination, Sch\u00fctz returned Failla\u2019s requests for payment with various explanations as to why the commissions remained unpaid. At one point he told Failla that he signed her commission check and blamed another employee for not mailing it. At other times he faulted the company\u2019s comptroller for failing to calculate the commission amount. Sch\u00fctz eventually advised Failla that she would not receive a commission check and for the first time disputed whether such commissions were even owed. CP at 50.\nf7 Failla filed suit against FixtureOne and Sch\u00fctz for the willful withholding of wages, including an allegation that Sch\u00fctz was individually liable under Washington\u2019s wage laws, RCW 49.52.050 and .070. Failla served Sch\u00fctz in Pennsylvania but was unable to serve FixtureOne. Consequently, the suit proceeded against Sch\u00fctz alone.\n\u00b68 Failla and Sch\u00fctz cross moved for summary judgment. Sch\u00fctz argued that the trial court lacked personal jurisdiction because he did not have the requisite minimum contacts with the state, and even if Washington could exercise jurisdiction over him, there were genuine issues of material fact preventing the entry of summary judgment. The trial court concluded it had personal jurisdiction and denied Schutz\u2019s summary judgment motion. Instead, the court granted summary judgment to Failla, awarding double damages pursuant to RCW 49.52.070, which provides for such damages when an employer willfully withholds wages due an employee.\n\u00b69 The Court of Appeals reversed, holding that Washington\u2019s long-arm statute did not reach Sch\u00fctz because the employment relationship between Failla and FixtureOne was inadequate to confer jurisdiction over Sch\u00fctz. Failla v. FixtureOne Corp., 177 Wn. App. 813, 312 P.3d 1005 (2013). We granted review. Failla v. FixtureOne Corp, 180 Wn.2d 1007, 321 P.3d 1207 (2014).\n\u00b610 Both parties agree FixtureOne, not Sch\u00fctz, was the employer entity that hired Failla and that Failla performed work for FixtureOne in Washington. The disputed issue is whether Sch\u00fctz, as the president and CEO of FixtureOne, is subject to Washington\u2019s jurisdiction and, if so, whether the trial court erred in finding he is liable under Washington\u2019s wage statute for nonpayment of wages under RCW 49.52-.050 and .070. We hold that Sch\u00fctz is subject to Washington\u2019s jurisdiction based on his level of contacts and transactions in Washington, regardless of whether he ever personally set foot in the state, and that the record supports the trial court\u2019s finding of liability.\nAnalysis\nI. Standard of Review\n\u00b611 We review the grant of summary judgment de novo and engage in the same inquiry as the trial court, determining whether any genuine issue of material fact exists and whether the moving party is entitled to judgment as a matter of law. Lewis v. Bours, 119 Wn.2d 667, 669, 835 P.2d 221 (1992). \u201cIn so doing, \u2018[t]he court must consider the facts in the light most favorable to the nonmoving party, and the motion should be granted only if, from all the evidence, reasonable persons could reach but one conclusion.\u2019 \u201d Id. (alteration in original) (quoting Marincovich v. Tarabochia, 114 Wn.2d 271, 274, 787 P.2d 562 (1990)).\n\u00b612 Similarly, a trial court\u2019s assertion of personal jurisdiction is a question of law that we review de novo, where, as here, the jurisdictionally relevant facts are undisputed. Id.\nII. Personal Jurisdiction\n\u00b613 Washington courts are authorized to assert personal jurisdiction over nonresident defendants to the extent permitted by the federal due process clause. Shute v. Carnival Cruise Lines, 113 Wn.2d 763, 766-67, 783 P.2d 78 (1989); U.S. Const, amend. XTV, \u00a7 1. States can exercise jurisdiction without violating due process if the nonresident defendant has certain minimum contacts with the state such that the maintenance of the suit does not offend traditional notions of fair play and substantial justice. Daimler AG v. Bauman, _U.S._, 134 S. Ct. 746, 754, 187 L. Ed. 2d 624 (2014) (citing the Court\u2019s canonical opinion International Shoe Co. v. Washington, 326 U.S. 310, 66 S. Ct. 154, 90 L. Ed. 95 (1945)). The central concern of the federal constitutional inquiry is the relationship between the defendant, the forum, and the litigation. Shaffer v. Heitner, 433 U.S. 186, 204, 97 S. Ct. 2569, 53 L. Ed. 2d 683 (1977).\n\u00b614 Our long-arm statute, designed to be coextensive with federal due process, subjects nonresident defendants to personal jurisdiction of Washington courts for any cause of action that arises from the transaction of any business within the state, among other conduct. RCW 4.28.185(l)(a). Three factors must coincide for the long-arm statute to apply:\n\u201c(1) The nonresident defendant or foreign corporation must purposefully do some act or consummate some transaction in the forum state; (2) the cause of action must arise from, or be connected with, such act or transaction; and (3) the assumption of jurisdiction by the forum state must not offend traditional notions of fair play and substantial justice, consideration being given to the quality, nature, and extent of the activity in the forum state, the relative convenience of the parties, the benefits and protection of laws of the forum state afforded the respective parties, and the basic equities of the situation.\u201d\nShute, 113 Wn.2d at 767 (quoting Deutsch v. W. Coast Mach. Co., 80 Wn.2d 707, 711, 497 P.2d 1311 (1972)). This inquiry encompasses both the statutory and due process concerns of exercising personal jurisdiction. FutureSelect Portfolio Mgmt., Inc. v Tremont Grp. Holdings, Inc., 180 Wn.2d 954, 964, 331 P.3d 29 (2014).\n\u00b615 Sch\u00fctz argues he is not subject to Washington\u2019s jurisdiction because he has never been to Washington and because he acted only as an employee and officer of the corporation that employed Failla. He asserts that jurisdiction and liability, if any, rests exclusively with the employing corporation.\n\u00b616 We agree that a corporation\u2019s actions cannot be simply imputed to a corporate officer or employee for purposes of determining whether there are minimum contacts necessary to establish jurisdiction. But it is just as true that an officer or employee is not automatically shielded from personal jurisdiction just because his contacts occurred in the context of his employment. Calder v. Jones, 465 U.S. 783, 790, 104 S. Ct. 1482, 79 L. Ed. 2d 804 (1984). Instead, \u201c[e]ach defendant\u2019s contacts with the forum State must be assessed individually.\u201d Id.; see also Davis v. Metro Prods. Inc., 885 F.2d 515, 522 (9th Cir. 1989) (affirming states\u2019 authority to assert personal jurisdiction over corporate officers based on contacts performed in that capacity). We determine personal jurisdiction on a case-by-case basis.\n\u00b617 Sch\u00fctz is the founder and CEO of FixtureOne. He was the individual who responded to Failla\u2019s job inquiry, interviewed her, and hired her because of the potential benefits to FixtureOne of having a sales representative in Washington. During the two-year course of her employment, Sch\u00fctz set her salary, issued her payroll checks, promoted her, gave her a raise, and calculated her commissions. He appeared to be the primary contact for Failla, and in fact, there is no evidence in the record that Failla had contact with anyone other than Sch\u00fctz. Failla was Fixture-One\u2019s employee located in the State of Washington who, while working in this state, generated over $700,000 in revenue for the company in 2010. CP at 40.\n\u00b618 The Court of Appeals held that Washington could not exert jurisdiction over Sch\u00fctz because\nFixtureOne did not register to do business in Washington and never had operations, officers, or customers in this state. Nothing about Schutz\u2019s employment of Failla anticipated that her activities in Washington would consist of more than residing here, working from home, and collecting a paycheck. Nothing in the record shows any attempt to do business with a Washington company, let alone any transactions with Washington companies.\nFailla, 177 Wn. App. at 823-24. The Court of Appeals\u2019 analysis relies on a finding that a person or company must target potential consumers in Washington, a subset of all this state\u2019s residents, to have transacted business here and to come within reach of the long-arm statute. But we have interpreted RCW 4.28.185(l)(a) more broadly.\n\u00b619 For example, in Toulouse v. Swanson, 73 Wn.2d 331, 334, 438 P.2d 578 (1968), we held that it was \u201cbeyond dispute\u201d that an Idaho resident transacted business in this state under the long-arm statute when he employed a Washington lawyer. We found it particularly relevant that the parties\u2019 contract \u201c \u2018called for services over an extended period of time,\u2019 \u201d giving the nonresident defendant an ongoing connection to this state. Id. at 331 (quoting trial court order). Likewise, in Thornton v. Interstate Securities Co., 35 Wn. App. 19, 23-25, 666 P.2d 370 (1983), the Court of Appeals determined that Washington could assert personal jurisdiction over a Kansas successor corporation on the basis that it consummated a transaction when it employed a Washington resident. \u201cIt has availed itself, however, of the knowledge and services of [the Washington employee] to collect accounts receivable here. It has thus carried on activity which touched the matter in issue \u2014 use of [the employee\u2019s] services under the employment contract.\u201d Id. at 25.\n\u00b620 Similarly, in Cofinco of Seattle, Ltd. v. Weiss, 25 Wn. App. 195, 196, 605 P.2d 794 (1980), the Court of Appeals exercised jurisdiction over a nonresident defendant who agreed to work for a Washington corporation selling shoes on the East Coast. Jurisdiction was proper despite the fact that the defendant, who lived and worked in New York, had never been to Washington, never owned real property situated in Washington, and \u201cnever engaged in any activities, business or otherwise, in the state.\u201d Id. The court correctly held that Washington courts had the jurisdictional power to adjudicate the employment dispute and that by entering into the employment contract, the employee purposefully availed himself of the privilege of conducting activities within the state of Washington. Id. at 197.\n\u00b621 Logically, if a nonresident employee defendant in New York is afforded the protection of Washington\u2019s laws governing the employer-employee relationship, at the very least a Washington resident should also be afforded the statutory protection of Washington\u2019s wage laws. A Pennsylvania employer that employs a Washington resident, and through that employee, conducts business from Washington for over two years forms a sufficient connection to the state such that it should reasonably anticipate defending a wage dispute here.\nf 22 Thus, we hold that employing a Washington resident to perform work in Washington constitutes the \u201ctransaction of any business within this state\u201d under RCW 4.28.185(l)(a) and satisfies the first Shute prong. Jurisdiction is proper in Washington for wage claims arising from that employment, and employees may seek redress in this state\u2019s courts absent an enforceable contract selecting an alternative forum and assuming fair play and substantial justice are not offended.\n\u00b623 This analysis is a practical application of the principles delineated in Toulouse, Thornton, and Cofinco and conforms the long-arm statute to the \u201cphenomena of [the] modern economy.\u201d Griffiths & Sprague Stevedoring Co. v. Bayly, Martin & Fay, Inc., 71 Wn.2d 679, 684, 430 P.2d 600 (1967) (interpreting RCW 4.28.185 consistently with contemporary business practices). We recognize many employers no longer do business in physical buildings or rely on hands-on or face-to-face presence for there to be actual presence in a geographical location.\n\u00b624 In this case, as outlined above, Sch\u00fctz is not just any corporate officer, and we do not hold today that any corporate officer of a nonresident corporation may be subject to the state\u2019s jurisdiction. Rather, Sch\u00fctz was the officer directly responsible for the hiring, firing, promotion, and payment of Failla\u2019s wages. Schutz\u2019s contacts with the state of Washington were sufficient to confer jurisdiction over him for wage disputes arising from those contacts.\n\u00b625 Likewise, it does not offend fair play or substantial justice to require Sch\u00fctz to defend Failla\u2019s wage claim here. It is not unreasonable to require a company that knowingly employs a Washington resident to abide by this state\u2019s wage laws, nor is it unreasonable to require the individual responsible for payroll to answer for failing to comply with those laws. Sch\u00fctz knew from the outset that he was hiring an employee in Washington and, as Failla\u2019s primary contact at FixtureOne, was ultimately responsible for paying her. Employers have fair notice of our laws governing the employer-employee relationship, including RCW 49.52.050 and .070, which impose individual liability. We cannot say under the facts of this case that exercising jurisdiction violates due process. This satisfies the third Shute prong, and the trial court was correct to exercise personal jurisdiction over Sch\u00fctz.\nIII. Summary Judgment\n\u00b626 The trial court entered judgment in favor of Failla under RCW 49.52.050 and .070. Together these statutes create a cause of action against\n[a]ny employer or officer, vice principal or agent of any employer . . . who . . .\n[w]ilfully and with intent to deprive the employee of any part of his or her wages, [pays] any employee a lower wage than the wage such employer is obligated to pay such employee by any statute, ordinance, or contract.\nRCW 49.52.050(2) (emphasis added). The critical, but not stringent, prerequisite to liability is that the employer\u2019s (or officer\u2019s) failure to pay wages was \u201cwillful.\u201d Schilling v. Radio Holdings, Inc., 136 Wn.2d 152, 159-60, 961 P.2d 371 (1998). The employee need show only that the refusal to pay was a volitional act, not the product of mere carelessness and not the result of a bona fide dispute. Id. at 160. Usually willfulness is a question of fact, but as with all fact questions, summary judgment is proper as a matter of law if the evidence supports a single reasonable conclusion. Id.\n\u00b627 We affirm the trial court\u2019s judgment. The evidence that Sch\u00fctz offered the trial court \u2014 e-mails in which he faults other employees under his direction for not calculating and paying the commissions to Failla \u2014 does not create a genuine issue of fact regarding willfulness such that it requires a trial on the issue. RCW 49.52.050 and .070 express the legislature\u2019s \u201cstrong policy in favor of ensuring the payment of the full amount of wages earned.\u201d Morgan v. Kingen, 166 Wn.2d 526, 538, 210 P.3d 995 (2009). Corporations act only through individuals, and by extending personal liability to individual officers for wages owed by the corporation, the legislature recognized that \u201cofficers control the choices over how the corporation\u2019s money is used.\u201d Id. at 537. Thus, officers, vice principals, and agents act willfully if those individuals exercise control over the employer\u2019s funds and still fail to pay their employees. Ellerman v. Centerpoint Prepress, Inc., 143 Wn.2d 514, 522-23, 22 P.3d 795 (2001) (rejecting liability based on mere agency). We affirmed summary judgment for the employees in Morgan based on the employing CEO\u2019s ultimate control of the business\u2019s finances, which included the authority to hire employees and set compensation. 166 Wn.2d at 531.\n\u00b628 Schutz\u2019s evidence creates a factual dispute only if we accept as reasonable his suggestion that he lacked power over FixtureOne\u2019s assets. The e-mails on which Sch\u00fctz relies to negate willfulness, all of which he sent after he terminated Failla, conflict with Schutz\u2019s obvious control of the company during Failla\u2019s employment. He interviewed her. He hired her. He unilaterally promoted her and directed the company\u2019s comptroller to increase her salary. Sch\u00fctz even admitted his fiscal authority in an e-mail to Failla. CP at 50 (\u201cI know [the comptroller] cut a payroll check for you and I signed it.\u201d). The trial court found it possible to draw only one conclusion from this evidence\u2014 that Sch\u00fctz controlled FixtureOne\u2019s finances, had the ability to pay Failla, and failed to do so willfully. We agree.\n\u00b629 Nor do we find persuasive Schutz\u2019s argument that a bona fide dispute exists regarding the amount of commissions owed to Failla. See Schilling, 136 Wn.2d at 160 (recognizing a bona fide dispute over wages negates willfulness under RCW 49.52.050 and .070). Sch\u00fctz offered the trial court no evidence refuting Failla\u2019s accounting and instead relies on bare allegations in his summary judgment response. Unsupported allegations do not create a question of fact. Young v. Key Pharm., Inc., 112 Wn.2d 216, 225, 770 P.2d 182 (1989).\nConclusion\n\u00b630 For the above stated reasons, we reverse the Court of Appeals and reinstate the judgment of the trial court. Failla is entitled to her costs and attorney fees on appeal. RCW 49.52.070; Brandt v. Impero, 1 Wn. App. 678, 683, 463 P.2d 197 (1969).\nMadsen, C.J., and C. Johnson, Fairhukst, Stephens, Wiggins, Gonz\u00e1lez, and Gordon McCloud, JJ, concur.\nSch\u00fctz styled his motion as one to dismiss, but because he relied on materials outside the complaint, the superior court properly treated the motion as one for summary judgment. CR 12(b), 56.\nA relevant inquiry in this case is whether Sch\u00fctz could \u201c \u2018reasonably anticipate being haled into court\u2019 \u201d in Washington. Calder, 465 U.S. at 790 (quoting WorldWide Volkswagen Corp. v. Woodson, 444 U.S. 286, 297, 100 S. Ct. 559, 62 L. Ed. 2d 490 (1980)). This standard \u201censures that a defendant will not be haled into a jurisdiction solely as a result of\u2018random,\u2019 \u2018fortuitous,\u2019 or \u2018attenuated\u2019 contacts, or \u2018the unilateral activity of another party or a third person.\u2019 \u201d Burger King Corp. v. Rudzewicz, 471 U.S. 462, 475, 105 S. Ct. 2174, 85 L. Ed. 2d 528 (1985) (citations omitted) (quoting Keeton v. Hustler Magazine, Inc., 465 U.S. 770, 774, 104 S. Ct. 1473, 79 L. Ed. 2d 790 (1984); World-Wide Volkswagen, 444 U.S. at 299; Helicopteros Nacionales de Colom., SA v. Hall, 466 U.S. 408, 417, 104 S. Ct. 1868, 80 L. Ed. 2d 404 (1984)).\nThe dissent agrees the \u201ccontact\u201d in question here is Schutz\u2019s correspondence with and decision to hire Failla. But it fails to evaluate the extent of contact and subsequent contacts under the proper precedent. Instead, the dissent concludes Washington lacks minimum contacts because Failla \u201cdid not solicit any business in Washington, and there is no record that [FixtureOne] made any sales or did any advertising in Washington.\u201d Dissent at 658-59. The dissent does not explain why Sch\u00fctz would have been better able to foresee Failla\u2019s lawsuit for unpaid wages if FixtureOne had solicited more business in Washington.\nMoreover, the dissent relies principally on Walden v. Fiore,_U.S._, 134 S. Ct. 1115, 188 L. Ed. 2d 12 (2014), a case easily distinguishable. Walden involved a federal agent who stopped a couple at an airport in Georgia, seized from them $97,000 in cash, and allegedly filed a false and misleading affidavit in support of forfeiture. Id. at 1120-21. The couple, who had residences in California and Nevada, sued in Nevada. Id. at 1121. The United States Supreme Court unanimously held the Nevada court lacked personal jurisdiction over the agent, who \u201cnever traveled to, conducted activities within, contacted anyone in, or sent anything or anyone to Nevada.\u201d Id. at 1124 (emphasis added). The plaintiffs\u2019 residence in Nevada was, from the point of view of the defendant, random and fortuitous.\nSchutz\u2019s connection to Washington was not random and fortuitous. It was the product of deliberate negotiation with Failla over the terms of her employment and salary and apparently stemmed in part from his decision that FixtureOne needed a sales representative in this part of the country. For this reason, Walden is inapposite.\nThe second Shute prong is not at issue. Neither party contests that Failla\u2019s claim arises from Schutz\u2019s contacts with Washington (the nonpayment of wages due under the employment relationship).",
+        "type": "majority",
+        "author": "Yu, J."
+      },
+      {
+        "text": "\u00b631 (dissenting) \u2014 The constitutional right to due process prohibits courts from asserting personal jurisdiction over a defendant unless he or she has certain \u201cminimum contacts\u201d with the forum. World-Wide Volkswagen Corp. v. Woodson, 444 U.S. 286, 291, 100 S. Ct. 559, 62 L. Ed. 2d 490 (1980); U.S. Const, amend. XIV, \u00a7 1. Importantly, the \u201c \u2018minimum contacts\u2019 analysis looks to the defendant\u2019s contacts with the forum State itself, not the defendant\u2019s contacts with persons who reside there.\u201d Walden v. Fiore,_U.S._, 134 S. Ct. 1115, 1122, 188 L. Ed. 2d 12 (2014). In this case, the out-of-state employer had no contacts with Washington other than hiring the plaintiff, who chose to reside here. Yet, the majority holds that Washington courts have jurisdiction over the employer in his personal capacity. Because this is contrary to the United States Supreme Court\u2019s rule that \u201cit is the defendant, not the plaintiff or third parties, who must create contacts with the forum State,\u201d id. at 1126,1 respectfully dissent.\nOwens, J.\nANALYSIS\n\u00b632 A state\u2019s authority to assert jurisdiction over a nonresident defendant is limited by the due process clause of the Fourteenth Amendment to the federal constitution. World-Wide Volkswagen, 444 U.S. at 291. A nonresident defendant is subject to personal jurisdiction only when he or she has had \u201ccertain minimum contacts ... such that the maintenance of the suit does not offend \u2018traditional notions of fair play and substantial justice.\u2019 \u201d Int\u2019l Shoe Co. v. Washington, 326 U.S. 310, 316, 66 S. Ct. 154, 90 L. Ed. 95 (1945) (quoting Milliken v. Meyer, 311 U.S. 457, 463, 61 S. Ct. 339, 85 L. Ed. 278 (1940)). The United States Supreme Court has reiterated that \u201cthe \u2018minimum contacts\u2019 inquiry principally protects the liberty of the nonresident defendant, not the interests of the plaintiff.\u201d Walden, 134 S. Ct. at 1125 n.9 (citing World-Wide Volkswagen, 444 U.S. at 291-92).\nf 33 In evaluating whether a defendant had such \u201cminimum contacts,\u201d courts look to the relationship between the defendant and the forum. Id. at 1121. The United States Supreme Court recently pointed out two key aspects of this relationship in a personal jurisdiction case: first, whether the relationship arose \u201cout of contacts that the \u2018defendant himself create [d] with the forum State,\u201d and second, whether the defendant had contacts with the forum state itself, not lust contacts with persons who reside there. Id. at 1122.\n\u00b634 In this case, the only contact that the defendant had with this state was his contact with the plaintiff, who chose to reside here. The plaintiff was the one who initiated the relationship by contacting the defendant in Pennsylvania, seeking employment. She then flew to Pennsylvania to interview for the position. The plaintiff then conducted all of her work via phone, e-mail, and occasional travel. She did not solicit any business in Washington, and there is no record that the business made any sales or did any advertising in Washington. Even the payroll checks signed by the employer were signed in Pennsylvania. In sum, the defendant did not initiate any contact with Washington nor did he conduct any business in Washington. The only contact the defendant had with Washington came from the plaintiff.\n\u00b635 The United States Supreme Court has \u201cconsistently rejected attempts to satisfy the defendant-focused \u2018minimum contacts\u2019 inquiry by demonstrating contacts between the plaintiff (or third parties) and the forum State.\u201d Id. (emphasis added). In fact, no matter how \u201csignificant the plaintiff\u2019s contacts with the forum may be,\u201d they cannot be decisive when determining whether the defendant had minimum contacts. Id. As described above, the employer\u2019s only contacts with Washington were his contacts with the plaintiff. He took no actions related to this state. The majority\u2019s inquiry is focused on the defendant\u2019s contact with the plaintiff, but none of those contacts related to Washington. Since the plaintiff has not demonstrated minimum contacts between the defendant and the state, there is not a sufficient basis for personal jurisdiction.\n\u00b636 Furthermore, the decision of the plaintiff to reside in Washington was hers alone. The \u201cunilateral activity of another party or a third person is not an appropriate consideration when determining whether a defendant has sufficient contacts with a forum State to justify an assertion of jurisdiction.\u201d Helicopteros Nacionales de Colom., SA v. Hall, 466 U.S. 408, 417, 104 S. Ct. 1868, 80 L. Ed. 2d 404 (1984). If the plaintiff had chosen to move to another state, there is no indication that the move would have had any effect on the defendant, his actions, or his business. The defendant had no contact with the state other than the plaintiff\u2019s unilateral choice to reside here. This is insufficient to confer personal jurisdiction over the defendant.\n\u00b637 The Court of Appeals properly noted that \u201c[n]othing about [the defendant\u2019s] employment of [the plaintiff] anticipated that her activities in Washington would consist of more than residing here, working from home, and collecting a paycheck.\u201d Failla v. FixtureOne Corp., 177 Wn. App. 813, 823, 312 P.3d 1005 (2013), review granted, 180 Wn.2d 1007, 321 P.3d 1207 (2014). The Court of Appeals correctly concluded that the defendant did not have minimum contacts with the state and thus the state\u2019s courts lacked personal jurisdiction. Id. at 827.1 would affirm.\nCONCLUSION\n\u00b638 As the United States Supreme Court has explained, \u201cthe plaintiff cannot be the only link between the defendant and the forum.\u201d Walden, 134 S. Ct. at 1122. Here, the plaintiff is the only link between the defendant and Washington. Following the rules laid out by the United States Supreme Court, I do not see how the state courts have personal jurisdiction in this case.\n\u00b639 I respectfully dissent.\nAfter modification, further reconsideration denied November 25, 2014.",
+        "type": "dissent",
+        "author": "Owens, J."
+      }
+    ],
+    "attorneys": [
+      "Michael W. Johns (of Roberts Johns & Hemphill PLLC), for petitioner.",
+      "Thomas H. Oldfield (of Oldfield & Helsdon PLLC), for respondents."
+    ],
+    "corrections": "",
+    "head_matter": "[No. 89671-2.\nEn Banc.]\nArgued June 24, 2014.\nDecided October 2, 2014.\nKristine Failla, Petitioner, v. FixtureOne Corporation et al., Respondents.\nMichael W. Johns (of Roberts Johns & Hemphill PLLC), for petitioner.\nThomas H. Oldfield (of Oldfield & Helsdon PLLC), for respondents."
+  },
+  "file_name": "0642-01",
+  "first_page_order": 684,
+  "last_page_order": 702
+}

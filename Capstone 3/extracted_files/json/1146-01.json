@@ -1,0 +1,188 @@
+{
+  "id": 1397135,
+  "name": "Missouri Pacific Railroad Company v. Hobbs",
+  "name_abbreviation": "Missouri Pacific Railroad v. Hobbs",
+  "decision_date": "1929-02-11",
+  "docket_number": "",
+  "first_page": "1146",
+  "last_page": "1150",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "178 Ark. 1146"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [
+    {
+      "cite": "66 S. W. 344",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "69 Ark. 562",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        8725150
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/69/0562-01"
+      ]
+    },
+    {
+      "cite": "31 Ark. 50",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1879220
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/31/0050-01"
+      ]
+    },
+    {
+      "cite": "138 U. S. 1",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3550017
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/138/0001-01"
+      ]
+    },
+    {
+      "cite": "47 A. L. R. 564",
+      "category": "reporters:specialty",
+      "reporter": "A.L.R.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "26 S. Ct. 91",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        3643599
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/199/0279-01"
+      ]
+    },
+    {
+      "cite": "146 S. W. 864",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "103 Ark. 225",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "33 Ark. 63",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        8721634
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/33/0063-01"
+      ]
+    },
+    {
+      "cite": "165 S. W. 295",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "112 Ark. 162",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "221 S. W. 485",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "144 Ark. 94",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "242 S. W. 66",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "154 Ark. 239",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 287,
+    "char_count": 3234,
+    "ocr_confidence": 0.492,
+    "pagerank": {
+      "raw": 8.812779862278787e-08,
+      "percentile": 0.4969534903386259
+    },
+    "sha256": "7d64c21f2ce5116dc5bebaa49fd9e8e0ab5a524b0e17cc649cb87bb08927fa45",
+    "simhash": "1:3195d13045c5a4b2",
+    "word_count": 569
+  },
+  "last_updated": "2024-02-27T17:49:07.238160+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Missouri Pacific Railroad Company v. Hobbs."
+    ],
+    "opinions": [
+      {
+        "text": "Kirby, J.,\n(after stating the facts). Equity has jurisdiction to prevent repeated trespasses upon the property of another by injunction, where the remedy at law for damages is inadequate, and also to restrain such trespassing, to avoid a multiplicity of suits, especially where the wrongdoer is insolvent. 32 C. J. pp. 140-144; 14 R. C. L. pp. 422.-455; Sanders v. Boone, 154 Ark. 239, 242 S. W. 66; Dufresne v. Paul, 144 Ark. 94, 221 S. W. 485; Boswell v. Jordan, 112 Ark. 162, 165 S. W. 295; Ellsworth v. Hall, 33 Ark. 63; Fletcher v. Pfeifer, 103 Ark. 225, 146 S. W. 864.\nIt is said in C. J., supra, 140:\n\u201cIt is now well settled that an injunction will apply to restrain acts of trespass which are continuously or constantly recurring, where irreparable injury will result, unless they are restrained, and the court will award the relief that the nature of the action demands, and the fact that the injury done or threatened is of a nominal character, or is insubstantial, or that the wrongful acts, when viewed separately, may not have materially impaired the use and enjoyment of the property affected, does not take away the jurisdiction of a court of equity to prevent the continuance of such wrongful act.\u201d\nThe premises or property of the railroad company is private property as between it and trespassers, as appellee was alleged and by the demurrer conceded to be. In 14 B. C. L., page 455, it is said:\n\u201cWhile courts of equity will not ordinarily enjoin a mere trespass, yet they will interfere for the purpose of preventing a continuing trespass involving a multiplicity of suits at law, and which is both a grievance to the parties and a burden to the public. * * * Thus, the property of the railroad company is to be deemed in every legal sense private property, as between it and those of the general public who have no occasion to use it for purpose of transportation. A court of equity will therefore enjoin such persons from a continuous trespass on the premises used for stations and depots, their only purpose being the meeting of passengers and solicitation of their patronage, the remedy at law, in a case of this character, being manifestly inadequate.\u201d Citing Donovan v. Penn. Co., 199 U. S. p. 279, 26 S. Ct. 91; N. Y. R. R. Co. v. Scovill, 42 L. R. A., p. 157. See also note, 47 A. L. R. 564; Joy v. St. Louis, 138 U. S. 1, 11 S. Ct. 243; Landregan v. State, 31 Ark. 50 ; Graham v. St. L. I. M. & S. Ry. Co., 69 Ark. 562, 66 S. W. 344.\nIt was the duty of the railroad .company to take such action and make such arrangements as might promote the comfort and convenience of passengers arriving or departing on its trains, as well as for their protection from annoyance while thereon. The allegations of the complaint were sufficient to authorize the granting of the relief prayed, and the court erred in holding otherwise.\nThe decree is accordingly reversed, and the cause remanded with directions to overrule the demurrer, and for all further necessary proceedings in harmony with the principles of equity and not inconsistent with this opinion.",
+        "type": "majority",
+        "author": "Kirby, J.,"
+      }
+    ],
+    "attorneys": [
+      "Thomas B. Pryor and H. L. Ponder, for appellant.",
+      "Brundidge & Neelly, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Missouri Pacific Railroad Company v. Hobbs.\nOpinion delivered February 11, 1929.\nThomas B. Pryor and H. L. Ponder, for appellant.\nBrundidge & Neelly, for appellee."
+  },
+  "file_name": "1146-01",
+  "first_page_order": 1164,
+  "last_page_order": 1168
+}

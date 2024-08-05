@@ -1,0 +1,214 @@
+{
+  "id": 8722465,
+  "name": "Bledsoe v. Carpenter",
+  "name_abbreviation": "Bledsoe v. Carpenter",
+  "decision_date": "1923-10-15",
+  "docket_number": "",
+  "first_page": "349",
+  "last_page": "355",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "160 Ark. 349"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [
+    {
+      "cite": "95 Ark. 387",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1543531
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/95/0387-01"
+      ]
+    },
+    {
+      "cite": "4 A. L. R. 1078",
+      "category": "reporters:specialty",
+      "reporter": "A.L.R.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "60 Am. Rep. 464",
+      "category": "reporters:state_regional",
+      "reporter": "Am. Rep.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "60 Am. Rep. 317",
+      "category": "reporters:state_regional",
+      "reporter": "Am. Rep.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "47 Iowa 137",
+      "category": "reporters:state",
+      "reporter": "Iowa",
+      "case_ids": [
+        2331677
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/iowa/47/0137-01"
+      ]
+    },
+    {
+      "cite": "82 Ark. 547",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1529000,
+        1529091
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/82/0547-01",
+        "/ark/82/0547-02"
+      ]
+    },
+    {
+      "cite": "91 Ark. 141",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1511785
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/91/0141-01"
+      ]
+    },
+    {
+      "cite": "112 Ark. 126",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1538819
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/112/0126-01"
+      ]
+    },
+    {
+      "cite": "4 A. L. R. 1073",
+      "category": "reporters:specialty",
+      "reporter": "A.L.R.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "147 Ark. 342",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1583258
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/147/0342-01"
+      ]
+    },
+    {
+      "cite": "127 Ark. 590",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1550208
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/127/0590-01"
+      ]
+    },
+    {
+      "cite": "95 Ark. 449",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1543612
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/95/0449-01"
+      ]
+    },
+    {
+      "cite": "91 Ark. 367",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1511823
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/91/0367-01"
+      ]
+    },
+    {
+      "cite": "95 Ark. 387",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1543531
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/95/0387-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 567,
+    "char_count": 12343,
+    "ocr_confidence": 0.495,
+    "pagerank": {
+      "raw": 2.2549648333136668e-07,
+      "percentile": 0.7819780226569194
+    },
+    "sha256": "cb781dfae76db13e025bd9ad9f2fc7d2a0810724f35c335751443eece4303fe6",
+    "simhash": "1:23d6c54c14c9b87a",
+    "word_count": 2155
+  },
+  "last_updated": "2024-02-27T17:41:07.582861+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Bledsoe v. Carpenter."
+    ],
+    "opinions": [
+      {
+        "text": "McCulloch, C. J.\nTbis is an action instituted in tbe chancery court by appellees against appellant Bledsoe and others to restrain tbe continued breach of a contract and to recover accrued damages for tbe breach thereof.\nTbe facts as disclosed by tbe record are as follows: J. D. Nunn, who was one of tbe defendants below, but who has not appealed from tbe decree, operated a tailoring, cleaning and pressing business in tbe city of Arka-delpbia, and on April 3, 1920, be sold tbe business to F. M. Carpenter, one of tbe appellees. Tbe consideration for tbe sale was tbe payment of the sum of $1,500 in cash. There was a written contract covering the terms of tbe sale, and tbis contract was signed by Nunn and by bis wife, Grace Bledsoe Nunn, and by the appellant, W. K. Bledsoe, who is bis fatber-in-law. Tbe contract states tbe consideration as above mentioned, and contains a recital that \u201cthe undersigned have tbis day sold and delivered to F. M. Carpenter tbe business now operated in the name of J. D. Nunn & Co.\u201d Tbe contract concludes as follows: \u201cAnd in consideration of tbe said premises it is further agreed by tbe undersigned that J. D. Nunn shall not, directly or indirectly, reengage in Arkadelphia in tbe business of tailor, batter, or a similar business, for a period of five years from tbis date. In witness whereof, tbis bill of sale and agreement is signed by .the vendors of tbis tbe 3rd day of May, 1920.\u201d\nCarpenter sold tbe business to appellee Arnold, and both of them (Carpenter and Arnold) joined as plaintiffs in tbis action. Nunn reentered tbe business mentioned a short time after tbe execution of the contract, and it is alleged that appellees have been damaged in the sum of $1,000 on account thereof. Tbe prayer of tbe complaint is for the recovery of damages from all tbe obligors in tbe 'contract, and that defendant Nunn be restrained from further breaches of tbe contract.\nThe case was heard by the court on oral testimony, and there was a decree against all three of the defendants for the recovery of damages in the sum of $100, and a decree against Nunn restraining him from continuing in business in violation of the contract. Appellant Bledsoe is the only one who appealed, and his appeal is only from that part of the decree which is for the recovery of damages against him. The appellees have obtained a cross-appeal.\nContracts such as that involved in the present controversy have been considered by this court in several cases, and have been upheld where their operation has been limited to only a partial restraint of trade for a limited time and locality. Bloom v. Home Insurance Agency, 91 Ark. 367; Hampton v. Caldwell, 95 Ark. 387; Edgar Lumber Co. v. Cornie Stave Co., 95 Ark. 449; Shapard v. Lesser, 127 Ark. 590; Wahenight v. Spear & Rodgers, 147 Ark. 342.\nIt is not contended that this contract is invalid for any reason, and the question of its validity falls squarely within our decisions on this subject. It is, however, contended, in the first place, that the contract is not assignable, and that neither of the appellees are in a situation to maintain this suit; that Carpenter, the original obligee in the contract, cannot sue for the reason that his sale of the business disconnected him from any benefits under the contract, and that appellee Arnold cannot sue for the reason that the contract was not assignable. These contentions are not sound. It has been shown by oral testimony that, while Carpenter sold this property to his co-appellee,' Arnold, the consideration therefor has not been paid in full, and that he retained title to the tangible property sold as security for the purchase price. These facts give him\u2019 an interest in the enforcement of the contract. Be that as it may, however, it seems to be settled bv the great weight of authority that such a contract is assignable as an incident to the sale of the business, and many of the authorities \u2014 what appears to be the weight \u2014 go to the extent of holding that the contract passes with the sale of the business, as an incident thereto, even without a formal assignment. This is upon the theory that the contract is enforceable only as an incident to and a part of the contract of sale, and passes to the purchaser upon resale, without a formal assignment. The authorities on this subject are reviewed in the note to the case of Sickles v. Lauman (Iowa), 4 A. L. R. 1073.\nIt is unnecessary in the present case to determine which of the appellees has the right of action, for both of them have joined in the effort to enforce the contract and recover damages for its breach.\nIt is next contended that appellees could not, at the same time, maintain an action for damages and to restrain the breach of the contract. The suit is to recover damages already accrued and to restrain future breaches, and we are of the opinion that an action is maintainable to secure relief on both grounds. The injured party is not, under those circumstances, put to an election, for he has two distinct, mature rights of action. \"We are also of the opinion that both may be prosecuted in a court of equity, where jurisdiction is conferred for the purpose of granting relief by injunction, and, to prevent a multiplicity of actions, that court should grant complete relief by awarding damages.\nThe contract was not without consideration, even as to appellant Bledsoe, for the sale of the property and the terms of the sale were sufficient to support the whole contract as to all of the parties. It was not essential that appellant Bledsoe should have been the' beneficiary of any of the consideration, though it was proved in this case that he did receive a benefit by reason of the fact that the consideration, or part of it, was used in discharging a promissory note executed bv Nunn to a certain banking institution, and that appellant Bledsoe was surety or indorser on the note.\nIt is also contended that the contract was broken solely by the act of Nunn alone reentering the business, and that appellant is not liable in damages for the breach committed by Nunn. The solution of this question turns upon a construction of the languag\u00e9 of the contract in order to determine its nature, whether joint or several.. If it was a joint contract, each of the obligors is liable for damage caused by a breach committed by either of the three, but, on the other hand, if the contract was several in its nature, then each obligor is responsible only for his own breach. \u201cIf two or more persons constitute one party to a contract,\u201d says Professor Page, \u201cthe question as to the nature of their rights and liabilities presents itself. If two or more persons are prom-isors in a contract, their liability may be joint, or several, or joint and several. If their liability is joint, each of the promisors is liable, and may be held for the entire liability arising under the contract. A several contract is one in which each of the promisors undertakes only a limited amount of the entire liability, or in which each severally undertakes the entire liability. A joint and several contract with reference to the promisors is one which the promisee, at his election, may treat either as the joint contract of all the promisors or as the several contract of each promisor.\u201d 4 Page on -Contracts, \u00a7 2066.\nIn the next section the author says: \u201cWhether the liability of the promisors is joint, or joint and several, depends upon the intention of the parties as ascertained from the contract by the ordinary rules of construction. In the absence of statute, the liability of two or more promisors upon the same contract is a joint liability, if the rest of the contract does not show that a different liability was intended.\u201d\nAgain, in \u00a7 2071 of the same volume, the author states the rule to be that all of the joint promisors are liable upon a joint contract, no matter who commits the breach.\nA consideration of this contract leads inevitably to the conclusion that the effect of the language is to constitute a joint contract, and that there is no language indicating that the contract was intended to he several. In the first place, it states that the undersigned, which includes appellant, \u201chave this day sold and delivered to F. M. Carpenter the business,\u201d and the concluding paragraph unmistakably expresses a joint obligation on the part of all three of the parties that one of them (Nunn) should not, directly or indirectly, reengage in 'business during the time and at the place specified. In other words, all three of the obligors undertook that one of them should not reenter business, and it constituted an engagement on the part of all of them to answer jointly and severally for any breach committed by the individual named. Each of the obligors undertook to control the action of Nunn, or to respond in damages for any injury caused by his breach.\nOur conclusion is therefore that there was a right of action against appellant for damages caused by the reentry of Nunn into the business. There was evidence to sustain the finding of the chancellor as to the amount of damages sustained. The evidence was conflicting, and to some extent speculative, as to the amount of business appellees lost by reason of the reentry of Nunn into the business. This was, necessarily, a matter of conjecture, and we are not able to say that the finding of the chancellor is against the preponderance of the evidence. So the decree on both appeals will be affirmed.\nIt is so ordered.",
+        "type": "majority",
+        "author": "McCulloch, C. J."
+      }
+    ],
+    "attorneys": [
+      "W. H. Misell, for appellant.",
+      "Callaway <& Callaway, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Bledsoe v. Carpenter.\nOpinion delivered October 15, 1923.\n1. Contracts \u2014 partial restraint op trade. \u2014 A contract for the sale of a tailoring, cleaning and pressing business in a certain city with an agreement on the seller\u2019s part not to reengage ih a similar business in the same city for a period of five years is valid.\n2. Assignments \u2014 contract not to reengage in business. \u2014 A contract for the sale of a certain business with an agreement on the part of the seller not to reengage in the same business in the same locality for a limited period is assignable as an incident to a sale of such business.\n3. Equity \u2014 jurisdiction -to administer complete relief. \u2014 Equity has jurisdiction to restrain breach of a contract not to reengage in a certain business if limited in time and locality, and, to prevent a inultiplicity of actions, that court should grant complete relief by awarding damages already accrued.\n4. Contract not to reengage in business \u2014 consideration.\u2014Where B. signed a contract for the sale of a certain business belonging to N., by which N. was obligated not to reengage in the same business in the same locality, for a limited time, the sale of the property and the terms of the sale constituted a sufficient consideration for B. to sign the contract.\n5. Contracts \u2014 joint! contract \u2014 liability.\u2014Where N. and wife and B., his father-in-law, signed a contract whereby they sold a certain business belonging to N., and jointly obligated-themselves that N. would not reenter the 'business during the time and at the place - specified, there was a right against each of them jointly and severally for any breajch caused! by \u00cdN^s reentry into the business. ' \u2018\nAppeal from 'Clark Chancery Court; James. D. Shaver, Chancellor;\naffirmed.\nW. H. Misell, for appellant.\nThe demurrer should, have been sustained. The contract was not assignable. C. So M. Digest, \u00a7 475. The complaint did not state a cause of action. 13 Standard Ency. of Procedure, p. 61. The chancery court erred in awarding damages. 24 R. C. L. 89. The finding of the chancellor was against the preponderance of tho evidence. 112 Ark. 126; 91 Ark. 141; 82 Ark. 547.\nCallaway <& Callaway, for appellee.\nA covenant, reasonable as to time and territory, entered into by the seller of a business, not to engage in a similar business, is assignable with a subsequent sale ' of the business and will pass to the subsequent purchaser as an incident of such sale, without being expressly assigned. 47 Iowa 137; 61 N. EL 40; 60 Am. Rep. 317; 106 N. T. 473 ; 60 Am. Rep. 464; 05 N. T. Supp. 1060; 4 A. L. R. 1078. The trial court had jurisdiction. 22 Cyc. 967; 95 Ark. 387. Bledsoe had ample opportunity to inform himself of the obligation he was undertaking, and therefore could not claim fraud. 13 C. J. \u201cContracts.\u201d In the absence of a consideration, an oral agreement is not binding. 112 Ark. 126."
+  },
+  "file_name": "0349-01",
+  "first_page_order": 373,
+  "last_page_order": 379
+}

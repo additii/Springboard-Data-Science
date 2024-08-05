@@ -1,0 +1,342 @@
+{
+  "id": 6792257,
+  "name": "In the Matter of the Personal Restraint of Toby Alfred Erhart, Petitioner",
+  "name_abbreviation": "In re the Personal Restraint of Erhart",
+  "decision_date": "2015-05-07",
+  "docket_number": "No. 89107-9",
+  "first_page": "144",
+  "last_page": "148",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "183 Wash. 2d 144"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Wash.",
+    "id": 9029,
+    "name": "Washington Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 38,
+    "name_long": "Washington",
+    "name": "Wash."
+  },
+  "cites_to": [
+    {
+      "cite": "5 P.3d 1240",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2000,
+      "opinion_index": 0
+    },
+    {
+      "cite": "141 Wn.2d 342",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1183458
+      ],
+      "year": 2000,
+      "pin_cites": [
+        {
+          "page": "349"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/141/0342-01"
+      ]
+    },
+    {
+      "cite": "467 U.S. 39",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6193857
+      ],
+      "weight": 3,
+      "year": 1984,
+      "pin_cites": [
+        {
+          "page": "46-47"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/467/0039-01"
+      ]
+    },
+    {
+      "cite": "119 P.3d 816",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2005,
+      "opinion_index": 0
+    },
+    {
+      "cite": "155 Wn.2d 356",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        3765730
+      ],
+      "year": 2005,
+      "pin_cites": [
+        {
+          "page": "366"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/155/0356-01"
+      ]
+    },
+    {
+      "cite": "100 P.3d 291",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2004,
+      "opinion_index": 0
+    },
+    {
+      "cite": "152 Wn.2d 795",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1217463
+      ],
+      "year": 2004,
+      "pin_cites": [
+        {
+          "page": "804"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/152/0795-01"
+      ]
+    },
+    {
+      "cite": "217 P.3d 310",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2009,
+      "pin_cites": [
+        {
+          "parenthetical": "plurality opinion"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "167 Wn.2d 222",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4004913
+      ],
+      "year": 2009,
+      "pin_cites": [
+        {
+          "page": "227",
+          "parenthetical": "plurality opinion"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/167/0222-01"
+      ]
+    },
+    {
+      "cite": "288 P.3d 1113",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2012,
+      "opinion_index": 0
+    },
+    {
+      "cite": "176 Wn.2d 1",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4306658
+      ],
+      "year": 2012,
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/176/0001-01"
+      ]
+    },
+    {
+      "cite": "200 P.3d 266",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2009,
+      "opinion_index": 0
+    },
+    {
+      "cite": "148 Wn. App. 425",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        3980995
+      ],
+      "year": 2009,
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/148/0425-01"
+      ]
+    },
+    {
+      "cite": "309 P.3d 451",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2013,
+      "opinion_index": 0
+    },
+    {
+      "cite": "178 Wn.2d 417",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4298572
+      ],
+      "year": 2013,
+      "pin_cites": [
+        {
+          "page": "422"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/178/0417-01"
+      ]
+    },
+    {
+      "cite": "340 P.3d 810",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2014,
+      "pin_cites": [
+        {
+          "parenthetical": "plurality opinion"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "182 Wn.2d 115",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4076024
+      ],
+      "year": 2014,
+      "pin_cites": [
+        {
+          "parenthetical": "plurality opinion"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/182/0115-01"
+      ]
+    },
+    {
+      "cite": "340 P.3d 207",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2014,
+      "pin_cites": [
+        {
+          "parenthetical": "plurality opinion"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "182 Wn.2d 103",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4075917
+      ],
+      "year": 2014,
+      "pin_cites": [
+        {
+          "parenthetical": "plurality opinion"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/182/0103-01"
+      ]
+    },
+    {
+      "cite": "906 P.2d 325",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1995,
+      "opinion_index": 0
+    },
+    {
+      "cite": "128 Wn.2d 254",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        518016
+      ],
+      "year": 1995,
+      "pin_cites": [
+        {
+          "page": "258-59"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/128/0254-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 399,
+    "char_count": 6162,
+    "ocr_confidence": 0.775,
+    "pagerank": {
+      "raw": 4.811226937827821e-08,
+      "percentile": 0.30161102056529165
+    },
+    "sha256": "6dcffa88ba011782b350da29c157326b93af7b8cd6288cf078d27cd270c9b56a",
+    "simhash": "1:162e942de52e576c",
+    "word_count": 998
+  },
+  "last_updated": "2024-02-27T22:09:01.011694+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In the Matter of the Personal Restraint of Toby Alfred Erhart, Petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "Per Curiam\n\u00b61 Toby Erhart\u2019s judgment and sentence on multiple counts of first degree child rape and incest became final on direct appeal in 2008. In 2010, Erhart filed a personal restraint petition challenging his convictions, arguing for the first time that his constitutional right to a public trial was violated. The Court of Appeals dismissed the petition as untimely. We grant discretionary review and affirm.\nFACTS\n\u00b62 During Erhart\u2019s trial, the court interviewed several prospective jurors privately in chambers without first conducting the courtroom closure analysis required by State v. Bone-Club, 128 Wn.2d 254, 258-59, 906 P.2d 325 (1995). The jury found Erhart guilty of multiple sex offenses, and the trial court imposed an exceptional sentence. Erhart did not raise a public trial issue on direct appeal. The Court of Appeals affirmed the convictions but reversed the exceptional sentence and remanded for resentencing. After resen-tencing, the judgment and sentence became final in 2008.\n\u00b63 In 2010, Erhart filed a motion in superior court to vacate the judgment, arguing for the first time that his constitutional right to a public trial was violated when the superior court interviewed prospective jurors in chambers without conducting a Bone-Club analysis. The superior court transferred the motion to the Court of Appeals for consideration as a personal restraint petition pursuant to CrR 7.8(c)(2), and the acting chief judge dismissed the petition as untimely. Erhart then filed a motion for discretionary review in this court, which was stayed pending this court\u2019s decisions in Order, In re Personal Restraint of Pink, No. 83831-3 (Wash. Apr. 9, 2014) (order granting personal restraint petition and remanding to superior court), In re Personal Restraint of Speight, 182 Wn.2d 103, 340 P.3d 207 (2014) (plurality opinion), and In re Personal Restraint of Coggin, 182 Wn.2d 115, 340 P.3d 810 (2014) (plurality opinion). The stay was lifted after those decisions became final. Meanwhile, Erhart filed a motion to amend his motion for discretionary review with a claim of ineffective assistance of appellate counsel and a motion to supplement the record with a log of courtroom proceedings that documents in-chambers interviews of prospective jurors. We now grant discretionary review, and for reasons discussed below, we affirm the Court of Appeals.\nANALYSIS\n\u00b64 Because Erhart filed his personal restraint petition more than one year after his judgment and sentence became final, the petition is untimely under RCW 10.73.090(1) unless the judgment and sentence is facially invalid or was entered without competent jurisdiction, or unless Erhart asserts solely grounds for relief exempt from the one year limit under RCW 10.73.100. In re Pers. Restraint of Adams, 178 Wn.2d 417, 422, 309 P.3d 451 (2013). Violation of the right to a public trial does not implicate the trial court\u2019s jurisdiction or the facial validity of the judgment and sentence for purposes of RCW 10.73.090(1). And such a claim in itself is not among the exemptions to the one-year time bar listed in RCW 10.73.100.\n\u00b65 But Erhart argues that his public trial claim falls within RCW 10.73.100(6) because the Court of Appeals public trial decision in State v. Wise, 148 Wn. App. 425, 200 P.3d 266 (2009), rev\u2019d, 176 Wn.2d 1, 288 P.3d 1113 (2012), constitutes a significant change in the law that is material and retroactively applicable to his case. But as the citation indicates, this court reversed the Court of Appeals decision in Wise, so that decision represents no precedential change in the law. Moreover, this court\u2019s decision in Wise was firmly grounded on this court\u2019s well-established precedent concerning the public trial right in relation to jury selection. See Wise, 176 Wn.2d at 11-12; State v. Strode, 167 Wn.2d 222, 227, 217 P.3d 310 (2009) (plurality opinion); In re Pers. Restraint of Orange, 152 Wn.2d 795, 804, 100 P.3d 291 (2004). Wise thus did not overrule any previously controlling decision so as to make it a significant change in the law. See In re Pers. Restraint of Domingo, 155 Wn.2d 356, 366, 119 P.3d 816 (2005). Erhart\u2019s similar assertion that Strode constituted a significant change in the law fails for the same reason; he could have relied on Orange or Bone-Club to assert a public trial claim on direct appeal or in a timely personal restraint petition, but he did neither. Erhart thus fails to demonstrate the existence of a significant change in the law exempting his public trial claim from the one-year limit on collateral relief, making his personal restraint petition untimely.\n\u00b66 We affirm.\nA criminal defendant\u2019s right to a public trial is guaranteed under article I, section 22 of the Washington Constitution and the Sixth Amendment to the United States Constitution. See Bone-Club, 128 Wn.2d at 257, 259-60; Waller v. Georgia, 467 U.S. 39, 46-47, 104 S. Ct. 2210, 81 L. Ed. 2d 31 (1984).\nThe exemptions are (1) newly discovered evidence, (2) a conviction under an unconstitutional statute, (3) a double jeopardy violation, (4) insufficient evidence to support a conviction after plea of not guilty, (5) a sentence in excess of the trial court\u2019s jurisdiction, and (6) a significant change in the law that is material and retroactively applicable. RCW 10.73.100.\nErhart\u2019s motion to add a new claim of ineffective assistance of appellate counsel is denied. Such a claim is time barred because it falls within neither RCW 10.73.090(1) nor RCW 10.73.100. See In re Pers. Restraint of Stoudmire, 141 Wn.2d 342, 349, 5 P.3d 1240 (2000). Erhart\u2019s motion to supplement the record with the courtroom log is denied as moot. Although the State does not oppose the motion to supplement \u2014 conceding that prospective jurors were interviewed in chambers \u2014 Erhart\u2019s personal restraint petition is untimely even if he would have been entitled to relief had the claim been timely asserted.",
+        "type": "majority",
+        "author": "Per Curiam"
+      }
+    ],
+    "attorneys": [
+      "Toby A. Erhart, pro se.",
+      "Michael K. Dorcy, Prosecuting Attorney, and Timothy J. Higgs, Deputy, for respondent."
+    ],
+    "corrections": "",
+    "head_matter": "[No. 89107-9.\nEn Banc.]\nConsidered April 29, 2015.\nDecided May 7, 2015.\nIn the Matter of the Personal Restraint of Toby Alfred Erhart, Petitioner.\nToby A. Erhart, pro se.\nMichael K. Dorcy, Prosecuting Attorney, and Timothy J. Higgs, Deputy, for respondent."
+  },
+  "file_name": "0144-01",
+  "first_page_order": 198,
+  "last_page_order": 202
+}

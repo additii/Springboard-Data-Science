@@ -1,0 +1,138 @@
+{
+  "id": 1435296,
+  "name": "Altman-Rodgers Company v. Rogers",
+  "name_abbreviation": "Altman-Rodgers Co. v. Rogers",
+  "decision_date": "1932-04-04",
+  "docket_number": "",
+  "first_page": "561",
+  "last_page": "568",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "185 Ark. 561"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [
+    {
+      "cite": "205 S. W. 889",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "135 Ark. 502",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1571542
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/135/0502-01"
+      ]
+    },
+    {
+      "cite": "294 S. W. 14",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "173 Ark. 903",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        8725071
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/173/0903-01"
+      ]
+    },
+    {
+      "cite": "174 S. W. 537",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "117 Ark. 223",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1564943
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/117/0223-01"
+      ]
+    },
+    {
+      "cite": "36 Ark. 371",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1872495
+      ],
+      "pin_cites": [
+        {
+          "page": "378"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/36/0371-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 548,
+    "char_count": 12306,
+    "ocr_confidence": 0.505,
+    "pagerank": {
+      "raw": 9.651026805773337e-08,
+      "percentile": 0.5280134092759848
+    },
+    "sha256": "3318dee08b33eb8b11da5643726ac672e010d98a5dbec547f676293e1a0ae557",
+    "simhash": "1:882b5426ef37c5f4",
+    "word_count": 2210
+  },
+  "last_updated": "2024-02-27T17:51:09.396208+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Altman-Rodgers Company v. Rogers."
+    ],
+    "opinions": [
+      {
+        "text": "Mehaeey, J.\nThe appellee brought suit in the White Circuit Court against the appellants to recover damages for an injury received on October 23, 1930.\nAppellee was employed by appellant as nightwatchman at appellant\u2019s mixing plant in White County. He went on duty on October 23d about six p. m. His working hours were from 6 p. m. to 6 a. m. Appellee kindled a small fire about 50 yards from the crane where he was injured, and then went down to the detour where A. O. Lyles was on duty, detouring traffic.\nIn perfoiuning his duties, appellee would make trips about the premises at intervals, and, in connection with the performance' of his duties, he carried a lighted lantern. Appellant\u2019s equipment included a crane, which was mounted on caterpillar tracks and operated by means of a gasoline motor. Underneath, the rear part of the crane was a gasoline tank of about 50 gallons capacity. This tank had to be filled from the inside of the crane.\nUnder the tank was a place from which gasoline could be drained out of the tank by unscrewing a three-eighths inch plug from a drain cock. The gasoline tank was filled from ten-gallon cans, which were kept in the oil house of appellant, about 50 yards from the crane. Appellant also had a five-gallon water bucket which was used to fill the radiator of the crane.\nWhile the appellee was with Lyles at the barricade, appellee\u2019s seventeen-year-old son, Herbert Rogers, and Robert Akin drove up in a Ford car. Appellee got in the car with them and drove down to the mixing plant. At about 7:30 or 8:00 appellee took his lantern and went to the crane, and a quantity of gasoline was either spilled or poured on him, and was ignited, and appellee was severely burned. He was carried to the doctor\u2019s office and then taken to the hospital at Beebe, where he remained until December 24, 1930.\nIt is appellee\u2019s contention that a can partly filled with gasoline was negligently left at the crane, and that this fell on him, pouring gasoline over him, which was ignited by the lantern that he was carrying.\nIt is the contention of the appellant that appellee got burned while getting gasoline out of the tank under the crane, for the purpose of supplying his son\u2019s car; that the employee, who it is alleged put the gasoline on the crane, was not engaged in labor on October 23 for the appellant, and that the witness who moved the gasoline can was not at the time working for the appellant, and that appellant was guilty of no negligence in connection with the accident and injury,'and is not liable to the appellee.\nThere was a verdict and judgment for the appellee, and the case is here on appeal.\nAppellant\u2019s first contention is that there is no substantial evidence to show that appellee\u2019s injuries were caused by any negligence on the part of the appellant.\n. W. H. Rogers, who is not a relative of the appellee, testified that he lived at Jacksonville, and worked for the Altman-Rodgers Company in October, 1930, and was working for appellant on the 23d -day of October, 1930, the day appellee was injured; that he was batching up the material, and that between five and six o\u2019clock that evening he went to get his raincoat, which was lying on the crane; that there was a 10-gallon can sitting on the crane about half full of gasoline. He had to pick up the can and move it over to get his raincoat. It was a 10-gallon can, and open at that time; the sides of the. can were straight. This witness then, on cross-examination, described the openings in the crane, the situation and the place where the gasoline can was sitting, and he was cross-examined at length about the bucket or can that was on the crane, and whether the one exhibited was the same or a different one.\nE. L. Walker, one of the appellants, testified \u2022 that he was working for appellant company at the time of the injury; that appellant company owned a filling station near the cranes, and that he attended to the filling station; was their gasoline man, and that it was his duty to furnish gas and oil for all the trucks and machines, and to check up when they needed it; that he usually filled the tank about 5:30, or around quitting time; that he was at the Altman-Rodgers place on the afternoon of October 23; that the mixer did not run that day, but that he was there and filled up the tank and filled up some trucks; that on the evening of October 23 he filled the gasoline tank on the crane; that he carried the gasoline from the filling station to the crane in a 10-gallon can. About the time he got through filling the tank, he had some left; the can was about half full; that it was his custom to carry any gasoline that he had left in the can to the filling station, but on that day he left the can sitting on the crane, where Rogers said he moved it to get his raincoat; that about the time he got through filling the tank some one called him, and he stepped off and carelessly forgot the gasoline can; that he did not intend leaving it there; that was the same evening that appellee got burned.\nW. H. Rogers also testified that after the appellee was injured he became nightwatchman on November 6 after the accident; that in February he moved into the office and found some time.sheets under Stallcup\u2019s desk rolled up in a bundle; he had heard the talk that Walker was not working on October 23, and that he and Pitts Morris, who was there with him, got to talking about it and looked at these time sheets, and saw that Walker had four hours on October 23d.\nIt appears therefore that there was substantial evidence to submit to the jury the question as to whether Walker, at the time he left the gasoline, was in the employ of the company in the performance of his duties. It is true that this evidence was contradicted by appellant\u2019s witnesses, who testified that Walker was not working that day. Wherever the evidence is in conflict, it is the province of the jury to determine the weight of the evidence and the credibility of the witnesses, and this question was submitted to the jury under proper instructions.\nThis court does not pass on either the credibility of the witnesses or the weight to be given to their testimony. If there is substantial evidence to support the verdict of the jury, this court cannot set aside the verdiet, although it might appear that it was against the preponderance of the evidence.\nAppellant contends that appellee got burned while getting gasoline out of the gasoline tank underneath- appellant\u2019s crane for the purpose of supplying the Ford car in which his son, Herbert, had driven up from Beebe. There is no evidence to support this theory. In fact, the evidence introduced by appellant contradicted this theory.\nThe evidence of young Rogers and Akin was introduced by appellant, and their evidence contradicts this idea, and also contradicts the idea that some one else was stealing gasoline, and, when appellee went to the crane, gasoline was thrown on him. Both these witnesses testify that there was nobody present at the crane, and Alexander testified that he was where he could see the crane and saw no one about the crane. It is contended, however, that there were persons there, because witnesses testify as to statements made by appellee immediately after the accident.\nThe undisputed proof shows that appellee was severely burned, and witnesses, including the nurse at the hospital, testified that it was the most severe burn they had ever seen. The jury had a right to believe the appellee when he said he did not make these statements.\nHowever, if he had made the statements and admitted it, this fact would simply have gone to his credibility as a witness, and the jury might still believe that he told the truth when he testified on the witness stand.\nAppellant introduced an article in the Arkansas Democrat in which it was stated that somebody was at the crane stealing gasoline, and that they threw the gasoline over appellee.\nAppellee testified that he never wrote the article, that he never authorized any one to write it, and that he knew nothing about it and did not make the statement.\nIt does not appear from the evidence why the doctor and nurse wanted to get a statement from appellee at the'time, when they knew he could not sign it, and his condition was such that the nurse admits that he had to lie down before he could complete his statement. She said he was sitting up in bed when he started the statement. The notary public says that he'not only did not sign the statement, but that he did not swear to it, and that he could not raise his hand, and it does not appear why the doctor and- nurse brought in a notary public for the purpose of taking his statement when he was in this condition, but, if he had made and signed the statement, and had admitted that he did, yet the jury had a right to believe his evidence, in which he described his condition, and told how the accident occurred.\nThe nurse, although she testified about discussing with appellee the statement published in the Democrat, finally admitted that she did not read it to him, that he did hot at any time state that he authorized the article, nor that he had any knowledge of it; that she did not read it to him, and did not tell him anything about it.\nDr. Sloan, whose statement was introduced by appellant, testified about appellee\u2019s condition when he was at the hospital; that he came there between 7:30 and 9 o\u2019clock on the evening of October 23, and remained in a semi-conscious condition about 48 hours, and he had considerable delirium after that. His mind was clear after he got over the shock, but he had considerable delirium all the way through, and that delirium periods kept up until some three or four weeks before he left the hospital. The burns were not healed when he left the hospital.\nAppellant introduced evidence as to finding pliers, supposed to be used to take the plug out pf the gasoline tank, and introduced a can and bucket, and also evidence that the gasoline had burned right under the tank where the gasoline could be drained out, and that there was no sign of fire on the side of the crane.\nIt is contended by appellant that appellee was stealing gasoline, and that it kvas ignited from his lantern, and that this caused the injury to appellee. They also contend that some one else was stealing gasoline and threw the gasoline on appellee, and that this was the way it occurred.\nThe jury might have believed that appellee could not, under the evidence in the case, have been getting gasoline from the tank, and after getting the gasoline screwed the plug in tight. They certainly would not have believed that he put the plug in tight, as appellant\u2019s witnesses say, after the burn, and they might have believed that, if other persons had got the gasoline and screwed the plug in tight before appellee got there, they would not have waited and thrown the gasoline on him, but would have gone on away with it.\nAll these are questions, however, of fact, and it was the province of the jury to determine where the truth lay.\nIt is next contended by the appellant that the court erred in refusing to submit to the jury the special interrogatories. They were as follows:\n1. Was the plaintiff injured by a can of gasoline turning over on him, which had been left in doorway of the crane?\n2. Was the plaintiff injured by gasoline thrown on him by some unknown person or persons?\n3. Was the plaintiff injured as a result of removing g'asoline from the gasoline tank of the crane?\nBach one of the requests were covered by the court\u2019s instructions to the jury, to which no objection was made by appellant.\n\"\u25a0 It was within the discretion of the trial court to submit to the jury the special requests or not, and the court did not abuse its discretion in refusing to require the special findings. L. R. & Ft. Smith Ry. Co. v. Pankhurst, 36 Ark. 371, 378; Surridge v. Ellis, 117 Ark. 223, 174 S. W. 537; Southern Life Ins. Co. v. Roberts, 173 Ark. 903, 294 S. W. 14; Stanley v. Smith, 135 Ark. 502, 205 S. W. 889.\nThe appellant does not complain about the instructions of the court nor the amount of the verdict.\nWe find no error, and the judgment is affirmed.",
+        "type": "majority",
+        "author": "Mehaeey, J."
+      }
+    ],
+    "attorneys": [
+      "Miller <& Tingling and Busbee, Pugh $ Harrison, for appellant.",
+      "Tom W. Campbell, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Altman-Rodgers Company v. Rogers.\nOpinion delivered April 4, 1932.\nMiller <& Tingling and Busbee, Pugh $ Harrison, for appellant.\nTom W. Campbell, for appellee."
+  },
+  "file_name": "0561-01",
+  "first_page_order": 581,
+  "last_page_order": 588
+}

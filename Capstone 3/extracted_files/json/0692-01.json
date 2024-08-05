@@ -1,0 +1,586 @@
+{
+  "id": 8724533,
+  "name": "Alexander v. Stuckey",
+  "name_abbreviation": "Alexander v. Stuckey",
+  "decision_date": "1923-07-02",
+  "docket_number": "",
+  "first_page": "692",
+  "last_page": "701",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "159 Ark. 692"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [
+    {
+      "cite": "144 N. W. 764",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "124 Minn. 239",
+      "category": "reporters:state",
+      "reporter": "Minn.",
+      "case_ids": [
+        201466
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/minn/124/0239-01"
+      ]
+    },
+    {
+      "cite": "27 Mont. 79",
+      "category": "reporters:state",
+      "reporter": "Mont.",
+      "case_ids": [
+        8587291
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mont/27/0079-01"
+      ]
+    },
+    {
+      "cite": "88 Ark. 395",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1517091
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/88/0395-01"
+      ]
+    },
+    {
+      "cite": "95 Ark. 618",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1543604
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/95/0618-01"
+      ]
+    },
+    {
+      "cite": "80 Ark. 369",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1491190
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/80/0369-01"
+      ]
+    },
+    {
+      "cite": "115 Ark. 317",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1533811
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/115/0317-01"
+      ]
+    },
+    {
+      "cite": "85 Ark. 230",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1523285
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/85/0230-01"
+      ]
+    },
+    {
+      "cite": "44 Ark. 139",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1893418
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/44/0139-01"
+      ]
+    },
+    {
+      "cite": "39 Ark. 412",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1898683
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/39/0412-01"
+      ]
+    },
+    {
+      "cite": "34 Ark. 603",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1875628
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/34/0603-01"
+      ]
+    },
+    {
+      "cite": "34 Ark. 559",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1875595
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/34/0559-01"
+      ]
+    },
+    {
+      "cite": "34 Ark. 375",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1875721
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/34/0375-01"
+      ]
+    },
+    {
+      "cite": "138 Ark. 471",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1566944
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/138/0471-01"
+      ]
+    },
+    {
+      "cite": "133 Ark. 138",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1575132,
+        1575092
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/133/0138-02",
+        "/ark/133/0138-01"
+      ]
+    },
+    {
+      "cite": "92 Ark. 155",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1548529
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/92/0155-01"
+      ]
+    },
+    {
+      "cite": "122 Ark. 418",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1558135
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/122/0418-01"
+      ]
+    },
+    {
+      "cite": "92 Ark. 67",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1548547
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/92/0067-01"
+      ]
+    },
+    {
+      "cite": "50 Ark. 266",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        8721860
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/50/0266-01"
+      ]
+    },
+    {
+      "cite": "117 Ark. 465",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1564913
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/117/0465-01"
+      ]
+    },
+    {
+      "cite": "89 Ark. 284",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1515217
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/89/0284-01"
+      ]
+    },
+    {
+      "cite": "36 Ark. 446",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1872459
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/36/0446-01"
+      ]
+    },
+    {
+      "cite": "52 Ark. 265",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1913407
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/52/0265-01"
+      ]
+    },
+    {
+      "cite": "42 Ark. 93",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        8721311
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/42/0093-01"
+      ]
+    },
+    {
+      "cite": "110 Ark. 544",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1337086
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/110/0544-01"
+      ]
+    },
+    {
+      "cite": "104 Ark. 298",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1350594
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/104/0298-01"
+      ]
+    },
+    {
+      "cite": "67 Ark. 30",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1152583
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/67/0030-01"
+      ]
+    },
+    {
+      "cite": "153 Ark. 188",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1362240
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/153/0188-01"
+      ]
+    },
+    {
+      "cite": "153 Ark. 50",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1362241
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/153/0050-01"
+      ]
+    },
+    {
+      "cite": "116 Ark. 291",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1532254
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/116/0291-01"
+      ]
+    },
+    {
+      "cite": "138 Ark. 381",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1566888
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/138/0381-01"
+      ]
+    },
+    {
+      "cite": "111 Ark. 108",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1540441
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/111/0108-01"
+      ]
+    },
+    {
+      "cite": "89 Ark. 466",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1515224
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/89/0466-01"
+      ]
+    },
+    {
+      "cite": "49 Ark. 110",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1309443
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/49/0110-01"
+      ]
+    },
+    {
+      "cite": "33 Ark. 816",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        8726426
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/33/0816-01"
+      ]
+    },
+    {
+      "cite": "32 Ark. 131",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1877189
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/32/0131-01"
+      ]
+    },
+    {
+      "cite": "148 Ark. 450",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        8721033
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/148/0450-01"
+      ]
+    },
+    {
+      "cite": "80 Ark. 333",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1491198
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/80/0333-01"
+      ]
+    },
+    {
+      "cite": "46 Ark. 296",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1890445
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/46/0296-01"
+      ]
+    },
+    {
+      "cite": "120 Ark. 166",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "157 Ark. 186",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1357192
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/157/0186-01"
+      ]
+    },
+    {
+      "cite": "138 Ark. 381",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1566888
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/138/0381-01"
+      ]
+    },
+    {
+      "cite": "157 Ark. 186",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1357192
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/ark/157/0186-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 836,
+    "char_count": 19350,
+    "ocr_confidence": 0.414,
+    "pagerank": {
+      "raw": 2.157020690497521e-07,
+      "percentile": 0.7693189834619701
+    },
+    "sha256": "bca479499afb72046b7b5bb8a64aeff3d2e6f90ef90f998eb98108ad62c8b043",
+    "simhash": "1:a1c794439aa859da",
+    "word_count": 3337
+  },
+  "last_updated": "2024-02-27T18:54:00.643605+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Alexander v. Stuckey."
+    ],
+    "opinions": [
+      {
+        "text": "Wood, J.\nAct No. 4 of the .Special Aets of 1921 provides for a local option stock law for Miller County. Special Acts, 1921, page 1. The first section of the act provides that, upon the petition of twenty-five per cent, of the qualified electors of any political township in Miller County, the county court or judge thereof shall order an election for such township at the general election, if there be one, within six months from the filing of the petition, and, if not, at a special election, to determine whether the stock law shall take effect in the township, as provided in subsequent sections of the act.\nThe second section provides that notice shall be published in four successive weekly editions of a newspaper having a bona fide circulation in the township, the first publication to be at least thirty days prior to the election, and not less than twenty written or printed notices of such election to be posted in as many public places in such township at least twenty days prior to the date of the election, and this section concludes as follows: \u2018 \u2018 Said election shall be held under the general election laws of the State as far as they are applicable.\u201d\nThis action was instituted by the appellants in the Miller Chancery Court against the appellees. In their complaint the appellants alleged that they were property owners and electors in Sulphur Township, Miller County, Arkansas, and owned stock on the range in that township; that on November 10,1921, an election to determine whether a majoritj^ of the electors was in favor of restraining stock from running at large was held in such township, under the orders of the county court previously made; that the election commissioners certified to the county court that a majority of four had voted in favor of restraining the owners of live stock from allowing same to run at large; that on December 31, 1921, the judge of said county court issued such restraining order; that said election, the election certificate and said restraining order were all void because the notice of said election was not published in four successive weekly editions of a newspaper, and the first publication thereof was less than thirty days prior to said election; that \u2022the appellees and others were wrongfully and unlawfully impounding appellants\u2019 stock and selling the same. The appellants then set. out the substance of the various provisions of the act of which they complain, from section seven to section ten, inclusive, and say: \u201cThe provisions of the act are unconstitutional because the owner of said animals, when impounded, is not given a day in court, nor is a hearing provided for him, and said act provides for taking property without due process of law,\u201d contrary to the State and Federal constitutions. The appellants prayed that the act and the election under it be declared null and void, and that the appel-lees be perpetually enjoined from attempting to enforce it.\nThe appellee demurred on the ground that the court was without jurisdiction, and also that the complaint did not state facts 'sufficient to constitute a cause of action, and answered denying all the material allegations of the. complaint. They pleaded the statute of limitations governing election contests in bar of the action, and set up laches as follows: That appellants \u201chave waited from the tenth of November, 1921, the day of said election, when they and all others in the township knew that a majority had voted in favor of restraining stock from running at large in said township, under the terms of said act, for a period of more than a year and a half, and thereby and on account thereof a great majority of fbe people in Sulphur Townr ship have permitted their fences with which they had their tillable lands inclosed to go down, decay and ruin, and that they have built pastures in which to. inclose and keep, their live stock, all of which has been done on .account of the laches of these plaintiffs and of others residing in that township who are cooperating and aiding or assisting these plaintiffs in their efforts to declare null and void the stock law election held in said township at the time aforesaid, and that to permit the plaintiffs and all others who are opposed to the stock law in Sulphur Township at this date to come in and upset tne conditions that have been brought about 'and that now exist therein, by reason of their laches in bringing this suit, would be ruinous, unjust and inequitable to a great majority of the people living therein.\u201d\nThe cause was submitted on the pleadings and upon oral testimony taken in open court by agreement of the parties, which has been properly brought into the record. The trial court entered a decree in favor of the appellees, dismissing the complaint for want of equity, from which is this appeal. \u2022\nThe appellants contend that the decree of the trial court is erroneous for two reasons: first, because the act is unconstitutional; and second, that the provisions of. the act requiring notice of the election were not complied with.\n1. Section 7 of the act provides that any person over the age of twenty-one years may impound stock or animals running at large, in a township where the law has become' operative, until his fees and damages, caused by such animals, are paid.\n\u2022 \u2018 .Section 8 provides for notice in writing to the owner, if known, .and that the owner shall be entitled to possession of the impounded stock \u201cupon payment or tender of the fees,' costs, and damag\u00e9s.\u201d\nSection 9 provides in part that \u201cthe damages caused by such stock dr animals may be ascertained by any three disinterested householders of such territory chosen by the parties interested, or by some justice of the peace therein, who shall take an oath to assess such damages fairly and honestly, and their assessment shall be final.\u201d\nSection 10 provides 'that if 'the owner, after receiving notice, shall neglect to pay the fees and damages, the person impounding the stock may sell the same at public auction to the highest bidder for cash, after having given, five days\u2019 notice of the time, place and teams of :sale, etc., and apply the proceeds of the sale, after deducting the cost thereof, to the satisfaction of his fees and damages.\nSection 11 provides that nothing in the act shall deprive the impounder from enforcing his claim for fees and damages in a court of competent jurisdiction, and gives him a lien on the impounded stock for the payment of his claim for fees and damages.\nSection 12 provides as follows: \u201cShould any part of this act he held to be unconstitutional, it shall nevertheless be held valid as to such parts as are constitutional. \u2019 \u2019\nNow, it will be observed that the act does not lay any penalty upon the owner of stock for permitting same to run at large in violation of the act, and make' such nenaltv nay able to the imoounder. It is made a misdemeanor for any owner or keener of stock to knowingly nermit same to run at large in any township where the act is ooerative. but the \"penalty therefor is not made pavable to the impounder of the stock. While the'im-pounder of stock under the act is allowed any damages sustained by him caused by such animals, nevertheless we are convinced, after a careful consideration of the act as a whole, that 'all of the provisions of the' act relating to damages may be eliminated, and a perfect workable act will remain. If seems clear to us that the Legislature would have enacted this statute, \u25a0 after all the provisions as to damages had been eliminated; if if had known that these provisions rendered the act unconstitutional. If the act be unconstitutional, it is only so because of these provisions as to damages, and section 12, as we construe it, is a declaration of the purpose of the Legislature not to permit the act to become invalid because of sudh provisions.\nThis court has held, in numerous decisions, \u201c.that, where a statute is unconstitutional in part, the valid portion will be sustained, if complete in itself, and capable of being- executed in accordance with the apparent legislative intent.\u201d One of the latest of our cases is that of Oliver v. Southern Trust Co., 138 Ark. 381-7. Other decisions of this court are cited there. It becomes therefore unnecessary to decide, and we do not decide, whether or not the act would be unconstitutional if the provisions as to damages were retained therein, because the appellants here do not raise an issue as to the (amount, if any, or the manner of ascertainment, of damages. No testimony is abstracted by the appellants showing that any damages were incurred, or laid and proved, specifically, as such.\n2. The appellants contend that the election was void because the notice was not given as required by law. In Patterson v. Adcock, 157 Ark. 186, the validity of the election held under this act was challenged. In that case we said: \u201cIt follows from these decisions that, where nothing is involved except the contest of the result of an election, the circuit court has jurisdiction. This, however, does not exclude the jurisdiction of the chancery court under all circumstances. On the contrary, we are of the opinion that, where property or contractual rights are involved in the result of an election putting into force a statute like the one involved in this inciuirv, the .ebaneerv court has jurisdiction to hear and determine the contest and to afford relief where the statute has not been properly put into force. * * * We do not think that the validity of the statute authorizing the formation of the district is affected by the fact that the statute makes no provision for a contest of the election. If a remedy exists in any \u00f3f the courts under the Constitution and general laws of the State, the special statute is not invalid by reason of its failure .to provide .a remedy.\u201d That opinion was rendered in February, 1923, and this action was instituted thereafter on April 4,1923.\nIt is provided in \u00a7 2 of the act that-\u201csaid election shall he held under the general election laws of the State, so far as they are applicable.\u201d In the general provisions of our election laws relating to contests, chapter 54, Crawford & Moses\u2019 Digest, is \u00a7 3847, as follows: \u201cAll actions to contest the election of Supreme Judges shall be commenced within one year after the election or commissioning of >said judges, and actions for contesting the elections of \u00a1all other officers herein mentioned within six months after they are elected or commissioned. \u2019 \u2019\nThe provisions of the act under review bringing the election under the control of the general election laws of the State, so far as they are applicable, subjects \u2022the election, which the appellants challenge in their complaint, to the above limitation under the general election laws. In Patterson v. Adcock, supra, we held that, although no specific provision was made for the election contest before the county court, nevertheless the chancery court has jurisdiction, where property or contractual rights are involved in the result of an election putting into force a \u00a1statute like this, to hear and determine the contest. As the act does not make any specific provision for instituting a contest, nor when same may be instituted, nor how it may be conducted and determined, it was undoubtedly the intention of the Legislature in these respects to. make the provisions of the general election laws \u2022apply where applicable. As w\u00e9 have seen by the section above quoted, the general election laws provide for \u00e1 limitation upon the time when election contests shall be commenced, and that limitation is six months for all other officers except the Judges of the Supreme Court. Surely the Legislature did not intend that as. important a matter as the time for contesting an election held under this act should be left unlimited \u2014 \u201cin the air,\u201d so to speak. The serious results that would follow such construction are outlined in the appellees\u2019 plea of laches. It occurs to us that actions such as this instituted in the chancery court to contest the result of 'an election under the act are analogous to any contest that might be brought under the general election laws to contest an election of officers, and that the same limitation should apply.. Under this interpretation there are definite and fixed rules governing such contests. Otherwise, there are no rules applicable thereto.\nIn State v. McKinley, 120 Ark. 166, the court had under consideration an act \u2019providing for the holding of elections in municipal corporation\u00a9, the concluding sentence of which reads as follows: \u201cAll elections shall be held and conducted in' the manner prescribed by law for holding State and county elections, as far as the same may be applicable.\u201d Answering the objection that the provisions of the general election laws did not apply to that act and that the same was in violation of article 5, \u00a7 23 of our Constitution, which provides \u201cthat no law shall be revived, amended, or the provisions thereof extended or conferred by reference to its title only,\u201d etc., we said: \u201cWhere the new act is not complete, but refers t\u00f3 a prior statute which is changed so that the legislative intent on the subject can only be ascertained by reading both statutes, uncertainty and confusion will exist, .and this constituted the vice sought to be prohibited by this clause of the Constitution. In the case before us the act is very broad and comprehensive. It is' complete in itself, and in no manner attempts to amend or change the existing election laws. On the contrary,\u2019 the general election laws are undisturbed and are in no wise affected by \u00a7 5433\u2019 pertaining to municipal elections. It is no objection to the statute that, in order to ascertain how elections in cities and towns shall be held, it becomes necessary to refer to existing laws relative to holding general elections for State and county officers\u201d (Citing oases). So here. Therefore .that part of \u00a7 2 of the act under consideration which provides that \u201csaid election shall be held under the general election laws of the State, so fiar as they are applicable,\u201d is not contrary to article 5, \u00a7 23 of the Constitution, and is applicable to elections under this law.\nWe conclude that the appellants\u2019 action to contest the result of the election is barred by the six months\u2019 limitation contained in the general election laws. The decree is in all things correct, and it is therefore 'affirmed.",
+        "type": "majority",
+        "author": "Wood, J."
+      },
+      {
+        "text": "McCulloch, C. J.,\n(concurring): I think that the reasons stated by the majority for affirming the judgment are in conflict with our decision in Patterson v. Adcock, 157 Ark. 186 (which should be treated as the law of this case), where we held that the statute under consideration does not contain any provision for the contest of the election. If that be correct, then the limitation in the general statute for contests.of elections has no application.\nI am further of the opinion that, if the election was invalid on account of failure to give notice as required by statute, a court of equity should grant relief regardless of a statute of limitation as to the contest of the election, for the attack on the validity of the election on account of a fatal defect appearing on the face of the proceedings would not be a contest within the meaning of the statute. However, I concur in the judgment of affirmance on the ground that there was substantial compliance with the statute with respect to notice of the election. There was publication in a daily newspaper more than thirty days before the election, and three subsequent publications in a weekly newspaper. The printed notices were posted in the township, as required by statute. The daily and the weekly newspapers were the same publications by the same concern except that one was issued daily and the other weekly, and the publication for the first time in the daily instead of the weekly was, I think, a mere technical omission, which did not affect the validity of the election.",
+        "type": "concurrence",
+        "author": "McCulloch, C. J.,"
+      }
+    ],
+    "attorneys": [
+      "Louis Josephs, James D. Head and Pratt P. Bacon, for appellants.",
+      "J. M. Garter and B. E. Garter, for appellees."
+    ],
+    "corrections": "",
+    "head_matter": "Alexander v. Stuckey.\nOpinion delivered July 2, 1923.\n1. . Statutes \u2014 partial invalidity. \u2014 Where a statute is unconstitutional in part, the valid portion will be sustained if complete in itself and capable of being executed in accordance with the apparent legislative intent.\n2. Animals \u2014 validity of stock law. \u2014 If Special Acts of 1921, No. 4, providing for a local option stock law in Miller County, be unconstitutional in so far as it provides for the ascertainment of damages by three disinterested householders, the remainder of the act is valid and enforceable, in view of \u00a7 12 providing that if any part of the act be held to be unconstitutional, it shall nevertheless be held valid as to such parts as are constitutional.\n3. Animals \u2014 contest of stock law election \u2014 limitation.\u2014Under Spec. Acts 1921, No. 4, \u00a7 2, providing that a stock law election under that act shall be held under the general election laws so far as applicable, an action to contest a stock law election is barred by the six months\u2019 limitation of the general election laws ' contained in Crawford & Moses\u2019 Dig., \u00a7 3847.\n4. Statutes \u2014 adoption of prior statute by reference. \u2014 Acts 1921, No. 4, \u00a7 2, providing that a stock law election under that act \u201cshall be held under the general election laws, so far as they are applicable,\u201d is not contrary to Const., art. 5, \u00a7 23, providing that \u201cno law shall be revived, amended or the provisions thereof extended or conferred by reference to its title only.\u201d\nAppeal from Miller Chancery Court; G. E. J ohnson, Chancellor;\naffirmed.\nLouis Josephs, James D. Head and Pratt P. Bacon, for appellants.\nAct No. 4, Acts of 1921, under which the election was held, is unconstitutional, violating sec. 8, art. 2, Constitution of Arkansas, and sec. 1, art. 14, Constitution of the United States, the \u201cdue process\u201d clause. Fort Smith v. Dodson, 46 Ark. 296; 80 Ark. 333; 30 S. W. (Tex.) 440 ; 99 N. W. (Neb.) 505; 61 L. R. A. (Ariz.) 410. The facts of Howell v. Dauget, 148 Ark. 450,'are altogether different from facts of this case. 32 Ark. 131; 33 Ark. 816. The provisions of the statute relating to damages being unconstitutional cannot be eliminated without destroying the intent and purpose of the act, leaving it incomplete and incapable of enforcement. 49 Ark. 110; 89 Ark. 466; 111 Ark. 108; 138 Ark. 381. The election was illegal, being held without giving the notice as required. Lewis v. Young, 116 Ark. 291; 153 Ark. 50; 153 Ark. 188; 67 Ark. 30; 104 Ark. 298; 110 Ark. 544; 42 Ark. 93; 52 Ark. 265; 36 Ark. 446; 89 Ark. 284; 117 Ark. 465, relied on by appellee, distinguished.\nJ. M. Garter and B. E. Garter, for appellees.\nThe election was valid, there having been substantial compliance with the statutory requirements as to notice. 36 Ark. 446; 50 Ark. 266; 89 Ark. 284; 92 Ark. 67; 117 Ark. 465; 122 Ark. 418. Statute not in conflict with \u201cdue process\u201d clauses of either State or Federal Constitutions. 80 Ark. 333; 148 Ark. 450; 46 Ark. 296; 92 Ark. 155; 133 Ark. 138; 138 Ark. 471. Contest of election- barred by statute, not instituted in time. Sec. 2, special act 4, Acts 1921; C. & M. Digest, \u00a7 3847. Chan-eery court was without jurisdiction. Appellants had adequate remedy at law. 133 Ark. 138; 34 Ark. 375; 34 Ark. 559; 34 Ark. 603; 39 Ark. 412; 44 Ark. 139; 85 Ark. 230; 115 Ark. 317; 80 Ark. 369; 95 Ark. 618; 88 Ark. 395; 27 Mont. 79; 124 Minn. 239; 144 N. W. 764."
+  },
+  "file_name": "0692-01",
+  "first_page_order": 718,
+  "last_page_order": 727
+}

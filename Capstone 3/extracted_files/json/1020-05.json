@@ -1,0 +1,78 @@
+{
+  "id": 12462903,
+  "name": "State, Respondent, v. DeLong, Petitioner",
+  "name_abbreviation": "State v. DeLong",
+  "decision_date": "2016-11-02",
+  "docket_number": "No. 93325-1",
+  "first_page": "1020",
+  "last_page": "1020",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "186 Wash. 2d 1020"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Wash.",
+    "id": 9029,
+    "name": "Washington Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 38,
+    "name_long": "Washington",
+    "name": "Wash."
+  },
+  "cites_to": [
+    {
+      "cite": "194 Wn. App. 1008",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        12451705,
+        12451706,
+        12451707,
+        12451708
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/194/1008-01",
+        "/wash-app/194/1008-02",
+        "/wash-app/194/1008-03",
+        "/wash-app/194/1008-04"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 27,
+    "char_count": 187,
+    "ocr_confidence": 0.858,
+    "sha256": "641a25599ec0819f1d68d2b2e286d11a15a4d70393de9e26060a00ea097e77be",
+    "simhash": "1:50b06aa238e965c5",
+    "word_count": 31
+  },
+  "last_updated": "2024-02-27T18:43:05.207238+00:00",
+  "provenance": {
+    "date_added": "2019-05-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "State, Respondent, v. DeLong, Petitioner,"
+    ],
+    "opinions": [
+      {
+        "text": "Petition for review of a decision of the Court of Appeals, No. 72829-6-I, May 23, 2016, 194 Wn. App. 1008. Denied November 2, 2016.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "State, Respondent, v. DeLong, Petitioner,\nNo. 93325-1."
+  },
+  "file_name": "1020-05",
+  "first_page_order": 1006,
+  "last_page_order": 1006
+}

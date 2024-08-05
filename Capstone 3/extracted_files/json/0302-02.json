@@ -1,0 +1,62 @@
+{
+  "id": 8727738,
+  "name": "Wynn vs. Garland",
+  "name_abbreviation": "Wynn v. Garland",
+  "decision_date": "1850-07",
+  "docket_number": "",
+  "first_page": "302",
+  "last_page": "304",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "11 Ark. 302"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 232,
+    "char_count": 3255,
+    "ocr_confidence": 0.479,
+    "sha256": "d1ac595c247503b6e9f13c8a8aa2a9c19f44a1cdb653b8f833ae08526d6c7265",
+    "simhash": "1:88b356a4efc1c078",
+    "word_count": 561
+  },
+  "last_updated": "2023-07-14T21:09:57.742091+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Wynn vs. Garland."
+    ],
+    "opinions": [
+      {
+        "text": "Mr. Justice Scott\ndelivered tbe opinion of the Court.\nIn this case it does not appear that the appeal was ever granted; but it was not indispensable that this should have appeared by an entry upon the docket, under the provisions of the statute. {Dig. 669, sec. 182, 183.) But there is still another more material defect. This was a judgment by default, and it in no way appears that any motion was made and refused within fifteen days after its rendition to set it aside; and unless it be true that such motion was made and refused, the justice had no power to grant an appeal.\nIt is clear, therefore, that the court below erred in assuming jurisdiction of the cause and in rendering a judgment of non-suit against Wynn, and this judgment must therefore be quashed.",
+        "type": "majority",
+        "author": "Mr. Justice Scott"
+      }
+    ],
+    "attorneys": [
+      "Pike & Cummins, for the plaintiff.",
+      "Watkins & CurRan, contra."
+    ],
+    "corrections": "",
+    "head_matter": "Wynn vs. Garland.\nThe failure of a justice to enter an order granting an appeal upon his docket, is not fatal to the jurisdiction of the circuit court, if the appellant has complied with all the requisitions of law on his part necessary to entitle him to an appeal. Digest, sec. 182, p. 668.\nBut where the judgment is by default, and the defendant appeals without having applied to the justice to set it aside within fifteen days after it is renderedi the appeal should.be dismissed for want of jurisdiction. Digest, sec. 175, p. 667.\nWrit of Error to Lafayette Circuit Court.\nWilliam Wynn sued Josiah Garland, before a justice of the peace of Lafayette county, on an open account, and, on the 17th of October, 1846, the return day of the summons, took judgment by default for the amount of the account.\nAfterwards defendant filed the following affidavit for an appeal ;\n\u201c STATE OF ARKANSAS,)\nCounty op Laeayette,\nTownship of La Grange.\n> )\nBefore me, the undersigned, justice of the peace for the county and State aforesaid, appeared Josiah Garland, defendant in this suit, wherein judgment has been rendered in favor of said William Wynn, plaintiff, and prays an appeal to the circuit court, and makes and subscribes the following oath: That he does not take an appeal for the purpose of delay, but that justice may be done him. J. GARLAND.\nSworn to and subscribed before me, this 27th October, 1846.\nAttest, John Waggoned,, J.P.\u201d\nIt does not appear, from the transcript of the justice, that defendant made any motion to set aside the judgment by default previous to applying for an appeal, nor does it appear that the justice made any order granting the appeal. The defendant, however, entered into an appeal recognizance, and afterwards a transcript of the proceedings before the justice, with the original papers, was filed in the circuit court.\nIn the circuit court, May term, 1849, Quillen, Judge, presiding, Wynn moved the court to dismiss the appeal, but the court overruled the motion. He then declined taking any further step in the case. Whereupon Garland moved the court for judgment of non-suit, which motion was sustained, and judgment that he go gence, &c.\nPike & Cummins, for the plaintiff.\nThe circuit court possessed no jurisdiction of the case, because there was no grant of appeal (lEng. 182. 2 Eng. 203. \u00cd6295. Ib. 386 lb. 514.) and because there was no motion made and refused to set aside the judgment by default. Dig., ch. 95, sec. 175.\nWatkins & CurRan, contra."
+  },
+  "file_name": "0302-02",
+  "first_page_order": 302,
+  "last_page_order": 304
+}

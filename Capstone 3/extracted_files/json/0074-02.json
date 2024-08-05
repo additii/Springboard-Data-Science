@@ -1,0 +1,79 @@
+{
+  "id": 8727702,
+  "name": "Roane et al., use Biscoe et al. vs. Williams et al.",
+  "name_abbreviation": "Roane v. Williams",
+  "decision_date": "1851-07",
+  "docket_number": "",
+  "first_page": "74",
+  "last_page": "76",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "12 Ark. 74"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [
+    {
+      "cite": "5 Ark. 465",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        8727566
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/5/0465-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 304,
+    "char_count": 4812,
+    "ocr_confidence": 0.503,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.20862741418515132
+    },
+    "sha256": "1954d5a433ff3c6333d141aca3408295563a05afde3f0fbcc08d039aa041edf9",
+    "simhash": "1:38174ac70ae75a5a",
+    "word_count": 858
+  },
+  "last_updated": "2024-02-27T17:36:17.662704+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Roane et al., use Biscoe et al. vs. Williams et al."
+    ],
+    "opinions": [
+      {
+        "text": "Mr. Chief Justice Johnson\ndelivered the opinion of the Court.\nThs case of Biscoe et al. vs. Sneed et al., (6 Eng. Rep. 106,) is conclusive of the question here presented. The bar set up by the plea here is, that the deed of assignment had been executed and delivered before the institution of the suit, and that such deed operated per se to convey the legal interest in the note to the trustees, who held under the deed, and that consequently the plaintiffs, who were the original trustees, could not maintain the suit. The note upon which this suit is founded, and which was exhibited .upon oyer, is payable to particular persons therein specified, an?T not to bearer, and consequently the legal title in it could not pass merely by delivery. This court, in the case referred to, after citing all the cases which had previously been determined involving the same question, expressly declared that the deed of assignment did not, per se, convey the legal interest in the note, and that consequently the Trustees could not have maintained a suit at all in their own names, the equitable interest alone having passed. The transfer of the note in suit by virtue of the deed of assignment, is the only matter set up by the plea to this action, and that is wholly insufficient for the purpose as expressly held in the case in 6th English, already referred to. There cannot exist a doubt as to the right of the original Trustees to maintain this suit for the use and benefit of the Trustees, under the deed of assignment, so far as any thing appears to the contrary upon the face of the plea! The Circuit Court, therefore, erred in overruling the demurrer to the plea, and, for this error, its judgment must be reversed, and the cause remanded, to be proceeded in according to law and not inconsistent with this opinion 1",
+        "type": "majority",
+        "author": "Mr. Chief Justice Johnson"
+      }
+    ],
+    "attorneys": [
+      "Pike & Cummins, for the appellants.",
+      "Flanagin, contra."
+    ],
+    "corrections": "",
+    "head_matter": "Roane et al., use Biscoe et al. vs. Williams et al.\nThe legal title to a note, executed to the original Trustees of the Real Estate Bank did not pass, by virtue of the provisions of the deed of assignment, to the Residuary Trustees therein provided for \u2014 the equitable interest only passed \u2014 and a suit upon such note is properly brought in the name of the original trustees, for the use of the Residuary Trustees. Biscoe st al. vs. Sneed et al., 6 Eng. R. 106.\nAppeal from the Clark Circuit Court.\nThis was an action of debt, in the Clark Circuit Court, on a note executed by Williams, Wilson and Clingmen, January 1st, 1844, to Sam C. Roane, Lambert Reardon, Ebenezer Walters, Henry L. Biscoe, William F. Moore, John Preston, Jr., Anthony H. Davies, Sandford C. Faulkner, Silas Craig, George Hill, Enoch J. Smith, James H. Walker, John Drennen, Lorenzo N. Clark and Robert S. Gibson, due 1st January, 1845, for $300 24. The note describes the payees as Trustees of the Real Estate Bank of the State of Arkansas, and is payable to them and their successors and survivors. The suit was brought in the name of all the payees but the two last, whom the declaration avers to be dead, for the use of Henry L. Biseoe, Sandford C. Faulkner, George Hill, John Drennen and Ebenezer Walters, Residuary Trustees of the Bank aforesaid.\nProcess was executed on Williams and Clingman. Oyer prayed and granted at September term, 1849.\nPlea in bar: That the note sued on was not the property of the plaintiffs when the suit was brought, (September 12, 1846,) but was the property, and whole legal interest vested in the five persons for whose use the suit was brought: that Walters and Hill have departed this life, and have been succeeded since the commencement of this suit by Luther Chase and James H. Walker; that said Trustees derived their power solely from a deed executed by a deed from the Real Estate Bank of the State Bank of the State of Arkansas; that one of the stipulations in said deed consisted of a provision that the whole interest should pass from said Trustees to said five Residuary Trustees, and that said five persons became and were said Trustees.\nDemurrer to this plea was overruled, judgment thereon, and appeal.\nThe cause was determined before the Honorable Josiah Gould,Judge.\nPike & Cummins, for the appellants.\nThe plea does not show that the plaintiffs had been divested of their interest in the note by endorsement or assignment; nor whether the deed was made before or after the note. The note sued on would not pass by delivery. (Roane et al. vs. Lafferty, 5 Ark. 465.) If the change of the Trustees could produce any effect, as held in Pickett vs. Roane et al., (2 Eng. 250.) it would be good in abatement, not in bar.\nThe plea merely shows an equitable interest in the Residuary Trustees.\nFlanagin, contra.\nThis case is precisely parallel and in all things the same as Roane et al. vs. Brodie et al., 2 Eng. R. 264.\njSorE(<z) \u2014 This is the language of the plea, \u2014 Reporter."
+  },
+  "file_name": "0074-02",
+  "first_page_order": 74,
+  "last_page_order": 76
+}

@@ -1,0 +1,296 @@
+{
+  "id": 1355664,
+  "name": "Metal Furniture Company v. Goss",
+  "name_abbreviation": "Metal Furniture Co. v. Goss",
+  "decision_date": "1923-04-02",
+  "docket_number": "",
+  "first_page": "145",
+  "last_page": "149",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "158 Ark. 145"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [
+    {
+      "cite": "126 Ark. 300",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1551690
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/126/0300-01"
+      ]
+    },
+    {
+      "cite": "121 Ark. 185",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1559444
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/121/0185-01"
+      ]
+    },
+    {
+      "cite": "70 Ark. 512",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1509543
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/70/0512-01"
+      ]
+    },
+    {
+      "cite": "92 Ark. 586",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1548553
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/92/0586-01"
+      ]
+    },
+    {
+      "cite": "122 Ark. 100",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1558163
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/122/0100-01"
+      ]
+    },
+    {
+      "cite": "121 Ark. 570",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1559413
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/121/0570-01"
+      ]
+    },
+    {
+      "cite": "46 Ark. 141",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1890480
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/46/0141-01"
+      ]
+    },
+    {
+      "cite": "48 Ark. 495",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1887758
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/48/0495-01"
+      ]
+    },
+    {
+      "cite": "21 Ark. 349",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1868251
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/21/0349-01"
+      ]
+    },
+    {
+      "cite": "90 Ark. 78",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1513832
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/90/0078-01"
+      ]
+    },
+    {
+      "cite": "77 Ark. 546",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1499049
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/77/0546-01"
+      ]
+    },
+    {
+      "cite": "72 Ark. 343",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1505625
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/72/0343-01"
+      ]
+    },
+    {
+      "cite": "109 Ark. 275",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1341177
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/109/0275-01"
+      ]
+    },
+    {
+      "cite": "124 S. W. 1042",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "93 Ark. 277",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1546839
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/93/0277-01"
+      ]
+    },
+    {
+      "cite": "121 Ark. 439",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1559440
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/121/0439-01"
+      ]
+    },
+    {
+      "cite": "121 S. W. 737",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "91 Ark. 422",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1511746
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/91/0422-01"
+      ]
+    },
+    {
+      "cite": "94 Ark. 318",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1545406
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/94/0318-01"
+      ]
+    },
+    {
+      "cite": "94 Ark. 318",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1545406
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/94/0318-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 456,
+    "char_count": 8837,
+    "ocr_confidence": 0.493,
+    "pagerank": {
+      "raw": 7.728108280744093e-08,
+      "percentile": 0.4543633624971958
+    },
+    "sha256": "02e55e3fc1f64e86c367c25b1b929f8b6d0c8a139b4e9d118f46459d4fe56e2d",
+    "simhash": "1:5e61041a72e5de31",
+    "word_count": 1568
+  },
+  "last_updated": "2024-02-27T17:41:16.235499+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Metal Furniture Company v. Goss."
+    ],
+    "opinions": [
+      {
+        "text": "Hart, J.,\n(after stating the facts). In the Southern Produce Co. v. Oteri, 94 Ark. 318, it was held that, where merchandise is shipped to a retail dealer to be resold, and he has no opportunity to inspect it, there is an implied warranty that the goods were in condition to stand shipment and be in condition for resale when they arrived at destination. It was also held that the measure of damages in such cases is the difference between the price fixed by the contract and the market value of the goods in a merchantable condition at the time and place of delivery. In that case it was also held that the delivery of the goods by a seller to a common carrier, properly addressed to the. buyer, is, in effect, a delivery to the buyer, and, if any loss occurs to the goods during the carriage, it becomes the loss of the purchaser.\nThe present case was tried according to the principles of law laid down in that opinion, and-the only assignment of error relied upon for a reversal of the judgment in this case is that the evidence is not legally sufficient to support the verdict.\nIt is claimed by counsel for the plaintiff that the evidence is too indefinite, and that it does not show whether or not the defective condition of the beds was due to damage suffered by them in shipment, or whether they were defective when delivered to the carrier.\nWe cannot agree with counsel in this contention. The defendant bought 365 beds from the plaintiff, and, according to his testimony, all of them were in a defective condition. Between fifty and seventy-five of them were wholly worthless, and all of them were so defect tive that he had to sell them for less than cost. The beds were wrapped in excelsior, and the defendant did not know that they were damaged until they were unwrapped upon being sold. When they were unwrapped, the paint would fall off in flakes, and the iron of the beds would be rusty where the paint fell off. It is fairly inferable from this that the paint fell off because the iron was not properly cleaned before the beds were painted. Hence the jury might have found that this item of damage was not caused while the beds were in the hands of the carrier. The locks would break off of some of the beds when they Avere set up. It is inferable from the testimony that this occurred because the casting was defective.\nWhile the defendant did not keep an itemized list of the defects on each bed, he does testify, that as many as fifty of the beds were wholly worthless, and that all of them were more or less defective, causing him to sell them at a loss. He averaged his loss at $1,500. The purchase price was $2,665.03. Of this amount he paid all but $856.81. The defendant only recovered judgment against the plaintiff for $100. Therefore we are of the opinion that, when all the circumstances are considered, the evidence is legally sufficient to support the verdict. The fact that the defendant made a claim against the railroad company does not preclude him from maintaining the present suit. The railroad company refused his claim for damages on the ground that it had not damaged the beds in the course of carriage. This was a question of fact presented by the pleadings and proof in this case, and the jury, by its verdict, has found that the damages occurred on account of the defective condition of the beds at the time they were delivered- to the carrier, and, as above stated, the evidence of the defendant supports the verdict.\nThe judgment will therefore be affirmed.",
+        "type": "majority",
+        "author": "Hart, J.,"
+      }
+    ],
+    "attorneys": [
+      "Choens do Ehrman, for appellant.",
+      "Norwood & Alley, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Metal Furniture Company v. Goss.\nOpinion delivered April 2, 1923.\n1. Sales \u2014 implied warranty. \u2014 Where merchandise is shipped to a retail dealer to toe resold, and he has no opportunity to inspect it, there is an implied warranty that the goods were in condition to stand shipment and be in condition for resale on arrival at destination.\n2. \u25a0 Damages \u2014 measure of damages for defects in goods sold.\u2014 Where goods shipped to a retailer do not comply with the implied warranty as to their salability, the measure of damages is the difference between the contract price and the market value of the goods in a merchantable condition at the time and place of delivery.\n3. Sales \u2014 delivery to carrier. \u2014 Goods delivered by a seller to a common carrier, properly addressed to the buyer, are in effect delivered to the buyer, and he becomes liable for any loss occurring during the carriage.\n4. Sales \u2014 suit for purchase money \u2014 counterclaim.\u2014In a suit to recover for the purchase money of goods sold, evidence held to sustain a counterclaim for damages on account of the defective condition of the goods.\nAppeal from Polk Circuit Court, James S. Steel, Judge;\naffirmed.\nSTATEMENT OE EAOTS.\nThe Metal Furniture Company sued J. B. Goss to recover $856.81, alleged to be the balance of the purchase price of a car of beds sold by the plaintiff to the defendant. The defendant admitted purchasing the oar of beds at the price mentioned in the complaint, but file.d a counterclaim for $1,460 damages on account of the defects and damaged condition of the beds when they were received by him.\nIt appears from the record that the plaintiff is a corporation organized and doing business under the laws of the State of Indiana, and that the defendant is a merchant in Mena, Ark. The plaintiff sold to the defendant 365 beds, ranging in price from $2.85 to $16.80, aggregating $2,665.03. The plaintiff knew that the defendant purchased them to sell at retail in his store at Mena, Ark. The defendant paid $1,808.22 of the purchase price, leaving a balance due of $856.68.\nThe beds were wrapped in excelsior and covered with paper, tied on with twine. Notwithstanding this wrapping, when they were first received the defendant discovered that some of them were defective, and put in a claim against the railroad company for $200. The claim was denied by the railroad company, and the defendant discovered, as he sold the beds, that they were more damaged than he at first thought. The beds were not unwrapped until they were sold. According to the testimony of the defendant himself, between fifty and seventyjfive of the beds were wholly worthless, and the balance of them were in a defective condition when received. According to the testimony of one of his clerks, between sixty and seventy of the beds were in a damaged condition when they were received. According- to the evidence for the defendant, it was also shown that all of the beds were rusted, and the paint fell off of them on account of the rust. When the beds were unwrapped, the paint would fall off in flakes, and it would be ascertained that the metal of the beds had not been cleaned of rust before they were painted. The damage to the beds amounted to $1,500. According to the evidence for the plaintiff, the beds were in good condition when they left its factory., Other evidence will be stated or referred to in the opinion.\nThe jury returned a verdict for the defendant on his counterclaim for $100, and from the judgment rendered the plaintiff has duly prosecuted an appeal to this court.\nChoens do Ehrman, for appellant.\nThe verdict is contrary to law and not supported by the evidence. The title to the shipment of beds passed on delivery to the carrier, and if loss occurred during carriage it must be borne by the purchaser, appellee. Southern Produce Go. v. Oteri, 94 Ark. 318, 126 \u00a13. W. 1065; Harper v. State, 91 Ark. 422; 121 S. W. 737. Proof shows much of damage occurred in transit, and. a \u25a0claim was filed for appellee against the railroad. If there was a breach of warranty, the measure of damages would be the difference between the value of the goods as warranted and the market value at the time and place of delivery. 24 R. C. L. 254. Williams v. New-kirk, 121 Ark. 439,181 S. \"W. 304. There was no attempt to establish the market value of the beds as delivered. Leifer Mfg. Go. v. Goss, 93 Ark. 277; 124 S. W. 1042.\nNorwood & Alley, for appellee.\nVerdict is amply sustained by the evidence. Evidence in Leifer case, 93 Ark. 277, cited by appellant, very different from instant case. Damages could be ascertained with reasonable certainty. Smeltser v. Tippin, 109 Ark. 275. Never was an implied warranty. Bunch v. Weil, 72 Ark. 343; Truschel v. Dean, 77 Ark. 546; Am. Standard Jewelry Go. v. Hill, 90 Ark. 78. Appellee testified there was an express warranty. Market value was established. Tatum v. Mohr, 21 Ark. 349. The verdict will not be disturbed where there is any substantial evidence to support it. St. L. 1. M. & S. By. Co. v. White, 48 Ark. 495; American Ins. Go. v. Dannehower, 89 Ark. Ill: McCoy v. State, 46 Ark. 141; National Fruit Products Go. v. Garrett, 121 Ark. 570; Brown v. Norred, 122 Ark. 100; Wiley v. State, 92 Ark. 586; Stiewel v. American Surety Go., 70 Ark. 512; National American v. Ritch, 121 Ark. 185; Jones v. Hunter, 126 Ark. 300."
+  },
+  "file_name": "0145-01",
+  "first_page_order": 169,
+  "last_page_order": 173
+}

@@ -1,0 +1,76 @@
+{
+  "id": 12462777,
+  "name": "Emerson et al., Petitioners, v. Island County, Respondent",
+  "name_abbreviation": "Emerson v. Island County",
+  "decision_date": "2016-08-31",
+  "docket_number": "No. 93050-3",
+  "first_page": "1004",
+  "last_page": "1004",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "186 Wash. 2d 1004"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Wash.",
+    "id": 9029,
+    "name": "Washington Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 38,
+    "name_long": "Washington",
+    "name": "Wash."
+  },
+  "cites_to": [
+    {
+      "cite": "194 Wn. App. 1",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        12451623
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/194/0001-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 30,
+    "char_count": 202,
+    "ocr_confidence": 0.851,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.25765826501853967
+    },
+    "sha256": "ea328ec1fc6c1b9cf1b5e8122e093f4598e500e7c45ff9d5c2617424c8bb8029",
+    "simhash": "1:651360f255c55439",
+    "word_count": 34
+  },
+  "last_updated": "2024-02-27T18:43:05.207238+00:00",
+  "provenance": {
+    "date_added": "2019-05-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Emerson et al., Petitioners, v. Island County, Respondent,"
+    ],
+    "opinions": [
+      {
+        "text": "Petition for review of a decision of the Court of Appeals, No. 73208-1-I, March 28, 2016, 194 Wn. App. 1. Denied August 31, 2016.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Emerson et al., Petitioners, v. Island County, Respondent,\nNo. 93050-3."
+  },
+  "file_name": "1004-03",
+  "first_page_order": 990,
+  "last_page_order": 990
+}

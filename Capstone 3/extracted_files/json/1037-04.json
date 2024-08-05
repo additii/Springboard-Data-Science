@@ -1,0 +1,76 @@
+{
+  "id": 12457140,
+  "name": "Deutsche Bank Nat'l Tr. Co., Respondent, v. Slotke, Petitioner",
+  "name_abbreviation": "Deutsche Bank Nat'l Tr. Co. v. Slotke",
+  "decision_date": "2016-06-29",
+  "docket_number": "No. 92868-1",
+  "first_page": "1037",
+  "last_page": "1037",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "185 Wash. 2d 1037"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Wash.",
+    "id": 9029,
+    "name": "Washington Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 38,
+    "name_long": "Washington",
+    "name": "Wash."
+  },
+  "cites_to": [
+    {
+      "cite": "192 Wn. App. 166",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        12456055
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/192/0166-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 32,
+    "char_count": 209,
+    "ocr_confidence": 0.871,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.25742485372699336
+    },
+    "sha256": "1ccc004f4b9def97d3b3c39b5a7cdd1a2a8689af62e6395cb712a4fad1305a86",
+    "simhash": "1:00b9f7f339e7ed9f",
+    "word_count": 36
+  },
+  "last_updated": "2024-02-28T00:06:59.447104+00:00",
+  "provenance": {
+    "date_added": "2019-05-22",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Deutsche Bank Nat\u2019l Tr. Co., Respondent, v. Slotke, Petitioner,"
+    ],
+    "opinions": [
+      {
+        "text": "Petition for review of a decision of the Court of Appeals, No. 73631-1-1, January 11, 2016, 192 Wn. App. 166. Denied June 29, 2016.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Deutsche Bank Nat\u2019l Tr. Co., Respondent, v. Slotke, Petitioner,\nNo. 92868-1."
+  },
+  "file_name": "1037-04",
+  "first_page_order": 989,
+  "last_page_order": 989
+}

@@ -1,0 +1,59 @@
+{
+  "id": 8725995,
+  "name": "Thompson vs. Thompson",
+  "name_abbreviation": "Thompson v. Thompson",
+  "decision_date": "1843-01",
+  "docket_number": "",
+  "first_page": "18",
+  "last_page": "18",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "5 Ark. 18"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 125,
+    "char_count": 1382,
+    "ocr_confidence": 0.484,
+    "sha256": "953b829a612db90b4b14a27f6bfd276985b4bda5fb1bca35c7c6b1e5dbe1d34a",
+    "simhash": "1:fa2b00ad1b1faabc",
+    "word_count": 249
+  },
+  "last_updated": "2023-07-14T20:02:08.123138+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Thompson vs. Thompson."
+    ],
+    "opinions": [
+      {
+        "text": "By the Court,\nPaschal, J.\nThe only point which it becomes necessary for the Court to decide, is as to the question of interest. The note declared on fell due 25th December, 1839. Judgment was rendered November 15th, 1841. The exact amount of interest is $22 66 cents. The amount of damages, by way of interest, rendered in the judgment, is twenty-four dollars. De minimis non curat lex is a mixim of the law, but as the defendant had a right to appear in this Court, and amend-the record, by entering a remititur as to the excess of interest, and as he has failed to appear here and make any such motion, or to take any steps whatever, we are bound to regard the error as one by which the rights of the plaintiff in error have been prejudiced, and to direct the reversal of the judgment below.\nJudgment reversed.",
+        "type": "majority",
+        "author": "Paschal, J."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Thompson vs. Thompson.\nWhere, in a suit on a noto, judgment is rendered for $24, and the exact amount of interest is ascertained by this Court, by calculation, to be $22 66 cents, the judgment will be reversed, notwithstanding the maxim de minimis non curat les.\nThis was an action of debt, brought by Joseph Thompson against Davis Thompson, and determined in November, 1841, in the Phillips Circuit Court, before the Hon. Isaac Baker, one of the circuit judges. No statement of the case is necessary. It was argued here by W. & E. Cummins, for the plaintiff in error."
+  },
+  "file_name": "0018-02",
+  "first_page_order": 18,
+  "last_page_order": 18
+}

@@ -1,0 +1,62 @@
+{
+  "id": 4355952,
+  "name": "The Federal National Mortgage Association, its Successors and/or Assigns, Respondent, v. Ronald Steinmann et al., Petitioners",
+  "name_abbreviation": "Federal National Mortgage Ass'n v. Steinmann",
+  "decision_date": "2014-10-23",
+  "docket_number": "No. 90117-1",
+  "first_page": "753",
+  "last_page": "756",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "181 Wash. 2d 753"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Wash.",
+    "id": 9029,
+    "name": "Washington Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 38,
+    "name_long": "Washington",
+    "name": "Wash."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 244,
+    "char_count": 3550,
+    "ocr_confidence": 0.729,
+    "sha256": "45cbec1fae332d398b2c68cc030cf6421d795ea17390608cc3a9ca7cb8f4306c",
+    "simhash": "1:51f7fba219cc94bd",
+    "word_count": 591
+  },
+  "last_updated": "2023-07-14T16:05:34.365111+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "The Federal National Mortgage Association, its Successors and/or Assigns, Respondent, v. Ronald Steinmann et al., Petitioners."
+    ],
+    "opinions": [
+      {
+        "text": "\u00b61 Ronald and Kathleen Steinmann defaulted on a home loan secured by a deed of trust and failed to cure the default. The trustee ultimately sold the Steinmanns\u2019 Clark County home at a trustee\u2019s sale to the highest bidder, Federal National Mortgage Association (Fannie Mae). Having thus obtained title to the property, Fannie Mae sent the Steinmanns a 20-day notice to vacate. When the Steinmanns refused to leave, Fannie Mae filed a complaint for unlawful detainer. See RCW 59.12.032; RCW 61.24.040, .060. The trial court granted Fannie Mae\u2019s motion for summary judgment and issued a writ of restitution in its favor. The record on appeal does not indicate that Fannie Mae requested attorney fees, and the trial court did not award any.\nPer Curiam\n\u00b62 On the Steinmanns\u2019 appeal, the Court of Appeals affirmed and awarded Fannie Mae attorney fees under the Residential Landlord-Tenant Act of 1973, chapter 59.18 RCW, and the terms of the deed of trust. The Steinmanns subsequently filed a petition for review in this court, challenging the restitution order and the attorney fees award. We grant review only on the issue of attorney fees and vacate the award.\n\u00b63 The unlawful detainer statute contains no provision for the award of attorney fees. See ch. 59.12 RCW. The deed of trust here authorized the lender (and by implication the borrower) to recover attorney fees in any action to \u201cconstrue or enforce any term\u201d of the instrument. But Fannie Mae was not a party to the deed of trust, and it does not claim to have purchased the debt. The deed of trust as a security instrument effectively disappeared by the time Fannie Mae took title to the property. And though the unlawful detainer action was authorized under the deeds of trust act, see RCW 61.24.040, .060, the action was not one to \u201cconstrue or enforce\u201d the deed of trust; the sole objective was to force the Steinmanns off the property so that Fannie Mae could take possession as the new owner.\n\u00b64 Nor does the Residential Landlord-Tenant Act apply in these circumstances. Under the act, costs and attorney fees are available to a landlord who obtains a writ of restitution against a holdover tenant. RCW 59.18.290(2). But the Steinmanns did not occupy the home pursuant to a rental agreement establishing a landlord-tenant relationship between them and Fannie Mae. See RCW 59.18-.030(19), (21). And Fannie Mae\u2019s right to possession of the premises derived solely from its purchase of the property at the trustee\u2019s sale, not from the termination of a rental agreement. Thus, when the Steinmanns refused to comply with Fannie Mae\u2019s notice to vacate, they were not residential tenants holding over after the termination of a rental agreement so as to entitle Fannie Mae to attorney fees under the Residential Landlord-Tenant Act.\n\u00b65 In sum, the Court of Appeals erred in awarding Fannie Mae attorney fees under the deed of trust and the Residential Landlord-Tenant Act. The petition for review is granted on the issue of appellate attorney fees, and the award is reversed and vacated.\nSince we vacate the Court of Appeals award of attorney fees, Fannie Mae\u2019s request for attorney fees for answering the petition for review is denied. RAP 18.1(j).",
+        "type": "majority",
+        "author": "Per Curiam"
+      }
+    ],
+    "attorneys": [
+      "Brian H. Wolfe (of Brian H. Wolfe PC), for petitioners.",
+      "Joshua B. Lane and Robert W. Norman Jr. {o\u00ed Houser & Allison APC), for respondent."
+    ],
+    "corrections": "",
+    "head_matter": "[No. 90117-1.\nEn Banc.]\nConsidered October 9, 2014.\nDecided October 23, 2014.\nThe Federal National Mortgage Association, its Successors and/or Assigns, Respondent, v. Ronald Steinmann et al., Petitioners.\nBrian H. Wolfe (of Brian H. Wolfe PC), for petitioners.\nJoshua B. Lane and Robert W. Norman Jr. {o\u00ed Houser & Allison APC), for respondent."
+  },
+  "file_name": "0753-01",
+  "first_page_order": 795,
+  "last_page_order": 798
+}

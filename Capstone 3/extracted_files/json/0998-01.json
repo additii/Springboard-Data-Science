@@ -1,0 +1,157 @@
+{
+  "id": 8726720,
+  "name": "Cormack v. Missouri State Life Insurance Company",
+  "name_abbreviation": "Cormack v. Missouri State Life Insurance",
+  "decision_date": "1933-02-20",
+  "docket_number": "4-2838",
+  "first_page": "998",
+  "last_page": "1000",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "186 Ark. 998"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [
+    {
+      "cite": "237 S. W. 694",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "152 Ark. 89",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1364154
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/152/0089-01"
+      ]
+    },
+    {
+      "cite": "177 S. W. 4",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "118 Ark. 448",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1562523
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/118/0448-01"
+      ]
+    },
+    {
+      "cite": "151 S. W. 283",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "105 Ark. 324",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1347047
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/105/0324-01"
+      ]
+    },
+    {
+      "cite": "141 S. W. 492",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "101 Ark. 90",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1310964
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/101/0090-01"
+      ]
+    },
+    {
+      "cite": "102 S. W. 372",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "82 Ark. 490",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1529005
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/82/0490-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 237,
+    "char_count": 3026,
+    "ocr_confidence": 0.526,
+    "pagerank": {
+      "raw": 2.0446031217563963e-07,
+      "percentile": 0.7496892675982267
+    },
+    "sha256": "06950462b574fc07119ad62cdc7ea92efcdaccd98bc7bb745fea6c3f752c13fb",
+    "simhash": "1:bc00851679c3acfe",
+    "word_count": 541
+  },
+  "last_updated": "2024-02-27T17:52:01.123529+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Cormack v. Missouri State Life Insurance Company."
+    ],
+    "opinions": [
+      {
+        "text": "McHaNey, J.\nThis is an appeal from an order of the circuit court setting aside a judgment in appellant\u2019s favor against appellee on .a motion for a new trial filed by it. Appellant failed to file a stipulation on his part to the effect that, if the order of the circuit court he affirmed, judgment absolute may be rendered by this court against him, as provided by \u00a7 2129, Crawford & Moses\u2019 Digest. The applicable portion of the second subdivision of the above section reads as follows: \u201cBut no appeal to the Supreme Court from an order granting a new trial, in a case made or bill of exceptions, shall be effectual for any purpose, unless the notice of appeal contains an assent on the part of the appellant that, if the order be affirmed, judgment absolute shall be rendered against the appellant.\u201d\nNo final judgment has been rendered in the lower court from which to appeal, and this court has many times held in such cases that an appeal which failed to comply with the above-quoted provision of the statute must be dismissed. Osborn v. LeMaire, 82 Ark. 490, 102 S. W. 372; St. L., I. M. & S. R. Co. v. Hix, 101 Ark. 90, 141 S. W. 492; McPherson v. Consolidated Casualty Co., 105 Ark. 324, 151 S. W. 283; Yowell v. Ft. Smith Pure Milk Co., 118 Ark. 448, 177 S. W. 4; Matyski v. Buczkowski, 152 Ark. 89, 237 S. W. 694.\nAppellant has, since the original submission of this case, petitioned the court to permit him now to file such stipulation, or to permit him to file same in the trial court and bring up an amended record. Neither course could avail appellant anything, for it was held in Osborn v. LeMaire, supra, that such course was not available to appellant. \"We there said: \u201cAppellant now asks that such assent he noted of record, and consents that judgment absolute shall be rendered against it in the event that judgment should be affirmed. Without determining whether such assent can be made in this court after appeal has been granted by the circuit court, it is sufficient to say that it is more than one year since the appeal was granted and before such assent is filed herein. An appeal must be taken within one year.\u201d Citing cases. \u201cIf it were proper to perfect this appeal in this court in the manner now sought, it is too late to do it. The statute requires the noting of assent to judgment absolute as a condition to obtain an appeal from such order, and it must be complied with. \u2019 \u2019\nThe statute now requires an appeal to be taken within six months. Therefore appellant could not now file the stipulation here, as more than six-months have expired from the date of judgment. Nor could he accomplish anything by filing it in the court below, as the time for appeal has long since expired.\nAppellant\u2019s case is still pending in the court below for a new trial. The appeal will be dismissed.",
+        "type": "majority",
+        "author": "McHaNey, J."
+      }
+    ],
+    "attorneys": [
+      "Emmet Vaughan and Sam T. \u2022& Tom Poe, for appellant.",
+      "Allen May and Rose, Hemingway, Cantrell & Lough-borough, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Cormack v. Missouri State Life Insurance Company.\n4-2838\nOpinion delivered February 20, 1933.\nEmmet Vaughan and Sam T. \u2022& Tom Poe, for appellant.\nAllen May and Rose, Hemingway, Cantrell & Lough-borough, for appellee."
+  },
+  "file_name": "0998-01",
+  "first_page_order": 1018,
+  "last_page_order": 1020
+}

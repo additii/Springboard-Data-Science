@@ -1,0 +1,164 @@
+{
+  "id": 1432021,
+  "name": "Bank of Conway v. Hiegel",
+  "name_abbreviation": "Bank of Conway v. Hiegel",
+  "decision_date": "1933-04-24",
+  "docket_number": "4-2967",
+  "first_page": "313",
+  "last_page": "316",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "187 Ark. 313"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [
+    {
+      "cite": "46 S. W. (2d) 642",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "185 Ark. 211",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1435373
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/185/0211-01"
+      ]
+    },
+    {
+      "cite": "31 A. L. R. 261",
+      "category": "reporters:specialty",
+      "reporter": "A.L.R.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "264 U. S. 160",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6138902
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/264/0160-01"
+      ]
+    },
+    {
+      "cite": "9 A. L. R. 960",
+      "category": "reporters:specialty",
+      "reporter": "A.L.R.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "175 N. W. 612",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "144 Minn. 363",
+      "category": "reporters:state",
+      "reporter": "Minn.",
+      "case_ids": [
+        136403
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/minn/144/0363-01"
+      ]
+    },
+    {
+      "cite": "13 S. W. 594",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "53 Ark. 116",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1911719
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/53/0116-01"
+      ]
+    },
+    {
+      "cite": "43 S. W. (2d) 1078",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "184 Ark. 947",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1438457
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/184/0947-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 203,
+    "char_count": 2101,
+    "ocr_confidence": 0.491,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.05386549563314309
+    },
+    "sha256": "fe2083a36caada5d29e60ec4544aeef6f383f3035ca022cfa1524e89d7792ca4",
+    "simhash": "1:00de042710214161",
+    "word_count": 383
+  },
+  "last_updated": "2024-02-27T21:18:50.990705+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Bank of Conway v. Hiegel."
+    ],
+    "opinions": [
+      {
+        "text": "Kirby, J.,\n(after stating the facts). In Taylor v. First National Bank of De Queen, 184 Ark. 947, 43 S. W. (2d) 1078, this court held that, where checks received in the ordinary course of business between respective banks, not for collection but for payment which they attempted to effect by charging them to the accounts of the depositors who had drawn them, and by delivery of the draft for the difference between the respective amounts of the checks, the relation of debtor and creditor arose between the two banks and not an agency or trust relationship.\nIt has been held, where the drawers of an order had funds in the hands of the drawee on its presentation, a waiver by the payee of a cash payment and an acceptance of a bill of exchange instead extinguish the debt, although the exchange proves worthless. Loth v. Mothner, 53 Ark. 116, 13 S. W. 594. See also Johnson v. First Bank, 144 Minn. 363, 175 N. W. 612, 9 A. L. R. 960; Fed eral Reserve Bank v. Malloy, 264 U. S. 160, 44 S. Ct. 296, 31 A. L. R. 261; Missouri Pac. Rd. Co. v. Taylor, 185 Ark. 211, 46 S. W. (2d) 642; vol. 1, Paton\u2019s Digest, page 257, \u00a7 1566.\nFrom these cases it will be seen that only the relation' of debtor and creditor arose between the two banks upon the clearance of checks and giving the bill of exchange in payment of the difference, and not an agency or trust relationship; and, the check being presented to the bank, not for collection, but for payment, the transaction amounted to a payment, so far as the drawers of the check, appellees, were concerned, and they are discharged, the drawer having funds in the bank to its credit, the check in effect having been paid by the drawee upon presentation, it being conclusively presumed that he did not accept something in lieu thereof for which it had not been drawn- \u2014 could not accept-at the drawer\u2019s risk a check of the drawee upon some other bank.\nNo error therefore was committed in the decree of the chancellor, and it is affirmed.",
+        "type": "majority",
+        "author": "Kirby, J.,"
+      }
+    ],
+    "attorneys": [
+      "R. W. Robins, for appellant.",
+      "Clark & Clark, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Bank of Conway v. Hiegel.\n4-2967\nOpinion delivered April 24, 1933.\nR. W. Robins, for appellant.\nClark & Clark, for appellee."
+  },
+  "file_name": "0313-01",
+  "first_page_order": 333,
+  "last_page_order": 336
+}

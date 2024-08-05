@@ -1,0 +1,253 @@
+{
+  "id": 8719216,
+  "name": "First National Bank of Mineral Springs v. McKee",
+  "name_abbreviation": "First National Bank of Mineral Springs v. McKee",
+  "decision_date": "1923-06-25",
+  "docket_number": "",
+  "first_page": "63",
+  "last_page": "69",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "160 Ark. 63"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [
+    {
+      "cite": "37 U. S. 13",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "1 L. R. A. 648",
+      "category": "reporters:federal",
+      "reporter": "L.R.A.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "136 N. Y. 152",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        17917
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/136/0152-01"
+      ]
+    },
+    {
+      "cite": "142 Mass. 76",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        768508
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mass/142/0076-01"
+      ]
+    },
+    {
+      "cite": "74 N.' Y. 233",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "65 Ark. 548",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "32 Ark. 56",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1877165
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/32/0056-01"
+      ]
+    },
+    {
+      "cite": "142 Ark. 132",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1590559
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/142/0132-01"
+      ]
+    },
+    {
+      "cite": "98 Ark. 379",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1315955
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/98/0379-01"
+      ]
+    },
+    {
+      "cite": "105 Ark. 526",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1347060
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/105/0526-01"
+      ]
+    },
+    {
+      "cite": "98 Ark. 334",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1316054
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/98/0334-01"
+      ]
+    },
+    {
+      "cite": "105 Ark. 130",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1347021
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/105/0130-01"
+      ]
+    },
+    {
+      "cite": "120 Ark. 208",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "148 Ark. 66",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        8717829
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/148/0066-01"
+      ]
+    },
+    {
+      "cite": "107 Ark. 158",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1344020
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/107/0158-01"
+      ]
+    },
+    {
+      "cite": "65 Ark, 543",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        609390
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/65/0543-01"
+      ]
+    },
+    {
+      "cite": "32 Ark. 56",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1877165
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/32/0056-01"
+      ]
+    },
+    {
+      "cite": "98 Ark. 379",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1315955
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/98/0379-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 525,
+    "char_count": 12326,
+    "ocr_confidence": 0.484,
+    "pagerank": {
+      "raw": 4.947487136851577e-08,
+      "percentile": 0.31040902384656405
+    },
+    "sha256": "4a274709f9ca747e9fd18f8565246b7d9fc231b103fd04a4c071be8e85f07bdc",
+    "simhash": "1:167596bb8842707c",
+    "word_count": 2183
+  },
+  "last_updated": "2024-02-27T17:41:07.582861+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "First National Bank of Mineral Springs v. McKee."
+    ],
+    "opinions": [
+      {
+        "text": "McCulloch, C. J.\nThis is an action at law, instituted by the State Bank Commissioner, as receiver of the defunct Bank of Mineral Springs, to recover from appellant sixty-nine bales of cotton held by the latter as a pledge for the security of a debt.\nIt is alleged in the complaint that a portion of the debt for the payment of which the pledge was made has \u2022been paid, and tender was made of the balance of the debt in redemption of the pledge. The answer contains a denial of the allegations of the complaint with respect to the manner in which the pledge was made and appel-lee\u2019s right to redeem. There was a trial of the issues, and the court directed a verdict in favor of appellee; judgment was rendered accordingly, and an appeal has been prosecuted.\nThe uotton in controversy was of the crop of the year 1920. T. J. Thomason was engaged in the business of buying and selling cotton at Mineral Springs, and conducted his banking business with the Bank of Mineral Springs. In the operation of his business it was his custom, as well as that of other cotton buyers, when he bought a hale of cotton on the street to place his tag on it, then the purchaser would deliver it to a public warehouse at that place and receive a warehouse receipt showing the weight of the hale, on which, when brought hack to Thomason, he would indicate the price to he paid the purchaser, and place his- O. K. Thoma-son had an arrangement with the Bank of Mineral Springs to pay for his purchases, and the seller would then take the warehouse receipt, with Thomason\u2019s O. K. thereon, to the hank, which would serve as a draft, or voucher. The hank would pay the amount of the- price of the hale of cotton and retain the warehouse receipt.\nThe evidence is sufficient to show that the hank, under its arrangement with Thomason, held the warehouse receipt as a pledge for the amount of money paid to the seller, hut the proof shows that Thomason was permitted to control the sale of the cotton, and when he negotiated the sale of a given number of hales he would take the warehouse receipts out of-the hank and ship the cotton out hy carrier, and deliver to the hank a draft on the purchaser with hill of lading attached.\nIn the early part of the year 1921, while Thomason was indebted to the Bank of Mineral Springs, the cashier requested Thomason to sell a lot of the cotton and use the money in reducing Thomason\u2019s indebtedness to the hank. On -the 23rd of February, 1921, an arrangement was made with appellant, First National Bank of Mineral Springs, to loan the sum of $5,000 and receive as pledge 125 hales of the Thomason 'cotton, -as evidenced hy the warehouse receipts then in the hands of the Bank of Mineral Springs. This arrangement was consented to all around, and was carried out by the delivery to appellant of warehouse receipts representing 125 bales of cotton, and appellant\u2019s cashier issued two drafts, aggregating the sum of $5,000, each payable to Thomason, and Thomason indorsed these drafts over to the Bank of Mineral Springs, which were applied on Thomason\u2019s indebtedness. As evidence of the loan, Thomason drew his draft on the Bank of Mineral Springs in favor of appellant, payable thirty days after date, and this draft was accepted by indorsement made thereon by Kent, cashier of the Bank of Mineral Springs. After maturity of this draft it was renewed for ten days by another draft, indorsed as the first one, and the last draft was not paid at maturity. Demand was made, upon the Bank of Mineral Springs, but, according to the testimony, it declined to pay, and insisted that the cotton be sold to pay the draft.\nThomason sold a portion of the cotton, by consent of appellant, and the purchase price was applied on the debt to appellant for which the cotton was pledged, reducing the debt to the sum of $1,795. After the sale \u2022 was made it left sixty-nine bales of cotton still in the hands of appellant, and this is the cotton now in controversy. The affairs of the Bank of Mineral Springs were shortly thereafter taken over by the Bank Commissioner as receiver, and subsequently the Bank Commissioner, acting through his special deputy in charge of the affairs of the Bank of Mineral Springs, tendered to appellant the sum of $1,795 and demanded possession of the cotton. On refusal to deliver, this action was instituted to recover the cotton.\nThomason was indebted to appellant in a large sum of money in addition to the amount for the payment of which the cotton was originally pledged, and appellant held the cotton as security for this additional amount, and refused to surrender it to the Bank Commissioner on demand.\nThe facts thus recited are undisputed, but there is a sharp conflict in the evidence as to the manner in which, the cotton was pledged to appellant. The contention of appellee was, and is, that the warehouse receipts, as evidence of the title to the property, were in the hands of the Bank of Mineral Springs as a pledge, and that the hank borrowed money from appellant and pledged the cotton to appellant as security for that particular debt, the draft evidencing the loan being drawn by appellant in favor of Thomason, and Thomason drawing a draft on the Bank of Mineral Springs for the amount of the loan being a matter of form. In other words, the contention of appellee is that the money was loaned by appellant to the Bank of Mineral Springs, and that that bank pledged the cotton for the security of this debt, and is entitled to redeem the cotton by the payment,of the balance of the debt. Mr. Kent, cashier of the bank, testified in support of this contention of the bank, and stated that he negotiated the loan from appellant bank, carried the warehouse receipts for the cotton over to appellant bank, and delivered the same to the cashier. There is other testimony in the record tending to support him in that contention. On the other hand, there is abundant testimony that the loan made by appellant was to Thomason direct, that Thomason negotiated the loan, obtained the warehouse receipts from the Bank of Mineral Springs, and delivered them to appellant as security for the loan. The cashier of appellant bank, the president and some of the directors and employees who participated in the transaction, all testified that Thomason came to the bank and arranged for the loan, and when the directors agreed to make the loan and so indicated to him, he obtained the warehouse receipts and brought them over and delivered them to the cashier of appellant bank, received the two checks for the amount of the loan, and indorsed them over to the Bank of Mineral Springs to be credited on his debt. Thomason himself testified that the loan was made to him, and that he took the warehouse receipts to appellant bank and delivered them as security for the loan. Thomason also testified that he was not indebted to the Bank of Mineral Springs in any sum at the time this suit was commenced. He testified that, on a proper accounting between him and the Bank of Mineral Springs, it would be shown that he was not indebted to the bank in any sum.\nThere being a conflict in the testimony upon ,the material facts in the case, it was error' for the court to direct a verdict in favor of either party.\nIf the Bank of Mineral Springs was the legal holder of the warehouse receipts evidencing the ownership of. the cotton, and did not surrender the receipts to Thomason, but obtained the loan from appellant and pledged the warehouse receipts for the payment of the debt; or, even if the Bank of Mineral Springs itself delivered the warehouse receipts to appellant bank as a pledge for Thomason\u2019s debt, then the Bank of Mineral Springs, or its successor, the State Bank Commissioner, had the right to redeem the pledge. On the other hand, if the Bank of Mineral Springs, even though it held the warehouse receipts as a pledge for Thomason\u2019s debt, surrendered possession of the receipts to Thomason for any purpose, it lost the pledge, and has no right to redeem, for retention of possession of pledged chattels is essential to the preservation of the pledge. Lee Wilson & Co. v. Crittenden County B. & T. Co., 98 Ark. 379.\nCounsel for appellee cite decisions of this court holding that the acceptance of a draft or indorsement of a note as collateral security makes the party primarily liable for the debt, and that the holder of the collateral, or pledge, is a trustee, and must account for the property. Key v. Fielding, 32 Ark. 56; City Electric Street Ry. Co. v. First National Bank, 65 Ark, 543. The principles announced in those cases have no controlling effect in the present case, unless the pledge to appellant was in fact made by the Bank of Mineral Springs. It is true that the Bank of Mineral Springs made itself primarily liable to appellant by the acceptance of the draft, but this did not confer upon the Bank of Mineral Springs the right to redeem the property from the pledgee. The right of subrogation is not involved, for appellee has not paid the whole of the debt. It merely claims the right now to pay the balance on the debt and redeem from the pledge, thus depriving appellant of the right to hold the security for other debts. The Bank of Mineral Springs waived this right by parting with possession of its pledge, according to substantial testimony adduced by appellant, and the rights and equities of the subsequent pledgee are superior.\nFor the error committed in giving a peremptory instruction, the judgment is reversed and the cause remanded for a new trial.",
+        "type": "majority",
+        "author": "McCulloch, C. J."
+      }
+    ],
+    "attorneys": [
+      "Lake & Lake and J. G. 8am, for appellant.",
+      "\u25a0 W. P. Feasel and A. D. DwLaney, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "First National Bank of Mineral Springs v. McKee.\nOpinion delivered June 25, 1923.\n1. Trial \u2014 direction op verdict. \u2014 Where the testimony on the material facts is conflicting, it is error to direct a verdict for either party.\n2. Pledge \u2014 effect of surrender by pledgee. \u2014 Where a hank pledged warehouse receipts, of which it was the legal holder, to another bank for payment of a loan to it, or delivered them to such bank to secure a loan to another by whom they were originally pledged to it, the bank could redeem its pledge; but where it surrendered possession of the receipts to the original pledgor, it lost the pledge and could not redeem same, retention of pledged chattels being essential to preservation of the pledge.\nAppeal from Howard Circuit Court; James 8. Steel, Judge;\nreversed.\nLake & Lake and J. G. 8am, for appellant.\nThe evidence was in conflict upon the material facts of the case, and the court erred in directing a verdict. 107 Ark. 158; 148 Ark. 66; 120 Ark. 208; 105 Ark. 130; 98 Ark. 334; 105 Ark. 526. Thomason was the owner of the cotton for which appellee had warehouse receipts to secure its advances and took said receipts and pledged them with appellant bank for money he paid to appellee. If the appellee held the cotton as a pledge, it lost its right by surrendering the receipts to Thomason and allowing them to be pledged to appellant bank. 98 Ark. 379; 31 Cyc. 817; 142 Ark. 132. The Bank Commissioner made no offer or attempt to redeem the pledge within 60 days. C. & M. Digest, 728. Appellee is estopped from claiming these warehouse receipts.\n\u25a0 W. P. Feasel and A. D. DwLaney, for appellee.\nThe appellant was a creditor of both appellee and Thomason. Appellee was the principal debtor, primarily liable upon the acceptance, and Thomason, the drawer, was secondarily liable. Appellant held possession of the pledged chattel as security for the $5,000 debt only, and when it was paid its rights in the collateral ended. Appel-lee surrendered this pledge only as collateral for the $5,000 debt, and, when it was paid, had the right to return of the pledge. 32 Ark. 56; 65 Ark. 548; 74 N.' Y. 233; 142 Mass. 76; 136 N. Y. 152. There is no question of estoppel here. Appellee bank\u2019s failure to pay the acceptance constituted neither a waiver nor an estoppel. The draft shows on its face that 125 bales of cotton were put up as collateral. Bank of Mineral Springs became principal debtor on acceptance of draft. 7 Barb. N. Y. 752; C. & M. Digest, \u00a7 7828 ; R. C. L. 1144; 1 L. R. A. 648 ; 37 U. S. 13 Peters, 136, 10 L. ed. 95. Appellant admits it refused to accept the tender in payment of the draft and surrender the collateral. It makes no difference that appellee did not offer to redeem collateral within 60 days, since the status was not changed before offer made."
+  },
+  "file_name": "0063-01",
+  "first_page_order": 87,
+  "last_page_order": 93
+}

@@ -1,0 +1,24 @@
+{
+  "volume_number": "186",
+  "title": null,
+  "publisher": null,
+  "publication_year": 2017,
+  "start_year": null,
+  "end_year": null,
+  "series_volume_number": null,
+  "jurisdictions": [
+    {
+      "id": 38,
+      "name": "Wash.",
+      "name_long": "Washington"
+    }
+  ],
+  "id": "Wn2d_186",
+  "harvard_hollis_id": null,
+  "spine_start_year": null,
+  "spine_end_year": null,
+  "publication_city": null,
+  "second_part_of_id": null,
+  "redacted": true,
+  "nominative_reporter": null
+}

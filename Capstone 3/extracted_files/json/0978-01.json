@@ -1,0 +1,121 @@
+{
+  "id": 8725764,
+  "name": "Snerly v. Stacey",
+  "name_abbreviation": "Snerly v. Stacey",
+  "decision_date": "1927-10-03",
+  "docket_number": "",
+  "first_page": "978",
+  "last_page": "982",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "174 Ark. 978"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [
+    {
+      "cite": "281 S. W. 385",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "170 Ark. 778",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1371753
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/170/0778-01"
+      ]
+    },
+    {
+      "cite": "59 S. E. 26",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "2 Ga. App. 739",
+      "category": "reporters:state",
+      "reporter": "Ga. App.",
+      "case_ids": [
+        1254150
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ga-app/2/0739-01"
+      ]
+    },
+    {
+      "cite": "78 N. W. 875",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "76 Minn. 36",
+      "category": "reporters:state",
+      "reporter": "Minn.",
+      "case_ids": [
+        1683940
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/minn/76/0036-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 397,
+    "char_count": 8804,
+    "ocr_confidence": 0.503,
+    "pagerank": {
+      "raw": 8.521269066051138e-08,
+      "percentile": 0.4871069703291582
+    },
+    "sha256": "e6dd9c1b9b37101b9e03a2db8745f25319adce1f48143355b754046f2f2582f4",
+    "simhash": "1:8cc6687f2994988d",
+    "word_count": 1552
+  },
+  "last_updated": "2024-02-27T16:23:40.975481+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Snerly v. Stacey."
+    ],
+    "opinions": [
+      {
+        "text": "Kirby, J.,\n(after stating the facts). The only question for determination is whether the mortgage given on the crop 'by Bullock to appellant, Snerly, constituted a valid and subsisting lien on the rice crop grown on the lands by Beard, a tenant, under Ms lease from Stacey and Mabry, the owners of the land.\nIt is undisputed that no rice crop had been planted on the lands by Bullock, who, in 1924, mortgaged one-third of the rice crop for 1925 to Snerly, at the time of his conveyance of the lands to Stacey and Mabry on the 20th day of April, 1925; that the crop of rice was planted and produced by their tenant, Beard, no supplies whatever being furnished by Bullock, who had no interest whatever in the crop produced..\nMortgages on crops to be grown in the future constitute no lien upon the land upon which they are to be produced, and the lien formerly did not attach to the crop until it came in esse. The lien then attaches only to such interest as the mortgagor may have in the crop at that time. Jones on Chattel Mortgages, \u00a7 143a; Christianson v. Nelson, 76 Minn. 36, 78 N. W. 875; Hall v. State, 2 Ga. App. 739, 59 S. E. 26; O\u2019Connell v. St. Louis Joint Stock Land Bank, 170 Ark. 778, 281 S. W. 385.\nOur statutes, C. & M. Digest, \u00a7\u00a7 7391-2, provide that mortgages on crops to be planted shall have the same force and effect to bind such crops and their products as other mortgages now have to bind property already in being, requiring only that the crops shall be planted within 12 months after the execution of the mortgage. This statute does not change the .law with reference to the subject-matter of the chattel mortgage, so far .as enlargement of the power of the mortgagor to create a lien on the property in excess of his interest therein is concerned.\nIn O\u2019Connell v. St. Louis Joint Stock Land Bank, supra, the court said:\n\u201c* \u2022* * The fact that the mortgagor was, at the time of the execution of the chattel mortgage, in actual occupancy of the land on which the mortgaged crop was to be grown did not afford grounds under the statute to extend the lien to crops grown by other persons after the mortgagor had been legally dispossessed.\u201d\nThe mortgage executed by Bullock to Snerly could uot extend to crops raised by the tenant of Stacey and Mabry after the conveyance of the lands to them, said mortgagor having no interest in such crops, which were not raised by him, but were planted and raised by the tenant of his grantees, the then owners of the land.\nThis holding can make no difference in the decree, however, the lower court having held that the mortgagees Df the owners of the land were entitled to payment of their claim out of the crop proceeds before anything could be realized under the crop mortgage to appellant, since there is not enough of the funds on hand to satisfy the claim of the power company under its valid mortgage.\nThe decree is accordingly affirmed.",
+        "type": "majority",
+        "author": "Kirby, J.,"
+      }
+    ],
+    "attorneys": [
+      "George C. Lewis, for appellant.",
+      "W. A. Leach and Jolm R. Ingram, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Snerly v. Stacey.\nOpinion delivered October 3, 1927.\nMortgages \u2014 \u00a1future crop. \u2014 'Where the owner of land mortgaged the crop to be produced thereon, but conveyed the land before a crop was planted, and the crop subsequently grown thereon was planted by the grantee\u2019s tenant, the former owner\u2019s mortgagee acquired no interest in such crop by virtue of his mortgage, since the mortgagor could create no lien on property beyond his interest therein.\nAppeal from Arkansas Chancery Court, Northern District; H. B. Lucas, Chancellor;\naffirmed.\nSTATEMENT OP PACTS.\nThis appeal is prosecuted from a decree holding a mortgage given by the owners of the land to the Arkansas Light & Power Company for current furnished for pumping water into pools and containers on the field for raising a crop of rice, entitled to priority of payment out of the crop produced over a prior mortgage given by Bullock, the then owner of the land, of one-third of the rice'crop to be produced thereon; the maker of the first mortgage to Snerly having conveyed the lands to the power company\u2019s mortgagor before any crop was planted thereon.\nThere is no real dispute about the facts as found by the chancellor. It appears that, prior to September 10, 1924, A. L. Bullock owned two rice farms in Arkansas County, one in section 34, township 2 south, range 5 west, and the other in section 14, township 2 south, range 5 west, upon which he had given to the appellant, Snerly, a mortgage securing the payment of a promissory note for $17,000. On September 10; 1924, he gave appellant a chattel mortgage on one-third of'all the rice to be grown on the farms in the year 1925, as additional security on the payment of said debt. On the 25th of February, 1925, he executed-to appellant another crop mortgage on an undivided one-half of all rice grown on the farms for 1925, less the one-third interest already mortgaged, which was to secure advances to be made by \u00a1appellant for making the crop, but no such advances were made, nor is anything claimed by appellant on this mortgage. Thereafter Bullock leased both farms to Beard for the year 1925, agreeing- to furnish one-half the seed rice and the water delivered for irrigation, for which he was to have one-half. the rice crop produced, Beard receiving the other one-half for making the crop.\nOn the 20th of April, 1925, Bullock entered into a written contract for the sale of the lands in section 34 to W. 0. Stacey and J. P. Malbry, appellant Snerly having signed said contract, agreeing to release the land from the $17,000 mortgage under its terms. Under said contract of sale Bullock, on the 30th of May, 1925, conveyed by warranty deed to Stacey and Mabry, appellees, the lands in section 34; the tenant, Beard, being in possession of said lands at the time of the execution of both the said contract of sale and the deed of conveyance, but no rice crop had been planted upon the lands at that time.\nAfter the conveyance, and before the planting of any rice crop, a new lease of the lands was made by the owners, Stacey and Mabry, to Beard, under the terms of which they were to furnish seed rice for planting and deliver the water for irrigation for one-half of the crop produced under this arrangement.\nBullock produced no rice on the lands in section 34, and furnished no seed rice nor any other supplies for such production, and, having sold and conveyed the land before the crop was planted, had no interest in it.\nOn the 30th of May, 1925, Stacey and Mabry executed a mortgage to the Arkansas Light & Power Company on an undivided one-half interest in the rice to be grown on section 34, to secure the payment of its charge for furnishing current for pumping the water for irrigation of the crop. There was produced on the lands in section 34, 3,676.41 bushels of rice, which was delivered to the Arkansas Rice Growers\u2019 Cooperative Association, to be milled and sold pursuant to the terms of the \u201cmarketing- agreement\u201d then in force and covering the crop in controversy. All the parties conceded that the tenant, Beard, was entitled to one-half the proceeds of this crop, the other one-half being claimed by appellant, Snerly, by Stacey and Mabry, appellees, and also by tlie Arkansas Light & Power Company, under its mortgage from them.\nThe Pice G-rowers\u2019 Association, on the 26th day of February, 1925, filed a bill in chancery against each of the claimants, asking that they be required to prove their claims.\nStacey and Mabry, on February 27, 1926, answered, claiming the proceeds of the crop, as owners of the land upon which the rice was grown, and with their tenant, Beard, who produced the crop, were entitled to one-half the proceeds, after their debt to the light and power company was paid.\nOn March 3,19'26, appellant, Snerly, answered, claiming one-third of all the rice produced under his mortgage executed and delivered to him by A. L. Bullock on the 10th of September, 1924.\nOn the 26th day of March, 1926, the Arkansas Light & Power Company answered, claiming, under its mortgage, the right to priority of payment out of the funds derived from one-half the rice crop sufficient to pay its debt.\nThe court found the amount due to the power company to be $1,849.24, that it was secured by a mortgage on one-half the crop, which constituted a prior lien thereon, and directed the payment to the company. The court also found that the mortgage executed and delivered by Bullock on the 10th day of September, 1924, to the appellant, Snerly, was valid and constituted a lien on one-third of the rice crop, but was inferior and subject to the prior lien of the mortgage of the Arkansas Light & Power Company for current furnished, and directed only the payment of any balance remaining after the payment of the amount due the power company, from which decree this appeal is prosecuted.\nGeorge C. Lewis, for appellant.\nW. A. Leach and Jolm R. Ingram, for appellee."
+  },
+  "file_name": "0978-01",
+  "first_page_order": 996,
+  "last_page_order": 1000
+}

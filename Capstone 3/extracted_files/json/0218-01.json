@@ -1,0 +1,1165 @@
+{
+  "id": 12456830,
+  "name": "The State of Washington, Respondent, v. Chad Curtis Chenoweth, Petitioner",
+  "name_abbreviation": "State v. Chenoweth",
+  "decision_date": "2016-03-17",
+  "docket_number": "No. 91366-8",
+  "first_page": "218",
+  "last_page": "238",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "185 Wash. 2d 218"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Wash.",
+    "id": 9029,
+    "name": "Washington Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 38,
+    "name_long": "Washington",
+    "name": "Wash."
+  },
+  "cites_to": [
+    {
+      "cite": "177 P.3d 209",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2008,
+      "opinion_index": 0
+    },
+    {
+      "cite": "143 Wn. App. 315",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        3968594
+      ],
+      "year": 2008,
+      "pin_cites": [
+        {
+          "page": "330"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/143/0315-01"
+      ]
+    },
+    {
+      "cite": "985 P.2d 365",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1999,
+      "pin_cites": [
+        {
+          "parenthetical": "finding defendant's three first degree rape convictions did not violate double jeopardy but were part of the same criminal conduct, the court held that Tib's criminal intent to commit several rapes did not change from one act of penetration to the next"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "139 Wn.2d 107",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        99117
+      ],
+      "year": 1999,
+      "pin_cites": [
+        {
+          "page": "124",
+          "parenthetical": "finding defendant's three first degree rape convictions did not violate double jeopardy but were part of the same criminal conduct, the court held that Tib's criminal intent to commit several rapes did not change from one act of penetration to the next"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/139/0107-01"
+      ]
+    },
+    {
+      "cite": "141 P.3d 54",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2006,
+      "pin_cites": [
+        {
+          "parenthetical": "holding that double jeopardy and same criminal conduct analyses are distinct and separate inquiries"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "157 Wn.2d 593",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        3004147
+      ],
+      "year": 2006,
+      "pin_cites": [
+        {
+          "page": "611-12",
+          "parenthetical": "holding that double jeopardy and same criminal conduct analyses are distinct and separate inquiries"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/157/0593-01"
+      ]
+    },
+    {
+      "cite": "888 P.2d 155",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "weight": 2,
+      "year": 1995,
+      "opinion_index": 0
+    },
+    {
+      "cite": "125 Wn.2d 769",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        437168
+      ],
+      "weight": 2,
+      "year": 1995,
+      "pin_cites": [
+        {
+          "page": "780"
+        },
+        {
+          "page": "780"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/125/0769-01"
+      ]
+    },
+    {
+      "cite": "785 P.2d 440",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1990,
+      "pin_cites": [
+        {
+          "parenthetical": "affirming the petitioner's sentence where the same criminal conduct determination involved \"neither a clear abuse of discretion nor a misapplication of the law\""
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "114 Wn.2d 6",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1169911
+      ],
+      "year": 1990,
+      "pin_cites": [
+        {
+          "page": "17",
+          "parenthetical": "affirming the petitioner's sentence where the same criminal conduct determination involved \"neither a clear abuse of discretion nor a misapplication of the law\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/114/0006-01"
+      ]
+    },
+    {
+      "cite": "942 P.2d 974",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1997,
+      "opinion_index": 0
+    },
+    {
+      "cite": "133 Wn.2d 177",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        331117
+      ],
+      "year": 1997,
+      "pin_cites": [
+        {
+          "page": "181"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/133/0177-01"
+      ]
+    },
+    {
+      "cite": "355 P.3d 1154",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2015,
+      "opinion_index": 0
+    },
+    {
+      "cite": "183 Wn.2d 1024",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        6798915,
+        6798788,
+        6798884,
+        6798857,
+        6798766,
+        6798745,
+        6798812
+      ],
+      "year": 2015,
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/183/1024-07",
+        "/wash-2d/183/1024-03",
+        "/wash-2d/183/1024-06",
+        "/wash-2d/183/1024-05",
+        "/wash-2d/183/1024-02",
+        "/wash-2d/183/1024-01",
+        "/wash-2d/183/1024-04"
+      ]
+    },
+    {
+      "cite": "185 Wn. App. 1041",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        4362272,
+        4359401,
+        4361499,
+        4362079
+      ],
+      "year": 2015,
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/185/1041-03",
+        "/wash-app/185/1041-04",
+        "/wash-app/185/1041-01",
+        "/wash-app/185/1041-02"
+      ]
+    },
+    {
+      "cite": "214 P.3d 907",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2009,
+      "opinion_index": 0
+    },
+    {
+      "cite": "166 Wn.2d 881",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4001461
+      ],
+      "weight": 2,
+      "year": 2009,
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/166/0881-01"
+      ]
+    },
+    {
+      "cite": "446 U.S. 948",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6297570,
+        6298020,
+        6298854,
+        6298620,
+        6297789,
+        6298335
+      ],
+      "year": 1980,
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/446/0948-01",
+        "/us/446/0948-03",
+        "/us/446/0948-06",
+        "/us/446/0948-05",
+        "/us/446/0948-02",
+        "/us/446/0948-04"
+      ]
+    },
+    {
+      "cite": "600 P.2d 1249",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1979,
+      "opinion_index": 1
+    },
+    {
+      "cite": "92 Wn.2d 671",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1099511
+      ],
+      "year": 1979,
+      "pin_cites": [
+        {
+          "page": "679"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/92/0671-01"
+      ]
+    },
+    {
+      "cite": "445 U.S. 684",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1777764
+      ],
+      "weight": 7,
+      "year": 1980,
+      "pin_cites": [
+        {
+          "page": "688"
+        },
+        {
+          "page": "774"
+        },
+        {
+          "page": "772"
+        },
+        {
+          "page": "773-75"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/445/0684-01"
+      ]
+    },
+    {
+      "cite": "241 P.3d 781",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "weight": 2,
+      "year": 2010,
+      "pin_cites": [
+        {
+          "parenthetical": "emphasis added"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "170 Wn.2d 322",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4012891
+      ],
+      "year": 2010,
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/170/0322-01"
+      ]
+    },
+    {
+      "cite": "254 P.3d 803",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2011,
+      "opinion_index": 1
+    },
+    {
+      "cite": "171 Wn.2d 646",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4014917
+      ],
+      "year": 2011,
+      "pin_cites": [
+        {
+          "page": "654"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/171/0646-01"
+      ]
+    },
+    {
+      "cite": "797 P.2d 1141",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1990,
+      "pin_cites": [
+        {
+          "parenthetical": "same scheme or plan"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "115 Wn.2d 294",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1379089
+      ],
+      "year": 1990,
+      "pin_cites": [
+        {
+          "page": "302",
+          "parenthetical": "same scheme or plan"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/115/0294-01"
+      ]
+    },
+    {
+      "cite": "842 P.2d 481",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1992,
+      "pin_cites": [
+        {
+          "parenthetical": "statements in a case that are unnecessary to decide the case constitute dicta and need not be followed"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "68 Wn. App. 134",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        1725379
+      ],
+      "year": 1992,
+      "pin_cites": [
+        {
+          "page": "150",
+          "parenthetical": "statements in a case that are unnecessary to decide the case constitute dicta and need not be followed"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-app/68/0134-01"
+      ]
+    },
+    {
+      "cite": "943 P.2d 1378",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1997,
+      "pin_cites": [
+        {
+          "parenthetical": "Sanders, J. concurring"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "133 Wn.2d 269",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        331097
+      ],
+      "year": 1997,
+      "pin_cites": [
+        {
+          "page": "289",
+          "parenthetical": "Sanders, J. concurring"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/133/0269-01"
+      ]
+    },
+    {
+      "cite": "166 P.3d 677",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2007,
+      "pin_cites": [
+        {
+          "parenthetical": "declining to be influenced by dicta in judicial decision that encouraged the State's argument"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "161 Wn.2d 322",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        3801738
+      ],
+      "year": 2007,
+      "pin_cites": [
+        {
+          "page": "331",
+          "parenthetical": "declining to be influenced by dicta in judicial decision that encouraged the State's argument"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/161/0322-01"
+      ]
+    },
+    {
+      "cite": "971 P.2d 512",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1999,
+      "pin_cites": [
+        {
+          "parenthetical": "court's comments that do not bear on the outcome of a case are dicta"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "137 Wn.2d 340",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        179432
+      ],
+      "year": 1999,
+      "pin_cites": [
+        {
+          "parenthetical": "court's comments that do not bear on the outcome of a case are dicta"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/137/0340-01"
+      ]
+    },
+    {
+      "cite": "240 P.3d 1162",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2010,
+      "pin_cites": [
+        {
+          "parenthetical": "court's comments in an opinion that are immaterial to the outcome are dicta"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "170 Wn.2d 230",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4012987
+      ],
+      "year": 2010,
+      "pin_cites": [
+        {
+          "parenthetical": "court's comments in an opinion that are immaterial to the outcome are dicta"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/170/0230-01"
+      ]
+    },
+    {
+      "cite": "542 U.S. 296",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        5868041
+      ],
+      "weight": 3,
+      "year": 2004,
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/542/0296-01"
+      ]
+    },
+    {
+      "cite": "3 P.3d 733",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "weight": 3,
+      "year": 2000,
+      "pin_cites": [
+        {
+          "parenthetical": "quoting Dunaway, 109 Wn.2d at 215"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "141 Wn.2d 103",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1183477
+      ],
+      "year": 2000,
+      "pin_cites": [
+        {
+          "page": "112-13",
+          "parenthetical": "quoting Dunaway, 109 Wn.2d at 215"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/141/0103-01"
+      ]
+    },
+    {
+      "cite": "827 P.2d 263",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1992,
+      "pin_cites": [
+        {
+          "parenthetical": "reiterating that under Dun-away, \"if the defendant's criminal purpose did not change from one offense to another, then the offenses encompass the same criminal conduct\""
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "118 Wn.2d 649",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1372151
+      ],
+      "year": 1992,
+      "pin_cites": [
+        {
+          "page": "668-69",
+          "parenthetical": "reiterating that under Dun-away, \"if the defendant's criminal purpose did not change from one offense to another, then the offenses encompass the same criminal conduct\""
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/118/0649-01"
+      ]
+    },
+    {
+      "cite": "957 P.2d 216",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1998,
+      "pin_cites": [
+        {
+          "parenthetical": "dispositive question regarding same criminal intent prong is extent to which the criminal intent, objectively viewed, changed from one crime to the next"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "135 Wn.2d 365",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        812851
+      ],
+      "year": 1998,
+      "pin_cites": [
+        {
+          "page": "368",
+          "parenthetical": "dispositive question regarding same criminal intent prong is extent to which the criminal intent, objectively viewed, changed from one crime to the next"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/135/0365-01"
+      ]
+    },
+    {
+      "cite": "932 P.2d 657",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1997,
+      "opinion_index": 1
+    },
+    {
+      "cite": "84 Wn. App. 854",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        121623
+      ],
+      "weight": 6,
+      "year": 1997,
+      "pin_cites": [
+        {
+          "page": "860-61"
+        },
+        {
+          "page": "859"
+        },
+        {
+          "page": "856-67"
+        },
+        {
+          "parenthetical": "emphasis added"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-app/84/0854-01"
+      ]
+    },
+    {
+      "cite": "885 P.2d 824",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1994,
+      "opinion_index": 1
+    },
+    {
+      "cite": "125 Wn.2d 407",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        437152
+      ],
+      "year": 1994,
+      "pin_cites": [
+        {
+          "page": "410"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/125/0407-01"
+      ]
+    },
+    {
+      "cite": "847 P.2d 956",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1993,
+      "opinion_index": 1
+    },
+    {
+      "cite": "69 Wn. App. 183",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        1700534
+      ],
+      "weight": 4,
+      "year": 1993,
+      "pin_cites": [
+        {
+          "page": "187-88"
+        },
+        {
+          "parenthetical": "dispositive question regarding same criminal intent prong is extent to which the criminal intent, objectively viewed, changed from one crime to the next"
+        },
+        {
+          "page": "184"
+        },
+        {
+          "page": "188"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-app/69/0183-01"
+      ]
+    },
+    {
+      "cite": "975 P.2d 1038",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1999,
+      "opinion_index": 1
+    },
+    {
+      "cite": "95 Wn. App. 187",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        254891
+      ],
+      "year": 1999,
+      "pin_cites": [
+        {
+          "page": "190"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-app/95/0187-01"
+      ]
+    },
+    {
+      "cite": "788 P.2d 531",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1990,
+      "opinion_index": 1
+    },
+    {
+      "cite": "114 Wn.2d 314",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1169896
+      ],
+      "year": 1990,
+      "pin_cites": [
+        {
+          "page": "318"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/114/0314-01"
+      ]
+    },
+    {
+      "cite": "299 P.3d 37",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2013,
+      "pin_cites": [
+        {
+          "parenthetical": "quoting State v. Burns, 114 Wn.2d 314, 318, 788 P.2d 531 (1990)"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "174 Wn. App. 494",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        4055903
+      ],
+      "year": 2013,
+      "pin_cites": [
+        {
+          "page": "546-47",
+          "parenthetical": "quoting State v. Burns, 114 Wn.2d 314, 318, 788 P.2d 531 (1990)"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-app/174/0494-01"
+      ]
+    },
+    {
+      "cite": "178 Wn.2d 1012",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "year": 2013,
+      "opinion_index": 1
+    },
+    {
+      "cite": "300 P.3d 465",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "opinion_index": 1
+    },
+    {
+      "cite": "174 Wn. App. 623",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        4053636
+      ],
+      "pin_cites": [
+        {
+          "page": "642"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-app/174/0623-01"
+      ]
+    },
+    {
+      "cite": "180 Wn.2d 1017",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "year": 2014,
+      "opinion_index": 1
+    },
+    {
+      "cite": "317 P.3d 1088",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "opinion_index": 1
+    },
+    {
+      "cite": "179 Wn. App. 343",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        4100307
+      ],
+      "pin_cites": [
+        {
+          "page": "356-57"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-app/179/0343-01"
+      ]
+    },
+    {
+      "cite": "114 Wn.2d 1030",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "year": 1990,
+      "opinion_index": 1
+    },
+    {
+      "cite": "785 P.2d 1144",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1990,
+      "opinion_index": 1
+    },
+    {
+      "cite": "56 Wn. App. 803",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        1759643
+      ],
+      "year": 1990,
+      "pin_cites": [
+        {
+          "page": "811"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-app/56/0803-01"
+      ]
+    },
+    {
+      "cite": "749 P.2d 160",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1987,
+      "opinion_index": 1
+    },
+    {
+      "cite": "743 P.2d 1237",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1987,
+      "opinion_index": 1
+    },
+    {
+      "cite": "109 Wn.2d 207",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1186025
+      ],
+      "year": 1987,
+      "pin_cites": [
+        {
+          "page": "215"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/109/0207-01"
+      ]
+    },
+    {
+      "cite": "985 P.2d 365",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1999,
+      "opinion_index": 1
+    },
+    {
+      "cite": "139 Wn.2d 107",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        99117
+      ],
+      "year": 1999,
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/139/0107-01"
+      ]
+    },
+    {
+      "cite": "141 P.3d 54",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2006,
+      "pin_cites": [
+        {
+          "parenthetical": "\"A double jeopardy violation claim is distinct from a 'same criminal conduct' claim and requires a separate analysis.\""
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "157 Wn.2d 593",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        3004147
+      ],
+      "year": 2006,
+      "pin_cites": [
+        {
+          "page": "611",
+          "parenthetical": "\"A double jeopardy violation claim is distinct from a 'same criminal conduct' claim and requires a separate analysis.\""
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/157/0593-01"
+      ]
+    },
+    {
+      "cite": "888 P.2d 155",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "weight": 2,
+      "year": 1995,
+      "opinion_index": 1
+    },
+    {
+      "cite": "125 Wn.2d 769",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        437168
+      ],
+      "weight": 2,
+      "year": 1995,
+      "pin_cites": [
+        {
+          "page": "780"
+        },
+        {
+          "page": "777-79"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/125/0769-01"
+      ]
+    },
+    {
+      "cite": "942 P.2d 974",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1997,
+      "opinion_index": 1
+    },
+    {
+      "cite": "133 Wn.2d 177",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        331117
+      ],
+      "year": 1997,
+      "pin_cites": [
+        {
+          "page": "181"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/133/0177-01"
+      ]
+    },
+    {
+      "cite": "214 P.3d 907",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2009,
+      "opinion_index": 1
+    },
+    {
+      "cite": "166 Wn.2d 881",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4001461
+      ],
+      "year": 2009,
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/166/0881-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1284,
+    "char_count": 39551,
+    "ocr_confidence": 0.879,
+    "pagerank": {
+      "raw": 6.356445689643612e-08,
+      "percentile": 0.389806896077725
+    },
+    "sha256": "4c0625ac5a1494cc844efcc8080a09298dcd8ba89f04d0b0950ed28975b39a15",
+    "simhash": "1:73dd630e2d5e45a9",
+    "word_count": 6371
+  },
+  "last_updated": "2024-02-28T00:06:59.447104+00:00",
+  "provenance": {
+    "date_added": "2019-05-22",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Owens, Fairhurst, Gonz\u00e1lez, and Yu, JJ., concur.",
+      "Stephens, Wiggins, and Gordon McCloud, JJ., concur with Madsen, C.J."
+    ],
+    "parties": [
+      "The State of Washington, Respondent, v. Chad Curtis Chenoweth, Petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "Johnson, J.\n\u00b6 1 This case involves whether the crimes of rape of a child and incest based on a single act are, as a matter of law, considered the \u201csame criminal conduct\u201d under the Sentencing Reform Act of 1981, chapter 9.94A RCW, for purposes of RCW 9.94A.589(1)(a) when determining an offender score to determine a standard sentencing range. The Court of Appeals, in affirming the trial court, held that rape of a child and incest are not the same criminal conduct for purposes of sentencing. We affirm the Court of Appeals.\nFacts and Procedural History\n\u00b62 Chad Chenoweth was convicted of six counts of third degree child rape of his daughter and six counts of first degree incest. The incest counts and the rape of a child counts were based on six incidents, each involving a single act. At sentencing, Chenoweth moved the court to find the incest counts were the same criminal conduct as the corresponding rape of a child count. The trial court disagreed, relying on State v. Bobenhouse, 166 Wn.2d 881, 214 P.3d 907 (2009), and counted each conviction separately for the purposes of sentencing, concluding the offender score exceeded nine. Sentences for each conviction were ordered to be served concurrently. Chenoweth appealed, and the Court of Appeals affirmed his sentence, also relying on Bobenhouse. State v. Chenoweth, noted at 185 Wn. App. 1041 (2015). This court granted review on the same criminal conduct issue. State v. Chenoweth, 183 Wn.2d 1024, 355 P.3d 1154 (2015).\nAnalysis\n\u00b63 Crimes constitute the same criminal conduct when they \u201crequire the same criminal intent, are committed at the same time and place, and involve the same victim.\u201d RCW 9.94A.589(1)(a). Unless all elements are present, the offenses must be counted separately. State v. Porter, 133 Wn.2d 177, 181, 942 P.2d 974 (1997). Deciding whether crimes involve the same time, place, and victim often involves determinations of fact. In keeping with this fact-based inquiry, we have repeatedly observed that a court\u2019s determination of same criminal conduct will not be disturbed unless the sentencing court abuses its discretion or misapplies the law. See State v. Elliott, 114 Wn.2d 6, 17, 785 P.2d 440 (1990) (affirming the petitioner\u2019s sentence where the same criminal conduct determination involved \u201cneither a clear abuse of discretion nor a misapplication of the law\u201d).\n\u00b64 Chenoweth argues that child rape and incest, based on a single act, as a matter of law constitute the same criminal conduct for purposes of calculating his offender score. Multiple current offenses are considered the same criminal conduct and thus as a matter of law are collectively counted as one crime in the offender score, when they \u201crequire the same criminal intent, are committed at the same time and place, and involve the same victim.\u201d RCW 9.94A.589(1)(a).\n\u00b65 This statutory inquiry arises generally in cases where a defendant commits only one act, as occurred in this case. That means the incident(s) occurred at the same time and place and against the same victim, leaving only the intent element. In the present case, only the intent element is at issue; the trial court determined that the offenses of rape and incest were based on the same acts with the same victim at the same time. The trial court, in viewing the respective statutes, determined the intent differed for the crimes of rape of a child and incest.\n\u00b66 We have held\u2014for purposes of a double jeopardy analysis and in examining whether multiple offenses constitute the same criminal conduct\u2014that rape of a child and incest are separate crimes because they involve distinct criminal intents. See, e.g., Bobenhouse, 166 Wn.2d at 896; State v. Calle, 125 Wn.2d 769, 780, 888 P.2d 155 (1995). In Bobenhouse, the defendant was convicted of three counts of rape of a child in the first degree and two counts of incest in the first degree. We held that these offenses do not constitute the same criminal conduct for sentencing purposes:\nBobenhouse further argues the trial court abused its discretion when it did not find that the underlying rape and incest charges (stemming from forcing the children to have sexual intercourse with each other) constituted the \u201csame criminal conduct\u201d for purposes of sentencing. Bobenhouse would have this court hold that first degree child rape and first degree incest involve the same criminal intent: sexual intercourse. But this argument has no merit. We have previously held that \u201cthe Legislature intended to punish incest and rape as separate offenses, even though committed by a single act.\u201d State v. Calle, 125 Wn.2d 769, 780, 888 P.2d 155 (1995). Bobenhouse\u2019s argument must fail in light of the precedent set by our decision in Calle.\nBobenhouse, 166 Wn.2d at 896.\n\u00b67 In the present case, both the trial court and the Court of Appeals relied on Bobenhouse in determining that the rape and incest convictions did not involve the same intent. Chenoweth points out that the Calle opinion relied on in Bobenhouse appears to somewhat conflate the double jeopardy analysis with the same criminal conduct analysis. See State v. French, 157 Wn.2d 593, 611-12, 141 P.3d 54 (2006) (holding that double jeopardy and same criminal conduct analyses are distinct and separate inquiries).\n\u00b68 The two analyses are similar. Under double jeopardy analysis, we determine whether one act can constitute two convictions. Under the same criminal conduct analysis, we determine whether two convictions warrant separate punishments. Even though they may be separate, albeit similar, analyses, a determination that a conviction does not violate double jeopardy does not automatically mean that it is not the same criminal conduct. See State v. Tili, 139 Wn.2d 107, 124, 985 P.2d 365 (1999) (finding defendant\u2019s three first degree rape convictions did not violate double jeopardy but were part of the same criminal conduct, the court held that Tib\u2019s criminal intent to commit several rapes did not change from one act of penetration to the next). Since Tili involved a single statutory crime\u2014rape\u2014it is unhelpful here where two crimes are involved.\n\u00b69 Looking at the statutes, incest and rape of a child do not have the same statutory criminal intent, whether involving multiple acts or the same act:\n[RCW] 9A.44.079 Rape of a child in the third degree. (1) A person is guilty of rape of a child in the third degree when the person has sexual intercourse with another who is at least fourteen years old but less than sixteen years old and not married to the perpetrator and the perpetrator is at least forty-eight months older than the victim.\n[RCW] 9A.64.020 Incest. (l)(a) A person is guilty of incest in the first degree if he or she engages in sexual intercourse with a person whom he or she knows to be related to him or her, either legitimately or illegitimately, as an ancestor, descendant, brother, or sister of either the whole or the half blood.\n\u00b610 Chenoweth argues that his criminal intent was to have sex with his daughter and thus rape of a child and incest required the same intent. However, objectively viewed, under the statutes, the two crimes involve separate intent. The intent to have sex with someone related to you differs from the intent to have sex with a child. Cheno-weth\u2019s single act is comprised of separate and distinct statutory criminal intents and therefore under RCW 9.94A.589(1)(a) do not meet the definition of \u201csame criminal conduct.\u201d\n\u00b611 Chenoweth also argues that the court in Bobenhouse did not reach the issue of whether rape of a child and incest constitute the same criminal conduct for sentencing purposes, relying on a section in the conclusion of the opinion that states, \u201cAny error in not treating Bobenhouse\u2019s crimes as the \u2018same criminal conduct\u2019 was harmless.\u201d Bobenhouse, 166 Wn.2d at 896-97. Chenoweth argues that Bobenhouse recognized that counting the offenses separately was error. However, viewed in the context of the statutory analysis and conclusion in Bobenhouse, the \u201charmless\u201d reference was a reflection of the Court of Appeals\u2019 determination that Bobenhouse\u2019s offender score exceeded nine and that any holding reached by the Court of Appeals with regard to same criminal conduct would have no effect on his offender score. Chenoweth\u2019s argument also disregards the primary analysis in Bobenhouse that was taken from the holding in Calle: rape and incest are separate crimes and can be punished separately. Calle, 125 Wn.2d at 780.\n\u00b612 As further support for this conclusion, the legislative history supports the \u201cconclusion that the Legislature intended to punish incest and rape as separate offenses, even though committed by a single act.\u201d Calle, 125 Wn.2d at 780. We have held that where legislative intent is clearly indicated, that intent controls the offender score. See Calle, 125 Wn.2d at 778. Looking at the criminal code, \u201cincest\u201d and \u201crape of a child\u201d are defined in separate sections\u2014family offenses and sex offenses. They have existed as separate crimes since before statehood. Reasons exist why they could be punished separately\u2014incest being a particularly egregious crime that attacks the very foundation of the family. And, as our cases recognize, no double jeopardy concerns exist in this type of situation where a sentencing judge imposes separate sentences for each conviction as occurred here. It makes little sense to conclude that an otherwise valid conviction and sentence cannot be \u201ccounted\u201d in determining an offender score.\n\u00b613 We hold that the same act constituting rape of a child and incest is not the same criminal conduct for purposes of sentencing.\nConclusion\n\u00b614 A straightforward analysis of the statutory criminal intent for rape of a child and incest identifies separate and distinct \u201cobjective intent.\u201d We therefore hold that the two crimes are not the same criminal conduct for purposes of sentencing. We affirm the Court of Appeals.\nOwens, Fairhurst, Gonz\u00e1lez, and Yu, JJ., concur.\nBoth the State and the trial court noted that even if the court had considered rape and incest to be the same criminal conduct in this case, Chenoweth\u2019s standard range would not be affected. Because a prior or other current sex offense has a score of three, under either calculation Chenoweth\u2019s offender score exceeds nine, the maximum offender score available. Both offenses are also seriousness level VI. RCW 9.94A.515. Thus, his sentencing range is 77-102 months in any event.\n\u201cBut we do not need to pass on whether the sentencing judge abused his discretion or not here. Mr. Bobenhouse\u2019s current offender score is 20 for the child rape convictions and 17 for the incest convictions. An amended sentence that reduced his offender score by 6 (counting the two incest convictions as three points each, former RCW 9.94A.525(16) (2002)) would still not make his offender score be less than 9, which is the top of the range. RCW 9.94A.525(5)(a)(i). Thus, even assuming error, any error would be harmless.\u2019\u2019 State v. Bobenhouse, 143 Wn. App. 315, 330, 177 P.3d 209 (2008), aff\u2019d, 166 Wn.2d 881.",
+        "type": "majority",
+        "author": "Johnson, J."
+      },
+      {
+        "text": "Madsen, C.J.\n\u00b615 (dissenting) The majority holds that because the statutes under which defendant was convicted, RCW 9A.44.079 (rape of a child in the third degree) and RCW 9A.64.020(1) (incest in the first degree), do not share the same statutory intent elements, defendant Chad Cheno-weth\u2019s convictions must necessarily fail to qualify as the \u201csame criminal conduct\u201d under RCW 9.94A.589(l)(a) for sentencing purposes. I disagree. For the reasons discussed below, in my view, the circumstances of this case warrant counting the six pairs of incest and child rape convictions, based on six separate incidents of sexual intercourse, as six single crimes for sentencing purposes under RCW 9.94A.589. Accordingly, I dissent.\nDiscussion\n\u00b616 The majority holds that because the statutes under which Chenoweth was charged, RCW 9A.44.079 (defining third degree child rape) and RCW 9A.64.020(1) (defining first degree incest) contain different elements, and thus different \u201cstatutory criminal intent,\u201d such distinction necessarily precludes any finding of same criminal conduct. See majority at 222-23. I disagree. The sentencing statute at issue here, RCW 9.94A.589(1)(a), states in pertinent part:\n[W]henever a person is to be sentenced for two or more current offenses, the sentence range for each current offense shall be determined by using all other current and prior convictions as if they were prior convictions for the purpose of the offender score: PROVIDED, That if the court enters a finding that some or all of the current offenses encompass the same criminal conduct then those current offenses shall be counted as one crime. Sentences imposed under this subsection shall be served concurrently. . . . \u201cSame criminal conduct,\u201d as used in this subsection, means two or more crimes that require the same criminal intent, are committed at the same time and place, and involve the same victim.\nOur cases have repeatedly held that the intent inquiry turns on objective criminal purpose. Offenses have the same criminal intent when, viewed objectively, the intent does not change from one offense to the next. State v. Dunaway, 109 Wn.2d 207, 215, 743 P.2d 1237, 749 P.2d 160 (1987). \u201cIntent, in this context is not the particular mens rea element of the particular crime, but rather is the offender\u2019s objective criminal purpose in committing the crime.\u201d State v. Adame, 56 Wn. App. 803, 811, 785 P.2d 1144, review denied, 114 Wn.2d 1030 (1990); see also State v. Kloepper, 179 Wn. App. 343, 356-57, 317 P.3d 1088 (same), review denied, 180 Wn.2d 1017 (2014); State v. Davis, 174 Wn. App. 623, 642, 300 P.3d 465 (same), review denied, 178 Wn.2d 1012 (2013). \u201cIn determining whether multiple crimes constitute the same criminal conduct, courts consider \u2018how intimately related the crimes are,\u2019 \u2018whether, between the crimes charged, there was any substantial change in the nature of the criminal objective,\u2019 and \u2018whether one crime furthered the other.\u2019 \u201d State v. Rattana Keo Phuong, 174 Wn. App. 494, 546-47, 299 P.3d 37 (2013) (quoting State v. Burns, 114 Wn.2d 314, 318, 788 P.2d 531 (1990)).\n\u00b617 This court thoroughly analyzed application of this statute in State v. Tili, 139 Wn.2d 107, 985 P.2d 365 (1999). But the majority dismisses Tili as \u201cunhelpful\u201d because it addressed a single crime that was repeated, whereas the current case involves two crimes. Majority at 222. But while Tili is factually different from the present case, in my view Tills discussion of how to conduct the same criminal conduct analysis is instructive here.\n\u00b618 As Tili noted, \u201cFor multiple crimes to be treated as the \u2018same criminal conduct\u2019 at sentencing, the crimes must have (1) been committed at the same time and place; (2) involved the same victim; and (3) involved the same objective criminal intent.\u201d 139 Wn.2d at 123 (citing State v. Palmer, 95 Wn. App. 187, 190, 975 P.2d 1038 (1999); State v. Walden, 69 Wn. App. 183, 187-88, 847 P.2d 956 (1993); former RCW 9.94A.400(1)(a) (1996)). \u201cThe absence of any one of these [three] prongs prevents a finding of same criminal conduct.\u201d State v. Porter, 133 Wn.2d 177, 181, 942 P.2d 974 (1997); see also State v. Vike, 125 Wn.2d 407, 410, 885 P.2d 824 (1994). We review a trial court\u2019s same criminal conduct determination for abuse of discretion or misapplication of the law. Tili, 139 Wn.2d at 122.\n\u00b619 In Tili, the offenses at issue were three first degree rapes that occurred over a two-minute time period. The rapes involved the same victim, occurred at the same place, and were nearly simultaneous in time. The issue was whether the three acts of rape involved the same objective criminal intent. Id. at 119, 123. Observing that \u201c[t]he relevant inquiry for the intent prong is to what extent did the criminal intent, when viewed objectively, change from one crime to the next,\u201d the Tili court analyzed and compared two Court of Appeals decisions demonstrating how such inquiry is to be conducted. See id. at 123-24 (discussing State v. Grantham, 84 Wn. App. 854, 932 P.2d 657 (1997), and Walden, 69 Wn. App. 183); see also State v. Williams, 135 Wn.2d 365, 368, 957 P.2d 216 (1998) (dispositive question regarding same criminal intent prong is extent to which the criminal intent, objectively viewed, changed from one crime to the next); Vike, 125 Wn.2d at 411 (same).\n\u00b620 The Tili court distinguished Grantham, which affirmed the trial court\u2019s finding that two rapes were not the same criminal conduct for sentencing purposes. See 139 Wn.2d at 123-24 (discussing Grantham, 84 Wn. App. at 860-61). The evidence in Grantham showed that \u201cthe criminal episode had ended with the first rape\u201d (forced anal intercourse) and thereafter the defendant had the \u201c \u2018time and opportunity to pause, reflect, and either cease his criminal activity or proceed to commit a further criminal act.\u2019 \u201d Id. at 123 (quoting Grantham, 84 Wn. App. at 859). After raping his victim, Grantham stood over her and threatened her; then began to argue with her and physically assaulted her in order to force her to perform oral sex. Id. at 123-24. The Tili court observed that \u201cGrantham was able to form a new criminal intent before his second criminal act because his \u2018crimes were sequential, not simultaneous or continuous.\u2019 \u201d Id. at 124 (emphasis added) (quoting Grantham, 84 Wn. App. at 856-67).\n\u00b621 The Tili court contrasted Grantham\u2019s circumstances to the three penetrations at issue in Tili, which were \u201ccontinuous, uninterrupted, and committed within a much closer time frame\u2014approximately two minutes.\u201d Id. Tili observed that \u201c[t] his extremely short time frame, coupled with Tili\u2019s unchanging pattern of conduct, objectively viewed, renders it unlikely that Tili formed an independent criminal intent between each separate penetration [/crime].\u201d Id. (emphasis added).\n\u00b622 The Tili court then discussed Walden, observing that the defendant there was convicted of crimes involving fellatio and attempted rape where defendant in quick succession forced a 13-year-old boy to perform oral sex on defendant and then attempted to anally penetrate the boy. See id.; Walden, 69 Wn. App. at 184. Tili observed, \u201cIn determining whether the two acts involved the \u2018same criminal conduct\u2019. . . the Walden court held that, \u2018[w]hen viewed objectively, the criminal intent of the conduct comprising the two charges is the same: sexual intercourse. Accordingly, the two crimes . . . furthered a single criminal purpose.\u2019 \u201d 139 Wn.2d at 124 (emphasis added) (first alteration in original) (quoting Walden, 69 Wn. App. at 188); see also Porter, 133 Wn.2d at 186 (remanding for resentencing where evidence indicated defendant\u2019s intent, objectively viewed, remained the same from one drug delivery to the next because the deliveries were part of a continuing, uninterrupted sequence of conduct); see also Vike, 125 Wn.2d at 412-13 (concurrent counts involving simultaneous simple possession of more than one controlled substance encompass the same criminal conduct for sentencing purposes).\n\u00b623 Analogizing Walden to its facts, the Tili court held that \u201cTili\u2019s unchanging pattern of conduct, coupled with an extremely close time frame, strongly supports the conclusion that his criminal intent, objectively viewed, did not change from one penetration to the next.\u201d 139 Wn.2d at 124 (emphasis added). The Tili court held that the trial court abused its discretion in failing to treat Tili\u2019s three first degree rape convictions as one crime for sentencing purposes and remanded for resentencing. Id. at 124-25, 128.\n\u00b624 In my view, Tili\u2019s analysis for determining the intent prong of the same criminal conduct inquiry applies here as well. In each of the six incidents from which Chenoweth\u2019s convictions for a pair of charges for rape and incest arose, a single act of sexual intercourse served as the basis for the corresponding incest and rape convictions. Because only a single act occurred, the corresponding incest and rape crimes necessarily occurred simultaneously and each crime was based on the same (unbroken, continuous, and unchanging) conduct. Objectively viewed, the criminal intent of the conduct comprising each pair of charges for each of the six incidents was the same. For each of the six criminal episodes, Chenoweth had a single criminal purpose: sexual intercourse with his daughter. Accordingly, consistent with Till, Walden, and Grantham, I would hold that each pair of charges for first degree incest and third degree child rape shared the same criminal intent, victim, time, and place, thereby constituting the same criminal conduct. See RCW 9.94A.589(1)(a) (\u201ccurrent offenses [that] encompass the same criminal conduct. . . shall be counted as one crime\u201d); see also RCW 9.94A.525(5)(a)(i) (\u201cPrior offenses which were found, under RCW 9.94A.589(1)(a), to encompass the same criminal conduct, shall be counted as one offense, the offense that yields the highest offender score.\u201d (emphasis added)). Thus, for sentencing purposes, Chenoweth\u2019s offender score should be based on his 6 current incest offenses and not all 12 of his convictions.\n\u00b625 I acknowledge that applying RCW 9.94A.589(1)(a) and adjusting Chenoweth\u2019s offender score, as described above, will still yield an offender score above 9. On this point, I agree with the majority. See majority at 220 n.l. Nevertheless, this court should clarify the appropriate same criminal conduct analysis for use in future cases.\n\u00b626 Here, Chenoweth\u2019s objective criminal purpose was to have sexual intercourse with his daughter. Objectively viewed, his criminal intent was the same for each pair of charged crimes (i.e., incest and child rape) based on each instance of sexual intercourse. A finding of same criminal conduct is warranted. See Dunaway, 109 Wn.2d at 217 (kidnapping and robbery of a single victim encompassed same criminal conduct requiring treatment as one crime for sentencing purposes); see also State v. Collicott, 118 Wn.2d 649, 668-69, 827 P.2d 263 (1992) (reiterating that under Dun-away, \u201cif the defendant\u2019s criminal purpose did not change from one offense to another, then the offenses encompass the same criminal conduct\u201d).\n\u00b627 Contrary to the majority\u2019s view, the presence or absence of identical statutory mens rea elements is not the linchpin of this court\u2019s criminal intent inquiry. As this court explained in State v. Haddock, the intent inquiry \u201cfocuses on the extent to which the offender\u2019s \u2018criminal intent, as objectively viewed, changed from one crime to the next.\u2019 \u201d 141 Wn.2d 103, 112-13, 3 P.3d 733 (2000) (quoting Dunaway, 109 Wn.2d at 215). \u201cThus, counts with identical mental elements, if committed for different purposes, would not be considered the \u2018same criminal conduct.\u2019 \u201d Id. In Haddock, this court held that \u201c[defendant\u2019s] single intent to possess stolen property motivated the conduct underlying all seven convictions!; accordingly,] his criminal intent, objectively viewed, did not change from one crime to the next\u201d and all seven convictions counted as one point for offender score calculation purposes. Id.\n\u00b628 Rather than follow the clear case law applying RCW 9.94A.589, the majority, as did the courts below, relies on language in State v. Bobenhouse, 166 Wn.2d 881, 214 P.3d 907 (2009), that was unnecessary to the result in Boben-house and a misstatement of the law.\n\u00b629 In Bobenhouse, the defendant challenged imposition of an exceptional minimum sentence of 60 months based on multiple convictions for first degree child rape and first degree incest based on his sexual contacts with his minor son and the sexual contacts he forced his son and minor daughter to engage in. Id. at 887. He argued that the sentencing judge\u2019s, rather than a jury\u2019s, finding aggravating factors to support defendant\u2019s exceptional sentence violated Blakely v. Washington, 542 U.S. 296, 124 S. Ct. 2531, 159 L. Ed. 2d 403 (2004). See Bobenhouse, 166 Wn.2d at 895.\n\u00b630 This court rejected his Blakely challenge as well as his argument that the trial court should have treated the counts related to his daughter and the counts concerning defendant\u2019s acts committed directly against his son as the same criminal conduct. Id. at 893. In answer to his claim of same criminal conduct, we said,\n[E]ven if Bobenhouse\u2019s current offenses were treated as the \u201csame criminal conduct\u201d for purposes of sentencing, his offender score is greater than 9, which would result in some current offenses going unpunished if an exceptional sentence was not imposed. Any error in not treating Bobenhouse\u2019s crimes as the \u201csame criminal conduct\u201d was harmless.\nId. at 896-97. These holdings disposed of defendant\u2019s challenge to his exceptional sentence. However, the court commented:\nBobenhouse further argues the trial court abused its discretion when it did not find that the underlying rape and incest charges (stemming from forcing the children to have sexual intercourse with each other) constituted the \u201csame criminal conduct\u201d for purposes of sentencing. Bobenhouse would have this court hold that first degree child rape and first degree incest involve the same criminal intent, sexual intercourse. But this argument has no merit. We have previously held that \u201cthe Legislature intended to punish incest and rape as separate offenses, even though committed by a single act.\u201d State v. Calle, 125 Wn.2d 769, 780, 888 P.2d 155 (1995). Bobenhouse\u2019s argument must fail in light of the precedent set by our decision in Calle.\nId. at 896. Based on this language, the courts below rejected Chenoweth\u2019s argument that the incest and child rape charges in his case amounted to the same criminal conduct for sentencing purposes under RCW 9.94A.589.\n\u00b631 Instead of correcting the confusion caused by the quoted language, the majority embraces it. This is unwise and unwarranted. The comments in Bobenhouse about Calle, which appear without any analysis, are dicta because they were not necessary to the outcome of the Bobenhouse case. See City of Seattle v. Holifield, 170 Wn.2d 230, 244 n.13, 240 P.3d 1162 (2010) (court\u2019s comments in an opinion that are immaterial to the outcome are dicta); State v. Halgren, 137 Wn.2d 340, 346 n.3, 971 P.2d 512 (1999) (court\u2019s comments that do not bear on the outcome of a case are dicta); In re Pers. Restraint of Mulholland, 161 Wn.2d 322, 331, 166 P.3d 677 (2007) (declining to be influenced by dicta in judicial decision that encouraged the State\u2019s argument); see also Noble Manor v. Pierce County, 133 Wn.2d 269, 289, 943 P.2d 1378 (1997) (Sanders, J. concurring) (dicta are not controlling precedent); State v. Potter, 68 Wn. App. 134, 150, 842 P.2d 481 (1992) (statements in a case that are unnecessary to decide the case constitute dicta and need not be followed).\n\u00b632 More importantly, the language misstates this court\u2019s prior decision in Calle. Calle addressed a double jeopardy challenge. The language that the Bobenhouse court quoted from Calle appears in Calle\u2019s discussion of double jeopardy, it does not relate to any same criminal conduct analysis. See 125 Wn.2d at 780.\n\u00b633 This court has repeatedly held that the analyses appropriate for same criminal conduct and \u201cdouble jeopardy are distinct.\u201d Tili, 139 Wn.2d at 119 n.5; see also State v. French, 157 Wn.2d 593, 611, 141 P.3d 54 (2006) (\u201cA double jeopardy violation claim is distinct from a \u2018same criminal conduct\u2019 claim and requires a separate analysis.\u201d). As we explained in Tili:\n[T]he \u201csame criminal conduct\u201d analysis under the Sentencing Reform Act of 1981 [, chapter 9.94A RCW], and the \u201cunit of prosecution\u201d analysis under double jeopardy are distinct. The \u201cunit of prosecution\u201d analysis is involved during the charging and trial stages, focusing on the Legislature\u2019s intent regarding the specific statute giving rise to the charges at issue. The \u201csame criminal conduct\u201d analysis, on the other hand, involves the sentencing phase and focuses on (1) the defendant\u2019s criminal objective intent, (2) whether the crime was committed at the same time and place, and (3) whether the crime involved the same victim.\n139 Wn.2d at 119 n.5 (citation omitted); see also French, 157 Wn.2d at 611-12.\n\u00b634 While Calle\u2019s double jeopardy analysis is not applicable to the same criminal conduct analysis at issue here, the final disposition of the Calle case nevertheless demonstrates how Chenoweth\u2019s case should be decided. In Calle, the trial court entered separate convictions for incest and rape of defendant\u2019s minor stepdaughter based on the same incident of sexual intercourse. See 125 Wn.2d at 771-72. The trial court also determined that the current offenses encompassed the same criminal conduct. On the central issue presented\u2014a challenge based on double jeopardy\u2014this court held that \u201csecond degree rape and first degree incest are separate offenses, and the double jeopardy clause does not prevent convictions, and attendant penalties, for both offenses arising out of a single act of intercourse.\u201d Id. at 782 (emphasis added).\n\u00b635 As to the actual sentence imposed in Calle, this court noted that \u201cthe Legislature\u2019s validation of the concept of multiple convictions arising out of the same criminal act in [former] RCW 9.94A.400(1)(a) [(1990)],[] which requires multiple current offenses encompassing the same criminal conduct to be counted as one crime in determining the defendant\u2019s offender score.\u201d Id. at 781 (emphasis added). After acknowledging the definition of \u201csame criminal conduct\u201d and that sentences imposed under this subsection are to be served concurrently, the Calle court opined, \u201c[I]t seems clear that the legislative plan accepts the possibility that a single act may result in multiple convictions, and simply limits the consequences of such convictions .\u201d Id. at 781-82 (emphasis added). From this discussion, it is clear that Calle supports the notion that while separate convictions for incest and rape based on the same incident of sexual intercourse do not offend the double jeopardy clause, calculation of defendant\u2019s offender score is still subject to a separate same criminal conduct analysis under the sentencing statute (currently RCW 9.94A.589(1)(a)).\n\u00b636 Notwithstanding Calle\u2019s distinction between double jeopardy and same criminal conduct, the majority repeats the mistake in the Bobenhouse dicta, stating, \u201c[Legislative history supports the \u2018conclusion that the Legislature intended to punish incest and rape as separate offenses, even though committed by a single act.\u2019 Calle, 125 Wn.2d at 780.\u201d Majority at 224. Again, while Calle indeed so stated, the point was made in rejecting the defendant\u2019s double jeopardy argument. See 125 Wn.2d at 780. Citing to Calle again, the majority contends, \u201cWe have held that where legislative intent is clearly indicated, that intent controls the offender score. See Calle, 125 Wn.2d at 778.\u201d Majority at 224 (emphasis added). But Calle simply does not say that. Calle says that for purposes of assessing double jeopardy, aside from considering the \u201csame evidence\u201d test and the \u201csame elements\u201d test, Washington courts look to other \u201cindicia of legislative intent ... to determine whether a defendant is receiving multiple punishment for the same offense.\u201d 125 Wn.2d at 778 (emphasis added). Concerning the incest and child rape offenses at issue in Calle, such indicia included the legislative history, the placement of the offenses in different sections of the criminal code, and the different purposes served by the offenses. See id. at 779-81. The majority repeats these indicia, noted in Calle for double jeopardy purposes, claiming that they also support imposition of separate sentences in Chenoweth\u2019s case. But that approach ignores the analysis and outcome in Calle, which held that multiple incest and child rape convictions did not offend double jeopardy but affirmed that the sentencing statute (former RCW 9.94A.400(1)(a) (1990), currently RCW 9.94A-.589(1)(a)) nevertheless \u201climits the consequences of such convictions.\u201d Id. at 782.\n\u00b637 Further, this court has previously rejected the approach adopted by the majority here. In Haddock, the State similarly argued that because \u201cthe Legislature specifically intended firearms crimes to be punished more severely than other crimes,\u201d such firearm crimes should never be counted as same criminal conduct with other contemporaneous crimes. 141 Wn.2d at 114. This court opined, \u2018While the State\u2019s premise that the Legislature and the people intend that crimes involving firearms should be more harshly punished than other crimes is more or less correct, [the State\u2019s] conclusion from that premise is unwarranted.\u201d Id. Noting that the legislation, which the State relied on to demonstrate legislative intent, did not expressly modify the same criminal conduct language of the sentencing statute, this court held that based on defendant\u2019s \u201csingle intent to possess stolen property,\u201d all seven of his current convictions (for possession of stolen firearms and other property) counted as one point for sentencing purposes. Id. at 112-15.\n\u00b638 In sum, in addressing the same criminal conduct for sentencing purposes, the majority applies an erroneous statutory mens rea criteria that none of the parties advanced and perpetuates confusion in this area by relying on a misstatement in dicta in Bobenhouse, which is contrary to our prior relevant case law addressing same criminal conduct analysis.\n\u00b639 For these reasons, I dissent.\nStephens, Wiggins, and Gordon McCloud, JJ., concur with Madsen, C.J.\nReconsideration denied April 25, 2016.\nWhile the presence of different statutory \u201celements\u201d plays a limited role in the context of a double jeopardy analysis, see State v. Calle, 125 Wn.2d 769, 777-79, 888 P.2d 155 (1995), double jeopardy is not the basis of Chenoweth\u2019s challenge here.\nCourts have also looked at whether one crime furthers the other or whether the offenses were part of a recognized plan or scheme. Dunaway, 109 Wn.2d at 215 (furtherance test); State v. Lewis, 115 Wn.2d 294, 302, 797 P.2d 1141 (1990) (same scheme or plan).\nTili addressed former RCW 9.94A.400(1)(a) (1996), which was recodified without substantive changes in 2001 as RCW 9.94A.589(1)(a). See Laws of 2001, ch. 10, \u00a7 6 (effective July 1, 2001); State v. Mutch, 171 Wn.2d 646, 654, 254 P.3d 803 (2011).\nSee RCW 9.94A.525(17) (\u201cIf the present conviction is for a sex offense,... count three points for each adult and juvenile prior sex offense conviction.\u2019\u2019), ,030(47)(a)(ii) (\u201csex offense\u2019\u2019 includes a violation of RCW 9A.64.020 (defining incest)), .515 (indicating RCW 9A.64.020(1) (first degree incest) has a \u201cSeriousness Level\u2019\u2019 of \u201cVI\u2019\u2019 for offender score calculation purposes), .510 (offender score calculation grid designating a standard range of 77-102 months for an offense with a seriousness level of VI and an offender score of 9+).\nThis court has observed, citing in part to Dunaway and Adame, that \u201cDivisions One and Three have followed this court\u2019s precedent establishing a factors balancing approach to the \u2018same criminal intent\u2019 test.\u2019\u2019 State v. S.S.Y., 170 Wn.2d 322, 332 n.5, 241 P.3d 781 (2010). This court noted, however, \u201cDespite this precedent, Division Two has adopted its own per se rule, holding, as a matter of law, two offenses cannot encompass the same criminal intent if the offenses require different mental elements.\u2019\u2019 Id. (emphasis added). This court acknowledged \u201cconcerns\u2019\u2019 about the Division Two rule, observing that it is \u201cin conflict\u2019\u2019 with cases from the other appellate divisions \u201cand this court,\u2019\u2019 but because the issue was not procedurally before the court, it declined to address the matter further. Id. at 332-33. Here, neither party raised any sort of statutory mental elements test. And, the majority cites to no authority supporting its view that a comparison of \u201cstatutory criminal intent\u2019\u2019 (i.e., mens rea elements in the incest and child rape statutes) is dispositive of the same criminal conduct inquiry in this case.\nThe courts below recognized the conflict between Calle s analysis and holding and Bobenhouse's comment concerning Calle. The trial court stated:\n[E]ach of the two counts that are coupled together in this case are a single act with the same intent, same victim, same time, but it is clear from Bobenhouse that they are to be punished separately. ... 7 can\u2019t reconcile the language in Calle with that, but ... I have nothing [before me] that specifically overrules Bobenhouse ... [s]o I will find that although they in fact consist of the same act, that they are, by a very distinct and a separate rule of law, to be punished separately.\u201d\nReport of Proceedings (Oct. 11, 2013) at 150 (emphasis added). The Court of Appeals opined:\nIn Bobenhouse, 166 Wn.2d at 897, the Washington Supreme Court held that the legislative intent to punish rape and incest as separate offenses, even though committed by a single act [i.e., the holding in Calle addressing double jeopardy], extends to the same criminal conduct analysis for the purposes of sentencing.\nState v. Chenoweth, No. 71028-1-I, slip op. at 9 (Wash. Ct. App. Feb. 2, 2015) (unpublished), http://www.courts.wa.gov/opinions/pdl7710281.pdf (emphasis added).\n\u201cAt issue in this case is whether the defendant\u2019s convictions for first degree incest and second degree rape violate the Fifth Amendment\u2019s protection against double jeopardy because they arose from a single act of intercourse.\u2019\u2019 Calle, 125 Wn.2d at 771. Calle observed, \u201c[T]he guaranty against double jeopardy protects against multiple punishments for the same offense? Id. at 776 (emphasis added) (citing Whalen v. United States, 445 U.S. 684, 688, 100 S. Ct. 1432, 63 L. Ed. 2d 715 (1980)). Calle reiterated, \u201cOur review here is limited to assuring that the court did not exceed its legislative authority by imposing multiple punishments for the same offense.\u2019\u2019 Id. \u201c[DJouble jeopardy is at issue here [in Calle] because of the possibility that rape and incest are the same offense when they arise out of the same act of intercourse.\u2019\u2019 Id. at 774.\nIn Calle, \u201c[t]he trial court determined that the current offenses encompassed the same criminal conduct. Thus, neither crime raised the offender score of the other. The trial court sentenced the Defendant to standard range sentences of 18 months for the incest and 70 months for the rape, and set the sentences to run concurrently.\u201d Id. at 772.\nThe Calle court observed that apart from any sentence imposed, separate convictions based on a single incident carried adverse collateral consequences such as possible parole eligibility impacts, increased sentence under a recidivist statute for a future offense, use for impeachment, and social stigma. Id. at 773-75 (\u201c \u2018Conviction in itself, even without imposition of sentence, carries an unmistakable onus which has a punitive effect.\u2019 \u201d (quoting State v. Johnson, 92 Wn.2d 671, 679, 600 P.2d 1249 (1979), cert. dismissed, 446 U.S. 948 (1980))).\nRecodified as RCW 9.94A.589(1)(a). Mutch, 171 Wn.2d at 654.\nSimilarly, the majority\u2019s view is also contrary to Tili, which held multiple convictions did not violate double jeopardy but amounted to same criminal conduct for sentencing purposes. See 139 Wn.2d at 119, 124-25, 128.\n\u201c[T]he \u2018Hard Time for Armed Crime\u2019 initiative of 1995, codified in [former] RCW 9.94A.310(4) [(1995)].\u201dHaddock, 141 Wn.2d at 114.",
+        "type": "dissent",
+        "author": "Madsen, C.J."
+      }
+    ],
+    "attorneys": [
+      "Thomas M. Kummerow (o\u00ed Washington Appellate Project), for petitioner.",
+      "Rich A. Weyrich, Prosecuting Attorney, and Erik Pedersen and Rosemary H. Kaholokula, Deputies, for respondent."
+    ],
+    "corrections": "",
+    "head_matter": "[No. 91366-8.\nArgued November 12, 2015.\nDecided March 17, 2016.\nThe State of Washington, Respondent, v. Chad Curtis Chenoweth, Petitioner.\nThomas M. Kummerow (o\u00ed Washington Appellate Project), for petitioner.\nRich A. Weyrich, Prosecuting Attorney, and Erik Pedersen and Rosemary H. Kaholokula, Deputies, for respondent."
+  },
+  "file_name": "0218-01",
+  "first_page_order": 272,
+  "last_page_order": 292
+}

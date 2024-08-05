@@ -1,0 +1,500 @@
+{
+  "id": 1357210,
+  "name": "Toler v. Brown",
+  "name_abbreviation": "Toler v. Brown",
+  "decision_date": "1923-02-19",
+  "docket_number": "",
+  "first_page": "225",
+  "last_page": "229",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "157 Ark. 225"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [
+    {
+      "cite": "103 Ark. 589",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1352037
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/103/0589-01"
+      ]
+    },
+    {
+      "cite": "99 Ark. 78",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "97 Ark. 92",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1318849
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/97/0092-01"
+      ]
+    },
+    {
+      "cite": "96 Ark. 400",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1542032
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/96/0400-01"
+      ]
+    },
+    {
+      "cite": "66 Ark. 523",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1909774
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/66/0523-01"
+      ]
+    },
+    {
+      "cite": "90 Ark. 482",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1513792
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/90/0482-01"
+      ]
+    },
+    {
+      "cite": "119 S. W. 267",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "91 Ark. 43",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1511769
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/91/0043-01"
+      ]
+    },
+    {
+      "cite": "85 Ark. 326",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1523315
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/85/0326-01"
+      ]
+    },
+    {
+      "cite": "81 Ark. 195",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1530692
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/81/0195-01"
+      ]
+    },
+    {
+      "cite": "78 Ark. 490",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1497316
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/78/0490-01"
+      ]
+    },
+    {
+      "cite": "76 Ark. 326",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1500979
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/76/0326-01"
+      ]
+    },
+    {
+      "cite": "73 Ark. 377",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1504005
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/73/0377-01"
+      ]
+    },
+    {
+      "cite": "65 Ark. 116",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        609250
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "225"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/65/0116-01"
+      ]
+    },
+    {
+      "cite": "142 Ark. 159",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1590580
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/142/0159-01"
+      ]
+    },
+    {
+      "cite": "130 Ark. 465",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        8721627
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/130/0465-01"
+      ]
+    },
+    {
+      "cite": "222 S. W. 725",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "122 Ark. 411",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "222 S. W. 722",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "143 Ark. 484",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "94 Ark. 39",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1545424
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/94/0039-01"
+      ]
+    },
+    {
+      "cite": "86 Ark. 368",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1521476
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/86/0368-01"
+      ]
+    },
+    {
+      "cite": "122 Ark. 407",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1558199
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/122/0407-01"
+      ]
+    },
+    {
+      "cite": "104 Ark. 439",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1350617
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/104/0439-01"
+      ]
+    },
+    {
+      "cite": "98 Ark. 553",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1316043
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/98/0553-01"
+      ]
+    },
+    {
+      "cite": "90 Ark. 152",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1513873
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/90/0152-01"
+      ]
+    },
+    {
+      "cite": "105 Ark. 554",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "67 Md. 449",
+      "category": "reporters:state",
+      "reporter": "Md.",
+      "case_ids": [
+        1812566
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/md/67/0449-01"
+      ]
+    },
+    {
+      "cite": "61 Md. 206",
+      "category": "reporters:state",
+      "reporter": "Md.",
+      "case_ids": [
+        1800264
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/md/61/0206-01"
+      ]
+    },
+    {
+      "cite": "130 Pa. St. 342",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        569003
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/130/0342-01"
+      ]
+    },
+    {
+      "cite": "99 Am. Dec. 729",
+      "category": "reporters:federal",
+      "reporter": "Am. Dec.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "6 Dana 257",
+      "category": "reporters:state",
+      "reporter": "Dana",
+      "case_ids": [
+        5551955
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ky/36/0257-01"
+      ]
+    },
+    {
+      "cite": "118 N. C. 202",
+      "category": "reporters:state",
+      "reporter": "N.C.",
+      "case_ids": [
+        8652881
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/nc/118/0202-01"
+      ]
+    },
+    {
+      "cite": "50 Cal. 595",
+      "category": "reporters:state",
+      "reporter": "Cal.",
+      "case_ids": [
+        2318177
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/cal/50/0595-01"
+      ]
+    },
+    {
+      "cite": "80 Ark. 204",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1491144
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/80/0204-01"
+      ]
+    },
+    {
+      "cite": "31 Ark. 3",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "49 Ark. 367",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1309230
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/49/0367-01"
+      ]
+    },
+    {
+      "cite": "29 Ark. 151",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1882889
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/29/0151-01"
+      ]
+    },
+    {
+      "cite": "19 Ark. 533",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        8726851
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/19/0533-01"
+      ]
+    },
+    {
+      "cite": "33 Ark. 479",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "80 Ark. 240",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 446,
+    "char_count": 7934,
+    "ocr_confidence": 0.478,
+    "pagerank": {
+      "raw": 5.676830387708631e-08,
+      "percentile": 0.35444286520179363
+    },
+    "sha256": "4c5c358df99bae5cf83d3732ce7744ce0503ca2feeba3d490be071cf2a40c69d",
+    "simhash": "1:34af89c7f8d7c9c5",
+    "word_count": 1396
+  },
+  "last_updated": "2024-02-27T20:13:54.858580+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Toler v. Brown."
+    ],
+    "opinions": [
+      {
+        "text": "McCulloch, C. J.\nFinis Gallion, a young man residing in Grant County, Arkansas, entered the military service of our government during the war with the Central Powers of Europe, and was sent to 'Camp Beauregard for training. Later he went to France, and died there while still in the military service.\nA letter purporting to have been written by Finis Gallion during hisi stay at 'Camp Beauregard to his brother, Ed Gallion, was offered for probate in Grant County as a last will and testament, and the probate court admitted the instrument of writing as a holographic will of Finis Gallion, on proof that the signature and .'body of the instrument were in the handwriting \u00f3f the alleged testator. There was an infant son of the alleged testator, and his guardian prosecuted an appeal to the circuit court of Grant County from the order admitting the instrument to probate as a will, and on the trial of the issue before a jury the following verdict was returned:\n\u201cWe; the jury, find that the instrument purporting to he the will of Finis Gallion, deceased, was not executed hy him, or, if executed by him, is not a valid will, as it was not his intention, at the time it was written, that it should be his will, therefore we find for the contestant, Mrs. G. N. Brown, as guardian of Carl Gallion, a minor.\u201d\nThe court rendered a judgment upon the verdict to the effect that the instrument offered was not the will of Finis Gallion, and an appeal has been prosecuted by the executor and by Ed Gallion, the legatee under the will.\nAt the trial of the cause appellant introduced three witnesses, who testified that they were familiar with the handwriting- of Finis Gallion, and that the offered instrument was in his handwriting. One of the witnesses testified that he was present at Camp Beauregard when the letter was written, and that he recognized it as one which Gallion had handed him to read before he mailed it.\nOur statute provides that an unattested will, written in the handwriting of the testator, \u201cmay be established by the unimpeachable evidence of at least three disinterested witnesses to the handwriting- and signature * * V\u2019 Crawford & Moses\u2019-Digest, \u00a7 10494.\nThere was no testimony directly impeaching the credibility of the witnesses offered in support of the will, and, in the absence of any evidence tending to contradict the fact that the instrument is in the handwriting of the alleged testator, the testimony must be treated as undisputed and the. will established. Arendt v. Arendt, 80 Ark. 240. In the present case, however, there is testimony tending- to show that the instrument in question is not in the handwriting of Finis Gallion. The letter is on two separate sheets, the testamentary portion of the letter being found entirely on the second sheet.\nTom Gallion, a brother of Finis, testified that he was familiar with his brother\u2019s handwriting, and that the second sheet of the letter was not in his brother\u2019s handwriting. The contestant also introduced three other witnesses, who testified as experts, and stated that they had examined the letter,- and that the two sheets were not in the same handwriting.\nThere are other circumstances adduced in evidence which tend to contradict the fact that the whole of the letter was in the handwriting of Finis Gallion. There was sufficient evidence, therefore, to support the finding of the jury.\nThe only objection made by appellant in regard to the court\u2019s charge to the jury is the objection to the refusal to give a peremptory instruction. This ruling was-correct, as there was sufficient evidence to submit the issues to the jury.\nObjections are urged here to several of the instructions given by the court at the request of the contestant, but as timely objection was not made at the trial below, we cannot consider these assignments.\nIt is also urged here, for the first time, that the verdict is in the alternative and does not support the judgment. There is a slight ambiguity in the form of the verdict, but the court interpreted it to be a finding against the execution of the will, and appellant made no objection to the form of the verdict. It is reasonably certain, from the language of the verdict, that the jury meant to find that the instrument was not executed by Finis Gallion, and if it was thought to be in doubt there should have been objection made to its form.\nFinding no error on the record of the trial, the judgment must be affirmed, and it is so ordered.",
+        "type": "majority",
+        "author": "McCulloch, C. J."
+      }
+    ],
+    "attorneys": [
+      "Thos. E. Toler and R. R. Posey, for appellant.",
+      "T. Nathan Nall and Isaac McClellan, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Toler v. Brown.\nOpinion delivered February 19, 1923.\n1. Wills \u2014 holographic will. \u2014 Under Crawford & Moses\u2019 Dig., .\u00a7 10494, -an unattested w-ill written in the handwriting of the testator may be establish\u00e9d by the -unimpeachable evidence of at least three disinterested witnesses to the handwriting and signatures, and, where there is no testimony tending to impeach the credibility of the witnesses offered in support of a holographic will and no evidence tending to contradict the fact that the instrument is in the handwriting* of the alleged testator, the testimony must be treated as undisputed, and the will established.\n2. Wills \u2014 finding that letter was not holographic will. \u2014 Testimony held to sustain a finding that a certain letter was not a holographic will.\n3. Appeal and error \u2014 objections not raised below. \u2014 Objections to instructions in proceedings to contest will, not made in trial below, will not be considered on appeal.\n4. Wills \u2014 contest\u2014ambiguous verdict. \u2014 A verdict, \u201cWe, the jury, find that the instrument purporting to be the will of * * * was not executed by him, or, if executed by him, is not a valid will, as it was not his intention at the time it was written that it should be his will,\u201d held, tboug'h slightly ambiguous, a sufficient finding that the instrument was not a will, particularly where the objection to its form was not made below.\nAppeal from Grant Circuit Court; W. II. Evans, Judge;\naffirmed.\nThos. E. Toler and R. R. Posey, for appellant.\nThe burden of proof rested upon the contestant to show iraud or forgery. 33 Ark. 479; 19 Ark. 533; 29 Ark. 151; 49 Ark. 367; 31 Ark. 3.75; 80 Ark. 204. It is not necessary that a writing, to be a valid will, be in any particular form or be couched in language technically appropriate to its testamentary character. It is sufficient if it discloses the intention of the maker. 1 Jarman on Wills (6th ed.); 7 Appeal Cases 409. Instances where wills have been held valid which were expressed in even less direct language may be found as follows: 50 Cal. 595; 1 Jones\u2019 Law (N. C.) 150; 118 N. C. 202; 107 By. 293; 6 Dana 257; 21 L. Aim. 280; 99 Am. Dec. 729; 130 Pa. St. 342; 61 Md. 206;. 67 Md. 449; 105 Ark. 554. The letter was testamentary in character and intended to direct the disposition of his property after death. 90 Ark. 152; 98 Ark. 553; 104 Ark. 439; 122 Ark. 407. The expression in the letter \u201cand will, the rest a dollar apiece\u201d was sufficient to designate the child of the testator. 86 Ark. 368; 94 Ark. 39; 143 Ark. 484.\nT. Nathan Nall and Isaac McClellan, for appellee.\nThe jury had ample grounds for declaring the purported will a fraud or forgery. The credibility of the witnesses was a question for the jury. 222 S. W. 722; 80 Ark. 204; 122 Ark. 411; 222 S. W. 725. Verdicts will not be overturned where there is substantial evidence to support them. 130 Ark. 465; 142 Ark. 159. Appellant\u2019s peremptory instruction' was properly refused. Conflicting evidence is always a matter for the jury to pass on. 65 Ark. 116; Id. 225; 73 Ark. 377; 76 Ark. 326. Appellant raised no objection at the trial to instruction No. 1 for appellee, and it is too late now. 78 Ark. 490; 81 Ark. 195; 85 Ark. 326; 91 Ark. 43. Objection cannot be made for the first time to the form of the verdict, on appeal. 119 S. W. 267; 90 Ark. 482. The newly discovered evidence upon which a new trial was asked was only cumulative. 66 Ark. 523; 96 Ark. 400; 97 Ark. 92; Id. 290; 99 Ark. 78; 103 Ark. 589."
+  },
+  "file_name": "0225-01",
+  "first_page_order": 247,
+  "last_page_order": 251
+}

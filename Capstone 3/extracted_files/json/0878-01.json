@@ -1,0 +1,306 @@
+{
+  "id": 4356229,
+  "name": "The State of Washington, Respondent, v. Jason Allen Graham, Petitioner",
+  "name_abbreviation": "State v. Graham",
+  "decision_date": "2014-11-13",
+  "docket_number": "No. 89869-3",
+  "first_page": "878",
+  "last_page": "887",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "181 Wash. 2d 878"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Wash.",
+    "id": 9029,
+    "name": "Washington Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 38,
+    "name_long": "Washington",
+    "name": "Wash."
+  },
+  "cites_to": [
+    {
+      "cite": "723 P.2d 1123",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1986,
+      "opinion_index": 0
+    },
+    {
+      "cite": "106 Wn.2d 525",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1195544
+      ],
+      "year": 1986,
+      "pin_cites": [
+        {
+          "page": "530"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/106/0525-01"
+      ]
+    },
+    {
+      "cite": "808 P.2d 1141",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1991,
+      "opinion_index": 0
+    },
+    {
+      "cite": "116 Wn.2d 777",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1376211
+      ],
+      "year": 1991,
+      "pin_cites": [
+        {
+          "page": "784-85"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/116/0777-01"
+      ]
+    },
+    {
+      "cite": "719 P.2d 531",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1986,
+      "opinion_index": 0
+    },
+    {
+      "cite": "105 Wn.2d 778",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1199153
+      ],
+      "year": 1986,
+      "pin_cites": [
+        {
+          "page": "789"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/105/0778-01"
+      ]
+    },
+    {
+      "cite": "166 P.3d 677",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2007,
+      "opinion_index": 0
+    },
+    {
+      "cite": "161 Wn.2d 322",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        3801738
+      ],
+      "year": 2007,
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/161/0322-01"
+      ]
+    },
+    {
+      "cite": "156 P.3d 201",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2007,
+      "opinion_index": 0
+    },
+    {
+      "cite": "160 Wn.2d 106",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        3630933
+      ],
+      "year": 2007,
+      "pin_cites": [
+        {
+          "page": "110"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/160/0106-01"
+      ]
+    },
+    {
+      "cite": "257 P.3d 616",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2011,
+      "opinion_index": 0
+    },
+    {
+      "cite": "172 Wn.2d 236",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4017948
+      ],
+      "year": 2011,
+      "pin_cites": [
+        {
+          "page": "242"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/172/0236-01"
+      ]
+    },
+    {
+      "cite": "327 P.3d 55",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2014,
+      "opinion_index": 0
+    },
+    {
+      "cite": "180 Wn.2d 1013",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "year": 2014,
+      "opinion_index": 0
+    },
+    {
+      "cite": "314 P.3d 1148",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2013,
+      "opinion_index": 0
+    },
+    {
+      "cite": "178 Wn. App. 580",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        4347894
+      ],
+      "year": 2013,
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/178/0580-01"
+      ]
+    },
+    {
+      "cite": "173 Wn.2d 1011",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "year": 2012,
+      "opinion_index": 0
+    },
+    {
+      "cite": "163 Wn. App. 1011",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        4020488,
+        4018562,
+        4020838,
+        4019439
+      ],
+      "year": 2011,
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/163/1011-02",
+        "/wash-app/163/1011-03",
+        "/wash-app/163/1011-04",
+        "/wash-app/163/1011-01"
+      ]
+    },
+    {
+      "cite": "234 P.3d 210",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2010,
+      "opinion_index": 0
+    },
+    {
+      "cite": "169 Wn.2d 1005",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "year": 2010,
+      "opinion_index": 0
+    },
+    {
+      "cite": "225 P.3d 913",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2010,
+      "opinion_index": 0
+    },
+    {
+      "cite": "167 Wn.2d 889",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4004348
+      ],
+      "year": 2010,
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/167/0889-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 761,
+    "char_count": 14280,
+    "ocr_confidence": 0.739,
+    "pagerank": {
+      "raw": 1.0968469187710273e-07,
+      "percentile": 0.5670921354874358
+    },
+    "sha256": "22b2985e7c06bf194ba5e2f51412fc4d75789d4c681372093d2cff5ba188714e",
+    "simhash": "1:52465d8aeef7128a",
+    "word_count": 2289
+  },
+  "last_updated": "2024-02-27T19:47:16.443836+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "The State of Washington, Respondent, v. Jason Allen Graham, Petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "\u00b61 The issue in this case is whether a sentencing court may impose an exceptional sentence downward if the judge finds the multiple offense policy of RCW 9.94A-.589 results in a presumptive sentence that is clearly excessive in light of the purposes of the Sentencing Reform Act of 1981 (SRA), chapter 9.94A RCW. We need look only to the plain language of the SRA to conclude the sentencing court has such discretion.\nYu, J.\nFacts and Procedural History\nf 2 This case results from Jason Allen Graham\u2019s methamphetamine-induced shooting spree in January 2002. At about 1:00 a.m., a police officer stopped the vehicle Graham was driving. Over the next several minutes, Graham used an AK-47 to fire at six different police officers during a foot chase through downtown Spokane. Fortunately, he was the only person physically injured in the incident. Graham was convicted by a jury in 2003 of 10 offenses, including 6 \u201cserious violent offenses\u201d for sentencing purposes under the SRA. RCW 9.94A.030(45). He received an aggregate sentence of 1,225.5 months, the result of an increased offender score and consecutive sentences in accordance with RCW 9.94A.589(l)(b), in addition to several firearm enhancements.\n\u00b63 The Court of Appeals affirmed the original judgment and sentence, but we granted review and remanded to the Court of Appeals to reconsider the firearm enhancements in light of State v. Williams-Walker, 167 Wn.2d 889, 225 P.3d 913 (2010). State v. Graham, 169 Wn.2d 1005, 234 P.3d 210 (2010). On reconsideration, the Court of Appeals vacated Graham\u2019s sentence and remanded for resentencing. State v. Graham, noted at 163 Wn. App. 1011 (2011), review denied, 173 Wn.2d 1011 (2012).\n\u00b64 At resentencing Graham asked for an exceptional sentence downward of 25 years. He argued RCW 9.94A-.535(l)(g) \u2014 the \u201cmultiple offense policy\u201d mitigating factor\u2014 permitted both a departure from the standard range and imposition of concurrent sentences. The original sentencing judge expressed regret at the presumptive sentencing range for Graham\u2019s serious violent offenses. The judge stated on the record that there was no authority to impose an exceptional sentence:\nAnd quite frankly, in my mind [the presumptive sentence is] an awful lot of time for this. . . .\n... I don\u2019t agree with this sentence. I don\u2019t agree with it. I\u2019m not suggesting that you don\u2019t deserve a punishment. . . . But without some other mitigating circumstance, my hands are tied. Again, I don\u2019t write the laws; the legislature writes the laws. And this type of a scenario was something that was anticipated by the law-writers when they wrote the law. So I don\u2019t believe that I have a choice but to sentence you within the standard sentence range. It is going to be a low-end sentence, however.\nVerbatim Report of Proceedings at 28-29. The judge imposed a sentence at the low end of the standard range for each serious violent offense to run consecutively, for a total sentence of 82.1 years. Graham again appealed his sentence, and the Court of Appeals affirmed. State v. Graham, 178 Wn. App. 580, 314 P.3d 1148 (2013). We granted review to determine whether RCW 9.94A.535(l)(g) permits exceptional sentences for multiple serious violent offenses scored under RCW 9.94A.589(l)(b). State v. Graham, 180 Wn.2d 1013, 327 P.3d 55 (2014).\nAnalysis\n\u00b65 As with all statutes, we interpret the SRA de novo to discern and implement the legislature\u2019s intent. State v. Jones, 172 Wn.2d 236, 242, 257 P.3d 616 (2011). We look first to the plain language, which, if unambiguous, ends the inquiry. State v. Armendariz, 160 Wn.2d 106, 110, 156 P.3d 201 (2007). We enforce the plain meaning of statutes. If there is no plain meaning and the language is ambiguous, we may glean the statute\u2019s intent from its legislative history. Id. at 110-11.\nA\n\u00b66 Under the SRA, a sentencing court generally must impose a sentence within the standard sentencing range. RCW 9.94A.505(2)(a)(i). However, the SRA authorizes a departure from the standard range in some circumstances. See RCW 9.94A.535. Specifically, .535(1) lists mitigating circumstances that a court might rely on depending on the facts of the particular case. The one at issue here is .535(l)(g):\nThe court may impose an exceptional sentence below the standard range if it finds that mitigating circumstances are established by a preponderance of the evidence. The following are illustrative only and are not intended to be exclusive reasons for exceptional sentences.\n. . . The operation of the multiple offense policy of RCW 9.94A.589 results in a presumptive sentence that is clearly excessive in light of the purpose of this chapter, as expressed in RCW 9.94A.010.\nThe \u201cmultiple offense policy of RCW 9.94A.589\u201d that .535(l)(g) references contains five subsections. Those relevant in this case are subsections (l)(a) and (l)(b), which advise sentencing courts when sentences for multiple current offenses are presumed to run concurrent or consecutive to one another.\n\u00b67 The State argues \u201cthe multiple offense policy of RCW 9.94A.589\u201d does not include multiple serious violent offenses under .589(l)(b) because its sole purpose \u201cis to permit consecutive sentences in an otherwise concurrent mandate.\u201d Suppl. Br. at 5. The State contends the legislature intended to foreclose exceptional sentences for serious violent offenses. So we must decide if .535(l)(g) applies equally to subsections (l)(a) and (l)(b) of .589.\nB\n\u00b68 We need look only to .535(l)(g)\u2019s plain meaning to conclude the legislature considered exceptional sentences possible for some serious violent offenses. There is no textual support for the State\u2019s position that the phrase \u201cmultiple offense policy,\u201d as it appears in .535(l)(g), refers only to multiple violent and nonviolent offenses and not to multiple serious violent offenses. The State does not explain why .535(l)(g)\u2019s broad reference to \u201cRCW 9.94A.589\u201d means only subsection (l)(a). All five subsections in .589 deal with sentencing multiple offenses. The legislature knows how to cite specific subsections and twice cited subsection .589(l)(a) specifically, including within the SRA. See RCW 61.34.030; RCW 9.94A.525(5)(a)(i). The legislature also separately identified subsections .589(1) and (2) elsewhere in the text of .535, implying its failure to separately identify subsections .589(l)(a) and (b) was a deliberate policy choice. RCW 9.94A.535.\n\u00b69 We found the plain text of .535 dispositive in In re Personal Restraint of Mulholland, 161 Wn.2d 322, 166 P.3d 677 (2007). There the defendant sought concurrent sentences for six counts of first degree assault, a serious violent offense under the SRA. The State similarly argued .535(l)(g) did not apply because .589(l)(b) mandated consecutive sentences for all serious violent offenses. Id. at 328-29. We unanimously concluded the sentencing judge could rely on .535(l)(g) to impose concurrent sentences:\n[T]he State\u2019s argument fails because it pays too little heed to the plain language of RCW 9.94A.535. . . . Because [,535(l)(g)] does not differentiate between subsections (l)(a) and (l)(b) [of .589], it can be said that a plain reading of the statute leads inescapably to a conclusion that exceptional sentences may be imposed under either subsection of RCW 9.94A.589(1).\nId. at 329-30. Mulholland is controlling, and this case does not provide a factual or legal basis to reject or depart from our prior interpretation of .535.\nf 10 We find additional support for our holding elsewhere in the SRA. Unlike sentences for other crimes, the legislature has not expressly revoked discretion to impose exceptional sentences for serious violent offenses. For example, exceptional sentences downward are not available for persistent offenders, offenses with mandatory minimums, or some sex offenses. See RCW 9.94A.507(3)(c)(ii), .540(1), .570. Sentencing enhancements, the lengths of which the sentencing judge cannot modify, also increase some sentences even if facts permit a departure from the standard range for the underlying offense. RCW 9.94A.533. No similar provisions bar exceptional sentences for serious violent offenses scored under .589(l)(b).\n\u00b611 The only rationale offered by the State and the unpublished cases cited by the Court of Appeals is the legislature\u2019s intent that serious violent offenses carry more severe punishment than other crimes. These authorities often rely on a single sentence in Professor David Boerner\u2019s seminal treatise. David Boerner, Sentencing in Washington \u00a7 9.12(e) at 9-32 (1985). But if Professor Boerner\u2019s comments on the subject are read in context, he suggests only that the legislature constructed the SRA to signal exceptional sentences for multiple offenses \u201cought to be rare.\u201d Id. This is accomplished not by prohibiting exceptional sentences for multiple serious violent offenses altogether, but by limiting them for presumptive range sentences that are \u201cclearly excessive,\u201d RCW 9.94A.535(l)(g), and where the exceptional sentence is supported by \u201csubstantial and compelling reasons.\u201d RCW 9.94A.535. These constrictions refute the State\u2019s admonition that Mulholland has stripped .589(l)(b) of practical effect or that we risk returning to the pre-SRA era of disparate sentencing.\nf 12 We take this opportunity to reaffirm that a sentencing judge may invoke .535(l)(g) to impose exceptional sentences both for multiple violent and nonviolent offenses scored under ,589(l)(a) and for multiple serious violent offenses under .589(l)(b).\nC\n\u00b613 The State challenges our holding in Mulholland in two ways. First, it argues we erred in Mulholland by creating a rule contrary to the legislature\u2019s intent. But we simply construed the unambiguous language of .535(l)(g), which is the best evidence of legislative intent. And the legislature has indicated its approval of our interpretation by not amending .535 in the seven years since our decision. Hangman Ridge Training Stables, Inc. v. Safeco Title Ins. Co., 105 Wn.2d 778, 789, 719 P.2d 531 (1986).\n\u00b614 Second, the State suggests Mulholland allows only exceptional concurrent sentences for serious violent offenses and does not permit downward departures from the standard sentencing range. Our case law compels a different conclusion. In State v. Batista, 116 Wn.2d 777, 784-85, 808 P.2d 1141 (1991), we considered the scope of former RCW 9.94A.390(2)(f) (1988), which allowed upward departures when \u201cthe multiple sentencing policy of RCW 9.94A-.[589] results in a presumptive sentence that is clearly too lenient in light of the purpose of [the SRA].\u201d We held the sentencing judge could use this aggravator to impose two types of exceptional sentences for offenses scored using .589(l)(a). \u201cIf a presumptive sentence is clearly too lenient, this problem could be remedied either by lengthening concurrent sentences, or by imposing consecutive sentences.\u201d Id. at 785-86.\nf 15 The form of current .535(l)(g) mirrors the language of former RCW 9.94A.390(2)(f) at issue in Batista. Both cure the same sentencing concern. The legislature \u201cadopted [these] parallel\u201d provisions to address \u201cthe potential that its multiple offense policy could operate to produce presumptive sentence ranges inconsistent with the purposes of the [SRA].\u201d Boerner, supra, \u00a7 9.12(e) at 9-31 (footnote omitted). Following Batista\u2019s rationale, we hold .535(l)(g) empowers a sentencing judge to reduce a \u201cclearly excessive\u201d sentence by lessening sentences for the offenses and/or by imposing concurrent sentences.\nf 16 The State offers no persuasive policy reason to limit .535(l)(g) to imposing concurrent standard range sentences for serious violent offenses. The legislature recognized it could not craft a standard range that could account for all factual variations underlying offenses and offenders. It adopted .535 as a safety valve. State v. Oxborrow, 106 Wn.2d 525, 530, 723 P.2d 1123 (1986). Since concurrent sentences are sometimes necessary to remedy injustices caused by the mechanical application of grids and ranges, as we recognized in Mulholland, there is no reason why downward departures from the standard range cannot accomplish the same goal.\nD\n\u00b617 Finally, Graham asks us to clarify the factual finding a sentencing judge must make to invoke the multiple offense policy mitigating factor of .535(l)(g). We decline to do so because we think the statute is also clear on that point. It directs the judge to consider if the presumptive sentence \u201cis clearly excessive in light of the purpose of this chapter, as expressed in RCW 9.94A.010.\u201d RCW 9.94A-.535(l)(g) (emphasis added). RCW 9.94A.010 lists seven policy goals the legislature intends the SRA to advance:\n(1) Ensure that the punishment for a criminal offense is proportionate to the seriousness of the offense and the offender\u2019s criminal history;\n(2) Promote respect for the law by providing punishment which is just;\n(3) Be commensurate with the punishment imposed on others committing similar offenses;\n(4) Protect the public;\n(5) Offer the offender an opportunity to improve himself or herself;\n(6) Make frugal use of the state\u2019s and local governments\u2019 resources; and\n(7) Reduce the risk of reoffending by offenders in the community.\nSentencing judges should examine each of these policies when imposing an exceptional sentence under .535(l)(g).\nConclusion\n\u00b618 We hold RCW 9.94A.535(l)(g) allows an exceptional sentence for multiple current serious violent offenses scored under RCW 9.94A.589(l)(b) that is achieved by departing downward from the standard ranges for the offenses and/or by running sentences concurrently. We reverse the Court of Appeals and remand for resentencing consistent with this opinion. We take no position on whether Graham\u2019s sentence is \u201cclearly excessive\u201d under .535(l)(g) or on the virtues of his 25-year sentence recommendation, as those issues are properly left for the sentencing judge.\nMadsen, C.J., and C. Johnson, Owens, Fairhurst, Stephens, Wiggins, Gonz\u00e1lez, and Gordon McCloud, JJ., concur.",
+        "type": "majority",
+        "author": "Yu, J."
+      }
+    ],
+    "attorneys": [
+      "Steven Witchley (of Holmes & Witchley PLLC), for petitioner.",
+      "Steven J. Tucker, Prosecuting Attorney, and Mark E. Lindsey and Andrew J. Metis III, Deputies, for respondent."
+    ],
+    "corrections": "",
+    "head_matter": "[No. 89869-3.\nEn Banc.]\nArgued October 2, 2014.\nDecided November 13, 2014.\nThe State of Washington, Respondent, v. Jason Allen Graham, Petitioner.\nSteven Witchley (of Holmes & Witchley PLLC), for petitioner.\nSteven J. Tucker, Prosecuting Attorney, and Mark E. Lindsey and Andrew J. Metis III, Deputies, for respondent."
+  },
+  "file_name": "0878-01",
+  "first_page_order": 920,
+  "last_page_order": 929
+}

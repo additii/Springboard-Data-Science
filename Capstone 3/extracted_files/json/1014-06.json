@@ -1,0 +1,78 @@
+{
+  "id": 12462857,
+  "name": "State, Respondent, v. Rosales-Contreras, Petitioner",
+  "name_abbreviation": "State v. Rosales-Contreras",
+  "decision_date": "2016-09-28",
+  "docket_number": "No. 93249-2",
+  "first_page": "1014",
+  "last_page": "1014",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "186 Wash. 2d 1014"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Wash.",
+    "id": 9029,
+    "name": "Washington Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 38,
+    "name_long": "Washington",
+    "name": "Wash."
+  },
+  "cites_to": [
+    {
+      "cite": "193 Wn. App. 1024",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        12450020,
+        12450021,
+        12450022,
+        12450023
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/193/1024-01",
+        "/wash-app/193/1024-02",
+        "/wash-app/193/1024-03",
+        "/wash-app/193/1024-04"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 27,
+    "char_count": 202,
+    "ocr_confidence": 0.858,
+    "sha256": "c1c118113db53a7147b0a6539345a89054bf3067768954b34bc026732782530b",
+    "simhash": "1:ccf1f27e3f7d8edc",
+    "word_count": 31
+  },
+  "last_updated": "2024-02-27T18:43:05.207238+00:00",
+  "provenance": {
+    "date_added": "2019-05-23",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "State, Respondent, v. Rosales-Contreras, Petitioner,"
+    ],
+    "opinions": [
+      {
+        "text": "Petition for review of a decision of the Court of Appeals, No. 72911-0-I, April 18, 2016, 193 Wn. App. 1024. Denied September 28, 2016.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "State, Respondent, v. Rosales-Contreras, Petitioner,\nNo. 93249-2."
+  },
+  "file_name": "1014-06",
+  "first_page_order": 1000,
+  "last_page_order": 1000
+}

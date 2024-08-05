@@ -1,0 +1,199 @@
+{
+  "id": 8723405,
+  "name": "Miller v. State",
+  "name_abbreviation": "Miller v. State",
+  "decision_date": "1923-10-22",
+  "docket_number": "",
+  "first_page": "469",
+  "last_page": "474",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "160 Ark. 469"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [
+    {
+      "cite": "135 Ark. 243",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1571523
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/135/0243-01"
+      ]
+    },
+    {
+      "cite": "37 Ark. 408",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1870956
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/37/0408-01"
+      ]
+    },
+    {
+      "cite": "50 Ark. 17",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        8719591
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/50/0017-01"
+      ]
+    },
+    {
+      "cite": "149 Ark. 387",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        8719995
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/149/0387-01"
+      ]
+    },
+    {
+      "cite": "141 Ark. 43",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1592948
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/141/0043-01"
+      ]
+    },
+    {
+      "cite": "110 Ark. 402",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1337069
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/110/0402-01"
+      ]
+    },
+    {
+      "cite": "135 Ark. 159",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1571583
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/135/0159-01"
+      ]
+    },
+    {
+      "cite": "130 Ark. 48",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        8717658
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/130/0048-01"
+      ]
+    },
+    {
+      "cite": "152 Ark. 218",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1364109
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/152/0218-01"
+      ]
+    },
+    {
+      "cite": "134 Ark. 303",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1573310
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/134/0303-01"
+      ]
+    },
+    {
+      "cite": "133 Ark. 540",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1575081
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/133/0540-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 483,
+    "char_count": 10283,
+    "ocr_confidence": 0.491,
+    "pagerank": {
+      "raw": 7.840183112995153e-08,
+      "percentile": 0.4584531762276488
+    },
+    "sha256": "11f7c9d2e99451973bf1d81d2f7bbc60448cca60460ca93057fbfde58dae6826",
+    "simhash": "1:3a7b7cb85e31b3e7",
+    "word_count": 1784
+  },
+  "last_updated": "2024-02-27T17:41:07.582861+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Miller v. State."
+    ],
+    "opinions": [
+      {
+        "text": "Hart, J.\nJohn Miller prosecutes this appeal to reverse a judgment of conviction against him for being interested in the sale of intoxicating liquors.\nWill Sandalin was the principal witness for the State. According to his testimony, during May, 1923, he was working as lineman for the Southwestern Bell Telephone Company in the city of Fort Smith, Ark. His- foreman was named Hare, and drank whiskey. One evening about five o\u2019clock in May, 1923, Hare,told Sand-alin to go to Ninth and G- Streets in Fort Smith, Ark., and buy him a pint of whiskey from a man whom he Would find there. When Sandalin got there, a man walked towards him and asked him if he wanted him. Sandalin asked the man - if he had a pint of whiskey. The man replied that he did, and Sandalin told him to bring it to him between Fifth and Sixth streets on North A Street in about thirty minutes. About thirty minutes later, while Sandalin was standing in an alley between Fifth and Sixth streets, the man and a woman came up to him. The woman had. a package in her hand, and laid it down in Sandalin\u2019s car. He then laid down the money for the whiskey, and she picked it up. He gave her $3 for a pint of whiskey. The defendant was with the woman, but did not say a word. Subsequently Sandalin identified the defendant, John Miller, as the man in question, and Vivian Hubbard as the woman with him. A few days after this transaction took place the sheriff arrested the defendant in a room on the premises controlled by Vivian Hubbard. He found the defendant and two other men in a room together. There was a small glass with a small amount of whiskey in it in the room. In the second room .from that one the sheriff found the top of a fruit jar saturated with whiskey, and just outside of a window of the same room he found a half-gallon jar in a paper sack with some whiskey in the jar. The ground near by was saturated with corn whiskey, where the fruit jar had been thrown out of the window.\nThe defendant denied selling the whiskey to the prosecuting witness, and introduced other evidence tending to show that he was in the State of Oklahoma at the time Sandalin testified that he bought the whiskey from him.\nWe do not deem it necessary to set out this evidence in detail. While counsel for the defendant' insist that the evidence in question shows conclusively that he was in the State of Oklahoma on the date that Sandalin testified 'that he bought the whiskey from him, yet this contention does not take into consideration the evidence of Sandalin. If the jury had believed the witnesses for the defendant, it would have found him not guilty. Having found him guilty, it is evident that the jury believed the testimony of Sandalin and did not believe that of the defendant and his witnesses. The jury had the exclusive right to judge the' credibility of .the witnesses, and the testimony of Sandalin, if believed by the jury, warranted it in finding the defendant guilty -of being interested in the sale of intoxicating liquors, in violation of the statute. Ellis v. State, 133 Ark. 540; Snead v. State, 134 Ark. 303; and Johnson v. State, 152 Ark. 218.\nIt is next insisted by counsel for the defendant that the court erred in admitting the testimony of the sheriff to the effect that he found liquor in the room in which the defendant was arrested, and also in an adjoining room.\nIt will be noted that the defendant was arrested on the premises of Vivian Hubbard a few days after Sandalin testified that he bought the whiskey from the defendant and Vivian Hubbard. While Vivian Hubbard actually handed the whiskey to Sandalin and received the money for it, the defendant was with her at the time, \u25a0and the sale was completed pursuant to an agreement had between Sandalin and the defendant thirty minutes before this. The evidence was 'Competent as tending to show that the transaction between the defendant and Sandalin was a sale, and that Miller was interested as a seller and not as the mere purchasing agent of Sandalin. Turner v. State, 130 Ark. 48, and Lowery v. State, 135 Ark. 159.\nWhile it is well settled that, upon the trial of one offense, evidence of another crime, although of the same nature, cannot be admitted to show the guilt of the accused, still there are certain well-recognized exceptions to the general rule, and such evidence is receivable \u25a0wh\u00e9n necessary to prove scienter, to establish identity, or to complete a chain of circumstantial evidence of guilt in respect to the crime charged. Hence we hold that this assignment of error is not well taken.\nIt is next contended that the court erred in giving instruction No. 5, which is as follows:\n\u201cThe burden of showing an alibi is on the defendant; but if, on the whole case, the testimony raises a reasonable doubt that the defendant was present when the crime, if any, was committed, be should be acquitted; but the jury should scrutinize the testimony of witnesses, to see if any of them may not be mistaken, as to dates and times when they saw defendant; and it is proper for the jury to consider the lapse of time since the occurrence happened, and whether witnesses are likely or not likely, after such lapse of time, to be accurate' as to the precise time or hour that they saw the defendant at the time the crime is alleged to have been committed. In other words, in arriving\u2019 at your conclusion on this point, the jury should consider whether it may or may not be true that defendant was present at the time and place the crime is alleged to have been committed, and that some of the witnesses are honestly mistaken as to the exact time they saw the defendant at the time the crime is alleged to have been committed.\u201d\nThe error pointed out is that the court erred in saying that the jury should scrutinize the testimony of witnesses to see if any of them may not be mistaken as to dates and times when they saw the defendant. The language used does not make the instruction so inherently defective as to make it erroneous and prejudicial to the rights of the defendant, in the absence of a specific objection to it. Bruder v. State, 110 Ark. 402, and Griffin v. State, 141 Ark. 43.\nIn telling the jury to scrutinize the testimony of the witnesses testifying with regard to the alibi of the defendant, it cannot be said, as a matter of law, that the court instructed the jury to consider that evidence more closely than the other evidence in the case. If the defendant thought that it had this meaning and was calculated to mislead the jury, he should have, as above stated, made a specific objection to this instruction, and doubtless the court would have changed the verbiage of it. Hence we do not consider this assignment of error well taken.\nThe indictment in this case accuses the defendant, John Miller, of the crime of selling intoxicating liquors, committed as follows, to-wit:\n. \u201cThe said defendant, John Miller, in the county, district, and State aforesaid, on the 15-th day of May, 1923, unlawfully and feloniously did sell and unlawfully and feloniously was interested in the sale of ardent, vinous, malt, spirituous, fermented, alcoholic and intoxicating liquor, against the peace and dignity of the State of Arkansas.\u201d\nWhere a statute makes indictable two or more distinct acts connected with the same transaction, each of which may be considered as representing a phase of the same transaction, they may be charged conjunctively in a. single count, as constituting but a single offense. Cox v. State, 149 Ark. 387.\nThis court has held that an indictment under our statute alleging.that the defendant \u201cunlawfully did sell and was unlawfully interested in the sale of one pint of alcoholic, ardent, and vinous liquors,\u201d is .sufficient, and charges but one offense. Davis v. State, 50 Ark. 17, and Thompson v. State, 37 Ark. 408; and see Gramlich v. State, 135 Ark. 243.\n\u2022 \u2022 This rule applies here, and we hold that the- indictment charges but one offense. '\nWe-find-no reversible error in the record, and the judgment will be affirmed.",
+        "type": "majority",
+        "author": "Hart, J."
+      }
+    ],
+    "attorneys": [
+      "T. S. Osborne, for appellant.",
+      "J. 8. Utley, Attorney General; Jno. L. Carter, W. T. Hammock, and Darden Moose, Assistants, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Miller v. State.\nOpinion delivered October 22, 1923.\n1. Intoxicating liquors \u2014 being interested in sale \u2014 evidence.\u2014 Evidence held sufficient to sustain a conviction of being interested in the sale of intoxicating liquors in violation of Crawford & Moses\u2019 Dig., \u00a7 6160.\n2. Criminal law \u2014 evidence op other 'offense. \u2014 While it is the general rule that, upon the trial of one offense evidence of another crime, although .of the same nature, cannot be admitted to show the guilt of the accused, such evidence is admissible when necessary to prove seienter, or to establish identity, or to complete a chain of circumstantial evidence of guilt in respect to the crime charged.\n3. Criminal law \u2014 evidence of other offense. \u2014 Where, in a prosecution for being interested in the sale of whiskey, it was a question under the evidence whether defendant was interested as seller or was merely acting as purchasing agent for the buyer,, it was- admissible to show by the sheriff that, when he arrested\ndefendant, he found whiskey in the room and elsewhere on the premises.\nCriminal law \u2014 instruction\u2014specific objection. \u2014 Where, with reference to evidence tending to establish an alibi, the court instructed the jury to \u201cscrutinize the testimony of witnesses to see if any of them may not he mistaken as to the dates and times when they saw defendant,\u201d such language was not so inherently defective as to make it erroneous and prejudicial to the rights of defendant, in the absence of a specific objection.\nIndictment and information \u2014 charging several acts as one offense. \u2014 Where a statute makes indictable two or more distinct acts connected with the same transaction, each of which may be considered as representing a phase of the same transaction, they may be charged conjunctively in a single count as constituting but a- single offense.\nIntoxicating liquors \u2014 indictment.\u2014Under' Crawford & Moses\u2019 \u2022 Digest; \u00a7 6160, an indictment charging the selling of intoxicating liquors and being interested in their sale is sufficient, and charges but one offense.\nAppeal from Sebastian Circuit Court, Fort Smith District; John E. Tatum Judge;\naffirmed.\nT. S. Osborne, for appellant.\nJ. 8. Utley, Attorney General; Jno. L. Carter, W. T. Hammock, and Darden Moose, Assistants, for appellee."
+  },
+  "file_name": "0469-01",
+  "first_page_order": 493,
+  "last_page_order": 498
+}

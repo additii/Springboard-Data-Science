@@ -1,0 +1,302 @@
+{
+  "id": 1357148,
+  "name": "Carpenter v. Phillips",
+  "name_abbreviation": "Carpenter v. Phillips",
+  "decision_date": "1923-03-26",
+  "docket_number": "",
+  "first_page": "609",
+  "last_page": "617",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "157 Ark. 609"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [
+    {
+      "cite": "137 Ark. 23",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1568147
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/137/0023-01"
+      ]
+    },
+    {
+      "cite": "102 Ark. 200",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1354063
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/102/0200-01"
+      ]
+    },
+    {
+      "cite": "132 Ark. 378",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1576746
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/132/0378-01"
+      ]
+    },
+    {
+      "cite": "127 Ark. 429",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1550207
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/127/0429-01"
+      ]
+    },
+    {
+      "cite": "89 Ark. 185",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "90 Ark. 301",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1513881
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/90/0301-01"
+      ]
+    },
+    {
+      "cite": "83 Ark. 202",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1527089
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/83/0202-01"
+      ]
+    },
+    {
+      "cite": "76 Ark. 375",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1501024
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/76/0375-01"
+      ]
+    },
+    {
+      "cite": "53 Ark. 49",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1911629
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/53/0049-01"
+      ]
+    },
+    {
+      "cite": "143 Ark. 72",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1589373
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/143/0072-01"
+      ]
+    },
+    {
+      "cite": "142 Ark. 48",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1590537
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/142/0048-01"
+      ]
+    },
+    {
+      "cite": "122 Ark. 229",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "112 Ark. 227",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1538771
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/112/0227-01"
+      ]
+    },
+    {
+      "cite": "116 Ark. 273",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1532258
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/116/0273-01"
+      ]
+    },
+    {
+      "cite": "84 Ark. 464",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "97 Ark. 23",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1318788
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/97/0023-01"
+      ]
+    },
+    {
+      "cite": "137 Ark. 23",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1568147
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/137/0023-01"
+      ]
+    },
+    {
+      "cite": "102 Ark. 200",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1354063
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/102/0200-01"
+      ]
+    },
+    {
+      "cite": "132 Ark. 378",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1576746
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/132/0378-01"
+      ]
+    },
+    {
+      "cite": "76 Ark. 375",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1501024
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/76/0375-01"
+      ]
+    },
+    {
+      "cite": "53 Ark. 49",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1911629
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/53/0049-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 618,
+    "char_count": 17347,
+    "ocr_confidence": 0.499,
+    "pagerank": {
+      "raw": 8.503801601639856e-08,
+      "percentile": 0.486624702830165
+    },
+    "sha256": "994f57ff5803053224121791d29e4424cc2ba554d89bfdacb0bfd6524ffcbee2",
+    "simhash": "1:33ca83d42d64ce81",
+    "word_count": 3051
+  },
+  "last_updated": "2024-02-27T20:13:54.858580+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Carpenter v. Phillips."
+    ],
+    "opinions": [
+      {
+        "text": "Wood, J.\nThis action was instituted by the appellees against the appellant to recover the sum of $400 which the appellees alleged that appellant owed them for services rendered appellant in the sale of a certain farm in Pulton County, Arkansas. The appellees alleged that they were partners in the real estate business, and that they were employed by the appellant to sell his farm at the price of'$8,000; that they procured a purchaser for the farm, who purchased the same at that price, and that the appellant agreed to pay them for their services as commission five per cent, of the purchase price, which he had refused to do. The appellant denied all the material allegations of the complaint.\nThe testimony of Richard Stockard, one of the appellees, was to the effect that the appellees were partners in the real estate business. They were advertising their business in the Daily Oklahoman, a newspaper in Oklahoma. One Mr. Thompson saw their ad. and answered it, telling the appellees that he wished to purchase an improved farm in the Ozarks. Appellees wrote him in regard to a farm they had on Big Creek. Thompson came, and appellees took him to look at certain farms, but Thompson was not pleased with these, and he and the appellees started back to Ashflat, where the appellees resided and had their business office. On the way they stopped at the appellant\u2019s. Appellant said to one of the appellees; \u201cWho have you got with you?\u201d and the reply was \u201cA fellow by the name of Thompson from Castle, Oklahoma \u2014 a land buyer.\u201d Appellant said, \u201cSell him my place.\u201d One of the appellees told Thompson that the appellant wanted to sell his place, and told Thompson that the appellant had an ideal farm. One of the appellees took Thompson in and introduced him to appellant. They all went down to the barn, and appellant showed Thompson a crib full of corn, and Thompson said, \u201cThis is the kind of a place I want.\u201d They went back and looked over the house, and Thompson stated that he was going home and tell his wife about the place, and was pretty sure she would take it, and that he would wire the appellees whether to hold the place for him or not. Thompson at that time said to appellant, \u201cI want you to understand that I am dealing through these boys\u201d (referring to appellees). In about three or four days appellees got a telegram from Thompson which read, \u201cHold Mac Carpenter farm. Letter of instructions will follow.\u201d In about a week Thompson came back. Appellees had received a telegram to meet him and his wife: One of the appellees met him and his wife on the 9th of December and took them out 'to Ashflat, and on out to appellant\u2019s the next morning, to look over appellant\u2019s farm. Thompson said, while they were examining the farm, \u201cThis is the farm I want.\u201d After examining the farm they went back to appellant\u2019s house, and there appellant said to the appellees, \u201cYou can go on home now, and we will come down Monday or Tuesday, and I will settle up with you,\u201d and of course appellees supposed that he would come and pay them their commission.\nThompson had told the appellees that he was going to take the farm. Appellant came in in about a week and said, \u201cI have got the deed made, and the notes drawn up.\u201d Thereupon one of the appellees said to him, \u201cWe are really entitled to ten per cent, on this trade, but we are going to settle with you for $400.\u201d Appellant replied, \u201cWell, that is what Boss Woods charged to sell this farm two years ago, 'but it seems like this deal was made mighty quick.\u201d In a few days he came back again and said to appellees, \u201cI have been studying this over, and all I am willing to pay you is $5 a day and car fare and expenses.\u201d On cross-examination the witness was asked if appellant agreed to pay appellees five per cent, commission for selling the place, and witness answered, \u201cHe said, \u2018Sell him my place. I would just as soon pay you boys a commission as anybody\u2019.\u201d Appellant knew that appellees were in the real estate business. Appellant\u2019s place had not been listed with the appellees for sale, and they had no other contract for selling same than that made that night.\nPhillips, the other appellee, in his testimony substantially corroborated the testimony of Stockard, and further testified that, after the negotiations were on and the place was sold, and while they were trying to settle with -the appellant as to their commission, he remarked that they had never sold the place, and said, \u201cThompson would not give $8,000 for the place,\u201d and further stated in the same conversation, \u201cIf you can sell it for $8,000 I will give you the $400 right now.\u201d Appellees told him that they considered that they had already sold it for that. It was the first time they were out at appellant\u2019s with Thompson that appellant made the contract. He told appellees then, in the presence of Thompson, that he would just as soon pay them as anybody. But the testimony of the appellees further tends to show that, between the time they were first out at the appellant\u2019s with Thompson, appellant had made inquiries of appellees as to whether they had heard anything from Thompson, and when appellees received the telegram from Thompson they called up the appellant and told him about it. They talked to appellant over the \u2019phone in regard to the deal. The testimony of appellees was also to the effect that five per cent, was a reasonable charge for their services; that it was the usual and customary commission where they sold land as they did this.\nMr. Thompson was introduced- as a witness by the appellant, and he testified, corroborating substantially the testimony of the appellees as to the circumstances under which he became acquainted with appellant. He stated that the appellees said that they did n\u00f3t know that Carpenter wanted to sell; that if they had known, they would like to have sold it for him. They stated they didn\u2019t have any contract on the farm. Witness bought the farm from Carpenter because it was the ideal farm he had been looking for. It was something over forty days after witness first met Carpenter before he' purchased the farm. Witness and his wife were staying at Carpenter\u2019s, and while they were there Carpenter showed them his farm and other farms. Witness didn\u2019t purchase the farm because of any recommendation or solicitation of the appellees or either of them. He denied that he stated, in the presence of Carpenter and the appellees, that night when he first met Carpenter, that he \u201cwas dealing through these boys,\u201d meaning Dee Phillips and Richard Stockard. Witness made no such statement. Carpenter priced the farm to witness and stated the condition on which it could be bought. Neither of the appellees ever told witness the terms of the purchase or the price, or anything about it, and neither of them ever represented to witness that they had it for' sale. Witness, on cross-examination, stated the circumstances of the meeting with Carpenter about as it had been detailed by the appellees, and stated that he was introduced by Stockard to Carpenter as a prospective buyer of a farm. He had decided that night that he would take the farm, but he was buying it for his wife, and she had to see it. Before he came back he sent the telegram to the appellees in which he told them to hold the Mac Carpenter place, and wrote them a letter stating that he would be back some time the next week with his wife, and to be sure to see that \u201cold Mac Carpenter holds the farm,\u201d and wired the appellees to meet him. The appellees did meet witness at the train and went with him to the appellant\u2019s. The deal for the farm was closed between the witness and Carpenter some weeks after that. The consideration of the purchase to Carpenter was $8,000.\nThe appellant testified, and, without setting out his testimony in detail, it suffices to say it was substantially the same as to the meeting of Thompson as detailed by the appellees and Thompson, that he was introduced to Thompson by Stockard, but closed the deal with Thompson himself. Appellant stated that when the appellees came back the second time with Thompson he decided that they were trying to work into the deal. So he took Stockard out and told him that he would not pay any commission, and wanted to tell him so before he went any further. He said to Stockard, \u201cMr. Thompson is here, and the place is for sale; he can look at it, and if he don\u2019t want it he don\u2019t have to take'it at any price.\u201d Witness testified that he did not agree to pay the appellees five per-cent. He said to the appellees, when they were claiming that they had sold the place, \u201cI would like to know what you got for it, and to know when you sold it and what you got for it, and how the payments -are arranged, before I pay you $400. I will pay you $400 if you will tell me what you got for it, what the terms are, 'and how the payments are arranged. They just stood there and looked at me.\u201d Witness stated that he never authorized them to sell his farm, and that the night that he first met Thompson was the first time he ever knew that the appellees were in the real estate business. On cross-examination he said that he sold the farm himself, that the appellees had nothing to do with it. Witness acknowledged that he told the appellees at Ashflat that, if they had sold the place, and could tell witness the terms and conditions upon which they sold it and how the payments were arranged, he would give them $400. He denied having any conversation over the telephone with appellees about Thompson\u2019s telegram and letter.\nAnother witness for the appellant testified that he heard a conversation between Thompson and Stockard about the appellees\u2019 commission, in which Stockard said he wondered if Mac would be willing to pay them anything. Witness asked 'Stockard if there was any understanding about what they were to get and he said \u201cNo.\u201d The telegram and letter referred to from Thompson to the appellees concerning the deal were introduced as evidence, over the objection of appellant.\nThe court, on its own motion, gave several instructions, which, in effect, told the jury that, before they were authorized to find for the appellees, they would have to find from a preponderance of the evidence that they had a contract with the appellant to pay them a commission for selling his farm, and that appellees secured the purchaser, who was willing and able to purchase the farm from the appellant upon the terms agreed upon between purchaser and appellant; that, although the purchaser came to Ashflat at the instance of the appellees, and afterwards purchased property from the appellant, this of itself should not be sufficient to authorize the appellees to recover a commission from the appellant, unless they had' a contract with the appellant by which they were to sell his farm, and, through their influence and effort, brought appellant in touch with the purchaser and thus caused the sale of the lands to be made. The court further instructed the jury that, if they found from the evidence that the appellees were in the real estate business and rendered service to the appellant in the sale of his farm, which he had accepted, appellees were entitled to recover a reasonable compensation for their services.\nIn its instruction No. 3 the court, in effect, told the jury that, if they found from a preponderance of the evidence that the appellees procured a buyer for appellant\u2019s farm by contract or agreement with the appellant, or if they introduced the purchaser to the appellant and negotiations were begun and the sale of the property was effected through the efforts and influence of the appellees, they were entitled to their commission, although the owner sold the property himself. Only a general objection was saved to the instructions of the court. The jury returned a verdict in favor of the appellees for the sum of $375, and from a judgment rendered in their favor for such sum is this appeal.\nThe appellant contends that there is no evidence to prove that there was a contract 'between the appellees and appellant for the sale of the latter\u2019s farm. The testimony concerning this is set forth in detail above, and we are convinced that the issue as to whether or not there was a contract by which the appellant engaged the appellees to sell his farm was one for the jury. There was a sharp conflict in the evidence, but it cannot be said that there was no substantial evidence to prove that appellant agreed to pay the appellees a commission for selling his farm, nor can it be said that there was no legal evidence to prove that the appellees procured a purchaser who was ready, willing and able to purchase on the terms prescribed by the appellant. The law is well settled that, where a real estate agent, employed to sell land, introduces a purchaser to the seller, and through such introduction a sale is effected, the agent is entitled to his commission, though the sale be made by the owner. Scott v. Patterson, 53 Ark. 49; Hunton v. Marshall, 76 Ark. 375; Warmack v. Perkins, 132 Ark. 378; Hodges v. Bayley, 102 Ark. 200.\nThe instructions of the court were in harmony with the law applicable to the facts of this record, and as announced in the above and many previous decisions of this court.\nThe language in instruction No. 3, to-wit, \u201c or if they introduced the purchaser\u201d is inaccurate, but it is manifest, when this language is considered in connection with the other instructions which the court gave, that the court did not mean by the above language to tell the jury that a real estate broker who had no contract to sell land had earned his commission if he had only introduced the purchaser to the seller. Obviously, instead of the word \u201cor\u201d the court intended to use the word \u201cand;\u201d otherwise instruction No. 3 would be in conflict with several other instructions which the court gave. When the instructions are considered together, it clearly appears that the court did not intend to give conflicting instructions. Therefore if the appellant conceived that the language of the clause quoted, to which he now objects, was in conflict with other instructions, and was an erroneous declaration of law, he .should have specifically directed the attention of the court to the objectionable language. Had he done so, the court doubtless would have readily corrected the same to meet his objection. The inaccurate phraseology called for a specific objection.\nInstruction No. 6, given by the court on its own motion, was in harmony with the law as announced by this court in Hodges v. Bayley, supra. Poston v. Hall, 97 Ark. 23; Branch v. Moore, 84 Ark. 464. See also Harris & White v. Stone, 137 Ark. 23-29.\nThe court did not err in allowing the telegram and letter from Thompson to the appellees to be introduced in evidence. Under the testimony tending to prove that the appellees at that time were acting as the agent of appellant as well as the agent of Thompson in bringing about the sale, the letter and telegram were competent testimony.\nThere is no error. Let the judgment be affirmed,",
+        "type": "majority",
+        "author": "Wood, J."
+      }
+    ],
+    "attorneys": [
+      "C. E. Elmore and Oscar E. Ellis, for appellant.",
+      "J. C. Ashley and H. A. Northcutt, for appellees."
+    ],
+    "corrections": "",
+    "head_matter": "Carpenter v. Phillips.\nOpinion delivered March 26, 1923.\n1. Brokers \u2014 contract\u2014jury question \u2014 Whether a landowner contracted with a firm of brokers to sell his farm held under the evidence to be a question for the jury.\n2. Brokers \u2014 right to commission. \u2014 Where a real estate agent employed to sell land introduces a purchaser to .the owner, and through such introduction a sale is effected, the agent is entitled to his commission, though the sale is made by the owner.\n3. Appeal and error \u2014 instruction\u2014necessity of specific objection. \u2014 In an action for a commission for selling land, an instruction that if plaintiffs procured a buyer by contract with defendant, or if they introduced the purchaser to him, and the sale was effected through their efforts, they were entitled to their commission, held not reversible error as being in conflict with other instructions or as being an erroneous declaration of law, in the absence of a specific objection.\n4. Brokers \u2014 telegrams as evidence. \u2014 In an action by -brokers for a commission for procuring a purchaser of land, a telegram and letter from the purchaser to plaintiffs, directing them to hold the farm, held admissible, in view of testimony tending to prove that plaintiffs were then acting as defendant\u2019s agent.\nAppeal from Pulton Circuit Court; J. B. Baker, Judge;\naffirmed.\nC. E. Elmore and Oscar E. Ellis, for appellant.\nNo evidence of any contract with, appellees to sell appellant\u2019s farm, and there must be a contract to entitle broker to commission. Horton & Co. v. Beall, 116 Ark. 273; Murry v. Miller, 112 Ark. 227; Scptt v. Cleveland, 122 Ark. 229; Brannen v. Poole, 142 Ark. 48; Gammell v. Cox, 143 Ark. 72. Court erred in giving instructions la, 2a, 3a, 4a and 5a, and. also 3 and 5. Also erred in \u00aballowing the introduction of letters, and telegrams from appellees to Thompson and from him to them, same being incompetent and self-serving declarations.\nJ. C. Ashley and H. A. Northcutt, for appellees.\nCases cited by appellant reviewed. Broker employed to sell is entitled to commission when. 53 Ark. 49; 76 Ark. 375. The jury was properly'instructed and the evidence is sufficient to sustain the verdict. 83 Ark. 202; 90 Ark. 301; 89 Ark. 185; 127 Ark. 429. Appellees were the procuring cause of the sale. 132 Ark. 378; 102 Ark. 200; 137 Ark. 23."
+  },
+  "file_name": "0609-01",
+  "first_page_order": 631,
+  "last_page_order": 639
+}

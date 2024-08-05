@@ -1,0 +1,571 @@
+{
+  "id": 6793524,
+  "name": "The State of Washington, Respondent, v. Timothy Allen Conover, Petitioner",
+  "name_abbreviation": "State v. Conover",
+  "decision_date": "2015-08-13",
+  "docket_number": "No. 90782-0",
+  "first_page": "706",
+  "last_page": "719",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "183 Wash. 2d 706"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Wash.",
+    "id": 9029,
+    "name": "Washington Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 38,
+    "name_long": "Washington",
+    "name": "Wash."
+  },
+  "cites_to": [
+    {
+      "cite": "2008 WL 2601424",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "opinion_index": 0
+    },
+    {
+      "cite": "145 Wn. App. 1031",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        5735865,
+        5737669,
+        5736590,
+        5739511
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/145/1031-02",
+        "/wash-app/145/1031-01",
+        "/wash-app/145/1031-04",
+        "/wash-app/145/1031-03"
+      ]
+    },
+    {
+      "cite": "2010 WL 3489931",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "pin_cites": [
+        {
+          "page": "*4"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "157 Wn. App. 1054",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        4000981,
+        4002213,
+        4003414,
+        4002727
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/157/1054-04",
+        "/wash-app/157/1054-03",
+        "/wash-app/157/1054-02",
+        "/wash-app/157/1054-01"
+      ]
+    },
+    {
+      "cite": "2012 WL 1699868",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "opinion_index": 0
+    },
+    {
+      "cite": "168 Wn. App. 1010",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        4025929,
+        4026058,
+        4025915,
+        4026557
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/168/1010-03",
+        "/wash-app/168/1010-01",
+        "/wash-app/168/1010-02",
+        "/wash-app/168/1010-04"
+      ]
+    },
+    {
+      "cite": "2012 WL 5343231",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "opinion_index": 0
+    },
+    {
+      "cite": "170 Wn. App. 1026",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        4032600,
+        4032913,
+        4031651,
+        4031375
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/170/1026-02",
+        "/wash-app/170/1026-03",
+        "/wash-app/170/1026-04",
+        "/wash-app/170/1026-01"
+      ]
+    },
+    {
+      "cite": "188 P.3d 546",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2008,
+      "opinion_index": 0
+    },
+    {
+      "cite": "146 Wn. App. 151",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        3973136
+      ],
+      "year": 2008,
+      "pin_cites": [
+        {
+          "page": "155-56"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/146/0151-01"
+      ]
+    },
+    {
+      "cite": "278 P.3d 157",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2012,
+      "opinion_index": 0
+    },
+    {
+      "cite": "174 Wn.2d 586",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4021871
+      ],
+      "year": 2012,
+      "pin_cites": [
+        {
+          "page": "601"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/174/0586-01"
+      ]
+    },
+    {
+      "cite": "328 P.3d 886",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2014,
+      "pin_cites": [
+        {
+          "parenthetical": "\" 'a court must not interpret a statute in any way that renders any portion meaningless or superfluous' \" (quoting Jongeward v. BNSF Ry. Co., 174 Wn.2d 586, 601, 278 P.3d 157 (2012))"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "180 Wn.2d 735",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4241767
+      ],
+      "year": 2014,
+      "pin_cites": [
+        {
+          "page": "742",
+          "parenthetical": "\" 'a court must not interpret a statute in any way that renders any portion meaningless or superfluous' \" (quoting Jongeward v. BNSF Ry. Co., 174 Wn.2d 586, 601, 278 P.3d 157 (2012))"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/180/0735-01"
+      ]
+    },
+    {
+      "cite": "63 P.3d 792",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2003,
+      "pin_cites": [
+        {
+          "parenthetical": "giving effect to differences in language between two-strike statute and three-strike statute"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "148 Wn.2d 723",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        609197
+      ],
+      "year": 2003,
+      "pin_cites": [
+        {
+          "page": "728",
+          "parenthetical": "giving effect to differences in language between two-strike statute and three-strike statute"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/148/0723-01"
+      ]
+    },
+    {
+      "cite": "804 P.2d 1",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "weight": 2,
+      "year": 1990,
+      "opinion_index": 0
+    },
+    {
+      "cite": "115 Wn.2d 21",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1379123
+      ],
+      "weight": 2,
+      "year": 1990,
+      "pin_cites": [
+        {
+          "page": "27"
+        },
+        {
+          "page": "27"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/115/0021-01"
+      ]
+    },
+    {
+      "cite": "89 P.3d 232",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2004,
+      "opinion_index": 0
+    },
+    {
+      "cite": "121 Wn. App. 669",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        864050
+      ],
+      "year": 2004,
+      "pin_cites": [
+        {
+          "page": "683"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/121/0669-01"
+      ]
+    },
+    {
+      "cite": "68 P.3d 1065",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2003,
+      "pin_cites": [
+        {
+          "parenthetical": "quoting RCW 9.94A.510(3)(e), (4)(e)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "149 Wn.2d 402",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1292588
+      ],
+      "year": 2003,
+      "pin_cites": [
+        {
+          "page": "416",
+          "parenthetical": "quoting RCW 9.94A.510(3)(e), (4)(e)"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/149/0402-01"
+      ]
+    },
+    {
+      "cite": "817 P.2d 855",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1991,
+      "opinion_index": 0
+    },
+    {
+      "cite": "117 Wn.2d 576",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1373895
+      ],
+      "year": 1991,
+      "pin_cites": [
+        {
+          "page": "586"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/117/0576-01"
+      ]
+    },
+    {
+      "cite": "43 P.3d 4",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2002,
+      "opinion_index": 0
+    },
+    {
+      "cite": "146 Wn.2d 1",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        960829
+      ],
+      "year": 2002,
+      "pin_cites": [
+        {
+          "page": "9-10"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/146/0001-01"
+      ]
+    },
+    {
+      "cite": "340 P.3d 849",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2015,
+      "pin_cites": [
+        {
+          "parenthetical": "citing Dep't of Ecology v. Campbell & Gwinn, LLC, 146 Wn.2d 1, 9-10, 43 P.3d 4 (2002)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "182 Wn.2d 342",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4075595
+      ],
+      "year": 2015,
+      "pin_cites": [
+        {
+          "page": "350",
+          "parenthetical": "citing Dep't of Ecology v. Campbell & Gwinn, LLC, 146 Wn.2d 1, 9-10, 43 P.3d 4 (2002)"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/182/0342-01"
+      ]
+    },
+    {
+      "cite": "115 P.3d 281",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2005,
+      "opinion_index": 0
+    },
+    {
+      "cite": "154 Wn.2d 596",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        5629022
+      ],
+      "weight": 2,
+      "year": 2005,
+      "pin_cites": [
+        {
+          "page": "600"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/154/0596-01"
+      ]
+    },
+    {
+      "cite": "256 P.3d 1171",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2011,
+      "pin_cites": [
+        {
+          "parenthetical": "quoting State v. Jacobs, 154 Wn.2d 596, 600, 115 P.3d 281 (2005)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "172 Wn.2d 253",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4017846
+      ],
+      "year": 2011,
+      "pin_cites": [
+        {
+          "page": "261-62",
+          "parenthetical": "quoting State v. Jacobs, 154 Wn.2d 596, 600, 115 P.3d 281 (2005)"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/172/0253-01"
+      ]
+    },
+    {
+      "cite": "344 P.3d 688",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2015,
+      "opinion_index": 0
+    },
+    {
+      "cite": "182 Wn.2d 1007",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "year": 2015,
+      "opinion_index": 0
+    },
+    {
+      "cite": "2014 WL 4229997",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "*1"
+        },
+        {
+          "page": "*5, *9"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "183 Wn. App. 1011",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        4345240,
+        4344120,
+        4345259
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/183/1011-03",
+        "/wash-app/183/1011-01",
+        "/wash-app/183/1011-02"
+      ]
+    },
+    {
+      "cite": "955 P.2d 798",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1998,
+      "opinion_index": 0
+    },
+    {
+      "cite": "135 Wn.2d 239",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        812835
+      ],
+      "year": 1998,
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/135/0239-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 854,
+    "char_count": 24317,
+    "ocr_confidence": 0.75,
+    "pagerank": {
+      "raw": 2.196394967036644e-07,
+      "percentile": 0.7746202577833688
+    },
+    "sha256": "33b46f1493d29765b8dda6d12db37468e737303f335d43bdf82a5648d00d2efe",
+    "simhash": "1:d2c43ccc6fef309b",
+    "word_count": 3865
+  },
+  "last_updated": "2024-02-27T22:09:01.011694+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Madsen, C.J., and Johnson, Owens, Fairhurst, Stephens, Wiggins, Gonz\u00e1lez, and Yu, JJ., concur."
+    ],
+    "parties": [
+      "The State of Washington, Respondent, v. Timothy Allen Conover, Petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "Gordon McCloud, J.\n\u00b61 Timothy Conover was convicted of three counts of delivering heroin within 1,000 feet of a school bus route stop, in violation of RCW 69.50.401(1) (delivery) and RCW 69.50.435(l)(c) (school bus route stop enhancement). The trial court imposed one 48-month standard-range base sentence on each of the three delivery counts, to run concurrently with each other. It also imposed three 24-month school bus route stop enhancements \u2014 one for each delivery count \u2014 and ran them consecutively to Conover\u2019s 48-month base sentence and consecutively to each other. The total sentence was 120 months of confinement.\n\u00b62 The single question before us is whether the school bus route stop enhancement statute \u2014 RCW 9.94A-.533(6) \u2014 requires the trial court to run such an enhancement consecutively only to the drug crime sentence it enhances or also requires the trial court to run multiple enhancements on different counts consecutively to each other. Our decision in In re Post Sentencing Review of Charles, 135 Wn.2d 239, 955 P.2d 798 (1998), controls our answer to that question. In that case, we held that statutory language virtually identical to the statutory language at issue here was ambiguous about whether the trial court must run multiple enhancements consecutively only to their underlying crimes or also consecutively to each other. Viewing that statute in context and applying other rules of statutory interpretation, we concluded that such language did not require trial courts to run those enhancements consecutively to each other. Instead, \u201cwhen two or more offenses each carry firearm enhancements, the determination of whether multiple current [weapons enhancements] are to run concurrently or consecutively is determined by resort to the rules in RCW 9.94A. [589],\u201d which govern when all other Sentencing Reform Act of 1981 (SRA) sentences run concurrently or consecutively. Id. at 254; ch. 9.94A RCW. We now interpret virtually identical language in the school bus route stop enhancement in the same way: RCW 9.94A.533(6) does not require trial courts to run school bus route stop enhancements on different counts consecutively to each other; instead, when two or more offenses each carry school bus route stop enhancements, the determination of whether those enhancements are to run concurrently or consecutively is also determined by resort to the rules in RCW 9.94A.589(l)(a). We therefore reverse and remand for resentencing with instructions to use RCW 9.94A.589 to determine whether the multiple 24-month sentence enhancements run concurrently or consecutively with each other.\nFACTS\n\u00b63 In 2011, Cowlitz-Wahkiakum County Drug Task Force Detectives Russell Hanson and Michael Meier arranged controlled buys of heroin from Conover using a confidential informant (Cl). Clerk\u2019s Papers (CP) at 1; Trial Proceedings (TP) (Oct. 12, 2012) at 46. On May 13, the Cl agreed to buy a quarter-ounce of heroin from Conover for $400. CP at 1;TP (Oct. 11,2012) at 35,69; TP (Oct. 12,2012) at 18, 51,133. On that date, the Cl met Conover in a motor home that was located within 1,000 feet of a school bus route stop for the Longview School District. CP at 2; TP (Oct. 12,2012) at 85. The Cl gave the money to Conover, and Conover gave the Cl a clear plastic bag containing tar heroin. CP at 1; TP (Oct. 11, 2012) at 42; TP (Oct. 12, 2012) at 19-20.\n\u00b64 On May 31, Meier again worked with the Cl to arrange another controlled buy from Conover \u2014 a quarter-ounce of heroin for $350. CP at 2; TP (Oct. 11, 2012) at 71; TP (Oct. 12, 2012) at 55, 136. The Cl went to Conover\u2019s apartment to complete the deal. CP at 2; TP (Oct. 12, 2012) at 22. This controlled buy also took place within 1,000 feet of a school bus route stop. CP at 2; TP (Oct. 12, 2012) at 88.\n\u00b65 Then, in a July 7 recorded controlled buy, the Cl bought a quarter-ounce of heroin from Conover for $350 at Conover\u2019s apartment. CP at 2; TP (Oct. 11, 2012) at 79-80; TP (Oct. 12, 2012) at 9, 23, 27, 135. Once again, the Cl bought the drugs within 1,000 feet of a school bus route stop. CP at 2; TP (Oct. 12, 2012) at 88, 90-91. After this buy, police arrested Conover.\n\u00b66 The State charged Conover with three counts of delivery of heroin within 1,000 feet of a school bus route stop. CP at 15-17; TP (Oct. 12, 2012) at 119-20,123-24,128.\n\u00b67 The jury convicted Conover as charged. CP at 49, 52, 55. It also returned special sentencing verdicts on each count, finding that (1) Conover delivered the controlled substances within 1,000 feet of a school bus route stop designated by a school district and (2) Conover\u2019s crime was a major violation of the Uniform Controlled Substances Act (VUCSA), chapter 69.50 RCW, involving the attempted or actual sale or transfer of controlled substances in quantities substantially larger than for personal use. CP at 50-51, 53-54,56-58; Hr\u2019g Proceedings (HP) (Oct. 24,2012) at 10-13.\n\u00b68 Based on an offender score of five, Conover\u2019s standard sentencing range was 20 to 60 months of confinement for each delivery count. CP at 62; HP (Oct. 24, 2012) at 10-11. The trial court sentenced Conover to a total of 120 months: 48 months for each of his three delivery convictions, to run concurrently with each other, plus an additional 24 months for each school bus route stop enhancement on each of the three delivery counts, to run consecutively to each 48-month sentence for the underlying convictions and consecutively to each other, under RCW 9.94A.533C6). CP at 65; HP (Oct. 24, 2012) at 20.\n\u00b69 Conover appealed. He raised numerous issues, including two challenges to his sentence: (1) that the trial court erroneously calculated his offender score because the State failed to present evidence of his prior criminal history and (2) that the trial court erroneously ran his bus stop enhancements consecutively to each other rather than concurrently under RCW 9.94A.533. State v. Conover, noted at 183 Wn. App. 1011, 2014 WL 4229997, at *1, 2014 Wash. App. LEXIS 2103, at *1. In an unpublished decision, the Court of Appeals affirmed the convictions but vacated the sentences after accepting the State\u2019s concession that it failed to prove Conover\u2019s prior convictions. 2014 WL 4229997, at *5, *9, 2014 Wash. App. LEXIS 2103, at *12-13, *24. It rejected Conover\u2019s argument about running the enhancements concurrently with each other.\n\u00b610 We granted Conover\u2019s petition for review on whether RCW 9.94A.533 requires trial courts to run bus stop enhancements on one count consecutively or concurrently with bus stop enhancements on other counts. State v. Conover, 182 Wn.2d 1007, 344 P.3d 688 (2015).\nANALYSIS\nI. Standard of Review\n\u00b611 RCW 9.94A.533(6) states,\nAn additional twenty-four months shall be added to the standard sentence range for any ranked offense involving a violation of chapter 69.50 RCW if the offense was also a violation of RCW 69.50.435 or 9.94A.827. All enhancements under this subsection shall run consecutively to all other sentencing provisions, for all offenses sentenced under this chapter,[]\n(Emphasis added.)\n\u00b612 This case requires us to decide whether the italicized language requires a trial court to run school bus route stop sentence enhancements on multiple counts consecutively to, or concurrently with, each other.\n\u00b613 This is a question of statutory interpretation, which we review de novo. Charles, 135 Wn.2d at 245. Our primary objective is to determine and to apply the legislature\u2019s intent. State v. Donaghe, 172 Wn.2d 253, 261-62, 256 P.3d 1171 (2011) (quoting State v. Jacobs, 154 Wn.2d 596, 600, 115 P.3d 281 (2005)). We determine legislative intent from the statute\u2019s plain language, \u201cconsidering the text of the provision in question, the context of the statute in which the provision is found, related provisions, amendments to the provision, and the statutory scheme as a whole.\u201d Ass\u2019n of Wash. Spirits & Wine Distribs. v. Wash. State Liquor Control Bd., 182 Wn.2d 342, 350, 340 P.3d 849 (2015) (citing Dep\u2019t of Ecology v. Campbell & Gwinn, LLC, 146 Wn.2d 1, 9-10, 43 P.3d 4 (2002)).\n\u00b614 If, after examining the ordinary meaning of the statute\u2019s language and its context in the statutory scheme, more than one reasonable interpretation exists, we treat the statute as ambiguous. Jacobs, 154 Wn.2d at 600-01. In criminal cases, we apply the rule of lenity to ambiguous statutes and interpret the statute in the defendant\u2019s favor. Id. at 601.\nII. Neither the Language Nor the Context of RCW 9.94A.533(6) Require Trial Courts To Run School Bus Route Stop Enhancements on Multiple Counts Consecutively to Each Other\n\u00b615 The statutory context of RCW 9.94A.533(6) informs our analysis of legislative intent. As noted above, RCW 9.94A.533(6) states, \u201cAll enhancements under this subsection shall run consecutively to all other sentencing provisions, for all offenses sentenced under this chapter\u201d (Emphasis added.) In contrast, another sentence enhancement in the same statute uses different language to describe when it must run consecutively; RCW 9.94A.533(3)(e), which provides for consecutive firearm enhancements, states, \u201cNotwithstanding any other provision of law, all firearm enhancements under this section are mandatory, shall be served in total confinement, and shall run consecutively to all other sentencing provisions, including other firearm or deadly weapon enhancements, for all offenses sentenced under this chapter.\u201d (Emphasis added.) Similarly, RCW 9.94A.533(4)(e), which provides for consecutive deadly weapon enhancements, states, \u201cNotwithstanding any other provision of law, all deadly weapon enhancements under this section are mandatory, shall be served in total confinement, and shall run consecutively to all other sentencing provisions, including other firearm or deadly weapon enhancements, for all offenses sentenced under this chapter.\u201d (Emphasis added.)\n\u00b616 As the italicized language shows, the legislature used different language in RCW 9.94A.533(6) than it used in (3)(e) and (4)(e); the language of RCW 9.94A.533(6) does not explicitly require those enhancements to run consecutively to each other or to other enhancements. Clearly, the legislature\u2019s choice of different language indicates a different legislative intent. State v. Roberts, 117 Wn.2d 576, 586, 817 P.2d 855 (1991).\nIII. In Charles, We Held That Language Similar to RCW 9.94A.533(6) Did Not Require Trial Courts To Run Firearm Enhancements on Multiple Counts Consecutively to Each Other\n\u00b617 The reason that RCW 9.94A.533(3)(e) and (4)(e) contain the language italicized above can be traced to our decision in Charles. As discussed above, Charles interpreted the former version of the firearm enhancement statute, RCW 9.94A.310(3)(e) (1995). That old firearm enhancement statute resembles the current drug zone enhancement section at issue here; it read, \u201c \u2018Notwithstanding any other provision of law, any and all firearm enhancements under this section are mandatory, shall be served in total confinement, and shall not run concurrently with any other sentencing provisions.\u2019 \u201d Charles, 135 Wn.2d at 247 (some emphasis omitted) (quoting former RCW 9.94A.310(3)(e)).\n\u00b618 In Charles, we held that the language \u201cshall not run concurrently with any other sentencing provisions\u201d was ambiguous about whether multiple weapon enhancements must always run consecutively with each other or whether the sentencing court must apply the general SRA statute governing when sentences are concurrent or consecutive\u2014 former RCW 9.94A.400 (1998), recodified as RCW 9.94A-.589 \u2014 to determine if multiple enhancements run consecutively or concurrently. Id. at 250. We concluded that the sentencing court had to apply the general concurrent/ consecutive statute and that given the presumption of concurrency in that statute, firearm enhancements on multiple counts did not run consecutively to each other but only to the base sentences. Id. at 253-54. Enhancements could run consecutively to each other only if the underlying sentences run consecutively (or if the prerequisites to an exceptional sentence were met). Id. at 254 (citing former RCW 9.94A.400).\n\u00b619 The legislature responded to Charles in 1998. It amended the weapon enhancement statutes to add the following emphasized language: \u201c \u2018Notwithstanding any other provision of law, all [firearm] enhancements under this section are mandatory, shall be served in total confinement, and shall run consecutively to all other sentencing provisions, including other firearm or deadly weapon enhancements, [for all offenses sentenced under this chapter].'\u201d State v. DeSantiago, 149 Wn.2d 402, 416, 68 P.3d 1065 (2003) (quoting RCW 9.94A.510(3)(e), (4)(e)). Notably, the legislature also added language to the introductory section of the firearm enhancement provision stating, \u201cIf the offender is being sentenced for more than one offense, the firearm enhancement or enhancements must be added to the total period of confinement for all offenses, regardless of which underlying offense is subject to a firearm enhancement.\u201d Laws of 1998, ch. 235, \u00a7 1(3) (emphasis added), (4) (same language for deadly weapons).\n\u00b620 This court has interpreted the amended version of RCW 9.94A.533 to require that \u201call firearm and deadly weapon enhancements are mandatory and, where multiple enhancements are imposed, they must be served consecutively to base sentences and to any other enhancements.\u201d DeSantiago, 149 Wn.2d at 416.\n\u00b621 The school bus route stop enhancement statute at issue here, RCW 9.94A.533(6), lacks the key language that transformed the weapons enhancement statutes from being ambiguous about whether a weapon enhancement on one count must run concurrently or consecutively with a weapon enhancement on another count to mandating that a weapon enhancement on one count must run consecutively to a weapon enhancement on another count. Following Charles, school bus route stop enhancements contain the pre-Charles language rather than the post-Charles language and therefore need not run consecutively to other school bus route stop enhancements, either.\nIV. Jacobs Addressed a Different Issue\n\u00b622 The state argues that Jacobs, 154 Wn.2d 596, compels a different result. But Jacobs addressed a different issue. Before 2006, RCW 9.94A.533(6) stated, \u201cAn additional twenty-four months shall be added to the standard sentence range for any ranked offense involving a violation of chapter 69.50 RCW if the offense was also a violation of RCW 69.50.435 or 9.94A.605.\u201d Former RCW 9.94A.533(6) (2004). In Jacobs, a jury convicted the codefendants of one count each of manufacturing a controlled substance and returned two special verdicts on each count: that each defendant committed the crime while a person under 18 was present and that each defendant manufactured a controlled substance within 1,000 feet of a school bus route stop. 154 Wn.2d at 598. The sentencing judge imposed two different 24-month sentence enhancements based on those findings and applied them consecutively. Id.', see RCW 69.50.435(l)(c); former RCW 9.94A.605.\n\u00b623 The defendants challenged their consecutive sentence enhancements. They argued that the State could not charge two different enhancements on a single count and, even if it could, that the sentencing court could not run the two different enhancements consecutively. The Court of Appeals affirmed. State v. Jacobs, 121 Wn. App. 669, 683, 89 P.3d 232 (2004).\n\u00b624 In 2005, we reversed and vacated the sentence. We ruled that the two different sentence enhancements on a single count had to run concurrently with each other. We reasoned, \u201c[T]he legislature clearly knows how to require consecutive application of sentence enhancements and chose to do so only for firearms and other deadly weapons\u201d but not for the drug zone enhancement statute at issue. Id. at 603. We explained that a contrary conclusion would conflict with (1) \u201cthe legislature\u2019s presumption in favor of concurrent sentences as well as the lack of general discretion judges have in deciding whether to apply sentences concurrently or consecutively\u2019 and (2) the rule of lenity. Id.\n\u00b625 This court in Jacobs distinguished the language in former RCW 9.94A.533(6) from the language in (3)(e) and (4)(e). Id. We explained that this difference in the statutory language favored running the enhancements concurrently with each other because RCW 9.94A.533(6) did not expressly require sentencing courts to run those enhancements consecutively to each other or to other enhancements. Id.\n\u00b626 In 2006, the legislature amended RCW 9.94A.533(6) by adding the sentence, \u201cAll enhancements under this subsection shall run consecutively to all other sentencing provisions, for all offenses sentenced under this chapter.\u201d Laws of 2006, ch. 339, \u00a7 301(6) (emphasis added). The stated purpose of the amendment was to overturn our decision in Jacobs.\n\u00b627 A series of unpublished Division Two decisions have reached different results on whether this 2006 amendment to RCW 9.94A.533(6) was limited to the issue in Jacobs, where the sentence involved two different enhancements applied to the same count, or whether it also reaches situations we have here, where the sentence involves multiple enhancements of the same kind across multiple counts. The decisions finding the current statute still ambiguous rely on the rule of construction that the legislature\u2019s use of certain statutory language in one instance, i.e., RCW 9.94A.533(3)(e) and (4)(e), but different language in another, i.e., RCW 9.94A.533(6), indicates a different legislative intent. See Roberts, 117 Wn.2d at 586 (quoting In re Det. of Swanson, 115 Wn.2d 21, 27, 804 P.2d 1 (1990)).\n\u00b628 We hold that that amendment addressed only the scenario presented in Jacobs. The Jacobs decision identified and relied on the differences in statutory language between the drug zone enhancement provision and the firearm and deadly weapon enhancement provisions. Jacobs, 154 Wn.2d at 603. The legislature, when it amended RCW 9.94A.533(6) in 2006, cited Jacobs but did not add language to explicitly require all drug zone enhancements to run consecutively to all other drug zone enhancements, as it had when it amended the firearm and deadly weapon enhancement provisions to respond to Charles. Specifically, the drug zone enhancement says, \u201cAll enhancements under this subsection shall run consecutively to all other sentencing provisions, for all offenses sentenced under this chapter.\u201d RCW 9.94A.533(6) (emphasis added). The firearm enhancement, in contrast, states, \u201c[A] 11 firearm enhancements under this section . . . shall run consecutively to all other sentencing provisions, including other firearm or deadly weapon enhancements, for all offenses sentenced under this chapter.\u201d RCW 9.94A.533(3)(e) (emphasis added). The deadly weapon enhancement, like the firearm enhancement but unlike the drug zone enhancement, states, \u201c[A] 11 deadly weapon enhancements under this section . . . shall run consecutively to all other sentencing provisions, including other firearm or deadly weapon enhancements, for all offenses sentenced under this chapter.\u201d RCW 9.94A.533(4)(e) (emphasis added).\n\u00b629 Thus, the language in the drug zone enhancement does not require trial courts to run such enhancements consecutively across counts. See State v. Delgado, 148 Wn.2d 723, 728, 63 P.3d 792 (2003) (giving effect to differences in language between two-strike statute and three-strike statute); Charles, 135 Wn.2d at 249 (\u201cWhen construing a statute, we read it in its entirety and interpret the various provisions in light of one another.\u201d); Roberts, 117 Wn.2d at 586. A contrary interpretation would render the additional language in RCW 9.94A.533(3)(e) and (4)(e) superfluous; this we will not do. See State v. K.L.B., 180 Wn.2d 735, 742, 328 P.3d 886 (2014) (\u201c \u2018a court must not interpret a statute in any way that renders any portion meaningless or superfluous\u2019 \u201d (quoting Jongeward v. BNSF Ry. Co., 174 Wn.2d 586, 601, 278 P.3d 157 (2012))).\nCONCLUSION\n\u00b630 We hold that RCW 9.94A.533(6) requires the trial court to run Conover\u2019s bus stop enhancements consecutively to the base sentences for each of his three delivery counts, but not consecutively to each other. We reverse the Court of Appeals and remand for resentencing.\nMadsen, C.J., and Johnson, Owens, Fairhurst, Stephens, Wiggins, Gonz\u00e1lez, and Yu, JJ., concur.\nThe trial court did not impose an exceptional sentence based on the VUCSA aggravating factors under RCW 9.94A.535. CP at 62; HP (Oct. 24, 2012) at 11-12, 19.\nRCW 69.50.435(l)(c) establishes the school bus route stop and other enhancements to sentences for RCW 69.50.401 violations. RCW 9.94A.827 relates to the manufacture of methamphetamine, which is not relevant to this case. Although the legislature has amended RCW 9.94A.533 numerous times since 2011, the relevant language remains the same.\nSee amendments added to Laws of 1998, ch. 235, \u00a7 1.\nSee Roberts, 117 Wn.2d at 586 (\u201c\u2018[W]here the Legislature uses certain statutory language in one instance, and different language in another, there is a difference in legislative intent.\u2019 \u201d (alteration in original) (internal quotation marks omitted) (quoting In re Det. of Swanson, 115 Wn.2d 21, 27, 804 P.2d 1 (1990))).\nWe cited RCW 9.94A.589(1)(a), which states that multiple sentences imposed at the same time \u201cshall\u201d run concurrently, unless the trial court finds that the prerequisites to an exceptional sentence are met:\nExcept as provided in (b) or (c) of this subsection, whenever a person is to be sentenced for two or more current offenses, the sentence range for each current offense shall be determined by using all other current and prior convictions as if they were prior convictions for the purpose of the offender score: PROVIDED, That if the court enters a finding that some or all of the current offenses encompass the same criminal conduct then those current offenses shall be counted as one crime. Sentences imposed under this subsection shall be served concurrently. Consecutive sentences may only be imposed under the exceptional sentence provisions of RCW 9.94A.535. . . .\nSee In re Postsenteneing Review of Gutierrez, 146 Wn. App. 151, 155-56, 188 P.3d 546 (2008); Final B. Rep. on Engrossed Second Substitute S.B. 6239, at 4, 59th Leg., Reg. Sess. (Wash. 2006); Engrossed Second Substitute S.B. 6239, at 2, 5, 59th Leg., Reg. Sess. (Wash. 2006); H.B. Rep. on Second Substitute H.B. 6239, at 7,13-14, 59th Leg., Reg. Sess. (Wash. 2006).\nCompare State v. White, noted at 170 Wn. App. 1026, 2012 WL 5343231, 2012 Wash. App. LEXIS 2128 (RCW 9.94A.533(6) requires school bus route stop enhancements to run consecutively to all other sentencing provisions and to each other (citing Gutierrez)), and State v. Gugger, noted at 168 Wn. App. 1010, 2012 WL 1699868, 2012 Wash. App. LEXIS 1154 (amendment permits multiple enhancements and directs that they run consecutively to each other (citing Gutierrez)), with State v. Ross, noted at 157 Wn. App. 1054, 2010 WL 3489931, at *4, 2010 Wash. App. LEXIS 2026, at *9-10 (finding the amended statute still ambiguous, applying rule of lenity and requiring enhancements to run concurrently with each other; \u201c[w]hile the legislature tried to remedy the ambiguity the Jacobs court identified, it did not. The first sentence in the statute extends the standard range for each conviction by the length of the applicable enhancement. . . . These two standard range current offenses would normally be served concurrently. RCW 9.94A.589(l)(a). Yet, the second sentence suggests that all enhancements be served consecutively; but this can only occur if the enhancements are not part of standard range sentences, a proposition that the court in Gutierrez rejected. This does not make the second sentence in RCW 9.94A.533(6) meaningless because it still requires that when multiple enhancements apply to a single criminal act, the court must impose those enhancements consecutively to each other\u201d), and State v. Lawson, noted at 145 Wn. App. 1031, 2008 WL 2601424, 2008 Wash. App. LEXIS 1708 (same).",
+        "type": "majority",
+        "author": "Gordon McCloud, J."
+      }
+    ],
+    "attorneys": [
+      "Lila J. Silverstein (of Washington Appellate Project), for petitioner.",
+      "Ryan P. Jurvakainen, Prosecuting Attorney, and David Phelan, Deputy, for respondent."
+    ],
+    "corrections": "",
+    "head_matter": "[No. 90782-0.\nEn Banc.]\nArgued May 21, 2015.\nDecided August 13, 2015.\nThe State of Washington, Respondent, v. Timothy Allen Conover, Petitioner.\nLila J. Silverstein (of Washington Appellate Project), for petitioner.\nRyan P. Jurvakainen, Prosecuting Attorney, and David Phelan, Deputy, for respondent."
+  },
+  "file_name": "0706-01",
+  "first_page_order": 760,
+  "last_page_order": 773
+}

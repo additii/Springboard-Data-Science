@@ -1,0 +1,130 @@
+{
+  "id": 1367873,
+  "name": "Hornor Transfer Company v. Abrams",
+  "name_abbreviation": "Hornor Transfer Co. v. Abrams",
+  "decision_date": "1921-10-03",
+  "docket_number": "",
+  "first_page": "8",
+  "last_page": "12",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "150 Ark. 8"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [
+    {
+      "cite": "9 A. L. R. 557",
+      "category": "reporters:specialty",
+      "reporter": "A.L.R.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "168 N. C. 31",
+      "category": "reporters:state",
+      "reporter": "N.C.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "101 Ark. 75",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1310975
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/101/0075-01"
+      ]
+    },
+    {
+      "cite": "134 Ark. 76",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1573303
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/134/0076-01"
+      ]
+    },
+    {
+      "cite": "101 Ark. 75",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1310975
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/101/0075-01"
+      ]
+    },
+    {
+      "cite": "134 Ark. 76",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1573303
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/134/0076-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 407,
+    "char_count": 8503,
+    "ocr_confidence": 0.488,
+    "pagerank": {
+      "raw": 1.8277563809271864e-07,
+      "percentile": 0.7202977857010197
+    },
+    "sha256": "effe3b456a6f97e1d14839cd8fdcb42e0bcc756f4edaabb55ac0331bb01da648",
+    "simhash": "1:2aef66a0c93ad2d0",
+    "word_count": 1462
+  },
+  "last_updated": "2024-02-27T17:22:06.736121+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Humphreys, J., not participating."
+    ],
+    "parties": [
+      "Hornor Transfer Company v. Abrams."
+    ],
+    "opinions": [
+      {
+        "text": "McCulloch, C. J.\nThis is an action instituted by the plaintiff, Mrs. Abrams, against the defendants, Hornor Transfer Company, a copartnership, to recover the value of certain articles of per&onal property alleged to have been received from the plaintiff by the defendants at their warehouse and which were, not returned on demand. The defendants in their answer denied that they were engaged in the business of operating a warehouse or that they received plaintiff\u2019s property in that capacity, and denied that the property was lost by reason of any negligence on the part of the defendants.\nThere was a sharp conflict in the testimony concerning the circumstances under which defendants received plaintiff\u2019s property and the agreement between them with respect to it. It is uncontradicted that some time during the month of January, in the year 1918, plaintiff received at Helena certain bundles or packages containing the articles in controversy, which had been shipped to her from Cincinnati, Ohio. The packages were shipped to Helena by steamboat. The defendants were agents at Helena for the steamboat company and received all consignments of freight to the city of Helena. Defendants were also engaged in the transfer business in the. city of Helena, hauling goods and other property for hire. On receipt of the bill of lading and on the arrival of the goods plaintiff\u2019s husband gave the bill of lading to defendants and the goods were placed in the upper story of the elevator building, defendants having their office in the lower story.\nThe contention of plaintiff is that the defendants accepted the goods for hire and expressly agreed, in consideration of the payment of the charges, to keep the goods as warehousemen. On the other hand, defendants contend that they were not engaged in the warehouse business, but were merely agents for the steamboat company and were engaged in hauling for hire, and that at the request of plaintiff and merely for her accommodation, they permitted her to place the goods in the second story of the elevator building without any agreement with respect to safely keeping the same. They contended that they did not operate a warehouse there, but had permitted several persons to temporarily place goods in the second story of the elevator building, and one of the defendants testified that they kept a watchman on guard at the building and that he visited the second story of the building occasionally to see that everything was in order, and that there was no combustible matter, so as to avoid the outbreak of fire.\nPlaintiff did not discover the loss of the goods until about a year after they had been placed in the building, and then made immediate demand for their return or payment, which was refused, and this suit was instituted. The property consisted of a davenport, of the alleged value of $65, a roll of bedding, towels, kitchen utensils, scarfs, chafing dish, an electric iron, and certain other articles, the whole being of the alleged value of $231.50.\nThe court, at the request of the defendants, submitted to the jury the question whether defendants received the property as warehousemen to keep the same for hire, or whether merely as a gratuitous bailee. The court told the jury, in an instruction given at the request of defendants, that, if they permitted the plaintiff to store the goods in the building for accommodation only, without compensation, the only duty that defendants owed the plaintiff with reference to the goods was to exercise slight degree of care in protecting the same, and that if the goods were stolen from the building while defendants were exercising such care there would be no liability. The verdict being in favor of the plaintiff, we must treat it as having settled in plaintiff\u2019s favor the question whether or not defendants received the goods as bailee for hire. But the court went further and gave the following instruction, over the objections of defendants:\n\u2018 \u2018 If, on the other hand, you find from the evidence in this case that the defendant company was a bailee for hire, that is, that the goods were stored by. plaintiff with the defendant company and the defendant was to make a charge, or to charge for the storage of the goods, and they were lost while in the possession of the defendant company, then you will find for the plaintiff for the value of the goods, as shown by the evidence.\u201d\nThis instruction told the jury, in substance, it will be observed, that if the defendants were bailees for hire, and if the goods were lost while in the possession of the defendants, the latter were liable for the value of the goods. It was error, we think, to give this instruction, for, even though the defendants were bailees for hire, they were only liable for negligence. Bertig y. Norman, 101 Ark. 75. It is true that, according to the testimony adduced, the defendants were placed in exclusive possession of the property, and it devolved upon them to explain the loss before the plaintiff could be put upon proof as to negligence. Phoenix Cotton Oil Co. v. Pettus & Buford, 134 Ark. 76. But there was evidence adduced bv the defendants tending to explain the loss of the goods and also tending to show that the same were lost without negligence on the part of the defendants. In other words, there was legally sufficient evidence to warrant a submission to the jury of the question whether or not the loss was explained and occurred without fault or negligence on the part of the defendants. This being true, it was the duty -of the court to submit those issues to the jury, rather than take them from the jury by the instruction given, which, in substance, told the jury that the defendants were liable if they held the goods as bailees for hire.\nFor the error in giving this instruction, the judgment must be reversed and the cause remanded for a new trial. It is so ordered.\nHumphreys, J., not participating.",
+        "type": "majority",
+        "author": "McCulloch, C. J."
+      }
+    ],
+    "attorneys": [
+      "P. B. Andrews, for appellant.",
+      "R. B: Campbell and John C.. Sheffield, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Hornor Transfer Company v. Abrams.\nOpinion delivered October 3, 1921.\n1. Bailment- \u2014 negligence.\u2014A bailee of goods for hire is not absolutely liable for their loss, but only for their negligent loss.\n2. Bailment \u2014 question por jury. \u2014 \u2022'While the burden is on a bailee for hire who is placed in exclusive possession of the property to explain the loss before the plaintiff can be put upon proof as to negligence, where evidence was adduced by bailees tending to show that the property was lost without negligence on their part, the issue as to their negligence should have been submitted to the jury.\nAppeal from Phillips Circuit Court; J. M. Jackson, Judge;\nreversed.\nP. B. Andrews, for appellant.\nThe oral instruction given by the court made the defendant the absolute insurer of the safety of the goods stored, regardless of what may have happened to them, and regardless of the degree of care and diligence exercised by it, which was error.\n134 Ark. 76 lays down the rule that \u201ca bailee for hire in exclusive possession of the property must explain its loss before it devolves upon the bailor to show that it was lost through the bailee\u2019s negligence.\u201d\nThe loss of the property was explained as having been stolen, and it thereupon devolved upon appellee to show that it was through the bailee\u2019s negligence.\nUnder the court\u2019s oral instruction it was only necessary for the jury to find, before returning a verdict for plaintiff, that the goods' were stored by the defendant and were afterwards lost, which was error.\nR. B: Campbell and John C.. Sheffield, for appellee.\nA prima facie case' of negligence was made against appellant, and he should have explained the loss before it devolved on appellee to show that it occurred through appellant\u2019s negligence. 134 Ark. 76; 101 Ark. 75; 6 C. J. 1158, \u00a7 160. Unless the appellant overcomes this prima facie case that the loss occurred through no fault of his, the appellee may prevail. 168 N. C. 31 (9 A. L. R. 557). There is absolutely no testimony in explanation of the loss; simply a denial of negligence, without any testimony as to the degree of care exercised for the protection of the goods.\nEven as a gratuitous bailee some slight degree of care was necessary. 6 C. J. p. 1157, \u00a7 154.\nThe oral instruction was properly given, for the court must confine itself to such principles of law as are applicable to the evidence given. 14 R. C. L. p. 786, \u00a7 51. Appellant introduced no evidence explaining the loss, and, upon his failure to do so, the prima facie of negligence was not overcome, and the instructions of the court were proper."
+  },
+  "file_name": "0008-01",
+  "first_page_order": 34,
+  "last_page_order": 38
+}

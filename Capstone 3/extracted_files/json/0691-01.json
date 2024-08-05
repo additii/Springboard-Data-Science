@@ -1,0 +1,450 @@
+{
+  "id": 4356601,
+  "name": "O.S.T. et al., Individually and on Behalf of All Similarly Situated Individuals, Respondents, v. Regence BlueShield, Petitioner",
+  "name_abbreviation": "O.S.T. v. Regence BlueShield",
+  "decision_date": "2014-10-09",
+  "docket_number": "No. 88940-6",
+  "first_page": "691",
+  "last_page": "707",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "181 Wash. 2d 691"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Wash.",
+    "id": 9029,
+    "name": "Washington Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 38,
+    "name_long": "Washington",
+    "name": "Wash."
+  },
+  "cites_to": [
+    {
+      "cite": "90 P.3d 659",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2004,
+      "opinion_index": 0
+    },
+    {
+      "cite": "151 Wn.2d 568",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        428173
+      ],
+      "year": 2004,
+      "pin_cites": [
+        {
+          "page": "612"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/151/0568-01"
+      ]
+    },
+    {
+      "cite": "514 P.2d 137",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1973,
+      "opinion_index": 0
+    },
+    {
+      "cite": "82 Wn.2d 811",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1130155
+      ],
+      "year": 1973,
+      "pin_cites": [
+        {
+          "page": "814-15"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/82/0811-01"
+      ]
+    },
+    {
+      "cite": "125 P.3d 119",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2005,
+      "opinion_index": 0
+    },
+    {
+      "cite": "156 Wn.2d 168",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        3893258
+      ],
+      "year": 2005,
+      "pin_cites": [
+        {
+          "page": "177"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/156/0168-01"
+      ]
+    },
+    {
+      "cite": "971 P.2d 102",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1999,
+      "opinion_index": 0
+    },
+    {
+      "cite": "93 Wn. App. 941",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        48755
+      ],
+      "year": 1999,
+      "pin_cites": [
+        {
+          "page": "948"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/93/0941-01"
+      ]
+    },
+    {
+      "cite": "900 P.2d 552",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1995,
+      "opinion_index": 0
+    },
+    {
+      "cite": "127 Wn.2d 370",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        433065
+      ],
+      "year": 1995,
+      "pin_cites": [
+        {
+          "page": "375"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/127/0370-01"
+      ]
+    },
+    {
+      "cite": "842 P.2d 956",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1993,
+      "opinion_index": 0
+    },
+    {
+      "cite": "120 Wn.2d 439",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1368182
+      ],
+      "year": 1993,
+      "pin_cites": [
+        {
+          "page": "450"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/120/0439-01"
+      ]
+    },
+    {
+      "cite": "411 P.2d 889",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1966,
+      "opinion_index": 0
+    },
+    {
+      "cite": "68 Wn.2d 164",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1052985
+      ],
+      "year": 1966,
+      "pin_cites": [
+        {
+          "page": "166"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/68/0164-01"
+      ]
+    },
+    {
+      "cite": "691 P.2d 178",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1984,
+      "opinion_index": 0
+    },
+    {
+      "cite": "103 Wn.2d 111",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1134168
+      ],
+      "year": 1984,
+      "pin_cites": [
+        {
+          "page": "123"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/103/0111-01"
+      ]
+    },
+    {
+      "cite": "197 P.3d 1153",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2008,
+      "pin_cites": [
+        {
+          "parenthetical": "EFSEC"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "165 Wn.2d 275",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        5751596
+      ],
+      "year": 2008,
+      "pin_cites": [
+        {
+          "page": "308-10",
+          "parenthetical": "EFSEC"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/165/0275-01"
+      ]
+    },
+    {
+      "cite": "949 P.2d 810",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1998,
+      "opinion_index": 0
+    },
+    {
+      "cite": "134 Wn.2d 328",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        452319
+      ],
+      "year": 1998,
+      "pin_cites": [
+        {
+          "page": "343"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/134/0328-01"
+      ]
+    },
+    {
+      "cite": "297 P.2d 940",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1956,
+      "opinion_index": 0
+    },
+    {
+      "cite": "50 Wn.2d 1",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1002145
+      ],
+      "year": 1956,
+      "pin_cites": [
+        {
+          "page": "12"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/50/0001-01"
+      ]
+    },
+    {
+      "cite": "69 P.3d 318",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "weight": 3,
+      "year": 2003,
+      "opinion_index": 0
+    },
+    {
+      "cite": "149 Wn.2d 444",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1292565
+      ],
+      "year": 2003,
+      "pin_cites": [
+        {
+          "page": "450"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/149/0444-01"
+      ]
+    },
+    {
+      "cite": "156 P.3d 201",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "weight": 2,
+      "year": 2007,
+      "opinion_index": 0
+    },
+    {
+      "cite": "160 Wn.2d 106",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        3630933
+      ],
+      "year": 2007,
+      "pin_cites": [
+        {
+          "page": "110"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/160/0106-01"
+      ]
+    },
+    {
+      "cite": "317 P.3d 987",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2014,
+      "opinion_index": 0
+    },
+    {
+      "cite": "179 Wn.2d 684",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4033752
+      ],
+      "year": 2014,
+      "pin_cites": [
+        {
+          "page": "693"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/179/0684-01"
+      ]
+    },
+    {
+      "cite": "43 P.3d 4",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2002,
+      "opinion_index": 0
+    },
+    {
+      "cite": "146 Wn.2d 1",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        960829
+      ],
+      "year": 2002,
+      "pin_cites": [
+        {
+          "page": "9"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/146/0001-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1140,
+    "char_count": 27330,
+    "ocr_confidence": 0.746,
+    "pagerank": {
+      "raw": 1.7429656031085588e-07,
+      "percentile": 0.7072976069261181
+    },
+    "sha256": "15b5ce64204e79dc4619f4f12c843e791491b7c5bdb86af0b643ea23030e03bc",
+    "simhash": "1:121296a5b2bd62a2",
+    "word_count": 4098
+  },
+  "last_updated": "2024-02-27T19:47:16.443836+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "O.S.T. et al., Individually and on Behalf of All Similarly Situated Individuals, Respondents, v. Regence BlueShield, Petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "\u00b61 Today\u2019s controversy arises from the enactment of two laws: the neurodevelopmental therapies mandate, RCW 48.44.450, and the mental health parity act, RCW 48.44.341. In 1989, the Washington Legislature mandated coverage for neurodevelopmental therapies (neurodevelopmental therapies or NDT) (speech, occupational, and physical therapy) in employer-sponsored group plans for children under age seven (the neurodevelopmental therapies mandate or NDT mandate). RCW 48.44.450. In 2005, the legislature enacted the mental health parity act, which mandates coverage for \u201cmental health services.\u201d RCW 48.44.341. We hold that the statutes do not conflict \u2014 neurodevelopmental therapies may constitute \u201cmental health services\u201d if the therapies are medically necessary to treat a mental disorder identified in the American Psychiatric Association\u2019s Diagnostic and Statistical Manual of Mental Disorders (4th rev. ed. 2000) (DSM-IV-TR). Therefore, the blanket exclusions of neurodevelopmental therapies in the plaintiffs\u2019 health contracts are void and unenforceable.\nWiggins, J.\nFACTS\n\u00b62 The two named plaintiffs in this case are O.S.T. and L.H. O.S.T. was six years old at the time this lawsuit commenced. When he was just six months old, he began having difficulties feeding and was diagnosed with a feeding disorder. Problems with O.S.T.\u2019s health worsened as he got older. \u201cHe went from having normal language development to nearly no language at all.\u201d By his third birthday, therapists believed that O.S.T. was autistic. Between 2006 and 2008 he received speech, physical, and occupational therapy from Boyer Children\u2019s Clinic. After leaving the Boyer Children\u2019s Clinic, he continued to receive neurodevelopmental therapies from Children\u2019s Communication Corner; the Hearing, Speech and Deafness Center; and Seattle Children\u2019s Hospital. In 2009, the autism diagnosis was confirmed following an evaluation with Seattle Children\u2019s Hospital.\n\u00b63 The second named plaintiff, L.H., was two years old when this suit began. He is diagnosed with expressive language disorder, myotubular myopathy, profound hypotonia, and severe hydrocephalus. He receives speech, occupational, and physical therapy from Boyer Children\u2019s Clinic.\n\u00b64 Both plaintiffs either are or have been insured under health policies issued by Regence BlueShield that contain blanket exclusions for neurodevelopmental therapies. Regence BlueShield did not cover O.S.T.\u2019s therapies, so O.S.T.\u2019s parents paid for the services. It is unclear whether Regence BlueShield denied any of L.H.\u2019s claims.\n\u00b65 The plaintiffs filed a class-action complaint, alleging breach of contract; declaratory relief; violation of the Washington Consumer Protection Act, chapter 19.86 RCW; and seeking injunctive relief. Judge Erlick granted partial summary judgment to the plaintiffs on December 12, 2012. He held that \u201cany provisions contained in Regence BlueShield policies issued and delivered to Plaintiffs O.S.T. and L.H. on or after January 1, 2008 that exclude coverage of neurodevelopmental therapies regardless of medical necessity are declared invalid, void and unenforceable by Defendant and its agents.\u201d He further certified the order for interlocutory review under RAP 2.3(b)(4). The Court of Appeals granted discretionary review, and we accepted transfer.\nANALYSIS\n\u00b66 We hold the neurodevelopmental therapies mandate and the mental health parity act do not conflict. The mental health parity act requires insurers to provide NDT coverage in individual plans when the therapies are medically necessary to treat mental disorders recognized in the DSM-TV-TR if the insurance contract covers medical and surgical services. We also affirm the trial court\u2019s order granting partial summary judgment.\nA. Standard of Review\n\u00b67 We review matters of statutory interpretation de novo. Dep\u2019t of Ecology v. Campbell & Gwinn, LLC, 146 Wn.2d 1, 9, 43 P.3d 4 (2002). We use that same standard to review grants of summary judgment. Camicia v. Howard S. Wright Constr. Co., 179 Wn.2d 684, 693, 317 P.3d 987 (2014).\nB. Statutory Interpretation\n\u00b6 8 Our fundamental goal in statutory interpretation is to \u201cdiscern and implement the legislature\u2019s intent.\u201d State v. Armendariz, 160 Wn.2d 106, 110, 156 P.3d 201 (2007). If a statute\u2019s meaning is plain on its face, we \u201cgive effect to that plain meaning as an expression of legislative intent.\u201d Campbell & Gwinn, LLC, 146 Wn.2d at 9-10. We derive the plain meaning from the language of the statute and related statutes. Id. \u201cWhen the plain language is unambiguous\u2014 that is, when the statutory language admits of only one meaning \u2014 the legislative intent is apparent, and we will not construe the statute otherwise.\u201d State v. J.P., 149 Wn.2d 444, 450, 69 P.3d 318 (2003). However, when the statute is ambiguous or there are conflicting provisions, \u201cwe may arrive at the legislature\u2019s intent by applying recognized principles of statutory construction.\u201d Id.\n\u00b69 We begin with an analysis of the plain language of the NDT mandate. The legislature passed the mandate in 1989. Laws of 1989, ch. 345; RCW 48.44.450. It provides:\n(1) Each employer-sponsored group contract for comprehensive health care service [s] . . . shall include coverage for neurodevelopmental therapies for covered individuals age six and under.\n(2) Benefits provided under this section shall cover the services of those authorized to deliver occupational therapy, speech therapy, and physical therapy. . . .\n(3) Benefits provided under this section shall be for medically necessary services as determined by the health care service contractor. Benefits shall be payable for services for the maintenance of a covered individual in cases where significant deterioration in the patient\u2019s condition would result without the service. Benefits shall be payable to restore and improve function.\nRCW 48.44.450 (emphasis added).\n\u00b610 The plain language of the mandate suggests legislative intent to expand coverage for therapies, but to do so in a limited way. It mandated expanded coverage only for group insurance plans and, within those plans, only for children under age seven. Id.\n\u00b611 Sixteen years later, the legislature enacted another mandate, which requires health insurers to provide coverage for \u201cmental health services.\u201d See RCW 48.44.341. The legislature passed the mandate after finding that the cost of leaving mental disorders untreated is significant. See Laws of 2005, ch. 6, \u00a7 1. Costs include:\n[dlecreased job productivity, loss of employment, increased disability costs, deteriorating school performance, increased use of other health services, treatment delays leading to more costly treatments, suicide, family breakdown and impoverish ment, and institutionalization, whether in hospitals, juvenile detention, jails, or prisons.\nId\n\u00b612 The mental health parity act provides:\n(2) All health service contracts providing health benefit plans that provide coverage for medical and surgical services shall provide:\n(b) For all health benefit plans delivered ... on or after January 1, 2008, coverage for:\n(i) Mental health services ....\nRCW 48.44.341. The legislature defined \u201cmental health services\u201d as \u201cmedically necessary outpatient and inpatient services provided to treat mental disorders covered by the diagnostic categories listed in the most current version of the diagnostic and statistical manual of disorders . . . .\u201d RCW 48.44.341(1).\n113 The language of the mental health parity act evidences legislative intent to require health insurers to cover treatment for mental health disorders and to do so in parity with the medical and surgical services it covers. Expressive language disorder and autistic disorder are mental disorders recognized in the DSM-IV-TR at pages 58-61 and 70-75. By the plain language of the mental health parity act, the legislature did not create an exception for autism (or expressive language disorder) or the neurodevelopmental therapies that treat these disorders. See RCW 48.44.341(1). Therefore, under the language of the statute, the mental health parity act requires coverage for medically necessary neurodevelopmental therapies if they are used to treat a mental disorder recognized in the DSM-IV-TR.\n\u00b614 The NDT mandate and mental health parity act are unambiguous and do not conflict. The scope of each is different. One statute addresses neurodevelopmental therapies generally and does not require that they be used to treat a mental disorder recognized in the DSM-IV-TR. See RCW 48.44.450. The other broadly mandates coverage for all medically necessary treatment for mental disorders recognized in the DSM-IV-TR, except as expressly excluded (provided the contract covers medical and surgical services). See RCW 48.44.341(1), (2).\n\u00b615 Under the plain language of the statute, we conclude that the NDT mandate creates a minimum level of required coverage for neurodevelopmental therapies. However, when neurodevelopmental therapies are medically necessary to treat mental disorders in the DSM-IV-TR, the mental health parity act requires additional coverage. Insurers must meet the requirements of both acts.\nC. Regence BlueShield\u2019s Arguments\n\u00b616 Regence BlueShield makes several failing arguments. It first argues that neurodevelopmental therapies are an exception to the mental health parity act. It arrives at this conclusion using the statutory maxim expressio unius est exclusio alterius. Applying this maxim, Regence BlueShield argues that the NDT mandate has both positive and negative requirements. The positive is that employer-sponsored plans must provide NDT coverage to children through age six. See RCW 48.44.450(1). The negative is that no employer-sponsored plan is required to cover NDT to children over age six and that no other health plan is required to provide NDT benefits. See RCW 48.44.450(1). Under this interpretation, Regence BlueShield argues that the two statutes conflict \u2014 the mental health parity act requires coverage not required by the NDT mandate. Regence BlueShield concludes that the NDT mandate is the more specific statute and, therefore, controls. Consequently, O.S.T. and L.H. are not entitled to coverage.\n\u00b617 Regence BlueShield\u2019s argument is unpersuasive. It would make sense to apply the maxim expressio unius est exclusio alterius if the statutory language was ambiguous and the legislature had never enacted the mental health parity act. However, once the legislature passed the mental health parity act, the statute requires coverage regardless of the NDT mandate. The statutory maxim is subordinate to the primary rule of statutory interpretation, which is to follow legislative intent. See DeGrief v. City of Seattle, 50 Wn.2d 1, 12, 297 P.2d 940 (1956). The legislature\u2019s clear intent is to require coverage for all medically necessary services that treat mental disorders.\n\u00b618 Regence BlueShield\u2019s reliance on the general-specific rule of statutory interpretation is also misplaced. We will not apply the rule because the statutes do not conflict. The rule of statutory construction applies only if, after attempting to read statutes governing the same subject matter in pari materia, we conclude that the statutes conflict to the extent they cannot be harmonized. In re Estate of Kerr, 134 Wn.2d 328, 343, 949 P.2d 810 (1998); Residents Opposed to Kittitas Turbines v. State Energy Facility Site Evaluation Council, 165 Wn.2d 275, 308-10, 197 P.3d 1153 (2008) (EFSEC). Under the principle of statutory construction, the specific statute prevails over a general statute. Kerr, 134 Wn.2d at 343; EFSEC, 165 Wn.2d at 308-10. In situations where the legislature enacts a general statute after a specific statute, we construe \u201cthe original specific statute as an exception to the general statute, unless expressly repealed.\u201d EFSEC, 165 Wn.2d at 309. The statutes do not conflict, so there is no need to apply the rule of statutory construction.\n\u00b619 Second, Regence BlueShield argues that our interpretation of the mental health parity act constitutes an implicit repeal. \u201cRepeal by implication occurs when an act not purporting to repeal any prior act is wholly or partially inconsistent with a prior statute . . . .\u201d 1A Norman J. Singer & J.D. Shambie Singer, Statutes and Statutory Construction \u00a7 22:22, at 320-21 (7th ed. 2007). We disfavor repeals by implication and will not find repeal by implication \u201cwhere earlier and later statutes may logically stand side by side and be held valid.\u201d Bellevue Sch. Dist. No. 405 v. Brazier Constr. Co., 103 Wn.2d 111, 123, 691 P.2d 178 (1984); see Tardiff v. Shoreline Sch. Dist., 68 Wn.2d 164, 166, 411 P.2d 889 (1966); Our Lady of Lourdes Hosp. v. Franklin County, 120 Wn.2d 439, 450, 842 P.2d 956 (1993) (\u201cUnder the 2-pronged test for such repealer, the later act must cover the entire subject matter of the earlier legislation, be complete in itself, and be intended to supersede prior legislation on the subject; and the two acts must be so clearly inconsistent and so repugnant to each other that they cannot be reconciled.\u201d). \u201cWhere an amendment may be harmonized with the existing provisions and purposes of a statutory scheme, there is no implicit repeal.\u201d Gilbert v. Sacred Heart Med. Ctr., 127 Wn.2d 370, 375, 900 P.2d 552 (1995); see 1A Singer & Shambie Singer, supra, \u00a7 23:9, at 468-69 (\u201c[I]f the inconsistency between a later act and an earlier one is not fatal to the operation of either, the two may stand together and no repeal is effected\u201d).\n\u00b620 Here, the statutes may stand side by side and fulfill their respective purposes. The NDT mandate changed common law. Insurers may limit their liability, unless the exclusion is inconsistent with public policy or a statutory mandate. Carr v. Blue Cross of Wash. & Alaska, 93 Wn. App. 941, 948, 971 P.2d 102 (1999). By enacting the NDT mandate, the legislature changed the law as applied to employer-sponsored plans for children under age seven, thus setting the floor on required coverage concerning employer-sponsored plans. Almost two decades later, the legislature added another coverage mandate \u2014 this time requiring parity for mental health services. The effect of the later statute does not nullify the effects of the former. The express language of the NDT mandate simply requires coverage for group plans with children under age seven. The mental health parity act created a different floor for medically necessary treatments for mental disorders. Therefore, the mental health parity act does not implicitly repeal the NDT mandate.\n\u00b621 Finally, Regence BlueShield argues that because \u201cproviders of neurodevelopmental therapies \u2014 occupational, speech, and physical therapists \u2014 may not provide mental-health services, those therapies cannot be considered mental-health services, and the [mental health] Parity Act does not apply.\u201d Appellant Regence BlueShield\u2019s Opening Br. at 18. It reaches this conclusion by exporting from another chapter of the statute the definition of \u201cmental health care practitioners.\u201d See RCW 48.43.087. Regence BlueShield\u2019s reasoning is flawed. The definition was only \u201cfor purposes of [the] section\u201d of the statute that allows insurance enrollees to agree to contract for other services at their own expense. RCW 48.43.087(l)(c), (2). An additional red flag is that RCW 48.43.087(l)(d) provides a definition for \u201cmental health services\u201d that is different from the one provided in the mental health parity act. Clearly, the definitions in RCW 48.43.087 do not apply to the mental health parity act.\nD. Summary Judgment\n\u00b622 Having interpreted the statutes, we now analyze whether the trial court properly granted summary judgment. Summary judgment is appropriate only if \u201cthere is no genuine issue as to any material fact and . . . the moving party is entitled to a judgment as a matter of law.\u201d CR 56(c). We grant motions only if reasonable people could reach one conclusion based on the evidence when viewing the facts in the light most favorable to the nonmoving party. Korslund v. DynCorp Tri-Cities Servs., Inc., 156 Wn.2d 168, 177, 125 P.3d 119 (2005). Here, the trial court appropriately granted summary judgment on the declaratory judgment claim.\n\u00b623 Under the Uniform Declaratory Judgments Act, chapter 7.24 RCW, \u201c[c]ourts of record within their respective jurisdictions shall have power to declare rights, status and other legal relations whether or not further relief is or could be claimed.\u201d RCW 7.24.010. \u201cA person interested under a deed, will, written contract or other writings constituting a contract, or whose rights, status or other legal relations are affected by a statute [or] contract... may have determined any question of construction or validity arising under the instrument, statute, ordinance, contract or franchise and obtain a declaration of rights, status or other legal relations thereunder.\u201d RCW 7.24.020. Here, the plaintiffs ask the court to determine the validity of a provision in their health contracts under Washington law.\n\u00b624 Under the mental health parity act, all health benefit plans must provide coverage for \u201cmental health services\u201d if they provide coverage for medical and surgical services. RCW 48.44.341(2)(c). Neurodevelopmental therapies qualify as \u201cmental health services\u201d if they are medically necessary to treat a mental disorder covered by the DSM-TV-TR. RCW 48.44.341.\nf 25 Regence BlueShield is a health care service contractor, it entered into contracts with O.S.T. and L.H. for individual policies, and neither party questions that the plans provide coverage for medical and surgical services. The plans contain a blanket exclusion for all neurodevelopmental therapies, meaning that the plans exclude therapies regardless of whether they are medically necessary. Therefore, the blanket exclusion violates the mental health parity act if neurodevelopmental therapies may be medically necessary to treat mental disorders.\n\u00b626 \u201cMedically necessary\u201d is defined under Regence BlueShield contracts:\nMEDICALLY NECESSARY: Means health care services or supplies that a Physician or other health care provider exercising prudent clinical judgment, would provide to a Member for the purpose of preventing, evaluating, diagnosing or treating an illness, injury, disease or its symptoms and that are:\n1.17.1 In accordance with generally accepted standards of medical practice;\n1.17.2 Clinically appropriate, in terms of type, frequency, extent, site and duration, and considered effective for the Member\u2019s illness, injury or disease; and\n1.17.3 Not primarily for the convenience of the Member, Physician or other health care provider, and not more costly than an alternative service or sequence of services, or supply at least as likely to produce equivalent therapeutic or diagnostic results as to the diagnosis or treatment of the Member\u2019s illness, injury or disease.\nFor these purposes, \u201cgenerally accepted standards of medical practice\u201d means standards that are based on credible scientific evidence published in peer-reviewed medical literature generally recognized by the relevant medical community, Physician Specialty Society recommendations and the views of Physicians practicing in relevant clinical areas and any other relevant factors.\n(Emphasis added.)\n\u00b627 Regence BlueShield argues that there is a genuine issue of material fact concerning whether neurodevelopmental therapies may be \u201cmedically necessary.\u201d However, there is no real disagreement that neurodevelopmental therapies meet the definition of \u201cmedically necessary\u201d in Regence BlueShield\u2019s own contract. By the terms of the contract, a service may be \u201cmedically necessary\u201d if it treats the symptoms of a disease or illness (and meets other enumerated qualifications). The service does not need to cure the illness; it is sufficient to treat the symptoms of the illness.\n\u00b628 The executive medical director at Regence Blue-Shield, Dr. Joseph Gifford, recognizes, \u201c[Autism Spectrum Disorder (ASD)] is a complex disorder, the exact cause of which is unknown. Most services are focused on improving physical, social, and functional problems that impact the functional status of individuals.\u201d\n\u00b629 The plaintiffs submitted declarations from Dr. Charles Cowan, the medical director of Seattle Children\u2019s Hospital Autism Center and a clinical professor in pediatrics and psychiatry at the University of Washington School of Medicine. He states:\nNeurodevelopmental therapies (such as speech, occupational, and physical therapies) are a critical component of treating autism. Often, these therapies are the only specialized medical interventions provided to young children with autism. In Washington [S\u00edtate, it is a standard medical practice to have young children suspected of having autism evaluated by neurodevelopmental therapists, and if such evaluations reveal significant delays, treated with speech, occupational and physical therapy.\nDr. Cowan additionally states:\n[T]he medical community has embraced the conclusion that neurodevelopmental therapies treat ASD as well as many other developmental disorders. Like insulin therapy for diabetics, neurodevelopmental therapies address the fundamental symptoms of the conditions and can dramatically improve those symptoms. The purpose of neurodevelopmental therapies ... is to attempt to restore a child\u2019s functional capacity to develop in a manner more consistent with the normal pattern of human development. With these therapeutic interventions, a child with ASD may be restored to the normal curve of developmental milestones, or as near normal as possible.\n\u00b630 Despite Regence BlueShield\u2019s contention, there is no genuine issue preventing summary judgment \u2014 reasonable minds could not differ when viewing the evidence in the light most favorable to the defendant. Neurodevelopmental therapies may be medically necessary under Regence Blue-Shield\u2019s broad definition of the term because neurodevelopmental therapies treat the symptoms of autism (a mental disorder recognized in the DSM-IV-TR). Therefore, blanket exclusion of these therapies violates the mental health parity act.\nCONCLUSION\n\u00b631 We affirm the trial court\u2019s order of partial summary-judgment. Regence BlueShield\u2019s blanket exclusion of neurodevelopmental therapies in its individual policies violates the mental health parity act. If neurodevelopmental therapies are medically necessary to treat mental disorders (and the contract provides coverage for medical and surgical services), Regence BlueShield must provide coverage for the therapies. The exclusion is void and invalid as a matter of Washington law.\nMadsen, C.J., and C. Johnson, Owens, Fairhurst, Stephens, Gonz\u00e1lez, Gordon McCloud, and Yu, JJ., concur.\nThese therapies were subsidized by the Boyer Children\u2019s Clinic. At the age of three, O.S.T. was no longer eligible for the subsidy.\n2 This is the date the mental health parity act became applicable to individual health plans. See Laws op 2007, ch. 8, \u00a7 1.\nRegence BlueShield argues that there is no justiciable issue before the court, so a declaratory judgment would be inappropriate. We reject this argument. O.S.T. and L.H. are both diagnosed with mental disorders recognized in the DSM-IV-TR, Regence BlueShield insures both of them on individual plans, both of their contracts contain blanket exclusions for neurodevelopmental therapies, and both need neurodevelopmental therapies. Regence BlueShield has denied coverage to O.S.T. While Regence BlueShield has not denied claims for L.H., the risk of it doing so is more than merely hypothetical or speculative. Diversified Indus. Dev. Corp. v. Ripley, 82 Wn.2d 811, 814-15, 514 P.2d 137 (1973).\nThe legislature also found:\nTreatable mental disorders are prevalent and often have high impact on health and productive life. The legislature finds that the potential benefits of improved access to mental health services are significant. Additionally, the legislature declares that it is not cost-effective to treat persons with mental disorders differently than persons with medical and surgical disorders.\nTherefore, the legislature intends to require that insurance coverage be at parity for mental health services, which means this coverage be delivered under the same terms and conditions as medical and surgical services.\nLaws of 2005, ch. 6 \u00a7 1.\n5 Originally, the mental health parity act covered only group health benefit plans for groups of more than 50 employees. Laws of 2005, ch. 6, \u00a7 4. However, in 2007, the legislature expanded the scope of the mental health parity act to cover all health benefit plans. Laws of 2007, ch. 8, \u00a7 3.\n6 RCW 48.44.341(2)(e)(i) continues:\nThe copayment or coinsurance for mental health services may be no more than the copayment or coinsurance for medical and surgical services otherwise provided under the health benefit plan. Wellness and preventive services that are provided or reimbursed at a lesser copayment, coinsurance, or other cost sharing than other medical and surgical services are excluded from this comparison. If the health benefit plan imposes a maximum out-of-pocket limit or stop loss, it shall be a single limit or stop loss for medical, surgical, and mental health services ....\nThe legislature expressly excluded certain services from the definition of \u201cmental health services.\u201d See RCW 48.44.341(1) (\u201c(a) Substance related disorders; (b) life transition problems . . . ; (c) skilled nursing facility services, home health care, residential treatment, and custodial care; and (d) court ordered treatment unless the health care service contractor\u2019s medical director or designee determines the treatment to be medically necessary\u201d).\nBecause the statutory language is unambiguous, we find it unnecessary to inquire into legislative history or failed, subsequent bills. See Campbell & Gwinn, LLC, 146 Wn.2d at 12.\nRegence BlueShield asks us to attach significance to the fact that the Washington State Office of the Insurance Commissioner (OIC) has never disapproved Regence BlueShield\u2019s NDT exclusion. We decline to do so. Assuming that this constitutes an agency interpretation, we afford the agency interpretation deference only if the interpretation is not contrary to the plain language of the statute. Port of Seattle v. Pollution Control Hr\u2019gs Bd., 151 Wn.2d 568, 612, 90 P.3d 659 (2004). According to the plain language of the mental health parity act, insurers must provide coverage for mental health services, including neurodevelopmental therapies, if they are medically necessary to treat mental disorders recognized in the DSM-IV-TR. RCW 48.44.341. Regence BlueShield\u2019s exclusion was contrary to the plain language of the mental health parity act, and OIC\u2019s action (or inaction) is irrelevant.\nDr. Gifford also states that neurodevelopmental therapies do not actually treat the autism. He does not consider treatment to include services that improve the function of the beneficiary. However, such services meet Regence BlueShield\u2019s definition of \u201cmedically necessary.\u201d",
+        "type": "majority",
+        "author": "Wiggins, J."
+      }
+    ],
+    "attorneys": [
+      "Timothy J. Parker, Jason W. Anderson, and Gregory M. Miller (of Carney Badley Spellman PS), for petitioner.",
+      "Eleanor Hamburger and Richard E. Spoonemore (of Sirianni Youtz Spoonemore Hamburger), for respondents."
+    ],
+    "corrections": "",
+    "head_matter": "[No. 88940-6.\nEn Banc.]\nArgued June 12, 2014.\nDecided October 9, 2014.\nO.S.T. et al., Individually and on Behalf of All Similarly Situated Individuals, Respondents, v. Regence BlueShield, Petitioner.\nTimothy J. Parker, Jason W. Anderson, and Gregory M. Miller (of Carney Badley Spellman PS), for petitioner.\nEleanor Hamburger and Richard E. Spoonemore (of Sirianni Youtz Spoonemore Hamburger), for respondents."
+  },
+  "file_name": "0691-01",
+  "first_page_order": 733,
+  "last_page_order": 749
+}

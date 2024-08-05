@@ -1,0 +1,78 @@
+{
+  "id": 12457137,
+  "name": "Selkowitz, Petitioner, v. Litton Loan Servicing, LP, et al., Respondents",
+  "name_abbreviation": "Selkowitz v. Litton Loan Servicing, LP",
+  "decision_date": "2016-06-29",
+  "docket_number": "No. 92865-7",
+  "first_page": "1037",
+  "last_page": "1037",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "185 Wash. 2d 1037"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Wash.",
+    "id": 9029,
+    "name": "Washington Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 38,
+    "name_long": "Washington",
+    "name": "Wash."
+  },
+  "cites_to": [
+    {
+      "cite": "191 Wn. App. 1025",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        12461074,
+        12461075,
+        12461076,
+        12461077
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/191/1025-01",
+        "/wash-app/191/1025-02",
+        "/wash-app/191/1025-03",
+        "/wash-app/191/1025-04"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 33,
+    "char_count": 221,
+    "ocr_confidence": 0.868,
+    "sha256": "f676e60d63058462b0347f3f4d8dadd6ece8ac263285015fb834f33633d4e8dd",
+    "simhash": "1:a53e16574369d570",
+    "word_count": 36
+  },
+  "last_updated": "2024-02-28T00:06:59.447104+00:00",
+  "provenance": {
+    "date_added": "2019-05-22",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Selkowitz, Petitioner, v. Litton Loan Servicing, LP, et al., Respondents,"
+    ],
+    "opinions": [
+      {
+        "text": "Petition for review of a decision of the Court of Appeals, No. 72505-0-1, November 23, 2015, 191 Wn. App. 1025. Denied June 29, 2016.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Selkowitz, Petitioner, v. Litton Loan Servicing, LP, et al., Respondents,\nNo. 92865-7."
+  },
+  "file_name": "1037-01",
+  "first_page_order": 989,
+  "last_page_order": 989
+}

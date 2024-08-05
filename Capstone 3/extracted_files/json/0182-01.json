@@ -1,0 +1,302 @@
+{
+  "id": 8720257,
+  "name": "First National Bank v. Evans",
+  "name_abbreviation": "First National Bank v. Evans",
+  "decision_date": "1923-05-28",
+  "docket_number": "",
+  "first_page": "182",
+  "last_page": "189",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "159 Ark. 182"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [
+    {
+      "cite": "28 Ark. 35",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1884396
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/28/0035-01"
+      ]
+    },
+    {
+      "cite": "135 Ark. 353",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1571598
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/135/0353-01"
+      ]
+    },
+    {
+      "cite": "131 Ark. 273",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1578665
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/131/0273-01"
+      ]
+    },
+    {
+      "cite": "30 Ark. 69",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1881174
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/30/0069-01"
+      ]
+    },
+    {
+      "cite": "25 Ark 311",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1864454
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/25/0311-01"
+      ]
+    },
+    {
+      "cite": "7 Ark. 492",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        8727736
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/7/0492-01"
+      ]
+    },
+    {
+      "cite": "4 Ark. 150",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        8728475
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/4/0150-01"
+      ]
+    },
+    {
+      "cite": "83 Am. Dec. 206",
+      "category": "reporters:federal",
+      "reporter": "Am. Dec.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "79 Am. Dec. 147",
+      "category": "reporters:federal",
+      "reporter": "Am. Dec.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "28 Am. Dec. 565",
+      "category": "reporters:federal",
+      "reporter": "Am. Dec.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "17 Johns. 128",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "case_ids": [
+        6064791
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/johns/17/0110-01"
+      ]
+    },
+    {
+      "cite": "9 Johns. 108",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "case_ids": [
+        372233
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/johns/9/0108-01"
+      ]
+    },
+    {
+      "cite": "40 Am. Dec. 240",
+      "category": "reporters:federal",
+      "reporter": "Am. Dec.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "23 L. R. A. 258",
+      "category": "reporters:federal",
+      "reporter": "L.R.A.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "75 Ark. 336",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1502512
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/75/0336-01"
+      ]
+    },
+    {
+      "cite": "85 N. Y. 130",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2182394
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny/85/0130-01"
+      ]
+    },
+    {
+      "cite": "19 S. E. 143",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "40 S. C. 486",
+      "category": "reporters:state",
+      "reporter": "S.C.",
+      "case_ids": [
+        366331
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/sc/40/0486-01"
+      ]
+    },
+    {
+      "cite": "123 Ark. 82",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1556236
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/123/0082-01"
+      ]
+    },
+    {
+      "cite": "21 Wash. 273",
+      "category": "reporters:state",
+      "reporter": "Wash.",
+      "case_ids": [
+        5138466
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash/21/0273-01"
+      ]
+    },
+    {
+      "cite": "71 Iowa 315",
+      "category": "reporters:state",
+      "reporter": "Iowa",
+      "case_ids": [
+        2053692
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/iowa/71/0315-01"
+      ]
+    },
+    {
+      "cite": "7 Mass. 34",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        1999541
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/7/0029-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 636,
+    "char_count": 13982,
+    "ocr_confidence": 0.472,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.208516789975014
+    },
+    "sha256": "76a3d21e9c67bb75463bd20e3d83ef7a148c72d095b5972892f7871ad2127b12",
+    "simhash": "1:ae013960c5671470",
+    "word_count": 2506
+  },
+  "last_updated": "2024-02-27T18:54:00.643605+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "First National Bank v. Evans."
+    ],
+    "opinions": [
+      {
+        "text": "McCulloch, C. J.\nThis case involves the priority of claims of the respective parties to crops of wheat and oats, both claims arising just after the crops were planted, and while immature. The claim of appellant is based on a chattel mortgage executed by the owner of the crop, a tenant on the farm of a third person, and the claim of appellee is based on the levy of an execution on said crops while immature, the writ being issued by a justice of the peace. In other words, the controlling question is whether growing immature crops are subject, to levy and sale under execution issued by a justice of the peace. The crops were planted about the middle of October, 1921. The execution was issued and placed in the hands of the officer on November 23, 1921, and the mortgage was executed to appellant on November'29, 1921, .by the tenant who planted the crop.\nIt seems to have been the rule at common, law that growing crops, whether mature or immature, requiring periodical cultivation and technically classed as \u201cfruits of industry,\u201d were subject to levy and sale under execution as personal property, and a majority of the American cases declare that to be the correct rule of law. The rule is based on the theory that such crops are chattels, not forming a part of the realty, and, on the death of the owner, descend to the administrator and not to the heir. Many cases on this subject are collated in 15 Standard Proc. 892. Many of the decisions classed among those announcing that rule are based upon local statutes, and many of them merely declare the rule as applicable to the operation of the statute of frauds in the sale of such property. It must be conceded, however, that a majority of the eases declare it to be the rule that such crops are subject to sale under execution as chattels, but there are decisions to the contrary, and they appeal to us as being more reasonable and in harmony with our own statutes and decisions.\nIn Penhallow v. Dwight, 7 Mass. 34, the court draws a sharp distinction between mature and immature crops with respect to the right to levy an execution thereon, and holds that immature crops are not subject to execution because they cannot be immediately severed from the soil. The court in that case said:\n\u201cAnd we have no doubt that corn, or any other product of the soil, raised annually, by labor and cultivation, is personal estate, and would go to the executor and not to the heir, on the decease of the proprietor. It is therefore liable to be seized on execution, and may be sold as other personal estate. An entry for the purpose of taking unripe corn or other produce, which would yield nothing, but in fact be wasted 'and destroyed by the very act of severing it from the soil, would not be protected by this decision. \u201d\nIn Ellithorpe v. Reidesil, 71 Iowa 315, it was held that immature crops are not subject to levy under execution, and the court said:\n\u201cThere is no pretense that the constable had any authority or power to levy on or sell any interest in the real estate. Nor is it claimed that he did so. The whole proceeding was on the theory that the crops were personal property, and could be. levied on and sold as such. But while they remained immature, and were being-nurtured by the -soil, they were attached to and constituted part of the realty. They could no more he levied upon and sold on execution as personalty than could the trees growing upon the premises.. This doctrine is elementary, and it has frequently been declared by this court. \u2019 \u2019\nThe same doctrine is declared in the case of Tipton v. Martzell, 21 Wash. 273. The decision in that case was based primarily on the ground that the crop was being grown by a share-cropper, and that a sale would conflict with the contract between the rights of the landlord, but the court recognized the general rule that the immature crop, while still being nurtured by the soil, was a part thereof, and could not be sold while in that condition.\nThe reason which appeals to us as favoring the latter rule is that a sale of chattels under execution contemplates an immediate separation - from the- estate of the judgment debtor and a delivery to the purchaser, and it is obvious that this cannot be done where the growing-crop is immature and n-ot ready to be -severed from the soil. It requires time and, in most instances, additional labor to bring the crop to maturity, hence the mere right of ingress and egress for the purpose of severing the crop does not eliminate the impediments to the sale.\nThe common law of England has been adopted as a part of the laws of this State to the extent that \u201cthe same is applicable and of a general .nature\u201d and \u201cnot inconsistent with the Constitution 'and laws of the United States and\u2019the Constitution and laws of this State.\u201d Crawford & Moses\u2019 Digest, \u00a7 1432. We are of the opinion, however, that the common-law rule with respect to sales of crops under execution is impliedly in conflict with our statute which provides that leasehold estates shall not he subject to sale under execution issued by a justice of the peace. Crawford & Moses\u2019 Digest, \u00a7 4271. It may be that sales of immature crops under executions issued from courts of record may. be upheld on the ground that such a sale of the crop is to that extent a sale of the lease, but this cannot be so with reference to a sale under an execution issued by a justice of the peace. A sale under such an execution can confer no rights with respect to real estate or anything appurtenant thereto, and the right to enter upon land for the purpose of cultivating crops to maturity necessarily affects the land as much so as the removal of things which are appurtenant to and constitute a part of the land itself. It is otherwise, of course, where the crops are matured and only remain to be severed, for in such case the matured crop is in no different class than any other chattel situated on the land.\nOur conclusion therefore is that it is inconsistent with our own statutes to hold that immature crops can be sold under an execution from a justice of the peace. There are other questions involved in this case, but as the one now decided is conclusive, it is unnecessary to discuss the others.\nThe judgment is therefore reversed, and the cause is remanded, with directions to enter a decree in favor of appellant for the proceeds of the sale of the mortgaged crop, which is being held by agreement to await the decision in this case.",
+        "type": "majority",
+        "author": "McCulloch, C. J."
+      },
+      {
+        "text": "Smith, J.,\n(dissenting). The majority say that it seems to have been the rule at common law that growing crops, whether mature or immature, requiring periodical cultivation and technically classed as \u201cfruits of industry,\u201d were subject to levy and sale under execution as personal property, and that the majority of the American cases declare that to he the correct rule of law, yet this court has refused to follow that rule, notwithstanding the fact that it accords with both the common law and the weight of the American cases.\nThe majority say that many cases on the subject are collated in 15 Standard Encyclopedia of Procedure, page 892. So there are \u2014 two columns of them on that page, and the only discordant cases are the ones quoted from, and followed by the majority. The text on pages 892 and 893 of that authority to which the cases referred to are appended reads as follows:\n\u201cFructus Industriales. \u2014 'Generally annual produce and crops raised by industry, fructus industriales, are subject to levy and\u2019 sale under execution as personal property; where a growing crop of peaches or other fruit requiring periodical cultivation is regarded as fructus industriales, it is subject to levy, though the weight of authority places fruit trees and their fruit in the class known at fructus naturales, which are not leviable. By statutes in some States a crop is not subject to execution until it has matured. And in other jurisdictions, independent of statute, it is held that immature crops are not subject to levy under execution as personalty.\u201d\nIn 1 Freeman on Executions (3rd ed.), at page 439, it is said: \u201cA growing crop, raised annually by labor and cultivation, is, as respects an execution against the owner, a mere chattel, and subject as such to be taken and sold. A purchaser, on such sale, acquires the right and interests of the defendant in execution to the crop, with the right of ingress, egress, and regress, for the purpose of gathering it and carrying it away. When a product of the soil is claimed not to be subject to seizure and sale under a fieri facias, the claim must be determined by ascertaining, whether such product is real or personal estate; and this last.question is, in turn, to be settled by inquiring whether the product is chiefly the result of roots permanently attached to the soil, or of the labor and skill of the defendant in sowing and cultivating the soil.\u201d\nI do not stop to consider which is the better rule, for I do not think we properly get to that question. I recognize the right of the court to follow the majority or the minority rule if that question only was involved; but the question is not merely whether we will follow the majority or the minority rule; the real question is whether we will follow the common-law rule, and this is not a question about which we have the right to exercise our judgment or discretion, .as the common-law rule is not inconsistent with the Constitution or laws of this State, and has not been altered or repealed by any statute of the State.\nThe majority cites no statute changing the common-law rule on this subject, but do cite a statute which they say impliedly changes it. To show the lack of application of this statute I quote it:\n\u201cSec. 4271. Every unexpired lease of land shall be subject to execution and sale as real estate; but shall not be subject to sale under any execution issued by a justice of the peace; neither shall an improvement on public lands be sold under an execution issued by a justice of the peace.\u201d C. & M. Digest.\nIf this statute has any application at all to the question at issue \u2014 and I think St does not \u2014 it gives support to the common-law and the majority rule. It makes an unexpired lease subject to sale as real estate, and, being subject to sale, as such may not be sold under an execution issued by a justice of the peace.\n\u201cA term of years in real estate was always, by the common law, regarded as a chattel.\u201d Freeman on Executions (3rd, ed.), \u00a7 119.\nOur statute, quoted above, provides that a leasehold is to be sold, not as a chattel, but as real estate. The statute quoted does not purport to deal with growing crops, which, were subject to execution because they were \u201cfruits of industry,\u201d and they still are fruits of industry, and they grow not only on leaseholds but on other lands as well. A leasehold under the statute is sold as real \u00a1.estate, whether there is a growing crop thereon or not; yet, under the opinion of the majority, growing crops are exempted, whether they grow on leaseholds or other lands, simply because leaseholds are made subject to sale as real estate.\nIn other words, the court departs from the common-law rule because leaseholds upon which there might be no crop or a matured crop, if one at all,' are required to be sold as real estate, and now holds that growing crops cannot be levied upon, whether grown upon leaseholds or not. Non sequitur.\nI find no authority for this ruling under the section of the statute quoted above.\nIn my opinion we should follow the majority rule, not simply because it is the majority rule, but because it is also the common law on the subject, and has not been changed 'by the statute quoted above.",
+        "type": "dissent",
+        "author": "Smith, J.,"
+      }
+    ],
+    "attorneys": [
+      "F. G. Taylor, for appellant.",
+      "G. T. Bloodworth and Ftthr & Futrell, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "First National Bank v. Evans.\nOpinion delivered May 28, 1923.\nExecution \u2014 growing CROPS. \u2014 Growing immature crops are not subject to levy and sale under execution issued by a justice of the peace.\nAppeal from Clay Chancery Court, Western District; Archer Wheatley, Chancellor;\nreversed.\nF. G. Taylor, for appellant.\nThe justice\u2019s execution created no lien on the crop till levied on May 24, 1922, before which time the tenant had executed .a mortgage thereon Nov. 29, which was filed on Dec. 1, 1921. No docket entries of issuance and renewal of execution. Secs. 6483, 6489, 6490, C. & M. Digest. Appellant had no knowledge .whatever of the execution until after the levy on May 24, 1922, and its mortgage is a superior lien. 17 Cyc. 1051-2, note 10. If a lien was created by delivery of the execution to the constable, it could not continue beyond return without a levy nor be revived by renewal. 123 Ark. 82; 23 \u00bbC. J. 495, \u00a7 343, and note 10. Renewed execution creates new lien instead of continuing old one. 40 S. C. 486, 19 S. E. 143; 85 N. Y. 130. Growing immature crops not subject to execution issued by justice of the peace. Sec. 6495, O. & M. Digest. 75 Ark. 336. Appellant should have a. decree here for proceeds of the sale of the mortgaged crops.\nG. T. Bloodworth and Ftthr & Futrell, for appellee.\nThe crops sold were subject to lien of the execution from its issuance and also from its renewal, and the lien of an execution extends to growing crops separate and apart from the soil. 1 Freeman on Executions, \u00a7 113; 23 L. R. A. 258, and notes; Benjamin on Sales, 126. A purchaser at execution sale acquires the right to gather the crops at maturity-. 40 Am. Dec. 240; 9 Johns. 108; 17 Johns. 128; 28 Am. Dec. 565; 79 Am. Dec. 147; 83 Am. Dec. 206. The 'burden was on appellant to show the execution had not been issued and renewed, as the law requires, the presumption being that the official discharged his duty. 4 Ark. 150; 7 Ark. 492; 25 Ark 311; 30 Ark. 69; 131 Ark. 273; 135 Ark. 353. In 28 Ark. 35 it was held that an execution in the hands of the constable constituted a lien on all the debtor\u2019s property in the township from which it was issued, and the sections of G-ould\u2019s Digest under which it was held have been reenacted in the Code. See 123 Ark. 82; 75 Ark. 336 not as authority against appellee\u2019s contention."
+  },
+  "file_name": "0182-01",
+  "first_page_order": 208,
+  "last_page_order": 215
+}

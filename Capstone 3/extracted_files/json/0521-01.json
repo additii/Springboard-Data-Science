@@ -1,0 +1,157 @@
+{
+  "id": 1357159,
+  "name": "Scott v. Columbia Compress Company",
+  "name_abbreviation": "Scott v. Columbia Compress Co.",
+  "decision_date": "1923-03-19",
+  "docket_number": "",
+  "first_page": "521",
+  "last_page": "524",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "157 Ark. 521"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [
+    {
+      "cite": "42 Ark. 200",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        8722764
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/42/0200-01"
+      ]
+    },
+    {
+      "cite": "97 Ark. 287",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1318848
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/97/0287-01"
+      ]
+    },
+    {
+      "cite": "56 S. E. 974",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "9 A. L. R. 569",
+      "category": "reporters:specialty",
+      "reporter": "A.L.R.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "233 S. W. 825",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "203 S. W. 19",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "101 Ark. 75",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1310975
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/101/0075-01"
+      ]
+    },
+    {
+      "cite": "134 Ark. 76",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1573303
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/134/0076-01"
+      ]
+    },
+    {
+      "cite": "100 Ark. 75",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "68 Ark. 284",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1334043
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/68/0284-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 335,
+    "char_count": 6253,
+    "ocr_confidence": 0.503,
+    "pagerank": {
+      "raw": 1.2887055823850346e-07,
+      "percentile": 0.6192909316334659
+    },
+    "sha256": "9334e0f5c4f76c9c22f3d6b6a8a32a0000dc06b482a4eaace514a742b397e034",
+    "simhash": "1:fa8eb7a0b88a579d",
+    "word_count": 1065
+  },
+  "last_updated": "2024-02-27T20:13:54.858580+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Scott v. Columbia Compress Company."
+    ],
+    "opinions": [
+      {
+        "text": "McCulloch, C. J.\nAppellee is a corporation engaged in the business of compressing cotton and storing cotton for hire at Magnolia, Arkansas, and it received from appellant, for storage, two bales of cotton, and executed a receipt therefor, stipulating that the cotton would \u201cbe delivered to bearer only upon return of this receipt and payment of all charges,\u201d and the receipt also contained a stipulation exempting the company from liability for loss or injury on account of \u201caccidents, concealed damages, water packs, acts of Providence, acts of the public enemy, or for damage or loss by fire, even when caused by negligence-.\u201d Appellee failed to redeliver the cotton to appellant on demand, and this suit was instituted to recover the value of the cotton. There was a trial before a jury, which resulted in a verdict in favor of appellee.\n\u2022The testimony adduced by appellee tended to show that the cotton belonging to appellant was destroyed by fire when one of the buildings, the one in which this particular cotton was stored, was destroyed by fire.\nAppellee also introduced testimony tending to show that it had exercised due care to protect the cotton and to prevent the occurrence of fire, and that the cotton was not lost on account of any negligence on the part of appellee or its servants. In other words, appellee, in its testimony, accounted for the cotton and showed that- it was destroyed by fire without negligence on the part of appellee.\nThere was, however, testimony introduced by appellant which tended to show that the cotton was not in the particular building that was destroyed by fire, and, if the jury accepted this testimony as true, there might have been a finding that appellee had failed to account for the loss of the cotton, and was therefore in default in failing to redeliver the cotton on demand.\nThe issues as to the loss of the cotton was submitted to the jury upon instructions requested at the instance of the respective parties.\nThe court instructed the jury that the stipulation in the receipt against liability arising from negligence was void, and that, if the property was lost through any act of negligence of appellee or its servants, appellee would be liable for the value of the cotton.\nThe instructions given by the court told the jury, in substance, that the 'burden of proof rested upon appellee to account for the loss of the cotton, 'but that, if it was shown that it was destroyed by fire, the burden was upon appellant to establish negligence on the part of appellee or its servants in permitting the cotton to be thus destroyed. These instructions were in accordance with repeated decisions of this court. James v. Orrell, 68 Ark. 284; Bertig v. Norman, 100 Ark. 75; Phoenix Cotton Oil Co. v. Pettus, 134 Ark. 76.\nThe refusal of the court to give the following instruction, requested by appellant, is assigned as error:\n\u2022 \u201c2. You are instructed that if you find from the evidence that the receipt issued plaintiff when he delivered the cotton in question to defendant was written by defendant or by some one for it at its request, then it should be construed more strongly against the defendant.\u201d\nThe refused instruction correctly stated an abstract proposition of law, but the refusal to give it was not prejudicial, for the reason that the court correctly interpreted the contract, and there was no ambiguity in it.\nAgain, it is contended that the court erred in refusing to give the following instruction:\n\u201c6.. The receipt in this case constituted the contract between plaintiff and defendant, and if you find from a preponderance of the evidence that there was a contract between plaintiff and defendant, and under that contract the defendant was bailee for hire, yon are instructed that, if the plaintiff has shown that the defendant is unable to comply with its part of the contract by returning the cotton to plaintiff when called for, the plaintiff should recover, unless the defendant is able to explain the loss why it is unable to return the property.\u201d\nThis instruction was substantially covered by the preceding one, No. 5.\nThere are other assignments in regard to the court\u2019s charge, which we do not deem of sufficient importance to discuss. We are of the opinion that the charge was correct, and that the issues have been settled against appellant upon legally sufficient evidence and correct charge concerning the law.\nJudgment affirmed.",
+        "type": "majority",
+        "author": "McCulloch, C. J."
+      }
+    ],
+    "attorneys": [
+      "Joe Joiner, for appellant.",
+      "MoKay & Smith, C. A. Cunningham', of counsel for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Scott v. Columbia Compress Company.\nOpinion delivered March 19, 1923.\n1. Bailment \u2014 burden op proof. \u2014 The burden is on the bailee of cotton for hire to account for the loss thereof, but when it is shown that it was destroyed by fire the burden is upon the bailor to establish negligence on the part of the bailee or its servants in permitting the cotton to be thus destroyed.\n2. Appeal and error \u2014 harmless error. \u2014 Refusal of the court to charge that if a contract of bailment was written or caused to be written by the bailee, it should be construed more strongly against it, although the instruction was correct as an abstract proposition, was not prejudicial when the contract was not ambiguous, and was correctly interpreted by the court.\n3. \u2019 Trial \u2014 refusal op instruction already given. \u2014 The refusal of an- instruction substantially covered in a given instruction was not error.\nAppeal from Columbia Circuit Court; G. W. Smith, Judge;\naffirmed.\nJoe Joiner, for appellant.\nThe court erred in refusing to give instruction No. 2, telling the jury the receipt, being in writing, should be construed more strongly against the maker, and also instruction No. 6 requested. Bertig v. Norman, 101 Ark. 75; Phoenix Cotton Oil Co. v. Pettus & Buford, 203 S. W. 19; Hornor Transfer Co. v. Abrams, 233 S. W. 825, Should not have instructed that \u201cthe fire raises no presumption of negligence\u201d nor given instruction No. 3. Note 9 A. L. R. 569. Fleischman v. Southern R. Co., 56 S. E. 974.\nMoKay & Smith, C. A. Cunningham', of counsel for appellee.\nRefused instruction No. 2 abstract, .and No. 6 covered by others. Instructions 2 and 3, given at appellee\u2019s request, correctly state the law. Kansas City Southern Ry. Co. v. Thomas, 97 Ark. 287; Little Rock & Ft. Smith Ry. Co. v. Hunter, 42 Ark. 200. Notes 9 Am. Law Reports 559; 16 Am. Law Report 280."
+  },
+  "file_name": "0521-01",
+  "first_page_order": 543,
+  "last_page_order": 546
+}
